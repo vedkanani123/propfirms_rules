@@ -1,0 +1,1570 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BrightFunded - Complete Interactive Research Dashboard (2026-10-11)</title>
+<meta name="description" content="Independent, evidence-backed deep research on BrightFunded: plans, pricing, drawdown, payout rules, breach conditions, coupons, company data and unresolved questions. Standalone offline HTML.">
+<meta name="robots" content="noindex">
+<style>
+:root{
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
+  --radius:14px;--radius-sm:9px;--radius-lg:20px;--maxw:1280px;
+  --ok:#22c07a;--warn:#f0a637;--bad:#f0524d;--info:#4f8ef7;--purple:#a273f7;
+}
+html[data-theme="dark"]{
+  --bg:#0a0d14;--bg2:#0f141d;--panel:#131a25;--panel2:#182130;--panel3:#1e2939;
+  --border:#25303f;--border2:#2f3d50;--text:#e9eef7;--muted:#9aa8bd;--muted2:#71809a;
+  --accent:#4f8ef7;--accent-soft:rgba(79,142,247,.14);--shadow:0 10px 30px rgba(0,0,0,.45);--code-bg:#0b1017;
+}
+html[data-theme="light"]{
+  --bg:#f4f6fa;--bg2:#eef1f7;--panel:#fff;--panel2:#f7f9fc;--panel3:#eef2f8;
+  --border:#dde4ee;--border2:#c9d4e4;--text:#111827;--muted:#5a6a80;--muted2:#7d8ba0;
+  --accent:#1f66e0;--accent-soft:rgba(31,102,224,.10);--shadow:0 8px 26px rgba(19,38,66,.10);--code-bg:#f1f4f9;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:15.5px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+h1,h2,h3,h4,h5{line-height:1.25;margin:0 0 .4em}
+h1{font-size:clamp(1.5rem,4vw,2.15rem);letter-spacing:-.02em}
+h2{font-size:clamp(1.2rem,2.6vw,1.6rem);letter-spacing:-.015em}
+h3{font-size:1.06rem}
+p{margin:0 0 .9em}
+small{font-size:.8rem}
+code,kbd{font-family:var(--mono);font-size:.86em;background:var(--code-bg);border:1px solid var(--border);border-radius:6px;padding:.1em .42em}
+hr{border:none;border-top:1px solid var(--border);margin:1.6rem 0}
+::selection{background:var(--accent-soft)}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 16px}
+header.topbar{position:sticky;top:0;z-index:60;backdrop-filter:blur(10px);background:var(--bg);border-bottom:1px solid var(--border)}
+.topbar-in{display:flex;align-items:center;gap:12px;min-height:58px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:10px;font-weight:750;letter-spacing:-.02em;white-space:nowrap}
+.brand .dot{width:11px;height:11px;border-radius:50%;background:linear-gradient(135deg,#4f8ef7,#a273f7);box-shadow:0 0 12px rgba(79,142,247,.7)}
+.brand span.sub{font-weight:500;color:var(--muted);font-size:.76rem;letter-spacing:0}
+.topnav{display:flex;gap:4px;overflow-x:auto;scrollbar-width:thin;flex:1 1 320px;padding:2px 0}
+.topnav a{color:var(--muted);font-size:.82rem;padding:6px 10px;border-radius:999px;white-space:nowrap;border:1px solid transparent;text-decoration:none}
+.topnav a:hover{color:var(--text);background:var(--panel2);text-decoration:none}
+.tools{display:flex;gap:8px;align-items:center;margin-left:auto}
+button,.btn{font-family:inherit;font-size:.83rem;font-weight:600;color:var(--text);background:var(--panel2);border:1px solid var(--border2);border-radius:10px;padding:7px 12px;cursor:pointer;transition:.16s;display:inline-flex;align-items:center;gap:7px;text-decoration:none;white-space:nowrap}
+button:hover,.btn:hover{border-color:var(--accent);color:var(--text);text-decoration:none;transform:translateY(-1px)}
+button.primary,.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button.ghost{background:transparent}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+input[type=text],input[type=number],input[type=date],select{font-family:inherit;font-size:.87rem;color:var(--text);background:var(--panel);border:1px solid var(--border2);border-radius:9px;padding:8px 10px;width:100%}
+label.fl{display:block;font-size:.74rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;margin-bottom:5px}
+.chk{display:flex;align-items:center;gap:8px;font-size:.84rem;color:var(--muted);cursor:pointer}
+.chk input{width:auto;accent-color:var(--accent)}
+main{padding:22px 0 70px}
+section.card{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius-lg);padding:20px;margin-bottom:20px;box-shadow:var(--shadow);scroll-margin-top:76px}
+section.card>h2{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.secnum{font-size:.7rem;font-weight:800;color:var(--accent);background:var(--accent-soft);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);padding:2px 8px;border-radius:999px;letter-spacing:.06em}
+.lead{color:var(--muted);font-size:.93rem;max-width:90ch}
+.grid{display:grid;gap:12px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.g3{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(165px,1fr))}
+.pick{background:var(--panel2);border:1.5px solid var(--border);border-radius:var(--radius);padding:13px 14px;cursor:pointer;text-align:left;transition:.16s;position:relative;width:100%;font-family:inherit;color:var(--text);display:block}
+.pick:hover{border-color:var(--border2);background:var(--panel3);transform:translateY(-2px)}
+.pick[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft);box-shadow:0 0 0 1px var(--accent) inset}
+.pick .t{font-weight:700;font-size:.95rem;display:block}
+.pick .d{font-size:.78rem;color:var(--muted);display:block;margin-top:3px}
+.pick .price{font-weight:800;font-size:1.05rem;margin-top:7px;display:block}
+.pick .price s{color:var(--muted2);font-weight:600;font-size:.82rem;margin-left:6px}
+.badge{display:inline-block;font-size:.66rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:999px;border:1px solid var(--border2);color:var(--muted);background:var(--panel3)}
+.badge.acc{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,transparent);background:var(--accent-soft)}
+.badge.ok{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 45%,transparent);background:color-mix(in srgb,var(--ok) 13%,transparent)}
+.badge.warn{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,transparent);background:color-mix(in srgb,var(--warn) 13%,transparent)}
+.badge.bad{color:var(--bad);border-color:color-mix(in srgb,var(--bad) 45%,transparent);background:color-mix(in srgb,var(--bad) 13%,transparent)}
+.badge.hist{color:var(--purple);border-color:color-mix(in srgb,var(--purple) 45%,transparent);background:color-mix(in srgb,var(--purple) 13%,transparent)}
+.pick .flag{position:absolute;top:10px;right:10px}
+</style>
+</head>
+<body>
+<style>
+.stat{background:var(--panel2);border:1px solid var(--border);border-radius:var(--radius);padding:12px 13px}
+.stat .k{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.stat .v{font-size:1.22rem;font-weight:800;margin-top:5px;letter-spacing:-.02em;word-break:break-word}
+.stat .x{font-size:.75rem;color:var(--muted2);margin-top:3px}
+.stat.hl{border-color:color-mix(in srgb,var(--accent) 40%,transparent);background:var(--accent-soft)}
+.tblwrap{overflow-x:auto;border:1px solid var(--border);border-radius:var(--radius);background:var(--panel2)}
+table{border-collapse:collapse;width:100%;font-size:.86rem;min-width:520px}
+th,td{padding:9px 12px;text-align:left;border-bottom:1px solid var(--border);vertical-align:top}
+th{background:var(--panel3);font-size:.74rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:800}
+tr:last-child td{border-bottom:none}
+tbody tr:hover{background:var(--panel3)}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.note{border-left:3px solid var(--info);background:var(--panel2);padding:11px 14px;border-radius:0 var(--radius-sm) var(--radius-sm) 0;margin:12px 0;font-size:.87rem}
+.note.warn{border-left-color:var(--warn)}
+.note.bad{border-left-color:var(--bad)}
+.note.ok{border-left-color:var(--ok)}
+.note .nt{font-weight:800;display:block;margin-bottom:2px;font-size:.8rem;text-transform:uppercase;letter-spacing:.05em}
+details{border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--panel2);padding:0;margin:8px 0;overflow:hidden}
+summary{cursor:pointer;padding:11px 14px;font-weight:650;font-size:.89rem;list-style:none;display:flex;gap:9px;align-items:flex-start}
+summary::-webkit-details-marker{display:none}
+summary:before{content:"\25B8";color:var(--muted);transition:.15s;flex:0 0 auto}
+details[open] summary:before{transform:rotate(90deg)}
+details .body{padding:0 14px 13px 32px;font-size:.86rem}
+details .body p:last-child{margin-bottom:0}
+.rule{border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--panel2);margin-bottom:8px;overflow:hidden}
+.rule>.rh{display:flex;gap:10px;align-items:flex-start;padding:11px 13px;cursor:pointer;flex-wrap:wrap}
+.rule>.rh:hover{background:var(--panel3)}
+.rule .rn{font-weight:700;font-size:.9rem;flex:1 1 220px}
+.rule .rb{padding:0 13px 12px 13px;font-size:.85rem;border-top:1px dashed var(--border)}
+.rule .rb p{margin:.6em 0}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:.83rem;margin:.5em 0}
+.kv dt{color:var(--muted);font-weight:700}
+.kv dd{margin:0}
+.sev{display:inline-flex;align-items:center;gap:6px;font-size:.72rem;font-weight:800;padding:3px 9px;border-radius:999px;text-transform:uppercase;letter-spacing:.05em;border:1px solid;white-space:nowrap}
+.sev.hard{color:var(--bad);border-color:color-mix(in srgb,var(--bad) 50%,transparent);background:color-mix(in srgb,var(--bad) 14%,transparent)}
+.sev.soft{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 50%,transparent);background:color-mix(in srgb,var(--warn) 14%,transparent)}
+.sev.profit{color:var(--purple);border-color:color-mix(in srgb,var(--purple) 50%,transparent);background:color-mix(in srgb,var(--purple) 14%,transparent)}
+.sev.block{color:var(--info);border-color:color-mix(in srgb,var(--info) 50%,transparent);background:color-mix(in srgb,var(--info) 14%,transparent)}
+.sev.allow{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 50%,transparent);background:color-mix(in srgb,var(--ok) 14%,transparent)}
+.sev.cond{color:var(--muted);border-color:var(--border2);background:var(--panel3)}
+.pillrow{display:flex;gap:7px;flex-wrap:wrap;margin:10px 0}
+.pill{font-size:.74rem;font-weight:700;padding:4px 10px;border-radius:999px;background:var(--panel3);border:1px solid var(--border);color:var(--muted);cursor:pointer}
+.pill.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.calc{background:var(--panel2);border:1px solid var(--border);border-radius:var(--radius);padding:14px}
+.calc .fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+.out{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:10px}
+.out .o{background:var(--panel3);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 12px}
+.out .o .k{font-size:.71rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700}
+.out .o .v{font-size:1.06rem;font-weight:800;margin-top:3px;font-variant-numeric:tabular-nums;word-break:break-word}
+.bar{height:9px;border-radius:999px;background:var(--panel3);border:1px solid var(--border);overflow:hidden;margin-top:8px}
+.bar>i{display:block;height:100%;background:var(--accent);width:0;transition:.25s}
+.bar.ok>i{background:var(--ok)}.bar.warn>i{background:var(--warn)}.bar.bad>i{background:var(--bad)}
+.muted{color:var(--muted)}.small{font-size:.8rem}.mono{font-family:var(--mono)}.center{text-align:center}.right{text-align:right}
+.stack{display:flex;flex-direction:column;gap:10px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.spread{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}
+.hr-soft{border-top:1px dashed var(--border);margin:14px 0}
+.copied{color:var(--ok)!important;border-color:var(--ok)!important}
+.tl{border-left:2px solid var(--border2);margin-left:8px;padding-left:18px}
+.tl .ev{position:relative;margin-bottom:16px}
+.tl .ev:before{content:"";position:absolute;left:-25px;top:6px;width:11px;height:11px;border-radius:50%;background:var(--accent);border:2px solid var(--panel)}
+.tl .ev.h:before{background:var(--purple)}
+.tl .d{font-size:.75rem;font-weight:800;color:var(--accent);letter-spacing:.03em}
+.tl .ev.h .d{color:var(--purple)}
+.tl .t{font-weight:700;font-size:.9rem}
+.tl .x{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--border);padding:22px 0 44px;color:var(--muted);font-size:.82rem}
+.srclist{font-size:.82rem}.srclist li{margin-bottom:7px}
+.fab{position:fixed;right:14px;bottom:14px;z-index:70;display:flex;flex-direction:column;gap:8px}
+.hidden{display:none!important}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(80px);background:var(--panel3);border:1px solid var(--accent);color:var(--text);padding:9px 16px;border-radius:999px;font-size:.84rem;font-weight:650;z-index:200;transition:.25s;opacity:0;pointer-events:none;box-shadow:var(--shadow)}
+.toast.show{transform:translateX(-50%) translateY(0);opacity:1}
+.searchrow{display:grid;grid-template-columns:1.25fr .75fr;gap:12px;align-items:end}
+@media(max-width:760px){body{font-size:15px}section.card{padding:15px;border-radius:var(--radius)}.topnav{order:3;flex-basis:100%}table{min-width:440px}.kv{grid-template-columns:1fr}.kv dt{margin-top:6px}.searchrow{grid-template-columns:1fr}details .body{padding-left:16px}.brand span.sub{display:none}.topnav a{font-size:.78rem;padding:5px 8px}section.card>h2{font-size:1.05rem}}
+@media print{.topbar,.fab,.topnav,.tools,button,.btn{display:none!important}body{background:#fff;color:#000}section.card{break-inside:avoid;box-shadow:none;border-color:#ccc}details .body{display:block!important}a{color:#000;text-decoration:underline}:root{--panel:#fff;--panel2:#fff;--panel3:#f4f4f4;--text:#000;--muted:#333;--border:#ccc;--border2:#bbb}}
+</style>
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <div class="brand"><span class="dot"></span><span>BrightFunded Research<span class="sub"> &nbsp;independent deep-dive &middot; 2026-10-11</span></span></div>
+    <nav class="topnav" aria-label="Section navigation">
+      <a href="#s1">Programs</a><a href="#s2">Pricing</a><a href="#s3">Rules</a><a href="#s4">Phases</a>
+      <a href="#s5">Breaches</a><a href="#s6">Rulebook</a><a href="#s7">Payout calc</a><a href="#s8">Risk calc</a>
+      <a href="#s9">Consistency</a><a href="#s10">Coupons</a><a href="#s11">Company</a><a href="#s12">Timeline</a>
+      <a href="#s13">Questions</a><a href="#s14">Sources</a>
+    </nav>
+    <div class="tools">
+      <button id="themeBtn" type="button" title="Toggle dark / light theme">Theme</button>
+      <button id="printBtn" type="button" title="Print / save as PDF">PDF</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+<section class="card" id="top">
+  <h1>BrightFunded &mdash; Complete Interactive Research Dashboard</h1>
+  <p class="lead">An independent, evidence-backed investigation of the BrightFunded prop-trading programme: every publicly documented plan, price, drawdown formula, payout condition and breach rule, with source links and verification labels. Research date <strong>11 October 2026</strong>.</p>
+  <div class="note warn"><span class="nt">Not affiliated</span>This dashboard is an independent research artefact. It is <strong>not</strong> produced, endorsed or verified by BrightFunded. Brand names are used for identification only. Every figure is labelled with its verification status &mdash; read the labels.</div>
+  <div class="grid g4" id="heroStats"></div>
+  <div class="hr-soft"></div>
+  <div class="row">
+    <span class="badge ok">Verified &mdash; official rule/policy page</span>
+    <span class="badge acc">Officially advertised &mdash; marketing page only</span>
+    <span class="badge hist">Historical &mdash; older document, may not apply</span>
+    <span class="badge warn">Unverified / conflicting</span>
+  </div>
+  <p class="small muted" style="margin-top:10px">Legend: these four labels are used consistently throughout the dashboard. &ldquo;Verified&rdquo; means directly supported by a current official BrightFunded rule, help-centre or legal page &mdash; it does <em>not</em> mean an independent auditor confirmed it, and no checkout purchase was completed.</p>
+  <div class="hr-soft"></div>
+  <h3 style="margin-bottom:6px">Read this in 30 seconds</h3>
+  <div class="grid g4">
+    <div class="stat"><div class="k">Cheapest real route</div><div class="v">EUR 34.30</div><div class="x">1-Step $5K with RALLY30. But 1-Step has TRAILING drawdown - the strictest risk model.</div></div>
+    <div class="stat"><div class="k">Safest rule set</div><div class="v">2-Step Bright</div><div class="x">8% then 5% targets, 4% daily, 8% STATIC maximum loss. Lowest targets, fixed floor.</div></div>
+    <div class="stat"><div class="k">Biggest trap</div><div class="v">Trailing drawdown</div><div class="x">Floating profit raises your floor in real time. A reversed trade can breach you even at a profit.</div></div>
+    <div class="stat"><div class="k">Real default payout</div><div class="v">80%</div><div class="x">Not 90%. 90% needs a +20% fee add-on; 100% only after three scale-ups.</div></div>
+    <div class="stat"><div class="k">First payout</div><div class="v">Day 30</div><div class="x">From the first trade on the funded account, then every 14 days.</div></div>
+    <div class="stat"><div class="k">Good news</div><div class="v">No consistency rule</div><div class="x">Also no profit cap and no maximum withdrawal.</div></div>
+    <div class="stat"><div class="k">Read before buying</div><div class="v">12 open questions</div><div class="x">See section 13 - including a payout-minimum conflict and a country-list conflict.</div></div>
+    <div class="stat"><div class="k">Reputation flag</div><div class="v" style="color:var(--bad)">Trustpilot suppressed</div><div class="x">Rating removed for a guidelines breach. Underlying 3.3 / 570 reviews, 19.8% one-star.</div></div>
+  </div>
+</section>
+
+<section class="card" id="s1">
+  <h2><span class="secnum">01</span> Choose a program</h2>
+  <p class="lead">BrightFunded sells three evaluation models plus a free challenge. Every account bought <strong>before 13 April 2026</strong> keeps the older &ldquo;Original&rdquo; rules &mdash; those are kept in a separate historical group and are never shown as currently purchasable.</p>
+  <div class="pillrow" id="catTabs" role="tablist" aria-label="Program category"></div>
+  <div class="grid g3" id="planCards"></div>
+  <div id="planNote"></div>
+  <div class="hr-soft"></div>
+  <div class="spread">
+    <div class="small muted">Buy-date matters: rules changed on 22 Sep 2025, 1 Sep 2025, 3 Jan 2026 and 13 Apr 2026. Pick the date you bought (or plan to buy) the account.</div>
+    <div class="row"><label class="fl" for="buyDate" style="margin:0">Purchase date</label><input type="date" id="buyDate" style="max-width:190px" value="2026-10-11"></div>
+  </div>
+  <div id="buyDateEffect" style="margin-top:10px"></div>
+</section>
+
+<section class="card" id="s2">
+  <h2><span class="secnum">02</span> Account size &amp; pricing</h2>
+  <p class="lead">Select an account size. Prices are the amounts BrightFunded advertises on its own plan pages; the struck-through figure is the current &ldquo;Autumn Promo&rdquo; price. <strong>No checkout was completed</strong> for this research, so final cart totals are marked unverified.</p>
+  <div class="grid g3" id="sizeCards"></div>
+  <div class="hr-soft"></div>
+  <div id="priceDetail"></div>
+</section>
+
+<section class="card" id="s3">
+  <h2><span class="secnum">03</span> Rules for the selected account</h2>
+  <div class="spread">
+    <div class="small muted" id="ctxLabel"></div>
+    <div class="pillrow" style="margin:0" id="unitToggle" role="group" aria-label="Value unit">
+      <button class="pill on" type="button" data-unit="pct">Percentage&nbsp;%</button>
+      <button class="pill" type="button" data-unit="usd">Dollar&nbsp;$</button>
+    </div>
+  </div>
+  <div class="grid g4" id="rulesGrid" style="margin-top:12px"></div>
+  <div id="rulesNotes"></div>
+</section>
+
+<section class="card" id="s4">
+  <h2><span class="secnum">04</span> Evaluation phases</h2>
+  <p class="lead">Click a phase. Rules that differ between evaluation and funded stage are shown separately &mdash; the funded stage is where most restrictions actually bite.</p>
+  <div class="pillrow" id="phaseTabs" role="tablist"></div>
+  <div id="phaseBody"></div>
+</section>
+
+<section class="card" id="s5">
+  <h2><span class="secnum">05</span> Critical breach rules</h2>
+  <p class="lead">These are the conditions that can cost you the account or the payout. Each card states the exact threshold, a plain-English explanation, a worked example and the consequence. <strong>A soft breach is not a hard breach</strong> &mdash; the labels below are taken from BrightFunded&rsquo;s own wording.</p>
+  <div class="row" style="margin-bottom:10px">
+    <label class="chk"><input type="checkbox" id="onlyCritical" checked> Only show rules that can terminate the account or block a payout</label>
+  </div>
+  <div id="breachList"></div>
+</section>
+
+<section class="card" id="s6">
+  <h2><span class="secnum">06</span> Complete searchable rulebook</h2>
+  <p class="lead">Every documented rule, restriction, fee and condition in one filterable database. Type to search instantly. Click any rule to expand its full explanation, exact threshold, consequence and source.</p>
+  <div class="searchrow">
+    <div><label class="fl" for="ruleSearch">Search rules</label><input type="text" id="ruleSearch" placeholder="e.g. news, hedging, drawdown, payout, VPN, grid, KYC&hellip;" autocomplete="off"></div>
+    <div><label class="fl" for="ruleCat">Category</label><select id="ruleCat"></select></div>
+  </div>
+  <div class="spread" style="margin-top:10px">
+    <div class="small muted" id="ruleCount"></div>
+    <div class="row">
+      <label class="chk"><input type="checkbox" id="onlyCritical2"> Only critical rules</label>
+      <label class="chk"><input type="checkbox" id="onlyMine" checked> Only rules for my selected account</label>
+      <button type="button" id="clearSearch">Clear</button>
+    </div>
+  </div>
+  <div id="ruleList" style="margin-top:12px"></div>
+  <div class="row" style="margin-top:12px"><button type="button" id="csvBtn">Download rules as CSV</button><button type="button" id="jsonBtn">Download full research data (JSON)</button></div>
+</section>
+
+<section class="card" id="s7">
+  <h2><span class="secnum">07</span> Payout calculator</h2>
+  <p class="lead">A rules-based estimate using BrightFunded&rsquo;s published payout terms for the selected plan. It is <strong>not</strong> a promise of payment and it cannot see your dashboard, your contract or the risk team&rsquo;s internal review.</p>
+  <div class="calc">
+    <div class="fields">
+      <div><label class="fl" for="pcProfit">Gross eligible profit ($)</label><input type="number" id="pcProfit" value="5000" min="0" step="50"></div>
+      <div><label class="fl" for="pcBestDay">Highest profitable day ($)</label><input type="number" id="pcBestDay" value="800" min="0" step="50"></div>
+      <div><label class="fl" for="pcDays">Trading days completed</label><input type="number" id="pcDays" value="12" min="0" step="1"></div>
+      <div><label class="fl" for="pcProfDays">Profitable days completed</label><input type="number" id="pcProfDays" value="7" min="0" step="1"></div>
+      <div><label class="fl" for="pcDaysSince">Days since first funded trade</label><input type="number" id="pcDaysSince" value="40" min="0" step="1"></div>
+      <div><label class="fl" for="pcPrev">Previous payouts taken</label><input type="number" id="pcPrev" value="0" min="0" step="1"></div>
+      <div><label class="fl" for="pcSplit">Profit split</label><select id="pcSplit"></select></div>
+      <div><label class="fl" for="pcFreq">Payout frequency</label><select id="pcFreq"></select></div>
+      <div><label class="fl" for="pcFee">Third-party transfer fee ($)</label><input type="number" id="pcFee" value="10" min="0" step="1"></div>
+      <div><label class="fl" for="pcRefund">Fee-refund add-on purchased?</label><select id="pcRefund"><option value="no">No</option><option value="yes">Yes</option></select></div>
+    </div>
+    <div class="out" id="pcOut"></div>
+    <div id="pcVerdict" style="margin-top:12px"></div>
+    <details><summary>How this estimate is calculated (and its limits)</summary><div class="body" id="pcHow"></div></details>
+  </div>
+</section>
+
+<section class="card" id="s8">
+  <h2><span class="secnum">08</span> Drawdown &amp; risk calculator</h2>
+  <p class="lead">BrightFunded uses two different drawdown mechanisms &mdash; <strong>static</strong> (2-Step plans) and <strong>trailing / high-water-mark</strong> (1-Step and the Free $1K). The calculator changes behaviour with the plan you selected. Daily-loss floors are calculated the way BrightFunded documents them: <em>end-of-day highest of balance or equity, minus (daily % &times; original challenge size)</em>.</p>
+  <div class="calc">
+    <div class="fields">
+      <div><label class="fl" for="dcBalance">Current balance ($)</label><input type="number" id="dcBalance" value="100000" min="0" step="100"></div>
+      <div><label class="fl" for="dcEquity">Current equity ($)</label><input type="number" id="dcEquity" value="99500" min="0" step="100"></div>
+      <div><label class="fl" for="dcEod">Last rollover value &mdash; higher of balance/equity ($)</label><input type="number" id="dcEod" value="100000" min="0" step="100"></div>
+      <div><label class="fl" for="dcPeak">Highest equity ever reached ($)</label><input type="number" id="dcPeak" value="101500" min="0" step="100"></div>
+      <div><label class="fl" for="dcFloat">Current floating P/L ($, negative = loss)</label><input type="number" id="dcFloat" value="-500" step="50"></div>
+    </div>
+    <div class="out" id="dcOut"></div>
+    <div id="dcVerdict" style="margin-top:12px"></div>
+    <div class="hr-soft"></div>
+    <div><label class="fl" for="dcRisk">Example position risk ($ you would lose if your stop is hit)</label><input type="number" id="dcRisk" value="800" min="0" step="50"></div>
+    <div id="dcRiskOut" style="margin-top:10px"></div>
+    <details><summary>Formulas used, and what this calculator deliberately ignores</summary><div class="body" id="dcHow"></div></details>
+  </div>
+</section>
+
+<section class="card" id="s9">
+  <h2><span class="secnum">09</span> Consistency rule</h2>
+  <div id="consBody"></div>
+</section>
+
+<section class="card" id="s10">
+  <h2><span class="secnum">10</span> Coupons &amp; promotions</h2>
+  <p class="lead">Codes are split by how they were verified. Nothing here was validated by completing a purchase. An affiliate blog listing a code is <strong>not</strong> evidence that it still works.</p>
+  <div class="grid g2" id="couponGroups"></div>
+  <div class="hr-soft"></div>
+  <div id="promoRules"></div>
+</section>
+
+<section class="card" id="s11">
+  <h2><span class="secnum">11</span> Company &amp; reputation</h2>
+  <p class="lead">Who you are actually contracting with, what is and is not regulated, and what independent traders say. Company claims and independent evidence are kept visually separate.</p>
+  <div id="companyBody"></div>
+</section>
+
+<section class="card" id="s12">
+  <h2><span class="secnum">12</span> Rule-change timeline</h2>
+  <p class="lead">Prop firms change terms constantly. Every entry below has an effective date taken from BrightFunded&rsquo;s own documentation, or is flagged as undated. Entries marked <span class="badge hist">Historical</span> no longer apply to new purchases.</p>
+  <div class="tl" id="timeline"></div>
+</section>
+
+<section class="card" id="s13">
+  <h2><span class="secnum">13</span> Important questions before you buy</h2>
+  <p class="lead">Everything that could not be resolved from public sources, where two official documents disagree, or where a condition is stated but not fully explained. Nothing important is buried in a footnote here.</p>
+  <div id="unresolved"></div>
+  <div class="hr-soft"></div>
+  <h3>Copyable message to BrightFunded support</h3>
+  <p class="small muted">Copy this into live chat or email <code>support@brightfunded.com</code>. Nothing is sent automatically &mdash; this dashboard makes no network requests.</p>
+  <textarea id="supportMsg" readonly rows="12" style="width:100%;font-family:var(--mono);font-size:.78rem;background:var(--panel2);color:var(--text);border:1px solid var(--border2);border-radius:10px;padding:12px"></textarea>
+  <div class="row" style="margin-top:8px"><button type="button" id="copySupport" class="primary">Copy support message</button></div>
+</section>
+
+<section class="card" id="s14">
+  <h2><span class="secnum">14</span> Sources &amp; verification trail</h2>
+  <p class="lead">Every material claim in this dashboard traces to a page below. &ldquo;Official&rdquo; = published by BrightFunded. &ldquo;Independent&rdquo; = third party. All links were fetched and read on 11 October 2026 unless stated otherwise.</p>
+  <div id="sourceTable"></div>
+</section>
+
+</main>
+
+<div class="fab">
+  <button type="button" id="topBtn" title="Back to top">&uarr;</button>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>
+"use strict";
+/* =========================================================================
+   BrightFunded Research Dashboard - embedded research database
+   Research date: 2026-10-11. Every value carries a verification label.
+   Labels: verified | advertised | historical | unverified
+   ========================================================================= */
+const RESEARCH_DATE = "2026-10-11";
+
+const FIRM = {
+  brand: "BrightFunded",
+  website: "https://brightfunded.com/",
+  help: "https://help.brightfunded.com/en/",
+  app: "https://app.brightfunded.com/",
+  supportEmail: "support@brightfunded.com",
+  founded: "September 2023 (official launch; idea started January 2023)",
+  hq: "Dubai, United Arab Emirates (headquarters since January 2025). Additional offices Amsterdam and Warsaw.",
+  entityMain: "Bright Global FZCO, trading as BrightFunded - Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, UAE. Footer also lists 'Bright Global Computer Systems Software Design - FZCO', DSO-IFZA, IFZA Properties, Dubai Silicon Oasis.",
+  entities: [
+    {name:"Bright Global FZCO (trading as BrightFunded)", where:"Dubai Silicon Oasis, Dubai, UAE", role:"Operating / contracting brand entity named in the Terms & Conditions.", label:"verified"},
+    {name:"BrightFunded Ltd.", where:"Saint Lucia - company registration number 2025-00358", role:"Footer states the CFD simulated trading services are offered solely by BrightFunded Ltd.", label:"advertised"},
+    {name:"BrightFunded LLC", where:"Wyoming, USA - 2000 Cedar Bend Dr, Austin, TX 78758", role:"Footer states futures simulated trading and evaluation services are offered solely by this entity.", label:"advertised"},
+    {name:"Bright Transact Ltd.", where:"Cyprus - registration HE 478945, Limassol", role:"Described as an affiliated entity; role not further specified publicly.", label:"advertised"}
+  ],
+  regulated: false,
+  regulationNote: "BrightFunded states it is NOT regulated and that no licence is required under UAE law for its activity, because it provides simulated trading only and is neither a broker nor an asset manager. No financial-services licence was found. This is a self-declaration, not an independent verification.",
+  broker: "No. 'BrightFunded is not a broker, nor connected to one.' All accounts are demo accounts with simulated funds; there is no live market execution.",
+  restricted: ["Cuba","Iran","North Korea","Syria","Vietnam"],
+  restrictedExtra: ["Pakistan"],
+  restrictedNote: "The Terms & Conditions list Cuba, Iran, North Korea, Syria and Vietnam. The Help Centre additionally lists Pakistan, while adding that traders from Pakistan who already hold an active account may continue trading. This is an unresolved discrepancy (see section 13).",
+  platformRegion: "MT5 is not available to citizens/residents of the United States or the United Arab Emirates, or to restricted countries. cTrader is not available to US citizens/residents. DXtrade has no stated regional block beyond the restricted countries.",
+  selfReportedStats: [
+    {k:"Active traders",v:"40,000+"},{k:"Countries served",v:"155+"},{k:"Established",v:"2023"},
+    {k:"Traders funded (site)",v:"27,500+"},{k:"Paid in rewards (site reviews page)",v:"$13M+"},
+    {k:"Total payouts (company claim, Sep 2026 Trustpilot reply)",v:"$60M+ (unaudited)"},
+    {k:"Review-platform score shown on site",v:"4.5 'loved by 42.9K+' (method not disclosed)"}
+  ]
+};
+
+/* ---- Account sizes and prices ---------------------------------------- */
+const SIZES = [5000,10000,25000,50000,100000,200000];
+
+/* Base (pre-promo) USD list prices, verified against the public purchase API
+   GET api.prod-1.brightfunded2.com/purchases/1/definitions on 2026-10-11.
+   'swaps' = account where swap fees ARE charged (cheaper).
+   'std'   = swap-free account definition (no swap fees), approx +10%.      */
+const BASE_PRICES = {
+  "1step":       {swaps:[49,97,197,297,497,997], std:[53.9,106.7,216.7,326.7,546.7,1096.7]},
+  "2sbright":    {swaps:[47,87,187,277,477,947], std:[51.7,95.7,205.7,304.7,524.7,1041.7]},
+  "2sclassic":   {swaps:[49,97,197,297,497,997], std:[53.9,106.7,216.7,326.7,546.7,1096.7]},
+  "original":    {swaps:[55,95,195,295,495,975], std:[60.5,104.5,214.5,324.5,544.5,1072.5]}
+};
+
+/* Checkout add-ons: each is a % uplift on the challenge fee.
+   Verified from GET api.prod-1.brightfunded2.com/purchases/1/addons/mine (2026-10-11). */
+const ADDONS = [
+  {name:"Swap-Free Add-On", pct:10, action:"chargeSwapFees = false", phases:"All phases", label:"verified",
+   note:"Switching from a swap-charged account to the swap-free definition costs about 10% more (e.g. $5K: 49.00 -> 53.90)."},
+  {name:"Weekly Payouts", pct:25, action:"PAYOUTS_FREQUENCY_INCREASE (ratio 4)", phases:"Funded", label:"verified",
+   note:"Payouts every 7 days instead of the default 14."},
+  {name:"Bi-Weekly Payouts", pct:15, action:"PAYOUTS_FREQUENCY_INCREASE (ratio 2)", phases:"Funded", label:"verified",
+   note:"Payouts every 14 days - this is also the default after the first payout, so check whether you need it."},
+  {name:"90% Profit Split", pct:20, action:"PROFIT_SHARE (ratio 0.9)", phases:"Funded", label:"verified",
+   note:"Raises the reward split from the default 80% to 90% immediately."},
+  {name:"100% Challenge Fee Refund", pct:10, action:"FEE_REFUND_SHARE (ratio 1.0)", phases:"Funded", label:"verified",
+   note:"Refunds the challenge fee with your first payout. Terms 7.7: if the funded account is later suspended you keep the refund only if you bought this add-on."},
+  {name:"No Minimum Trading Days", pct:15, action:"TRADING_DAYS_REDUCTION (ratio 0)", phases:"Phase 1 + Phase 2", label:"verified",
+   note:"Removes the 5-trading-day requirement from the evaluation phases."},
+  {name:"cTrader account", pct:0, action:"CTRADER", phases:"All phases", label:"verified", note:"No surcharge found."},
+  {name:"MetaTrader 5 account", pct:0, action:"MT5", phases:"All phases", label:"verified", note:"No surcharge found. Not available to US/UAE residents or citizens."}
+];
+
+/* ---- Plans ------------------------------------------------------------ */
+const PLANS = [
+  {
+    id:"1step", cat:"onestep", name:"1-Step Challenge", tagline:"Faster", badge:"Fastest route", availability:"current",
+    phases:[{id:"p1",name:"Phase 1",targetPct:10,minDays:5}],
+    dailyPct:3, maxPct:6, maxType:"trailing", minDays:5, minDaysScope:"One phase - 5 trading days in total",
+    evalRewardPct:15, splitDefault:80, splitMax:90, newsRestriction:"10-minute window on high-impact news (funded stage only)",
+    consistencyRule:false, profitCap:false, sizes:SIZES, baseKey:"1step",
+    promo:{code:"RALLY30",pct:30,label:"advertised"},
+    evalRewardDollar:{5000:75,10000:150,25000:375,50000:750,100000:1500,200000:3000},
+    avgReward:{5000:217,10000:433,25000:951,50000:1369,100000:2422,200000:4272},
+    blurb:"One phase, one target, tighter risk limits. Maximum drawdown is TRAILING, which is the single most important difference from the 2-Step plans.",
+    sourceUrl:"https://brightfunded.com/1-step"
+  },
+  {
+    id:"2sbright", cat:"twostep", name:"2-Step Bright", tagline:"Best value", badge:"Golden model", availability:"current",
+    phases:[{id:"p1",name:"Phase 1",targetPct:8,minDays:5},{id:"p2",name:"Phase 2",targetPct:5,minDays:5}],
+    dailyPct:4, maxPct:8, maxType:"static", minDays:5, minDaysScope:"5 trading days in each phase",
+    evalRewardPct:15, splitDefault:80, splitMax:90, newsRestriction:"10-minute window on high-impact news (funded stage only)",
+    consistencyRule:false, profitCap:false, sizes:SIZES, baseKey:"2sbright",
+    promo:{code:"RALLY25",pct:25,label:"advertised"},
+    evalRewardDollar:{5000:97.5,10000:195,25000:487.5,50000:975,100000:1950,200000:3900},
+    avgReward:{5000:217,10000:433,25000:951,50000:1369,100000:2422,200000:4272},
+    blurb:"Lowest profit targets of the paid plans (8% then 5%) with a static 8% maximum loss. Widely described by the firm as its most balanced model.",
+    sourceUrl:"https://brightfunded.com/2-step-bright"
+  },
+  {
+    id:"2sclassic", cat:"twostep", name:"2-Step Classic", tagline:"Traditional", badge:"Most popular", availability:"current",
+    phases:[{id:"p1",name:"Phase 1",targetPct:10,minDays:5},{id:"p2",name:"Phase 2",targetPct:5,minDays:5}],
+    dailyPct:5, maxPct:10, maxType:"static", minDays:5, minDaysScope:"5 trading days in each phase",
+    evalRewardPct:15, splitDefault:80, splitMax:90, newsRestriction:"10-minute window on high-impact news (funded stage only)",
+    consistencyRule:false, profitCap:false, sizes:SIZES, baseKey:"2sclassic",
+    promo:{code:"RALLY15",pct:15,label:"advertised"},
+    evalRewardDollar:{5000:112.5,10000:225,25000:562.5,50000:1125,100000:2250,200000:4500},
+    avgReward:{5000:217,10000:433,25000:951,50000:1369,100000:2422,200000:4272},
+    blurb:"The widest limits of the paid plans (5% daily, 10% static total) but a higher Phase 1 target of 10%.",
+    sourceUrl:"https://brightfunded.com/2-step-classic"
+  },
+  {
+    id:"free1k", cat:"free", name:"Free $1K Challenge (F1KC)", tagline:"No fee", badge:"Free", availability:"current",
+    phases:[{id:"p1",name:"Phase 1",targetPct:10,minDays:5}],
+    dailyPct:3, maxPct:6, maxType:"trailing", minDays:5, minDaysScope:"5 trading days",
+    evalRewardPct:0, splitDefault:80, splitMax:80, newsRestriction:"Same funded-stage news restriction applies to the funded account",
+    consistencyRule:false, profitCap:false, sizes:[1000], baseKey:null,
+    promo:null,
+    evalRewardDollar:{}, avgReward:{},
+    blurb:"Free single-phase challenge with $1,000 simulated capital. One per user, only if you have no other active accounts, not available in restricted countries, and a limited number can be claimed per country per day. Not eligible for the 15% evaluation profit reward.",
+    sourceUrl:"https://brightfunded.com/free-1k-challenge",
+    extraRules:["Must verify email (no + alias, no disposable domain), verify phone (one phone number per account) and complete a survey to claim.","Multiple free $1K accounts are not allowed.","Website comparison table shows a first payout of $40 (5% profit on the funded account at an 80% split)."]
+  },
+  {
+    id:"original", cat:"historical", name:"Original 2-Step (pre-2.0)", tagline:"Historical", badge:"Grandfathered", availability:"historical",
+    phases:[{id:"p1",name:"Phase 1 - Challenge",targetPct:8,minDays:5},{id:"p2",name:"Phase 2 - Verification",targetPct:5,minDays:5}],
+    dailyPct:5, maxPct:10, maxType:"static", minDays:5, minDaysScope:"5 trading days in each phase",
+    evalRewardPct:0, splitDefault:80, splitMax:90, newsRestriction:"10-minute window on high-impact news (funded stage only)",
+    consistencyRule:false, profitCap:false, sizes:SIZES, baseKey:"original",
+    promo:null,
+    evalRewardDollar:{}, avgReward:{},
+    blurb:"The plan sold before 13 April 2026. Anyone who bought before that date keeps these rules permanently. It is NOT offered as a new purchase on the website, although its price definitions are still present in the public purchase API.",
+    sourceUrl:"https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts"
+  }
+];
+
+/* ---- Rule database ----------------------------------------------------
+   severity: hard | soft | profit | block | allow | cond | info
+   models: array of plan ids, or ["all"]
+   phases: evaluation | funded | both                                        */
+const RULES = [
+{id:"dd-daily", title:"Daily drawdown limit (daily permitted loss)", cat:"drawdown", sev:"hard", critical:true, models:["1step","2sbright","2sclassic","free1k","original"], phases:"both",
+ value:"1-Step 3% | 2-Step Bright 4% | 2-Step Classic 5% | Original 2-Step 5% | Free $1K 3%", unit:"% of original challenge size",
+ basis:"Limit = (end-of-day highest of balance or equity at rollover) minus (daily % x ORIGINAL challenge size). Resets daily between 23:30 and 23:59 CET.",
+ expl:"Your equity may never touch the daily floor on any calendar day. The percentage is applied to the original challenge size, not to your current balance - so profits do not increase your daily allowance.",
+ example:"$100,000 2-Step Bright: you close the day at balance $102,000. Next day the floor is $102,000 - $4,000 = $98,000. Equity at or below $98,000 breaches the account.",
+ src:"https://help.brightfunded.com/en/articles/12291765-how-does-my-daily-permitted-loss-work", srcType:"official_help", label:"verified", eff:"2025-09-22 (method change)"},
+{id:"dd-max-static", title:"Maximum drawdown - STATIC (2-Step plans)", cat:"drawdown", sev:"hard", critical:true, models:["2sbright","2sclassic","original"], phases:"both",
+ value:"2-Step Bright 8% | 2-Step Classic 10% | Original 2-Step 10%", unit:"% of original balance, fixed",
+ basis:"Floor = initial balance x (1 - max%). Fixed from the start and never moves, regardless of profits.",
+ expl:"Static means profits do not raise your floor. A $100,000 Classic account can never fall below $90,000 in balance or equity, even after you are up $20,000.",
+ example:"$100,000 2-Step Classic: absolute floor $90,000 at all times. $100,000 2-Step Bright: absolute floor $92,000 at all times.",
+ src:"https://help.brightfunded.com/en/articles/14284817-brightfunded-2-step-bright", srcType:"official_help", label:"verified"},
+{id:"dd-max-trailing", title:"Maximum drawdown - TRAILING / high-water mark (1-Step, Free $1K)", cat:"drawdown", sev:"hard", critical:true, models:["1step","free1k"], phases:"both",
+ value:"6% trailing, locks at breakeven once equity is +6%", unit:"% of original balance, trailing",
+ basis:"Floor = highest equity ever reached - 6% of original balance, but it never moves below initial balance - 6%, and once equity reaches initial + 6% the floor locks at the original balance and stops rising.",
+ expl:"The floor follows your peak in real time, including floating profit. A floating profit that later reverses can breach the account because the floor was already raised. This is the single most complained-about rule in independent reviews.",
+ example:"$1,000 account: start floor $940. Equity peaks at $1,040 -> floor rises to $980. The trade then reverses and closes at -$35, leaving balance $965 - below $980, so the account is breached even though it is still above the original $940 floor.",
+ src:"https://help.brightfunded.com/en/articles/15946298-brightfunded-free-1k-challenge-f1kc", srcType:"official_help", label:"verified"},
+{id:"dd-float", title:"Floating (unrealised) P/L counts towards both limits", cat:"drawdown", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"Equity = balance + floating P/L", unit:"-",
+ basis:"BrightFunded evaluates the higher of balance or equity, and equity includes open positions.",
+ expl:"You cannot 'hide' a losing position by keeping it open. An open loss reduces equity and counts towards both the daily and the maximum drawdown.",
+ example:"Balance $100,000 with an open -$3,000 position means equity $97,000 - already at the 3% daily floor on a $100,000 1-Step account.",
+ src:"https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process", srcType:"official_help", label:"verified"},
+{id:"dd-time", title:"Daily reset window (rollover)", cat:"drawdown", sev:"info", critical:false, models:["all"], phases:"both",
+ value:"23:30 - 23:59 CET (daily loss reset); swap rollover 01:59 - 02:00 CET", unit:"CET",
+ basis:"The daily loss counter resets during the rollover window. Times shift by +/-1 hour with European/US daylight-saving changes.",
+ expl:"Trading inside the rollover window is explicitly 'not recommended' by BrightFunded because spreads widen sharply and the daily counter is being recalculated.",
+ example:"The FAQ notes market rollover spreads between 23:00 and 00:00 CET can trigger stop-losses on widened spreads rather than real price movement.",
+ src:"https://help.brightfunded.com/en/articles/9286673-what-are-the-swap-fees", srcType:"official_help", label:"verified"},
+{id:"dd-historical", title:"Historical daily-drawdown method (accounts bought before 22 Sep 2025, 11:00 CET)", cat:"historical", sev:"hard", critical:false, models:["original"], phases:"both",
+ value:"5% of challenge size, BALANCE based", unit:"% of challenge size",
+ basis:"Old method: the daily permitted loss was 5% of the challenge size and was calculated from your BALANCE at rollover (not the higher of balance/equity).",
+ expl:"If you bought before 22 September 2025 at 11:00 CET your daily limit still works the old way. Accounts bought after that date use the end-of-day high-water-mark method.",
+ example:"$100,000 account, balance $100,000 with an open +$1,000 trade at rollover: old method still uses $100,000, so the floor is $95,000 (not $96,000).",
+ src:"https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts", srcType:"official_help", label:"historical", eff:"ended 2025-09-22 11:00 CET"}
+];
+
+RULES.push(
+{id:"eval-target", title:"Profit targets by phase", cat:"evaluation", sev:"info", critical:false, models:["all"], phases:"evaluation",
+ value:"1-Step 10% | 2-Step Bright 8% then 5% | 2-Step Classic 10% then 5% | Original 8% then 5% | Free $1K 10%", unit:"% of initial balance",
+ basis:"Each phase target is a percentage of the account's initial balance. Phase 2 is only issued after Phase 1 is passed; credentials are sent automatically.",
+ expl:"Targets are measured on closed profit. Hitting the target while a trade is still open does not pass the phase until it is closed.",
+ example:"$50,000 2-Step Bright: Phase 1 needs +$4,000, Phase 2 needs +$2,500.",
+ src:"https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process", srcType:"official_help", label:"verified"},
+{id:"eval-days", title:"Minimum trading days", cat:"evaluation", sev:"cond", critical:false, models:["all"], phases:"evaluation",
+ value:"5 trading days per phase (removable with the +15% 'No Minimum Trading Days' add-on)", unit:"days",
+ basis:"A day counts when at least one trade stays open for a minimum of 60 seconds - profit or loss makes no difference. Days need not be consecutive.",
+ expl:"Scalping in and out within seconds does not build trading days. You can buy the requirement away at checkout for +15% of the challenge fee.",
+ example:"Twelve 20-second scalps on one day count as ONE trading day.",
+ src:"https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process", srcType:"official_help", label:"verified"},
+{id:"eval-time", title:"No time limit on the evaluation or verification", cat:"evaluation", sev:"allow", critical:false, models:["all"], phases:"evaluation",
+ value:"Unlimited days", unit:"-",
+ basis:"Both the Challenge and the Verification 'last for unlimited days from the date of activation'.",
+ expl:"The real clock is the inactivity rule (30 calendar days without a trade) and the 30-day window to activate an account after purchase.",
+ example:"An account bought in January that has never been traded is suspended after 30 days and has a 6-month grace period to request reactivation.",
+ src:"https://brightfunded.com/terms-and-conditions", srcType:"official_terms", label:"verified"},
+{id:"eval-activate", title:"Activate within 30 days of payment", cat:"evaluation", sev:"block", critical:true, models:["all"], phases:"evaluation",
+ value:"30 days", unit:"days",
+ basis:"Terms 6.3 / 6.10: if the Challenge or Verification is not activated within 30 days of payment or of receiving login data, access is automatically suspended; 6 months to request renewal or the service terminates without refund.",
+ expl:"Buying an account and leaving it untouched is a real risk of losing the fee.",
+ example:"Buy on 1 March, never log in: suspended 31 March, permanently lost after 30 September with no refund.",
+ src:"https://brightfunded.com/terms-and-conditions", srcType:"official_terms", label:"verified"},
+{id:"breach-effect", title:"What a breach actually does", cat:"evaluation", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"Account invalidated / closed; challenge fee not refunded", unit:"-",
+ basis:"Official FAQ: breaching the rules makes the account automatically invalid, it cannot continue in the evaluation, and the initial fee is lost. You may buy a new challenge.",
+ expl:"A breach is not a warning. There is no reset and no partial credit - the account simply ends. Funded accounts are closed instead of invalidated.",
+ example:"Touching the daily floor once on a $100K account ends that account; the fee is not returned unless you bought the fee-refund add-on and reached a payout.",
+ src:"https://help.brightfunded.com/en/articles/9241613-what-happens-if-i-breach-the-rules", srcType:"official_help", label:"verified"},
+{id:"inactivity", title:"Inactivity rule - 30 calendar days", cat:"account", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"30 calendar days", unit:"days",
+ basis:"Policy effective 1 September 2025 and applied to all accounts including pre-existing ones. After your last closed trade you must place another trade that stays open at least 60 seconds within 30 days. Never-traded accounts must place a first trade within 30 days of assignment. Open positions keep the account active indefinitely, but pending orders do NOT count.",
+ expl:"This policy was applied retroactively to already-issued accounts, which is unusual and worth knowing. Deactivation is reversible for 6 months; after that the firm may treat it as a hard breach.",
+ example:"You hold an open EUR/USD position for 4 months - the account stays active. You have only pending limit orders - the countdown runs and the account deactivates after 30 days.",
+ src:"https://help.brightfunded.com/en/articles/11774572-inactivity-rule-policy", srcType:"official_help", label:"verified", eff:"2025-09-01"},
+{id:"single-account", title:"Single account policy - one profile per person", cat:"account", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"1 email profile per person", unit:"-",
+ basis:"Terms 4.1. Detection uses names, personal data, IP addresses, device fingerprints, payment patterns, KYC submissions and other methods.",
+ expl:"One person may buy many challenge accounts through the SAME profile. Creating a second profile - even with a different email or slightly altered details - is what breaches the rule. Penalty can include closing all accounts, revoking promotions/discounts/payouts and a permanent ban.",
+ example:"Buying five $100K challenges on one profile is allowed. Creating a second login to get a 'new customer' promo code is not.",
+ src:"https://help.brightfunded.com/en/articles/11079360-single-account-policy-important-for-all-our-users", srcType:"official_help", label:"verified"},
+{id:"capital-cap", title:"Maximum funded capital per trader: $400,000", cat:"account", sev:"block", critical:true, models:["all"], phases:"funded",
+ value:"$400,000 funded (unlimited during the challenge stage)", unit:"USD",
+ basis:"Terms 6.14 and the official FAQ. Extra passed Phase 2 accounts above the cap are placed on hold until a funded account is breached.",
+ expl:"You can own unlimited evaluation accounts, but only $400,000 of funded capital at once. Identical strategies across accounts above the cap may be suspended.",
+ example:"Two $200K funded accounts, or four $100K funded accounts, is the maximum. A fifth $100K funded account waits on hold.",
+ src:"https://help.brightfunded.com/en/articles/9241621-what-capital-will-i-trade-at-brightfunded", srcType:"official_help", label:"verified"},
+{id:"account-merge", title:"Account merging (funded stage only)", cat:"account", sev:"cond", critical:false, models:["all"], phases:"funded",
+ value:"2x5K=10K | 2x25K=50K | 2x50K=100K | 2x100K=200K", unit:"-",
+ basis:"Only funded accounts, only two accounts, identical add-ons (same platform, same split, same payout frequency), and both accounts must be 'clean' (no trades) at the moment of the request. Irreversible.",
+ expl:"2x$10K cannot be merged because there is no $20K account. Merging an 80% account with a 90% account is not allowed.",
+ example:"Two untouched $50K funded accounts with identical add-ons can become one $100K funded account.",
+ src:"https://help.brightfunded.com/en/articles/9436456-how-the-account-merge-works", srcType:"official_help", label:"verified"}
+);
+
+RULES.push(
+{id:"news", title:"News trading - 10-minute blackout on FUNDED accounts only", cat:"news", sev:"soft", critical:true, models:["all"], phases:"funded",
+ value:"No opening or closing trades 5 minutes before to 5 minutes after a high-impact release", unit:"minutes",
+ basis:"Effective 9 May 2024. During the 10-minute window you may not open, close, or have SL/TP/buy-stop/sell-stop orders triggered on targeted instruments. Profit made on a violating trade is deducted; losses are NOT compensated. Explicitly a SOFT breach - the account is not terminated.",
+ expl:"Phase 1 and Phase 2 have no news restriction at all. Once funded, the restriction applies. Trades opened more than 5 minutes before the event may be held, but if their SL or TP fires inside the window it is still a soft breach.",
+ example:"A trade held 48+ hours whose take-profit fills during the 10-minute window is exempt - the profit is kept.",
+ src:"https://help.brightfunded.com/en/articles/9241694-can-i-trade-news", srcType:"official_help", label:"verified", eff:"2024-05-09"},
+{id:"news-calendar", title:"Which news events are targeted", cat:"news", sev:"cond", critical:false, models:["all"], phases:"funded",
+ value:"High-impact ('red folder') events; BrightFunded links Forex Factory as the reference calendar", unit:"-",
+ basis:"The rule applies to 'targeted instruments' only; you may trade non-targeted instruments normally during the window.",
+ expl:"The reference calendar is third-party (forexfactory.com). Whether the firm uses its own list or Forex Factory's filtering is not fully specified - treat borderline events as restricted.",
+ example:"An FOMC release targets USD pairs; trading an unrelated exotic during the same window is generally allowed.",
+ src:"https://help.brightfunded.com/en/articles/9241694-can-i-trade-news", srcType:"official_help", label:"unverified"},
+{id:"ea", title:"Expert Advisors (EAs) / trading bots", cat:"automation", sev:"allow", critical:false, models:["all"], phases:"both",
+ value:"Allowed with conditions", unit:"-",
+ basis:"EAs are permitted but must respect the daily and total loss limits. API and automated trading are NOT supported on DXtrade. Compatibility of third-party EAs is not guaranteed.",
+ expl:"Automation is allowed, but 'high-frequency trading', latency exploitation and AI/ultra-high-speed systems are explicitly forbidden by the Terms and the prohibited-strategies article. The line between the two is drawn by the firm.",
+ example:"A standard MT5 grid-free EA is fine; an HFT bot placing and cancelling orders in milliseconds is not.",
+ src:"https://help.brightfunded.com/en/articles/9241699-can-i-use-ea", srcType:"official_help", label:"verified"},
+{id:"copy", title:"Copy trading / signal trading", cat:"copytrading", sev:"cond", critical:true, models:["all"], phases:"both",
+ value:"Allowed only between accounts you own", unit:"-",
+ basis:"Copying between BrightFunded accounts, other evaluation firms, or retail brokerage accounts is allowed if every account belongs to the same person. Copying between accounts of different owners - including relatives, family or friends - is prohibited, as is trading on community signals. Detection compares opening price, closing price, trade size, size ratio and symbols.",
+ expl:"Consequences range from a caution with profit deduction and account reset to immediate closure with no profit distribution if the account is not in profit. Managing accounts for others or selling 'pass your challenge' services is prohibited.",
+ example:"Copying your own retail account into your BrightFunded account: allowed. Following a paid Telegram signal group: prohibited.",
+ src:"https://help.brightfunded.com/en/articles/9241709-is-copy-trading-allowed", srcType:"official_help", label:"verified"},
+{id:"hedge-cross", title:"Hedging across accounts, platforms or prop firms", cat:"copytrading", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"First detection = soft breach (one-time warning); repeat = hard breach", unit:"-",
+ basis:"Effective 13 August 2024. Prohibited: the same instrument hedged across two BrightFunded accounts, across two platforms on the same profile, across different prop firms, or via a copier/EA. First detection closes all open trades in the involved accounts and issues a one-time warning; a second detection permanently breaches them. The one-time warning only applies if a single trade is involved on each side - two or more offsetting trades is an immediate hard breach.",
+ expl:"Hedging the same instrument INSIDE one account is explicitly allowed. What is banned is replicating that structure across accounts.",
+ example:"Account A buys 1 lot EUR/USD while Account B sells 1 lot EUR/USD = inter-account hedging. Account A holding both a buy and a sell on EUR/USD = allowed.",
+ src:"https://help.brightfunded.com/en/articles/9680850-how-does-the-hedging-rule-work", srcType:"official_help", label:"verified", eff:"2024-08-13"},
+{id:"prohibited-strategies", title:"Prohibited strategy list (grid, HFT, tick scalping, arbitrage, overleveraging)", cat:"trading", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"Grid trading, arbitrage, tick scalping, HFT, overleveraging, overexposure, one-sided bets (averaging down), account rolling - all forbidden", unit:"-",
+ basis:"Help Centre 'Which strategies are prohibited' plus Terms 5.4-5.5. The Terms also forbid gap trading when significant news or macro events are due, and exploiting service errors, price-feed delays, or using a slower external data feed.",
+ expl:"The firm states that any activity compromising the standard 'will result in account termination and disqualification from future evaluations'. Because the list is open-ended and judged by the firm, borderline strategies carry real risk.",
+ example:"Continuously averaging down a losing long position is named as 'one-sided bets' and is prohibited. Placing a buy/sell ladder at fixed intervals is named as grid trading and is prohibited.",
+ src:"https://help.brightfunded.com/en/articles/9241704-which-strategies-are-prohibited-at-brightfunded", srcType:"official_help", label:"verified"},
+{id:"min-hold", title:"Minimum holding time and scalping", cat:"trading", sev:"cond", critical:false, models:["all"], phases:"both",
+ value:"No formal minimum holding time, but tick scalping is not allowed", unit:"-",
+ basis:"Official FAQ: no minimum holding time is enforced; tick scalping is not allowed and the firm recommends avoiding closing too many trades in very short periods.",
+ expl:"There is no hard seconds threshold published, which means enforcement is discretionary. Note that a trade must stay open at least 60 seconds to count as a trading day.",
+ example:"Dozens of sub-second entries per hour can be treated as tick scalping even though no numeric limit is published.",
+ src:"https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions", srcType:"official_help", label:"verified"},
+{id:"weekend", title:"Weekend and overnight holding", cat:"trading", sev:"allow", critical:false, models:["all"], phases:"both",
+ value:"Allowed", unit:"-",
+ basis:"Positions may be held over the weekend. Crypto instruments can be traded at weekends when the instrument is open.",
+ expl:"Weekend gaps and swap charges are your risk. Forex and commodities are charged 3x swap on the Wednesday rollover; indices 3x on the Friday rollover, unless you bought the swap-free add-on.",
+ example:"A forex position held through Wednesday night is charged triple swap.",
+ src:"https://help.brightfunded.com/en/articles/9268323-is-it-allowed-to-hold-positions-over-the-weekend", srcType:"official_help", label:"verified"},
+{id:"vpn", title:"VPN, VPS and IP addresses", cat:"account", sev:"allow", critical:false, models:["all"], phases:"both",
+ value:"Allowed", unit:"-",
+ basis:"Using a VPN/VPS or a different IP while travelling is permitted. What is prohibited is anybody other than the account owner using or trading the account.",
+ expl:"Account sharing is the actual prohibition. Device fingerprinting and IP matching are used to detect multi-account abuse (single-account policy).",
+ example:"Trading from a VPS in London while you live in Warsaw is fine. Letting a friend trade your account is not.",
+ src:"https://help.brightfunded.com/en/articles/9436443-is-it-permitted-to-use-a-vpn-vps-at-brightfunded", srcType:"official_help", label:"verified"},
+{id:"stop-loss", title:"Stop-loss requirement", cat:"trading", sev:"allow", critical:false, models:["all"], phases:"both",
+ value:"Not mandatory", unit:"-",
+ basis:"Official FAQ: a stop-loss is not mandatory but is strongly recommended.",
+ expl:"No SL means a single position can breach the daily or maximum drawdown on its own.",
+ example:"An unprotected position on gold can move 3% of a $100K account in minutes during a news release.",
+ src:"https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions", srcType:"official_help", label:"verified"}
+);
+
+RULES.push(
+{id:"payout-first", title:"First payout timing", cat:"payout", sev:"block", critical:true, models:["all"], phases:"funded",
+ value:"30 days after the first trade on the funded account", unit:"days",
+ basis:"Official reward-split article: you can request your first reward split 30 days after placing your first trade on the funded account.",
+ expl:"Profit made on day 1 cannot be withdrawn until day 30. This is a waiting period, not a profit requirement.",
+ example:"First funded trade on 1 March -> first eligible payout request 31 March.",
+ src:"https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account", srcType:"official_help", label:"verified"},
+{id:"payout-frequency", title:"Payout frequency after the first payout", cat:"payout", sev:"cond", critical:false, models:["all"], phases:"funded",
+ value:"Bi-weekly (14 days) by default; weekly (7 days) with the +25% add-on", unit:"days",
+ basis:"Default cycle is bi-weekly. The checkout 'Weekly Payouts' add-on costs +25% of the challenge fee; 'Bi-Weekly Payouts' is listed at +15%, so verify whether you are already getting 14 days for free before paying for it.",
+ expl:"The website markets '24-hour guaranteed payouts' and 'weekly payouts' - those refer to processing speed and the optional frequency, not to the default request cycle.",
+ example:"Without add-ons you can request a payout roughly every 14 days after the first one.",
+ src:"https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account", srcType:"official_help", label:"verified"},
+{id:"payout-split", title:"Profit split", cat:"payout", sev:"info", critical:false, models:["all"], phases:"funded",
+ value:"80% default, 90% with the +20% add-on, 90% after the 1st scale-up, 100% from the 3rd scale-up", unit:"% to trader",
+ basis:"Reward-split article plus the scaling-plan page. The firm also markets 'up to 90%' on plan pages and 'up to 100%' in the comparison table - both are reachable, but only via add-on or scaling.",
+ expl:"The headline 'up to 90% payout ratio' is not the default. If you buy no add-ons and never scale, you are on 80%.",
+ example:"$10,000 of simulated profit at the default split pays $8,000; with the 90% add-on it pays $9,000.",
+ src:"https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account", srcType:"official_help", label:"verified"},
+{id:"payout-min", title:"Minimum payout amount", cat:"payout", sev:"allow", critical:true, models:["all"], phases:"funded",
+ value:"None stated - 'even $0.01' can be requested", unit:"USD",
+ basis:"Official reward-split article: there is no minimum reward. This CONFLICTS with the free-$1K page, which advertises a first payout of $40 (5% profit) and with the free-$1K vs $100K comparison showing a 'Minimum $4,000 Payout' for the $100K challenge.",
+ expl:"Two official sources disagree. Treat the $0.01 statement as the payout-request rule and the 5% figure as a marketing illustration of the first meaningful payout - and ask support which applies to your account.",
+ example:"On a $100,000 challenge the website implies the first payout is $4,000 (5% of $100,000 x 80%).",
+ src:"https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account", srcType:"official_help", label:"unverified"},
+{id:"payout-fees", title:"Payout fees", cat:"fees", sev:"allow", critical:false, models:["all"], phases:"funded",
+ value:"BrightFunded charges none; third-party processor/network fees typically $5-$50", unit:"USD",
+ basis:"Official help article: no additional fees are charged by the firm; blockchain gas and payment-provider charges are deducted by third parties and 'in very rare cases' can exceed $5-$50. Currency conversion is at real-time partner rates.",
+ expl:"The headline 'no fees' is accurate for the firm but not for your net amount. Bank transfers are in EUR; crypto is USDC on ERC-20 only.",
+ example:"A $1,000 payout can arrive as roughly $950-$995 depending on network and provider fees.",
+ src:"https://help.brightfunded.com/en/articles/9241684-do-i-need-to-pay-charges-with-the-payouts", srcType:"official_help", label:"verified"},
+{id:"payout-speed", title:"Payout processing time", cat:"payout", sev:"allow", critical:false, models:["all"], phases:"funded",
+ value:"Maximum 1 day (24 hours) after request; the site advertises an average of about 17 hours", unit:"hours",
+ basis:"Help article: 'it will take a maximum of 1 day to be processed'. The marketing claim '24-Hour Guaranteed Payouts' is not published as a contractual guarantee.",
+ expl:"You must close all trades and pending orders and be on or after your payout day to request. Time to reach your wallet depends on the bank or blockchain.",
+ example:"Request on Monday morning, funds processed by Tuesday; bank settlement can take several additional business days.",
+ src:"https://help.brightfunded.com/en/articles/11468668-how-can-i-request-my-payout", srcType:"official_help", label:"verified"},
+{id:"payout-method", title:"Payout methods and currencies", cat:"payout", sev:"cond", critical:false, models:["all"], phases:"funded",
+ value:"USDC on ERC-20, or bank transfer in EUR", unit:"-",
+ basis:"Help centre. Changing your wallet address requires a video verification showing your dashboard, the payout section and the new USDC ERC-20 address in one continuous recording.",
+ expl:"Payouts are not offered in USD by bank transfer and not on other chains (TRC-20, Solana) - sending via the wrong network risks losing the funds.",
+ example:"A trader wanting USD must use USDC and convert.",
+ src:"https://help.brightfunded.com/en/articles/9241681-how-can-i-get-paid", srcType:"official_help", label:"verified"},
+{id:"consistency", title:"Consistency rule", cat:"consistency", sev:"allow", critical:true, models:["all"], phases:"both",
+ value:"NOT enforced (none)", unit:"-",
+ basis:"Official FAQ and a dedicated help article both state that BrightFunded does not currently enforce a consistency rule: no requirement to spread profits across days or trades and no fixed position size.",
+ expl:"This is a genuine advantage over many competitors - one large winning day does not block a payout. Note the word 'currently': the Terms let BrightFunded change Product Specifications, so this is a policy, not a contractual guarantee.",
+ example:"Making your entire 10% on a single day does not, by itself, prevent a payout request.",
+ src:"https://help.brightfunded.com/en/articles/12577176-does-brightfunded-have-a-consistency-rule", srcType:"official_help", label:"verified"},
+{id:"profit-cap", title:"Profit cap / maximum withdrawal", cat:"payout", sev:"allow", critical:false, models:["all"], phases:"funded",
+ value:"None", unit:"-",
+ basis:"Official FAQ: 'BrightFunded does not have a profit cap - your earnings have no per-cycle withdrawal limit'.",
+ expl:"No maximum first/second payout is published. The only ceiling is the $400,000 funded capital allocation.",
+ example:"A $50,000 profit cycle on a $200K account is payable in full at your split.",
+ src:"https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions", srcType:"official_help", label:"verified"},
+{id:"kyc", title:"KYC / identity verification", cat:"kyc", sev:"block", critical:true, models:["all"], phases:"funded",
+ value:"Government ID + proof of address, via SumSub", unit:"-",
+ basis:"KYC is mandatory before the funded account is issued and before payouts. Performed by SumSub to AML standards. KYB (business verification) is not required.",
+ expl:"After passing, the account goes through a Risk Team security check: 1-2 business days normally, up to 4 at peak. Contract and funded-account activation are then automated.",
+ example:"Independent reviews report KYC and credential delays as a recurring complaint, so allow for the 1-4 day window before planning payouts.",
+ src:"https://help.brightfunded.com/en/articles/9268287-how-do-i-obtain-my-funded-account", srcType:"official_help", label:"verified"}
+);
+
+RULES.push(
+{id:"commissions", title:"Trading commissions", cat:"fees", sev:"info", critical:false, models:["all"], phases:"both",
+ value:"Forex $3 per lot | Indices $0 | Crypto 0.024% of volume (0.012% per side) | Commodities 0.0010% of volume", unit:"per lot / % of volume",
+ basis:"Official help article. Commissions apply identically in the challenge and the funded stage because the firm mirrors trades onto its own corporate live accounts.",
+ expl:"Commission is charged on evaluation accounts as well as funded accounts - a cost many traders forget when sizing risk.",
+ example:"A 5-lot EUR/USD round trip costs $15 in commission regardless of profit or loss.",
+ src:"https://help.brightfunded.com/en/articles/9268221-what-are-the-commissions-in-the-simulated-environment-of-brightfunded", srcType:"official_help", label:"verified"},
+{id:"leverage", title:"Leverage by asset class", cat:"platform", sev:"info", critical:false, models:["all"], phases:"both",
+ value:"Forex 1:100 | Gold & commodities 1:40 | Indices 1:20 | Crypto 1:5", unit:"ratio",
+ basis:"Official help article. Identical leverage in the challenge and funded stages.",
+ expl:"Leverage is far lower than a retail broker on crypto and indices. The firm can also reduce leverage to 1:5 on any account as a sanction for forbidden trading practices (Terms 5.8).",
+ example:"On a $100,000 account: $10,000,000 forex notional, $4,000,000 metals, $2,000,000 indices, $500,000 crypto.",
+ src:"https://help.brightfunded.com/en/articles/9268380-what-is-the-leverage-in-brightfunded-s-simulated-trading-environment", srcType:"official_help", label:"verified"},
+{id:"swaps", title:"Swap / rollover fees", cat:"fees", sev:"cond", critical:false, models:["all"], phases:"both",
+ value:"Charged at 01:59-02:00 CET; 3x on Wednesday (FX & commodities) and Friday (indices) unless swap-free", unit:"pips",
+ basis:"Official help article. Swap-free requires the +10% checkout add-on. Swap fees displayed in pips on the platform.",
+ expl:"Triple swap on Wednesdays is a real cost for swing traders. Independent reviews include complaints about swap charges contributing to breaches.",
+ example:"A position held through Wednesday night is charged triple the normal overnight swap.",
+ src:"https://help.brightfunded.com/en/articles/9286673-what-are-the-swap-fees", srcType:"official_help", label:"verified"},
+{id:"platforms", title:"Trading platforms", cat:"platform", sev:"cond", critical:false, models:["all"], phases:"both",
+ value:"MetaTrader 5, cTrader, DXtrade", unit:"-",
+ basis:"Official help article. MT5 unavailable to US/UAE citizens or residents and restricted countries; cTrader unavailable to US citizens/residents. DXtrade does not support API or automated trading.",
+ expl:"No proprietary platform, no TradingView direct execution (only charting similarity), no Match-Trader, no TradeLocker. Platform choice is free at checkout.",
+ example:"A US-based trader cannot use MT5 or cTrader and must use DXtrade.",
+ src:"https://help.brightfunded.com/en/articles/10855521-what-trading-platform-does-brightfunded-offer", srcType:"official_help", label:"verified"},
+{id:"instruments", title:"Tradable instruments", cat:"platform", sev:"info", critical:false, models:["all"], phases:"both",
+ value:"46 forex pairs listed; 48 crypto pairs; indices; metals and energy commodities", unit:"-",
+ basis:"The trading-instruments page lists 46 forex symbols in its HTML; the crypto help article lists 48 crypto pairs. Indices and commodities are described but the full symbol list is rendered dynamically and could not be fully extracted.",
+ expl:"No stock CFDs, no futures contracts are advertised to customers even though the legal footer mentions a Wyoming entity for 'futures simulated trading'.",
+ example:"Confirmed symbols include EUR/USD, GBP/USD, XAU/USD, XAG/USD, WTI/USD, BRN/USD, NGC/USD, US100.cash, US500.cash, US30.cash, JPN225.cash and BTC/USD.",
+ src:"https://brightfunded.com/trading-instruments", srcType:"official_page", label:"verified"},
+{id:"refund", title:"Refund policy", cat:"fees", sev:"cond", critical:false, models:["all"], phases:"evaluation",
+ value:"Refund if NO trade was placed and the purchase is under 30 days old", unit:"days",
+ basis:"Help article: contact support via live chat; refund processed within 48 hours and arrives in 3-10 business days. Terms 3.3: no refunds if you cancel the client section, stop using the service, fail the conditions or breach the terms.",
+ expl:"Placing even one trade removes refund eligibility. The Terms also contain a chargeback policy (clause 3.4) that allows the firm to act on payment disputes.",
+ example:"Bought 10 days ago, never logged in: refundable. Placed one trade: not refundable.",
+ src:"https://help.brightfunded.com/en/articles/9460023-can-i-get-a-refund-for-my-brightfunded-challenge", srcType:"official_help", label:"verified"},
+{id:"fee-refund-addon", title:"100% challenge fee refund (add-on) and its forfeiture condition", cat:"fees", sev:"cond", critical:true, models:["all"], phases:"funded",
+ value:"+10% of challenge fee; refunded with the first payout", unit:"% of fee",
+ basis:"Terms 7.7(b): the challenge fee is refunded only if the add-on was purchased, and it is included in the first performance-reward disbursement. If the funded account is later suspended, no further refund is issued.",
+ expl:"The refund is not automatic - it is tied to the add-on and to reaching a payout. Without the add-on there is no fee refund even if you pass.",
+ example:"A $100K 2-Step Classic at EUR 497 with the add-on (+10% = 497) returns EUR 497 with your first payout.",
+ src:"https://brightfunded.com/terms-and-conditions", srcType:"official_terms", label:"verified"},
+{id:"scaling", title:"Scaling plan", cat:"payout", sev:"cond", critical:false, models:["all"], phases:"funded",
+ value:"+30% account size every 4 months; 90% split after scale-up 1; 100% from scale-up 3; no upper limit", unit:"-",
+ basis:"Requirements: 4-month consecutive review window from the first trade; profitable in at least 2 of the 4 months; at least 10% total profit across the window; at least 2 completed payouts; balance at breakeven or better at the moment of scaling. Must be requested from support - it is not automatic.",
+ expl:"If the objective is missed, all parameters reset and a new 4-month window begins. The scaling page and the help article describe the same conditions.",
+ example:"A $100,000 funded account that meets the conditions becomes $130,000; after the third scale-up the split is 100%.",
+ src:"https://help.brightfunded.com/en/articles/9268774-how-to-scale-up-my-funded-account-infinitely", srcType:"official_help", label:"verified"},
+{id:"eval-reward", title:"15% evaluation profit reward", cat:"payout", sev:"cond", critical:false, models:["1step","2sbright","2sclassic"], phases:"evaluation",
+ value:"15% of Phase 1 + Phase 2 profit, credited to your next funded account", unit:"%",
+ basis:"Effective 3 January 2026. Available only on PAID challenge accounts (not the free $1K). Requires reaching 10% growth on the funded account and receiving a payout. One article says you must contact support to have it applied; another describes it as issued automatically - unresolved.",
+ expl:"The bonus increases the STARTING BALANCE of the next funded account rather than being paid as cash at once, but it can be withdrawn later with a payout.",
+ example:"$100,000 account, $13,000 total evaluation profit -> bonus $1,950 -> next funded account starts at $101,950.",
+ src:"https://help.brightfunded.com/en/articles/13367202-15-evaluation-profit-reward", srcType:"official_help", label:"verified", eff:"2026-01-03"},
+{id:"trade2earn", title:"Trade2Earn loyalty tokens", cat:"platform", sev:"allow", critical:false, models:["all"], phases:"both",
+ value:"0.2 tokens per $100,000 traded (FX, indices, commodities); 0.2 tokens per $20,000 traded (crypto)", unit:"tokens per volume",
+ basis:"Official help article. Tokens accrue on every trade regardless of profit or loss, in both challenge and funded phases, and can be redeemed for perks such as extra drawdown, lower profit targets, fee refunds and discounts.",
+ expl:"The token ratio is reviewed quarterly and may change. The perk catalogue is only visible inside the dashboard, so the real value cannot be verified from outside.",
+ example:"Trading $1,000,000 of forex volume earns 2 tokens.",
+ src:"https://help.brightfunded.com/en/articles/9241634-how-many-brightfunded-tokens-do-i-receive-per-lot", srcType:"official_help", label:"verified"},
+{id:"chargeback", title:"Chargeback policy and enforcement", cat:"fees", sev:"hard", critical:true, models:["all"], phases:"both",
+ value:"Disputing a payment can terminate services", unit:"-",
+ basis:"Terms 3.4 covers 'unjustifiable complaints' and the Help Centre has a dedicated Chargeback Policy & Enforcement article. The firm may act if a chargeback or payment dispute is filed without first attempting resolution.",
+ expl:"If you dispute a charge with your bank or card issuer, expect the account to be affected. Raise issues with support first.",
+ example:"Filing a card chargeback without contacting support is treated as a breach-level event.",
+ src:"https://help.brightfunded.com/en/articles/10717651-chargeback-policy-enforcement", srcType:"official_help", label:"advertised"},
+{id:"risk-discretion", title:"Risk team discretion and temporary risk measures", cat:"account", sev:"cond", critical:true, models:["all"], phases:"funded",
+ value:"Firm may reduce leverage to 1:5, cut daily drawdown, limit position size or impose other restrictions", unit:"-",
+ basis:"Terms 5.8 allows the firm to remove transactions, cancel services, terminate the agreement, reduce leverage to 1:5, or impose additional trading restrictions. The funded-account help article confirms 'temporary risk measures may be applied' in rare cases where a strategy is judged higher risk.",
+ expl:"This is the most consequential discretionary clause in the contract: trading parameters can be changed, and a profitable payout can be delayed by a risk review. One independent review specifically complains that a risk limit was reduced to 1% before an account was breached.",
+ example:"A trader using a high-volume news strategy may have the daily limit reduced mid-account.",
+ src:"https://brightfunded.com/terms-and-conditions", srcType:"official_terms", label:"verified"},
+{id:"payout-discretion", title:"Performance rewards are discretionary", cat:"payout", sev:"cond", critical:true, models:["all"], phases:"funded",
+ value:"Rewards are 'discretionary and do not constitute a guaranteed right or entitlement'", unit:"-",
+ basis:"Terms 6.19 and 7.8. Funded Trader Program admission is at the firm's sole discretion (7.2, 7.5).",
+ expl:"Legally, the payout is a discretionary performance reward, not a contractual debt. That is standard for the industry but it materially changes your remedies if a payout is refused.",
+ example:"A rejected payout can be defended by the firm on the basis of clauses 6.19 / 7.8 even where no explicit rule was broken.",
+ src:"https://brightfunded.com/terms-and-conditions", srcType:"official_terms", label:"verified"},
+{id:"free-1k", title:"Free $1K Challenge eligibility", cat:"evaluation", sev:"cond", critical:false, models:["free1k"], phases:"evaluation",
+ value:"One per user; no other active accounts; restricted countries excluded; limited claims per country per day", unit:"-",
+ basis:"Help article. Requires verified email (no + alias, no disposable domain), a verified phone number (one number per account) and a completed survey. Multiple free accounts are not allowed.",
+ expl:"The free challenge is a genuine zero-cost entry, but it is capped and cannot be combined with an existing active account.",
+ example:"Holding an active paid challenge disqualifies you from claiming the free $1K until that account is closed.",
+ src:"https://help.brightfunded.com/en/articles/15943346-how-to-claim-your-free-1k-challenge-f1kc", srcType:"official_help", label:"verified"},
+{id:"restricted", title:"Restricted countries", cat:"account", sev:"block", critical:true, models:["all"], phases:"both",
+ value:"Cuba, Iran, North Korea, Syria, Vietnam (Terms) + Pakistan (Help Centre)", unit:"-",
+ basis:"Terms section 2 lists Cuba, Iran, North Korea, Syria and Vietnam. The Help Centre adds Pakistan but says existing Pakistani accounts may continue trading. MT5 is additionally unavailable to US and UAE residents/citizens.",
+ expl:"The two official lists differ. If you are in Pakistan, get written confirmation before buying.",
+ example:"A trader resident in Vietnam cannot register; a trader resident in Pakistan is blocked by the Help Centre list but not by the Terms.",
+ src:"https://help.brightfunded.com/en/articles/9286630-what-countries-are-restricted-at-brightfunded", srcType:"official_help", label:"unverified"},
+{id:"company-reg", title:"Can I register as a company?", cat:"account", sev:"allow", critical:false, models:["all"], phases:"both",
+ value:"Yes - invoices and payouts can be in the company name", unit:"-",
+ basis:"Official FAQ: register as an individual using the company address, then add business information in the profile. Invoices are issued in the company name and payouts can go to the company bank account. No KYB process.",
+ expl:"Only individual KYC is required; there is no corporate verification.",
+ example:"A trading company can have the invoice and payout in its own name without a KYB review.",
+ src:"https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions", srcType:"official_help", label:"verified"}
+);
+
+/* ---- Coupons ---------------------------------------------------------- */
+const COUPONS = [
+ {group:"Officially advertised - live on brightfunded.com", label:"advertised", items:[
+  {code:"RALLY30", off:"30% OFF", models:"1-Step Challenge", excl:"Not documented", exp:"Autumn Promo - no end date published", first:"Not stated", stack:"Not stated", src:"https://brightfunded.com/1-step", status:"Live - officially advertised (site banner + copy button)"},
+  {code:"RALLY25", off:"25% OFF", models:"2-Step Bright Challenge", excl:"Not documented", exp:"Autumn Promo - no end date published", first:"Not stated", stack:"Not stated", src:"https://brightfunded.com/2-step-bright", status:"Live - officially advertised"},
+  {code:"RALLY15", off:"15% OFF", models:"2-Step Classic Challenge", excl:"Not documented", exp:"Autumn Promo - no end date published", first:"Not stated", stack:"Not stated", src:"https://brightfunded.com/2-step-classic", status:"Live - officially advertised"}
+ ]},
+ {group:"Third-party / affiliate claims - NOT confirmed by BrightFunded", label:"unverified", items:[
+  {code:"MATCH30", off:"30% OFF + free account (as advertised)", models:"Claimed for the firm generally", excl:"Unknown", exp:"Unknown", first:"Unknown", stack:"Unknown", src:"https://propfirmmatch.com/prop-firms/brightfunded", status:"Third-party claim. PropFirmMatch is an affiliate marketplace with a review-bounty programme - treat as unverified"}
+ ]},
+ {group:"Historical official codes - expired, do not use", label:"historical", items:[
+  {code:"WEEKEND", off:"40% OFF", models:"$100K and $200K 1-Step ONLY", excl:"All other sizes and plans", exp:"Ended Sunday midnight 11 Oct 2026", first:"Not stated", stack:"Not stated", src:"Official Telegram t.me/s/brightfunded", status:"Expired (ended the day before this research date)"},
+  {code:"3YEARS", off:"30% OFF all challenges + free account + 15% evaluation profit reward", models:"All challenges", excl:"Unknown", exp:"21-30 Sep 2026", first:"Not stated", stack:"Not stated", src:"Official Telegram t.me/s/brightfunded", status:"Expired"},
+  {code:"DOUBLE25", off:"25% OFF + free account upon payout + 15% evaluation profit reward", models:"Not stated", excl:"Unknown", exp:"9-14 Sep 2026", first:"Not stated", stack:"Not stated", src:"Official Telegram t.me/s/brightfunded", status:"Expired"},
+  {code:"NOV15", off:"15% OFF + 15% Phase 1 & 2 profit share", models:"2-Step (original model)", excl:"Unknown", exp:"November 2025", first:"Not stated", stack:"Not stated", src:"brightfunded.com archived 5 Nov 2025 (web.archive.org)", status:"Expired"},
+  {code:"TREAT30", off:"30% OFF", models:"2-Step (original model)", excl:"Unknown", exp:"Halloween 2025 - limited time", first:"Not stated", stack:"Not stated", src:"brightfunded.com archived 5 Nov 2025 (web.archive.org)", status:"Expired"},
+  {code:"BF30", off:"30% OFF + 85% payout split", models:"2-Step (original model)", excl:"Unknown", exp:"Black Friday, 24 Nov 2025", first:"Not stated", stack:"Not stated", src:"Official Telegram t.me/s/brightfunded", status:"Expired"},
+  {code:"CM25", off:"25% OFF + 15% evaluation phase profit share", models:"2-Step (original model)", excl:"Unknown", exp:"1-3 Dec 2025", first:"Not stated", stack:"Not stated", src:"Official Telegram t.me/s/brightfunded", status:"Expired"},
+  {code:"DEC15", off:"15% OFF + 15% evaluation phase profit share", models:"2-Step (original model)", excl:"Unknown", exp:"Ended 31 Dec 2025", first:"Not stated", stack:"Not stated", src:"Official Telegram t.me/s/brightfunded", status:"Expired"},
+  {code:"NEW15", off:"15% OFF", models:"2-Step (original model)", excl:"Unknown", exp:"March 2026 (new-customer promo)", first:"Yes - labelled 'New Customer Promo'", stack:"Unknown", src:"brightfunded.com archived 3 Mar 2026 (web.archive.org)", status:"Expired"},
+  {code:"BF10", off:"10% OFF", models:"2-Step (original model)", excl:"Unknown", exp:"March 2026 (existing-customer promo)", first:"No - labelled 'Existing Customer Promo'", stack:"Unknown", src:"brightfunded.com archived 3 Mar 2026 (web.archive.org)", status:"Expired"}
+ ]}
+];
+
+/* ---- Rule-change timeline --------------------------------------------- */
+const TIMELINE = [
+ {d:"January 2023", t:"BrightFunded idea formed", x:"Jelle and Syb Dijkstra start the project. Domain brightfunded.com registered 9 January 2023 (RDAP).", src:"https://brightfunded.com/about-us"},
+ {d:"September 2023", t:"Official launch", x:"Company opens to traders with a single 2-step evaluation model.", src:"https://brightfunded.com/about-us"},
+ {d:"9 May 2024, 00:00 CET", t:"News-trading rule introduced", x:"Funded accounts get a 10-minute no-trade window around high-impact news. Explicitly a soft breach. Previous rules allowing free news trading were declared null and void.", src:"https://help.brightfunded.com/en/articles/9241694-can-i-trade-news", h:false},
+ {d:"13 August 2024, 00:00 CET", t:"Hedging rule tightened", x:"Inter-account, cross-platform and cross-firm hedging banned; one-time soft breach then hard breach. Same-account hedging explicitly allowed.", src:"https://help.brightfunded.com/en/articles/9680850-how-does-the-hedging-rule-work", h:false},
+ {d:"April 2025", t:"cTrader added", x:"Platform line-up extended.", src:"https://brightfunded.com/about-us"},
+ {d:"1 September 2025", t:"Inactivity policy effective", x:"30 calendar days without a trade deactivates an account. Applied to ALL accounts, including those already issued - a retroactive policy.", src:"https://help.brightfunded.com/en/articles/11774572-inactivity-rule-policy", h:false},
+ {d:"22 September 2025, 11:00 CET", t:"Daily drawdown calculation changed", x:"Old: 5% of challenge size, BALANCE based. New: loss limit = end-of-day highest of balance or equity minus (daily % x original challenge size). Applies to accounts purchased after this moment.", src:"https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts", h:false},
+ {d:"September 2025", t:"MetaTrader 5 added; 2nd anniversary", x:"MT5 launched. Company reports 27,500+ traders funded.", src:"https://brightfunded.com/about-us"},
+ {d:"December 2025", t:"$10M total payouts announced", x:"Company-reported milestone, not independently audited.", src:"https://brightfunded.com/about-us"},
+ {d:"3 January 2026", t:"15% evaluation profit reward effective", x:"Paid challenge accounts only; requires 10% growth on the funded account and a payout. Not available on the free $1K challenge.", src:"https://help.brightfunded.com/en/articles/13367202-15-evaluation-profit-reward", h:false},
+ {d:"13 April 2026", t:"BrightFunded 2.0 - new plans, old rules grandfathered", x:"1-Step, 2-Step Bright and 2-Step Classic introduced. Every account bought before this date keeps the 'Original' 2-step rules permanently (8%/5% targets, 5% daily, 10% static).", src:"https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts", h:false},
+ {d:"June 2026", t:"Revolut partnership, 'New Era' and Free $1K Challenge launch", x:"Payment/ payout partnership announced; free $1,000 challenge introduced.", src:"https://brightfunded.com/about-us"},
+ {d:"2 September 2026", t:"Autumn Rally promo live", x:"RALLY30 (1-Step 30% off), RALLY25 (2-Step Bright 25% off), RALLY15 (2-Step Classic 15% off) plus 15% evaluation profit reward.", src:"https://t.me/s/brightfunded", h:false},
+ {d:"9-11 October 2026", t:"'WEEKEND' 40% offer ran and expired", x:"40% off applied only to $100K and $200K 1-Step accounts. Ended Sunday 11 October 2026 at midnight.", src:"https://t.me/s/brightfunded", h:true},
+ {d:"11 October 2026", t:"Research date for this dashboard", x:"All rules, prices and sources verified on this date. Re-check before purchasing - the firm changes rules frequently.", src:"", h:false}
+];
+
+/* ---- Independent reputation ------------------------------------------- */
+const REVIEWS = [
+ {src:"Trustpilot", url:"https://www.trustpilot.com/review/brightfunded.com", score:"Rating SUPPRESSED by Trustpilot", n:"570 reviews (211 in the last 12 months); underlying TrustScore 3.3",
+  note:"Trustpilot displays a warning banner: the company's rating is unavailable due to a breach of Trustpilot's guidelines. Star split is bimodal - 407 five-star (71.4%) against 113 one-star (19.8%).", label:"verified", flag:"bad"},
+ {src:"PropFirmMatch (affiliate marketplace)", url:"https://propfirmmatch.com/prop-firms/brightfunded", score:"4.4 / 5", n:"132 reviews",
+  note:"PropFirmMatch is a commercial marketplace with affiliate buy-links, exclusive discount codes and a review-bounty programme, so ratings may be incentivised. Not a neutral source.", label:"unverified", flag:"warn"},
+ {src:"PropFirmMap", url:"https://propfirmmap.com/propfirms/brightfunded/", score:"No profile", n:"404 - not listed", note:"No BrightFunded profile exists on this site.", label:"verified", flag:""},
+ {src:"TradingPilot", url:"https://tradingpilot.com/reviews/brightfunded", score:"No profile", n:"404 - not listed", note:"No review page found.", label:"verified", flag:""},
+ {src:"Sitejabber", url:"https://www.sitejabber.com/reviews/brightfunded.com", score:"No rating", n:"0 reviews", note:"Profile exists but has no reviews - no signal either way.", label:"verified", flag:""},
+ {src:"ForexPeaceArmy", url:"https://www.forexpeacearmy.com/", score:"No listing found", n:"-", note:"No review thread or scam alert located. Absence of a listing is not a clean bill of health.", label:"unverified", flag:""},
+ {src:"ScamAdviser (automated heuristic)", url:"https://www.scamadviser.com/check-website/brightfunded.com", score:"Trust score 100 - 'likely legit'", n:"automated", note:"Based on domain age, SSL and cookie consent only. This is NOT evidence of payout reliability or solvency.", label:"unverified", flag:""},
+ {src:"Reddit (r/PropFirmTester, r/propfirm, r/Forex)", url:"https://reddit.com/r/PropFirmTester/comments/1vq9nxy/brightfunded/", score:"Mixed", n:"multiple threads",
+  note:"Positive: 'solid for major Forex pairs ... spreads competitive, execution fast'. Negative: Trustpilot warning noted by users, crypto slippage complaints, and one report of a payout initially reduced to 30% before being paid in full after escalation. Heavy affiliate discount-code spam pollutes signal.", label:"unverified", flag:"warn"},
+ {src:"YouTube", url:"https://www.youtube.com/@BrightFunded", score:"Mostly brand-owned", n:"-", note:"Search results are dominated by the official channel; a critical third-party video ('Why 90% of Traders FAIL Their Challenge') exists but no high-credibility independent payout-proof video was identified.", label:"unverified", flag:""},
+ {src:"Company's own reviews page", url:"https://brightfunded.com/reviews", score:"4.5 'loved by 42.9K+'", n:"28K+ reviews claimed", note:"Self-published testimonials with no disclosed methodology and no link to a verifiable third-party profile. Treated as marketing, not evidence.", label:"advertised", flag:""}
+];
+
+const REVIEW_THEMES = {
+  neg:[
+   "Account breach or payout refusal shortly after reaching payout eligibility.",
+   "Opaque breach arithmetic - traders report support declining to show the numbers behind a breach.",
+   "Trailing drawdown on 1-Step accounts breaching accounts quickly (the firm's own FAQ example shows how a reversed floating profit can breach you).",
+   "Complaints that floating profit, commission and swap are included in the daily-loss calculation.",
+   "KYC and funded-credential delays beyond the published 1-2 business day window.",
+   "Allegations that reinstatement was conditioned on removing public reviews.",
+   "Risk limits reduced mid-account (1% daily drawdown cited by one reviewer) before a breach.",
+   "Slippage on crypto instruments; support quality and disappearing stop-loss orders."
+  ],
+  pos:[
+   "Fast payouts once approved - many report minutes to hours, consistent with the firm's ~17 hour average claim.",
+   "No consistency rule and no profit cap, which is genuinely trader-friendly.",
+   "The free $1,000 challenge gives a zero-cost route to a funded account.",
+   "Named support staff praised; CEO-level escalation reported to resolve some disputes in the trader's favour.",
+   "Competitive spreads and execution on major forex pairs."
+  ]
+};
+
+const PAYOUT_EVIDENCE = [
+ {k:"Company claim", v:"$60M+ paid to traders", note:"Stated in a company reply on Trustpilot (2 Sep 2026). Company-published, unaudited, no supporting ledger.", label:"advertised"},
+ {k:"Third-party tracked ledger", v:"$7,818,495 across 4,720 payouts; largest $31,896; 0 reported delays", note:"PropFirmMatch payout tracker (checked 2026-10-11). Affiliate marketplace, self-reported, and NOT reconciled with the $60M claim - the gap is unexplained.", label:"unverified"},
+ {k:"Blockchain / on-chain proof", v:"None found", note:"No transaction hashes or on-chain payout proofs were located in any accessible independent source.", label:"unverified"},
+ {k:"KYC-verified reviews", v:"None identified", note:"Trustpilot reviews carry no verified badge that could be observed.", label:"unverified"},
+ {k:"Site milestone", v:"$13M+ 'paid in rewards' and 27,500+ traders funded", note:"Self-published site statistics. The reviews page figure does not match the $60M Trustpilot claim.", label:"advertised"}
+];
+
+const COMPANY_FACTS = [
+ {k:"Domain registered", v:"9 January 2023", note:"RDAP (Verisign). Expires 2031 - long-term registration. Registrar GoDaddy, nameservers Cloudflare. Last changed 11 Dec 2025.", label:"verified"},
+ {k:"Wyoming entity", v:"BrightFunded LLC, company number 2026-001958808", note:"Listed on OpenCorporates with registered address 30 N Gould St STE R, Sheridan, WY 82801 - a well-known registered-agent / mail-forwarding address, and different from the advertised Austin, TX business address. Number prefix suggests 2026 formation.", label:"verified"},
+ {k:"Dutch entity (not disclosed by the company)", v:"BrightFunded B.V., Netherlands, company number 89766474", note:"Appears on OpenCorporates but is absent from BrightFunded's own legal disclosures - a transparency gap.", label:"verified"},
+ {k:"Saint Lucia entity", v:"BrightFunded Ltd., reg. 2025-00358", note:"Company-advertised only. Saint Lucia's registry is not freely searchable; not independently confirmed.", label:"advertised"},
+ {k:"Cyprus entity", v:"Bright Transact Ltd., HE 478945", note:"Company-advertised only; no third-party confirmation located.", label:"advertised"},
+ {k:"UAE entity", v:"Bright Global ... FZCO, IFZA / Dubai Silicon Oasis", note:"Company-advertised only; no public free-zone registry available for confirmation.", label:"advertised"},
+ {k:"Regulatory warnings", v:"None found", note:"No FCA/CySEC/SEC/CFTC/ASIC warning located. Absence of a warning is not the same as being regulated.", label:"unverified"},
+ {k:"Lawsuits / chargebacks", v:"No court filings found", note:"Search for litigation or formal chargeback records returned nothing. Scam allegations exist in reviews but are largely anonymous and disputed; no independently corroborated fraud determination was found.", label:"unverified"},
+ {k:"Audited financials", v:"None published", note:"No audited financial statements were found for any BrightFunded entity.", label:"verified"}
+];
+
+/* ---- Unresolved / conflicting ----------------------------------------- */
+const UNRESOLVED = [
+ {t:"Is there a minimum payout amount, or can you withdraw $0.01?", why:"It changes whether you can take money out early or must wait until you have accumulated a meaningful balance.",
+  conf:"The help article 'How does my Reward Split work' says there is no minimum reward and that even $0.01 can be requested. The Free $1K comparison table on brightfunded.com shows a '$40 Payout' for 5% profit on the free account and a 'Minimum $4,000 Payout' for the $100K challenge - implying a 5% first-payout threshold.",
+  models:"All plans", ask:"What is the minimum profit amount required before I can request my first and subsequent payouts, and does the 5% figure shown on the comparison table apply?"},
+ {t:"Is Pakistan a restricted country or not?", why:"If you are in Pakistan you cannot buy a challenge at all, or you can and the site contradicts itself.",
+  conf:"The Terms & Conditions section 2 lists only Cuba, Iran, North Korea, Syria and Vietnam. The Help Centre article 'What countries are restricted' adds Pakistan, while saying existing Pakistani accounts may continue trading.",
+  models:"All plans", ask:"Can a resident of Pakistan purchase a new challenge today? The Terms and the Help Centre give different answers."},
+ {t:"Is the 15% evaluation profit reward automatic or must I request it?", why:"If it is not automatic and you do not ask, you may silently lose the bonus.",
+  conf:"One help article states you must contact support to have the bonus applied. Another describes it as issued automatically when the conditions are met. The promotion guide does not mention a request step.",
+  models:"1-Step, 2-Step Bright, 2-Step Classic", ask:"Is the 15% evaluation profit reward credited automatically when I reach 10% growth and take a payout, or do I need to contact support?"},
+ {t:"Can growth be combined across separate funded accounts?", why:"It determines whether you can reach the 10% threshold faster by spreading trades.",
+  conf:"The reward-split article says growth can be combined across multiple funded accounts (e.g. 5% + 5%). The dedicated 15% reward article says it may only be combined within the same linked funded account chain (original account plus its post-payout successors), and that growth from separate funded accounts is not eligible.",
+  models:"All paid plans", ask:"For the 15% evaluation profit reward, may I combine growth from two independently purchased funded accounts, or only within one account chain?"},
+ {t:"The site shows prices in EUR but the numbers match a USD base price list", why:"You may be charged in a currency that differs from the number you saw, changing the real cost.",
+  conf:"The public purchase API returns the same numbers as USD list prices (e.g. 1-Step $5K = 49.00) while the website labels those numbers EUR (EUR 49). The checkout currency shown to a given user may be localised by geography.",
+  models:"All plans", ask:"Which currency will I actually be charged in, and is the amount shown the final total including any conversion?"},
+ {t:"What exactly is the 'Avg. reward' figure on the plan pages?", why:"It is presented next to the price and looks like an expected payout, but the definition is not published.",
+  conf:"Plan cards show 'Avg. reward' of $217 for $5K up to $4,272 for $200K with no methodology. It does not match the 15% evaluation reward, the profit target, or any published statistic.",
+  models:"All paid plans", ask:"How is the 'Avg. reward' figure on the plan pages calculated, and over what period?"},
+ {t:"Does the 5-minute news rule apply to the free $1K funded account?", why:"The free challenge pages describe the funded-stage news restriction inconsistently with the paid plans.",
+  conf:"The news article is written for paid accounts. The Free $1K help article does not restate the news restriction, while the site's how-it-works page describes the funded-stage rule generically.",
+  models:"Free $1K", ask:"Does the 10-minute high-impact news restriction apply to the funded account obtained through the Free $1K Challenge?"},
+ {t:"The free $1K hero block shows '6% Profit Target' but every other source says 10%", why:"It changes how hard the free challenge actually is.",
+  conf:"The free-$1K page hero shows '6%' next to the label 'Profit Target', while the body copy says 'Make $100 in simulated profit' (10% of $1,000), the comparison table says 10%, and the help article says Phase 1 target 10%. 6% is the maximum drawdown figure, so the hero label appears mis-mapped.",
+  models:"Free $1K", ask:"Please confirm the Free $1K Challenge profit target is 10% ($100) and that 6% is the maximum total drawdown."},
+ {t:"How is the daily loss limit recalculated exactly, and when?", why:"A single misunderstanding here breaches accounts.",
+  conf:"Help articles describe the reset as happening 'between 23:30 and 23:59 CET' and refer to 'rollover' elsewhere as 01:59-02:00 CET for swaps. The exact instant at which the end-of-day high-water mark is sampled is not stated to the second.",
+  models:"All plans", ask:"At exactly what timestamp is the end-of-day high-water mark for the daily loss limit sampled, and in which time zone?"},
+ {t:"What does the risk team's discretionary review actually measure?", why:"Terms 5.8 and 6.19 let the firm reduce leverage, cut drawdown limits, remove transactions or withhold rewards at its discretion, and several reviews describe exactly that happening.",
+  conf:"The criteria are not published. The funded-account article refers to 'a structured risk profile' and 'temporary risk measures' without defining thresholds.",
+  models:"All plans", ask:"What specific, measurable criteria trigger a risk review on a funded account, and can any parameter be changed without my written agreement?"},
+ {t:"Are the two pricing 'variants' (swap-charged vs swap-free) shown clearly at checkout?", why:"The swap-free account costs about 10% more and the distinction is easy to miss.",
+  conf:"The public API exposes both a swap-charged and a swap-free price for every size, and the Swap-Free add-on is listed at +10%, but the plan pages show only one price.",
+  models:"All plans", ask:"Does the price shown on the plan page include or exclude the swap-free variant, and how do I confirm which variant I am buying?"},
+ {t:"Is the '24-Hour Guaranteed Payout' a contractual guarantee?", why:"It is the firm's headline payout claim.",
+  conf:"The help article states a maximum of one day for processing after the request, but the marketing phrase 'guaranteed' does not appear in the Terms. Processing is distinct from settlement in your bank or wallet.",
+  models:"All plans", ask:"Is the 24-hour payout processing time a contractual commitment, and what happens if it is exceeded?"}
+];
+
+/* ---- Sources ---------------------------------------------------------- */
+const SOURCES = [
+ {t:"1-Step Challenge plan page", u:"https://brightfunded.com/1-step", kind:"Official", sec:"Pricing widget, feature grid, add-on list", d:"Published 5 Oct 2026", acc:"2026-10-11", sup:"1-Step targets, 3% daily / 6% trailing drawdown, size list, list and promo prices, RALLY30"},
+ {t:"2-Step Bright plan page", u:"https://brightfunded.com/2-step-bright", kind:"Official", sec:"Pricing widget", d:"Published 5 Oct 2026", acc:"2026-10-11", sup:"2-Step Bright 8%/5% targets, 4% daily / 8% static, prices, RALLY25"},
+ {t:"2-Step Classic plan page", u:"https://brightfunded.com/2-step-classic", kind:"Official", sec:"Pricing widget", d:"Published 5 Oct 2026", acc:"2026-10-11", sup:"2-Step Classic 10%/5% targets, 5% daily / 10% static, prices, RALLY15"},
+ {t:"Comparison table", u:"https://brightfunded.com/comparison-table", kind:"Official", sec:"Full plan matrix", d:"2026", acc:"2026-10-11", sup:"Cross-plan rule matrix, 'up to 100% payout ratio', add-on list"},
+ {t:"How it works", u:"https://brightfunded.com/how-it-works", kind:"Official", sec:"Process, funded stage, payout flow", d:"2026", acc:"2026-10-11", sup:"Funded-stage news restriction, no-consistency claim, payout flow, scaling summary"},
+ {t:"Free $1K Challenge page", u:"https://brightfunded.com/free-1k-challenge", kind:"Official", sec:"Free challenge terms and comparison", d:"2026", acc:"2026-10-11", sup:"Free challenge 3%/6% trailing, 10% body target, $40 first payout, restricted claims per country"},
+ {t:"Scaling plan page", u:"https://brightfunded.com/scaling-plan", kind:"Official", sec:"Scaling conditions", d:"2026", acc:"2026-10-11", sup:"+30% per 4 months, 90% then 100% split, no upper limit"},
+ {t:"Trading instruments", u:"https://brightfunded.com/trading-instruments", kind:"Official", sec:"Instrument list", d:"2026", acc:"2026-10-11", sup:"46 forex symbols; crypto, indices and commodities categories"},
+ {t:"Platforms", u:"https://brightfunded.com/platforms", kind:"Official", sec:"MT5 / cTrader / DXtrade", d:"2026", acc:"2026-10-11", sup:"Platform line-up and device coverage"},
+ {t:"About us (history and team)", u:"https://brightfunded.com/about-us", kind:"Official", sec:"Corporate timeline", d:"2026", acc:"2026-10-11", sup:"Launch Sept 2023, Dubai HQ Jan 2025, MT5 Sept 2025, new plans Apr 2026, Revolut Jun 2026"},
+ {t:"Reviews page (self-published)", u:"https://brightfunded.com/reviews", kind:"Official", sec:"Testimonials", d:"2026", acc:"2026-10-11", sup:"Self-reported 4.5 rating, $13M+ rewards, 27,500+ funded - marketing, not independent"},
+ {t:"Terms and Conditions", u:"https://brightfunded.com/terms-and-conditions", kind:"Official", sec:"Clauses 2, 3.3, 3.4, 4.1, 5.4-5.14, 6.3-6.19, 7.1-7.8", d:"Current at research date", acc:"2026-10-11", sup:"Restricted countries, refund exclusions, chargeback policy, forbidden practices, capital cap, discretion clauses, fee-refund forfeiture"},
+ {t:"Help: Current evaluation rules by plan", u:"https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process", kind:"Official", sec:"Rule matrix", d:"2026", acc:"2026-10-11", sup:"Drawdown percentages, targets, min trading days, daily reset"},
+ {t:"Help: BrightFunded 1-Step", u:"https://help.brightfunded.com/en/articles/14284743-brightfunded-1-step", kind:"Official", sec:"Full rule detail", d:"2026", acc:"2026-10-11", sup:"Trailing drawdown mechanics, worked examples, lock-in at +6%"},
+ {t:"Help: BrightFunded 2-Step Bright", u:"https://help.brightfunded.com/en/articles/14284817-brightfunded-2-step-bright", kind:"Official", sec:"Full rule detail", d:"2026", acc:"2026-10-11", sup:"Static drawdown, 8%/5% targets"},
+ {t:"Help: BrightFunded 2-Step Classic", u:"https://help.brightfunded.com/en/articles/14284844-brightfunded-2-step-classic", kind:"Official", sec:"Full rule detail", d:"2026", acc:"2026-10-11", sup:"Static drawdown, 10%/5% targets"},
+ {t:"Help: Original accounts (pre-2.0)", u:"https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts", kind:"Official", sec:"Grandfathered rules", d:"2026", acc:"2026-10-11", sup:"Pre-13 Apr 2026 rules and the 22 Sep 2025 daily-drawdown method change"},
+ {t:"Help: How my daily permitted loss works", u:"https://help.brightfunded.com/en/articles/12291765-how-does-my-daily-permitted-loss-work", kind:"Official", sec:"Drawdown formula", d:"2026", acc:"2026-10-11", sup:"End-of-day high-water mark formula and worked examples"},
+ {t:"Help: Reward split on my funded account", u:"https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account", kind:"Official", sec:"Payout terms", d:"2026", acc:"2026-10-11", sup:"30-day first payout, 14-day cycle, 80/90/100% splits, no minimum reward, add-ons"},
+ {t:"Help: Can I trade news", u:"https://help.brightfunded.com/en/articles/9241694-can-i-trade-news", kind:"Official", sec:"News rule", d:"Effective 9 May 2024", acc:"2026-10-11", sup:"10-minute funded-stage window, soft breach, 48-hour TP exemption"},
+ {t:"Help: How the hedging rule works", u:"https://help.brightfunded.com/en/articles/9680850-how-does-the-hedging-rule-work", kind:"Official", sec:"Hedging", d:"Effective 13 Aug 2024", acc:"2026-10-11", sup:"Inter-account/cross-platform/cross-firm bans, one-time soft breach, same-account hedging allowed"},
+ {t:"Help: Which strategies are prohibited", u:"https://help.brightfunded.com/en/articles/9241704-which-strategies-are-prohibited-at-brightfunded", kind:"Official", sec:"Prohibited strategies", d:"2026", acc:"2026-10-11", sup:"Grid, arbitrage, tick scalping, HFT, overleveraging, one-sided bets, account rolling"},
+ {t:"Help: Is copy trading allowed", u:"https://help.brightfunded.com/en/articles/9241709-is-copy-trading-allowed", kind:"Official", sec:"Copy trading", d:"2026", acc:"2026-10-11", sup:"Own-account copying only; detection signals; caution-to-termination consequences"},
+ {t:"Help: Can I use an EA", u:"https://help.brightfunded.com/en/articles/9241699-can-i-use-ea", kind:"Official", sec:"Automation", d:"2026", acc:"2026-10-11", sup:"EAs allowed; no API/automation on DXtrade; compatibility not guaranteed"},
+ {t:"Help: VPN/VPS permitted", u:"https://help.brightfunded.com/en/articles/9436443-is-it-permitted-to-use-a-vpn-vps-at-brightfunded", kind:"Official", sec:"Access", d:"2026", acc:"2026-10-11", sup:"VPN/VPS allowed; third-party account use prohibited"},
+ {t:"Help: Inactivity rule policy", u:"https://help.brightfunded.com/en/articles/11774572-inactivity-rule-policy", kind:"Official", sec:"Inactivity", d:"Effective 1 Sep 2025", acc:"2026-10-11", sup:"30-day rule, retroactive application, 6-month reactivation window"},
+ {t:"Help: Single account policy", u:"https://help.brightfunded.com/en/articles/11079360-single-account-policy-important-for-all-our-users", kind:"Official", sec:"Account integrity", d:"2026", acc:"2026-10-11", sup:"One profile per person; detection methods; penalties"},
+ {t:"Help: Restricted countries", u:"https://help.brightfunded.com/en/articles/9286630-what-countries-are-restricted-at-brightfunded", kind:"Official", sec:"Eligibility", d:"2026", acc:"2026-10-11", sup:"Adds Pakistan to the Terms list - source of the discrepancy"},
+ {t:"Help: Commissions", u:"https://help.brightfunded.com/en/articles/9268221-what-are-the-commissions-in-the-simulated-environment-of-brightfunded", kind:"Official", sec:"Costs", d:"2026", acc:"2026-10-11", sup:"$3/lot forex, $0 indices, crypto and commodity percentage commissions"},
+ {t:"Help: Leverage", u:"https://help.brightfunded.com/en/articles/9268380-what-is-the-leverage-in-brightfunded-s-simulated-trading-environment", kind:"Official", sec:"Leverage", d:"2026", acc:"2026-10-11", sup:"1:100 forex, 1:40 metals, 1:20 indices, 1:5 crypto"},
+ {t:"Help: Swap fees", u:"https://help.brightfunded.com/en/articles/9286673-what-are-the-swap-fees", kind:"Official", sec:"Costs", d:"2026", acc:"2026-10-11", sup:"Rollover 01:59-02:00 CET, triple swap Wednesday/Friday"},
+ {t:"Help: 15% evaluation profit reward", u:"https://help.brightfunded.com/en/articles/13367202-15-evaluation-profit-reward", kind:"Official", sec:"Bonus", d:"Effective 3 Jan 2026", acc:"2026-10-11", sup:"Paid accounts only, 10% growth requirement, contact-support ambiguity"},
+ {t:"Help: Scaling plan", u:"https://help.brightfunded.com/en/articles/9268774-how-to-scale-up-my-funded-account-infinitely", kind:"Official", sec:"Scaling", d:"2026", acc:"2026-10-11", sup:"4-month review, 2 of 4 months profitable, 10% total, 2 payouts, request required"},
+ {t:"Help: KYC process", u:"https://help.brightfunded.com/en/articles/9973224-how-does-the-kyc-process-work", kind:"Official", sec:"Compliance", d:"2026", acc:"2026-10-11", sup:"SumSub, ID plus proof of address, AML standards"},
+ {t:"Help: Obtain my funded account", u:"https://help.brightfunded.com/en/articles/9268287-how-do-i-obtain-my-funded-account", kind:"Official", sec:"Post-pass process", d:"2026", acc:"2026-10-11", sup:"KYC, 1-2 day risk check (up to 4), automated contract and activation"},
+ {t:"Help: General FAQ", u:"https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions", kind:"Official", sec:"Mixed", d:"2026", acc:"2026-10-11", sup:"No consistency rule, no profit cap, $400K cap, no minimum holding time, card purchases, company registration"},
+ {t:"Help: Refunds", u:"https://help.brightfunded.com/en/articles/9460023-can-i-get-a-refund-for-my-brightfunded-challenge", kind:"Official", sec:"Refunds", d:"2026", acc:"2026-10-11", sup:"No trades + under 30 days; 48h processing; 3-10 business days to arrive"},
+ {t:"Public purchase API - price definitions", u:"https://api.prod-1.brightfunded2.com/purchases/1/definitions", kind:"Official", sec:"Machine-readable price list", d:"Live", acc:"2026-10-11", sup:"Base prices per plan/size/currency, swap-charged vs swap-free variants, original 2-step prices"},
+ {t:"Public purchase API - checkout add-ons", u:"https://api.prod-1.brightfunded2.com/purchases/1/addons/mine", kind:"Official", sec:"Add-on pricing", d:"Live", acc:"2026-10-11", sup:"Exact % uplift for each add-on and the phase each applies to"},
+ {t:"Trustpilot profile", u:"https://www.trustpilot.com/review/brightfunded.com", kind:"Independent", sec:"Reviews", d:"Checked 2026-10-11", acc:"2026-10-11", sup:"Rating suppressed for a guidelines breach; 570 reviews; 19.8% one-star; complaint themes"},
+ {t:"PropFirmMatch profile and payout tracker", u:"https://propfirmmatch.com/prop-firms/brightfunded", kind:"Independent (affiliate)", sec:"Reviews and payouts", d:"Checked 2026-10-11", acc:"2026-10-11", sup:"4.4/132 reviews, $7.8M tracked payouts, 0 reported delays; affiliate incentives disclosed"},
+ {t:"OpenCorporates - Wyoming entity", u:"https://opencorporates.com/companies/us_wy/2026-001958808", kind:"Independent registry", sec:"Corporate", d:"Checked 2026-10-11", acc:"2026-10-11", sup:"BrightFunded LLC, reg. 2026-001958808, Sheridan WY registered-agent address"},
+ {t:"OpenCorporates - Netherlands entity", u:"https://opencorporates.com/companies/nl/89766474", kind:"Independent registry", sec:"Corporate", d:"Checked 2026-10-11", acc:"2026-10-11", sup:"BrightFunded B.V., company number 89766474 - not disclosed by the company"},
+ {t:"RDAP domain record", u:"https://rdap.verisign.com/com/v1/domain/brightfunded.com", kind:"Independent registry", sec:"Domain", d:"Checked 2026-10-11", acc:"2026-10-11", sup:"Registered 2023-01-09, expires 2031-01-09, GoDaddy, Cloudflare nameservers"},
+ {t:"Official Telegram channel", u:"https://t.me/s/brightfunded", kind:"Official", sec:"Promotions", d:"Checked 2026-10-11", acc:"2026-10-11", sup:"Autumn Rally codes and expired promo history (WEEKEND, 3YEARS, DOUBLE25, BF30, CM25, DEC15)"},
+ {t:"Archived homepage 5 Nov 2025", u:"http://web.archive.org/web/20251105021813/https://brightfunded.com/", kind:"Official (archived)", sec:"Historical pricing and promos", d:"5 Nov 2025", acc:"2026-10-11", sup:"Single 2-Step plan, $5K = EUR 55, $100K = EUR 495, TREAT30 and NOV15 codes"},
+ {t:"Archived homepage 3 Mar 2026", u:"http://web.archive.org/web/20260303163346/https://brightfunded.com/", kind:"Official (archived)", sec:"Historical promos", d:"3 Mar 2026", acc:"2026-10-11", sup:"NEW15 (new customer 15%) and BF10 (existing customer 10%) codes"},
+ {t:"Reddit r/PropFirmTester thread", u:"https://reddit.com/r/PropFirmTester/comments/1vq9nxy/brightfunded/", kind:"Independent", sec:"Trader discussion", d:"16 Aug 2026", acc:"2026-10-11", sup:"Community note on the Trustpilot warning and slippage concerns"}
+];
+
+/* =======================  APP LOGIC  ==================================== */
+const $  = (s,r)=> (r||document).querySelector(s);
+const $$ = (s,r)=> Array.from((r||document).querySelectorAll(s));
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function n0(v,d){d=d==null?0:d;return Number(v).toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});}
+function usd(v,d){d=d==null?0:d;return "$"+n0(v,d);}
+function pct(v){return n0(v,2).replace(/\.00$/,"")+"%";}
+function money(v){ if(!isFinite(v)) return "-";
+  const a=Math.abs(v); const d=(a>=1000?0:(a>=10?2:4));
+  return "$"+v.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d}); }
+function sizeLabel(v){return "$"+(v>=1000?(v/1000)+"K":v);}
+function toast(msg){const t=$("#toast");t.textContent=msg;t.classList.add("show");clearTimeout(t._h);t._h=setTimeout(()=>t.classList.remove("show"),2200);}
+function copyText(txt,btn,label){const done=()=>{if(btn){const o=btn.textContent;btn.classList.add("copied");btn.textContent=label||"Copied";setTimeout(()=>{btn.classList.remove("copied");btn.textContent=o;},1400);}toast("Copied to clipboard");};
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(done).catch(()=>{fallback();});}else{fallback();}
+  function fallback(){const ta=document.createElement("textarea");ta.value=txt;ta.setAttribute("readonly","");ta.style.position="fixed";ta.style.opacity="0";document.body.appendChild(ta);ta.select();try{document.execCommand("copy");}catch(e){}document.body.removeChild(ta);done();}}
+function labelPill(l){const m={verified:["ok","Verified"],advertised:["acc","Officially advertised"],historical:["hist","Historical"],unverified:["warn","Unverified / conflicting"]};const x=m[l]||m.unverified;return '<span class="badge '+x[0]+'">'+x[1]+'</span>';}
+function sevPill(s){const m={hard:["hard","Hard breach"],soft:["soft","Soft breach"],profit:["profit","Profit removed"],block:["block","Blocks payout"],allow:["allow","Allowed"],cond:["cond","Conditional"],info:["cond","Info"]};const x=m[s]||m.info;return '<span class="sev '+x[0]+'">'+x[1]+'</span>';}
+
+/* ---- Application state ------------------------------------------------ */
+const state = { cat:"onestep", planId:"1step", size:100000, unit:"pct", phase:"p1", buyDate:"2026-10-11",
+  split:80, freq:"biweekly", swapFree:false, extraAddons:[] };
+
+function plan(){ return PLANS.find(p=>p.id===state.planId) || PLANS[0]; }
+function planSizes(){ return plan().sizes.slice(); }
+
+/* Price for the selected plan + size, optionally including add-ons */
+function basePrice(planId,size,swapFree){
+  const key=(PLANS.find(p=>p.id===planId)||{}).baseKey; if(!key) return null;
+  const idx=SIZES.indexOf(size); if(idx<0) return null;
+  const bp=BASE_PRICES[key]; if(!bp) return null;
+  return swapFree? bp.std[idx] : bp.swaps[idx];
+}
+function promoPrice(planId,size,swapFree){
+  const b=basePrice(planId,size,swapFree); if(b==null) return null;
+  const p=PLANS.find(x=>x.id===planId); if(!p||!p.promo) return b;
+  return b*(1-p.promo.pct/100);
+}
+function addonUplift(planId,swapFree){
+  let extra = swapFree?0:0; /* swap-free handled by variant price */
+  (state.extraAddons||[]).forEach(n=>{const a=ADDONS.find(x=>x.name===n); if(a) extra+=a.pct;});
+  return extra;
+}
+function fullCheckout(planId,size,swapFree){
+  const p=promoPrice(planId,size,swapFree); if(p==null) return null;
+  const up=addonUplift(planId,swapFree);
+  return {base:p, addons:p*up/100, total:p*(1+up/100), upliftPct:up};
+}
+
+/* ---- Hero stats ------------------------------------------------------- */
+function renderHero(){
+  const items=[
+   {k:"Programmes found",v:"4 live + 1 grandfathered",x:"1-Step, 2-Step Bright, 2-Step Classic, Free $1K; Original 2-Step is historical",hl:true},
+   {k:"Account sizes",v:"6 paid + $1K free",x:"$5K, $10K, $25K, $50K, $100K, $200K"},
+   {k:"Documented rules",v:RULES.length+" rules",x:"Across 14 categories, each with a source link"},
+   {k:"Cheapest paid entry",v:"EUR 34.30",x:"1-Step $5K with RALLY30 (30% off) - officially advertised"},
+   {k:"Default profit split",v:"80%",x:"90% via +20% add-on, 100% from the 3rd scale-up"},
+   {k:"Consistency rule",v:"None",x:"Officially confirmed - no profit cap either"},
+   {k:"Max funded capital",v:"$400,000",x:"Per trader, funded stage; unlimited evaluations"},
+   {k:"Regulation",v:"None claimed",x:"Firm self-declares unregulated; simulated trading only"},
+   {k:"Trustpilot",v:"Rating suppressed",x:"Trustpilot removed the score for a guidelines breach",bad:true},
+   {k:"First payout wait",v:"30 days",x:"From the first trade on the funded account"}
+  ];
+  $("#heroStats").innerHTML=items.map(i=>'<div class="stat'+(i.hl?" hl":"")+'"><div class="k">'+esc(i.k)+'</div><div class="v"'+(i.bad?' style="color:var(--bad)"':'')+'>'+esc(i.v)+'</div><div class="x">'+esc(i.x)+'</div></div>').join("");
+}
+
+/* ---- Section 1: categories and plans ---------------------------------- */
+const CATS=[{id:"onestep",n:"1-Step"},{id:"twostep",n:"2-Step"},{id:"free",n:"Free $1K"},{id:"historical",n:"Historical"}];
+function renderCats(){
+  $("#catTabs").innerHTML=CATS.map(c=>'<button type="button" class="pill'+(state.cat===c.id?" on":"")+'" data-cat="'+c.id+'">'+esc(c.n)+'</button>').join("");
+  $$("#catTabs .pill").forEach(b=>b.onclick=()=>{state.cat=b.dataset.cat;const first=PLANS.find(p=>p.cat===state.cat);if(first)selectPlan(first.id);else{renderCats();renderPlans();}});
+}
+function selectPlan(id){
+  const p=PLANS.find(x=>x.id===id); if(!p) return;
+  state.planId=id; state.cat=p.cat;
+  if(p.sizes.indexOf(state.size)<0) state.size=p.sizes[p.sizes.length>=4?3:0];
+  state.phase=p.phases[0].id;
+  state.split=p.splitDefault||80;
+  renderAll();
+}
+function renderPlans(){
+  const list=PLANS.filter(p=>p.cat===state.cat);
+  $("#planCards").innerHTML=list.map(p=>{
+    const on=p.id===state.planId;
+    return '<button type="button" class="pick" aria-pressed="'+on+'" data-plan="'+p.id+'">'
+      +'<span class="flag">'+(p.availability==="historical"?'<span class="badge hist">Historical</span>':(p.availability==="current"?'<span class="badge ok">Available now</span>':''))+'</span>'
+      +'<span class="t">'+esc(p.name)+'</span>'
+      +'<span class="d">'+esc(p.tagline)+' &middot; '+(p.phases.length===1?"1 phase":p.phases.length+" phases")+'</span>'
+      +'<span class="d">Daily '+(p.dailyPct)+"% &middot; Max "+(p.maxPct)+"% "+esc(p.maxType)+'</span>'
+      +'<span class="d">'+(p.phases.map(ph=>esc(ph.name)+" "+ph.targetPct+"%").join(" &rarr; "))+'</span>'
+      +'<span class="d">Split '+(p.splitDefault)+"% default &middot; "+(p.consistencyRule?"consistency rule applies":"no consistency rule")+'</span>'
+      +'</button>';
+  }).join("");
+  $$("#planCards .pick").forEach(b=>b.onclick=()=>selectPlan(b.dataset.plan));
+  const p=plan();
+  $("#planNote").innerHTML='<div class="note'+(p.availability==="historical"?' warn':'')+'"><span class="nt">'+esc(p.name)+'</span>'+esc(p.blurb)
+    +' <a href="'+esc(p.sourceUrl)+'" target="_blank" rel="noopener noreferrer">Official source &rarr;</a></div>'
+    +(p.extraRules?'<ul class="small muted">'+p.extraRules.map(r=>'<li>'+esc(r)+'</li>').join("")+'</ul>':'');
+}
+
+/* ---- Section 2: sizes and pricing ------------------------------------- */
+function renderSizes(){
+  const p=plan();
+  const sizes=planSizes();
+  if(sizes.indexOf(state.size)<0) state.size=sizes[0];
+  $("#sizeCards").innerHTML=sizes.map(s=>{
+    const on=s===state.size;
+    const pr=promoPrice(p.id,s,state.swapFree);
+    const bp=basePrice(p.id,s,state.swapFree);
+    const hasPromo=bp!=null&&pr!=null&&pr<bp;
+    const isFree=p.id==="free1k";
+    return '<button type="button" class="pick" aria-pressed="'+on+'" data-size="'+s+'">'
+      +'<span class="t">'+sizeLabel(s)+' account</span>'
+      +'<span class="d">'+(p.phases.length===1?"1 phase":p.phases.length+" phases")+' &middot; daily '+p.dailyPct+'% &middot; max '+p.maxPct+'% '+esc(p.maxType)+'</span>'
+      +'<span class="price">'+(isFree?'Free':'EUR '+(hasPromo?pr.toFixed(2):bp.toFixed(2))+(hasPromo?' <s>EUR '+bp.toFixed(2)+'</s>':''))+'</span>'
+      +'<span class="d">'+(isFree?'$0 - no card required':(hasPromo?('Promo '+esc(p.promo.code)+" ("+p.promo.pct+"% off)"):"No active code for this plan"))+'</span>'
+      +'</button>';
+  }).join("");
+  $$("#sizeCards .pick").forEach(b=>b.onclick=()=>{state.size=+b.dataset.size;renderAll();});
+  renderPriceDetail();
+}
+function renderPriceDetail(){
+  const p=plan(), s=state.size, isFree=p.id==="free1k";
+  if(isFree){
+    $('#priceDetail').innerHTML='<div class="note ok"><span class="nt">Free $1,000 Challenge</span>No fee, no deposit and no card. One phase, 10% target ($100), 3% daily and 6% trailing drawdown, 5 trading days. Not eligible for the 15% evaluation profit reward, limited claims per country per day, and you must have no other active accounts to claim.</div>'
+      +'<div class="grid g3"><div class="stat"><div class="k">Price</div><div class="v">$0</div><div class="x">No payment step</div></div>'
+      +'<div class="stat"><div class="k">Simulated capital</div><div class="v">$1,000</div><div class="x">1 phase</div></div>'
+      +'<div class="stat"><div class="k">Profit split</div><div class="v">80%</div><div class="x">No add-ons available on free accounts</div></div></div>';
+    return;
+  }
+  const bp=basePrice(p.id,s,state.swapFree), pr=promoPrice(p.id,s,state.swapFree);
+  const c=fullCheckout(p.id,s,state.swapFree);
+  const hasPromo=pr!=null&&bp!=null&&pr<bp;
+  const rows=[
+    ["List price (before promo)","EUR "+(bp==null?"-":bp.toFixed(2)),"Verified via public purchase API"],
+    ["Promo code",hasPromo?p.promo.code+" ("+p.promo.pct+"% off)":"None active",hasPromo?"Officially advertised on the plan page":"-"],
+    ["Discounted price","EUR "+(hasPromo?pr.toFixed(2):bp.toFixed(2)),hasPromo?"Calculated from the advertised list price - the site shows the same figure":"-"],
+    ["Swap-free variant",state.swapFree?"Selected":"Not selected","Swap-free costs about 10% more than a swap-charged account"],
+    ["Selected add-ons",(state.extraAddons.length?state.extraAddons.join(", "):"None"),"Each add-on adds a % of the challenge fee"],
+    ["Add-on cost",c?"EUR "+c.addons.toFixed(2)+" (+"+c.upliftPct+"%)":"-","Additive on the base fee"],
+    ["Estimated checkout total",c?"EUR "+c.total.toFixed(2):"-","ESTIMATE. No purchase was completed, so the live cart total is unverified"],
+    ["Recurring / monthly fee","None","Officially advertised: one-time payment, not recurring"],
+    ["Activation fee","None found","Not documented anywhere public"],
+    ["Taxes","Not shown","Trader is responsible for their own tax"],
+    ["Refund","Possible if no trade placed and under 30 days","Officially advertised"],
+    ["15% evaluation reward",p.evalRewardDollar[s]?usd(p.evalRewardDollar[s],2):"-","15% of Phase 1 + Phase 2 profit, credited after 10% funded growth"],
+    ["'Avg. reward' shown on site",p.avgReward[s]?usd(p.avgReward[s],0):"-","Official site figure, methodology NOT published - treat as unverified"]
+  ];
+  $('#priceDetail').innerHTML='<div class="spread"><h3 style="margin:0">'+esc(p.name)+' - '+sizeLabel(s)+' account</h3>'
+    +'<div class="row"><button type="button" id="copyCoupon" class="primary">'+(hasPromo?"Copy "+esc(p.promo.code):"No code available")+'</button>'
+    +'<a class="btn" href="'+esc(p.sourceUrl)+'" target="_blank" rel="noopener noreferrer">Open official plan page</a></div></div>'
+    +'<div class="tblwrap" style="margin-top:12px"><table><thead><tr><th>Item</th><th>Value</th><th>Evidence / note</th></tr></thead><tbody>'
+    +rows.map(r=>'<tr><td>'+esc(r[0])+'</td><td><strong>'+esc(r[1])+'</strong></td><td class="muted small">'+esc(r[2])+'</td></tr>').join("")
+    +'</tbody></table></div>'
+    +'<div class="note warn"><span class="nt">Checkout prices were not verified</span>The currency label on the website says EUR, but the numbers match the USD base prices returned by the firm\'s own public purchase API (for example 1-Step $5K = 49.00 in both places). The final currency and total shown in your cart may be localised by your country. This dashboard did not log in, did not create an account and did not submit any payment information.</div>'
+    +'<div class="hr-soft"></div><h3>Checkout add-ons (verified pricing)</h3>'
+    +'<div class="grid g3">'+ADDONS.map(a=>'<div class="stat"><div class="k">'+esc(a.name)+' '+labelPill(a.label)+'</div><div class="v">'+(a.pct>0?"+"+a.pct+"%":"Free")+'</div><div class="x">'+esc(a.phases)+' &middot; '+esc(a.note)+'</div></div>').join("")+'</div>'
+    +'<div class="row" style="margin-top:12px"><label class="chk"><input type="checkbox" id="swapFree"'+(state.swapFree?" checked":"")+'> Use the swap-free account variant (+10%)</label></div>'
+    +'<div class="row">'+ADDONS.filter(a=>a.pct>0).map(a=>'<label class="chk"><input type="checkbox" class="ad" data-add="'+esc(a.name)+'"'+(state.extraAddons.indexOf(a.name)>=0?" checked":"")+'> '+esc(a.name)+' (+'+a.pct+'%)</label>').join("")+'</div>';
+  const cc=$("#copyCoupon"); if(cc&&hasPromo) cc.onclick=()=>copyText(p.promo.code,cc,"Copied "+p.promo.code);
+  const sf=$("#swapFree"); if(sf) sf.onchange=()=>{state.swapFree=sf.checked;renderSizes();};
+  $$("#priceDetail .ad").forEach(cb=>cb.onchange=()=>{
+    const n=cb.dataset.add; const i=state.extraAddons.indexOf(n);
+    if(cb.checked&&i<0) state.extraAddons.push(n); if(!cb.checked&&i>=0) state.extraAddons.splice(i,1);
+    renderPriceDetail();
+  });
+}
+
+/* ---- Section 3: rule summary grid ------------------------------------- */
+function renderRulesGrid(){
+  const p=plan(), s=state.size, u=state.unit;
+  const show=(pctv)=> u==="pct"? (pctv+"%") : money(s*pctv/100);
+  const cards=[];
+  const first=p.phases[0];
+  cards.push({k:"Profit target "+first.name,v:show(first.targetPct),x:"Measured on closed profit. "+labelPill("verified")});
+  if(p.phases[1]) cards.push({k:"Profit target "+p.phases[1].name,v:show(p.phases[1].targetPct),x:"Issued automatically after Phase 1 is passed."});
+  cards.push({k:"Max daily loss",v:show(p.dailyPct),x:"Floor = last rollover high-water mark minus this amount. "+labelPill("verified")});
+  cards.push({k:"Max total loss",v:show(p.maxPct),x:"Static = fixed floor; trailing = follows your equity peak."});
+  cards.push({k:"Drawdown type",v:p.maxType==="trailing"?"Trailing":"Static",x:p.maxType==="trailing"?"Follows the high-water mark in real time and locks at breakeven once you are +"+p.maxPct+"%.":"Fixed from the initial balance and never moves."});
+  cards.push({k:"Floating loss counts?",v:"Yes",x:"Equity includes open positions, so an open loss counts towards both limits."});
+  cards.push({k:"Min trading days",v:String(p.minDays),x:esc(p.minDaysScope)+". A day needs one trade open at least 60 seconds."});
+  cards.push({k:"Min profitable days",v:"None",x:"No profitable-day requirement is published."});
+  cards.push({k:"Consistency rule",v:p.consistencyRule?"Yes":"None",x:"BrightFunded officially states no consistency rule is enforced."});
+  cards.push({k:"Profit split",v:(p.splitDefault||80)+"%",x:"90% via add-on (+20% fee), 100% from the 3rd scale-up."});
+  cards.push({k:"Payout frequency",v:state.freq==="weekly"?"Every 7 days":"Every 14 days",x:"After the first payout, which needs 30 days from the first funded trade."});
+  cards.push({k:"Max profit per trade",v:"None",x:"No per-trade profit cap is published."});
+  cards.push({k:"Payout caps",v:"None",x:"No per-cycle or lifetime withdrawal cap published."});
+  cards.push({k:"Max funded allocation",v:usd(400000,0),x:"Per trader across all funded accounts. Unlimited during evaluation."});
+  cards.push({k:"Account expiry",v:"None by time",x:"But 30 days of inactivity deactivates the account (6 months to reactivate)."});
+  cards.push({k:"Evaluation profit reward",v:p.evalRewardPct?p.evalRewardPct+"%":"Not eligible",x:p.evalRewardPct?("Worth "+usd(p.evalRewardDollar[s]||0,2)+" on this account size."):"Free accounts are excluded from the 15% reward."});
+  cards.push({k:"News restriction",v:p.id==="free1k"?"Funded stage":"Funded stage only",x:esc(p.newsRestriction)});
+  cards.push({k:"Platform fee",v:"Free choice",x:"MT5 and cTrader add no surcharge. MT5 blocked for US/UAE."});
+  $('#rulesGrid').innerHTML=cards.map(c=>'<div class="stat"><div class="k">'+esc(c.k)+'</div><div class="v">'+esc(c.v)+'</div><div class="x">'+c.x+'</div></div>').join("");
+  $('#ctxLabel').innerHTML='Showing <strong>'+esc(p.name)+'</strong> &middot; '+sizeLabel(s)+' account &middot; '+(p.availability==="historical"?"<span class=\"badge hist\">Historical rules</span>":"")+(state.swapFree?' &middot; swap-free variant':'');
+  const eff=buyDateEffect(p);
+  $('#rulesNotes').innerHTML='<div class="note"><span class="nt">How to read these numbers</span>Percentages are applied to the <strong>original challenge size</strong> ('+usd(s,0)+'), not to your current balance. In dollar mode every percentage is multiplied by '+usd(s,0)+'. Commissions, swaps and slippage are real costs on top and are not included in any figure here.</div>'+eff;
+}
+function buyDateEffect(p){
+  const d=state.buyDate;
+  let out='';
+  if(d && d<"2026-04-13"){
+    out+='<div class="note warn"><span class="nt">Purchase-date effect</span>An account bought on '+esc(d)+' predates BrightFunded 2.0 (13 April 2026). It keeps the <strong>Original 2-Step</strong> rules: 8% then 5% targets, 5% daily loss and 10% static maximum drawdown - regardless of which plan you select above. '+(d<"2025-09-22"?'Because the date is also before 22 September 2025, the older <strong>balance-based</strong> 5% daily-loss method applies.':'The end-of-day high-water-mark daily-loss method applies.')+'</div>';
+  } else if(d && d<"2025-09-22"){
+    out+='<div class="note warn"><span class="nt">Purchase-date effect</span>Before 22 September 2025 the daily loss limit was 5% of the challenge size calculated from your <strong>balance</strong> at rollover. Any account bought on this date still uses that method.</div>';
+  } else {
+    out+='<div class="note ok"><span class="nt">Purchase-date effect</span>Buying on or after 13 April 2026 means the plan selected above applies in full, and the daily loss limit uses the end-of-day high-water-mark method introduced on 22 September 2025.</div>';
+  }
+  if(d && d<"2026-01-03") out+='<div class="note"><span class="nt">Bonus</span>Purchases before 3 January 2026 do not carry the 15% evaluation profit reward.</div>';
+  return out;
+}
+
+/* ---- Section 4: phases ------------------------------------------------- */
+function renderPhases(){
+  const p=plan(), s=state.size;
+  const tabs=p.phases.concat([{id:"funded",name:"Funded"}]);
+  if(!tabs.some(t=>t.id===state.phase)) state.phase=tabs[0].id;
+  $('#phaseTabs').innerHTML=tabs.map(t=>'<button type="button" class="pill'+(state.phase===t.id?' on':'')+'" data-ph="'+t.id+'">'+esc(t.name)+'</button>').join("");
+  $$('#phaseTabs .pill').forEach(b=>b.onclick=()=>{state.phase=b.dataset.ph;renderPhases();});
+  const ph=tabs.find(t=>t.id===state.phase);
+  const show=(pctv)=> state.unit==="pct"?(pctv+"%"):money(s*pctv/100);
+  let rows=[];
+  if(state.phase==="funded"){
+    rows=[
+     ["Profit target","None - keep trading","Funded accounts have no target; payouts are based on realised profit."],
+     ["Max daily loss",show(p.dailyPct),"Same percentage as the evaluation."],
+     ["Max total loss",show(p.maxPct)+" ("+p.maxType+")",p.maxType==="trailing"?"Still trailing on 1-Step accounts while funded.":"Still static while funded."],
+     ["News trading","Restricted - 10-minute window","5 minutes before to 5 minutes after a high-impact release. Soft breach: the profit on the offending trade is removed and losses are not compensated. Take-profits on trades held 48h+ are exempt."],
+     ["Minimum trading days","None","No minimum after funding."],
+     ["First payout","After 30 days from your first funded trade","Then every 14 days by default (7 with the weekly add-on)."],
+     ["Profit split",(state.split)+"% to you","80% default, 90% with add-on or after the 1st scale-up, 100% from the 3rd scale-up."],
+     ["Consistency rule","None","Officially confirmed - one big day does not block a payout."],
+     ["Profit cap","None","No per-cycle or lifetime cap published."],
+     ["Capital cap","$400,000 across all funded accounts","Extra passed accounts are held until a funded account is breached."],
+     ["Risk-team discretion","Applies","Terms 5.8/6.19 allow leverage to be cut to 1:5, drawdown limits reduced, transactions removed and rewards withheld at the firm's discretion."],
+     ["Inactivity","30 calendar days","Place a trade that stays open 60+ seconds at least every 30 days."]
+    ];
+  } else {
+    rows=[
+     ["Profit target",show(ph.targetPct),"On closed profit, measured against the initial balance."],
+     ["Max daily loss",show(p.dailyPct),"End-of-day high-water mark minus ("+p.dailyPct+"% x "+usd(s,0)+")."],
+     ["Max total loss",show(p.maxPct)+" ("+p.maxType+")",p.maxType==="trailing"?"Follows your equity peak in real time; locks at breakeven once equity reaches "+usd(s*(1+p.maxPct/100),0)+".":"Fixed floor at "+usd(s*(1-p.maxPct/100),0)+" at all times."],
+     ["Minimum trading days",String(ph.minDays||p.minDays),esc(p.minDaysScope)+" - one trade open 60+ seconds per day counts."],
+     ["Time limit","Unlimited","But the account must be activated within 30 days of payment and traded at least once every 30 days."],
+     ["News trading","No restriction","Phase 1 and Phase 2 may be traded freely around news."],
+     ["Consistency rule","None","No consistency requirement in the evaluation."],
+     ["EAs / automation","Allowed","With conditions; no API or automated trading on DXtrade."],
+     ["Hedging","Same account only","Hedging the same instrument inside one account is allowed; across accounts it is not."],
+     ["Position size / lot cap","None published","But overleveraging and overexposure are prohibited strategies."],
+     ["Profit split on evaluation",p.evalRewardPct?(p.evalRewardPct+"% of phase profit (worth "+usd(p.evalRewardDollar[s]||0,2)+")"):"Not eligible","Credited to the next funded account after 10% funded growth and a payout."]
+    ];
+  }
+  const nextBtn=state.phase!=="funded"&&tabs[tabs.indexOf(ph)+1]?'<button type="button" id="nextPhase">Next: '+esc(tabs[tabs.indexOf(ph)+1].name)+' &rarr;</button>':'';
+  $('#phaseBody').innerHTML='<div class="spread"><h3 style="margin:0">'+esc(p.name)+' - '+esc(ph.name)+' &middot; '+sizeLabel(s)+'</h3><div class="row">'+nextBtn+'</div></div>'
+   +'<div class="tblwrap" style="margin-top:12px"><table><thead><tr><th>Parameter</th><th>Value</th><th>Explanation</th></tr></thead><tbody>'
+   +rows.map(r=>'<tr><td>'+esc(r[0])+'</td><td><strong>'+esc(r[1])+'</strong></td><td class="muted small">'+esc(r[2])+'</td></tr>').join("")
+   +'</tbody></table></div>'
+   +(state.phase!=="funded"&&p.maxType==="trailing"?'<div class="note warn"><span class="nt">Trailing drawdown warning</span>On this plan the maximum-loss floor rises with your peak equity, including floating profit. BrightFunded\'s own worked example shows a trade that reaches +$40 floating profit raising the floor, then reversing to close at -$35 and breaching the account - even though the balance never fell below the original floor.</div>':'');
+  const nb=$('#nextPhase'); if(nb) nb.onclick=()=>{state.phase=tabs[tabs.indexOf(ph)+1].id;renderPhases();};
+}
+
+/* ---- Section 5: breach rules ------------------------------------------ */
+const SEV_ORDER={hard:0,soft:1,block:2,profit:3,cond:4,allow:5,info:6};
+function ruleCard(r,open){
+  return '<details class="rule" data-rule="'+esc(r.id)+'"'+(open?' open':'')+'>'
+   +'<summary><span class="rn">'+esc(r.title)+'</span>'+sevPill(r.sev)+labelPill(r.label)+'</summary>'
+   +'<div class="body">'
+   +'<p>'+esc(r.expl)+'</p>'
+   +'<dl class="kv"><dt>Exact rule / value</dt><dd>'+esc(r.value)+' ('+esc(r.unit)+')</dd>'
+   +'<dt>How it is calculated</dt><dd>'+esc(r.basis)+'</dd>'
+   +'<dt>Worked example</dt><dd>'+esc(r.example)+'</dd>'
+   +'<dt>Consequence</dt><dd>'+sevPill(r.sev)+'</dd>'
+   +'<dt>Applies to</dt><dd>'+esc(r.models.map(m=>{const p=PLANS.find(x=>x.id===m);return m==="all"?"All plans":(p?p.name:m);}).join(", "))+' &middot; '+esc(r.phases)+" stage"+'</dd>'
+   +(r.eff?'<dt>Effective from</dt><dd>'+esc(r.eff)+'</dd>':'')+'</dl>'
+   +'<p class="small">Source: <a href="'+esc(r.src)+'" target="_blank" rel="noopener noreferrer">'+esc(r.src.replace(/^https?:\/\//,''))+'</a> <span class="muted">('+esc(r.srcType)+', checked '+RESEARCH_DATE+')</span></p>'
+   +'</div></details>';
+}
+function renderBreaches(){
+  const onlyCrit=$('#onlyCritical').checked;
+  let list=RULES.slice().sort((a,b)=>(SEV_ORDER[a.sev]-SEV_ORDER[b.sev])||a.title.localeCompare(b.title));
+  if(onlyCrit) list=list.filter(r=>r.critical);
+  $('#breachList').innerHTML=list.map(r=>ruleCard(r,r.critical&&SEV_ORDER[r.sev]<=1)).join("");
+}
+
+/* ---- Section 6: searchable rulebook ----------------------------------- */
+const RULE_CATS=["all","drawdown","evaluation","payout","trading","news","automation","copytrading","platform","fees","kyc","account","consistency","historical"];
+function renderRulebook(){
+  const q=($('#ruleSearch').value||"").trim().toLowerCase();
+  const cat=$('#ruleCat').value||"all";
+  const onlyCrit=$('#onlyCritical2').checked;
+  const onlyMine=$('#onlyMine').checked;
+  const pid=state.planId;
+  let list=RULES.slice();
+  if(cat!=="all") list=list.filter(r=>r.cat===cat);
+  if(onlyCrit) list=list.filter(r=>r.critical);
+  if(onlyMine) list=list.filter(r=>r.models.indexOf("all")>=0||r.models.indexOf(pid)>=0);
+  if(q) list=list.filter(r=>[r.title,r.expl,r.basis,r.value,r.example,r.cat,r.unit].join(" ").toLowerCase().indexOf(q)>=0);
+  list.sort((a,b)=>(SEV_ORDER[a.sev]-SEV_ORDER[b.sev])||a.title.localeCompare(b.title));
+  $('#ruleCount').textContent=list.length+" of "+RULES.length+" rules shown"+(onlyMine?" for "+plan().name:"")+(q?' matching "'+q+'"':'');
+  $('#ruleList').innerHTML=list.length?list.map(r=>ruleCard(r,false)).join(""):'<div class="note">No rules match your search. Try a different term or clear the filters.</div>';
+}
+function buildRuleCat(){
+  const counts={};RULES.forEach(r=>counts[r.cat]=(counts[r.cat]||0)+1);
+  $('#ruleCat').innerHTML=RULE_CATS.map(c=>'<option value="'+c+'">'+c.charAt(0).toUpperCase()+c.slice(1)+(c==="all"?" ("+RULES.length+")":" ("+(counts[c]||0)+")")+'</option>').join("");
+}
+
+/* ---- Section 7: payout calculator ------------------------------------- */
+function renderPayoutCalc(){
+  const p=plan(), s=state.size;
+  $('#pcSplit').innerHTML=[80,85,90,100].map(v=>'<option value="'+v+'"'+(v===state.split?' selected':'')+'>'+v+'% to trader</option>').join("");
+  $('#pcFreq').innerHTML=[['biweekly','Bi-weekly (14 days) - default'],['weekly','Weekly (7 days) - +25% add-on']].map(v=>'<option value="'+v[0]+'"'+(v[0]===state.freq?' selected':'')+'>'+v[1]+'</option>').join("");
+  const profit=Math.max(0,+$('#pcProfit').value||0);
+  const bestDay=Math.max(0,+$('#pcBestDay').value||0);
+  const days=+$('#pcDays').value||0, profDays=+$('#pcProfDays').value||0;
+  const since=+$('#pcDaysSince').value||0, prev=+$('#pcPrev').value||0;
+  const split=+$('#pcSplit').value||80, freq=$('#pcFreq').value;
+  const fee=Math.max(0,+$('#pcFee').value||0);
+  const wantsRefund=$('#pcRefund').value==="yes";
+  const trader=profit*split/100, firm=profit-trader;
+  const net=Math.max(0,trader-fee);
+  const needDays=(p.phases.reduce((a,b)=>a+(b.minDays||0),0));
+  const cycle=freq==="weekly"?7:14;
+  const eligibleFirst=since>=30, eligibleLater=since>=30&&((since-30)%cycle)<cycle;
+  const daysOk=days>=needDays;
+  const cons=profit>0?(bestDay/profit*100):0;
+  const estRefund = wantsRefund ? (promoPrice(p.id,s,state.swapFree)||0) : 0;
+  const checks=[];
+  checks.push({ok:profit>0,t:"Positive realised profit",d:profit>0?usd(profit,2)+" of eligible profit":"No profit entered"});
+  checks.push({ok:eligibleFirst,t:"First payout window",d:eligibleFirst?since+" days since your first funded trade (30 required)":"Only "+since+" days since your first funded trade - the first request opens at day 30"});
+  checks.push({ok:daysOk,t:"Minimum trading days",d:days+" of "+needDays+" required evaluation trading days recorded"});
+  checks.push({ok:true,t:"Consistency rule",d:"Not applicable - BrightFunded enforces no consistency rule"});
+  checks.push({ok:true,t:"Profit cap",d:"None applies - no per-cycle or lifetime withdrawal cap is published"});
+  const refundNote = wantsRefund? (prev>0?"The fee refund is paid with the FIRST payout only - you have already taken "+prev+" payout(s), so it is unlikely to still apply.":"The fee refund is included in your first payout.") : "No fee-refund add-on selected.";
+  $('#pcOut').innerHTML=[
+   ["Gross eligible profit",usd(profit,2)],
+   ["Trader share ("+split+"%)",usd(trader,2)],
+   ["Company share",usd(firm,2)],
+   ["Third-party transfer fee","-"+usd(fee,2)],
+   ["Estimated net to you",usd(net,2)],
+   ["Fee refund (first payout)",estRefund?usd(estRefund,2):"Not applicable"],
+   ["Payout cycle","Every "+cycle+" days after the first payout"],
+   ["Payout eligibility",eligibleFirst?(eligibleLater?"Eligible to request":"Within a payout cycle"):"Not yet eligible"]
+  ].map(o=>'<div class="o"><div class="k">'+esc(o[0])+'</div><div class="v">'+esc(o[1])+'</div></div>').join("");
+  $('#pcVerdict').innerHTML='<div class="note '+(eligibleFirst&&profit>0?'ok':'warn')+'"><span class="nt">'+(eligibleFirst&&profit>0?"Eligible on the published rules":"Not yet eligible")+'</span>'
+   +'<ul class="small" style="margin:6px 0 0 0;padding-left:18px">'+checks.map(c=>'<li>'+(c.ok?"&#10004;":"&#10007;")+' <strong>'+esc(c.t)+'</strong> - '+esc(c.d)+'</li>').join("")+'</ul>'
+   +'<p class="small" style="margin-top:8px">'+esc(refundNote)+' Profitability of at least two of four months, 10% growth and two payouts are only needed for SCALING, not for a normal payout.</p></div>';
+  $('#pcHow').innerHTML='<p><strong>Formula:</strong> trader share = eligible profit x split; net = trader share - third-party fee. Consistency is shown as best-day / total profit x 100 = '+n0(cons,1)+'%, but it is displayed for information only because BrightFunded does not enforce a consistency rule.</p>'
+   +'<p><strong>Limits:</strong> this estimate cannot see your dashboard, your signed contract, your real commission/swap costs, or the risk team\'s internal review. BrightFunded\'s Terms state that performance rewards are discretionary (clauses 6.19 and 7.8) and that the firm may impose risk measures or withhold rewards where it judges a breach. A positive result here is <em>not</em> a guarantee of payment.</p>';
+  $$('#pcProfit,#pcBestDay,#pcDays,#pcProfDays,#pcDaysSince,#pcPrev,#pcFee,#pcRefund').forEach(el=>{el.oninput=el.onchange=()=>{state.split=+$('#pcSplit').value||80;state.freq=$('#pcFreq').value;renderPayoutCalc();};});
+  $$('#pcSplit,#pcFreq').forEach(el=>{el.onchange=()=>{state.split=+$('#pcSplit').value||80;state.freq=$('#pcFreq').value;renderRulesGrid();renderPayoutCalc();};});
+}
+
+/* ---- Section 8: drawdown & risk calculator ----------------------------- */
+function renderRiskCalc(){
+  const p=plan(), s=state.size;
+  const bal=+$('#dcBalance').value||0, eq=+$('#dcEquity').value||0;
+  const eod=+$('#dcEod').value||0, peak=+$('#dcPeak').value||0;
+  const daily=p.dailyPct/100*s, maxd=p.maxPct/100*s;
+  const eodHigh=Math.max(eod,bal,eq);
+  const dailyFloor=eodHigh-daily;
+  let maxFloor, lockNote;
+  if(p.maxType==="trailing"){
+    const lockAt=s+maxd;
+    const effPeak=Math.max(peak,s);
+    maxFloor=Math.min(effPeak,lockAt)-maxd;
+    maxFloor=Math.max(maxFloor,s-maxd);
+    lockNote=effPeak>=lockAt?"Locked at the original balance ("+usd(s,0)+") because the peak reached "+usd(lockAt,0)+".":"Trailing. It locks at "+usd(s,0)+" once equity reaches "+usd(lockAt,0)+". Current peak "+usd(effPeak,0)+".";
+  } else {
+    maxFloor=s-maxd; lockNote="Static: fixed at "+usd(maxFloor,0)+" from the start and it never moves.";
+  }
+  const lowest=Math.min(bal,eq);
+  const bufDaily=lowest-dailyFloor, bufMax=lowest-maxFloor;
+  const worstBuf=Math.min(bufDaily,bufMax);
+  const usedMax=maxd>0?((s-maxFloor)/maxd*0):0;
+  const prox=maxd>0?Math.max(0,Math.min(100,(1-(lowest-maxFloor)/maxd)*100)):0;
+  const risk=Math.max(0,+$('#dcRisk').value||0);
+  $('#dcOut').innerHTML=[
+   ["Daily loss allowance",usd(daily,2)+" ("+p.dailyPct+"%)"],
+   ["Daily drawdown floor",usd(dailyFloor,2)],
+   ["Max drawdown floor",usd(maxFloor,2)+" ("+p.maxType+")"],
+   ["Buffer to daily floor",(bufDaily>=0?usd(bufDaily,2):"BREACHED by "+usd(-bufDaily,2))],
+   ["Buffer to max floor",(bufMax>=0?usd(bufMax,2):"BREACHED by "+usd(-bufMax,2))],
+   ["Binding constraint",bufDaily<bufMax?"Daily loss limit":"Maximum drawdown"],
+   ["Distance from max floor",n0(prox,1)+"% of the allowance used"],
+   ["Floating loss included?","Yes - equity drives every figure"]
+  ].map(o=>'<div class="o"><div class="k">'+esc(o[0])+'</div><div class="v">'+esc(o[1])+'</div></div>').join("");
+  const cls=worstBuf<=0?"bad":(worstBuf<daily*0.25?"warn":"ok");
+  $('#dcVerdict').innerHTML='<div class="bar '+cls+'"><i style="width:'+Math.max(2,Math.min(100,100-prox))+'%"></i></div>'
+   +'<p class="small" style="margin-top:8px">'+(worstBuf<=0?'<strong style="color:var(--bad)">On these inputs the account is at or beyond a drawdown floor.</strong>':(cls==="warn"?'<strong style="color:var(--warn)">You are close to the binding limit.</strong>':'You are clear of both floors on these inputs.'))+' '+esc(lockNote)+'</p>';
+  const after=worstBuf-risk;
+  $('#dcRiskOut').innerHTML='<div class="out"><div class="o"><div class="k">Buffer before this position</div><div class="v">'+usd(worstBuf,2)+'</div></div>'
+   +'<div class="o"><div class="k">Buffer if the stop is hit</div><div class="v" style="color:'+(after<0?'var(--bad)':'inherit')+'">'+usd(after,2)+'</div></div>'
+   +'<div class="o"><div class="k">Verdict</div><div class="v">'+(after<0?'Would breach':'Survivable')+'</div></div></div>'
+   +'<p class="small muted">'+(after<0?'This position size, if fully lost, takes the account through the binding drawdown floor.':'This position size, if fully lost, leaves '+usd(after,2)+' of buffer.')+' Commissions, swap, spread widening and weekend gaps are not included.</p>';
+  $('#dcHow').innerHTML='<p><strong>Daily floor</strong> = max(balance, equity) at the last rollover - ('+p.dailyPct+'% x '+usd(s,0)+'). BrightFunded applies the percentage to the ORIGINAL challenge size, not to your current balance, so profits never increase your daily allowance.</p>'
+   +'<p><strong>Static maximum floor</strong> = '+usd(s,0)+' - ('+p.maxPct+'% x '+usd(s,0)+') = '+usd(s-maxd,0)+', fixed for the life of the account.</p>'
+   +'<p><strong>Trailing maximum floor</strong> = min(highest equity ever reached, '+usd(s+maxd,0)+') - '+usd(maxd,0)+', never below '+usd(s-maxd,0)+'. Once equity reaches '+usd(s+maxd,0)+' the floor locks at '+usd(s,0)+' and stops rising.</p>'
+   +'<p><strong>Deliberately ignored:</strong> live spreads, commission, swap/rollover charges, slippage, weekend gaps, multi-position aggregate risk, and any change the risk team may make to your parameters. BrightFunded resets the daily counter between 23:30 and 23:59 CET; times shift by about an hour with daylight saving. This is an illustrative calculation, not a live breach threshold.</p>'
+   +'<p><strong>Verify independently:</strong> the firm displays a "Breach at" figure in your own dashboard - always treat that as authoritative over this calculator.</p>';
+  $$('#dcBalance,#dcEquity,#dcEod,#dcPeak,#dcFloat,#dcRisk').forEach(el=>{el.oninput=el.onchange=()=>renderRiskCalc();});
+}
+
+/* ---- Section 9: consistency ------------------------------------------- */
+function renderConsistency(){
+  const p=plan();
+  const profit=Math.max(0,+$('#pcProfit')?+$('#pcProfit').value:0);
+  const best=Math.max(0,+$('#pcBestDay')?+$('#pcBestDay').value:0);
+  const cons=profit>0?(best/profit*100):0;
+  $('#consBody').innerHTML='<div class="note ok"><span class="nt">No consistency rule is enforced</span>BrightFunded states in two separate official sources that it does <strong>not currently enforce a consistency rule</strong>: you are not required to spread profits evenly across days or trades, and there is no fixed position-size requirement. There is also no profit cap. This is confirmed by the General FAQ and by a dedicated help article. '+(p.consistencyRule?'':'')+'</div>'
+   +'<div class="grid g3"><div class="stat"><div class="k">Consistency rule</div><div class="v">None</div><div class="x">'+labelPill("verified")+' Confirmed in the General FAQ and a dedicated article.</div></div>'
+   +'<div class="stat"><div class="k">Effect on payouts</div><div class="v">None</div><div class="x">A single large winning day does not block a payout request.</div></div>'
+   +'<div class="stat"><div class="k">Can it change?</div><div class="v">Possibly</div><div class="x">The Terms let BrightFunded change Product Specifications, so this is policy rather than a contractual guarantee.</div></div></div>'
+   +'<details><summary>Show the illustrative consistency calculator (not applicable to BrightFunded)</summary><div class="body">'
+   +'<p class="small muted">Most prop firms apply a rule such as &ldquo;the best day may not exceed 20% of total profit&rdquo;. BrightFunded does not, so this panel exists only so you can compare firms and sanity-check your own distribution. It is disabled for payout decisions.</p>'
+   +'<div class="calc"><div class="fields"><div><label class="fl" for="ccBest">Best profitable day ($)</label><input type="number" id="ccBest" value="'+(best||800)+'" min="0"></div>'
+   +'<div><label class="fl" for="ccTotal">Total eligible profit ($)</label><input type="number" id="ccTotal" value="'+(profit||5000)+'" min="0"></div>'
+   +'<div><label class="fl" for="ccLimit">Hypothetical limit (%)</label><input type="number" id="ccLimit" value="20" min="1" max="100"></div></div>'
+   +'<div class="out" id="ccOut"></div><div id="ccVerdict"></div></div></div></details>';
+  function cc(){
+    const b=Math.max(0,+$('#ccBest').value||0), t=Math.max(0,+$('#ccTotal').value||0), lim=Math.max(1,+$('#ccLimit').value||20);
+    const c=t>0?b/t*100:0; const need=b/(lim/100);
+    $('#ccOut').innerHTML=[['Current best-day share',n0(c,1)+"%"],['Hypothetical limit',lim+"%"],['Minimum total profit needed',usd(need,2)],['Extra profit required',usd(Math.max(0,need-t),2)],['Status',c<=lim?'Within the hypothetical limit':'Over the hypothetical limit']]
+      .map(o=>'<div class="o"><div class="k">'+esc(o[0])+'</div><div class="v">'+esc(o[1])+'</div></div>').join("");
+    $('#ccVerdict').innerHTML='<p class="small muted">Best day '+usd(b,2)+' / total '+usd(t,2)+' = '+n0(c,1)+'%. With a '+lim+'% limit you would need at least '+usd(need,2)+' of total profit before that day was allowed. <strong>BrightFunded does not apply this rule</strong> - it is shown for comparison only.</p>';
+  }
+  $$('#ccBest,#ccTotal,#ccLimit').forEach(el=>{el.oninput=el.onchange=cc;}); cc();
+}
+
+/* ---- Section 10: coupons ---------------------------------------------- */
+function renderCoupons(){
+  $('#couponGroups').innerHTML=COUPONS.map(g=>'<div class="calc"><h3 style="margin-top:0">'+esc(g.group)+' '+labelPill(g.label)+'</h3>'
+   +g.items.map(c=>'<div class="rule"><div class="rh" style="cursor:default">'
+    +'<span class="rn"><code>'+esc(c.code)+'</code> &middot; '+esc(c.off)+'</span>'
+    +'<button type="button" class="copyc" data-code="'+esc(c.code)+'">Copy</button></div>'
+    +'<div class="rb"><dl class="kv"><dt>Eligible models</dt><dd>'+esc(c.models)+'</dd>'
+    +'<dt>Excluded</dt><dd>'+esc(c.excl)+'</dd><dt>Expiry</dt><dd>'+esc(c.exp)+'</dd>'
+    +'<dt>First-time buyers only</dt><dd>'+esc(c.first)+'</dd><dt>Stacking</dt><dd>'+esc(c.stack)+'</dd>'
+    +'<dt>Status</dt><dd>'+esc(c.status)+'</dd><dt>Source</dt><dd><a href="'+esc(c.src)+'" target="_blank" rel="noopener noreferrer">'+esc(c.src.replace(/^https?:\/\//,''))+'</a></dd></dl></div></div>').join("")
+   +'</div>').join("");
+  $$('.copyc').forEach(b=>b.onclick=()=>copyText(b.dataset.code,b,"Copied"));
+  $('#promoRules').innerHTML='<div class="note warn"><span class="nt">Promotion restrictions and honesty note</span><ul style="margin:6px 0 0 0;padding-left:18px">'
+   +'<li>No code in this dashboard was validated by completing a checkout. BrightFunded\'s own site banner is the strongest available evidence for the three live codes.</li>'
+   +'<li>Each live code maps to exactly one plan (RALLY30 to 1-Step, RALLY25 to 2-Step Bright, RALLY15 to 2-Step Classic). Whether a code is rejected on a different plan is not documented.</li>'
+   +'<li>No end date is published for the Autumn Promo. The firm has run short, model-restricted flash offers (for example 40% off, $100K and $200K 1-Step only, which expired on 11 October 2026).</li>'
+   +'<li>Affiliate and coupon-aggregator codes are unverified third-party claims and must not be treated as active.</li>'
+   +'<li>Add-ons are priced as a percentage of the challenge fee. Whether a promo code also discounts the add-on portion is not documented.</li>'
+   +'<li>The Terms allow the firm to revoke promotions and discounts obtained through multiple accounts.</li></ul></div>';
+}
+
+/* ---- Section 11: company ---------------------------------------------- */
+function renderCompany(){
+  const flagClass={bad:"bad",warn:"warn","":""};
+  $('#companyBody').innerHTML=
+   '<h3>Legal structure</h3><div class="tblwrap"><table><thead><tr><th>Entity</th><th>Where</th><th>Role as stated by the company</th><th>Status</th></tr></thead><tbody>'
+   +FIRM.entities.map(e=>'<tr><td><strong>'+esc(e.name)+'</strong></td><td>'+esc(e.where)+'</td><td class="small">'+esc(e.role)+'</td><td>'+labelPill(e.label)+'</td></tr>').join("")
+   +'</tbody></table></div>'
+   +'<div class="note bad"><span class="nt">Regulation: none claimed</span>'+esc(FIRM.regulationNote)+' No financial-services licence was found for any entity. Because BrightFunded states it offers simulated trading only and accepts no client funds, it would typically fall outside licensing regimes - so &ldquo;no licence&rdquo; is expected rather than a red flag in itself, but it also means <strong>no regulator stands behind payout promises</strong>.</div>'
+   +'<div class="note"><span class="nt">Is it a broker?</span>'+esc(FIRM.broker)+'</div>'
+   +'<h3 style="margin-top:18px">Independently checked corporate facts</h3><div class="tblwrap"><table><thead><tr><th>Item</th><th>Finding</th><th>Detail</th><th>Status</th></tr></thead><tbody>'
+   +COMPANY_FACTS.map(f=>'<tr><td>'+esc(f.k)+'</td><td><strong>'+esc(f.v)+'</strong></td><td class="small muted">'+esc(f.note)+'</td><td>'+labelPill(f.label)+'</td></tr>').join("")
+   +'</tbody></table></div>'
+   +'<h3 style="margin-top:18px">Eligibility</h3><div class="grid g2">'
+   +'<div class="stat"><div class="k">Restricted countries (Terms)</div><div class="v" style="font-size:1rem">'+FIRM.restricted.map(esc).join(", ")+'</div><div class="x">'+labelPill("verified")+' Terms section 2.</div></div>'
+   +'<div class="stat"><div class="k">Additional restriction (Help Centre)</div><div class="v" style="font-size:1rem">'+FIRM.restrictedExtra.map(esc).join(", ")+'</div><div class="x">'+labelPill("unverified")+' '+esc(FIRM.restrictedNote)+'</div></div>'
+   +'<div class="stat"><div class="k">Platform regional blocks</div><div class="v" style="font-size:.95rem">'+esc(FIRM.platformRegion)+'</div><div class="x">'+labelPill("verified")+' Help centre.</div></div>'
+   +'<div class="stat"><div class="k">Minimum age</div><div class="v">18</div><div class="x">Sanction-list matches, financial-crime records and previously banned users are also excluded.</div></div></div>'
+   +'<h3 style="margin-top:18px">What the company says about itself</h3><div class="grid g4">'+FIRM.selfReportedStats.map(s=>'<div class="stat"><div class="k">'+esc(s.k)+'</div><div class="v" style="font-size:1rem">'+esc(s.v)+'</div></div>').join("")
+   +'</div><p class="small muted">All figures above are company-published marketing statistics. None were independently audited. Note the internal inconsistency: the reviews page claims $13M+ paid in rewards, the about-us page announced $10M in December 2025, and a company Trustpilot reply in September 2026 claims $60M+. The third-party payout tracker records $7.8M.</p>'
+   +'<h3 style="margin-top:18px">Independent reputation</h3><div class="tblwrap"><table><thead><tr><th>Source</th><th>Score</th><th>Volume</th><th>Notes</th><th>Status</th></tr></thead><tbody>'
+   +REVIEWS.map(r=>'<tr><td><a href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer">'+esc(r.src)+'</a></td><td><strong>'+esc(r.score)+'</strong></td><td>'+esc(r.n)+'</td><td class="small muted">'+esc(r.note)+'</td><td>'+labelPill(r.label)+'</td></tr>').join("")
+   +'</tbody></table></div>'
+   +'<div class="grid g2" style="margin-top:14px"><div class="calc"><h4 style="margin-top:0;color:var(--ok)">Recurring positive themes</h4><ul class="small">'+REVIEW_THEMES.pos.map(t=>'<li>'+esc(t)+'</li>').join("")+'</ul></div>'
+   +'<div class="calc"><h4 style="margin-top:0;color:var(--bad)">Recurring negative themes</h4><ul class="small">'+REVIEW_THEMES.neg.map(t=>'<li>'+esc(t)+'</li>').join("")+'</ul></div></div>'
+   +'<h3 style="margin-top:18px">Payout evidence</h3><div class="tblwrap"><table><thead><tr><th>Type</th><th>Figure</th><th>Limitation</th><th>Status</th></tr></thead><tbody>'
+   +PAYOUT_EVIDENCE.map(x=>'<tr><td>'+esc(x.k)+'</td><td><strong>'+esc(x.v)+'</strong></td><td class="small muted">'+esc(x.note)+'</td><td>'+labelPill(x.label)+'</td></tr>').join("")
+   +'</tbody></table></div>'
+   +'<div class="note bad"><span class="nt">The most important reputation fact</span>Trustpilot has <strong>suppressed BrightFunded\'s rating</strong> and displays a warning that the company\'s rating is unavailable because of a breach of Trustpilot\'s guidelines. The underlying score is 3.3 from 570 reviews with 19.8% one-star ratings. Trustpilot is a third-party platform, not a regulator, but a suppressed rating is a material credibility signal and it is not something the company\'s own marketing pages disclose.</div>';
+}
+
+/* ---- Section 12: timeline --------------------------------------------- */
+function renderTimeline(){
+  $('#timeline').innerHTML=TIMELINE.map(e=>'<div class="ev'+(e.h?' h':'')+'"><div class="d">'+esc(e.d)+'</div><div class="t">'+esc(e.t)+'</div><div class="x">'+esc(e.x)
+   +(e.src?' <a href="'+esc(e.src)+'" target="_blank" rel="noopener noreferrer">Source &rarr;</a>':'')+'</div></div>').join("");
+}
+
+/* ---- Section 13: unresolved + support message -------------------------- */
+function supportMessage(){
+  const p=plan();
+  let m="Hello BrightFunded support,\n\nI am reviewing your current published terms (checked "+RESEARCH_DATE+") for the "+p.name+" plan, "+sizeLabel(state.size)+" account. Before I buy, please confirm the following points, because your public documents do not give a single clear answer:\n\n";
+  UNRESOLVED.forEach((u,i)=>{ m+=(i+1)+") "+u.t+"\n   Question: "+u.ask+"\n"; });
+  m+="\nFor reference, my understanding of the "+p.name+" rules is: profit target "+(p.phases.map(ph=>ph.name+" "+ph.targetPct+"%").join(" then "))+", daily loss "+p.dailyPct+"% of the original challenge size, maximum loss "+p.maxPct+"% ("+p.maxType+"), minimum "+p.minDays+" trading days, default profit split "+p.splitDefault+"%, first payout 30 days after the first funded trade.\n\nPlease also confirm the exact total I would be charged, including the currency, any add-ons and any applicable promo code.\n\nThank you.";
+  return m;
+}
+function renderUnresolved(){
+  $('#unresolved').innerHTML='<div class="note bad"><span class="nt">'+UNRESOLVED.length+' unresolved or conflicting items</span>Each item below is a genuine contradiction or gap in BrightFunded\'s own public documentation, or a condition the firm does not fully explain. None of them are hidden in a footnote. Get written answers before paying.</div>'
+   +UNRESOLVED.map((u,i)=>'<details><summary><span class="rn">'+(i+1)+". "+esc(u.t)+'</span><span class="badge warn">Needs confirmation</span></summary><div class="body">'
+    +'<p><strong>Why it matters:</strong> '+esc(u.why)+'</p>'
+    +'<p><strong>What conflicts:</strong> '+esc(u.conf)+'</p>'
+    +'<p><strong>Affected models:</strong> '+esc(u.models)+'</p>'
+    +'<p><strong>Ask support:</strong> <em>'+esc(u.ask)+'</em></p></div></details>').join("");
+  $('#supportMsg').value=supportMessage();
+  $('#copySupport').onclick=()=>copyText($('#supportMsg').value,$('#copySupport'),"Copied message");
+}
+
+/* ---- Section 14: sources ---------------------------------------------- */
+function renderSources(){
+  $('#sourceTable').innerHTML='<div class="tblwrap"><table><thead><tr><th>Source</th><th>Type</th><th>Section used</th><th>Date</th><th>Supports</th></tr></thead><tbody>'
+   +SOURCES.map(s=>'<tr><td><a href="'+esc(s.u)+'" target="_blank" rel="noopener noreferrer">'+esc(s.t)+'</a><div class="small muted mono" style="word-break:break-all">'+esc(s.u)+'</div></td>'
+    +'<td>'+esc(s.kind)+'</td><td class="small">'+esc(s.sec)+'</td><td class="small nowrap">'+esc(s.d)+'<br><span class="muted">checked '+esc(s.acc)+'</span></td><td class="small">'+esc(s.sup)+'</td></tr>').join("")
+   +'</tbody></table></div>'
+   +'<div class="note"><span class="nt">Verification method and limits</span>All sources were retrieved directly over HTTPS on '+RESEARCH_DATE+' and read. Pages that block automated retrieval (Trustpilot, PropFirmMatch, Reddit) were accessed through a public text-reader proxy; Reddit data additionally via a public archive API. Raw copies were kept during research. No account was created, no login was performed and no payment information was submitted, so <strong>live checkout totals and coupon validity could not be confirmed at checkout</strong>. Historic prices and promotions come from the Internet Archive. Search-engine result pages were used only to discover URLs, not as evidence.</div>';
+}
+
+/* ---- Theme, exports, boot --------------------------------------------- */
+function renderAll(){ renderCats(); renderPlans(); renderSizes(); renderRulesGrid(); renderPhases(); renderBreaches(); renderRulebook(); renderPayoutCalc(); renderRiskCalc(); renderConsistency(); }
+function download(name,text,type){
+  const b=new Blob([text],{type:type||"text/plain;charset=utf-8"}); const u=URL.createObjectURL(b);
+  const a=document.createElement("a"); a.href=u; a.download=name; document.body.appendChild(a); a.click();
+  setTimeout(()=>{URL.revokeObjectURL(u);a.remove();},400); toast("Downloaded "+name);
+}
+function rulesCsv(){
+  const head=["id","title","category","severity","critical","applies_to_models","stage","value","unit","calculation_basis","example","consequence","effective_from","source_url","source_type","verification"];
+  const q=v=>'"'+String(v==null?"":v).replace(/"/g,'""')+'"';
+  const rows=RULES.map(r=>[r.id,r.title,r.cat,r.sev,r.critical?"yes":"no",r.models.join("|"),r.phases,r.value,r.unit,r.basis,r.example,r.sev,r.eff||"",r.src,r.srcType,r.label].map(q).join(","));
+  return head.join(",")+"\n"+rows.join("\n");
+}
+function fullJson(){
+  const data={ meta:{firm:"BrightFunded",research_date:RESEARCH_DATE,generated_by:"Independent research dashboard",verification_labels:["verified","advertised","historical","unverified"],disclaimer:"Independent research, not affiliated with BrightFunded. No checkout was completed; live totals and coupon validity are unverified."},
+   firm:FIRM, plans:PLANS, sizes:SIZES, base_prices_usd:BASE_PRICES, addons:ADDONS, rules:RULES, coupons:COUPONS, timeline:TIMELINE,
+   reviews:REVIEWS, review_themes:REVIEW_THEMES, payout_evidence:PAYOUT_EVIDENCE, company_facts:COMPANY_FACTS,
+   unresolved:UNRESOLVED, sources:SOURCES.map(s=>({title:s.t,url:s.u,type:s.kind,checked:s.acc,supports:s.sup})) };
+  return JSON.stringify(data,null,2);
+}
+function init(){
+  renderHero(); buildRuleCat(); renderCoupons(); renderCompany(); renderTimeline(); renderUnresolved(); renderSources();
+  $('#onlyCritical').onchange=renderBreaches;
+  ['#ruleSearch','#ruleCat','#onlyCritical2','#onlyMine'].forEach(sel=>{const el=$(sel); el.oninput=el.onchange=renderRulebook;});
+  $('#clearSearch').onclick=()=>{$('#ruleSearch').value="";$('#ruleCat').value="all";$('#onlyCritical2').checked=false;$('#onlyMine').checked=true;renderRulebook();};
+  $('#csvBtn').onclick=()=>download("brightfunded_rules_"+RESEARCH_DATE+".csv",rulesCsv(),"text/csv;charset=utf-8");
+  $('#jsonBtn').onclick=()=>download("brightfunded_research_"+RESEARCH_DATE+".json",fullJson(),"application/json");
+  $('#printBtn').onclick=()=>window.print();
+  $('#topBtn').onclick=()=>window.scrollTo({top:0,behavior:"smooth"});
+  const tb=$('#themeBtn');
+  tb.onclick=()=>{const cur=document.documentElement.getAttribute("data-theme");const nx=cur==="dark"?"light":"dark";document.documentElement.setAttribute("data-theme",nx);tb.textContent=nx==="dark"?"Theme":"Theme";try{localStorage.setItem("bf-theme",nx);}catch(e){}};
+  try{const t=localStorage.getItem("bf-theme"); if(t) document.documentElement.setAttribute("data-theme",t);}catch(e){}
+  $('#unitToggle').addEventListener('click',e=>{const b=e.target.closest('button[data-unit]'); if(!b)return; state.unit=b.dataset.unit; $$('#unitToggle .pill').forEach(x=>x.classList.toggle('on',x===b)); renderRulesGrid(); renderPhases();});
+  $('#buyDate').oninput=$('#buyDate').onchange=()=>{state.buyDate=$('#buyDate').value; renderRulesGrid();};
+  renderAll();
+  window.addEventListener('keydown',e=>{if(e.key==="/"&&document.activeElement.tagName!=="INPUT"&&document.activeElement.tagName!=="TEXTAREA"){e.preventDefault();$('#ruleSearch').focus();}});
+}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init); else init();
+</script>
+</body>
+</html>

@@ -1,0 +1,2406 @@
+{
+  "meta": {
+    "firm": "BrightFunded",
+    "research_date": "2026-10-11",
+    "generated_by": "Independent research dashboard",
+    "verification_labels": [
+      "verified",
+      "advertised",
+      "historical",
+      "unverified"
+    ],
+    "disclaimer": "Independent research, not affiliated with BrightFunded. No checkout was completed; live totals and coupon validity are unverified."
+  },
+  "firm": {
+    "brand": "BrightFunded",
+    "website": "https://brightfunded.com/",
+    "help": "https://help.brightfunded.com/en/",
+    "app": "https://app.brightfunded.com/",
+    "supportEmail": "support@brightfunded.com",
+    "founded": "September 2023 (official launch; idea started January 2023)",
+    "hq": "Dubai, United Arab Emirates (headquarters since January 2025). Additional offices Amsterdam and Warsaw.",
+    "entityMain": "Bright Global FZCO, trading as BrightFunded - Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, UAE. Footer also lists 'Bright Global Computer Systems Software Design - FZCO', DSO-IFZA, IFZA Properties, Dubai Silicon Oasis.",
+    "entities": [
+      {
+        "name": "Bright Global FZCO (trading as BrightFunded)",
+        "where": "Dubai Silicon Oasis, Dubai, UAE",
+        "role": "Operating / contracting brand entity named in the Terms & Conditions.",
+        "label": "verified"
+      },
+      {
+        "name": "BrightFunded Ltd.",
+        "where": "Saint Lucia - company registration number 2025-00358",
+        "role": "Footer states the CFD simulated trading services are offered solely by BrightFunded Ltd.",
+        "label": "advertised"
+      },
+      {
+        "name": "BrightFunded LLC",
+        "where": "Wyoming, USA - 2000 Cedar Bend Dr, Austin, TX 78758",
+        "role": "Footer states futures simulated trading and evaluation services are offered solely by this entity.",
+        "label": "advertised"
+      },
+      {
+        "name": "Bright Transact Ltd.",
+        "where": "Cyprus - registration HE 478945, Limassol",
+        "role": "Described as an affiliated entity; role not further specified publicly.",
+        "label": "advertised"
+      }
+    ],
+    "regulated": false,
+    "regulationNote": "BrightFunded states it is NOT regulated and that no licence is required under UAE law for its activity, because it provides simulated trading only and is neither a broker nor an asset manager. No financial-services licence was found. This is a self-declaration, not an independent verification.",
+    "broker": "No. 'BrightFunded is not a broker, nor connected to one.' All accounts are demo accounts with simulated funds; there is no live market execution.",
+    "restricted": [
+      "Cuba",
+      "Iran",
+      "North Korea",
+      "Syria",
+      "Vietnam"
+    ],
+    "restrictedExtra": [
+      "Pakistan"
+    ],
+    "restrictedNote": "The Terms & Conditions list Cuba, Iran, North Korea, Syria and Vietnam. The Help Centre additionally lists Pakistan, while adding that traders from Pakistan who already hold an active account may continue trading. This is an unresolved discrepancy (see section 13).",
+    "platformRegion": "MT5 is not available to citizens/residents of the United States or the United Arab Emirates, or to restricted countries. cTrader is not available to US citizens/residents. DXtrade has no stated regional block beyond the restricted countries.",
+    "selfReportedStats": [
+      {
+        "k": "Active traders",
+        "v": "40,000+"
+      },
+      {
+        "k": "Countries served",
+        "v": "155+"
+      },
+      {
+        "k": "Established",
+        "v": "2023"
+      },
+      {
+        "k": "Traders funded (site)",
+        "v": "27,500+"
+      },
+      {
+        "k": "Paid in rewards (site reviews page)",
+        "v": "$13M+"
+      },
+      {
+        "k": "Total payouts (company claim, Sep 2026 Trustpilot reply)",
+        "v": "$60M+ (unaudited)"
+      },
+      {
+        "k": "Review-platform score shown on site",
+        "v": "4.5 'loved by 42.9K+' (method not disclosed)"
+      }
+    ]
+  },
+  "plans": [
+    {
+      "id": "1step",
+      "cat": "onestep",
+      "name": "1-Step Challenge",
+      "tagline": "Faster",
+      "badge": "Fastest route",
+      "availability": "current",
+      "phases": [
+        {
+          "id": "p1",
+          "name": "Phase 1",
+          "targetPct": 10,
+          "minDays": 5
+        }
+      ],
+      "dailyPct": 3,
+      "maxPct": 6,
+      "maxType": "trailing",
+      "minDays": 5,
+      "minDaysScope": "One phase - 5 trading days in total",
+      "evalRewardPct": 15,
+      "splitDefault": 80,
+      "splitMax": 90,
+      "newsRestriction": "10-minute window on high-impact news (funded stage only)",
+      "consistencyRule": false,
+      "profitCap": false,
+      "sizes": [
+        5000,
+        10000,
+        25000,
+        50000,
+        100000,
+        200000
+      ],
+      "baseKey": "1step",
+      "promo": {
+        "code": "RALLY30",
+        "pct": 30,
+        "label": "advertised"
+      },
+      "evalRewardDollar": {
+        "5000": 75,
+        "10000": 150,
+        "25000": 375,
+        "50000": 750,
+        "100000": 1500,
+        "200000": 3000
+      },
+      "avgReward": {
+        "5000": 217,
+        "10000": 433,
+        "25000": 951,
+        "50000": 1369,
+        "100000": 2422,
+        "200000": 4272
+      },
+      "blurb": "One phase, one target, tighter risk limits. Maximum drawdown is TRAILING, which is the single most important difference from the 2-Step plans.",
+      "sourceUrl": "https://brightfunded.com/1-step"
+    },
+    {
+      "id": "2sbright",
+      "cat": "twostep",
+      "name": "2-Step Bright",
+      "tagline": "Best value",
+      "badge": "Golden model",
+      "availability": "current",
+      "phases": [
+        {
+          "id": "p1",
+          "name": "Phase 1",
+          "targetPct": 8,
+          "minDays": 5
+        },
+        {
+          "id": "p2",
+          "name": "Phase 2",
+          "targetPct": 5,
+          "minDays": 5
+        }
+      ],
+      "dailyPct": 4,
+      "maxPct": 8,
+      "maxType": "static",
+      "minDays": 5,
+      "minDaysScope": "5 trading days in each phase",
+      "evalRewardPct": 15,
+      "splitDefault": 80,
+      "splitMax": 90,
+      "newsRestriction": "10-minute window on high-impact news (funded stage only)",
+      "consistencyRule": false,
+      "profitCap": false,
+      "sizes": [
+        5000,
+        10000,
+        25000,
+        50000,
+        100000,
+        200000
+      ],
+      "baseKey": "2sbright",
+      "promo": {
+        "code": "RALLY25",
+        "pct": 25,
+        "label": "advertised"
+      },
+      "evalRewardDollar": {
+        "5000": 97.5,
+        "10000": 195,
+        "25000": 487.5,
+        "50000": 975,
+        "100000": 1950,
+        "200000": 3900
+      },
+      "avgReward": {
+        "5000": 217,
+        "10000": 433,
+        "25000": 951,
+        "50000": 1369,
+        "100000": 2422,
+        "200000": 4272
+      },
+      "blurb": "Lowest profit targets of the paid plans (8% then 5%) with a static 8% maximum loss. Widely described by the firm as its most balanced model.",
+      "sourceUrl": "https://brightfunded.com/2-step-bright"
+    },
+    {
+      "id": "2sclassic",
+      "cat": "twostep",
+      "name": "2-Step Classic",
+      "tagline": "Traditional",
+      "badge": "Most popular",
+      "availability": "current",
+      "phases": [
+        {
+          "id": "p1",
+          "name": "Phase 1",
+          "targetPct": 10,
+          "minDays": 5
+        },
+        {
+          "id": "p2",
+          "name": "Phase 2",
+          "targetPct": 5,
+          "minDays": 5
+        }
+      ],
+      "dailyPct": 5,
+      "maxPct": 10,
+      "maxType": "static",
+      "minDays": 5,
+      "minDaysScope": "5 trading days in each phase",
+      "evalRewardPct": 15,
+      "splitDefault": 80,
+      "splitMax": 90,
+      "newsRestriction": "10-minute window on high-impact news (funded stage only)",
+      "consistencyRule": false,
+      "profitCap": false,
+      "sizes": [
+        5000,
+        10000,
+        25000,
+        50000,
+        100000,
+        200000
+      ],
+      "baseKey": "2sclassic",
+      "promo": {
+        "code": "RALLY15",
+        "pct": 15,
+        "label": "advertised"
+      },
+      "evalRewardDollar": {
+        "5000": 112.5,
+        "10000": 225,
+        "25000": 562.5,
+        "50000": 1125,
+        "100000": 2250,
+        "200000": 4500
+      },
+      "avgReward": {
+        "5000": 217,
+        "10000": 433,
+        "25000": 951,
+        "50000": 1369,
+        "100000": 2422,
+        "200000": 4272
+      },
+      "blurb": "The widest limits of the paid plans (5% daily, 10% static total) but a higher Phase 1 target of 10%.",
+      "sourceUrl": "https://brightfunded.com/2-step-classic"
+    },
+    {
+      "id": "free1k",
+      "cat": "free",
+      "name": "Free $1K Challenge (F1KC)",
+      "tagline": "No fee",
+      "badge": "Free",
+      "availability": "current",
+      "phases": [
+        {
+          "id": "p1",
+          "name": "Phase 1",
+          "targetPct": 10,
+          "minDays": 5
+        }
+      ],
+      "dailyPct": 3,
+      "maxPct": 6,
+      "maxType": "trailing",
+      "minDays": 5,
+      "minDaysScope": "5 trading days",
+      "evalRewardPct": 0,
+      "splitDefault": 80,
+      "splitMax": 80,
+      "newsRestriction": "Same funded-stage news restriction applies to the funded account",
+      "consistencyRule": false,
+      "profitCap": false,
+      "sizes": [
+        1000
+      ],
+      "baseKey": null,
+      "promo": null,
+      "evalRewardDollar": {},
+      "avgReward": {},
+      "blurb": "Free single-phase challenge with $1,000 simulated capital. One per user, only if you have no other active accounts, not available in restricted countries, and a limited number can be claimed per country per day. Not eligible for the 15% evaluation profit reward.",
+      "sourceUrl": "https://brightfunded.com/free-1k-challenge",
+      "extraRules": [
+        "Must verify email (no + alias, no disposable domain), verify phone (one phone number per account) and complete a survey to claim.",
+        "Multiple free $1K accounts are not allowed.",
+        "Website comparison table shows a first payout of $40 (5% profit on the funded account at an 80% split)."
+      ]
+    },
+    {
+      "id": "original",
+      "cat": "historical",
+      "name": "Original 2-Step (pre-2.0)",
+      "tagline": "Historical",
+      "badge": "Grandfathered",
+      "availability": "historical",
+      "phases": [
+        {
+          "id": "p1",
+          "name": "Phase 1 - Challenge",
+          "targetPct": 8,
+          "minDays": 5
+        },
+        {
+          "id": "p2",
+          "name": "Phase 2 - Verification",
+          "targetPct": 5,
+          "minDays": 5
+        }
+      ],
+      "dailyPct": 5,
+      "maxPct": 10,
+      "maxType": "static",
+      "minDays": 5,
+      "minDaysScope": "5 trading days in each phase",
+      "evalRewardPct": 0,
+      "splitDefault": 80,
+      "splitMax": 90,
+      "newsRestriction": "10-minute window on high-impact news (funded stage only)",
+      "consistencyRule": false,
+      "profitCap": false,
+      "sizes": [
+        5000,
+        10000,
+        25000,
+        50000,
+        100000,
+        200000
+      ],
+      "baseKey": "original",
+      "promo": null,
+      "evalRewardDollar": {},
+      "avgReward": {},
+      "blurb": "The plan sold before 13 April 2026. Anyone who bought before that date keeps these rules permanently. It is NOT offered as a new purchase on the website, although its price definitions are still present in the public purchase API.",
+      "sourceUrl": "https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts"
+    }
+  ],
+  "sizes": [
+    5000,
+    10000,
+    25000,
+    50000,
+    100000,
+    200000
+  ],
+  "base_prices_usd": {
+    "1step": {
+      "swaps": [
+        49,
+        97,
+        197,
+        297,
+        497,
+        997
+      ],
+      "std": [
+        53.9,
+        106.7,
+        216.7,
+        326.7,
+        546.7,
+        1096.7
+      ]
+    },
+    "2sbright": {
+      "swaps": [
+        47,
+        87,
+        187,
+        277,
+        477,
+        947
+      ],
+      "std": [
+        51.7,
+        95.7,
+        205.7,
+        304.7,
+        524.7,
+        1041.7
+      ]
+    },
+    "2sclassic": {
+      "swaps": [
+        49,
+        97,
+        197,
+        297,
+        497,
+        997
+      ],
+      "std": [
+        53.9,
+        106.7,
+        216.7,
+        326.7,
+        546.7,
+        1096.7
+      ]
+    },
+    "original": {
+      "swaps": [
+        55,
+        95,
+        195,
+        295,
+        495,
+        975
+      ],
+      "std": [
+        60.5,
+        104.5,
+        214.5,
+        324.5,
+        544.5,
+        1072.5
+      ]
+    }
+  },
+  "addons": [
+    {
+      "name": "Swap-Free Add-On",
+      "pct": 10,
+      "action": "chargeSwapFees = false",
+      "phases": "All phases",
+      "label": "verified",
+      "note": "Switching from a swap-charged account to the swap-free definition costs about 10% more (e.g. $5K: 49.00 -> 53.90)."
+    },
+    {
+      "name": "Weekly Payouts",
+      "pct": 25,
+      "action": "PAYOUTS_FREQUENCY_INCREASE (ratio 4)",
+      "phases": "Funded",
+      "label": "verified",
+      "note": "Payouts every 7 days instead of the default 14."
+    },
+    {
+      "name": "Bi-Weekly Payouts",
+      "pct": 15,
+      "action": "PAYOUTS_FREQUENCY_INCREASE (ratio 2)",
+      "phases": "Funded",
+      "label": "verified",
+      "note": "Payouts every 14 days - this is also the default after the first payout, so check whether you need it."
+    },
+    {
+      "name": "90% Profit Split",
+      "pct": 20,
+      "action": "PROFIT_SHARE (ratio 0.9)",
+      "phases": "Funded",
+      "label": "verified",
+      "note": "Raises the reward split from the default 80% to 90% immediately."
+    },
+    {
+      "name": "100% Challenge Fee Refund",
+      "pct": 10,
+      "action": "FEE_REFUND_SHARE (ratio 1.0)",
+      "phases": "Funded",
+      "label": "verified",
+      "note": "Refunds the challenge fee with your first payout. Terms 7.7: if the funded account is later suspended you keep the refund only if you bought this add-on."
+    },
+    {
+      "name": "No Minimum Trading Days",
+      "pct": 15,
+      "action": "TRADING_DAYS_REDUCTION (ratio 0)",
+      "phases": "Phase 1 + Phase 2",
+      "label": "verified",
+      "note": "Removes the 5-trading-day requirement from the evaluation phases."
+    },
+    {
+      "name": "cTrader account",
+      "pct": 0,
+      "action": "CTRADER",
+      "phases": "All phases",
+      "label": "verified",
+      "note": "No surcharge found."
+    },
+    {
+      "name": "MetaTrader 5 account",
+      "pct": 0,
+      "action": "MT5",
+      "phases": "All phases",
+      "label": "verified",
+      "note": "No surcharge found. Not available to US/UAE residents or citizens."
+    }
+  ],
+  "rules": [
+    {
+      "id": "dd-daily",
+      "title": "Daily drawdown limit (daily permitted loss)",
+      "cat": "drawdown",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "1step",
+        "2sbright",
+        "2sclassic",
+        "free1k",
+        "original"
+      ],
+      "phases": "both",
+      "value": "1-Step 3% | 2-Step Bright 4% | 2-Step Classic 5% | Original 2-Step 5% | Free $1K 3%",
+      "unit": "% of original challenge size",
+      "basis": "Limit = (end-of-day highest of balance or equity at rollover) minus (daily % x ORIGINAL challenge size). Resets daily between 23:30 and 23:59 CET.",
+      "expl": "Your equity may never touch the daily floor on any calendar day. The percentage is applied to the original challenge size, not to your current balance - so profits do not increase your daily allowance.",
+      "example": "$100,000 2-Step Bright: you close the day at balance $102,000. Next day the floor is $102,000 - $4,000 = $98,000. Equity at or below $98,000 breaches the account.",
+      "src": "https://help.brightfunded.com/en/articles/12291765-how-does-my-daily-permitted-loss-work",
+      "srcType": "official_help",
+      "label": "verified",
+      "eff": "2025-09-22 (method change)"
+    },
+    {
+      "id": "dd-max-static",
+      "title": "Maximum drawdown - STATIC (2-Step plans)",
+      "cat": "drawdown",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "2sbright",
+        "2sclassic",
+        "original"
+      ],
+      "phases": "both",
+      "value": "2-Step Bright 8% | 2-Step Classic 10% | Original 2-Step 10%",
+      "unit": "% of original balance, fixed",
+      "basis": "Floor = initial balance x (1 - max%). Fixed from the start and never moves, regardless of profits.",
+      "expl": "Static means profits do not raise your floor. A $100,000 Classic account can never fall below $90,000 in balance or equity, even after you are up $20,000.",
+      "example": "$100,000 2-Step Classic: absolute floor $90,000 at all times. $100,000 2-Step Bright: absolute floor $92,000 at all times.",
+      "src": "https://help.brightfunded.com/en/articles/14284817-brightfunded-2-step-bright",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "dd-max-trailing",
+      "title": "Maximum drawdown - TRAILING / high-water mark (1-Step, Free $1K)",
+      "cat": "drawdown",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "1step",
+        "free1k"
+      ],
+      "phases": "both",
+      "value": "6% trailing, locks at breakeven once equity is +6%",
+      "unit": "% of original balance, trailing",
+      "basis": "Floor = highest equity ever reached - 6% of original balance, but it never moves below initial balance - 6%, and once equity reaches initial + 6% the floor locks at the original balance and stops rising.",
+      "expl": "The floor follows your peak in real time, including floating profit. A floating profit that later reverses can breach the account because the floor was already raised. This is the single most complained-about rule in independent reviews.",
+      "example": "$1,000 account: start floor $940. Equity peaks at $1,040 -> floor rises to $980. The trade then reverses and closes at -$35, leaving balance $965 - below $980, so the account is breached even though it is still above the original $940 floor.",
+      "src": "https://help.brightfunded.com/en/articles/15946298-brightfunded-free-1k-challenge-f1kc",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "dd-float",
+      "title": "Floating (unrealised) P/L counts towards both limits",
+      "cat": "drawdown",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Equity = balance + floating P/L",
+      "unit": "-",
+      "basis": "BrightFunded evaluates the higher of balance or equity, and equity includes open positions.",
+      "expl": "You cannot 'hide' a losing position by keeping it open. An open loss reduces equity and counts towards both the daily and the maximum drawdown.",
+      "example": "Balance $100,000 with an open -$3,000 position means equity $97,000 - already at the 3% daily floor on a $100,000 1-Step account.",
+      "src": "https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "dd-time",
+      "title": "Daily reset window (rollover)",
+      "cat": "drawdown",
+      "sev": "info",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "23:30 - 23:59 CET (daily loss reset); swap rollover 01:59 - 02:00 CET",
+      "unit": "CET",
+      "basis": "The daily loss counter resets during the rollover window. Times shift by +/-1 hour with European/US daylight-saving changes.",
+      "expl": "Trading inside the rollover window is explicitly 'not recommended' by BrightFunded because spreads widen sharply and the daily counter is being recalculated.",
+      "example": "The FAQ notes market rollover spreads between 23:00 and 00:00 CET can trigger stop-losses on widened spreads rather than real price movement.",
+      "src": "https://help.brightfunded.com/en/articles/9286673-what-are-the-swap-fees",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "dd-historical",
+      "title": "Historical daily-drawdown method (accounts bought before 22 Sep 2025, 11:00 CET)",
+      "cat": "historical",
+      "sev": "hard",
+      "critical": false,
+      "models": [
+        "original"
+      ],
+      "phases": "both",
+      "value": "5% of challenge size, BALANCE based",
+      "unit": "% of challenge size",
+      "basis": "Old method: the daily permitted loss was 5% of the challenge size and was calculated from your BALANCE at rollover (not the higher of balance/equity).",
+      "expl": "If you bought before 22 September 2025 at 11:00 CET your daily limit still works the old way. Accounts bought after that date use the end-of-day high-water-mark method.",
+      "example": "$100,000 account, balance $100,000 with an open +$1,000 trade at rollover: old method still uses $100,000, so the floor is $95,000 (not $96,000).",
+      "src": "https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts",
+      "srcType": "official_help",
+      "label": "historical",
+      "eff": "ended 2025-09-22 11:00 CET"
+    },
+    {
+      "id": "eval-target",
+      "title": "Profit targets by phase",
+      "cat": "evaluation",
+      "sev": "info",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "evaluation",
+      "value": "1-Step 10% | 2-Step Bright 8% then 5% | 2-Step Classic 10% then 5% | Original 8% then 5% | Free $1K 10%",
+      "unit": "% of initial balance",
+      "basis": "Each phase target is a percentage of the account's initial balance. Phase 2 is only issued after Phase 1 is passed; credentials are sent automatically.",
+      "expl": "Targets are measured on closed profit. Hitting the target while a trade is still open does not pass the phase until it is closed.",
+      "example": "$50,000 2-Step Bright: Phase 1 needs +$4,000, Phase 2 needs +$2,500.",
+      "src": "https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "eval-days",
+      "title": "Minimum trading days",
+      "cat": "evaluation",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "evaluation",
+      "value": "5 trading days per phase (removable with the +15% 'No Minimum Trading Days' add-on)",
+      "unit": "days",
+      "basis": "A day counts when at least one trade stays open for a minimum of 60 seconds - profit or loss makes no difference. Days need not be consecutive.",
+      "expl": "Scalping in and out within seconds does not build trading days. You can buy the requirement away at checkout for +15% of the challenge fee.",
+      "example": "Twelve 20-second scalps on one day count as ONE trading day.",
+      "src": "https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "eval-time",
+      "title": "No time limit on the evaluation or verification",
+      "cat": "evaluation",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "evaluation",
+      "value": "Unlimited days",
+      "unit": "-",
+      "basis": "Both the Challenge and the Verification 'last for unlimited days from the date of activation'.",
+      "expl": "The real clock is the inactivity rule (30 calendar days without a trade) and the 30-day window to activate an account after purchase.",
+      "example": "An account bought in January that has never been traded is suspended after 30 days and has a 6-month grace period to request reactivation.",
+      "src": "https://brightfunded.com/terms-and-conditions",
+      "srcType": "official_terms",
+      "label": "verified"
+    },
+    {
+      "id": "eval-activate",
+      "title": "Activate within 30 days of payment",
+      "cat": "evaluation",
+      "sev": "block",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "evaluation",
+      "value": "30 days",
+      "unit": "days",
+      "basis": "Terms 6.3 / 6.10: if the Challenge or Verification is not activated within 30 days of payment or of receiving login data, access is automatically suspended; 6 months to request renewal or the service terminates without refund.",
+      "expl": "Buying an account and leaving it untouched is a real risk of losing the fee.",
+      "example": "Buy on 1 March, never log in: suspended 31 March, permanently lost after 30 September with no refund.",
+      "src": "https://brightfunded.com/terms-and-conditions",
+      "srcType": "official_terms",
+      "label": "verified"
+    },
+    {
+      "id": "breach-effect",
+      "title": "What a breach actually does",
+      "cat": "evaluation",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Account invalidated / closed; challenge fee not refunded",
+      "unit": "-",
+      "basis": "Official FAQ: breaching the rules makes the account automatically invalid, it cannot continue in the evaluation, and the initial fee is lost. You may buy a new challenge.",
+      "expl": "A breach is not a warning. There is no reset and no partial credit - the account simply ends. Funded accounts are closed instead of invalidated.",
+      "example": "Touching the daily floor once on a $100K account ends that account; the fee is not returned unless you bought the fee-refund add-on and reached a payout.",
+      "src": "https://help.brightfunded.com/en/articles/9241613-what-happens-if-i-breach-the-rules",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "inactivity",
+      "title": "Inactivity rule - 30 calendar days",
+      "cat": "account",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "30 calendar days",
+      "unit": "days",
+      "basis": "Policy effective 1 September 2025 and applied to all accounts including pre-existing ones. After your last closed trade you must place another trade that stays open at least 60 seconds within 30 days. Never-traded accounts must place a first trade within 30 days of assignment. Open positions keep the account active indefinitely, but pending orders do NOT count.",
+      "expl": "This policy was applied retroactively to already-issued accounts, which is unusual and worth knowing. Deactivation is reversible for 6 months; after that the firm may treat it as a hard breach.",
+      "example": "You hold an open EUR/USD position for 4 months - the account stays active. You have only pending limit orders - the countdown runs and the account deactivates after 30 days.",
+      "src": "https://help.brightfunded.com/en/articles/11774572-inactivity-rule-policy",
+      "srcType": "official_help",
+      "label": "verified",
+      "eff": "2025-09-01"
+    },
+    {
+      "id": "single-account",
+      "title": "Single account policy - one profile per person",
+      "cat": "account",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "1 email profile per person",
+      "unit": "-",
+      "basis": "Terms 4.1. Detection uses names, personal data, IP addresses, device fingerprints, payment patterns, KYC submissions and other methods.",
+      "expl": "One person may buy many challenge accounts through the SAME profile. Creating a second profile - even with a different email or slightly altered details - is what breaches the rule. Penalty can include closing all accounts, revoking promotions/discounts/payouts and a permanent ban.",
+      "example": "Buying five $100K challenges on one profile is allowed. Creating a second login to get a 'new customer' promo code is not.",
+      "src": "https://help.brightfunded.com/en/articles/11079360-single-account-policy-important-for-all-our-users",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "capital-cap",
+      "title": "Maximum funded capital per trader: $400,000",
+      "cat": "account",
+      "sev": "block",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "$400,000 funded (unlimited during the challenge stage)",
+      "unit": "USD",
+      "basis": "Terms 6.14 and the official FAQ. Extra passed Phase 2 accounts above the cap are placed on hold until a funded account is breached.",
+      "expl": "You can own unlimited evaluation accounts, but only $400,000 of funded capital at once. Identical strategies across accounts above the cap may be suspended.",
+      "example": "Two $200K funded accounts, or four $100K funded accounts, is the maximum. A fifth $100K funded account waits on hold.",
+      "src": "https://help.brightfunded.com/en/articles/9241621-what-capital-will-i-trade-at-brightfunded",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "account-merge",
+      "title": "Account merging (funded stage only)",
+      "cat": "account",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "2x5K=10K | 2x25K=50K | 2x50K=100K | 2x100K=200K",
+      "unit": "-",
+      "basis": "Only funded accounts, only two accounts, identical add-ons (same platform, same split, same payout frequency), and both accounts must be 'clean' (no trades) at the moment of the request. Irreversible.",
+      "expl": "2x$10K cannot be merged because there is no $20K account. Merging an 80% account with a 90% account is not allowed.",
+      "example": "Two untouched $50K funded accounts with identical add-ons can become one $100K funded account.",
+      "src": "https://help.brightfunded.com/en/articles/9436456-how-the-account-merge-works",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "news",
+      "title": "News trading - 10-minute blackout on FUNDED accounts only",
+      "cat": "news",
+      "sev": "soft",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "No opening or closing trades 5 minutes before to 5 minutes after a high-impact release",
+      "unit": "minutes",
+      "basis": "Effective 9 May 2024. During the 10-minute window you may not open, close, or have SL/TP/buy-stop/sell-stop orders triggered on targeted instruments. Profit made on a violating trade is deducted; losses are NOT compensated. Explicitly a SOFT breach - the account is not terminated.",
+      "expl": "Phase 1 and Phase 2 have no news restriction at all. Once funded, the restriction applies. Trades opened more than 5 minutes before the event may be held, but if their SL or TP fires inside the window it is still a soft breach.",
+      "example": "A trade held 48+ hours whose take-profit fills during the 10-minute window is exempt - the profit is kept.",
+      "src": "https://help.brightfunded.com/en/articles/9241694-can-i-trade-news",
+      "srcType": "official_help",
+      "label": "verified",
+      "eff": "2024-05-09"
+    },
+    {
+      "id": "news-calendar",
+      "title": "Which news events are targeted",
+      "cat": "news",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "High-impact ('red folder') events; BrightFunded links Forex Factory as the reference calendar",
+      "unit": "-",
+      "basis": "The rule applies to 'targeted instruments' only; you may trade non-targeted instruments normally during the window.",
+      "expl": "The reference calendar is third-party (forexfactory.com). Whether the firm uses its own list or Forex Factory's filtering is not fully specified - treat borderline events as restricted.",
+      "example": "An FOMC release targets USD pairs; trading an unrelated exotic during the same window is generally allowed.",
+      "src": "https://help.brightfunded.com/en/articles/9241694-can-i-trade-news",
+      "srcType": "official_help",
+      "label": "unverified"
+    },
+    {
+      "id": "ea",
+      "title": "Expert Advisors (EAs) / trading bots",
+      "cat": "automation",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Allowed with conditions",
+      "unit": "-",
+      "basis": "EAs are permitted but must respect the daily and total loss limits. API and automated trading are NOT supported on DXtrade. Compatibility of third-party EAs is not guaranteed.",
+      "expl": "Automation is allowed, but 'high-frequency trading', latency exploitation and AI/ultra-high-speed systems are explicitly forbidden by the Terms and the prohibited-strategies article. The line between the two is drawn by the firm.",
+      "example": "A standard MT5 grid-free EA is fine; an HFT bot placing and cancelling orders in milliseconds is not.",
+      "src": "https://help.brightfunded.com/en/articles/9241699-can-i-use-ea",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "copy",
+      "title": "Copy trading / signal trading",
+      "cat": "copytrading",
+      "sev": "cond",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Allowed only between accounts you own",
+      "unit": "-",
+      "basis": "Copying between BrightFunded accounts, other evaluation firms, or retail brokerage accounts is allowed if every account belongs to the same person. Copying between accounts of different owners - including relatives, family or friends - is prohibited, as is trading on community signals. Detection compares opening price, closing price, trade size, size ratio and symbols.",
+      "expl": "Consequences range from a caution with profit deduction and account reset to immediate closure with no profit distribution if the account is not in profit. Managing accounts for others or selling 'pass your challenge' services is prohibited.",
+      "example": "Copying your own retail account into your BrightFunded account: allowed. Following a paid Telegram signal group: prohibited.",
+      "src": "https://help.brightfunded.com/en/articles/9241709-is-copy-trading-allowed",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "hedge-cross",
+      "title": "Hedging across accounts, platforms or prop firms",
+      "cat": "copytrading",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "First detection = soft breach (one-time warning); repeat = hard breach",
+      "unit": "-",
+      "basis": "Effective 13 August 2024. Prohibited: the same instrument hedged across two BrightFunded accounts, across two platforms on the same profile, across different prop firms, or via a copier/EA. First detection closes all open trades in the involved accounts and issues a one-time warning; a second detection permanently breaches them. The one-time warning only applies if a single trade is involved on each side - two or more offsetting trades is an immediate hard breach.",
+      "expl": "Hedging the same instrument INSIDE one account is explicitly allowed. What is banned is replicating that structure across accounts.",
+      "example": "Account A buys 1 lot EUR/USD while Account B sells 1 lot EUR/USD = inter-account hedging. Account A holding both a buy and a sell on EUR/USD = allowed.",
+      "src": "https://help.brightfunded.com/en/articles/9680850-how-does-the-hedging-rule-work",
+      "srcType": "official_help",
+      "label": "verified",
+      "eff": "2024-08-13"
+    },
+    {
+      "id": "prohibited-strategies",
+      "title": "Prohibited strategy list (grid, HFT, tick scalping, arbitrage, overleveraging)",
+      "cat": "trading",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Grid trading, arbitrage, tick scalping, HFT, overleveraging, overexposure, one-sided bets (averaging down), account rolling - all forbidden",
+      "unit": "-",
+      "basis": "Help Centre 'Which strategies are prohibited' plus Terms 5.4-5.5. The Terms also forbid gap trading when significant news or macro events are due, and exploiting service errors, price-feed delays, or using a slower external data feed.",
+      "expl": "The firm states that any activity compromising the standard 'will result in account termination and disqualification from future evaluations'. Because the list is open-ended and judged by the firm, borderline strategies carry real risk.",
+      "example": "Continuously averaging down a losing long position is named as 'one-sided bets' and is prohibited. Placing a buy/sell ladder at fixed intervals is named as grid trading and is prohibited.",
+      "src": "https://help.brightfunded.com/en/articles/9241704-which-strategies-are-prohibited-at-brightfunded",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "min-hold",
+      "title": "Minimum holding time and scalping",
+      "cat": "trading",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "No formal minimum holding time, but tick scalping is not allowed",
+      "unit": "-",
+      "basis": "Official FAQ: no minimum holding time is enforced; tick scalping is not allowed and the firm recommends avoiding closing too many trades in very short periods.",
+      "expl": "There is no hard seconds threshold published, which means enforcement is discretionary. Note that a trade must stay open at least 60 seconds to count as a trading day.",
+      "example": "Dozens of sub-second entries per hour can be treated as tick scalping even though no numeric limit is published.",
+      "src": "https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "weekend",
+      "title": "Weekend and overnight holding",
+      "cat": "trading",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Allowed",
+      "unit": "-",
+      "basis": "Positions may be held over the weekend. Crypto instruments can be traded at weekends when the instrument is open.",
+      "expl": "Weekend gaps and swap charges are your risk. Forex and commodities are charged 3x swap on the Wednesday rollover; indices 3x on the Friday rollover, unless you bought the swap-free add-on.",
+      "example": "A forex position held through Wednesday night is charged triple swap.",
+      "src": "https://help.brightfunded.com/en/articles/9268323-is-it-allowed-to-hold-positions-over-the-weekend",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "vpn",
+      "title": "VPN, VPS and IP addresses",
+      "cat": "account",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Allowed",
+      "unit": "-",
+      "basis": "Using a VPN/VPS or a different IP while travelling is permitted. What is prohibited is anybody other than the account owner using or trading the account.",
+      "expl": "Account sharing is the actual prohibition. Device fingerprinting and IP matching are used to detect multi-account abuse (single-account policy).",
+      "example": "Trading from a VPS in London while you live in Warsaw is fine. Letting a friend trade your account is not.",
+      "src": "https://help.brightfunded.com/en/articles/9436443-is-it-permitted-to-use-a-vpn-vps-at-brightfunded",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "stop-loss",
+      "title": "Stop-loss requirement",
+      "cat": "trading",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Not mandatory",
+      "unit": "-",
+      "basis": "Official FAQ: a stop-loss is not mandatory but is strongly recommended.",
+      "expl": "No SL means a single position can breach the daily or maximum drawdown on its own.",
+      "example": "An unprotected position on gold can move 3% of a $100K account in minutes during a news release.",
+      "src": "https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "payout-first",
+      "title": "First payout timing",
+      "cat": "payout",
+      "sev": "block",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "30 days after the first trade on the funded account",
+      "unit": "days",
+      "basis": "Official reward-split article: you can request your first reward split 30 days after placing your first trade on the funded account.",
+      "expl": "Profit made on day 1 cannot be withdrawn until day 30. This is a waiting period, not a profit requirement.",
+      "example": "First funded trade on 1 March -> first eligible payout request 31 March.",
+      "src": "https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "payout-frequency",
+      "title": "Payout frequency after the first payout",
+      "cat": "payout",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "Bi-weekly (14 days) by default; weekly (7 days) with the +25% add-on",
+      "unit": "days",
+      "basis": "Default cycle is bi-weekly. The checkout 'Weekly Payouts' add-on costs +25% of the challenge fee; 'Bi-Weekly Payouts' is listed at +15%, so verify whether you are already getting 14 days for free before paying for it.",
+      "expl": "The website markets '24-hour guaranteed payouts' and 'weekly payouts' - those refer to processing speed and the optional frequency, not to the default request cycle.",
+      "example": "Without add-ons you can request a payout roughly every 14 days after the first one.",
+      "src": "https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "payout-split",
+      "title": "Profit split",
+      "cat": "payout",
+      "sev": "info",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "80% default, 90% with the +20% add-on, 90% after the 1st scale-up, 100% from the 3rd scale-up",
+      "unit": "% to trader",
+      "basis": "Reward-split article plus the scaling-plan page. The firm also markets 'up to 90%' on plan pages and 'up to 100%' in the comparison table - both are reachable, but only via add-on or scaling.",
+      "expl": "The headline 'up to 90% payout ratio' is not the default. If you buy no add-ons and never scale, you are on 80%.",
+      "example": "$10,000 of simulated profit at the default split pays $8,000; with the 90% add-on it pays $9,000.",
+      "src": "https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "payout-min",
+      "title": "Minimum payout amount",
+      "cat": "payout",
+      "sev": "allow",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "None stated - 'even $0.01' can be requested",
+      "unit": "USD",
+      "basis": "Official reward-split article: there is no minimum reward. This CONFLICTS with the free-$1K page, which advertises a first payout of $40 (5% profit) and with the free-$1K vs $100K comparison showing a 'Minimum $4,000 Payout' for the $100K challenge.",
+      "expl": "Two official sources disagree. Treat the $0.01 statement as the payout-request rule and the 5% figure as a marketing illustration of the first meaningful payout - and ask support which applies to your account.",
+      "example": "On a $100,000 challenge the website implies the first payout is $4,000 (5% of $100,000 x 80%).",
+      "src": "https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account",
+      "srcType": "official_help",
+      "label": "unverified"
+    },
+    {
+      "id": "payout-fees",
+      "title": "Payout fees",
+      "cat": "fees",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "BrightFunded charges none; third-party processor/network fees typically $5-$50",
+      "unit": "USD",
+      "basis": "Official help article: no additional fees are charged by the firm; blockchain gas and payment-provider charges are deducted by third parties and 'in very rare cases' can exceed $5-$50. Currency conversion is at real-time partner rates.",
+      "expl": "The headline 'no fees' is accurate for the firm but not for your net amount. Bank transfers are in EUR; crypto is USDC on ERC-20 only.",
+      "example": "A $1,000 payout can arrive as roughly $950-$995 depending on network and provider fees.",
+      "src": "https://help.brightfunded.com/en/articles/9241684-do-i-need-to-pay-charges-with-the-payouts",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "payout-speed",
+      "title": "Payout processing time",
+      "cat": "payout",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "Maximum 1 day (24 hours) after request; the site advertises an average of about 17 hours",
+      "unit": "hours",
+      "basis": "Help article: 'it will take a maximum of 1 day to be processed'. The marketing claim '24-Hour Guaranteed Payouts' is not published as a contractual guarantee.",
+      "expl": "You must close all trades and pending orders and be on or after your payout day to request. Time to reach your wallet depends on the bank or blockchain.",
+      "example": "Request on Monday morning, funds processed by Tuesday; bank settlement can take several additional business days.",
+      "src": "https://help.brightfunded.com/en/articles/11468668-how-can-i-request-my-payout",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "payout-method",
+      "title": "Payout methods and currencies",
+      "cat": "payout",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "USDC on ERC-20, or bank transfer in EUR",
+      "unit": "-",
+      "basis": "Help centre. Changing your wallet address requires a video verification showing your dashboard, the payout section and the new USDC ERC-20 address in one continuous recording.",
+      "expl": "Payouts are not offered in USD by bank transfer and not on other chains (TRC-20, Solana) - sending via the wrong network risks losing the funds.",
+      "example": "A trader wanting USD must use USDC and convert.",
+      "src": "https://help.brightfunded.com/en/articles/9241681-how-can-i-get-paid",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "consistency",
+      "title": "Consistency rule",
+      "cat": "consistency",
+      "sev": "allow",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "NOT enforced (none)",
+      "unit": "-",
+      "basis": "Official FAQ and a dedicated help article both state that BrightFunded does not currently enforce a consistency rule: no requirement to spread profits across days or trades and no fixed position size.",
+      "expl": "This is a genuine advantage over many competitors - one large winning day does not block a payout. Note the word 'currently': the Terms let BrightFunded change Product Specifications, so this is a policy, not a contractual guarantee.",
+      "example": "Making your entire 10% on a single day does not, by itself, prevent a payout request.",
+      "src": "https://help.brightfunded.com/en/articles/12577176-does-brightfunded-have-a-consistency-rule",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "profit-cap",
+      "title": "Profit cap / maximum withdrawal",
+      "cat": "payout",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "None",
+      "unit": "-",
+      "basis": "Official FAQ: 'BrightFunded does not have a profit cap - your earnings have no per-cycle withdrawal limit'.",
+      "expl": "No maximum first/second payout is published. The only ceiling is the $400,000 funded capital allocation.",
+      "example": "A $50,000 profit cycle on a $200K account is payable in full at your split.",
+      "src": "https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "kyc",
+      "title": "KYC / identity verification",
+      "cat": "kyc",
+      "sev": "block",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "Government ID + proof of address, via SumSub",
+      "unit": "-",
+      "basis": "KYC is mandatory before the funded account is issued and before payouts. Performed by SumSub to AML standards. KYB (business verification) is not required.",
+      "expl": "After passing, the account goes through a Risk Team security check: 1-2 business days normally, up to 4 at peak. Contract and funded-account activation are then automated.",
+      "example": "Independent reviews report KYC and credential delays as a recurring complaint, so allow for the 1-4 day window before planning payouts.",
+      "src": "https://help.brightfunded.com/en/articles/9268287-how-do-i-obtain-my-funded-account",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "commissions",
+      "title": "Trading commissions",
+      "cat": "fees",
+      "sev": "info",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Forex $3 per lot | Indices $0 | Crypto 0.024% of volume (0.012% per side) | Commodities 0.0010% of volume",
+      "unit": "per lot / % of volume",
+      "basis": "Official help article. Commissions apply identically in the challenge and the funded stage because the firm mirrors trades onto its own corporate live accounts.",
+      "expl": "Commission is charged on evaluation accounts as well as funded accounts - a cost many traders forget when sizing risk.",
+      "example": "A 5-lot EUR/USD round trip costs $15 in commission regardless of profit or loss.",
+      "src": "https://help.brightfunded.com/en/articles/9268221-what-are-the-commissions-in-the-simulated-environment-of-brightfunded",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "leverage",
+      "title": "Leverage by asset class",
+      "cat": "platform",
+      "sev": "info",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Forex 1:100 | Gold & commodities 1:40 | Indices 1:20 | Crypto 1:5",
+      "unit": "ratio",
+      "basis": "Official help article. Identical leverage in the challenge and funded stages.",
+      "expl": "Leverage is far lower than a retail broker on crypto and indices. The firm can also reduce leverage to 1:5 on any account as a sanction for forbidden trading practices (Terms 5.8).",
+      "example": "On a $100,000 account: $10,000,000 forex notional, $4,000,000 metals, $2,000,000 indices, $500,000 crypto.",
+      "src": "https://help.brightfunded.com/en/articles/9268380-what-is-the-leverage-in-brightfunded-s-simulated-trading-environment",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "swaps",
+      "title": "Swap / rollover fees",
+      "cat": "fees",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Charged at 01:59-02:00 CET; 3x on Wednesday (FX & commodities) and Friday (indices) unless swap-free",
+      "unit": "pips",
+      "basis": "Official help article. Swap-free requires the +10% checkout add-on. Swap fees displayed in pips on the platform.",
+      "expl": "Triple swap on Wednesdays is a real cost for swing traders. Independent reviews include complaints about swap charges contributing to breaches.",
+      "example": "A position held through Wednesday night is charged triple the normal overnight swap.",
+      "src": "https://help.brightfunded.com/en/articles/9286673-what-are-the-swap-fees",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "platforms",
+      "title": "Trading platforms",
+      "cat": "platform",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "MetaTrader 5, cTrader, DXtrade",
+      "unit": "-",
+      "basis": "Official help article. MT5 unavailable to US/UAE citizens or residents and restricted countries; cTrader unavailable to US citizens/residents. DXtrade does not support API or automated trading.",
+      "expl": "No proprietary platform, no TradingView direct execution (only charting similarity), no Match-Trader, no TradeLocker. Platform choice is free at checkout.",
+      "example": "A US-based trader cannot use MT5 or cTrader and must use DXtrade.",
+      "src": "https://help.brightfunded.com/en/articles/10855521-what-trading-platform-does-brightfunded-offer",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "instruments",
+      "title": "Tradable instruments",
+      "cat": "platform",
+      "sev": "info",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "46 forex pairs listed; 48 crypto pairs; indices; metals and energy commodities",
+      "unit": "-",
+      "basis": "The trading-instruments page lists 46 forex symbols in its HTML; the crypto help article lists 48 crypto pairs. Indices and commodities are described but the full symbol list is rendered dynamically and could not be fully extracted.",
+      "expl": "No stock CFDs, no futures contracts are advertised to customers even though the legal footer mentions a Wyoming entity for 'futures simulated trading'.",
+      "example": "Confirmed symbols include EUR/USD, GBP/USD, XAU/USD, XAG/USD, WTI/USD, BRN/USD, NGC/USD, US100.cash, US500.cash, US30.cash, JPN225.cash and BTC/USD.",
+      "src": "https://brightfunded.com/trading-instruments",
+      "srcType": "official_page",
+      "label": "verified"
+    },
+    {
+      "id": "refund",
+      "title": "Refund policy",
+      "cat": "fees",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "evaluation",
+      "value": "Refund if NO trade was placed and the purchase is under 30 days old",
+      "unit": "days",
+      "basis": "Help article: contact support via live chat; refund processed within 48 hours and arrives in 3-10 business days. Terms 3.3: no refunds if you cancel the client section, stop using the service, fail the conditions or breach the terms.",
+      "expl": "Placing even one trade removes refund eligibility. The Terms also contain a chargeback policy (clause 3.4) that allows the firm to act on payment disputes.",
+      "example": "Bought 10 days ago, never logged in: refundable. Placed one trade: not refundable.",
+      "src": "https://help.brightfunded.com/en/articles/9460023-can-i-get-a-refund-for-my-brightfunded-challenge",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "fee-refund-addon",
+      "title": "100% challenge fee refund (add-on) and its forfeiture condition",
+      "cat": "fees",
+      "sev": "cond",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "+10% of challenge fee; refunded with the first payout",
+      "unit": "% of fee",
+      "basis": "Terms 7.7(b): the challenge fee is refunded only if the add-on was purchased, and it is included in the first performance-reward disbursement. If the funded account is later suspended, no further refund is issued.",
+      "expl": "The refund is not automatic - it is tied to the add-on and to reaching a payout. Without the add-on there is no fee refund even if you pass.",
+      "example": "A $100K 2-Step Classic at EUR 497 with the add-on (+10% = 497) returns EUR 497 with your first payout.",
+      "src": "https://brightfunded.com/terms-and-conditions",
+      "srcType": "official_terms",
+      "label": "verified"
+    },
+    {
+      "id": "scaling",
+      "title": "Scaling plan",
+      "cat": "payout",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "+30% account size every 4 months; 90% split after scale-up 1; 100% from scale-up 3; no upper limit",
+      "unit": "-",
+      "basis": "Requirements: 4-month consecutive review window from the first trade; profitable in at least 2 of the 4 months; at least 10% total profit across the window; at least 2 completed payouts; balance at breakeven or better at the moment of scaling. Must be requested from support - it is not automatic.",
+      "expl": "If the objective is missed, all parameters reset and a new 4-month window begins. The scaling page and the help article describe the same conditions.",
+      "example": "A $100,000 funded account that meets the conditions becomes $130,000; after the third scale-up the split is 100%.",
+      "src": "https://help.brightfunded.com/en/articles/9268774-how-to-scale-up-my-funded-account-infinitely",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "eval-reward",
+      "title": "15% evaluation profit reward",
+      "cat": "payout",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "1step",
+        "2sbright",
+        "2sclassic"
+      ],
+      "phases": "evaluation",
+      "value": "15% of Phase 1 + Phase 2 profit, credited to your next funded account",
+      "unit": "%",
+      "basis": "Effective 3 January 2026. Available only on PAID challenge accounts (not the free $1K). Requires reaching 10% growth on the funded account and receiving a payout. One article says you must contact support to have it applied; another describes it as issued automatically - unresolved.",
+      "expl": "The bonus increases the STARTING BALANCE of the next funded account rather than being paid as cash at once, but it can be withdrawn later with a payout.",
+      "example": "$100,000 account, $13,000 total evaluation profit -> bonus $1,950 -> next funded account starts at $101,950.",
+      "src": "https://help.brightfunded.com/en/articles/13367202-15-evaluation-profit-reward",
+      "srcType": "official_help",
+      "label": "verified",
+      "eff": "2026-01-03"
+    },
+    {
+      "id": "trade2earn",
+      "title": "Trade2Earn loyalty tokens",
+      "cat": "platform",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "0.2 tokens per $100,000 traded (FX, indices, commodities); 0.2 tokens per $20,000 traded (crypto)",
+      "unit": "tokens per volume",
+      "basis": "Official help article. Tokens accrue on every trade regardless of profit or loss, in both challenge and funded phases, and can be redeemed for perks such as extra drawdown, lower profit targets, fee refunds and discounts.",
+      "expl": "The token ratio is reviewed quarterly and may change. The perk catalogue is only visible inside the dashboard, so the real value cannot be verified from outside.",
+      "example": "Trading $1,000,000 of forex volume earns 2 tokens.",
+      "src": "https://help.brightfunded.com/en/articles/9241634-how-many-brightfunded-tokens-do-i-receive-per-lot",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "chargeback",
+      "title": "Chargeback policy and enforcement",
+      "cat": "fees",
+      "sev": "hard",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Disputing a payment can terminate services",
+      "unit": "-",
+      "basis": "Terms 3.4 covers 'unjustifiable complaints' and the Help Centre has a dedicated Chargeback Policy & Enforcement article. The firm may act if a chargeback or payment dispute is filed without first attempting resolution.",
+      "expl": "If you dispute a charge with your bank or card issuer, expect the account to be affected. Raise issues with support first.",
+      "example": "Filing a card chargeback without contacting support is treated as a breach-level event.",
+      "src": "https://help.brightfunded.com/en/articles/10717651-chargeback-policy-enforcement",
+      "srcType": "official_help",
+      "label": "advertised"
+    },
+    {
+      "id": "risk-discretion",
+      "title": "Risk team discretion and temporary risk measures",
+      "cat": "account",
+      "sev": "cond",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "Firm may reduce leverage to 1:5, cut daily drawdown, limit position size or impose other restrictions",
+      "unit": "-",
+      "basis": "Terms 5.8 allows the firm to remove transactions, cancel services, terminate the agreement, reduce leverage to 1:5, or impose additional trading restrictions. The funded-account help article confirms 'temporary risk measures may be applied' in rare cases where a strategy is judged higher risk.",
+      "expl": "This is the most consequential discretionary clause in the contract: trading parameters can be changed, and a profitable payout can be delayed by a risk review. One independent review specifically complains that a risk limit was reduced to 1% before an account was breached.",
+      "example": "A trader using a high-volume news strategy may have the daily limit reduced mid-account.",
+      "src": "https://brightfunded.com/terms-and-conditions",
+      "srcType": "official_terms",
+      "label": "verified"
+    },
+    {
+      "id": "payout-discretion",
+      "title": "Performance rewards are discretionary",
+      "cat": "payout",
+      "sev": "cond",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "funded",
+      "value": "Rewards are 'discretionary and do not constitute a guaranteed right or entitlement'",
+      "unit": "-",
+      "basis": "Terms 6.19 and 7.8. Funded Trader Program admission is at the firm's sole discretion (7.2, 7.5).",
+      "expl": "Legally, the payout is a discretionary performance reward, not a contractual debt. That is standard for the industry but it materially changes your remedies if a payout is refused.",
+      "example": "A rejected payout can be defended by the firm on the basis of clauses 6.19 / 7.8 even where no explicit rule was broken.",
+      "src": "https://brightfunded.com/terms-and-conditions",
+      "srcType": "official_terms",
+      "label": "verified"
+    },
+    {
+      "id": "free-1k",
+      "title": "Free $1K Challenge eligibility",
+      "cat": "evaluation",
+      "sev": "cond",
+      "critical": false,
+      "models": [
+        "free1k"
+      ],
+      "phases": "evaluation",
+      "value": "One per user; no other active accounts; restricted countries excluded; limited claims per country per day",
+      "unit": "-",
+      "basis": "Help article. Requires verified email (no + alias, no disposable domain), a verified phone number (one number per account) and a completed survey. Multiple free accounts are not allowed.",
+      "expl": "The free challenge is a genuine zero-cost entry, but it is capped and cannot be combined with an existing active account.",
+      "example": "Holding an active paid challenge disqualifies you from claiming the free $1K until that account is closed.",
+      "src": "https://help.brightfunded.com/en/articles/15943346-how-to-claim-your-free-1k-challenge-f1kc",
+      "srcType": "official_help",
+      "label": "verified"
+    },
+    {
+      "id": "restricted",
+      "title": "Restricted countries",
+      "cat": "account",
+      "sev": "block",
+      "critical": true,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Cuba, Iran, North Korea, Syria, Vietnam (Terms) + Pakistan (Help Centre)",
+      "unit": "-",
+      "basis": "Terms section 2 lists Cuba, Iran, North Korea, Syria and Vietnam. The Help Centre adds Pakistan but says existing Pakistani accounts may continue trading. MT5 is additionally unavailable to US and UAE residents/citizens.",
+      "expl": "The two official lists differ. If you are in Pakistan, get written confirmation before buying.",
+      "example": "A trader resident in Vietnam cannot register; a trader resident in Pakistan is blocked by the Help Centre list but not by the Terms.",
+      "src": "https://help.brightfunded.com/en/articles/9286630-what-countries-are-restricted-at-brightfunded",
+      "srcType": "official_help",
+      "label": "unverified"
+    },
+    {
+      "id": "company-reg",
+      "title": "Can I register as a company?",
+      "cat": "account",
+      "sev": "allow",
+      "critical": false,
+      "models": [
+        "all"
+      ],
+      "phases": "both",
+      "value": "Yes - invoices and payouts can be in the company name",
+      "unit": "-",
+      "basis": "Official FAQ: register as an individual using the company address, then add business information in the profile. Invoices are issued in the company name and payouts can go to the company bank account. No KYB process.",
+      "expl": "Only individual KYC is required; there is no corporate verification.",
+      "example": "A trading company can have the invoice and payout in its own name without a KYB review.",
+      "src": "https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions",
+      "srcType": "official_help",
+      "label": "verified"
+    }
+  ],
+  "coupons": [
+    {
+      "group": "Officially advertised - live on brightfunded.com",
+      "label": "advertised",
+      "items": [
+        {
+          "code": "RALLY30",
+          "off": "30% OFF",
+          "models": "1-Step Challenge",
+          "excl": "Not documented",
+          "exp": "Autumn Promo - no end date published",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "https://brightfunded.com/1-step",
+          "status": "Live - officially advertised (site banner + copy button)"
+        },
+        {
+          "code": "RALLY25",
+          "off": "25% OFF",
+          "models": "2-Step Bright Challenge",
+          "excl": "Not documented",
+          "exp": "Autumn Promo - no end date published",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "https://brightfunded.com/2-step-bright",
+          "status": "Live - officially advertised"
+        },
+        {
+          "code": "RALLY15",
+          "off": "15% OFF",
+          "models": "2-Step Classic Challenge",
+          "excl": "Not documented",
+          "exp": "Autumn Promo - no end date published",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "https://brightfunded.com/2-step-classic",
+          "status": "Live - officially advertised"
+        }
+      ]
+    },
+    {
+      "group": "Third-party / affiliate claims - NOT confirmed by BrightFunded",
+      "label": "unverified",
+      "items": [
+        {
+          "code": "MATCH30",
+          "off": "30% OFF + free account (as advertised)",
+          "models": "Claimed for the firm generally",
+          "excl": "Unknown",
+          "exp": "Unknown",
+          "first": "Unknown",
+          "stack": "Unknown",
+          "src": "https://propfirmmatch.com/prop-firms/brightfunded",
+          "status": "Third-party claim. PropFirmMatch is an affiliate marketplace with a review-bounty programme - treat as unverified"
+        }
+      ]
+    },
+    {
+      "group": "Historical official codes - expired, do not use",
+      "label": "historical",
+      "items": [
+        {
+          "code": "WEEKEND",
+          "off": "40% OFF",
+          "models": "$100K and $200K 1-Step ONLY",
+          "excl": "All other sizes and plans",
+          "exp": "Ended Sunday midnight 11 Oct 2026",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "Official Telegram t.me/s/brightfunded",
+          "status": "Expired (ended the day before this research date)"
+        },
+        {
+          "code": "3YEARS",
+          "off": "30% OFF all challenges + free account + 15% evaluation profit reward",
+          "models": "All challenges",
+          "excl": "Unknown",
+          "exp": "21-30 Sep 2026",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "Official Telegram t.me/s/brightfunded",
+          "status": "Expired"
+        },
+        {
+          "code": "DOUBLE25",
+          "off": "25% OFF + free account upon payout + 15% evaluation profit reward",
+          "models": "Not stated",
+          "excl": "Unknown",
+          "exp": "9-14 Sep 2026",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "Official Telegram t.me/s/brightfunded",
+          "status": "Expired"
+        },
+        {
+          "code": "NOV15",
+          "off": "15% OFF + 15% Phase 1 & 2 profit share",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "November 2025",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "brightfunded.com archived 5 Nov 2025 (web.archive.org)",
+          "status": "Expired"
+        },
+        {
+          "code": "TREAT30",
+          "off": "30% OFF",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "Halloween 2025 - limited time",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "brightfunded.com archived 5 Nov 2025 (web.archive.org)",
+          "status": "Expired"
+        },
+        {
+          "code": "BF30",
+          "off": "30% OFF + 85% payout split",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "Black Friday, 24 Nov 2025",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "Official Telegram t.me/s/brightfunded",
+          "status": "Expired"
+        },
+        {
+          "code": "CM25",
+          "off": "25% OFF + 15% evaluation phase profit share",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "1-3 Dec 2025",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "Official Telegram t.me/s/brightfunded",
+          "status": "Expired"
+        },
+        {
+          "code": "DEC15",
+          "off": "15% OFF + 15% evaluation phase profit share",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "Ended 31 Dec 2025",
+          "first": "Not stated",
+          "stack": "Not stated",
+          "src": "Official Telegram t.me/s/brightfunded",
+          "status": "Expired"
+        },
+        {
+          "code": "NEW15",
+          "off": "15% OFF",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "March 2026 (new-customer promo)",
+          "first": "Yes - labelled 'New Customer Promo'",
+          "stack": "Unknown",
+          "src": "brightfunded.com archived 3 Mar 2026 (web.archive.org)",
+          "status": "Expired"
+        },
+        {
+          "code": "BF10",
+          "off": "10% OFF",
+          "models": "2-Step (original model)",
+          "excl": "Unknown",
+          "exp": "March 2026 (existing-customer promo)",
+          "first": "No - labelled 'Existing Customer Promo'",
+          "stack": "Unknown",
+          "src": "brightfunded.com archived 3 Mar 2026 (web.archive.org)",
+          "status": "Expired"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "d": "January 2023",
+      "t": "BrightFunded idea formed",
+      "x": "Jelle and Syb Dijkstra start the project. Domain brightfunded.com registered 9 January 2023 (RDAP).",
+      "src": "https://brightfunded.com/about-us"
+    },
+    {
+      "d": "September 2023",
+      "t": "Official launch",
+      "x": "Company opens to traders with a single 2-step evaluation model.",
+      "src": "https://brightfunded.com/about-us"
+    },
+    {
+      "d": "9 May 2024, 00:00 CET",
+      "t": "News-trading rule introduced",
+      "x": "Funded accounts get a 10-minute no-trade window around high-impact news. Explicitly a soft breach. Previous rules allowing free news trading were declared null and void.",
+      "src": "https://help.brightfunded.com/en/articles/9241694-can-i-trade-news",
+      "h": false
+    },
+    {
+      "d": "13 August 2024, 00:00 CET",
+      "t": "Hedging rule tightened",
+      "x": "Inter-account, cross-platform and cross-firm hedging banned; one-time soft breach then hard breach. Same-account hedging explicitly allowed.",
+      "src": "https://help.brightfunded.com/en/articles/9680850-how-does-the-hedging-rule-work",
+      "h": false
+    },
+    {
+      "d": "April 2025",
+      "t": "cTrader added",
+      "x": "Platform line-up extended.",
+      "src": "https://brightfunded.com/about-us"
+    },
+    {
+      "d": "1 September 2025",
+      "t": "Inactivity policy effective",
+      "x": "30 calendar days without a trade deactivates an account. Applied to ALL accounts, including those already issued - a retroactive policy.",
+      "src": "https://help.brightfunded.com/en/articles/11774572-inactivity-rule-policy",
+      "h": false
+    },
+    {
+      "d": "22 September 2025, 11:00 CET",
+      "t": "Daily drawdown calculation changed",
+      "x": "Old: 5% of challenge size, BALANCE based. New: loss limit = end-of-day highest of balance or equity minus (daily % x original challenge size). Applies to accounts purchased after this moment.",
+      "src": "https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts",
+      "h": false
+    },
+    {
+      "d": "September 2025",
+      "t": "MetaTrader 5 added; 2nd anniversary",
+      "x": "MT5 launched. Company reports 27,500+ traders funded.",
+      "src": "https://brightfunded.com/about-us"
+    },
+    {
+      "d": "December 2025",
+      "t": "$10M total payouts announced",
+      "x": "Company-reported milestone, not independently audited.",
+      "src": "https://brightfunded.com/about-us"
+    },
+    {
+      "d": "3 January 2026",
+      "t": "15% evaluation profit reward effective",
+      "x": "Paid challenge accounts only; requires 10% growth on the funded account and a payout. Not available on the free $1K challenge.",
+      "src": "https://help.brightfunded.com/en/articles/13367202-15-evaluation-profit-reward",
+      "h": false
+    },
+    {
+      "d": "13 April 2026",
+      "t": "BrightFunded 2.0 - new plans, old rules grandfathered",
+      "x": "1-Step, 2-Step Bright and 2-Step Classic introduced. Every account bought before this date keeps the 'Original' 2-step rules permanently (8%/5% targets, 5% daily, 10% static).",
+      "src": "https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts",
+      "h": false
+    },
+    {
+      "d": "June 2026",
+      "t": "Revolut partnership, 'New Era' and Free $1K Challenge launch",
+      "x": "Payment/ payout partnership announced; free $1,000 challenge introduced.",
+      "src": "https://brightfunded.com/about-us"
+    },
+    {
+      "d": "2 September 2026",
+      "t": "Autumn Rally promo live",
+      "x": "RALLY30 (1-Step 30% off), RALLY25 (2-Step Bright 25% off), RALLY15 (2-Step Classic 15% off) plus 15% evaluation profit reward.",
+      "src": "https://t.me/s/brightfunded",
+      "h": false
+    },
+    {
+      "d": "9-11 October 2026",
+      "t": "'WEEKEND' 40% offer ran and expired",
+      "x": "40% off applied only to $100K and $200K 1-Step accounts. Ended Sunday 11 October 2026 at midnight.",
+      "src": "https://t.me/s/brightfunded",
+      "h": true
+    },
+    {
+      "d": "11 October 2026",
+      "t": "Research date for this dashboard",
+      "x": "All rules, prices and sources verified on this date. Re-check before purchasing - the firm changes rules frequently.",
+      "src": "",
+      "h": false
+    }
+  ],
+  "reviews": [
+    {
+      "src": "Trustpilot",
+      "url": "https://www.trustpilot.com/review/brightfunded.com",
+      "score": "Rating SUPPRESSED by Trustpilot",
+      "n": "570 reviews (211 in the last 12 months); underlying TrustScore 3.3",
+      "note": "Trustpilot displays a warning banner: the company's rating is unavailable due to a breach of Trustpilot's guidelines. Star split is bimodal - 407 five-star (71.4%) against 113 one-star (19.8%).",
+      "label": "verified",
+      "flag": "bad"
+    },
+    {
+      "src": "PropFirmMatch (affiliate marketplace)",
+      "url": "https://propfirmmatch.com/prop-firms/brightfunded",
+      "score": "4.4 / 5",
+      "n": "132 reviews",
+      "note": "PropFirmMatch is a commercial marketplace with affiliate buy-links, exclusive discount codes and a review-bounty programme, so ratings may be incentivised. Not a neutral source.",
+      "label": "unverified",
+      "flag": "warn"
+    },
+    {
+      "src": "PropFirmMap",
+      "url": "https://propfirmmap.com/propfirms/brightfunded/",
+      "score": "No profile",
+      "n": "404 - not listed",
+      "note": "No BrightFunded profile exists on this site.",
+      "label": "verified",
+      "flag": ""
+    },
+    {
+      "src": "TradingPilot",
+      "url": "https://tradingpilot.com/reviews/brightfunded",
+      "score": "No profile",
+      "n": "404 - not listed",
+      "note": "No review page found.",
+      "label": "verified",
+      "flag": ""
+    },
+    {
+      "src": "Sitejabber",
+      "url": "https://www.sitejabber.com/reviews/brightfunded.com",
+      "score": "No rating",
+      "n": "0 reviews",
+      "note": "Profile exists but has no reviews - no signal either way.",
+      "label": "verified",
+      "flag": ""
+    },
+    {
+      "src": "ForexPeaceArmy",
+      "url": "https://www.forexpeacearmy.com/",
+      "score": "No listing found",
+      "n": "-",
+      "note": "No review thread or scam alert located. Absence of a listing is not a clean bill of health.",
+      "label": "unverified",
+      "flag": ""
+    },
+    {
+      "src": "ScamAdviser (automated heuristic)",
+      "url": "https://www.scamadviser.com/check-website/brightfunded.com",
+      "score": "Trust score 100 - 'likely legit'",
+      "n": "automated",
+      "note": "Based on domain age, SSL and cookie consent only. This is NOT evidence of payout reliability or solvency.",
+      "label": "unverified",
+      "flag": ""
+    },
+    {
+      "src": "Reddit (r/PropFirmTester, r/propfirm, r/Forex)",
+      "url": "https://reddit.com/r/PropFirmTester/comments/1vq9nxy/brightfunded/",
+      "score": "Mixed",
+      "n": "multiple threads",
+      "note": "Positive: 'solid for major Forex pairs ... spreads competitive, execution fast'. Negative: Trustpilot warning noted by users, crypto slippage complaints, and one report of a payout initially reduced to 30% before being paid in full after escalation. Heavy affiliate discount-code spam pollutes signal.",
+      "label": "unverified",
+      "flag": "warn"
+    },
+    {
+      "src": "YouTube",
+      "url": "https://www.youtube.com/@BrightFunded",
+      "score": "Mostly brand-owned",
+      "n": "-",
+      "note": "Search results are dominated by the official channel; a critical third-party video ('Why 90% of Traders FAIL Their Challenge') exists but no high-credibility independent payout-proof video was identified.",
+      "label": "unverified",
+      "flag": ""
+    },
+    {
+      "src": "Company's own reviews page",
+      "url": "https://brightfunded.com/reviews",
+      "score": "4.5 'loved by 42.9K+'",
+      "n": "28K+ reviews claimed",
+      "note": "Self-published testimonials with no disclosed methodology and no link to a verifiable third-party profile. Treated as marketing, not evidence.",
+      "label": "advertised",
+      "flag": ""
+    }
+  ],
+  "review_themes": {
+    "neg": [
+      "Account breach or payout refusal shortly after reaching payout eligibility.",
+      "Opaque breach arithmetic - traders report support declining to show the numbers behind a breach.",
+      "Trailing drawdown on 1-Step accounts breaching accounts quickly (the firm's own FAQ example shows how a reversed floating profit can breach you).",
+      "Complaints that floating profit, commission and swap are included in the daily-loss calculation.",
+      "KYC and funded-credential delays beyond the published 1-2 business day window.",
+      "Allegations that reinstatement was conditioned on removing public reviews.",
+      "Risk limits reduced mid-account (1% daily drawdown cited by one reviewer) before a breach.",
+      "Slippage on crypto instruments; support quality and disappearing stop-loss orders."
+    ],
+    "pos": [
+      "Fast payouts once approved - many report minutes to hours, consistent with the firm's ~17 hour average claim.",
+      "No consistency rule and no profit cap, which is genuinely trader-friendly.",
+      "The free $1,000 challenge gives a zero-cost route to a funded account.",
+      "Named support staff praised; CEO-level escalation reported to resolve some disputes in the trader's favour.",
+      "Competitive spreads and execution on major forex pairs."
+    ]
+  },
+  "payout_evidence": [
+    {
+      "k": "Company claim",
+      "v": "$60M+ paid to traders",
+      "note": "Stated in a company reply on Trustpilot (2 Sep 2026). Company-published, unaudited, no supporting ledger.",
+      "label": "advertised"
+    },
+    {
+      "k": "Third-party tracked ledger",
+      "v": "$7,818,495 across 4,720 payouts; largest $31,896; 0 reported delays",
+      "note": "PropFirmMatch payout tracker (checked 2026-10-11). Affiliate marketplace, self-reported, and NOT reconciled with the $60M claim - the gap is unexplained.",
+      "label": "unverified"
+    },
+    {
+      "k": "Blockchain / on-chain proof",
+      "v": "None found",
+      "note": "No transaction hashes or on-chain payout proofs were located in any accessible independent source.",
+      "label": "unverified"
+    },
+    {
+      "k": "KYC-verified reviews",
+      "v": "None identified",
+      "note": "Trustpilot reviews carry no verified badge that could be observed.",
+      "label": "unverified"
+    },
+    {
+      "k": "Site milestone",
+      "v": "$13M+ 'paid in rewards' and 27,500+ traders funded",
+      "note": "Self-published site statistics. The reviews page figure does not match the $60M Trustpilot claim.",
+      "label": "advertised"
+    }
+  ],
+  "company_facts": [
+    {
+      "k": "Domain registered",
+      "v": "9 January 2023",
+      "note": "RDAP (Verisign). Expires 2031 - long-term registration. Registrar GoDaddy, nameservers Cloudflare. Last changed 11 Dec 2025.",
+      "label": "verified"
+    },
+    {
+      "k": "Wyoming entity",
+      "v": "BrightFunded LLC, company number 2026-001958808",
+      "note": "Listed on OpenCorporates with registered address 30 N Gould St STE R, Sheridan, WY 82801 - a well-known registered-agent / mail-forwarding address, and different from the advertised Austin, TX business address. Number prefix suggests 2026 formation.",
+      "label": "verified"
+    },
+    {
+      "k": "Dutch entity (not disclosed by the company)",
+      "v": "BrightFunded B.V., Netherlands, company number 89766474",
+      "note": "Appears on OpenCorporates but is absent from BrightFunded's own legal disclosures - a transparency gap.",
+      "label": "verified"
+    },
+    {
+      "k": "Saint Lucia entity",
+      "v": "BrightFunded Ltd., reg. 2025-00358",
+      "note": "Company-advertised only. Saint Lucia's registry is not freely searchable; not independently confirmed.",
+      "label": "advertised"
+    },
+    {
+      "k": "Cyprus entity",
+      "v": "Bright Transact Ltd., HE 478945",
+      "note": "Company-advertised only; no third-party confirmation located.",
+      "label": "advertised"
+    },
+    {
+      "k": "UAE entity",
+      "v": "Bright Global ... FZCO, IFZA / Dubai Silicon Oasis",
+      "note": "Company-advertised only; no public free-zone registry available for confirmation.",
+      "label": "advertised"
+    },
+    {
+      "k": "Regulatory warnings",
+      "v": "None found",
+      "note": "No FCA/CySEC/SEC/CFTC/ASIC warning located. Absence of a warning is not the same as being regulated.",
+      "label": "unverified"
+    },
+    {
+      "k": "Lawsuits / chargebacks",
+      "v": "No court filings found",
+      "note": "Search for litigation or formal chargeback records returned nothing. Scam allegations exist in reviews but are largely anonymous and disputed; no independently corroborated fraud determination was found.",
+      "label": "unverified"
+    },
+    {
+      "k": "Audited financials",
+      "v": "None published",
+      "note": "No audited financial statements were found for any BrightFunded entity.",
+      "label": "verified"
+    }
+  ],
+  "unresolved": [
+    {
+      "t": "Is there a minimum payout amount, or can you withdraw $0.01?",
+      "why": "It changes whether you can take money out early or must wait until you have accumulated a meaningful balance.",
+      "conf": "The help article 'How does my Reward Split work' says there is no minimum reward and that even $0.01 can be requested. The Free $1K comparison table on brightfunded.com shows a '$40 Payout' for 5% profit on the free account and a 'Minimum $4,000 Payout' for the $100K challenge - implying a 5% first-payout threshold.",
+      "models": "All plans",
+      "ask": "What is the minimum profit amount required before I can request my first and subsequent payouts, and does the 5% figure shown on the comparison table apply?"
+    },
+    {
+      "t": "Is Pakistan a restricted country or not?",
+      "why": "If you are in Pakistan you cannot buy a challenge at all, or you can and the site contradicts itself.",
+      "conf": "The Terms & Conditions section 2 lists only Cuba, Iran, North Korea, Syria and Vietnam. The Help Centre article 'What countries are restricted' adds Pakistan, while saying existing Pakistani accounts may continue trading.",
+      "models": "All plans",
+      "ask": "Can a resident of Pakistan purchase a new challenge today? The Terms and the Help Centre give different answers."
+    },
+    {
+      "t": "Is the 15% evaluation profit reward automatic or must I request it?",
+      "why": "If it is not automatic and you do not ask, you may silently lose the bonus.",
+      "conf": "One help article states you must contact support to have the bonus applied. Another describes it as issued automatically when the conditions are met. The promotion guide does not mention a request step.",
+      "models": "1-Step, 2-Step Bright, 2-Step Classic",
+      "ask": "Is the 15% evaluation profit reward credited automatically when I reach 10% growth and take a payout, or do I need to contact support?"
+    },
+    {
+      "t": "Can growth be combined across separate funded accounts?",
+      "why": "It determines whether you can reach the 10% threshold faster by spreading trades.",
+      "conf": "The reward-split article says growth can be combined across multiple funded accounts (e.g. 5% + 5%). The dedicated 15% reward article says it may only be combined within the same linked funded account chain (original account plus its post-payout successors), and that growth from separate funded accounts is not eligible.",
+      "models": "All paid plans",
+      "ask": "For the 15% evaluation profit reward, may I combine growth from two independently purchased funded accounts, or only within one account chain?"
+    },
+    {
+      "t": "The site shows prices in EUR but the numbers match a USD base price list",
+      "why": "You may be charged in a currency that differs from the number you saw, changing the real cost.",
+      "conf": "The public purchase API returns the same numbers as USD list prices (e.g. 1-Step $5K = 49.00) while the website labels those numbers EUR (EUR 49). The checkout currency shown to a given user may be localised by geography.",
+      "models": "All plans",
+      "ask": "Which currency will I actually be charged in, and is the amount shown the final total including any conversion?"
+    },
+    {
+      "t": "What exactly is the 'Avg. reward' figure on the plan pages?",
+      "why": "It is presented next to the price and looks like an expected payout, but the definition is not published.",
+      "conf": "Plan cards show 'Avg. reward' of $217 for $5K up to $4,272 for $200K with no methodology. It does not match the 15% evaluation reward, the profit target, or any published statistic.",
+      "models": "All paid plans",
+      "ask": "How is the 'Avg. reward' figure on the plan pages calculated, and over what period?"
+    },
+    {
+      "t": "Does the 5-minute news rule apply to the free $1K funded account?",
+      "why": "The free challenge pages describe the funded-stage news restriction inconsistently with the paid plans.",
+      "conf": "The news article is written for paid accounts. The Free $1K help article does not restate the news restriction, while the site's how-it-works page describes the funded-stage rule generically.",
+      "models": "Free $1K",
+      "ask": "Does the 10-minute high-impact news restriction apply to the funded account obtained through the Free $1K Challenge?"
+    },
+    {
+      "t": "The free $1K hero block shows '6% Profit Target' but every other source says 10%",
+      "why": "It changes how hard the free challenge actually is.",
+      "conf": "The free-$1K page hero shows '6%' next to the label 'Profit Target', while the body copy says 'Make $100 in simulated profit' (10% of $1,000), the comparison table says 10%, and the help article says Phase 1 target 10%. 6% is the maximum drawdown figure, so the hero label appears mis-mapped.",
+      "models": "Free $1K",
+      "ask": "Please confirm the Free $1K Challenge profit target is 10% ($100) and that 6% is the maximum total drawdown."
+    },
+    {
+      "t": "How is the daily loss limit recalculated exactly, and when?",
+      "why": "A single misunderstanding here breaches accounts.",
+      "conf": "Help articles describe the reset as happening 'between 23:30 and 23:59 CET' and refer to 'rollover' elsewhere as 01:59-02:00 CET for swaps. The exact instant at which the end-of-day high-water mark is sampled is not stated to the second.",
+      "models": "All plans",
+      "ask": "At exactly what timestamp is the end-of-day high-water mark for the daily loss limit sampled, and in which time zone?"
+    },
+    {
+      "t": "What does the risk team's discretionary review actually measure?",
+      "why": "Terms 5.8 and 6.19 let the firm reduce leverage, cut drawdown limits, remove transactions or withhold rewards at its discretion, and several reviews describe exactly that happening.",
+      "conf": "The criteria are not published. The funded-account article refers to 'a structured risk profile' and 'temporary risk measures' without defining thresholds.",
+      "models": "All plans",
+      "ask": "What specific, measurable criteria trigger a risk review on a funded account, and can any parameter be changed without my written agreement?"
+    },
+    {
+      "t": "Are the two pricing 'variants' (swap-charged vs swap-free) shown clearly at checkout?",
+      "why": "The swap-free account costs about 10% more and the distinction is easy to miss.",
+      "conf": "The public API exposes both a swap-charged and a swap-free price for every size, and the Swap-Free add-on is listed at +10%, but the plan pages show only one price.",
+      "models": "All plans",
+      "ask": "Does the price shown on the plan page include or exclude the swap-free variant, and how do I confirm which variant I am buying?"
+    },
+    {
+      "t": "Is the '24-Hour Guaranteed Payout' a contractual guarantee?",
+      "why": "It is the firm's headline payout claim.",
+      "conf": "The help article states a maximum of one day for processing after the request, but the marketing phrase 'guaranteed' does not appear in the Terms. Processing is distinct from settlement in your bank or wallet.",
+      "models": "All plans",
+      "ask": "Is the 24-hour payout processing time a contractual commitment, and what happens if it is exceeded?"
+    }
+  ],
+  "sources": [
+    {
+      "title": "1-Step Challenge plan page",
+      "url": "https://brightfunded.com/1-step",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "1-Step targets, 3% daily / 6% trailing drawdown, size list, list and promo prices, RALLY30"
+    },
+    {
+      "title": "2-Step Bright plan page",
+      "url": "https://brightfunded.com/2-step-bright",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "2-Step Bright 8%/5% targets, 4% daily / 8% static, prices, RALLY25"
+    },
+    {
+      "title": "2-Step Classic plan page",
+      "url": "https://brightfunded.com/2-step-classic",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "2-Step Classic 10%/5% targets, 5% daily / 10% static, prices, RALLY15"
+    },
+    {
+      "title": "Comparison table",
+      "url": "https://brightfunded.com/comparison-table",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Cross-plan rule matrix, 'up to 100% payout ratio', add-on list"
+    },
+    {
+      "title": "How it works",
+      "url": "https://brightfunded.com/how-it-works",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Funded-stage news restriction, no-consistency claim, payout flow, scaling summary"
+    },
+    {
+      "title": "Free $1K Challenge page",
+      "url": "https://brightfunded.com/free-1k-challenge",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Free challenge 3%/6% trailing, 10% body target, $40 first payout, restricted claims per country"
+    },
+    {
+      "title": "Scaling plan page",
+      "url": "https://brightfunded.com/scaling-plan",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "+30% per 4 months, 90% then 100% split, no upper limit"
+    },
+    {
+      "title": "Trading instruments",
+      "url": "https://brightfunded.com/trading-instruments",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "46 forex symbols; crypto, indices and commodities categories"
+    },
+    {
+      "title": "Platforms",
+      "url": "https://brightfunded.com/platforms",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Platform line-up and device coverage"
+    },
+    {
+      "title": "About us (history and team)",
+      "url": "https://brightfunded.com/about-us",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Launch Sept 2023, Dubai HQ Jan 2025, MT5 Sept 2025, new plans Apr 2026, Revolut Jun 2026"
+    },
+    {
+      "title": "Reviews page (self-published)",
+      "url": "https://brightfunded.com/reviews",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Self-reported 4.5 rating, $13M+ rewards, 27,500+ funded - marketing, not independent"
+    },
+    {
+      "title": "Terms and Conditions",
+      "url": "https://brightfunded.com/terms-and-conditions",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Restricted countries, refund exclusions, chargeback policy, forbidden practices, capital cap, discretion clauses, fee-refund forfeiture"
+    },
+    {
+      "title": "Help: Current evaluation rules by plan",
+      "url": "https://help.brightfunded.com/en/articles/9241611-what-are-the-current-rules-for-the-evaluation-process",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Drawdown percentages, targets, min trading days, daily reset"
+    },
+    {
+      "title": "Help: BrightFunded 1-Step",
+      "url": "https://help.brightfunded.com/en/articles/14284743-brightfunded-1-step",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Trailing drawdown mechanics, worked examples, lock-in at +6%"
+    },
+    {
+      "title": "Help: BrightFunded 2-Step Bright",
+      "url": "https://help.brightfunded.com/en/articles/14284817-brightfunded-2-step-bright",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Static drawdown, 8%/5% targets"
+    },
+    {
+      "title": "Help: BrightFunded 2-Step Classic",
+      "url": "https://help.brightfunded.com/en/articles/14284844-brightfunded-2-step-classic",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Static drawdown, 10%/5% targets"
+    },
+    {
+      "title": "Help: Original accounts (pre-2.0)",
+      "url": "https://help.brightfunded.com/en/articles/14285762-brightfunded-original-accounts",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Pre-13 Apr 2026 rules and the 22 Sep 2025 daily-drawdown method change"
+    },
+    {
+      "title": "Help: How my daily permitted loss works",
+      "url": "https://help.brightfunded.com/en/articles/12291765-how-does-my-daily-permitted-loss-work",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "End-of-day high-water mark formula and worked examples"
+    },
+    {
+      "title": "Help: Reward split on my funded account",
+      "url": "https://help.brightfunded.com/en/articles/9268736-how-does-my-reward-split-work-on-my-funded-account",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "30-day first payout, 14-day cycle, 80/90/100% splits, no minimum reward, add-ons"
+    },
+    {
+      "title": "Help: Can I trade news",
+      "url": "https://help.brightfunded.com/en/articles/9241694-can-i-trade-news",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "10-minute funded-stage window, soft breach, 48-hour TP exemption"
+    },
+    {
+      "title": "Help: How the hedging rule works",
+      "url": "https://help.brightfunded.com/en/articles/9680850-how-does-the-hedging-rule-work",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Inter-account/cross-platform/cross-firm bans, one-time soft breach, same-account hedging allowed"
+    },
+    {
+      "title": "Help: Which strategies are prohibited",
+      "url": "https://help.brightfunded.com/en/articles/9241704-which-strategies-are-prohibited-at-brightfunded",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Grid, arbitrage, tick scalping, HFT, overleveraging, one-sided bets, account rolling"
+    },
+    {
+      "title": "Help: Is copy trading allowed",
+      "url": "https://help.brightfunded.com/en/articles/9241709-is-copy-trading-allowed",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Own-account copying only; detection signals; caution-to-termination consequences"
+    },
+    {
+      "title": "Help: Can I use an EA",
+      "url": "https://help.brightfunded.com/en/articles/9241699-can-i-use-ea",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "EAs allowed; no API/automation on DXtrade; compatibility not guaranteed"
+    },
+    {
+      "title": "Help: VPN/VPS permitted",
+      "url": "https://help.brightfunded.com/en/articles/9436443-is-it-permitted-to-use-a-vpn-vps-at-brightfunded",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "VPN/VPS allowed; third-party account use prohibited"
+    },
+    {
+      "title": "Help: Inactivity rule policy",
+      "url": "https://help.brightfunded.com/en/articles/11774572-inactivity-rule-policy",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "30-day rule, retroactive application, 6-month reactivation window"
+    },
+    {
+      "title": "Help: Single account policy",
+      "url": "https://help.brightfunded.com/en/articles/11079360-single-account-policy-important-for-all-our-users",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "One profile per person; detection methods; penalties"
+    },
+    {
+      "title": "Help: Restricted countries",
+      "url": "https://help.brightfunded.com/en/articles/9286630-what-countries-are-restricted-at-brightfunded",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Adds Pakistan to the Terms list - source of the discrepancy"
+    },
+    {
+      "title": "Help: Commissions",
+      "url": "https://help.brightfunded.com/en/articles/9268221-what-are-the-commissions-in-the-simulated-environment-of-brightfunded",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "$3/lot forex, $0 indices, crypto and commodity percentage commissions"
+    },
+    {
+      "title": "Help: Leverage",
+      "url": "https://help.brightfunded.com/en/articles/9268380-what-is-the-leverage-in-brightfunded-s-simulated-trading-environment",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "1:100 forex, 1:40 metals, 1:20 indices, 1:5 crypto"
+    },
+    {
+      "title": "Help: Swap fees",
+      "url": "https://help.brightfunded.com/en/articles/9286673-what-are-the-swap-fees",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Rollover 01:59-02:00 CET, triple swap Wednesday/Friday"
+    },
+    {
+      "title": "Help: 15% evaluation profit reward",
+      "url": "https://help.brightfunded.com/en/articles/13367202-15-evaluation-profit-reward",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Paid accounts only, 10% growth requirement, contact-support ambiguity"
+    },
+    {
+      "title": "Help: Scaling plan",
+      "url": "https://help.brightfunded.com/en/articles/9268774-how-to-scale-up-my-funded-account-infinitely",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "4-month review, 2 of 4 months profitable, 10% total, 2 payouts, request required"
+    },
+    {
+      "title": "Help: KYC process",
+      "url": "https://help.brightfunded.com/en/articles/9973224-how-does-the-kyc-process-work",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "SumSub, ID plus proof of address, AML standards"
+    },
+    {
+      "title": "Help: Obtain my funded account",
+      "url": "https://help.brightfunded.com/en/articles/9268287-how-do-i-obtain-my-funded-account",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "KYC, 1-2 day risk check (up to 4), automated contract and activation"
+    },
+    {
+      "title": "Help: General FAQ",
+      "url": "https://help.brightfunded.com/en/articles/12000749-the-most-frequently-asked-general-questions",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "No consistency rule, no profit cap, $400K cap, no minimum holding time, card purchases, company registration"
+    },
+    {
+      "title": "Help: Refunds",
+      "url": "https://help.brightfunded.com/en/articles/9460023-can-i-get-a-refund-for-my-brightfunded-challenge",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "No trades + under 30 days; 48h processing; 3-10 business days to arrive"
+    },
+    {
+      "title": "Public purchase API - price definitions",
+      "url": "https://api.prod-1.brightfunded2.com/purchases/1/definitions",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Base prices per plan/size/currency, swap-charged vs swap-free variants, original 2-step prices"
+    },
+    {
+      "title": "Public purchase API - checkout add-ons",
+      "url": "https://api.prod-1.brightfunded2.com/purchases/1/addons/mine",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Exact % uplift for each add-on and the phase each applies to"
+    },
+    {
+      "title": "Trustpilot profile",
+      "url": "https://www.trustpilot.com/review/brightfunded.com",
+      "type": "Independent",
+      "checked": "2026-10-11",
+      "supports": "Rating suppressed for a guidelines breach; 570 reviews; 19.8% one-star; complaint themes"
+    },
+    {
+      "title": "PropFirmMatch profile and payout tracker",
+      "url": "https://propfirmmatch.com/prop-firms/brightfunded",
+      "type": "Independent (affiliate)",
+      "checked": "2026-10-11",
+      "supports": "4.4/132 reviews, $7.8M tracked payouts, 0 reported delays; affiliate incentives disclosed"
+    },
+    {
+      "title": "OpenCorporates - Wyoming entity",
+      "url": "https://opencorporates.com/companies/us_wy/2026-001958808",
+      "type": "Independent registry",
+      "checked": "2026-10-11",
+      "supports": "BrightFunded LLC, reg. 2026-001958808, Sheridan WY registered-agent address"
+    },
+    {
+      "title": "OpenCorporates - Netherlands entity",
+      "url": "https://opencorporates.com/companies/nl/89766474",
+      "type": "Independent registry",
+      "checked": "2026-10-11",
+      "supports": "BrightFunded B.V., company number 89766474 - not disclosed by the company"
+    },
+    {
+      "title": "RDAP domain record",
+      "url": "https://rdap.verisign.com/com/v1/domain/brightfunded.com",
+      "type": "Independent registry",
+      "checked": "2026-10-11",
+      "supports": "Registered 2023-01-09, expires 2031-01-09, GoDaddy, Cloudflare nameservers"
+    },
+    {
+      "title": "Official Telegram channel",
+      "url": "https://t.me/s/brightfunded",
+      "type": "Official",
+      "checked": "2026-10-11",
+      "supports": "Autumn Rally codes and expired promo history (WEEKEND, 3YEARS, DOUBLE25, BF30, CM25, DEC15)"
+    },
+    {
+      "title": "Archived homepage 5 Nov 2025",
+      "url": "http://web.archive.org/web/20251105021813/https://brightfunded.com/",
+      "type": "Official (archived)",
+      "checked": "2026-10-11",
+      "supports": "Single 2-Step plan, $5K = EUR 55, $100K = EUR 495, TREAT30 and NOV15 codes"
+    },
+    {
+      "title": "Archived homepage 3 Mar 2026",
+      "url": "http://web.archive.org/web/20260303163346/https://brightfunded.com/",
+      "type": "Official (archived)",
+      "checked": "2026-10-11",
+      "supports": "NEW15 (new customer 15%) and BF10 (existing customer 10%) codes"
+    },
+    {
+      "title": "Reddit r/PropFirmTester thread",
+      "url": "https://reddit.com/r/PropFirmTester/comments/1vq9nxy/brightfunded/",
+      "type": "Independent",
+      "checked": "2026-10-11",
+      "supports": "Community note on the Trustpilot warning and slippage concerns"
+    }
+  ]
+}
