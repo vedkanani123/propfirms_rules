@@ -1,0 +1,12 @@
+{
+ "slug": "lucid-trading",
+ "name": "Lucid Trading",
+ "category": "Futures",
+ "url": "https://lucidtrading.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

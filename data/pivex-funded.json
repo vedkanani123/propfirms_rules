@@ -1,0 +1,76 @@
+{
+ "slug": "pivex-funded",
+ "name": "Pivex Funded",
+ "category": "Specialist",
+ "url": "https://pivexfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://pivexfunded.com/",
+   "kind": "home",
+   "chars": 61
+  },
+  {
+   "url": "https://pivexfunded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 850
+  },
+  {
+   "url": "https://pivexfunded.com/sitemap-en.xml",
+   "kind": "sitemap",
+   "chars": 110
+  },
+  {
+   "url": "https://pivexfunded.com/sitemap-es.xml",
+   "kind": "sitemap",
+   "chars": 110
+  },
+  {
+   "url": "https://pivexfunded.com/sitemap-de.xml",
+   "kind": "sitemap",
+   "chars": 110
+  },
+  {
+   "url": "https://pivexfunded.com/sitemap-it.xml",
+   "kind": "sitemap",
+   "chars": 110
+  }
+ ],
+ "page_count": 6,
+ "total_chars": 1356,
+ "findings": {
+  "legal_entity": [
+   {
+    "value": "sitemap-en-pag",
+    "snippet": "https://pivexfunded.com/sitemap-en-pages.xml 2026-08-14 https://pivexfunded.com/sitemap-en-blog.xml 2026-10-05",
+    "url": "https://pivexfunded.com/sitemap-en.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sitemap-es-pag",
+    "snippet": "https://pivexfunded.com/sitemap-es-pages.xml 2026-08-14 https://pivexfunded.com/sitemap-es-blog.xml 2026-10-05",
+    "url": "https://pivexfunded.com/sitemap-es.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sitemap-de-pag",
+    "snippet": "https://pivexfunded.com/sitemap-de-pages.xml 2026-08-14 https://pivexfunded.com/sitemap-de-blog.xml 2026-10-05",
+    "url": "https://pivexfunded.com/sitemap-de.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sitemap-it-pag",
+    "snippet": "https://pivexfunded.com/sitemap-it-pages.xml 2026-08-14 https://pivexfunded.com/sitemap-it-blog.xml 2026-10-05",
+    "url": "https://pivexfunded.com/sitemap-it.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

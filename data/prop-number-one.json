@@ -1,0 +1,24 @@
+{
+ "slug": "prop-number-one",
+ "name": "Prop Number One",
+ "category": "Forex/CFD",
+ "url": "https://propnumberone.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://propnumberone.com/",
+   "kind": "home",
+   "chars": 0
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 0,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

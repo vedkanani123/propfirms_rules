@@ -1,0 +1,477 @@
+{
+ "slug": "bankrollu",
+ "name": "BankrollU",
+ "category": "Specialist",
+ "url": "https://bankrollu.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.bankrollu.com/",
+   "kind": "home",
+   "chars": 2103
+  },
+  {
+   "url": "https://www.bankrollu.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 13901
+  },
+  {
+   "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+   "kind": "page",
+   "chars": 29403
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+   "kind": "page",
+   "chars": 8415
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+   "kind": "page",
+   "chars": 9578
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/truth-about-funded-trader-accounts",
+   "kind": "page",
+   "chars": 7958
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/what-moves-futures-prices",
+   "kind": "page",
+   "chars": 10567
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/understanding-why-futures-and-commodity-prices-move",
+   "kind": "page",
+   "chars": 9092
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/gold-prices-interest-rate-futures-and-a-short-squeeze-in-stocks",
+   "kind": "page",
+   "chars": 13573
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/gann-square-outs-time-and-price-balance-in-the-markets",
+   "kind": "page",
+   "chars": 11164
+  },
+  {
+   "url": "https://www.bankrollu.com/challenges",
+   "kind": "page",
+   "chars": 3466
+  },
+  {
+   "url": "https://www.bankrollu.com/official-contest-rules-battles",
+   "kind": "page",
+   "chars": 26289
+  },
+  {
+   "url": "https://www.bankrollu.com/gameplay-rules",
+   "kind": "page",
+   "chars": 31476
+  },
+  {
+   "url": "https://www.bankrollu.com/blog/5-tactics-that-will-help-you-wait-for-the-best-trades",
+   "kind": "page",
+   "chars": 9587
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 186585,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "15",
+    "snippet": "PICK. WIN. PASS. Performance Targets Get Started \u200b Get Started \u200b Profit Target 15% to pass the Combine \u200b Activity Target Total amount put in play, win or lose. \u200b Time 2 weeks to hit both targets. CLIMB THE PRO LEVELS Hit Your Targets, Earn Y",
+    "url": "https://www.bankrollu.com/challenges",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "rmine trust. Topstep processes approved payouts in just 1\u20132 business days. Generous Profit Splits: Topstep allows traders to keep up to 90% of the profits. No Hidden Traps: Topstep avoids common prop firm gimmicks like trailing drawdowns or shifting profit targets. Reputation Through Action : A prop firm\u2019s",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "105",
+    "snippet": "ncing back is called a drawdown. For example, if your prop trading account peaks at $105K and then dips to $103K before climbing again, you\u2019ve had a $2K drawdown. And when you trade with a prop firm, the amount you can lose before losing your account ( maximu",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "103",
+    "snippet": "drawdown. For example, if your prop trading account peaks at $105K and then dips to $103K before climbing again, you\u2019ve had a $2K drawdown. And when you trade with a prop firm, the amount you can lose before losing your account ( maximum loss limit ) is tied",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "ng account peaks at $105K and then dips to $103K before climbing again, you\u2019ve had a $2K drawdown. And when you trade with a prop firm, the amount you can lose before losing your account ( maximum loss limit ) is tied to one of two drawdown rules. End-of-da",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ks as long as you finish the day above your max drawdown limit. Let\u2019s say you\u2019re up $5K in a trade and it pulls back $2K, and you finish the day up $3K. With a $2000 Intraday Trailing Drawdown, you would have lost your account. With a $2000 End-of-Day, yo",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "Let\u2019s say you\u2019re up $5K in a trade and it pulls back $2K, and you finish the day up $3K. With a $2000 Intraday Trailing Drawdown, you would have lost your account. With a $2000 End-of-Day, you end the day +$3000, and you\u2019re still chasing your goal Same t",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "ombine. MP\u2019s seen traders from all over the world, including one in Kenya who earned $12K, make it happen. Whether you\u2019re trading after work or on weekends, the opportunity is there if you\u2019re willing to put in the work. MP\u2019s advice: look for a firm that\u2019s cl",
+    "url": "https://www.bankrollu.com/blog/truth-about-funded-trader-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "s and Tuition Points to unlock content and tools to help you succeed. Continue with $1K \u200b Continue with $1K $1K $1K $5K $5K $10K $10K $49 Combine Price Combine Bankroll $1,000 Tuition Points 500 Challenge Parameters Combine Rookie V",
+    "url": "https://www.bankrollu.com/challenges",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "o help you succeed. Continue with $1K \u200b Continue with $1K $1K $1K $5K $5K $10K $10K $49 Combine Price Combine Bankroll $1,000 Tuition Points 500 Challenge Parameters Combine Rookie Veteran All Star Legend Performance Bonus (% o",
+    "url": "https://www.bankrollu.com/challenges",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5,00",
+    "snippet": "won by a single Entrant during any Sweepstakes Period is limited to the value of US $5,000 in Florida or New York. REDEMPTION OF PRIZES. Winning a Prize is contingent on fulfilling all applicable eligibility and verification requirements. Prize winners must",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "25.00",
+    "snippet": "in the Service or the Terms. Currently, the minimum Prize redemption threshold is US $25.00, the maximum amount of Prizes that may be redeemed in a single calendar day is US $2,500.00, and an Entrant may initiate only one Prize redemption in a single calendar d",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "2,50",
+    "snippet": "00, the maximum amount of Prizes that may be redeemed in a single calendar day is US $2,500.00, and an Entrant may initiate only one Prize redemption in a single calendar day. Entrants have ninety (90) days to request the release of a Prize through the Servic",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "105",
+    "snippet": "ncing back is called a drawdown. For example, if your prop trading account peaks at $105K and then dips to $103K before climbing again, you\u2019ve had a $2K drawdown. And when you trade with a prop firm, the amount you can lose before losing your account ( maxim",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "103",
+    "snippet": "drawdown. For example, if your prop trading account peaks at $105K and then dips to $103K before climbing again, you\u2019ve had a $2K drawdown. And when you trade with a prop firm, the amount you can lose before losing your account ( maximum loss limit ) is tied",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "ng account peaks at $105K and then dips to $103K before climbing again, you\u2019ve had a $2K drawdown. And when you trade with a prop firm, the amount you can lose before losing your account ( maximum loss limit ) is tied to one of two drawdown rules. End-of-d",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ks as long as you finish the day above your max drawdown limit. Let\u2019s say you\u2019re up $5K in a trade and it pulls back $2K, and you finish the day up $3K. With a $2000 Intraday Trailing Drawdown, you would have lost your account. With a $2000 End-of-Day, y",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "Let\u2019s say you\u2019re up $5K in a trade and it pulls back $2K, and you finish the day up $3K. With a $2000 Intraday Trailing Drawdown, you would have lost your account. With a $2000 End-of-Day, you end the day +$3000, and you\u2019re still chasing your goal Same",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "2000",
+    "snippet": "u\u2019re up $5K in a trade and it pulls back $2K, and you finish the day up $3K. With a $2000 Intraday Trailing Drawdown, you would have lost your account. With a $2000 End-of-Day, you end the day +$3000, and you\u2019re still chasing your goal Same trade. Same plan",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "3000",
+    "snippet": "awdown, you would have lost your account. With a $2000 End-of-Day, you end the day +$3000, and you\u2019re still chasing your goal Same trade. Same plan. Different Trading Experience. One rule lets you win. The other takes you out. While prop firms like Topstep",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "rency is at the front of the operation: Once funded, you only need 5 winning days of $150 or more to request your first payout. All payouts follow a 90/10 profit split, with 90% going to you. You\u2019ll know within minutes exactly when you can request a payout,",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "rms are upfront about how much you keep and how much they take. No one wants to earn $200, then receive half of that because the prop took the majority when you did all the work in the first place. We believe if a firm\u2019s payout math feels fuzzy, it probably",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "-day. \u200b Player Friendly Rules Our contest rules never include daily loss limits or trailing drawdowns. \u200b #1 in Player Support Fast 24/7 support and a community that has your back. \u200b Here Since 2023 We are the original category defining company with reputation and s",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "End-of-Day",
+    "snippet": "wn punishes normal pullbacks and often causes traders to lose accounts prematurely. End-of-Day Drawdown mirrors real market conditions, allowing traders to ride out dips and finish strong. Topstep uses End-of-Day Drawdown, giving traders a fair chance to grow, stay consis",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "g an evaluation and meeting specific profit and risk criteria, traders can request a payout\u2014often weekly or monthly. The firm takes a cut (usually 10\u201330%), and the rest goes to the trader. Top-tier firms like Topstep offer fast, transparent payouts with generous splits and",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   },
+   {
+    "value": "every 5 days",
+    "snippet": "lock in gains and stay motivated. With Topstep, you have the opportunity to earn a payout every 5 days, so you\u2019re calling the shots and you always have control over how your trading journey plays out. Prop firm payouts with no gimmicks, no gotchas Some firms build in hur",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "1Z https://www.bankrollu.com/blog/equity-flows-feeder-cattle-futures-and-a-dive-into-crypto-futures 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/evolving-as-a-trader 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/fastest-payout-prop-firm 202",
+    "url": "https://www.bankrollu.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "etermined by Bankroll U\u2019s Gameplay Rules. All capitalized terms and phrases not otherwise defined in these Rules shall have the meanings given in the Terms. In the event of a direct conflict or inconsistency between these Rules, the Terms, Gameplay Rules, or",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "rawdown? In trading, your funded account balance doesn\u2019t move in a straight line: it rises, it falls, it recovers. The drop from your highest point before bouncing back is called a drawdown. For example, if your prop trading account peaks at $105K and then d",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "ou\u2019re worried about a dip. Pretty soon, you\u2019re not trading your plan. You\u2019re trading scared. And that\u2019s a fast track to bad habits and missed opportunities. The worst part\u2026 This rule does nothing to teach you about real trading. Live markets don\u2019t bench you fo",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "Price Index (CPI) \u2013 inflation data Jobless claims \u2013 weekly unemployment filings Nonfarm Payrolls (NFP) \u2013 employment strength Gross Domestic Product (GDP) reports \u2013 overall economic growth Federal Open Market Committee (FOMC) statements & rate decisions \u2013 interest rate policy Purchasing Managers\u2019 Index (PMI) & Institute for Supply Manageme",
+    "url": "https://www.bankrollu.com/blog/what-moves-futures-prices",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "ill building your foundation, Topstep\u2019s Futures Trading 101 guide walks through the basics of how futures markets work before you start applying these concepts in live market conditions. With Topstep, you start in the Trading Combine\u00ae , a simulated environment that mirrors the real futures market but protects your capital while you learn:",
+    "url": "https://www.bankrollu.com/blog/what-moves-futures-prices",
+    "kind": "page"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "options, or forex. Past performance is not necessarily indicative of future results. CFTC Rule 4.41 \u2013 Hypothetical or Simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also",
+    "url": "https://www.bankrollu.com/blog/gold-prices-interest-rate-futures-and-a-short-squeeze-in-stocks",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "h level, it\u2019s simple. However, the proper application can be tricky. In \u201cW.D. Gann\u2019s master forecasting methods,\u201d (February 2011) we examined several aspects of Gann analysis. Here, we\u2019ll delve deeper into time and price studies. Discovering detail Markets are enigmas, and this attribute demands a great deal of flexibility when working wi",
+    "url": "https://www.bankrollu.com/blog/gann-square-outs-time-and-price-balance-in-the-markets",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Compete ag",
+    "snippet": "hallenges BANKROLL BATTLES Peer to Peer Contests that are Free to Enter Compete against other players\u2014everyone starts with an equal Bankroll, highest balance takes the prize pool. Explore Battles \u200b Explore Battles WHY BANKROLL U You Mak",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "lly added to account wallet. Withdrawals processed sa",
+    "snippet": "preads, Totals, Props, Live Picks and More . \u200b Same-Day Payouts Prizes automatically added to account wallet. Withdrawals processed same-day. \u200b Player Friendly Rules Our contest rules never include daily loss limits or trailing drawdowns. \u200b #1 in Player Support Fast 24/7 support and a community that",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Our contest rules never inc",
+    "snippet": "y added to account wallet. Withdrawals processed same-day. \u200b Player Friendly Rules Our contest rules never include daily loss limits or trailing drawdowns. \u200b #1 in Player Support Fast 24/7 support and a community that has your back. \u200b Here Since 2023 We are the original cate",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Here Sinc",
+    "snippet": ". \u200b #1 in Player Support Fast 24/7 support and a community that has your back. \u200b Here Since 2023 We are the original category defining company with reputation and staying power Join the Party on Discord Join Discord \u200b Join Discord Get Alerts,",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rposes only. Our sports betting development system inc",
+    "snippet": "ompany Terms Privacy The BankrollU platform is for educational and recreational purposes only. Our sports betting development system includes a simulator that transacts only in virtual currency to provide a realistic environment for skill development. Must be 18 or older. \u00a9 2026 BankrollU LLC. All rights",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ludes a simulator that transa",
+    "snippet": "educational and recreational purposes only. Our sports betting development system includes a simulator that transacts only in virtual currency to provide a realistic environment for skill development. Must be 18 or older. \u00a9 2026 BankrollU LLC. All rights reserved.",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "BankrollU LLC",
+    "snippet": "o provide a realistic environment for skill development. Must be 18 or older. \u00a9 2026 BankrollU LLC. All rights reserved.",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "averag",
+    "snippet": "day-trader-or-a-swing-trader 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/average-true-range-a-simple-but-effective-indicator 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/becoming-consistently-profitable-trading 2026-07-19T18:20:41.291Z ht",
+    "url": "https://www.bankrollu.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Citizens of certain countries, including Afghanistan, Iran, Russia, Nigeria, and Venezuela, are not",
+    "snippet": "p\u2019s Eligibility Requirements to confirm if they can earn funding or receive payouts. Citizens of certain countries, including Afghanistan, Iran, Russia, Nigeria, and Venezuela, are not eligible to participate. If your country is on the ineligible list, you cannot trade or receive payouts with Topstep. Back to top Back to top Share this: Y",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunding Financing Estimates (2:00p CT)\n TUESDAY: Goods Trade Balance (7:30a CT), Retail/Wholesale Inventories (7:30a C",
+    "snippet": "ar Note Auction Manufacturing (10:30a CT), 5-Year Note Auction (12:00p CT), Treasury Refunding Financing Estimates (2:00p CT) TUESDAY: Goods Trade Balance (7:30a CT), Retail/Wholesale Inventories (7:30a CT), Redbook (7:55a CT), House Price Index (8:00a CT), Consumer Confidence (9:00a CT), JOLTs (9:00a CT), Dallas Fed Services Index (9:30a",
+    "url": "https://www.bankrollu.com/blog/gold-prices-interest-rate-futures-and-a-short-squeeze-in-stocks",
+    "kind": "page"
+   },
+   {
+    "value": "refunded to the Available Balance of the Bankroll from which such Pick was submitted",
+    "snippet": "ts in a tied outcome, causing the amount of virtual funds wagered for the Pick to be refunded to the Available Balance of the Bankroll from which such Pick was submitted. To Win Amount: With respect to an individual Pick, the amount of gain generated from a winning outcome, calculated as the virtual amount wagered multiplied by the odd",
+    "url": "https://www.bankrollu.com/gameplay-rules",
+    "kind": "page"
+   },
+   {
+    "value": "refunded to the corresponding Bankroll(s)",
+    "snippet": "Picks belonging to an Event that is removed from contest scoring will be voided and refunded to the corresponding Bankroll(s). The Company, in its sole discretion, may choose to adjust a Battle Window to accommodate Event scheduling changes. \u200d Products Challenges Battles Campus Resouces",
+    "url": "https://www.bankrollu.com/gameplay-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eads, Totals, Props, Live Picks and More",
+    "snippet": "Battles WHY BANKROLL U You Make the Picks. We Provide the Bankroll . Spreads, Totals, Props, Live Picks and More . \u200b Same-Day Payouts Prizes automatically added to account wallet. Withdrawals processed same-day. \u200b Player Friendly Rules Our contest rules never include daily los",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eational purposes only",
+    "snippet": "(Battles) Company Terms Privacy The BankrollU platform is for educational and recreational purposes only. Our sports betting development system includes a simulator that transacts only in virtual currency to provide a realistic environment for skill development. Must be 18",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ealistic environment for skill development",
+    "snippet": "nt system includes a simulator that transacts only in virtual currency to provide a realistic environment for skill development. Must be 18 or older. \u00a9 2026 BankrollU LLC. All rights reserved.",
+    "url": "https://www.bankrollu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat-board-games-for-traders 2026-07-19T18:20:41",
+    "snippet": "nded-trader-withdrawals 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/10-great-board-games-for-traders 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/10-ways-to-overcome-the-trading-tilt 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/3-indicators-es-traders-need-to-watch 20",
+    "url": "https://www.bankrollu.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ead-for-the-fed 2026-07-19T18:20:41",
+    "snippet": "ude-oil-futures 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/a-big-week-ahead-for-the-fed 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/are-you-a-day-trader-or-a-swing-trader 2026-07-19T18:20:41.291Z https://www.bankrollu.com/blog/average-true-range-a-simple-but-effect",
+    "url": "https://www.bankrollu.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "management@bankrollu.com",
+    "snippet": "ankroll U Sweepstakes are administered by Bankroll U. Bankroll U may be contacted at management@bankrollu.com or 30 N. Gould Street, Suite R, Sheridan WY 82801. ELIGIBILITY. A Sweepstakes entrant (\u201cEntrant\u201d) must be at least eighteen (18) years old or otherwise capable of formi",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "experience futures traders have been waiting for Looking for a prop firm with fast payouts? See how Topstep combines instant payouts, fast support, and a platform built for active futures traders. Prop Firm Education The truth about prop firm payouts Learn what to expect from prop firm payou",
+    "url": "https://www.bankrollu.com/blog/prop-firm-drawdown-rules",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 to 48 hours",
+    "snippet": "That\u2019s not a good look. Topstep stands out with lightning-fast processing. Approved payouts are sent within 24 to 48 hours. Yes, that fast. Your payout should keep pace with your performance, not slow you down. Simple as that. Fast payouts mean you can focus on what you do best: trading sma",
+    "url": "https://www.bankrollu.com/blog/truth-about-prop-firm-payouts",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Process\u201d) facilitated by Bankroll U or its vendor to validate eligibility at various stages, which may includ",
+    "snippet": "may be required to successfully complete a know-your-customer verification process (\u201cKYC Process\u201d) facilitated by Bankroll U or its vendor to validate eligibility at various stages, which may include (i) obtaining a Combine Entry either through purchase or the Alternative Method of Entry outlined above, or (ii) redeeming Prizes. The KYC P",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "KYC Process may include, but may not be limited to, providing proof of a valid government-issued photo identifica",
+    "snippet": "ase or the Alternative Method of Entry outlined above, or (ii) redeeming Prizes. The KYC Process may include, but may not be limited to, providing proof of a valid government-issued photo identification, a selfie, proof of address, validation of social security number, and other information required by Bankroll U or its vendor to verify t",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "KYC Process, a tentative winner may be required to prove their identity, age, or residence and sign and return to",
+    "snippet": "nd winning is contingent upon fulfilling all requirements herein. In addition to the KYC Process, a tentative winner may be required to prove their identity, age, or residence and sign and return to Bankroll U, an affidavit/declaration of eligibility, appropriate tax forms, or other documentation, to claim or redeem a Prize (if applicable",
+    "url": "https://www.bankrollu.com/official-contest-rules-challenges",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "d Community Support: From TopstepX\u2019s trading structure to live insights on TopstepTV and an active Discord of 150,000+ traders, Topstep surrounds traders with educational resources and a",
+  "What makes a prop firm like Topstep worth it? Clear rules. Consistent payouts. Real coaching. A community of 150,000+ traders. And a structure that helps you trade smarter, not just fas"
+ ],
+ "errors": []
+}

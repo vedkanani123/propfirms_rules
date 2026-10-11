@@ -1,0 +1,612 @@
+{
+ "slug": "tradeify247",
+ "name": "Tradeify247",
+ "category": "Specialist",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://tradeify247.co/",
+  "evidence": "name+7 prop-firm signals on homepage",
+  "tried": [
+   "https://tradeify247.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://tradeify247.co/",
+   "kind": "home",
+   "chars": 15276
+  },
+  {
+   "url": "https://tradeify247.co/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6481
+  },
+  {
+   "url": "https://tradeify247.co/home-new-price",
+   "kind": "page",
+   "chars": 15922
+  },
+  {
+   "url": "https://tradeify247.co/articles/crypto-price-action-and-volume-trading-strategies-for-crypto-traders",
+   "kind": "page",
+   "chars": 23432
+  },
+  {
+   "url": "https://tradeify247.co/articles/how-social-media-affects-meme-coin-prices",
+   "kind": "page",
+   "chars": 23348
+  },
+  {
+   "url": "https://tradeify247.co/articles/understanding-meme-coin-price-volatility",
+   "kind": "page",
+   "chars": 15662
+  },
+  {
+   "url": "https://tradeify247.co/articles/crypto-prop-firm-usa-rules-and-what-traders-can-access",
+   "kind": "page",
+   "chars": 22911
+  },
+  {
+   "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+   "kind": "page",
+   "chars": 44868
+  },
+  {
+   "url": "https://tradeify247.co/terms-of-use",
+   "kind": "page",
+   "chars": 44568
+  },
+  {
+   "url": "https://tradeify247.co/payouts-v2",
+   "kind": "page",
+   "chars": 15014
+  },
+  {
+   "url": "https://tradeify247.co/articles/how-do-prop-firm-payouts-work-and-when-do-you-get-paid",
+   "kind": "page",
+   "chars": 21984
+  },
+  {
+   "url": "https://tradeify247.co/contact-us",
+   "kind": "page",
+   "chars": 9468
+  },
+  {
+   "url": "https://tradeify247.co/articles/crypto-sector-rotation-funded-accounts",
+   "kind": "page",
+   "chars": 17720
+  },
+  {
+   "url": "https://tradeify247.co/articles/xrp-lawsuit-trading-playbook-volatility-legal-catalysts",
+   "kind": "page",
+   "chars": 18867
+  },
+  {
+   "url": "https://help.tradeify247.co/en/",
+   "kind": "sub",
+   "chars": 892
+  },
+  {
+   "url": "https://help.tradeify247.co/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 2689
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 299117,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "95",
+    "snippet": "rpetuals 24/7 With $300k of House Money Trade crypto, equities & commodities Up to 95% profit split Straight2Funded accounts Get Funded Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Rece",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "trading with up to $300k simulated funds 247 Markets On Demand Payouts Upto 90% Profit split Get Funded Now X (Twitter) YouTube TikTok Facebook Instagram LinkedIn Be the first to get limited time deals Get one email per week fill",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "00,000 Balance before payout $104,000 Eligible profit $4,000 Trader share at an 80% split $3,200 Firm share at a 20% split $800 If the trader requests less than the maximum, the account may retain a profit buffer. If the trader requests the full eligible share, the post-payout balance an",
+    "url": "https://tradeify247.co/articles/how-do-prop-firm-payouts-work-and-when-do-you-get-paid",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "300",
+    "snippet": "47 New Sign in Get funded Liquidity by Trade Perpetuals 24/7 With $300k of House Money Trade crypto, equities & commodities Up to 95% profit split Straight2Funded accounts Get Funded Now Rating 4.8 495 Reviews",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "okies, please see our Privacy Policy . Decline Accept Want a Chance to Win a Free $25K 1-Step Account? Enter your email for a chance to trade a fully funded $25K account. Please enter valid email I agree to receive product and promotional updates from T",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "rights reserved. Ready to apply this? Test your risk management skills with up to $200k in capital Start Challenge Be the first to get limited time deals Get one email per week filled with deals, insights and tips. Email Address Subscribe Plea",
+    "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "ayout Account Size Date Payout time Transaction Hash \ud83e\udd471 cryptoking92 $18,420 $100K Sep 18, 2026 13.2h 0x7e4f8251831354434634634347347347 \ud83e\udd482 cryptoking92 $18,420 $100K Sep 18, 2026 13.2h 0x7e4f8251831354434634634347347347 \ud83e\udd493 cryptoking92 $1",
+    "url": "https://tradeify247.co/payouts-v2",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "300",
+    "snippet": "47 New Sign in Get funded Liquidity by Trade Perpetuals 24/7 With $300k of House Money Trade crypto, equities & commodities Up to 95% profit split Straight2Funded accounts Get Funded Now Rating 4.8 495 Reviews",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "2,86",
+    "snippet": "unded Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received Get Funded in 1 step, with Static Drawdown and Daily Payouts No payout lock No minimum trading days Get Started",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "2,25",
+    "snippet": "4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received Get Funded in 1 step, with Static Drawdown and Daily Payouts No payout lock No minimum trading days Get Started Our Funds. Your Pa",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "ilot How Much Funding Can You Handle? Get your payout in 24 hours - or an extra $1,000 Instant 1-step 2-step DXTrade MetaTrader5 Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Most Popular Mo",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "359",
+    "snippet": "went wrong while submitting the form. Most Popular Most Popular 25K Evaluation $359 $251 one time payment Rules ? Lorem ipsum dolor. $0 $0 Profit Target ? Lorem ipsum dolor. $0 $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "251",
+    "snippet": "wrong while submitting the form. Most Popular Most Popular 25K Evaluation $359 $251 one time payment Rules ? Lorem ipsum dolor. $0 $0 Profit Target ? Lorem ipsum dolor. $0 $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consi",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "opular 25K Evaluation $359 $251 one time payment Rules ? Lorem ipsum dolor. $0 $0 Profit Target ? Lorem ipsum dolor. $0 $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules Start with",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "600",
+    "snippet": "Lorem ipsum dolor. $0 $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH Most Popular 25K Evaluation $359 $251 one time payment Profit Target",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "okies, please see our Privacy Policy . Decline Accept Want a Chance to Win a Free $25K 1-Step Account? Enter your email for a chance to trade a fully funded $25K account. Please enter valid email I agree to receive product and promotional updates from",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "e cards 1-step daily accounts are moved to a Live funded account after 4 payouts or $10,000 total paid out. Please check Terms of Use for detailed info Meet the Crypto Traders Who Turned Their Strategy Into Results That Speak for Themselves. Mark Boviz N",
+    "url": "https://tradeify247.co/home-new-price",
+    "kind": "page"
+   },
+   {
+    "value": "500",
+    "snippet": "ocharges this by surfacing success stories disproportionately. The trader who turned $500 into $50,000 gets 10,000 retweets. The trader who lost $500 is invisible. This survivorship bias shapes the market's risk appetite in ways that consistently benefit earl",
+    "url": "https://tradeify247.co/articles/how-social-media-affects-meme-coin-prices",
+    "kind": "page"
+   },
+   {
+    "value": "50,00",
+    "snippet": "his by surfacing success stories disproportionately. The trader who turned $500 into $50,000 gets 10,000 retweets. The trader who lost $500 is invisible. This survivorship bias shapes the market's risk appetite in ways that consistently benefit early entrants a",
+    "url": "https://tradeify247.co/articles/how-social-media-affects-meme-coin-prices",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "$2,863 Payout Received $2,250 Payout Received Get Funded in 1 step, with Static Drawdown and Daily Payouts No payout lock No minimum trading days Get Started Our Funds. Your Payouts. You never risk more than your account fee. Payouts verifie",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "Rules ? Lorem ipsum dolor. $0 $0 Profit Target ? Lorem ipsum dolor. $0 $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH Most Popular 25K Evaluation",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules , the delay caused by lagging indicators can be the difference between a precision entry",
+    "snippet": "zone with high volume\"). For a prop trader working within tight drawdown limits and consistency rules , the delay caused by lagging indicators can be the difference between a precision entry and a stopped-out trade. What Tools Does a Crypto Trader Need? One of the primary advantages of price action trading is its simplicity. A trader does",
+    "url": "https://tradeify247.co/articles/crypto-price-action-and-volume-trading-strategies-for-crypto-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules, withdrawal methods, identity checks, review periods, and what happens to drawdown after",
+    "snippet": "ne in the payout policy. Also verify minimum profitable days, minimum payout amount, consistency rules, withdrawal methods, identity checks, review periods, and what happens to drawdown after a withdrawal. If the firm offers crypto or stablecoin payments, confirm the network and wallet requirements. A wrong network can create a separate o",
+    "url": "https://tradeify247.co/articles/crypto-prop-firm-usa-rules-and-what-traders-can-access",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules, close any required positions, complete identity checks, and submit a request without br",
+    "snippet": "You normally have to reach the firm's first-payout date, satisfy its trading-day and consistency rules, close any required positions, complete identity checks, and submit a request without breaching a loss limit. The firm then reviews the account, applies the profit split, and sends the approved amount by bank transfer, card rail, e-walle",
+    "url": "https://tradeify247.co/articles/how-do-prop-firm-payouts-work-and-when-do-you-get-paid",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "on demand",
+    "snippet": "et minimum trading requirements, request a payout through your dashboard. We process withdrawals on demand\u2014you can receive payouts in Rise or traditional payment methods. Can I hold positions overnight and through weekends? Yes. Unlike futures prop firms that force dail",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "Get funded Liquidity by Trade Perpetuals 24/7 With $300k of House Money Trade crypto, equities & commodities Up to 95% profit split Straight2Funded accounts Get Funded Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "through your dashboard. We process withdrawals on demand\u2014you can receive payouts in Rise or traditional payment methods. Can I hold positions overnight and through weekends? Yes. Unlike futures prop firms that force daily position closures, Tradeify247",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "irtual currency derivatives, or any related derivative products of any kind, or otherwise constitute any type of trading or investment advice, recommendation or strategy, or an endorsement of any financial instruments, companies, or funds. Users are encourage",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "pto payouts, with available methods depending on your location and payout provider. Bank Transfer Receive your payout directly to your bank account through Rise, available in most supported countries. Crypto Get paid directly to your crypto wallet, with suppor",
+    "url": "https://tradeify247.co/payouts-v2",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "rted countries. Crypto Get paid directly to your crypto wallet, with support for USDC and 100+ digital assets through our payout providers. Trustpilot How Much Funding Can You Handle? Get your payout in 24 hours - or an extra $1,000 Instant 1-",
+    "url": "https://tradeify247.co/payouts-v2",
+    "kind": "page"
+   },
+   {
+    "value": "Skrill",
+    "snippet": "time. FTMO, for instance, currently lists bank wire, selected card-transfer rails, Skrill, and crypto, with different minimums and limits in its withdrawal instructions . Its crypto withdrawal guide also tells traders to verify the wallet and network because",
+    "url": "https://tradeify247.co/articles/how-do-prop-firm-payouts-work-and-when-do-you-get-paid",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "Makariou III, 228, AGIOS PAVLOS COURT, BLOCK A, 1st floor, Flat/Office 113, 3030, Limassol, Cyprus, acts as a payment agent processing funds on behalf of Tradeify Ventures LTD. The MT5 (MetaQuotes) platform is not available for US clients. US clients can use the following platforms: DXTrade. Copyright \u00a92026 Tradeify Ventures LTD, Ground F",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "icker hits trending on Twitter, that signal \u2014 organic or manufactured \u2014 triggers a cascade of buying pressure that no fundamental analysis can fully predict or counteract. For a crypto prop firm trader operating with strict drawdown limits, this is the environment you are navigating every time you enter a position. The Engagement Coeffic",
+    "url": "https://tradeify247.co/articles/how-social-media-affects-meme-coin-prices",
+    "kind": "page"
+   },
+   {
+    "value": "FCA",
+    "snippet": "ways be contextualized by 2% liquidity depth. Regulators including the NY DFS and UK FCA warn of exceptional fraud risk, and research shows meme coins amplify rather than hedge Bitcoin volatility. Executive Summary of Meme Coin Price Volatility The digital asset ecosystem has evolved beyond foundational blockchain protocols to include a h",
+    "url": "https://tradeify247.co/articles/understanding-meme-coin-price-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "same protections as registered broker-dealers or national securities exchanges. The CFTC\u2019s virtual currency trading advisory distinguishes spot virtual-currency markets from derivatives and warns about volatility, platform safeguards, manipulation, and cyber risk. It also tells customers considering virtual-currency futures or options to ",
+    "url": "https://tradeify247.co/articles/crypto-prop-firm-usa-rules-and-what-traders-can-access",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "ctive customer in exchange for using Affiliate\u2019s Affiliate Code, except as expressly authorized by Tradeify 247 in writing; or make any statement about Tradeify 247\u2019s pricing, rules, payout terms, or evaluation criteria that is inconsistent with Tradeify 247\u2019s then-current published materials. Affiliate shall include any risk disclosure o",
+    "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "intraday moves, with the direction depending on whether the ruling was favorable or unfavorable to Ripple. The size of the move correlated with how unexpected the ruling was \u2014 surprise rulings produced larger moves than widely-anticipated ones. Tradeify247 traders who posit",
+    "url": "https://tradeify247.co/articles/xrp-lawsuit-trading-playbook-volatility-legal-catalysts",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "hose Tradeify because it had a lot of good reviews sa",
+    "snippet": "to look no further than this.\" Shawn Wakefield Josh Best New York City, NY \"I chose Tradeify because it had a lot of good reviews saying that the payouts are really fast.\" Roman Patel 25, Cape Town Dylan Athens New York City, NY \"I got my payout on December 31st, which is New Year's Eve, in les",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "You get a thousa",
+    "snippet": "best platform out there\" Katherine Martha Vermeulen Roman Patel 25, Cape Town \"You get a thousand dollar pound payout... that ROI on your investment is insane.\" Josh Best 25, Cape Town Justin Certeza New York City, NY \"When I tell you the payout hit my bank s",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "r pound payout... that ROI on your investment is insa",
+    "snippet": "Katherine Martha Vermeulen Roman Patel 25, Cape Town \"You get a thousand dollar pound payout... that ROI on your investment is insane.\" Josh Best 25, Cape Town Justin Certeza New York City, NY \"When I tell you the payout hit my bank so fast, I was actually shocked how fast it hit my bank.\" Zac",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto pairs, inc",
+    "snippet": "eeping up to 80% of your profits. Which tokenized assets can I trade? Trade 100+ crypto pairs, including Bitcoin , Ethereum, Solana, Cardano, Polygon, and many emerging altcoins, with institutional liquidity from leading exchanges. You can also trade the tokenized sto",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "so trade the tokenized stocks of the top US firms. inc",
+    "snippet": "ny emerging altcoins, with institutional liquidity from leading exchanges. You can also trade the tokenized stocks of the top US firms. including Apple, Tesla, NVIDIA and Google. How do payouts work? Once you hit your profit targets and meet minimum trading requirements, request a payout through your d",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Instag",
+    "snippet": "t split Get Funded Now X (Twitter) YouTube TikTok Facebook Instagram LinkedIn Be the first to get limited time deals Get one email per week filled with deals, insights and tips. Email Address Subscribe Please enter val",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Be the first to get limited",
+    "snippet": "Now X (Twitter) YouTube TikTok Facebook Instagram LinkedIn Be the first to get limited time deals Get one email per week filled with deals, insights and tips. Email Address Subscribe Please enter valid email We promise no spam. See our privacy p",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "tent Hub Privacy Policy Terms of Use Funded Trader Ag",
+    "snippet": "ecome an affiliate Careers Merchandise Become an affiliate Resources Help Center Content Hub Privacy Policy Terms of Use Funded Trader Agreement Contact Contact Us Support Discord community Partners and media Copyright \u00a92026 Tradeify Ventures LTD. Ground Floor, Rodney Court Building, Rodney Bay, Gros Is",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted jurisdictions we publish at https://help",
+    "snippet": "anti-money-laundering, risk, or Company-policy reasons, as identified in the list of restricted jurisdictions we publish at https://help.tradeify247.co/en/articles/13729786-restricted-countries , which we may update at any time; or Owned or controlled, directly or indirectly, by any person or entity desc",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "restricted-countries , which we may update at any time; or\n Owned or controlled, directly or indirectly, by any person o",
+    "snippet": "tricted jurisdictions we publish at https://help.tradeify247.co/en/articles/13729786-restricted-countries , which we may update at any time; or Owned or controlled, directly or indirectly, by any person or entity described in clauses (1), (2), or (3). You agree that we may restrict, suspend, or terminate your access to the Service if we d",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "restricted in certain jurisdictions as described in Section 1, and availability in any jurisdiction may change at any ti",
+    "snippet": "be appropriate or available in any particular jurisdiction. Access to the Service is restricted in certain jurisdictions as described in Section 1, and availability in any jurisdiction may change at any time. Where the Company markets the Service in a particular jurisdiction, it does so without representing that participation is lawful or",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "restricted-countries 2026-10-07T08:43:54Z https://help",
+    "snippet": "ts-and-billing 2026-10-07T08:45:34Z https://help.tradeify247.co/en/articles/13729786-restricted-countries 2026-10-07T08:43:54Z https://help.tradeify247.co/en/articles/13744938-2-step-evaluations-guide 2026-09-12T19:10:46Z https://help.tradeify247.co/en/articles/13744939-1-step-evaluations-guide 2026-09-29T00",
+    "url": "https://help.tradeify247.co/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunds, Chargebacks, and Other Reversals",
+    "snippet": ", that such Referral Code is valid and accepted for the underlying transaction. c. Refunds, Chargebacks, and Other Reversals. No Referral Commission is earned on any portion of a transaction that is later refunded, charged back, credited, or otherwise reversed (each, a \u201cReversal\u201d). If Tradeif",
+    "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunded, charged back, credited, or otherwise reversed (each, a \u201cReversal\u201d)",
+    "snippet": "sals. No Referral Commission is earned on any portion of a transaction that is later refunded, charged back, credited, or otherwise reversed (each, a \u201cReversal\u201d). If Tradeify 247 has already remitted a Referral Commission for a transaction that subsequently becomes a Reversal, Affiliate shall repay the corresponding commission a",
+    "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund, in accordance with Section 7",
+    "snippet": "fected account, forfeiture of any pending benefit, and denial of any payout, without refund, in accordance with Section 7. Explanatory material in our Help Center, community channels, or other support content is provided for guidance only; where it differs from the Trading Rules, the Tradin",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "Refunds\n The Company may provide access to evaluation programs, funded accounts, platform access, resets, activations, u",
+    "snippet": "sputes, though we may do so in our sole discretion. 7. Purchases; One-Time Fees; No Refunds The Company may provide access to evaluation programs, funded accounts, platform access, resets, activations, upgrades, add-ons, or other products or services for a one-time monetary fee (collectively, \" Purchases \"). Prices and availability are su",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading without restricted windows",
+    "snippet": "room inside the account\u2019s loss limits. Tradeify 247 permits overnight, weekend, and news trading without restricted windows. Copying between a trader\u2019s own accounts is allowed except into or out of the 3-Step promotion. Bots are allowed only when owned or exclusively licensed; shared bots, au",
+    "url": "https://tradeify247.co/articles/crypto-prop-firm-usa-rules-and-what-traders-can-access",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ease check Terms of Use for detailed info\n \n Meet the Crypto Traders Who Turned Their Strategy Into Results That Speak f",
+    "snippet": "s Start with 25k Save $X with code DASH Swiper to move the cards Please check Terms of Use for detailed info Meet the Crypto Traders Who Turned Their Strategy Into Results That Speak for Themselves. Mark Boviz New York City, NY \"It just feels like a family in the Discord.\" Juan Jose Materon CJ Gainey New York City, NY \"When it comes to pa",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "eally fast",
+    "snippet": "\"I chose Tradeify because it had a lot of good reviews saying that the payouts are really fast.\" Roman Patel 25, Cape Town Dylan Athens New York City, NY \"I got my payout on December 31st, which is New Year's Eve, in less than two hours.\" Dylan Athens Zac",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "ear's Eve, in less than two hours",
+    "snippet": "Dylan Athens New York City, NY \"I got my payout on December 31st, which is New Year's Eve, in less than two hours.\" Dylan Athens Zachary Montz New York City, NY \"Followed their rules and successfully got a payout. Really happy with it. Fast payout.\" Justin Certeza Hunter Cha",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "eally happy with it",
+    "snippet": "ry Montz New York City, NY \"Followed their rules and successfully got a payout. Really happy with it. Fast payout.\" Justin Certeza Hunter Chamberlin New York City, NY \"The dashboard is super seamless. Everything's super easy to use.\" Hunter Chamberlin Katherine",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "eamless",
+    "snippet": ".\" Justin Certeza Hunter Chamberlin New York City, NY \"The dashboard is super seamless. Everything's super easy to use.\" Hunter Chamberlin Katherine Martha Vermeulen New York City, NY \"Tradeify is the best platform out there\" Katherine Martha Vermeu",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@tradeify247.co",
+    "snippet": "electronic logs if sent by electronic mail. Notices to Tradeify 247 shall be sent to support@tradeify247.co with a copy to the registered office address set forth above. d. Beneficiaries; Assignment. Affiliate may not assign or transfer any part of this Agreement, including w",
+    "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "legal@tradeify247.co",
+    "snippet": "authorized to act on the owner's behalf. Tradeify's designated copyright agent is: legal@tradeify247.co If content you posted is removed due to a DMCA notice and you believe it was removed due to mistake or misidentification, you may submit a counter-notification containin",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 1 step,\u2028\nwith Static",
+    "snippet": "w Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received Get Funded in 1 step, with Static Drawdown and Daily Payouts No payout lock No minimum trading days Get Started Our Funds. Your Payouts. You never risk more than your account fee. Payouts",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "in 24 hours - or an extra",
+    "snippet": "ts verified on-chain. Trustpilot How Much Funding Can You Handle? Get your payout in 24 hours - or an extra $1,000 Instant 1-step 2-step DXTrade MetaTrader5 Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Most Popul",
+    "url": "https://tradeify247.co/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours, with support",
+    "snippet": "payout method and enter the amount you want to withdraw. 3 We process it Eligible payout requests are processed within 24 hours, with supported bank and crypto payout options. Get Funded Available Payout Methods Tradeify 247 supports bank and crypto payouts, with available methods depending o",
+    "url": "https://tradeify247.co/payouts-v2",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC, anti-money laundering, and sanctions-screening processes, we may, at our sole discretion and at any time, re",
+    "snippet": "and compliance. Identity Verification; Risk Interviews. As part of our eligibility, KYC, anti-money laundering, and sanctions-screening processes, we may, at our sole discretion and at any time, require you to complete a live video interview with our risk or compliance team, including as a condition of continued access or of any payout. Y",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "KYC/AML checks, sanctions screening, limits, and processing timelines",
+    "snippet": "d in the Platform. Any such payouts are subject to the applicable processor's terms, KYC/AML checks, sanctions screening, limits, and processing timelines. Tradeify is not liable for delays, rejections, freezes, reversals, or account restrictions imposed by any processor. 28. Waiver; Severability No waiver of any provisi",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "KYC verification?\n \n lorem ipsum dolor sit amet consectetur adipiscing elit molestias dolorem commodo quo corrupt",
+    "snippet": "accusamus autem incididunt et sunt quis at similique similique non minim. Do I need KYC verification? lorem ipsum dolor sit amet consectetur adipiscing elit molestias dolorem commodo quo corrupti nisi in quibusdam sed esse atque dolore sit anim cupiditate ad dolor dolor in est consectetur nulla facilis minus fuga eu vero eu expedita elit ",
+    "url": "https://tradeify247.co/payouts-v2",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscriptions to algorithmic signals or news terminals to execute this strategy effectively",
+    "snippet": "vantages of price action trading is its simplicity. A trader does not need expensive subscriptions to algorithmic signals or news terminals to execute this strategy effectively. Platforms like TradingView are widely used for charting due to their flexibility and clean interface, providing the cleanliness and customization required to spot",
+    "url": "https://tradeify247.co/articles/crypto-price-action-and-volume-trading-strategies-for-crypto-traders",
+    "kind": "page"
+   },
+   {
+    "value": "subscription to the Services, and Tradeify 247 accepts the Affiliate Code associated with the purchase, such prospective",
+    "snippet": "If a prospective customer uses the Affiliate Code during the Term when purchasing a subscription to the Services, and Tradeify 247 accepts the Affiliate Code associated with the purchase, such prospective customer will be deemed a Referral Customer of Affiliate with respect to such purchase. Tradeify 247 may reject any Affiliate Code rela",
+    "url": "https://tradeify247.co/affiliates-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee",
+    "snippet": "s made available without a preceding evaluation phase or following the payment of an activation fee. The programs available to you, and their structure, are described in the Platform and in the applicable Additional Terms. Unless explicitly stated otherwise in Additio",
+    "url": "https://tradeify247.co/terms-of-use",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "y wanting to trade tokenized assets 24 hours a day, 7 days a week. We offer three paths to funding: Instant Funding for immediate access, or 1-Step and 2-Step Challenges to demonstrate your trading edge before receiving a funded account. How do I get started? Choose Inst",
+   "url": "https://tradeify247.co/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received Get Funded in 1 step, with Static Drawdown and Daily Payouts No payout lock No minimum trading days Get Started Our Funds. Your Payouts. You never risk more than",
+   "url": "https://tradeify247.co/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "w Much Funding Can You Handle? Get your payout in 24 hours - or an extra $1,000 Instant 1-step 2-step DXTrade MetaTrader5 Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Most Popular Most Popular 25K E",
+   "url": "https://tradeify247.co/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "ecurities law, but anti-fraud enforcement remains fully intact. Before entering any position, run a three-step social audit: measure E_c, verify on-chain supply concentration, and assess real community depth. The Attention Economy Has a New Trading Floor In traditiona",
+   "url": "https://tradeify247.co/articles/how-social-media-affects-meme-coin-prices"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "unded-trader program. First identify the actual account and instrument. A simulated account, a spot crypto account, and a securities margin account are different structures. What is the most important crypto prop firm rule The rule most likely to end the account is usuall",
+   "url": "https://tradeify247.co/articles/crypto-prop-firm-usa-rules-and-what-traders-can-access"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "DXtrade",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "DASH",
+   "context": "mit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH Most Popular 25K Evaluation $359 $251 one time paym"
+  }
+ ],
+ "claims": [
+  "ed accounts Get Funded Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received Get Funded in 1 step",
+  "ed Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received Get Funded in 1 step, with Static Drawdown and",
+  "ed accounts Get Funded Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received NEW ON TRADEIFY247",
+  "ed Now Rating 4.8 495 Reviews Rating 4.9 130 Reviews $2,863 Payout Received $2,250 Payout Received NEW ON TRADEIFY247 MT5 Trading is Now Live. T",
+  "with code DASH Swiper to move the cards 1-step daily accounts are moved to a Live funded account after 4 payouts or $10,000 total paid out. Please check Terms of Use for d",
+  "oney\" stops supporting the trend. The conversation happens live Blog comments are too slow for crypto. Join 12,000+ traders in our Discord to discuss this article, share charts, and d"
+ ],
+ "errors": []
+}

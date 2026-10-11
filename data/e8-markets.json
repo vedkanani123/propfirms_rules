@@ -1,0 +1,12 @@
+{
+ "slug": "e8-markets",
+ "name": "E8 Markets",
+ "category": "Forex/CFD",
+ "url": "https://e8markets.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

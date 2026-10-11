@@ -1,0 +1,736 @@
+{
+ "slug": "fundedbit",
+ "name": "FundedBit",
+ "category": "Forex/CFD",
+ "url": "https://fundedbit.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundedbit.com/",
+   "kind": "home",
+   "chars": 12137
+  },
+  {
+   "url": "https://fundedbit.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 261
+  },
+  {
+   "url": "https://fundedbit.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 14142
+  },
+  {
+   "url": "https://fundedbit.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 50607
+  },
+  {
+   "url": "https://fundedbit.com/team-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 641
+  },
+  {
+   "url": "https://fundedbit.com/author-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 65
+  },
+  {
+   "url": "https://fundedbit.com/refundable-challenge-fees/",
+   "kind": "page",
+   "chars": 20999
+  },
+  {
+   "url": "https://fundedbit.com/what-moves-crypto-prices/",
+   "kind": "page",
+   "chars": 27414
+  },
+  {
+   "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+   "kind": "page",
+   "chars": 27377
+  },
+  {
+   "url": "https://fundedbit.com/cheapest-crypto-prop-firms-low-cost-challenges-compared/",
+   "kind": "page",
+   "chars": 25343
+  },
+  {
+   "url": "https://fundedbit.com/crypto-challenge-pass-rate/",
+   "kind": "page",
+   "chars": 14419
+  },
+  {
+   "url": "https://fundedbit.com/prop-firm-reset-vs-new-challenge/",
+   "kind": "page",
+   "chars": 20974
+  },
+  {
+   "url": "https://fundedbit.com/position-sizing-crypto-prop-challenges/",
+   "kind": "page",
+   "chars": 27687
+  },
+  {
+   "url": "https://fundedbit.com/building-a-trading-routine-that-passes-challenges/",
+   "kind": "page",
+   "chars": 20860
+  },
+  {
+   "url": "https://fundedbit.com/crypto-trading-challenge-explained/",
+   "kind": "page",
+   "chars": 22452
+  },
+  {
+   "url": "https://fundedbit.com/crypto-swing-trading-strategy-fundebit-challenges/",
+   "kind": "page",
+   "chars": 27074
+  },
+  {
+   "url": "https://fundedbit.com/funding-rates-prop-challenges/",
+   "kind": "page",
+   "chars": 16818
+  },
+  {
+   "url": "https://fundedbit.com/1-phase-vs-2-phase-prop-firm-challenges/",
+   "kind": "page",
+   "chars": 21210
+  },
+  {
+   "url": "https://support.fundedbit.com/en/",
+   "kind": "sub",
+   "chars": 882
+  }
+ ],
+ "page_count": 19,
+ "total_chars": 351380,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "adline target looks easier. 1-Phase, faster validation with a trailing cushion One profit target at 10% (verified September 14, 2026) and a 6% trailing total loss (verified September 14, 2026) can favor traders who build equity early and then defend it. The best-day cap at",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ing: Available up to $300,000 Platform: Bybit, with direct integration Fast Track Profit target: 5% Phases: Single phase Maximum daily loss: 3% Maximum total loss: 6% trailing drawdown Minimum trading days: 4 trading days Best-day rule: Your best day may not excee",
+    "url": "https://fundedbit.com/crypto-trading-challenge-explained/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "dBit 1-Phase challenge, you need to make 10% profit from your starting balance. Max. Daily Loss The Maximum Daily Loss is 4% of the starting account balance. Max. Loss The Maximum Total Loss is 6% of the starting account balance and is applied as a trailing drawdown. The drawdown level follows",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Phase 1. In the 2-phase, you need to make 5% profit from the starting balance. Max. Daily Loss The Maximum Daily Loss is 5% of the starting account balance. Max. Loss The Maximum Total Loss is set at 10% of the initial account balance and is applied as a static drawdown. Min. trading days To",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "it Fast Track challenge, you need to make 5% profit from your starting balance. Max. Daily Loss The Maximum Daily Loss is 3% of the starting account balance. Max. Loss The Maximum Total Loss is 6% of the starting account balance and is applied as a trailing drawdown. The drawdown level follows",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "um Trading Days Best-day Rule Profit Split Time Limit Price by Size 1-Phase 10% 4% daily loss 6% trailing drawdown 4 Best day \u2264 40% of total profit from profitable days 80% No time limit $5k $59, $10k $99, $25k $219, $50k $449, $100k $679 2-Phase Phase 1 10%, Phas",
+    "url": "https://fundedbit.com/what-moves-crypto-prices/",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "ack requires only a 5% profit target (verified September 14, 2026), but has a 3% max daily loss and a 20% best-day cap (both verified September 14, 2026). Weekend events can gap crypto prices, which is an opportunity if size is right. Keep risk per trade even smaller, for ex",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "ame math works for any pair, just keep the dollar risk constant. How much of my max daily loss should I budget per day? Allocate 50% to 70% of the model\u2019s max daily loss as your planned daily risk budget. That leaves margin for slippage and fast moves. For example, on a 3% daily loss cap you might pla",
+    "url": "https://fundedbit.com/position-sizing-crypto-prop-challenges/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "ily Loss The Maximum Daily Loss is 4% of the starting account balance. Max. Loss The Maximum Total Loss is 6% of the starting account balance and is applied as a trailing drawdown. The drawdown level follows the highest equity reached on the account and locks once the account ba",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ily Loss The Maximum Daily Loss is 5% of the starting account balance. Max. Loss The Maximum Total Loss is set at 10% of the initial account balance and is applied as a static drawdown. Min. trading days To complete the Minimum Trading Days requirement, you must place at least one trade",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "flat sizing. Map to firm math: if the daily cap is 4%, self-cap at 0.8% per day. If max loss is 8%, design your approach around a 5\u20136% plan drawdown, the buffer absorbs variance without touching the hard line. Correlation control: treat BTC, ETH, and high-beta alts a",
+    "url": "https://fundedbit.com/crypto-challenge-pass-rate/",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "rent figure (verified September 23, 2026) 6% trailing, locks at initial balance plus max loss (verified September 23, 2026) Best day \u2264 40% of total profit from profitable days (verified September 23, 2026) 80% (verified September 23, 2026) 4 days minimum (verified September 23, 2026) No time limit (verified",
+    "url": "https://fundedbit.com/position-sizing-crypto-prop-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "ement, direct Bybit integration 2-Phase Phase 1 = 10%, Phase 2 = 5% 5% daily max 10% max total loss, static drawdown 4 days minimum No best-day cap stated 80% split No time limit $5k = $55, $10k = $89, $25k = $209, $50k = $429, $100k = $549 Wider static cushion, two-step evaluation Fast Track 5% 3% daily max 6% max total loss,",
+    "url": "https://fundedbit.com/crypto-swing-trading-strategy-fundebit-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "$100k = $549 Wider static cushion, two-step evaluation Fast Track 5% 3% daily max 6% max total loss, trailing drawdown 4 days minimum Best day may not exceed 20% of total profit from profitable days 100% split No time limit $5 upfront plus activation: $5k = $59, $10k = $79, $25k = $189, $50k = $349, $100k = $549 Fastest monetizat",
+    "url": "https://fundedbit.com/crypto-swing-trading-strategy-fundebit-challenges/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "you move with confidence and impact. Guaranteed Payouts We never deny any payouts 100 % Profit Share Up to 100% Profit Share 24 Hour Payouts Payout guaranteed in 24 hours Bybit Support Direct Bybit integration for fast execution Choose Your Crypto Account Pick the evaluation model that ma",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "30",
+    "snippet": "s with Fundedbit. Account $5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80%",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": ". Example compounding path Suppose you start with $25,000 and a plan that pays an 80% split. After a compliant month, you withdraw a portion to reward discipline, then allocate the rest to cover future activation fees or to support a larger starting size when y",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "ime Limit Est. Pass Rate Notable Features FundedBit Crypto perps 1 or 2 8\u201310% 3\u20135% 8\u201310% None 4\u20139% Bybit integration, up to 95% split Multi-asset CFD Prop Forex, Indices, Crypto CFDs 2 8\u201310% per phase 4\u20135% 8\u201310% 30 days/phase 2\u20135% Time pressure and news restrictions Instant Funding Prop Crypto and Meta",
+    "url": "https://fundedbit.com/crypto-challenge-pass-rate/",
+    "kind": "page"
+   },
+   {
+    "value": "45",
+    "snippet": "e trailing drawdown locks at a new higher balance. For example, move from 0.40% to 0.45%, then hold for a full payout cycle before moving to 0.50%. Fundedbit advertises payouts within 24 hours with guaranteed payouts as a stated feature of the program (verified September 23, 2026). Trea",
+    "url": "https://fundedbit.com/position-sizing-crypto-prop-challenges/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "4",
+    "snippet": "a hard stop that shuts down the terminal once the daily cap is reached. Rushing the minimum trading days Needing 4 days to pass (verified September 14, 2026) is not a hurdle if you plan for it. Trade smaller across multiple sessions instead of trying to finish in one swing that leave",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "14",
+    "snippet": "remains compliant with plan rules and shows repeatable performance over the required minimum days (verified September 14, 2026). Which Fundedbit plan is best for reaching a larger funded balance fastest? It depends on your style. If you are consistent with smoother daily distributions, 1",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "11",
+    "snippet": "ember 11, 2026) Max total loss 6%, trailing drawdown (verified September 11, 2026) 4 minimum trading days (verified September 11, 2026) No time limit (verified September 11, 2026) Best day \u2264 40% of total profit from profitable days (verified September 11, 2026) 80% split (verified September 11, 20",
+    "url": "https://fundedbit.com/cheapest-crypto-prop-firms-low-cost-challenges-compared/",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "se. Program Phases Profit Target Max Daily Loss Max Total Loss + Type Best-day Rule Minimum Trading Days Profit Split Time Limit 1-Phase 1 10% 4% 6% trailing drawdown Best day may not exceed 40% of total profit from profitable days 4 trading days minimum 80% No time limit 2-Phase 2 (Phase 1 then Pha",
+    "url": "https://fundedbit.com/building-a-trading-routine-that-passes-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "24",
+    "snippet": "for current guidance, since site copy can be updated. Do weekends count toward the minimum trading days? Crypto trades 24/7 through the Bybit integration, so weekend sessions are available. Minimum trading days are defined by Fundedbit as the count of days with at least one qualifying trade",
+    "url": "https://fundedbit.com/crypto-trading-challenge-explained/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "awdown 4 days, no time limit Best day \u2264 40% of total profit from profitable days 80% $5k, $10k, $25k, $50k, $100k $5k = $59, $10k = $99, $25k = $219, $50k = $449, $100k = $679 Bybit, BTC/ETH and supported crypto pairs, 24/7 Note: confirm 1-Phase max daily lo",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "n 4 days, no time limit Best day \u2264 40% of total profit from profitable days 80% $5k, $10k, $25k, $50k, $100k $5k = $59, $10k = $99, $25k = $219, $50k = $449, $100k = $679 Bybit, BTC/ETH and supported crypto pairs, 24/7 Note: confirm 1-Phase max daily loss 4%",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "ys, no time limit Best day \u2264 40% of total profit from profitable days 80% $5k, $10k, $25k, $50k, $100k $5k = $59, $10k = $99, $25k = $219, $50k = $449, $100k = $679 Bybit, BTC/ETH and supported crypto pairs, 24/7 Note: confirm 1-Phase max daily loss 4% vs 5%",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "time limit Best day \u2264 40% of total profit from profitable days 80% $5k, $10k, $25k, $50k, $100k $5k = $59, $10k = $99, $25k = $219, $50k = $449, $100k = $679 Bybit, BTC/ETH and supported crypto pairs, 24/7 Note: confirm 1-Phase max daily loss 4% vs 5% on-pag",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "limit Best day \u2264 40% of total profit from profitable days 80% $5k, $10k, $25k, $50k, $100k $5k = $59, $10k = $99, $25k = $219, $50k = $449, $100k = $679 Bybit, BTC/ETH and supported crypto pairs, 24/7 Note: confirm 1-Phase max daily loss 4% vs 5% on-page befor",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   },
+   {
+    "value": "300",
+    "snippet": "erified August 18, 2026). Which account sizes are available and how does scaling to $300k work? You can choose 5,000 dollars, 10,000 dollars, 25,000 dollars, 50,000 dollars, or 100,000 dollars accounts, then follow Fundedbit\u2019s scaling path to grow up to 300,",
+    "url": "https://fundedbit.com/1-phase-vs-2-phase-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "300,00",
+    "snippet": "Best Crypto Prop Firm | $300,000 Funded Accounts | Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges Programs Symbols Become a Partner How It Works About us English \ud55c\uad6d\uc5b4 Po",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "Rewards Start directly with 100% of your simulated profits with Fundedbit. Account $5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "59",
+    "snippet": "d profits with Fundedbit. Account $5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "41",
+    "snippet": "ofits with Fundedbit. Account $5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "492",
+    "snippet": "unt $5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40%",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "ays 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30%",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "h 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30% OFF Start with 25K $1,428 Average Payout Account",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "69",
+    "snippet": "$492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30% OFF Start with 25K $1,428 Average Payout Account $5",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "721",
+    "snippet": "t $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30% OFF Start with 25K $1,428 Average Payout Account $50,000 10% 4% 6% 4 days",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "ys 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30% OFF Start with 25K $1,428 Average Payout Account $50,000 10% 4% 6% 4 days 40% Unlimited 80% $449 $314",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "219",
+    "snippet": "10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30% OFF Start with 25K $1,428 Average Payout Account $50,000 10% 4% 6% 4 days 40% Unlimited 80% $449 $314 30% OFF Start with 50K $2,913 Average Payout Acco",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "153",
+    "snippet": "$721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimited 80% $219 $153 30% OFF Start with 25K $1,428 Average Payout Account $50,000 10% 4% 6% 4 days 40% Unlimited 80% $449 $314 30% OFF Start with 50K $2,913 Average Payout Account",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "oss The Maximum Total Loss is 6% of the starting account balance and is applied as a trailing drawdown. The drawdown level follows the highest equity reached on the account and locks once the account balance reaches the initial balance plus the maximum loss amount. Min. t",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "static",
+    "snippet": "Maximum Total Loss is set at 10% of the initial account balance and is applied as a static drawdown. Min. trading days To complete the Minimum Trading Days requirement, you must place at least one trade on 4 different days during the Fundedbit Challenge. Trading Period",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Best Crypto Prop Firm | $300,000 Funded Accounts | Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges Programs Symbols Become a Partner How It Works Abo",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "usdt",
+    "snippet": "s/2026/09/no-evaluation-prop-firm.webp https://fundedbit.com/crypto-payout-prop-firm-usdt-withdrawals/ 2026-09-14T10:05:03+00:00 https://fundedbit.com/wp-content/uploads/2026/09/crypto-payout-prop-firm-usdt-withdrawals.webp https://fundedbit.com/prop-firm-sca",
+    "url": "https://fundedbit.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": ", FOMC decisions, and nonfarm payrolls regularly spark large intraday BTC moves. Surprises that shift rate expectations change the discount rate for risk and alter dollar liquidity, which crypto digests quickly. You will often see a whipsaw within the first m",
+    "url": "https://fundedbit.com/what-moves-crypto-prices/",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "liquidity windows. Stablecoin supply, mint/redemptions, and depegs Rising USDT or USDC aggregate market cap is historically associated with risk-on phases as fresh dollar liquidity enters. Conversely, large redemptions or a temporary depeg can shock prices",
+    "url": "https://fundedbit.com/what-moves-crypto-prices/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "opular charting tools can streamline the workflow. Common pitfalls that derail otherwise good routines These are the failure modes we see most often. Build pre-commitments now to avoid them. Oversizing into daily loss One oversized loser that tags the pla",
+    "url": "https://fundedbit.com/building-a-trading-routine-that-passes-challenges/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "rofits. Keep 100% of your Simulated earned profits. Up to $300,000 Fundedbit Account Scale your account up to $300,000 in funding Performance Coaching sessions Receive structured guidance to improve discipline, execution quality, and consistency. Progress to Premium Programme Consistent results can unlock access to advanced account tiers ",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "://fundedbit.com/tr/sss/ 2026-06-23T11:31:46+00:00 https://fundedbit.com/pt-br/programas/ 2026-06-25T17:00:42+00:00 https://fundedbit.com/wp-content/uploads/2026/01/bybit-logo-dark.svg https://fundedbit.com/wp-content/uploads/2026/03/Flexible-Trading-Conditions-%E2%80%8B.png https://fundedbit.com/wp-co",
+    "url": "https://fundedbit.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "nts with BTC reactions Major United States releases like CPI, FOMC decisions, and nonfarm payrolls regularly spark large intraday BTC moves. Surprises that shift rate expectations change the discount rate for risk and alter dollar liquidity, which crypto digests quickly. You will often see a whipsaw within t",
+    "url": "https://fundedbit.com/what-moves-crypto-prices/",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": ".. Getting Started & General Sign-up, company info, platforms, and account basics. By Viktor B. 1 author 14 articles Trading & Risk Rules Trading rules, risk management, and permitted strategies. By Viktor B. 1 author 36 articles Payout",
+    "url": "https://support.fundedbit.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Fundedbit Skip to content LIMITED",
+    "snippet": "Best Crypto Prop Firm | $300,000 Funded Accounts | Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges Programs Symbols Become a Partner How It Works About us English \ud55c\uad6d\uc5b4 Portugu\u00eas T\u00fcrk\u00e7e Programs Symbols Become a Partner How",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Register Get Funded LIMITED",
+    "snippet": "Symbols Become a Partner How It Works About us English \ud55c\uad6d\uc5b4 Portugu\u00eas T\u00fcrk\u00e7e Login / Register Get Funded LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges English \ud55c\uad6d\uc5b4 Portugu\u00eas T\u00fcrk\u00e7e English \ud55c\uad6d\uc5b4 Portugu\u00eas T\u00fcrk\u00e7e Programs Symbols Become a Partner How It Works About us English \ud55c",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "$5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492 Average Payout Account $10,000 10% 4% 6% 4 days 40% Unlimited 80% $99 $69 30% OFF Start with 10K $721 Average Payout Account $25,000 10% 4% 6% 4 days 40% Unlimi",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Follow Trading Objectives Trading objectives inc",
+    "snippet": "Choose Your Crypto Funding Account Select your account size and evaluation type. Follow Trading Objectives Trading objectives include profit targets and drawdown limits you must respect during evaluation. Prove your trading strategy Demonstrate consistency, risk control, and rule compliance to qual",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ward disciplined execution over high-risk trading. Sa",
+    "snippet": "thout breaking drawdown rules. Easier Profit Target A balanced target designed to reward disciplined execution over high-risk trading. Same ongoing support You keep access to support resources throughout the evaluation and funded phases. Same tools & dashboard The same performance tools and dashboard are a",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "urces throughout the evaluation and funded phases. Sa",
+    "snippet": "xecution over high-risk trading. Same ongoing support You keep access to support resources throughout the evaluation and funded phases. Same tools & dashboard The same performance tools and dashboard are available from challenge to funded account. Step 3 Get Funded & Earn Payouts Access larger funding lev",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "me tools & dashboard The sa",
+    "snippet": "You keep access to support resources throughout the evaluation and funded phases. Same tools & dashboard The same performance tools and dashboard are available from challenge to funded account. Step 3 Get Funded & Earn Payouts Access larger funding levels as your performance gro",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "You will then trade real crypto market conditions, inc",
+    "snippet": "work? Start by selecting your crypto funding account and preferred evaluation model. You will then trade real crypto market conditions, including high volatility periods, while respecting clear profit targets and drawdown limits. Once you successfully complete the evaluation, you receive a funded account to",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2530279",
+    "snippet": "ered Address: Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, U.A.E. Registration Number: 2530279 \u00a9 2026, Copyright Support",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund & Cancellation Become a Partner How It Works Leaderboard Programs Symbols Refund & Cancellation Resources\n About ",
+    "snippet": "outube Tiktok Navigation Become a Partner How It Works Leaderboard Programs Symbols Refund & Cancellation Become a Partner How It Works Leaderboard Programs Symbols Refund & Cancellation Resources About us Blog Terms & Conditions Privacy Policy FAQ Contact us Help Center About us Blog Terms & Conditions Privacy Policy FAQ Contact us Help ",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable-challenge-fees/ 2026-09-21T10:05:10+00:00 https://fundedbit",
+    "snippet": "edbit.com/wp-content/uploads/2026/09/prop-firm-rule-breach.png https://fundedbit.com/refundable-challenge-fees/ 2026-09-21T10:05:10+00:00 https://fundedbit.com/wp-content/uploads/2026/09/refundable-challenge-fees.png https://fundedbit.com/prop-firm-reset-vs-new-challenge/ 2026-09-21T22:04:32+00:00 https://fundedbit.com/wp-c",
+    "url": "https://fundedbit.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refundable-challenge-fees",
+    "snippet": "nge-fees/ 2026-09-21T10:05:10+00:00 https://fundedbit.com/wp-content/uploads/2026/09/refundable-challenge-fees.png https://fundedbit.com/prop-firm-reset-vs-new-challenge/ 2026-09-21T22:04:32+00:00 https://fundedbit.com/wp-content/uploads/2026/09/prop-firm-reset-vs-new-challenge.p",
+    "url": "https://fundedbit.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refund-cancellation/ 2026-07-18T11:16:03+00:00 https://fundedbit",
+    "snippet": "ps://fundedbit.com/terms-conditions/ 2026-07-18T11:15:36+00:00 https://fundedbit.com/refund-cancellation/ 2026-07-18T11:16:03+00:00 https://fundedbit.com/pt-br/termos-e-condicoes/ 2026-07-18T11:16:41+00:00",
+    "url": "https://fundedbit.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading\n Because Fundedbit integrates with Bybit and supports crypto pairs in 24/7 markets, you can trade weekends ",
+    "snippet": "the site before using them for projections (verified August 18, 2026). Weekend and news trading Because Fundedbit integrates with Bybit and supports crypto pairs in 24/7 markets, you can trade weekends and high-volatility events on supported pairs like BTC and ETH, which is a core benefit for crypto-native strategies that depend on contin",
+    "url": "https://fundedbit.com/1-phase-vs-2-phase-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ear drawdown rules, fast payouts, and transparent evaluation",
+    "snippet": "powered by direct Bybit support and designed for traders who want serious capital. Clear drawdown rules, fast payouts, and transparent evaluation. Start Now View Funding Plans Why Fundedbit? Deep technical expertise + fast execution so you move with confidence and impact. Guaranteed Payouts We never deny any pa",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eached on the account and locks once the account balance reaches the initial balance plus the maximum loss amount",
+    "snippet": "nd is applied as a trailing drawdown. The drawdown level follows the highest equity reached on the account and locks once the account balance reaches the initial balance plus the maximum loss amount. Min. trading days To complete the Minimum Trading Days requirement, you must place at least one trade on 4 different days during the Fast Tr",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "east one trade on 4 different days during the Fast Track Challenge",
+    "snippet": "n. trading days To complete the Minimum Trading Days requirement, you must place at least one trade on 4 different days during the Fast Track Challenge. Best day rule Your highest-profit trading day (\u201cBest Day\u201d) cannot make up more than 40% of the total profit earned across all profitable days in the Funded phase. Tradi",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earned across all profitable days in the Funded phase",
+    "snippet": "est-profit trading day (\u201cBest Day\u201d) cannot make up more than 40% of the total profit earned across all profitable days in the Funded phase. Trading Period With Fundedbit, there is no time limit - you can take as long as you need to reach your Profit Target. Rewards Start directly with 100% of your simulated",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each your Profit Target",
+    "snippet": "Period With Fundedbit, there is no time limit - you can take as long as you need to reach your Profit Target. Rewards Start directly with 100% of your simulated profits with Fundedbit. Account $5,000 10% 4% 6% 4 days 40% Unlimited 80% $59 $41 30% OFF Start with 5K $492",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@fundedbit.com",
+    "snippet": "to schedule your personalized discovery call. Chat with us Send us an e-mail Email support@fundedbit.com For Live Chat Use the button above Customer Team Members 0 + Languages Spoken 0 + Fundedbit is a crypto-native proprietary trading firm built to help traders access ca",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "24 hours",
+    "snippet": "uts We never deny any payouts 100 % Profit Share Up to 100% Profit Share 24 Hour Payouts Payout guaranteed in 24 hours Bybit Support Direct Bybit integration for fast execution Choose Your Crypto Account Pick the evaluation model that matches Your Trading style. 1-Phase 2-Phase Fast",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours and guarantee",
+    "snippet": "s align strategy with actual crypto market structure, not just weekday forex hours. Payouts and profit splits Fundedbit markets payouts within 24 hours and guarantees payouts as a stated feature of the program. Profit splits start at 80% for standard models and reach 100% on Fast Track. Funded accounts can scale up to $300,000 based",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours, and the firm",
+    "snippet": "ee. Profit splits start at 80 percent and go to 100 percent on the Fast Track model. Payouts are advertised within 24 hours, and the firm markets guaranteed payouts, always subject to current program rules and your own trading results. Funded accounts can scale up to 300,000 dollars over time based on perf",
+    "url": "https://fundedbit.com/what-moves-crypto-prices/",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours once you meet",
+    "snippet": "80 percent on standard programs and reach 100 percent on the Fast Track model, with payouts marketed within 24 hours once you meet the criteria. Your rules and sizing choices must align to these constraints if you plan to hold risk through catalysts. Fundedbit Programs at a Glance for Volatility-Ri",
+    "url": "https://fundedbit.com/what-moves-crypto-prices/",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours and markets g",
+    "snippet": "to avoid concentration that could block scaling eligibility later. Take your first payout to validate the edge Fundedbit advertises payouts within 24 hours and markets guaranteed payouts (verified September 14, 2026). A fast payout cadence helps you verify your process and lock in gains before you request a scale-up. Request a scale-up",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit cap that sits under the best-day percentage, and do not double size immediately after a big win",
+    "snippet": "nd 2R, then trail the remainder so wins are distributed across sessions. Use a daily profit cap that sits under the best-day percentage, and do not double size immediately after a big win. If a position is running far in your favor late in the day, consider scaling out to keep the day\u2019s contribution aligned with the rule and let tomorrow ",
+    "url": "https://fundedbit.com/position-sizing-crypto-prop-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "profit cap so a single day does not account for more than the allowed share of your profitable days\u2019 total",
+    "snippet": "ipping the best-day rule with a single big win? Predefine partial exits and a daily profit cap so a single day does not account for more than the allowed share of your profitable days\u2019 total. For Fast Track that is 20%, for 1-Phase that is 40% (verified September 23, 2026). If you are up large early, take partials and trail the rest into ",
+    "url": "https://fundedbit.com/position-sizing-crypto-prop-challenges/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan: Grow Your Account Effectively - Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Chall",
+    "snippet": "Prop Firm Scaling Plan: Grow Your Account Effectively - Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges Programs Symbols Become a Partner How It Works About us English Programs Symbols Become a Partner How It Works About us English Login / Register Get Funded LIMITED OFFER: 30% OFF ALL 1-S",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plan: Grow Your Account Effectively\n Prop Firm Scaling Plans Explained: How to Grow Your Account\n Why a Scaling ",
+    "snippet": "t us English Login / Register Get Funded September 14, 2026 Fundedbit Team Prop Firm Scaling Plan: Grow Your Account Effectively Prop Firm Scaling Plans Explained: How to Grow Your Account Why a Scaling Plan Is Your Edge in Crypto A prop firm scaling plan is a set of rules and milestones that lets a trader increase funded capital after de",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan is a set of rules and milestones that lets a trader increase funded capital after demonstrating consistent,",
+    "snippet": "ed: How to Grow Your Account Why a Scaling Plan Is Your Edge in Crypto A prop firm scaling plan is a set of rules and milestones that lets a trader increase funded capital after demonstrating consistent, risk-aware performance. In 24/7 crypto markets where volatility and discipline decide outcomes, knowing exactly how scaling eligibility ",
+    "url": "https://fundedbit.com/prop-firm-scaling-plan/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC & Compliance\n Verification and country eligibility questions",
+    "snippet": "ment, scaling, resets, and program details. By Viktor B. 1 author 11 articles KYC & Compliance Verification and country eligibility questions. By Viktor B. 1 author 4 articles Affiliate Program Affiliate program and commissions. By Viktor B. 1 author 3 articles Fundedbit Help Center Intercom We",
+    "url": "https://support.fundedbit.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation fee An activation fee applies once you pass the challenge",
+    "snippet": "it Target. Rewards Start directly with 80% of your simulated profits with Fundedbit. Activation fee An activation fee applies once you pass the challenge. Hover over the '$5' below each account size to view the exact fee for that account. Account $5,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $59 in Activation fee",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee Start with 5K $492 Average Payout Account\n $10,000\n 5%\n 3%\n 6%\n 4 days\n 20%\n Unlimited\n 100%\n $5 $79 in A",
+    "snippet": "r that account. Account $5,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $59 in Activation fee Start with 5K $492 Average Payout Account $10,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $79 in Activation fee Start with 10K $721 Average Payout Account $25,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $189 in Activation fee Start with 25K $1,428 Avera",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee Start with 25K $1,428 Average Payout Account\n $50,000\n 5%\n 3%\n 6%\n 4 days\n 20%\n Unlimited\n 100%\n $5 $349 ",
+    "snippet": "verage Payout Account $25,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $189 in Activation fee Start with 25K $1,428 Average Payout Account $50,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $349 in Activation fee Start with 50K $2,913 Average Payout Account $100,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $549 in Activation fee Start with 100K $5,9",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee Start with 100K $5,968 Average Payout Please check Terms of Use for detailed info\n How It Works\n Your pat",
+    "snippet": "erage Payout Account $100,000 5% 3% 6% 4 days 20% Unlimited 100% $5 $549 in Activation fee Start with 100K $5,968 Average Payout Please check Terms of Use for detailed info How It Works Your path to funding is simple and transparent. Step 1 Choose Your Crypto Funding Account Select your account size and evaluation type. Follow Trading Obj",
+    "url": "https://fundedbit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fees are often excluded from refunds",
+    "snippet": "y fee-related benefit. What is usually non-refundable Add-ons, platform extras, or activation fees are often excluded from refunds. On Fundedbit Fast Track, for example, there is a $5 upfront cost plus an activation fee by account size. Any active refund or credit language will spell out what is and",
+    "url": "https://fundedbit.com/refundable-challenge-fees/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "rule interactions, see our desk notes on trailing vs static drawdown in crypto and our explainer on instant funding vs evaluation dynamics. Disclaimer: This article is provided for educational and informational purposes only and does not constitute investment, financial, or",
+   "url": "https://fundedbit.com/cheapest-crypto-prop-firms-low-cost-challenges-compared/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "Crypto Prop Firm | $300,000 Funded Accounts | Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges Programs Symbols Become a Partner How It Works About us English \ud55c\uad6d\uc5b4 Portugu\u00eas T\u00fcrk\u00e7e Programs Symbols Become a Partner How It Works About u",
+   "url": "https://fundedbit.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "rop Firm | $300,000 Funded Accounts | Fundedbit Skip to content LIMITED OFFER: 30% OFF ALL 1-Step & 2-Step Challenges Programs Symbols Become a Partner How It Works About us English \ud55c\uad6d\uc5b4 Portugu\u00eas T\u00fcrk\u00e7e Programs Symbols Become a Partner How It Works About us English",
+   "url": "https://fundedbit.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "a from sources like CoinGecko or CoinMarketCap . Quick chooser: pick your cheaper recovery path in 3 steps Use this mini flow to make a confident, cost-aware decision. Step 1: Confirm reset availability and fee for your model and size Check your dashboard or the",
+   "url": "https://fundedbit.com/prop-firm-reset-vs-new-challenge/"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "yout guaranteed in 24 hours Bybit Support Direct Bybit integration for fast execution Choose Your Crypto Account Pick the evaluation model that matches Your Trading style. 1-Phase 2-Phase Fast Track 1-Phase Perfect for getting funded faster. Different plan levels Pro",
+   "url": "https://fundedbit.com/"
+  }
+ ],
+ "platforms": [
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "s 4 trading days. Upon passing, the trader qualifies for 100 percent profit split on Fundedbit Fast Track. A $1,500 payout would be $1,500 to the trader if all conditions are met. If",
+  "sed averages are approximately $492 for $5k, $721 for $10k, $1,428 for $25k, $2,913 for $50k, and $5,968 for $100k accounts (verified September 14, 2026). Treat these as orientation,",
+  "green days, the 100 percent split can maximize early withdrawals. Small bankroll, lowest entry For $5k and $100k accounts, the 2-Phase plan has the lowest signup fee at $55 and $549",
+  "al unrealized swings and risk management style. Which Fundedbit plan is the lowest-cost option for $10k and $25k accounts? For $10,000 accounts, the lowest signup total is Fast Tra",
+  "and risk management style. Which Fundedbit plan is the lowest-cost option for $10k and $25k accounts? For $10,000 accounts, the lowest signup total is Fast Track at $84 including the",
+  "at $84 including the $5 upfront, then 2-Phase at $89, then 1-Phase at $99 (verified September 11, 2026). For $25,000 accounts, the lowest signup total is Fast Track at $194 including th"
+ ],
+ "errors": []
+}

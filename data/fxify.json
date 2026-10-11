@@ -1,0 +1,12 @@
+{
+ "slug": "fxify",
+ "name": "FXIFY",
+ "category": "Forex/CFD",
+ "url": "https://fxify.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

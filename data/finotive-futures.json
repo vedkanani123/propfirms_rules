@@ -1,0 +1,380 @@
+{
+ "slug": "finotive-futures",
+ "name": "Finotive Futures",
+ "category": "Futures",
+ "url": "https://finotive.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://finotive.com/",
+   "kind": "home",
+   "chars": 11132
+  },
+  {
+   "url": "https://finotive.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 43
+  },
+  {
+   "url": "https://finotive.com/legal/terms-and-conditions/",
+   "kind": "page",
+   "chars": 55778
+  },
+  {
+   "url": "https://finotive.com/legal/complaints-contact/",
+   "kind": "page",
+   "chars": 4123
+  },
+  {
+   "url": "https://finotive.com/legal/",
+   "kind": "page",
+   "chars": 2939
+  },
+  {
+   "url": "https://finotive.com/legal/privacy-policy/",
+   "kind": "page",
+   "chars": 15916
+  },
+  {
+   "url": "https://finotive.com/legal/restricted-jurisdictions/",
+   "kind": "page",
+   "chars": 5226
+  },
+  {
+   "url": "https://finotive.com/legal/cookie-policy/",
+   "kind": "page",
+   "chars": 5268
+  },
+  {
+   "url": "https://finotive.com/legal/legal-disclosure/",
+   "kind": "page",
+   "chars": 13128
+  },
+  {
+   "url": "https://finotive.com/legal/risk-disclosure/",
+   "kind": "page",
+   "chars": 8440
+  }
+ ],
+ "page_count": 10,
+ "total_chars": 122002,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "99",
+    "snippet": "h one verification, one wallet, and one seamless ecosystem. How fast are payouts? 99% of payouts are credited to your Finotive Pay account within seconds. From one shared wallet, you can withdraw via Revolut, bank wire, or crypto, purchase new Funding or Futures ac",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "payment providers, traders can move funds seamlessly across the Finotive ecosystem. $100M in Processed Volumes 2025 Finotive Markets Becomes A Licensed Brokerage In 2025, Finotive Markets gained its full FSC Securities Dealer Licence, allowing it",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "markets, manage payments, and grow across platforms through one unified ecosystem. $3B+ Capital Allocated Funding, Brokerage, Payments, Futures One Ecosystem Everything flows into Finotive One. One account One wallet One ide",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "within seconds. From one shared wallet, you can withdraw via Revolut, bank wire, or crypto, purchase new Funding or Futures accounts, or deposit into Finotive Markets to trade with your own capital. Is my money secure? Finotive is built with bank-grade secu",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "ate legal documentation. Any regulated service is provided only by the relevant authorised or registered Finotive group entity, where available, and only to eligible clients in permitted jurisdictions. This website and the services of Finotive group entities",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "for convenience but do not override the English version unless expressly stated otherwise. 2.5 Existing Users Finotive may require existing Users to accept these Terms or a materially updated version before continuing to access their Finotive One Account or",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "FSC",
+    "snippet": "tive Markets Becomes A Licensed Brokerage In 2025, Finotive Markets gained its full FSC Securities Dealer Licence, allowing it to operate as a standalone brokerage. Traders can now access Finotive's execution, spreads, instruments, and trading infrastructure directly, without the Finotive Funding ruleset. Full FSC Securities Deale",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "der-first approach, it adds more flexibility, more instruments, and another route to scale. More Markets. More Opportunity. 2026 The Complete Finotive One Ecosystem With funding, brokerage, payments, and futures connected under one structure, Finot",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "ice at Office 113, Block A, Agios Pavlos Ct, 228 Archbishop Makarios III Ave, 3030 Limassol, Cyprus. Finotive One Limited operates the central Finotive account, login, onboarding, KYC, compliance, customer data, and group-access infrastructure used across the Finotive",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "other Finotive group entity. 6. Regulatory status Finotive Markets (MU) Limited is regulated by the Financial Services Commission of Mauritius under licence number GB25205544. Finotive One Limited does not itself provide brokerage services, investment services, investment advice, portfolio management, custody, deposit-taking, clearing ser",
+    "url": "https://finotive.com/legal/legal-disclosure/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Finotive One. One Ecosystem. Every Stag",
+    "snippet": "Finotive One. One Ecosystem. Every Stage of Your Trading Journey. Login Finotive One brings every product, service, and opportunity together through one ecosystem designed for traders. Built A",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "the focus was on building trader-first technology, inc",
+    "snippet": "conditions, clearer rules, and a more transparent funding experience. From day one, the focus was on building trader-first technology, including one of the most innovative dashboards in the industry. 90,000+ Active Traders 183+ Countries Served 2022 Finotive Markets Introduced Finotive Markets w",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Finotive Markets Becomes A Licensed Brokerag",
+    "snippet": "seamlessly across the Finotive ecosystem. $100M in Processed Volumes 2025 Finotive Markets Becomes A Licensed Brokerage In 2025, Finotive Markets gained its full FSC Securities Dealer Licence, allowing it to operate as a standalone brokerage. Traders can now access Finotive's execution,",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ence, allowing it to operate as a standalone brokerag",
+    "snippet": "censed Brokerage In 2025, Finotive Markets gained its full FSC Securities Dealer Licence, allowing it to operate as a standalone brokerage. Traders can now access Finotive's execution, spreads, instruments, and trading infrastructure directly, without the Finotive Funding ruleset. Full FSC Securities Deal",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ull FSC Securities Dealer Licence Standalone Brokerag",
+    "snippet": "uments, and trading infrastructure directly, without the Finotive Funding ruleset. Full FSC Securities Dealer Licence Standalone Brokerage Access 2026 Finotive Futures Launched Finotive Futures expands the ecosystem into the futures market, giving traders a structured path to futures evaluations",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "unts, and new market opportunities. Built with the sa",
+    "snippet": "market, giving traders a structured path to futures evaluations, funded futures accounts, and new market opportunities. Built with the same trader-first approach, it adds more flexibility, more instruments, and another route to scale. More Markets. More Opportunity. 2026 The Complete Finotive On",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "With funding, brokerag",
+    "snippet": "More Markets. More Opportunity. 2026 The Complete Finotive One Ecosystem With funding, brokerage, payments, and futures connected under one structure, Finotive One brings every part of the trader journey together. Traders can access capital, trade multiple markets,",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ers can access capital, trade multiple markets, manag",
+    "snippet": "er one structure, Finotive One brings every part of the trader journey together. Traders can access capital, trade multiple markets, manage payments, and grow across platforms through one unified ecosystem. $3B+ Capital Allocated Funding, Brokerage, Payments, Futures One Ecosystem Everything fl",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "HE481670",
+    "snippet": "k [email protected] Finotive One Limited is a Cyprus-registered company with company number HE481670 and registered office at Office 113, Block A, Agios Pavlos Ct, 228 Archbishop Makarios III Ave, 3030 Limassol, Cyprus. Finotive One Limited operates the central Finotiv",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "229423",
+    "snippet": "ucture, technology and group-access coordination. 2. Finotive Markets (MU) Limited Company number: 229423 GBC. FSC licence number: GB25205544. Registered office: Suite 201, 2nd Floor, The Catalyst, 40 Silicon Avenue, Ebene 72201, Mauritius. Principal role: Finotive Markets b",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "HE475209",
+    "snippet": "ulatory permissions of Finotive Markets (MU) Limited. 4. Finotive Pay (CY) Limited Company number: HE475209. TIN: 60180309L. Registered office: Office 113, Block A, Agios Pavlos Ct, 228 Archbishop Makarios III Avenue, 3030 Limassol, Cyprus. Principal role: Finotive Pay Service",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "11088",
+    "snippet": "disbursement for Finotive Group Entities. 5. Finotive Funding Technologies Limited Company number: 11088. Registered office: Innovation One Building, Level 2, Dubai International Financial Centre, Dubai, United Arab Emirates. Principal role: Finotive Funding evaluation, sim",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "CL12854",
+    "snippet": "d-trader and contractual reward Services. 6. Finotive Futures Technologies Limited Company number: CL12854. Registered office: Innovation One Building, Level 2, Dubai International Financial Centre, Dubai, United Arab Emirates. Principal role: Finotive Futures evaluation, sim",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "105195257800001",
+    "snippet": "ernational Financial Centre with company number 11088, LEI 98450004A69DA6BCB084, Tax Registration Number 105195257800001, VAT Registration Number 105195257800003, and registered office at Innovation One Building, Level 2, DIFC, Dubai, United Arab Emirates. Finotive Futures Technologies Li",
+    "url": "https://finotive.com/legal/legal-disclosure/",
+    "kind": "page"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Jurisdictions Complaints Get a callback [email\u00a0protected] \n \n \n \n Finotive One Limited is a Cyprus-registered",
+    "snippet": "onditions Privacy Policy Cookie Policy Legal Centre Legal Disclosure Risk Disclosure Restricted Jurisdictions Complaints Get a callback [email protected] Finotive One Limited is a Cyprus-registered company with company number HE481670 and registered office at Office 113, Block A, Agios Pavlos Ct, 228 Archbishop Makarios III Ave, 3030 Lima",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "restricted or sanctioned jurisdictions",
+    "snippet": "access, distribution, or use would be contrary to local law or regulation, including restricted or sanctioned jurisdictions. Finotive One Limited and other Finotive group entities may refuse, restrict, suspend, or terminate access where required or considered appropriate for legal, regulatory",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Restricted jurisdictions\n Finotive may restrict or prohibit access to the whole or any part of the Finotive ecosystem ba",
+    "snippet": "t submit false, altered, forged, stolen or misleading information or documents. 3.3 Restricted jurisdictions Finotive may restrict or prohibit access to the whole or any part of the Finotive ecosystem based on: applicable law; sanctions; regulatory requirements; payment-provider requirements; banking requirements; Trading Platform require",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "restricted jurisdictions may be published by Finotive and amended from time to time",
+    "snippet": "ppetite. Jurisdictional availability may differ between Services. A current list of restricted jurisdictions may be published by Finotive and amended from time to time. 3.4 Location and jurisdictional circumvention You must not: misrepresent your country of residence or location; use false documents or addresses; use another perso",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions Complaints Finotive One Limited \u00b7 Company number HE481670 \u00b7 Limassol, Cyprus\n\u00a9 2026 Finotive On",
+    "snippet": "unt, KYC and Data Sharing Privacy Policy Cookie Policy Website Terms Risk Disclosure Restricted Jurisdictions Complaints Finotive One Limited \u00b7 Company number HE481670 \u00b7 Limassol, Cyprus \u00a9 2026 Finotive One Limited. All rights reserved.",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions Complaints and Contact Back Finotive Legal Centre",
+    "snippet": "C and Data Sharing Privacy Policy Cookie Policy Website Terms of Use Risk Disclosure Restricted Jurisdictions Complaints and Contact Back Finotive Legal Centre. Last updated: 30 June 2026 This Legal Centre provides the legal, regulatory, risk, privacy, cookie, restricted-jurisdiction, and account-data disclosures that apply t",
+    "url": "https://finotive.com/legal/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunds and cancellations;\n product-specific consequences;\n Service-specific liability; and\n Service-specific governing ",
+    "snippet": ", margin and contract limits; permitted instruments and trading hours; execution; refunds and cancellations; product-specific consequences; Service-specific liability; and Service-specific governing law and disputes. Where a genuine conflict exists: mandatory law will apply first; the Service Terms will prevail in relation to the commerci",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "Refund or Cancellation Policies;\n applicable payment or promotional terms; and\n any other document expressly stated to a",
+    "snippet": "e Finotive One Account, KYC and Data Sharing Notice; the Cookie Policy; applicable Refund or Cancellation Policies; applicable payment or promotional terms; and any other document expressly stated to apply to the relevant Service. 1.11 New Services and entities Finotive may introduce additional Services or Service Providers from time to t",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refunds, withdrawals, rewards and other payments must be made to an account, wallet or payment destination owned and con",
+    "snippet": "ayment destinations Unless the applicable Service Terms expressly permit otherwise, refunds, withdrawals, rewards and other payments must be made to an account, wallet or payment destination owned and controlled by you. Finotive may request proof of ownership before processing a payment. 6.3 Chargebacks and payment abuse You must not init",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refund claim; or\n payment-provider complaint",
+    "snippet": "hargeback; card dispute; payment reversal; bank recall; cryptocurrency dispute; refund claim; or payment-provider complaint. Payment abuse may result in suspension, termination, recovery action and permanent exclusion. Nothing prevents you from raising a genuine payment dispute in good faith",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ear mission: give talented traders better access to capital through fairer conditions, clearer rules, and a more transpa",
+    "snippet": "ding ecosystem. 2021 Finotive Funding Launched Finotive Funding began with a clear mission: give talented traders better access to capital through fairer conditions, clearer rules, and a more transparent funding experience. From day one, the focus was on building trader-first technology, including one of the most innovative dashboards in ",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eated to power the execution layer behind Finotive Funding",
+    "snippet": "Countries Served 2022 Finotive Markets Introduced Finotive Markets was created to power the execution layer behind Finotive Funding. By taking greater control over liquidity providers, market depth, instruments, and trading conditions, Finotive was able to give funded traders more choice, tighter exe",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eater control over liquidity providers, market depth, instruments, and trading conditions, Finotive was able to give fun",
+    "snippet": "arkets was created to power the execution layer behind Finotive Funding. By taking greater control over liquidity providers, market depth, instruments, and trading conditions, Finotive was able to give funded traders more choice, tighter execution, and a more connected trading experience. 12.8M+ Executed Deals 74.4M+ Lots Executed 2023 Fi",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eals 74",
+    "snippet": "hoice, tighter execution, and a more connected trading experience. 12.8M+ Executed Deals 74.4M+ Lots Executed 2023 Finotive Pay Established Finotive Pay was built to reduce reliance on third-party payment rails and create a faster, more reliable paym",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eate a faster, more reliable payment layer for traders worldwide",
+    "snippet": "lished Finotive Pay was built to reduce reliance on third-party payment rails and create a faster, more reliable payment layer for traders worldwide. Through partnerships with Confirmo, Revolut, T365, and local payment providers, traders can move funds seamlessly across the Finotive ecosystem. $100M in Processed Vol",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "t, mobile telephone, operating-system installation, browser profile, remote desktop, VPS or hosted environment. \"Finotive\" means Finotive One and, where the context requires, the relevant Finotive Group Entity or Service Provider. Use of the collective term \"Finotive\" is for con",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "User ID; the date and time of acceptance; the document and version accepted; your IP address; your device, browser or session information; the Service concerned; and the relevant Service Provider. When you request, purchase, activate or use a Service after the applicable Service Terms have been presented or made available to you, you ente",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "tity; access a Service from a jurisdiction where that Service is prohibited; use a VPN, proxy, remote device or other method to bypass jurisdictional restrictions; or structure Accounts or payments to avoid eligibility controls. The use of a VPN or changing an IP address is not automatically a breach where used for legitimate security or ",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC, compliance, customer data, and group-access infrastructure used across the Finotive group",
+    "snippet": "rus. Finotive One Limited operates the central Finotive account, login, onboarding, KYC, compliance, customer data, and group-access infrastructure used across the Finotive group. When you create a Finotive One account, complete KYC, upload documents, access Finotive platforms, or use services offered under the Finotive brand, your inform",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC, upload documents, access Finotive platforms, or use services offered under the Finotive brand, your informat",
+    "snippet": "ure used across the Finotive group. When you create a Finotive One account, complete KYC, upload documents, access Finotive platforms, or use services offered under the Finotive brand, your information may be collected, verified, stored, processed, and shared by Finotive One Limited with relevant Finotive group entities for onboarding, id",
+    "url": "https://finotive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC Passport and Verification 6",
+    "snippet": "tions 3. Eligibility 4. Account Security, Device Use and Personal Access 5. Finotive KYC Passport and Verification 6. Payments and Payment Ownership 7. Fair Use and Trading Integrity 8. Use of Finotive Technology 9. Data and Privacy 10. Intellectual Property 11. Reviews, Suspension and",
+    "url": "https://finotive.com/legal/terms-and-conditions/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Futures",
+   "snippet": "Finotive Futures expands the ecosystem into the futures market, giving traders a structured path to futures evaluations, funded futures accounts, and new market opportunities. Built with the same trader-first approach, it adds more flexibility, more instruments, and another rou",
+   "url": "https://finotive.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "er-first technology, including one of the most innovative dashboards in the industry. 90,000+ Active Traders 183+ Countries Served 2022 Finotive Markets Introduced Finotive"
+ ],
+ "errors": []
+}

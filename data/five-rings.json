@@ -1,0 +1,182 @@
+{
+ "slug": "five-rings",
+ "name": "Five Rings",
+ "category": "Institutional",
+ "url": "https://fiverings.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fiverings.com/",
+   "kind": "home",
+   "chars": 1196
+  },
+  {
+   "url": "https://fiverings.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 135
+  },
+  {
+   "url": "https://fiverings.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 480
+  },
+  {
+   "url": "https://fiverings.com/attachment-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6562
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-map-lnd/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/bocaraton-map/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-map-lnd-1-web/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-map-ny/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-map-lnd-3/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/fiverings-amsterdam-web/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-banner/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/amsterdam-map/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-map-lnd-2/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-image-1/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-map-uk-2/",
+   "kind": "page",
+   "chars": 5
+  },
+  {
+   "url": "https://fiverings.com/contact/contact-image-1-2/",
+   "kind": "page",
+   "chars": 5
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 8448,
+ "findings": {
+  "legal_entity": [
+   {
+    "value": "The Book of Five Rings, Miyamoto Musa",
+    "snippet": "\u2026it is essential to keep your mind free from subjective biases. \u2013 The Book of Five Rings, Miyamoto Musashi Join our team. Apply Today \u00a92026 Five Rings New York | London Fraud and Impersonation Awareness",
+    "url": "https://fiverings.com/",
+    "kind": "home"
+   },
+   {
+    "value": "circle-imag",
+    "snippet": "erings.com/home/banner-slide-5/ 2017-09-04T19:44:00+00:00 https://fiverings.com/home/circle-image/ 2017-09-04T20:26:02+00:00 https://fiverings.com/positions/positions-banner/ 2017-09-04T21:08:14+00:00 https://fiverings.com/positions/positions-1/ 2017-09-04T21:17:00+",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "home-mid-imag",
+    "snippet": "iverings.com/home/home-slide-5/ 2017-09-22T00:51:40+00:00 https://fiverings.com/home/home-mid-image/ 2017-09-22T00:55:13+00:00 https://fiverings.com/team/team-image-1/ 2017-09-22T01:00:26+00:00 https://fiverings.com/team/team-image-2/ 2017-09-22T01:01:08+00:00 https:/",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "team-imag",
+    "snippet": "erings.com/home/home-mid-image/ 2017-09-22T00:55:13+00:00 https://fiverings.com/team/team-image-1/ 2017-09-22T01:00:26+00:00 https://fiverings.com/team/team-image-2/ 2017-09-22T01:01:08+00:00 https://fiverings.com/team/team-image-3/ 2017-09-22T01:01:18+00:00 https",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "positions-imag",
+    "snippet": "ngs.com/team/team-image-3/ 2017-09-22T01:01:18+00:00 https://fiverings.com/positions/positions-image-1/ 2017-09-22T01:04:35+00:00 https://fiverings.com/positions/positions-image-2/ 2017-09-22T01:05:09+00:00 https://fiverings.com/positions/positions-image-3/ 2017-09-22T",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "recruitment-imag",
+    "snippet": "positions-image-3/ 2017-09-22T01:05:19+00:00 https://fiverings.com/campus-recruiting/recruitment-image-1/ 2017-09-22T01:07:16+00:00 https://fiverings.com/apply/apply-image-1/ 2017-09-22T01:08:35+00:00 https://fiverings.com/contact/contact-image-1/ 2017-09-22T01:10:39+00:",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "apply-imag",
+    "snippet": "ecruiting/recruitment-image-1/ 2017-09-22T01:07:16+00:00 https://fiverings.com/apply/apply-image-1/ 2017-09-22T01:08:35+00:00 https://fiverings.com/contact/contact-image-1/ 2017-09-22T01:10:39+00:00 https://fiverings.com/contact/contact-image-2/ 2017-09-22T01:11:01",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "contact-imag",
+    "snippet": "ngs.com/apply/apply-image-1/ 2017-09-22T01:08:35+00:00 https://fiverings.com/contact/contact-image-1/ 2017-09-22T01:10:39+00:00 https://fiverings.com/contact/contact-image-2/ 2017-09-22T01:11:01+00:00 https://fiverings.com/contact/contact-image-3/ 2017-09-22T01:11:05",
+    "url": "https://fiverings.com/attachment-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eam \n Positions \n Campus Recruiting \n Apply \n Contact \n \n Building a superior team and an open and fun culture\n \n \n Work",
+    "snippet": "Home - Five Rings Team Positions Campus Recruiting Apply Contact Building a superior team and an open and fun culture Working together to solve problems Developing capable minds through strong mentorship Seeking out and pivoting towards the best opportunities Trading in a multit",
+    "url": "https://fiverings.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eams - quants, developers, traders - continuously designing and optimizing",
+    "snippet": "e objective at Five Rings: Find them first and profit from them quickly. We work in teams - quants, developers, traders - continuously designing and optimizing. Strategies are executed rapidly, from insight to implementation often within days or weeks. Five Rings is a team-first meritocracy built on constant innovation, where m",
+    "url": "https://fiverings.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam-first meritocracy built on constant innovation, where motivated, highly analytical individuals can thrive in almost ",
+    "snippet": "rapidly, from insight to implementation often within days or weeks. Five Rings is a team-first meritocracy built on constant innovation, where motivated, highly analytical individuals can thrive in almost any direction. Collaboration and mentoring are integral to our growth. Meet Some Of Us \u2026it is essential to keep yo",
+    "url": "https://fiverings.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam",
+    "snippet": "from subjective biases. \u2013 The Book of Five Rings, Miyamoto Musashi Join our team. Apply Today \u00a92026 Five Rings New York | London Fraud and Impersonation Awareness",
+    "url": "https://fiverings.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam/ 2017-10-03T06:57:59+00:00 https://fiverings",
+    "snippet": "https://fiverings.com/ 2020-12-04T23:19:56+00:00 https://fiverings.com/team/ 2017-10-03T06:57:59+00:00 https://fiverings.com/apply/ 2017-10-03T06:58:36+00:00 https://fiverings.com/positions/ 2022-10-03T08:05:42+00:00 https://fiverings.com/careers/ 2024-04-11T22:01:32+00:00 https://fivering",
+    "url": "https://fiverings.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

@@ -1,0 +1,161 @@
+{
+ "slug": "jump-trading",
+ "name": "Jump Trading",
+ "category": "Institutional",
+ "url": "https://www.jumptrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.jumptrading.com/",
+   "kind": "home",
+   "chars": 2747
+  },
+  {
+   "url": "https://www.jumptrading.com/fellowship-program",
+   "kind": "page",
+   "chars": 5675
+  }
+ ],
+ "page_count": 2,
+ "total_chars": 8423,
+ "findings": {
+  "prices": [
+   {
+    "value": "50,00",
+    "snippet": "hat Fellows Receive Real Resources Full tuition and fees for one academic year ~$50,000 stipend (adjusted per institution) No reporting requirements. No catch. Fellows are invited (but not required) to visit a Jump office, present their research, and con",
+    "url": "https://www.jumptrading.com/fellowship-program",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "gram Our Work AI/ML Technology Trading Signals Careers Join Us Network Jump Crypto Jump Capital Fraud & Scam Alert Policies Disclosures Bug Bounties \u00a9Jump Trading, All rights reserved",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "g strategy is grounded in research, stress-tested in real markets, and engineered to scale. Learn More Built to learn. Designed to trade. We build where infrastructure meets intelligence. Our ML stack powers live inference and fast iteration, deliv",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Chicag",
+    "snippet": "Bristol Shanghai Singapore London Austin New York Chicago Location One Who we are 25 Years trading, building, evolving Jump Trading is a global trading firm where smart people build remarkable things. We\u2019ve spe",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ing the research, infrastructure, and culture necessa",
+    "snippet": "rm where smart people build remarkable things. We\u2019ve spent over two decades developing the research, infrastructure, and culture necessary to create a home for people who believe trading is the most interesting problem in the world and want to solve it from every angle. We\u2019re traders, builders, engineers,",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Cross-disciplinary teams work from first princ",
+    "snippet": "on talent. We build teams with purpose, keep the bar high, and the focus sharp. Cross-disciplinary teams work from first principles to develop models, strategies, and systems that stand up to real-world conditions. Join Our Team Career Options How will you jump in? Experienced Candidate",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "our full-time roles and learn how we support high-ag",
+    "snippet": "ur Team Career Options How will you jump in? Experienced Candidates Explore our full-time roles and learn how we support high-agency professionals. View Open Roles Students & New Grads Explore internships and early-career roles for those ready to learn, build, and solve hard problems. View O",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ho weren't selected in previous years be nominated ag",
+    "snippet": "e not offering fellowships to students from non-US institutions. /04 Can students who weren't selected in previous years be nominated again? Yes, past candidates are eligible to be renominated if they were not chosen in previous years. /05 I\u2019m a faculty member and would like to nominate a student fo",
+    "url": "https://www.jumptrading.com/fellowship-program",
+    "kind": "page"
+   },
+   {
+    "value": "Can the sa",
+    "snippet": "should be coordinated with the appropriate nominating body at your university. /06 Can the same student be nominated for multiple fellowship categories if their research is relevant in multiple areas? Yes, if a student is doing inter-disciplinary research that",
+    "url": "https://www.jumptrading.com/fellowship-program",
+    "kind": "page"
+   },
+   {
+    "value": "Sina Sa",
+    "snippet": "7 Fellows Kyla de Villa Berkeley Planetary Materials Science & Interior Modeling Sina Saleh Harvard Algebraic & Arithmetic Dynamics Jaeyeon Kim Harvard Diffusion Models & Generative Models Mark Goldwater MIT Robust Probabilistic Machine Learning for",
+    "url": "https://www.jumptrading.com/fellowship-program",
+    "kind": "page"
+   },
+   {
+    "value": "LLM-integrated Statistical Learning & Reliable Ag",
+    "snippet": "ng for Marine Mammal Tracking & Ocean Environment Estimation Erica Zhang Stanford LLM-integrated Statistical Learning & Reliable Agentic Systems Carmen Strassle Stanford Theoretical Computer Science Bryce Cousins University of Illinois Urbana-Champaign Gravitational-wave Cosmology Lillian Payn",
+    "url": "https://www.jumptrading.com/fellowship-program",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earch & Programs\n \n Travel Grants Fellowship Program \n Join Our Team\n \n \n Join Us\n \n \n \n We build to win",
+    "snippet": "Jump Trading Careers AI/ML Technology Trading Signals Research & Programs Travel Grants Fellowship Program Join Our Team Join Us We build to win. Jump is where traders, engineers, and researchers solve hard problems. Every asset class. Every time horizon. No boundaries. Join Our Team Paris Hong Kong",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earchers solve hard problems",
+    "snippet": "r Team Join Us We build to win. Jump is where traders, engineers, and researchers solve hard problems. Every asset class. Every time horizon. No boundaries. Join Our Team Paris Hong Kong GIFT City Amsterdam Sydney Mumbai Bristol",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam\n \n \n \n Paris\n \n \n Hong Kong\n \n \n GIFT City\n \n \n Amsterdam\n \n \n Sydney\n \n \n Mumbai\n \n \n Bristol\n \n \n Shanghai\n \n \n Si",
+    "snippet": "olve hard problems. Every asset class. Every time horizon. No boundaries. Join Our Team Paris Hong Kong GIFT City Amsterdam Sydney Mumbai Bristol Shanghai Singapore London Austin New York Chicago Location One Who we are 25 Years trading, building, evolving Jump Trading is a global trading firm",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears trading, building, evolving \n Jump Trading is a global trading firm where smart people build remarkable things",
+    "snippet": "ondon Austin New York Chicago Location One Who we are 25 Years trading, building, evolving Jump Trading is a global trading firm where smart people build remarkable things. We\u2019ve spent over two decades developing the research, infrastructure, and culture necessary to create a home for people who believe trading is the most interesting pr",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earch, infrastructure, and culture necessary to create a home for people who believe trading is the most interesting pro",
+    "snippet": "art people build remarkable things. We\u2019ve spent over two decades developing the research, infrastructure, and culture necessary to create a home for people who believe trading is the most interesting problem in the world and want to solve it from every angle. We\u2019re traders, builders, engineers, and researchers obsessed with improving the ",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "info@jumptrading.com",
+    "snippet": "rn More We invest in what\u2019s next. Then we build it. Join Our Team Contact info@jumptrading.com mediainquiries@jumptrading.com Research & Programs Conference Travel Grants Fellowship Program Our Work AI/ML Technology Trading Signals Careers Join Us Ne",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mediainquiries@jumptrading.com",
+    "snippet": "in what\u2019s next. Then we build it. Join Our Team Contact info@jumptrading.com mediainquiries@jumptrading.com Research & Programs Conference Travel Grants Fellowship Program Our Work AI/ML Technology Trading Signals Careers Join Us Network Jump Crypto Jump Capital",
+    "url": "https://www.jumptrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "fellowships@jumptrading.com",
+    "snippet": "uld be submitted by the appropriate nominating body for your university via email to fellowships@jumptrading.com . Nominations received directly from the nominee or their advisor will not be considered. Research statement (1-2 pages) CV Letter of recommendation (2) - Two letters",
+    "url": "https://www.jumptrading.com/fellowship-program",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Crypto",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "0 9 7 5 0 0 5 4 3 0 + Employees 0 9 7 5 1 3 1 2 3 0 Offices 0 1 3 5 0 8 4 3 1 0 Countries A closer look at Jump Every asset class. Every time ho"
+ ],
+ "errors": []
+}

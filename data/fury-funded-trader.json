@@ -1,0 +1,24 @@
+{
+ "slug": "fury-funded-trader",
+ "name": "Fury Funded Trader",
+ "category": "Forex/CFD",
+ "url": "https://www.furyfundedtrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.furyfundedtrader.com/",
+   "kind": "home",
+   "chars": 51
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 51,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

@@ -1,0 +1,458 @@
+{
+ "slug": "noctorial",
+ "name": "Noctorial",
+ "category": "Forex/CFD",
+ "url": "https://noctorial.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://noctorial.com/",
+   "kind": "home",
+   "chars": 22952
+  },
+  {
+   "url": "https://noctorial.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 76
+  },
+  {
+   "url": "https://noctorial.com/sitemap_es.xml",
+   "kind": "sitemap",
+   "chars": 4687
+  },
+  {
+   "url": "https://noctorial.com/sitemap_en-US.xml",
+   "kind": "sitemap",
+   "chars": 4993
+  },
+  {
+   "url": "https://noctorial.com/academy/la-llave-de-tu-plan-b",
+   "kind": "page",
+   "chars": 12794
+  },
+  {
+   "url": "https://noctorial.com/plan-amigo",
+   "kind": "page",
+   "chars": 15637
+  },
+  {
+   "url": "https://noctorial.com/en/academy/la-llave-de-tu-plan-b",
+   "kind": "page",
+   "chars": 12625
+  },
+  {
+   "url": "https://noctorial.com/docs/el-challenge-1-fase",
+   "kind": "page",
+   "chars": 5064
+  },
+  {
+   "url": "https://noctorial.com/docs/el-challenge-2-fases",
+   "kind": "page",
+   "chars": 5168
+  },
+  {
+   "url": "https://noctorial.com/en/docs/el-challenge-1-fase-statis",
+   "kind": "page",
+   "chars": 5309
+  },
+  {
+   "url": "https://noctorial.com/en/docs/el-challenge-1-fase",
+   "kind": "page",
+   "chars": 4772
+  },
+  {
+   "url": "https://noctorial.com/docs/el-challenge-1-fase-statis",
+   "kind": "page",
+   "chars": 5345
+  },
+  {
+   "url": "https://noctorial.com/en/docs/el-challenge-2-fases",
+   "kind": "page",
+   "chars": 4937
+  },
+  {
+   "url": "https://noctorial.com/terms",
+   "kind": "page",
+   "chars": 33474
+  },
+  {
+   "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+   "kind": "page",
+   "chars": 2673
+  },
+  {
+   "url": "https://noctorial.com/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+   "kind": "page",
+   "chars": 2788
+  },
+  {
+   "url": "https://help.noctorial.com/",
+   "kind": "sub",
+   "chars": 698
+  },
+  {
+   "url": "https://help.noctorial.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 2318
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 146327,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "entender el trailing drawdown. Resumen de reglas Regla Evaluaci\u00f3n Cuenta Financiada Profit target 10% Ninguno Max drawdown 8% trailing 8% trailing Daily loss limit 4% din\u00e1mico 4% din\u00e1mico D\u00edas m\u00ednimos de trading 4 d\u00edas 4 d\u00edas por ciclo de payout Beneficio m\u00edni",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "strategia a tu manera. Resumen de reglas Regla Fase de Evaluaci\u00f3n Cuenta Financiada Profit target 8% Ninguno Max drawdown 6% est\u00e1tico 6% est\u00e1tico Daily loss limit 4% 4% D\u00edas m\u00ednimos de trading 5 d\u00edas operativos 5 d\u00edas operativos por ciclo Consistencia por operac",
+    "url": "https://noctorial.com/en/docs/el-challenge-1-fase-statis",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "enta Financiada Profit target 10% Ninguno Max drawdown 8% trailing 8% trailing Daily loss limit 4% din\u00e1mico 4% din\u00e1mico D\u00edas m\u00ednimos de trading 4 d\u00edas 4 d\u00edas por ciclo de payout Beneficio m\u00ednimo diario Ninguno Ninguno Cierre autom\u00e1tico (Hard Breach) 1,1% p\u00e9rd",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "8",
+    "snippet": ". Resumen de reglas Regla Evaluaci\u00f3n Cuenta Financiada Profit target 10% Ninguno Max drawdown 8% trailing 8% trailing Daily loss limit 4% din\u00e1mico 4% din\u00e1mico D\u00edas m\u00ednimos de trading 4 d\u00edas 4 d\u00edas por ciclo de payout Beneficio m\u00ednimo diario Ninguno Ninguno",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "umen de reglas Regla Fase de Evaluaci\u00f3n Cuenta Financiada Profit target 8% Ninguno Max drawdown 6% est\u00e1tico 6% est\u00e1tico Daily loss limit 4% 4% D\u00edas m\u00ednimos de trading 5 d\u00edas operativos 5 d\u00edas operativos por ciclo Consistencia por operaci\u00f3n \u2014 M\u00e1ximo 40% del bene",
+    "url": "https://noctorial.com/en/docs/el-challenge-1-fase-statis",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": ",1% p\u00e9rdida flotante Riesgo recomendado por operaci\u00f3n 0.5% 0.5% Profit share \u2014 80%, hasta el 100% Primer payout \u2014 Tras 30 d\u00edas de trading Payouts posteriores \u2014 Cada 14 d\u00edas naturales 1. Profit Target: 10% Haz crecer tu cuenta simulada un 10%. Sin l\u00edmite de tiempo. Cualquier",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "4",
+    "snippet": "e Max drawdown 8% trailing 8% trailing Daily loss limit 4% dynamic 4% dynamic Minimum trading days 4 days 4 days per payout cycle Minimum daily profit None None Automatic closure (Hard Breach) 1.1% floating loss 1.1% floating loss Recommended risk per trade 0.5",
+    "url": "https://noctorial.com/en/docs/el-challenge-1-fase",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "120",
+    "snippet": "d be part of the community that is transforming trading. Apply for scholarship +\u20ac120M Delivered to funded traders We have delivered over 120 million to our traders so they can trade without risking their capital. 50k Traders Thousands of people have",
+    "url": "https://noctorial.com/en/academy/la-llave-de-tu-plan-b",
+    "kind": "page"
+   },
+   {
+    "value": "25.00",
+    "snippet": "ios, simplemente sube a medida que tu saldo crece. Ejemplo: Comienzas una cuenta de $25.000. Tu diferencial fijo es $2.000. D\u00eda 1: Saldo $25.000 \u2192 Suelo en $23.000 D\u00eda 2: Cierras una operaci\u00f3n ganadora, el saldo sube a $26.500 \u2192 El suelo sube a $24.500 D\u00eda",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "2.00",
+    "snippet": "ue tu saldo crece. Ejemplo: Comienzas una cuenta de $25.000. Tu diferencial fijo es $2.000. D\u00eda 1: Saldo $25.000 \u2192 Suelo en $23.000 D\u00eda 2: Cierras una operaci\u00f3n ganadora, el saldo sube a $26.500 \u2192 El suelo sube a $24.500 D\u00eda 3: Cierras otra ganadora, el sa",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "23.00",
+    "snippet": "a cuenta de $25.000. Tu diferencial fijo es $2.000. D\u00eda 1: Saldo $25.000 \u2192 Suelo en $23.000 D\u00eda 2: Cierras una operaci\u00f3n ganadora, el saldo sube a $26.500 \u2192 El suelo sube a $24.500 D\u00eda 3: Cierras otra ganadora, el saldo sube a $28.000 \u2192 El suelo sube a $26.0",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "26.50",
+    "snippet": "o $25.000 \u2192 Suelo en $23.000 D\u00eda 2: Cierras una operaci\u00f3n ganadora, el saldo sube a $26.500 \u2192 El suelo sube a $24.500 D\u00eda 3: Cierras otra ganadora, el saldo sube a $28.000 \u2192 El suelo sube a $26.000 D\u00eda 4: Abres una nueva operaci\u00f3n. El mercado va en tu contra",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "24.50",
+    "snippet": "00 D\u00eda 2: Cierras una operaci\u00f3n ganadora, el saldo sube a $26.500 \u2192 El suelo sube a $24.500 D\u00eda 3: Cierras otra ganadora, el saldo sube a $28.000 \u2192 El suelo sube a $26.000 D\u00eda 4: Abres una nueva operaci\u00f3n. El mercado va en tu contra. Tu equity cae a $25.999.",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "28.00",
+    "snippet": "e a $26.500 \u2192 El suelo sube a $24.500 D\u00eda 3: Cierras otra ganadora, el saldo sube a $28.000 \u2192 El suelo sube a $26.000 D\u00eda 4: Abres una nueva operaci\u00f3n. El mercado va en tu contra. Tu equity cae a $25.999. Infracci\u00f3n activada, cuenta cerrada de inmediato. Tu",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "26.00",
+    "snippet": "e a $24.500 D\u00eda 3: Cierras otra ganadora, el saldo sube a $28.000 \u2192 El suelo sube a $26.000 D\u00eda 4: Abres una nueva operaci\u00f3n. El mercado va en tu contra. Tu equity cae a $25.999. Infracci\u00f3n activada, cuenta cerrada de inmediato. Tu saldo cerrado segu\u00eda sien",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "25.99",
+    "snippet": "6.000 D\u00eda 4: Abres una nueva operaci\u00f3n. El mercado va en tu contra. Tu equity cae a $25.999. Infracci\u00f3n activada, cuenta cerrada de inmediato. Tu saldo cerrado segu\u00eda siendo $28.000. Pero tu equity cruz\u00f3 el suelo. Con eso basta. 3. Daily Loss Limit: 4% din\u00e1",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "275",
+    "snippet": "en la cuenta financiada. Ejemplo: En una cuenta de $25.000, una p\u00e9rdida flotante de $275 o m\u00e1s en posiciones abiertas simult\u00e1neamente activa el cierre autom\u00e1tico. El margen de 0,6 puntos entre tu riesgo recomendado (0.5%) y el umbral de cierre (1,1%) existe",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "27.00",
+    "snippet": "lo est\u00e1tico queda fijado en $23.000 (un 8% por debajo). Da igual que tu saldo suba a $27.000 durante la fase: el suelo seguir\u00e1 en $23.000. Si tu equity toca ese nivel en cualquier momento, aunque sea por un instante, la cuenta se cierra. 3. Daily Loss Limit: 4",
+    "url": "https://noctorial.com/docs/el-challenge-2-fases",
+    "kind": "page"
+   },
+   {
+    "value": "50.00",
+    "snippet": "siempre un 6% por debajo de tu saldo inicial. \u2022 Ejemplo: Empiezas con una cuenta de $50.000. Tu suelo est\u00e1tico se fija de forma permanente en $47.000. Si tu saldo sube a $54.000, tu l\u00edmite de p\u00e9rdida total seguir\u00e1 estando en $47.000. 3. Daily Loss Limit: 4% C",
+    "url": "https://noctorial.com/en/docs/el-challenge-1-fase-statis",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "n beneficio m\u00ednimo diario. Es el camino m\u00e1s r\u00e1pido, pero antes necesitas entender el trailing drawdown. Resumen de reglas Regla Evaluaci\u00f3n Cuenta Financiada Profit target 10% Ninguno Max drawdown 8% trailing 8% trailing Daily loss limit 4% din\u00e1mico 4% din\u00e1mico D",
+    "url": "https://noctorial.com/docs/el-challenge-1-fase",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule violation\n An individual trade representing more than 25% of total profit\n Flagged lot si",
+    "snippet": "8 business hours from approval. What can delay or block a withdrawal An unresolved consistency rule violation An individual trade representing more than 25% of total profit Flagged lot size behavior Stop loss not correctly set within the first minute of the trade The use of prohibited strategies Prohibited strategies Go back Trading condi",
+    "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "daily",
+    "snippet": "Daily loss limit 4% dynamic 4% dynamic Minimum trading days 4 days 4 days per payout cycle Minimum daily profit None None Automatic closure (Hard Breach) 1.1% floating loss 1.1% floating loss Recommended risk per trade 0.5% 0.5% Profit share \u2014 80%, up to 100% Fi",
+    "url": "https://noctorial.com/en/docs/el-challenge-1-fase",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "We are committed to processing payments quickly and securely, whether by transfer or cryptocurrency. +1.000 Positive reviews on Trustpilot Our clients endorse us, with over 1,200 positive reviews guaranteeing the success of our users.",
+    "url": "https://noctorial.com/en/academy/la-llave-de-tu-plan-b",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "1: Balance $25,000 \u2192 Floor at $23,000 Day 2: You close a winning trade, the balance rises to $26,500 \u2192 The floor rises to $24,500 Day 3: You close another winner, the balance rises to $28,000 \u2192 The floor rises to $26,000 Day 4: You open a new trade. The ma",
+    "url": "https://noctorial.com/en/docs/el-challenge-1-fase",
+    "kind": "page"
+   },
+   {
+    "value": "Bank transfer",
+    "snippet": "drawal Withdrawals are requested from your Private Area in the Withdrawals section. Bank transfer and cryptocurrencies are supported. Processing takes between 24 and 48 business hours from approval. What can delay or block a withdrawal An unresolved consistency rul",
+    "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "gia basada en Elliott y smart money, combina trading con su trabajo y quiere seguir escalando capital. Valora la paciencia y el soporte de Noctorial. Historia de \u00e9xito La estrat\u00e9gia m\u00e1s simple para pasar challenges Majo pas\u00f3 de formarse sola a vivir del trading hacie",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "r-hugo https://noctorial.com/academy/j-c-trading-house https://noctorial.com/academy/mastery-trader https://noctorial.com/academy/elena-var%C3%B3n-recio https://noctorial.com/academy/academia-lotus https://noctorial.com/academy/structurman https://noctorial.com/academy/funded-trading ht",
+    "url": "https://noctorial.com/sitemap_es.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Select Languag",
+    "snippet": "ona Nuestras cuentas Reglas Sobre nosotros \u00c1rea cliente Empezar nuevo reto Select Language Espa\u00f1ol Desde 2022 ayudando a traders a crecer sin riesgo Desde 2022 ayudando a traders a crecer sin riesgo Aprende y convi\u00e9rtete en un",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "n. Si demuestras que sa",
+    "snippet": "ncia Demuestras consistencia Opera con estrategia y disciplina durante la evaluaci\u00f3n. Si demuestras que sabes gestionar el riesgo y operar con consistencia, conseguir\u00e1s tu cuenta fondeada. ')\"> ');transform:rotate(90deg)\"> 03 03 Recibes tu recompensa Recibes tu",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Recibes tu recompensa",
+    "snippet": "conseguir\u00e1s tu cuenta fondeada. ')\"> ');transform:rotate(90deg)\"> 03 03 Recibes tu recompensa Recibes tu recompensa Con tu cuenta fondeada, retira entre el 80% y el 100% de los beneficios que generes. En cuanto tu solicitud sea aprobada, recibes el pago en meno",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "En cuanto tu solicitud sea aprobada, recibes el pag",
+    "snippet": "Con tu cuenta fondeada, retira entre el 80% y el 100% de los beneficios que generes. En cuanto tu solicitud sea aprobada, recibes el pago en menos de 24 horas. +120M\u20ac Entregados a traders fondeados Hemos entregado m\u00e1s de 120 millones a nuestros traders para que puedan operar sin arriesgar s",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Tiempo de pag",
+    "snippet": "les de personas han confiado en Noctorial para poner a prueba sus habilidades. 24h Tiempo de pago Nos comprometemos a procesar los pagos de manera r\u00e1pida y segura, tanto por transferencia como por criptomonedas +2.000 Rese\u00f1as positivas en trustpilot Nuestros cl",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Nos comprometemos a procesar los pag",
+    "snippet": "han confiado en Noctorial para poner a prueba sus habilidades. 24h Tiempo de pago Nos comprometemos a procesar los pagos de manera r\u00e1pida y segura, tanto por transferencia como por criptomonedas +2.000 Rese\u00f1as positivas en trustpilot Nuestros clientes nos avalan, tenemos m\u00e1s de 1.200",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Elige tu desa",
+    "snippet": "enemos m\u00e1s de 1.200 rese\u00f1as positivas que garantizan el \u00e9xito de nuestros usuarios. Elige tu desafio Y empieza a operar hoy Elige tu cuenta seg\u00fan tu prioridad: control, equilibrio o velocidad OFERTA 4\u00ba ANIVERSARIO NOCTORIAL 40% OFF + Addon Restablecimiento GRATIS",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ANIVERSA",
+    "snippet": "hoy Elige tu cuenta seg\u00fan tu prioridad: control, equilibrio o velocidad OFERTA 4\u00ba ANIVERSARIO NOCTORIAL 40% OFF + Addon Restablecimiento GRATIS \ud83c\udf81 Compra tu cuenta con 40% OFF y canjea tu addon Restablecimiento GRATIS Instant -40% 1 Step -",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00737",
+    "snippet": "located at Ground Floor, Rodney Court Building, Rodney Bay, Gros-Islet, Saint Lucia (Company No. 2025-00737). All trading takes place using virtual funds in a simulated environment and does not involve real financial risk or actual financial instruments. The Website noctorial.",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted countries: Pakistan, Iran, Syria, Myanmar, Bangladesh, North Korea, the Russian Federation, the Republic of B",
+    "snippet": "t aim to identify and cultivate trading talent within a fully simulated environment. Restricted countries: Pakistan, Iran, Syria, Myanmar, Bangladesh, North Korea, the Russian Federation, the Republic of Belarus, Cuba, Lebanon, Libya, Sudan, UAE, Crimea, Donetsk and Luhansk regions of Ukraine, or any country on any sanctions list of the U",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund of your evaluation fee\n If you purchased a 1-Phase or 2-Phase challenge and your first withdrawal in the funded a",
+    "snippet": "um withdrawal: 1% of your starting balance per cycle Maximum withdrawal: no limit Refund of your evaluation fee If you purchased a 1-Phase or 2-Phase challenge and your first withdrawal in the funded account is approved, we will refund the price paid for the program (excluding add-ons and processing fees). The refund is paid together with",
+    "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+    "kind": "page"
+   },
+   {
+    "value": "refund the price paid for the program (excluding add-ons and processing fees)",
+    "snippet": "Phase challenge and your first withdrawal in the funded account is approved, we will refund the price paid for the program (excluding add-ons and processing fees). The refund is paid together with that first payout. Only applies to challenges with evaluation (1-Phase and 2-Phase); does not apply to Instant Funding . If you purch",
+    "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+    "kind": "page"
+   },
+   {
+    "value": "refund is paid together with that first payout",
+    "snippet": "l refund the price paid for the program (excluding add-ons and processing fees). The refund is paid together with that first payout. Only applies to challenges with evaluation (1-Phase and 2-Phase); does not apply to Instant Funding . If you purchased an add-on that modifies this refund (for exampl",
+    "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+    "kind": "page"
+   },
+   {
+    "value": "refund (for example, \"150% Refund\"), the conditions of that add-on prevail",
+    "snippet": "; does not apply to Instant Funding . If you purchased an add-on that modifies this refund (for example, \"150% Refund\"), the conditions of that add-on prevail. The right to a refund is lost if your first withdrawal is denied (fully or partially), if the account is closed before a first payout is approved, if you do not pass t",
+    "url": "https://noctorial.com/en/docs/payouts-c%C3%B3mo-y-cu%C3%A1ndo-cobras",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ea cliente\n Empezar nuevo reto\n Select Language Espa\u00f1ol \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Desde 2022 ayudando a traders a cr",
+    "snippet": "Ver Oferta C\u00f3mo funciona Nuestras cuentas Reglas Sobre nosotros \u00c1rea cliente Empezar nuevo reto Select Language Espa\u00f1ol Desde 2022 ayudando a traders a crecer sin riesgo Desde 2022 ayudando a traders a crecer sin riesgo Aprende y convi\u00e9rtete en un trader rentable, sin arriesgar tu capital Opera en un entorno profesional c",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eada",
+    "snippet": "s que sabes gestionar el riesgo y operar con consistencia, conseguir\u00e1s tu cuenta fondeada. ')\"> ');transform:rotate(90deg)\"> 03 03 Recibes tu recompensa Recibes tu recompensa Con tu cuenta fondeada, retira entre el 80% y el 100% de los benefici",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eada, retira entre el 80% y el 100% de los beneficios que generes",
+    "snippet": "0deg)\"> 03 03 Recibes tu recompensa Recibes tu recompensa Con tu cuenta fondeada, retira entre el 80% y el 100% de los beneficios que generes. En cuanto tu solicitud sea aprobada, recibes el pago en menos de 24 horas. +120M\u20ac Entregados a traders fondeados Hemos entregado m\u00e1s de 120 millones a nu",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ea aprobada, recibes el pago en menos de 24 horas",
+    "snippet": "retira entre el 80% y el 100% de los beneficios que generes. En cuanto tu solicitud sea aprobada, recibes el pago en menos de 24 horas. +120M\u20ac Entregados a traders fondeados Hemos entregado m\u00e1s de 120 millones a nuestros traders para que puedan operar sin arriesgar su capital. 60k Trade",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eados\n Hemos entregado m\u00e1s de 120 millones a nuestros traders para que puedan operar sin arriesgar su capital",
+    "snippet": "recibes el pago en menos de 24 horas. +120M\u20ac Entregados a traders fondeados Hemos entregado m\u00e1s de 120 millones a nuestros traders para que puedan operar sin arriesgar su capital. 60k Traders Miles de personas han confiado en Noctorial para poner a prueba sus habilidades. 24h Tiempo de pago Nos comprometemos a procesar los pagos de manera",
+    "url": "https://noctorial.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@noctorial.com",
+    "snippet": "ble. 14.3. Antes de iniciar un chargeback , el usuario deber\u00e1 contactar a soporte ( support@noctorial.com ). Los chargebacks abusivos podr\u00e1n conllevar bloqueo permanente de cuentas y/o acciones para recuperar costes administrativos y legales . 14.4. Reembolso de la tasa de",
+    "url": "https://noctorial.com/terms",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ramas El challenge 1 fase El challenge 2 fases El challenge 1 fase static Tu cuenta financiada Instant funding Reglas y normas Infracciones graves: qu\u00e9 son y c\u00f3mo evitarlas Est\u00e1ndares de consistencia: c\u00f3mo funcionan y por qu\u00e9 existen Estrategias prohibidas Tu c",
+   "url": "https://noctorial.com/docs/el-challenge-1-fase"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "deo empieza aqu\u00ed 01 01 Compras tu evaluaci\u00f3n Compras tu evaluaci\u00f3n Elige el tipo de cuenta \u2014 1-Step, 2-Step o Instant \u2014 y el capital con el que quieres operar: desde 5.000\u20ac hasta 250.000\u20ac. Hoy con un 30% de descuento en toda la gama. ')\"> ');transform:r",
+   "url": "https://noctorial.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "eza aqu\u00ed 01 01 Compras tu evaluaci\u00f3n Compras tu evaluaci\u00f3n Elige el tipo de cuenta \u2014 1-Step, 2-Step o Instant \u2014 y el capital con el que quieres operar: desde 5.000\u20ac hasta 250.000\u20ac. Hoy con un 30% de descuento en toda la gama. ')\"> ');transform:rotate(90",
+   "url": "https://noctorial.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "o y forma parte de la comunidad que est\u00e1 transformando el trading. Empezar reto Empezar reto Free trial C\u00f3mo funciona Tu camino al fondeo empieza aqu\u00ed Tu camino al fondeo empieza aqu\u00ed 01 01 Compras tu evaluaci\u00f3n Compras",
+   "url": "https://noctorial.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5"
+ ],
+ "assets": [
+  "Forex"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "dos Hemos entregado m\u00e1s de 120 millones a nuestros traders para que puedan operar sin arriesgar su capital. 60k Traders Miles de personas han confiado en Noctorial para poner a p",
+  "6 https://noctorial.com/evergreen-oct26 https://noctorial.com/academy/test https://noctorial.com/academy/study4traders https://noctorial.com/academy/academia-dragos https://nocto",
+  "l.com/en/blog/trading-algoritmico https://noctorial.com/en/academy/test https://noctorial.com/en/academy/study4traders https://noctorial.com/en/academy/academia-dragos https://no",
+  "dos Hemos entregado m\u00e1s de 120 millones a nuestros traders para que puedan operar sin arriesgar su capital. 50k Traders Miles de personas han confiado en Noctorial para poner a p",
+  "torial tiene beneficios para ambos. Empieza ahora Empieza ahora Trustpilot Trustpilot 60.000+ 60.000+ Traders Traders Plataforma Plataforma Profesional Profesiona",
+  "traders We have delivered over 120 million to our traders so they can trade without risking their capital. 50k Traders Thousands of people have trusted Noctorial to test their s"
+ ],
+ "errors": []
+}

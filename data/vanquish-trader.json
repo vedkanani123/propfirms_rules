@@ -1,0 +1,384 @@
+{
+ "slug": "vanquish-trader",
+ "name": "Vanquish Trader",
+ "category": "Forex/CFD",
+ "url": "https://vanquishtrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.vanquishtrader.com/",
+   "kind": "home",
+   "chars": 4711
+  },
+  {
+   "url": "https://www.vanquishtrader.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 98
+  },
+  {
+   "url": "https://www.vanquishtrader.com/sitemap/static.xml",
+   "kind": "sitemap",
+   "chars": 515
+  },
+  {
+   "url": "https://www.vanquishtrader.com/sitemap/learn.xml",
+   "kind": "sitemap",
+   "chars": 105
+  },
+  {
+   "url": "https://www.vanquishtrader.com/plans",
+   "kind": "page",
+   "chars": 132
+  },
+  {
+   "url": "https://www.vanquishtrader.com/terms",
+   "kind": "page",
+   "chars": 26676
+  },
+  {
+   "url": "https://www.vanquishtrader.com/about",
+   "kind": "page",
+   "chars": 3148
+  },
+  {
+   "url": "https://support.vanquishtrader.com/en/",
+   "kind": "sub",
+   "chars": 1250
+  },
+  {
+   "url": "https://support.vanquishtrader.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 4560
+  }
+ ],
+ "page_count": 9,
+ "total_chars": 41203,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "tions $10,000 $50,000 $75,000 $100,000 $150,000 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 10 10 trades Can take as many trades as needed Consistency 30% 30% (Best trade/Total P",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "y of the products traded. The drawdown is relative to a Qualified Customer\u2019s maximum profit target which is 6% and 10% for options trades. If the balance of your Performance Account is under the Target PNL for Options, or for Equities/Futures/Forex/Crypto, you either will not qua",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "3",
+    "snippet": "fied Customers are using sophisticated risk management in their decision making. The maximum drawdown is 3% on Futures, Forex, Equities, and Crypto, and Options trades get a maximum drawdown of 5% due to the higher volatility of the products traded. The drawdown is relative to",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "mum drawdown is 3% on Futures, Forex, Equities, and Crypto, and Options trades get a maximum drawdown of 5% due to the higher volatility of the products traded. The drawdown is relative to a Qualified Customer\u2019s maximum profit target which is 6% and 10% for options trades. If",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "eature Vanquish Others Options & Advanced Options 10-trade evaluation Unlimited time 100% Profit share Instant payouts OFFICIAL PARTNER Trusted by the Faces of Wall Street \u201cWSGTA is proud to partner with Vanquish Trader, our preferred options prop firm for helping traders bridge the",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "4",
+    "snippet": "ling End of Day Trailing End of Day Trailing End of Day Trailing End of Day Trailing Minimum Trading Days 4 4 4 4 4 Daily Consistency 30% 30% 30% 30% 30% Options Account Balance 10k 50k 75k 100k 150k Target PNL 10% 10% 10% 10% 10% Max Drawdown 5% 5% 5% 5% 5% Drawdown Type Tra",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "150",
+    "snippet": "00.00 Fast Payouts Because your profit is yours. Serious Capital Accounts up to $150k . From Challenge to Live in Record Time No endless loops. No games. Just a straight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $15",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "10",
+    "snippet": "ts. Prop trading done right. Get funded today Trusted by Options Traders Worldwide $10M+ Paid Out to Traders 20,000+ Active Users 4.1 \u2605 Trustpilot Rating 15 min Average Payout Time Built for Traders Who Demand More Trade Options. Get Funded Built",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": ". No Hidden Rules No fine print, no surprises. Amount Request Payout Available: $1,000.00 Fast Payouts Because your profit is yours. Serious Capital Accounts up to $150k . From Challenge to Live in Record Time No endless loops. No games. Just a s",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "00.00 Fast Payouts Because your profit is yours. Serious Capital Accounts up to $150k . From Challenge to Live in Record Time No endless loops. No games. Just a straight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $1",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "ndless loops. No games. Just a straight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $150,000 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 1",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "oops. No games. Just a straight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $150,000 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 10 10 tra",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75,00",
+    "snippet": "games. Just a straight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $150,000 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 10 10 trades Can",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "Just a straight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $150,000 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 10 10 trades Can take as",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "raight path to funding. Options Advanced Options $10,000 $50,000 $75,000 $100,000 $150,000 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 10 10 trades Can take as many trad",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500.00",
+    "snippet": "ed Consistency 30% 30% (Best trade/Total Profits = Consistency) Loss Limit 5% 5% ($500.00) From unrealized equity peak Drawdown Type Intraday Trailing Intraday Trailing Your loss limit trails in real time with your highest unrealized balance during the tra",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "49",
+    "snippet": "day Trading Permissions Options Options Only long calls and long puts Reset cost $49 No margin \u00b7 No time limit \u00b7 No overnight positions All trades must be closed by 3:59pm EST or they will be auto liquidated as a market order SPX, XSP and VIX can onl",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250",
+    "snippet": "Evaluation 2 Performance Profit Target None No profit target Minimum payout of $250 Minimum Trades Unlimited Consistency 30% 30% (Best trade/Total Profits = Consistency) Loss Limit 5% 5% ($500.00) Trailing (Accounts can breach loss limit intraday)",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0.00",
+    "snippet": "| Vanquish Skip to content Trading Plans & Evaluations Add new account Subtotal $ 0.00 Review order",
+    "url": "https://www.vanquishtrader.com/plans",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "Vanquish Trading\u2019s risk system uses a defined maximum drawdown, minimum trades, and trailing drawdown to make sure Qualified Customers are using sophisticated risk management in their decision making. The maximum drawdown is 3% on Futures, Forex, Equities, and Crypto, an",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "End-of-Day",
+    "snippet": "at performance is measured over time rather than based on a small number of trades. End-of-Day Drawdown: This rule assesses account balance at the close of each trading day. If losses exceed the predefined threshold at the end of any trading day, the account may be subject",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule: This rule requires that users maintain reasonably consistent trading behavior on a day-t",
+    "snippet": ", a strict limit is enforced on the total allowable loss from peak to trough. Daily Consistency Rule: This rule requires that users maintain reasonably consistent trading behavior on a day-to-day basis to avoid high-risk, high-variance strategies. Minimum Trading Days: Users must actively trade for a minimum number of days during the eval",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule\n In evaluation and Performance Account, no one trade can make up for 30% of total profits",
+    "snippet": "Qualified Customers, depending on the balance of their Performance Account: Trader consistency rule In evaluation and Performance Account, no one trade can make up for 30% of total profits. Payout rules The total payout received by a Qualified Customer depends on the number of successful trades above their initial simulated balance and th",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "the trading day Trading Permissions Options Options Only long calls and long puts Payout Frequency Daily No margin \u00b7 No time limit \u00b7 No overnight positions All trades must be closed by 3:59pm EST or they will be auto liquidated as a market order SPX, XSP and VIX can onl",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "for options and advanced options traders. No Hidden Rules No fine print, no surprises. Amount Request Payout Available: $1,000.00 Fast Payouts Because your profit is yours. Serious Capital Accounts up to $150k . From Challenge to Live in Record",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "y by Vanquish) to be eligible for a Performance Account in Stocks, Options, Futures, Crypto, or Fortex (together, an \u201c Account Type \u201d), and has received a certificate of completion and invitation from Vanquish to participate in the Program; and Maintains an ac",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "WISE",
+    "snippet": "THE PLATFORM IN TERMS OF ITS CORRECTNESS, ACCURACY, RELIABILITY, TIMELINESS OR OTHERWISE. Vanquish is in no way responsible or liable for any trade that a Qualified Customer believes was submitted but that is not reflected in their Performance Account. There",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "parameters of this system vary depending on the type of plan selected by the user. Basic Plans For users enrolled in a Basic Plan (Equities or Options), the following risk controls apply: Maximum Drawdown: A predefined threshold is set to limit the maximum cumulative loss that an account can incur. If this threshold is exceeded, the accou",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "sca",
+    "snippet": "is often out of reach for independent retail traders. In today\u2019s retail options landscape, many new traders operate without clear rules or risk management frameworks. Our system addresses this gap by encouraging the use of defined stop losses, disciplined position sizing, and consistent trade planning\u2014all essential components of long",
+    "url": "https://www.vanquishtrader.com/about",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Averag",
+    "snippet": "$10M+ Paid Out to Traders 20,000+ Active Users 4.1 \u2605 Trustpilot Rating 15 min Average Payout Time Built for Traders Who Demand More Trade Options. Get Funded Built for options and advanced options traders. No Hidden Rules No fine print, no surpris",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Minimum Trades Unlimited",
+    "snippet": "tion 2 Performance Profit Target None No profit target Minimum payout of $250 Minimum Trades Unlimited Consistency 30% 30% (Best trade/Total Profits = Consistency) Loss Limit 5% 5% ($500.00) Trailing (Accounts can breach loss limit intraday) Until buffer Drawdown Ty",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s Options & Advanced Options 10-trade evaluation Unlimited",
+    "snippet": "oose Vanquish Other firms talk about funding. We deliver it. Feature Vanquish Others Options & Advanced Options 10-trade evaluation Unlimited time 100% Profit share Instant payouts OFFICIAL PARTNER Trusted by the Faces of Wall Street \u201cWSGTA is proud to partner with Vanquish Trader, our preferred options pr",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "What Our Options Traders Sa",
+    "snippet": "orld trading experience.\u201d \u2014 Wall Street Global Trading Academy RATED ON TRUSTPILOT What Our Options Traders Say Trustpilot PLATFORMS Trade How You Want Seamless integration with leading platforms so you can execute with confidence. Android DxTrade Google Play Web DxTrade",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instag",
+    "snippet": "gies. Download on the App Store Get it on Google Play Social Discord X (Twitter) Instagram Explore Plans Learn Help Center Webtrader Vanquish Trader provides simulated trading challenges and evaluations for educational and skill-assessment purposes onl",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "tax obligations. They are not investment returns, wag",
+    "snippet": "trading results, subject to our program rules, eligibility criteria, and applicable tax obligations. They are not investment returns, wages, or proceeds from real trading. Use of this site is governed by our Terms of Use and Privacy Policy. \u00a9 Vanquish Trader 2026 - Privacy policy Terms",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "E PROGRAM SERVES AS YOUR WILLFUL ACCEPTANCE OF AND AG",
+    "snippet": "ions Simulated Vanquish Trading Program Terms & Conditions YOUR PARTICIPATION IN THE PROGRAM SERVES AS YOUR WILLFUL ACCEPTANCE OF AND AGREEMENT TO COMPLY WITH THESE TERMS AND CONDITIONS. DO NOT PARTICIPATE IF YOU DO NOT AGREE WITH THESE APPLICABLE TERMS & CONDITIONS. By participating in the Program, you a",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "S AND CONDITIONS. DO NOT PARTICIPATE IF YOU DO NOT AG",
+    "snippet": "PROGRAM SERVES AS YOUR WILLFUL ACCEPTANCE OF AND AGREEMENT TO COMPLY WITH THESE TERMS AND CONDITIONS. DO NOT PARTICIPATE IF YOU DO NOT AGREE WITH THESE APPLICABLE TERMS & CONDITIONS. By participating in the Program, you also agree to be bound by any other terms applicable to your account, which are hereby",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn Affiliate Webtrader Login Sign up \n \n The First Prop Firm to Offer Options Trading\n Simple rules",
+    "snippet": "ontent 50% OFF Options Trading Plans Use code: TWO Ends soon Plans Help Center Learn Affiliate Webtrader Login Sign up The First Prop Firm to Offer Options Trading Simple rules. Fast payouts. Prop trading done right. Get funded today Trusted by Options Traders Worldwide $10M+ Paid Out to Traders 20,000+ Active Users 4.1 \u2605 Trustpilot Ratin",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each $1,000",
+    "snippet": "0 1 Evaluation 2 Performance Profit Target 10% 10% ($1,000.00) You need to reach $1,000.00 in profits to pass Minimum Trades 10 10 trades Can take as many trades as needed Consistency 30% 30% (Best trade/Total Profits = Consistency) Loss Limit 5% 5% ($",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ealized equity peak\n Drawdown Type Intraday Trailing Intraday Trailing\n Your loss limit trails in real time with your hi",
+    "snippet": "% 30% (Best trade/Total Profits = Consistency) Loss Limit 5% 5% ($500.00) From unrealized equity peak Drawdown Type Intraday Trailing Intraday Trailing Your loss limit trails in real time with your highest unrealized balance during the trading day Trading Permissions Options Options Only long calls and long puts Reset cost $49 No margin \u00b7",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ealized balance during the trading day\n Trading Permissions Options Options\n Only long calls and long puts\n Reset cost $",
+    "snippet": "Trailing Intraday Trailing Your loss limit trails in real time with your highest unrealized balance during the trading day Trading Permissions Options Options Only long calls and long puts Reset cost $49 No margin \u00b7 No time limit \u00b7 No overnight positions All trades must be closed by 3:59pm EST or they will be auto liquidated as a market o",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads, no selling to open",
+    "snippet": "rket order SPX, XSP and VIX can only be traded long as single-leg calls/puts. No spreads, no selling to open. 1 Evaluation 2 Performance Profit Target None No profit target Minimum payout of $250 Minimum Trades Unlimited Consistency 30% 30% (Best trade/Total Profits",
+    "url": "https://www.vanquishtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription fee per Account Type",
+    "snippet": "t maintain an account with the relevant risk profile and continue to pay the monthly subscription fee per Account Type. Each Qualified Customer is only allowed one Performance Account per Account Type. A Qualified Customer may have up to five Performance Accounts if the evaluation phase",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "subscription",
+    "snippet": "thorized account holder of the email address submitted with the Account Type monthly subscription. The authorized account holder is the natural person assigned to the email address by an internet access provider, online service provider, or other organization respons",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "subscription start date per Performance Account",
+    "snippet": "ogram. 3. Timing Each Program start/end date will depend on a Qualified Customer\u2019s subscription start date per Performance Account. If Vanquish suspends or cancels the program, the last date of the Program will be advertised on the Qualified Customer\u2019s Platform dashboard. The Performance Account pay",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "subscription and pass an evaluation phase",
+    "snippet": "nd stock retail trader, and pro/or trader traders. You must first pay for a monthly subscription and pass an evaluation phase. Once you pass the evaluation phase and become a Qualified Customer, you will set up your Performance Account. First, you must select the financial instrument they woul",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "subscription for the evaluation is reset monthly, you are allowed to retry instead of waiting for a new subscription mon",
+    "snippet": "ay re-take the evaluation at a discounted rate by hitting \u201creset account.\u201d Because a subscription for the evaluation is reset monthly, you are allowed to retry instead of waiting for a new subscription month. Below are the reset amounts for each account size, which must be paid to maintain the monthly subscription after the evaluation pha",
+    "url": "https://www.vanquishtrader.com/terms",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "DXtrade"
+ ],
+ "assets": [
+  "Forex",
+  "Crypto",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

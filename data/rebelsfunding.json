@@ -1,0 +1,460 @@
+{
+ "slug": "rebelsfunding",
+ "name": "RebelsFunding",
+ "category": "Forex/CFD",
+ "url": "https://rebelsfunding.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.rebelsfunding.com/",
+   "kind": "home",
+   "chars": 17302
+  },
+  {
+   "url": "https://www.rebelsfunding.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 443
+  },
+  {
+   "url": "https://www.rebelsfunding.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 63045
+  },
+  {
+   "url": "https://www.rebelsfunding.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5943
+  },
+  {
+   "url": "https://www.rebelsfunding.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 240
+  },
+  {
+   "url": "https://www.rebelsfunding.com/news-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 97
+  },
+  {
+   "url": "https://www.rebelsfunding.com/new-drawdown-limit-management-prop-challenge/",
+   "kind": "page",
+   "chars": 7301
+  },
+  {
+   "url": "https://www.rebelsfunding.com/new-reasons-learn-to-read-price-action-forex/",
+   "kind": "page",
+   "chars": 7108
+  },
+  {
+   "url": "https://www.rebelsfunding.com/what-are-forex-price-charts/",
+   "kind": "page",
+   "chars": 6461
+  },
+  {
+   "url": "https://www.rebelsfunding.com/cause-price-movements-forex/",
+   "kind": "page",
+   "chars": 6458
+  },
+  {
+   "url": "https://www.rebelsfunding.com/forex-online-course/what-drives-forex-price-movements/",
+   "kind": "page",
+   "chars": 3098
+  },
+  {
+   "url": "https://www.rebelsfunding.com/forex-online-course/preparation-of-a-trading-plan/",
+   "kind": "page",
+   "chars": 1031
+  },
+  {
+   "url": "https://www.rebelsfunding.com/questions-to-ask-when-planning-trade-exits/",
+   "kind": "page",
+   "chars": 6662
+  },
+  {
+   "url": "https://www.rebelsfunding.com/how-to-build-a-solid-forex-trading-plan/",
+   "kind": "page",
+   "chars": 8236
+  },
+  {
+   "url": "https://www.rebelsfunding.com/what-is-a-prop-firm-challenge-and-how-does-it-work/",
+   "kind": "page",
+   "chars": 12085
+  },
+  {
+   "url": "https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/",
+   "kind": "page",
+   "chars": 10352
+  },
+  {
+   "url": "https://www.rebelsfunding.com/tips-for-passing-a-funded-account-challenge/",
+   "kind": "page",
+   "chars": 7719
+  },
+  {
+   "url": "https://www.rebelsfunding.com/trading-psychology-prop-firm-challenge/",
+   "kind": "page",
+   "chars": 20216
+  },
+  {
+   "url": "https://www.rebelsfunding.com/",
+   "kind": "sub",
+   "chars": 17302
+  },
+  {
+   "url": "https://support.rebelsfunding.com/en",
+   "kind": "sub",
+   "chars": 109
+  },
+  {
+   "url": "https://www.rebelsfunding.com/",
+   "kind": "sub",
+   "chars": 17302
+  },
+  {
+   "url": "https://www.rebelsfunding.com/",
+   "kind": "sub",
+   "chars": 17302
+  }
+ ],
+ "page_count": 22,
+ "total_chars": 235833,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "the account, but with a daily reset rule that changes intraday decision-making. Profit target and pace 1-step One 10% target. 2-step Split targets of 8% and 5%. Trade count, leverage, and capital range Gold 1-Phase Minimum 8 real trades, leverage up to 1:50, account sizes fro",
+    "url": "https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "6",
+    "snippet": "ure and more time spent proving repeatability. Drawdown logic Gold 1-Phase No daily drawdown during the evaluation phase, but a tighter 6% overall drawdown means you still need disciplined risk control. Silver 2-Phase 5% daily drawdown and 10% overall drawdown. More total room on the account, but with a",
+    "url": "https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "verall drawdown means you still need disciplined risk control. Silver 2-Phase 5% daily drawdown and 10% overall drawdown. More total room on the account, but with a daily reset rule that changes intraday decision-making. Profit target and pace 1-step One 10% target.",
+    "url": "https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "re than the percentage set. If you\u2019re trading with a $10,000 account and the overall maximum drawdown is 10%, make sure you do not lose more than a total of $1,000 across the lifetime of your account. 4. Focus on managing your losses If you focus on managing your losses, y",
+    "url": "https://www.rebelsfunding.com/new-drawdown-limit-management-prop-challenge/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "160",
+    "snippet": "ffline at BREAKPOINT in Bratislava. A full hall of traders, real conversations and a $160K Bronze account handed over live on stage. BREAKPOINT 2026 Opening of BREAKPOINT Main stage \u00b7 Styla Event Hall Ond\u0159ej Hartman Ond\u0159ej Hartman Trader & founder of FXst",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "320,00",
+    "snippet": "ed trading accounts. Complete the evaluation and qualify for simulated capital up to $320,000 . Start Now Free Trial $3M+ Paid Out to RebelsFunding Traders 2023 Launched 30K+ No. of RebelsFunding Traders 200% Maximum Refund 32 Swap-fr",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "n and qualify for simulated capital up to $320,000 . Start Now Free Trial $3M+ Paid Out to RebelsFunding Traders 2023 Launched 30K+ No. of RebelsFunding Traders 200% Maximum Refund 32 Swap-free pairs & metals Trade on Fore",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,12",
+    "snippet": "200% refund model A small sample of verified rewards Show reward certificate $1,127 Show reward certificate $3,006 Show reward certificate $2,400 Show reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "l sample of verified rewards Show reward certificate $1,127 Show reward certificate $3,006 Show reward certificate $2,400 Show reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward certificate $6,445 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,40",
+    "snippet": "how reward certificate $1,127 Show reward certificate $3,006 Show reward certificate $2,400 Show reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward certificate $6,445 Show reward certificate $2,630 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7,63",
+    "snippet": "how reward certificate $3,006 Show reward certificate $2,400 Show reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward certificate $6,445 Show reward certificate $2,630 Show reward certificate $5,031 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,22",
+    "snippet": "how reward certificate $2,400 Show reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward certificate $6,445 Show reward certificate $2,630 Show reward certificate $5,031 Show reward certificate $5,734 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,76",
+    "snippet": "how reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward certificate $6,445 Show reward certificate $2,630 Show reward certificate $5,031 Show reward certificate $5,734 Show reward certificate $2,279 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,44",
+    "snippet": "how reward certificate $3,223 Show reward certificate $5,768 Show reward certificate $6,445 Show reward certificate $2,630 Show reward certificate $5,031 Show reward certificate $5,734 Show reward certificate $2,279 Show reward certificate $3,446 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,63",
+    "snippet": "how reward certificate $5,768 Show reward certificate $6,445 Show reward certificate $2,630 Show reward certificate $5,031 Show reward certificate $5,734 Show reward certificate $2,279 Show reward certificate $3,446 Show reward certificate $3,800 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,03",
+    "snippet": "how reward certificate $6,445 Show reward certificate $2,630 Show reward certificate $5,031 Show reward certificate $5,734 Show reward certificate $2,279 Show reward certificate $3,446 Show reward certificate $3,800 Show reward certificate $2,501 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,73",
+    "snippet": "how reward certificate $2,630 Show reward certificate $5,031 Show reward certificate $5,734 Show reward certificate $2,279 Show reward certificate $3,446 Show reward certificate $3,800 Show reward certificate $2,501 Show reward certificate $5,000 Show reward c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "/2026/08/Slippage-in-trading-explained.png https://www.rebelsfunding.com/static-stop-loss-vs-trailing-stop-loss/ 2026-07-29T10:21:52+00:00 https://www.rebelsfunding.com/rf-content/uploads/2026/07/Hero-image-Static-stop-loss-vs-trailing-stop-loss.png https://www.rebelsfun",
+    "url": "https://www.rebelsfunding.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "oads/2025/08/IMG_20250810_192155_853-1024x576.png https://www.rebelsfunding.com/best-crypto-prop-firms/ 2026-09-04T10:23:42+00:00 https://www.rebelsfunding.com/rf-content/uploads/2025/10/IMG_20251018_185836_643.png https://www.rebelsfunding.com/rf-content/uploa",
+    "url": "https://www.rebelsfunding.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "fundamental principle of supply and demand. When the demand for a specific currency rises relative to another, its value increases. When demand decreases, its value falls. What drives forex movements? Forex movements are primarily driven by trader sentiment",
+    "url": "https://www.rebelsfunding.com/forex-online-course/what-drives-forex-price-movements/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "If price action becomes unpredictable (or fundamentals suddenly change), it may be a wise move to lock in partial profits or reduce your exposure. What role does trade journaling play in planning exits? Keeping a trade journal can help you track the effec",
+    "url": "https://www.rebelsfunding.com/questions-to-ask-when-planning-trade-exits/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "\u2013 a team that delivers stability, performance, and rapid innovation for a secure and scalable trading ecosystem. Join our traders Free Trial Get Started Latest Forex and Prop Trading Blogs Order Blocks in Forex: How to Identify and Trade Them FOREX",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "uously during the working week, but it still ... Read More Why Beginners Should Master One Trading Setup First BEGINNER TRADING GUIDE Beginners often try to learn several strategies at once. A better first ... Read More Trading Psychology During a Prop Firm Challenge: 10 Pressure Points PROP TRADING PSYCHOLOGY GUIDE A prop firm challenge ",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "cycles/ 2026-08-03T21:33:25+00:00 https://www.rebelsfunding.com/forex-online-course/basic-terms/ 2026-08-03T21:33:24+00:00 https://www.rebelsfunding.com/forex-online-course/backtesting/ 2026-08-03T21:33:24+00:00 https://www.rebelsfunding.com/forex-online-course/chart-patterns/ 2026-08-03T21:33:23+00:00",
+    "url": "https://www.rebelsfunding.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ll learn how to manag",
+    "snippet": "oal is to meet the requirements of your selected program on a simulated account. You\u2019ll learn how to manage risk effectively, follow trading rules, and make responsible decisions \u2014 just like in real-life trading. This stage helps us see your potential and prepare you for poss",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "This stag",
+    "snippet": "llow trading rules, and make responsible decisions \u2014 just like in real-life trading. This stage helps us see your potential and prepare you for possible cooperation in the next step. Step 3: Earn rewards Once you successfully complete your training phase,",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "A small sa",
+    "snippet": "time pressure Start trading with flexible rules and our 200% refund model A small sample of verified rewards Show reward certificate $1,127 Show reward certificate $3,006 Show reward certificate $2,400 Show reward certificate $7,638 Show reward certific",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ci a klesa",
+    "snippet": "u Trading pre za\u010diato\u010dn\u00edkov: \u010co by som urobil inak po 15+ rokoch Ako obchodova\u0165 rast\u00faci a klesaj\u00faci trh? | Marek Soska S\u00fa prop firmy d\u00f4veryhodn\u00e9? \u010co zmenilo n\u00e1zor skeptick\u00e9ho tradera 2/2 Ako za\u010da\u0165 s tradingom? Od vlastn\u00e9ho kapit\u00e1lu k $19,500 1/2 RebelsFunding sk\u00fase",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in Bratislava. A full hall of traders, real conversa",
+    "snippet": "le behind RebelsFunding. In September 2026 our community met offline at BREAKPOINT in Bratislava. A full hall of traders, real conversations and a $160K Bronze account handed over live on stage. BREAKPOINT 2026 Opening of BREAKPOINT Main stage \u00b7 Styla Event Hall Ond\u0159ej Hartman Ond\u0159ej Hartman Trader",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "K Bronze account handed over live on stag",
+    "snippet": "ne at BREAKPOINT in Bratislava. A full hall of traders, real conversations and a $160K Bronze account handed over live on stage. BREAKPOINT 2026 Opening of BREAKPOINT Main stage \u00b7 Styla Event Hall Ond\u0159ej Hartman Ond\u0159ej Hartman Trader & founder of FXstreet.cz The audience Real traders, real",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "BREAKPOINT 2026 Opening of BREAKPOINT Main stag",
+    "snippet": "traders, real conversations and a $160K Bronze account handed over live on stage. BREAKPOINT 2026 Opening of BREAKPOINT Main stage \u00b7 Styla Event Hall Ond\u0159ej Hartman Ond\u0159ej Hartman Trader & founder of FXstreet.cz The audience Real traders, real questions $160K Bronze account $160K Bronze account",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Panel discussion Funded traders on stag",
+    "snippet": "Marek Soska Founder & CEO \u00b7 RebelsFunding Photo wall Snapshots between the talks Panel discussion Funded traders on stage The audience A full hall of traders Marek Soska Marek Soska How prop firm models work Networking Between the talks Ond\u0159ej Hartman Main stage talk Q&A Questions fr",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund\n \n 32\n Swap-free pairs & metals\n \n \n \n Trade on Forex and other markets with training capital up to 320,000 USD! ",
+    "snippet": "ing Traders 2023 Launched 30K+ No. of RebelsFunding Traders 200% Maximum Refund 32 Swap-free pairs & metals Trade on Forex and other markets with training capital up to 320,000 USD! Step 1: Choose a program Choose a training program that matches your goals and experience level. After completing a quick purchase, you\u2019ll instantly receive a",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund model\n \n \n \n A small sample of verified rewards\n Show reward certificate $1,127 Show reward certificate $3,006 Sh",
+    "snippet": "nded trading with no time pressure Start trading with flexible rules and our 200% refund model A small sample of verified rewards Show reward certificate $1,127 Show reward certificate $3,006 Show reward certificate $2,400 Show reward certificate $7,638 Show reward certificate $3,223 Show reward certificate $5,768 Show reward certificate ",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard \n \n Affiliate \n About Us Blog \n FAQ \n Contact \n News & Updates \n RF-Trader Guide \n Symbols \n Holidays \n \n \n L",
+    "snippet": "MENU Programs Copper Bronze Silver Gold Diamond Competition Leaderboard Affiliate About Us Blog FAQ Contact News & Updates RF-Trader Guide Symbols Holidays Log In Free Trial No Time Limit Prop Firm Supporting Your Success Trade. Prove Your Skill. Get Funded. Prop trading firm with no time limits and funded tradin",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal market conditions",
+    "snippet": "receive access to your simulated trading account, where you can start practicing in real market conditions. Each program is designed to help you build discipline, consistency, and a strong trading mindset. Step 2: Pass the challenge During this phase, your goal is to m",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Each program is designed to help you build discipline, consistency, and a strong trading mindset",
+    "snippet": "simulated trading account, where you can start practicing in real market conditions. Each program is designed to help you build discipline, consistency, and a strong trading mindset. Step 2: Pass the challenge During this phase, your goal is to meet the requirements of your selected program on a simulated account. You\u2019ll learn how to mana",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn how to manage risk effectively, follow trading rules, and make responsible decisions \u2014 just like in real-life tradi",
+    "snippet": "is to meet the requirements of your selected program on a simulated account. You\u2019ll learn how to manage risk effectively, follow trading rules, and make responsible decisions \u2014 just like in real-life trading. This stage helps us see your potential and prepare you for possible cooperation in the next step. Step 3: Earn rewards Once you suc",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn rewards\n Once you successfully complete your training phase, you can qualify for cooperation with RebelsFunding",
+    "snippet": "potential and prepare you for possible cooperation in the next step. Step 3: Earn rewards Once you successfully complete your training phase, you can qualify for cooperation with RebelsFunding. As an RF trader, you\u2019ll continue trading on a simulated account and earn rewards based on your performance. It\u2019s a great opportunity to demonstrat",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Fundednext-Monochromatic-logo_Black@2x.png",
+    "snippet": "2026/07/FTMO-icon-light.png https://www.rebelsfunding.com/rf-content/uploads/2026/07/Fundednext-Monochromatic-logo_Black@2x.png https://www.rebelsfunding.com/rf-content/uploads/2026/07/2a4oQurSjt6UhJWj1c3w.webp https://www.rebelsfunding.com/rf-content/uploads/2026/07/apex-logo-stack-light-863x102",
+    "url": "https://www.rebelsfunding.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:50",
+    "snippet": "Trade count, leverage, and capital range Gold 1-Phase Minimum 8 real trades, leverage up to 1:50, account sizes from $2,500 to $40,000. Silver 2-Phase Minimum 6 real trades in each phase, leverage up to 1:100, account sizes from $2,500 to $80,000. When a 1-",
+    "url": "https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "1:100",
+    "snippet": "izes from $2,500 to $40,000. Silver 2-Phase Minimum 6 real trades in each phase, leverage up to 1:100, account sizes from $2,500 to $80,000. When a 1-step prop firm challenge makes more sense A 1-step model is usually a stronger fit when your execution is already s",
+    "url": "https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC) \n Anti Money Laundering (AML) \n \n \n Cookies Settings\n \n \n \n RebelsFunding is a simulated trading education a",
+    "snippet": "Cookies Risk Warning Data Protection Terms & Conditions Know Your Customer (KYC) Anti Money Laundering (AML) Cookies Settings RebelsFunding is a simulated trading education and Evaluation service operated by RIFM, s.r.o. Evaluation and RCF Accounts are fully simulated and are not live brokerage accounts. Customers do not deposit trading c",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC, sanctions, fraud-prevention, security and approval requirements",
+    "snippet": "he applicable Terms & Conditions , Program Rules , Risk Warning , age, jurisdiction, KYC, sanctions, fraud-prevention, security and approval requirements. \u00a9 2022\u20132026 RebelsFunding. All rights reserved.",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fees or any other hidden fees",
+    "snippet": "e list of prices for provided training programs. There are no additional, repetitive monthly fees or any other hidden fees. Can I have multiple accounts? + Yes, we enable our customers to have multiple training accounts and various training programs and values, though the overall v",
+    "url": "https://www.rebelsfunding.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "Unique programs You are guaranteed satisfaction with us \u2013 we want our traders to succeed and be one step ahead \u2013 that\u2019s why we offer the widest range of training programs and benefits available. What people say about RebelsFunding Trading Platform",
+   "url": "https://www.rebelsfunding.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "loads/2026/04/prop-trading-programs-rebelsfunding-start.png https://www.rebelsfunding.com/1-step-vs-2-step-prop-firm-challenge/ 2026-05-06T10:54:28+00:00 https://www.rebelsfunding.com/rf-content/uploads/2026/05/1-Step-vs-2-Step-Prop-Firm-Challenge-hero-image.png htt",
+   "url": "https://www.rebelsfunding.com/post-sitemap.xml"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "About Us Blog FAQ Contact News & Updates RF-Trader Guide Symbols Holidays Log In Free Trial No Time Limit Prop Firm Supporting Your Success Trade. Prove Your Skill. Get Funded. Prop trading firm with no time limits and funded trading ac",
+   "url": "https://www.rebelsfunding.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

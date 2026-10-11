@@ -1,0 +1,643 @@
+{
+ "slug": "tradexprop",
+ "name": "TradeXProp",
+ "category": "Forex/CFD",
+ "url": "https://tradexprop.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tradexprop.com/",
+   "kind": "home",
+   "chars": 18421
+  },
+  {
+   "url": "https://tradexprop.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 201
+  },
+  {
+   "url": "https://tradexprop.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 15779
+  },
+  {
+   "url": "https://tradexprop.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 27172
+  },
+  {
+   "url": "https://tradexprop.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 378
+  },
+  {
+   "url": "https://tradexprop.com/id/forex-faq/",
+   "kind": "page",
+   "chars": 25110
+  },
+  {
+   "url": "https://tradexprop.com/crypto-faq/",
+   "kind": "page",
+   "chars": 23257
+  },
+  {
+   "url": "https://tradexprop.com/faq-affiliate/",
+   "kind": "page",
+   "chars": 3979
+  },
+  {
+   "url": "https://tradexprop.com/zh-hans/faq-instant-funded-x/",
+   "kind": "page",
+   "chars": 6774
+  },
+  {
+   "url": "https://tradexprop.com/id/faq-crypto/",
+   "kind": "page",
+   "chars": 20877
+  },
+  {
+   "url": "https://tradexprop.com/forex-faq/",
+   "kind": "page",
+   "chars": 25393
+  },
+  {
+   "url": "https://tradexprop.com/id/faq-affiliate-indo/",
+   "kind": "page",
+   "chars": 5917
+  },
+  {
+   "url": "https://tradexprop.com/zh-hans/faq-crypto-chinese/",
+   "kind": "page",
+   "chars": 6877
+  },
+  {
+   "url": "https://tradexprop.com/faqinstantfundedx/",
+   "kind": "page",
+   "chars": 20135
+  },
+  {
+   "url": "https://tradexprop.com/id/faq/",
+   "kind": "page",
+   "chars": 2180
+  },
+  {
+   "url": "https://tradexprop.com/id/faq-instant-funded-x/",
+   "kind": "page",
+   "chars": 19496
+  },
+  {
+   "url": "https://tradexprop.com/zh-hans/faq-forexchinese/",
+   "kind": "page",
+   "chars": 8333
+  },
+  {
+   "url": "https://help.tradexprop.com/",
+   "kind": "sub",
+   "chars": 0
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 230296,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "Static Drawdowns Bi-Weekly Payout Your Account Size $5,000 One Time Fee $45 Profit Target 10% Evaluation Duration Infinite Daily Max. Loss 5% Max Static Drawdown 6% Leverage 50:1 Profit Spilt 80% Lock upon payout? No Consistency Score 45% Your Account Size $1",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Static Drawdowns Bi-Weekly Payout Your Account Size $5,000 One Time Fee $35 Profit Target 8 & 5% Evaluation Duration Infinite Daily Max. Loss 5% Max Static Drawdown 8% Leverage 50:1 Profit Spilt 80% Lock upon payout? No Consistency Score 45% Your Account Size $1",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "out Static Drawdowns Pass in 1 Day Your Account Size $5,000 One Time Fee $45 Profit Target 9% Min. Trading Days 0 Max Trading Days Infinite Daily Cap +/-3% Max Static Drawdown 6% Leverage up to 5 : 1 Profit Split 90% Lock upon Payout No Your Account Size $10,",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "45",
+    "snippet": "terday\u2019s 5 PM EST equity. Formula for Consistency Score = (Best Trading Day \u00f7 Total Profit Target) x 100 Threshold: Must be \u2264 45% to pass the evaluation Formula for Profit Target Readjustment (if threshold is breached) = (Best Trading Day \u00f7 45) x 100 Example: Suppose your evaluation profit targe",
+    "url": "https://tradexprop.com/forex-faq/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "ayout No Consistency Rules Up to 90% Profit Spilt with (Add-Ons) Profit Target N/A Daily Loss Limit 5% Max Trailing Drawdown 8% Leverage 50:1 Inactivity Period 30 Days Flat for Weekend Yes EA allowed? Yes Profit Split 80%/90% Lock upon payout? Yes Your Account Size $1",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": "ading Days 0 4 days 5 days Max Trading Days Infinite Infinite Infinite Daily Max Loss 5% 5% 5% One Step Challenge Instant Payout Profit Share Up to 90% Up to 90% Up to 90% Drawdown-Type Balance Based Balance Based Balance Based Crypt",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "e account remains active, regardless of gains made. For the X-1 Step account, the Maximum Drawdown is initially set at 6% . For example, with a starting balance of $100,000, the drawdown limit would be $94,000. If you grow your account to $102,000 in CLOSED BALANCE , your Maximum Drawdown",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "9",
+    "snippet": "BALANCE , your Maximum Drawdown remains at $94,000. For the X-2 Step account, the Maximum Drawdown is initially set at 9% . With a starting balance of $100,000, this allows a drawdown to $91,000. If your account increases to $102,000 in CLOSED BALANCE , the Maximum Drawdown limit would sti",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "Zoom Break RAT RACE NOW! Asia's Best Prop Firm Unleashing Traders' Potential 100% Payout Guarantee Zero Denials. Ever. We deliver every profit you earn, on time, everytime since 2023, we maintain a spotless record with zero denied payouts-because that\u2019s wha",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "ration Infinite Daily Max. Loss 5% Max Static Drawdown 6% Leverage 50:1 Profit Spilt 80% Lock upon payout? No Consistency Score 45% Your Account Size $10,000 One Time Fee $85 $10k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant Fir",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "ys Infinite Daily Cap +/-3% Max Static Drawdown 6% Leverage up to 5 : 1 Profit Split 90% Lock upon Payout No Your Account Size $10,000 One Time Fee $95 $10k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdo",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "45",
+    "snippet": "i: Skor Konsistensi = (Hari Trading Terbaik \u00f7 Total Profit) \u00d7 100 Batas maksimal: \u2264 45% agar layak menerima payout Contoh: Misalnya seorang trader mendapatkan akun funded pada 1 April dan belum pernah melakukan penarikan. Profit yang didapat: Hari 1: $500 Hari 2: $1.000 Hari 3:",
+    "url": "https://tradexprop.com/id/forex-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "ur lifetime referral count: Lifetime Referrals Commission Rate 1\u201349 6% 50\u201399 8% 100+ 10% How are payouts made? Commission Payouts: First commission payout: any time upon request Subsequent payouts: every 30 days from previous payout \u2705 $100 minimum payout threshold required Payouts can be requested",
+    "url": "https://tradexprop.com/faq-affiliate/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "0",
+    "snippet": "eatures that make TradeXprop stand out from so many other trading prop firms. Min Trading Days 0 4 days 5 days Max Trading Days Infinite Infinite Infinite Daily Max Loss 5% 5% 5% One Step Challenge Instant Payout Profit Share Up to 90% Up",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "Profit Share Up to 90% Drawdown-Type Balance Based Crypto only challenge Min Trading Days 4 days Max Trading Days Infinite Daily Max Loss 5% One Step Challenge Instant Payout Profit Share Up to 90% Drawdown-Type Balance Based Crypto only challeng",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Profit Share Up to 90% Drawdown-Type Balance Based Crypto only challenge Min Trading Days 5 days Max Trading Days Infinite Daily Max Loss 5% One Step Challenge Instant Payout Profit Share Up to 90% Drawdown-Type Balance Based Crypto only challeng",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "all the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payo",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "p to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout St",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "$1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static D",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250",
+    "snippet": "lion in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdow",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "n active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi-",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Consistency Score 45% Get funded X-1 Step X-2 Step $5k $10k $25k $50k $100k $200k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Pas",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,90",
+    "snippet": "nt with no entry cost\u2014happening every month! Withdrawals KEY HIGHLIGHTS $1,900,000+ Paid to Our Traders Top Trader's Payout $57,973 Zero Payouts Denied 100% Reliability EVALUATE YOUR SKILLS Our Evaluations Explore our cutting-edge F",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "57,97",
+    "snippet": "wals KEY HIGHLIGHTS $1,900,000+ Paid to Our Traders Top Trader's Payout $57,973 Zero Payouts Denied 100% Reliability EVALUATE YOUR SKILLS Our Evaluations Explore our cutting-edge Forex & Crypto evaluations designed for traders\u2019 success.",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "evaluations designed for traders\u2019 success. Manage multiple plans, all the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation accoun",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "all the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant Firs",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Pay",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "p to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout S",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "$1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250",
+    "snippet": "lion in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdo",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "n active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "ex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi-Weekly Payout Your Accou",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "45",
+    "snippet": "Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi-Weekly Payout Your Account Size $5,000 One",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "ccount includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi-Weekly Payout Your Account Size $5,000 One Time Fee $45 Profit Target 10% Evaluation Duration Infinite Daily Max. Loss 5% Max Static Drawdown 6% Leverage 50:",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "es Up to 90% Profit Spilt with (Add-Ons) Profit Target N/A Daily Loss Limit 5% Max Trailing Drawdown 8% Leverage 50:1 Inactivity Period 30 Days Flat for Weekend Yes EA allowed? Yes Profit Split 80%/90% Lock upon payout? Yes Your Account Size $10,000 One Time Fee",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules Up to 90% Profit Spilt with (Add-Ons) \n Profit Target N/A Daily Loss Limit 5% Max Traili",
+    "snippet": "No Stop Loss Required Weekend Holding Allowed with (Add-Ons) Instant First Payout No Consistency Rules Up to 90% Profit Spilt with (Add-Ons) Profit Target N/A Daily Loss Limit 5% Max Trailing Drawdown 8% Leverage 50:1 Inactivity Period 30 Days Flat for Weekend Yes EA allowed? Yes Profit Split 80%/90% Lock upon payout? Yes Your Account Siz",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule vs",
+    "snippet": "\u2013 Across accounts with different rule sets or parameters (e.g., old funded without Consistency Rule vs. new funded with Consistency Rule). Important to note: \u2013 If accounts are merged, all current rules (including the Consistency Rule, if applicable) will apply to the ne",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule)",
+    "snippet": "le sets or parameters (e.g., old funded without Consistency Rule vs. new funded with Consistency Rule). Important to note: \u2013 If accounts are merged, all current rules (including the Consistency Rule, if applicable) will apply to the new combined account. \u2013 Outside of t",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule, if applicable) will apply to the new combined account",
+    "snippet": "le). Important to note: \u2013 If accounts are merged, all current rules (including the Consistency Rule, if applicable) will apply to the new combined account. \u2013 Outside of the scenarios above, merging requests are at the Company\u2019s discretion and not guaranteed. Prohibition of Gambling Practices: Copy Trading Reverse Trading",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule and how is it applied? The Consistency Rule is a risk control measure applied to all new",
+    "snippet": "ly trade through a news event. Must I place a stop loss on trades? No. What is the Consistency Rule and how is it applied? The Consistency Rule is a risk control measure applied to all new Evaluation plans (Forex only) starting April 16, 2025 (EST) and will not affect existing plans. It ensures traders generate profits through steady, rep",
+    "url": "https://tradexprop.com/forex-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule? In the evaluation phase : You will not be able to pass the challenge until your overall",
+    "snippet": "nue trading until you reach the new adjusted target. What happens if I violate the Consistency rule? In the evaluation phase : You will not be able to pass the challenge until your overall profit exceeds the adjusted target. In the funded phase : You will not be eligible for a payout until your consistency score is within 45%. You can con",
+    "url": "https://tradexprop.com/forex-faq/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Monthly",
+    "snippet": "Our Community Our Products Join our Discord 5K+ Traders Trust us 100% Payout Guarantee Real Time Dashboard Monthly Competitions Compete for a chance to win an evaluation account with no entry cost\u2014happening every month! Withdrawals KEY HIGHLIGHTS $1,900,000+ Paid to Ou",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Bi-Weekly",
+    "snippet": "ation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi-Weekly Payout Your Account Size $5,000 One Time Fee $45 Profit Target 10% Evaluation Duration Infinite Daily Max. Loss 5% Max Static Drawdown 6% Leverage 50:1 Profit Sp",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 30 days",
+    "snippet": "ct to the profit split stated in the Trader Agreement. Thereafter, you can request a withdrawal of the gains in your account every 30 days. When a withdrawal is approved, we will also withdraw our share of the gains. The drawdown does not reset when you request a withdrawal. Example: You have taken an accou",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "m | Prop Trading, As It Should Be Skip to content Home X Programs Forex Evaluation Crypto Evaluation Instant Funded X Partners Affiliate Partner Trading Trading Platforms Blog FAQ Forex FAQ Crypto FAQ Instant Funded X FAQ Affiliate FAQ Help Desk About Us Abou",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "(provided all other conditions for a withdrawal are met and your account is not otherwise in violation of our Terms and Conditions). How does Payout Protector work? Example: Assume you are trading a $100,000 Funded account and have generated $8,000 in gains",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "50\u201399 8% 100+ 10% Bagaimana pembayaran dilakukan? Pembayaran Bonus Tunai: Melalui USDT (hanya jaringan Arbitrum) Diproses dua kali sebulan (tanggal 1 dan 15 setiap bulan) \u2705 Tidak ada ambang batas minimum yang diperlukan Biaya penarikan $5.00 Perminta",
+    "url": "https://tradexprop.com/id/faq-affiliate-indo/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Mas",
+    "snippet": "g-guide/ 2025-03-27T08:42:51+00:00 https://tradexprop.com/wp-content/uploads/2025/03/Mastering-Swing-Swing-Trading-vs.-Other.webp https://tradexprop.com/wp-content/uploads/2025/03/Mastering-Swing-Risk-Management.webp https://tradexprop.com/day-trading-strategies-risk-management/ 2025-03",
+    "url": "https://tradexprop.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "uploads/2025/02/join-tradexprop-now-1024x171.gif https://tradexprop.com/prop-trading-scams/ 2025-03-25T03:30:51+00:00 https://tradexprop.com/wp-content/uploads/2025/03/Scams-No-Support.webp https://tradexprop.com/market-highlight-central-banks-inflation-trends/ 2025-03-25T03:29:52+00:00 https://tradexprop",
+    "url": "https://tradexprop.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "TRADEXPROP - Asia",
+    "snippet": "TRADEXPROP - Asia Best Trading Firm | Prop Trading, As It Should Be Skip to content Home X Programs Forex Evaluation Crypto Evaluation Instant Funded X Partners Affiliate Partner Tradin",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "lp Desk About Us About Us Contact Us English Indonesia",
+    "snippet": "Trading Platforms Blog FAQ Forex FAQ Crypto FAQ Instant Funded X FAQ Affiliate FAQ Help Desk About Us About Us Contact Us English Indonesia \u7b80\u4f53\u4e2d\u6587 Home X Programs Forex Evaluation Crypto Evaluation Instant Funded X Partners Affiliate Partner Trading Trading Platforms Blog FAQ Forex FAQ Crypto FAQ Instant Funde",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "deliver every profit you earn, on time, everytime sinc",
+    "snippet": "p Firm Unleashing Traders' Potential 100% Payout Guarantee Zero Denials. Ever. We deliver every profit you earn, on time, everytime since 2023, we maintain a spotless record with zero denied payouts-because that\u2019s what prop trading should be. GET Started Join Our Community Asia's Best Prop",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Manag",
+    "snippet": "Explore our cutting-edge Forex & Crypto evaluations designed for traders\u2019 success. Manage multiple plans, all the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "k Evaluation account inc",
+    "snippet": "k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Bi-Weekly Payout Your Account Size $5,000 One Time Fee $45 Profit Targ",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "it Target 10% Evaluation Duration Infinite Daily Max. Loss 5% Max Static Drawdown 6% Leverage 50:1 Profit Spilt 80% Lock upon payout? No Consistency Score 45% Your Account Size $10,000 One Time Fee $85 $10k Evaluation account includes: No Stop Loss Requ",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "k Instant Funded X account inc",
+    "snippet": "Funded X $5k $10k $25k $50k $100k Your Account Size $5,000 One Time Fee $200 $5k Instant Funded X account includes: No Stop Loss Required Weekend Holding Allowed with (Add-Ons) Instant First Payout No Consistency Rules Up to 90% Profit Spilt with (Add-Ons) Profit Target N/A D",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Tradexprop is an affiliate of Prop Account, LLC",
+    "snippet": "are here for you 24/5 Join our Discord chat community JOIN NOW DISCLAIMER: Tradexprop is an affiliate of Prop Account, LLC. All funding assessments are provided by Prop Account, LLC and all assessment fees are paid to Prop Account, LLC. If you qualify for a Funded Account, you will be requir",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy Privacy Policy Terms and Conditions",
+    "snippet": "ube IMPORTANT LINKS Home About Us Affiliate Partner FAQs Blog Contact Us LEGAL Refund Policy Privacy Policy Terms and Conditions",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy/ 2025-01-22T03:25:00+00:00 https://tradexprop",
+    "snippet": "ps://tradexprop.com/privacy-policy/ 2025-01-22T03:25:15+00:00 https://tradexprop.com/refund-policy/ 2025-01-22T03:25:00+00:00 https://tradexprop.com/zh-hans/faq-crypto-chinese/ 2024-12-16T11:52:51+00:00 https://tradexprop.com/zh-hans/%e8%81%94%e7%b3%bb%e6%88%91%e4%bb%ac/ 2024-12-13T06:22:38+00:00 https://tradexpr",
+    "url": "https://tradexprop.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refund-policy/ 2024-07-03T14:18:17+00:00 https://tradexprop",
+    "snippet": "com/zh-hans/privacy-policy/ 2024-07-03T14:18:17+00:00 https://tradexprop.com/zh-hans/refund-policy/ 2024-07-03T14:18:17+00:00 https://tradexprop.com/zh-hans/terms-of-use/ 2024-07-03T14:18:17+00:00",
+    "url": "https://tradexprop.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refundable? No refunds are offered",
+    "snippet": "ount using a link or discount code provided by the Affiliate. Is the evaluation fee refundable? No refunds are offered. Can I merge my funded accounts? Merging funded accounts is not a standard offering and is always handled on a case-by-case basis at the Company\u2019s discretion. When it",
+    "url": "https://tradexprop.com/crypto-faq/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "EAKER\u201d\n The 2-day Intensive Event\n BREAK RAT RACE NOW! \n \n \n TRADER LOGIN \n \n Home X Programs Forex Evaluation Crypto Ev",
+    "snippet": "GET FUNDED 1 pm to 6 pm GMT+8 on Zoom 16-17th August, 2025 \u201cRAT RACE BREAKER\u201d The 2-day Intensive Event BREAK RAT RACE NOW! TRADER LOGIN Home X Programs Forex Evaluation Crypto Evaluation Instant Funded X Partners Affiliate Partner Trading Trading Platforms Blog FAQ Forex FAQ Crypto FAQ Instant Funded X FAQ Affiliate FAQ Help Desk About U",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eak RAT RACE NOW! \n \n Asia's Best Prop Firm\n Unleashing Traders' Potential\n 100% Payout Guarantee Zero Denials",
+    "snippet": "ntact Us English Indonesia \u7b80\u4f53\u4e2d\u6587 1 pm to 6 pm GMT+8 16-17th August, 2025 on Zoom Break RAT RACE NOW! Asia's Best Prop Firm Unleashing Traders' Potential 100% Payout Guarantee Zero Denials. Ever. We deliver every profit you earn, on time, everytime since 2023, we maintain a spotless record with zero denied payouts-because that\u2019s what prop t",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn, on time, everytime since 2023, we maintain a spotless record with zero denied payouts-because that\u2019s what prop tra",
+    "snippet": "s' Potential 100% Payout Guarantee Zero Denials. Ever. We deliver every profit you earn, on time, everytime since 2023, we maintain a spotless record with zero denied payouts-because that\u2019s what prop trading should be. GET Started Join Our Community Asia's Best Prop Firm Unleashing Traders' Potential 100% Payout Guarantee Zero Denials. Ev",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eashing Traders' Potential\n \u00a0100% Payout Guarantee Zero Denials",
+    "snippet": "g should be. GET Started Join Our Community Asia's Best Prop Firm Unleashing Traders' Potential 100% Payout Guarantee Zero Denials. Ever. We deliver every profit you earn, on time, everytime since 2023, we maintain a spotless record with zero denied payouts-because that\u2019s what prop trading should b",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Time Dashboard\n \n \n Monthly Competitions\n Compete for a chance to win an evaluation account with no entry cost\u2014happe",
+    "snippet": "Our Products Join our Discord 5K+ Traders Trust us 100% Payout Guarantee Real Time Dashboard Monthly Competitions Compete for a chance to win an evaluation account with no entry cost\u2014happening every month! Withdrawals KEY HIGHLIGHTS $1,900,000+ Paid to Our Traders Top Trader's Payout $57,973 Zero Payouts Denied 100% Reliability EVALU",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@tradexprop.com",
+    "snippet": "such services are provided by Tradexprop. \u00a9 Copyright 2024 Tradexprop CONTACT US support@tradexprop.com Facebook-f Instagram X-twitter Discord Youtube IMPORTANT LINKS Home About Us Affiliate Partner FAQs Blog Contact Us LEGAL Refund Policy Privacy Policy Terms and",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 1 Day \n Your Account",
+    "snippet": "ation account includes: No Stop Loss Required Weekend Holding Allowed Instant First Payout Static Drawdowns Pass in 1 Day Your Account Size $5,000 One Time Fee $45 Profit Target 9% Min. Trading Days 0 Max Trading Days Infinite Daily Cap +/-3% Max Static Drawdown 6% Leverage up to 5 : 1 Profit Split",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "INSTANT",
+    "snippet": "ily Cap +/-3% Max Static Drawdown 9% Leverage up to 5 : 1 Profit Split 90% Lock upon payout No Get funded INSTANT ACCESS Our Instant Funding Skip the Evaluation and get Instant Funded from the get go. Instant Funded X $5k $10k $25k $50k $100k Your Account Size $5,000 One Time",
+    "url": "https://tradexprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 45%",
+    "snippet": "t exceeds the adjusted target. In the funded phase : You will not be eligible for a payout until your consistency score is within 45%. You can continue trading to balance it out. Once I pass the Evaluation, am I provided with a demo or live account? Once you pass the Evaluation, we provide you with",
+    "url": "https://tradexprop.com/forex-faq/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Must not request a refund or file a chargeback \n Are there refunds? No",
+    "snippet": "d What qualifies as a valid referral? Must complete successful payment and pass KYC Must not request a refund or file a chargeback Are there refunds? No. All evaluation fees are non-refundable. Commissions, once paid, are final unless fraud or abuse is confirmed. What happens if my referee charges back or requests a re",
+    "url": "https://tradexprop.com/faq-affiliate/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC) Commission tiers are lifetime-based For detailed policy terms, refer to our Terms & Conditions",
+    "snippet": "Any other rules I should know? No self-referrals allowed (matched by email/IP/device/KYC) Commission tiers are lifetime-based For detailed policy terms, refer to our Terms & Conditions. Contact Us! We are here for you 24/5 Join our Discord chat community JOIN NOW DISCLAIMER: Tradexprop is an affiliate of Prop Account, LLC. All funding ass",
+    "url": "https://tradexprop.com/faq-affiliate/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC \u548c\u7b7e\u7f72\u4ea4\u6613\u8005\u5408\u7ea6\uff1f \u662f\u7684\uff0c\u4f46\u5728\u7533\u8bf7\u63d0\u6b3e\u4e4b\u524d\uff0c\u60a8\u65e0\u9700\u5b8c\u6210 KYC \u6216\u7b7e\u7f72\u4ea4\u6613\u8005\u5408\u7ea6\u3002 \u00a0\n \u5982\u679c\u65e0\u6cd5\u901a\u8fc7 KYC \u4f1a\u600e\u6837\uff1f \u5982\u679c\u60a8\u5728\u7533\u8bf7\u63d0\u6b3e\u65f6\u672a\u80fd\u901a\u8fc7 KYC\uff0c\u63d0\u6b3e\u5c06\u88ab\u62d2\u7edd\uff0c\u4e14\u8d26\u6237\u5c06\u88ab\u5173\u95ed\u3002\u6211\u4eec\u4f1a\u534f\u52a9\u60a8\u6ee1\u8db3 KYC \u8981\u6c42",
+    "snippet": "\u5219\u6216\u4f53\u9a8c\u3002 \u8f6f\u6027\u8fdd\u89c4 (Soft Breach) \u3001 \u786c\u6027\u8fdd\u89c4 (Hard Breach) \u3001\u6bcf\u65e5\u4e8f\u635f\u9650\u989d\u3001\u6700\u5927\u56de\u64a4\u89c4\u5219\u4ee5\u53ca\u6301\u4ed3\u9650\u5236\u90fd\u9002\u7528\u76f8\u540c\u7684\u89c4\u5219\u3002 \u662f\u5426\u9700\u8981\u5b8c\u6210 KYC \u548c\u7b7e\u7f72\u4ea4\u6613\u8005\u5408\u7ea6\uff1f \u662f\u7684\uff0c\u4f46\u5728\u7533\u8bf7\u63d0\u6b3e\u4e4b\u524d\uff0c\u60a8\u65e0\u9700\u5b8c\u6210 KYC \u6216\u7b7e\u7f72\u4ea4\u6613\u8005\u5408\u7ea6\u3002 \u5982\u679c\u65e0\u6cd5\u901a\u8fc7 KYC \u4f1a\u600e\u6837\uff1f \u5982\u679c\u60a8\u5728\u7533\u8bf7\u63d0\u6b3e\u65f6\u672a\u80fd\u901a\u8fc7 KYC\uff0c\u63d0\u6b3e\u5c06\u88ab\u62d2\u7edd\uff0c\u4e14\u8d26\u6237\u5c06\u88ab\u5173\u95ed\u3002\u6211\u4eec\u4f1a\u534f\u52a9\u60a8\u6ee1\u8db3 KYC \u8981\u6c42\uff0c\u4ee5\u4fbf\u987a\u5229\u4f7f\u7528\u5373\u65f6\u8d44\u52a9\u670d\u52a1\u3002 \u6211\u4eec\u662f\u5426\u4f1a\u64cd\u63a7\u60a8\u8d26\u6237\u4e2d\u7684\u4ef7\u683c\u6216\u6267\u884c\uff1f \u4e0d\u4f1a\u3002\u6211\u4eec\u72ec\u7acb\u4e8e\u7ecf\u7eaa\u5546\u8fd0\u8425\uff0c\u6240\u6709\u5e02\u573a\u4ef7\u683c\u548c\u4ea4\u6613\u6267\u884c\u5747\u7531\u7ecf\u7eaa\u5546\u63d0\u4f9b\uff0c\u6211\u4eec\u4e0d\u4f1a\u66f4\u6539\u6216\u4fee\u6539\u3002\u540c\u65f6\uff0c\u6211\u4eec\u4e0d\u4f1a\u901a\u8fc7\u66f4\u6539\u70b9\u5dee\u3001\u52a0\u4ef7/\u51cf\u4ef7\u3001\u4f63\u91d1\u6216\u9694\u591c\u5229\u606f\u7684\u65b9\u5f0f\u989d\u5916\u6536\u8d39\u3002 \u8c01\u662f\u60a8\u4ea4\u6613\u7684\u5bf9\u624b\u65b9\uff1f \u4e3a\u7ba1\u7406\u98ce\u9669\u5e76\u964d\u4f4e\u4ea4\u6613\u6210\u672c\uff0c\u6211\u4eec\u53ef\u80fd\u4f1a\u5bf9\u51b2\u6216\u76f4\u63a5",
+    "url": "https://tradexprop.com/zh-hans/faq-instant-funded-x/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Leverage up to 5 : 1 Profit Split 90% Lock upon payout No Get funded INSTANT ACCESS Our Instant Funding Skip the Evaluation and get Instant Funded from the get go. Instant Funded X $5k $10k $25k $50k $100k Your Account Size $5,000 One Time Fee $200 $5k In",
+   "url": "https://tradexprop.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "uccess. Manage multiple plans, all the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend H",
+   "url": "https://tradexprop.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "Manage multiple plans, all the way up to $1 million in active evaluations. Forex Crypto X-1 Step X-2 Step $5k $10k $25k $50k $100k $250k $400k Your Account Size $5,000 One Time Fee $45 $5k Evaluation account includes: No Stop Loss Required Weekend Holding Al",
+   "url": "https://tradexprop.com/"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "% Daily Cap Limit? The Daily Cap Limit is the maximum percentage of your starting balance that your crypto account can move in any given day. The Daily Cap Limit is calculated using the previous day\u2019s equity, which resets at 5 PM EST. In the event that the assets in your ac",
+   "url": "https://tradexprop.com/crypto-faq/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "DXtrade",
+  "Match-Trader",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

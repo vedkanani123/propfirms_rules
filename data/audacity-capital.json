@@ -1,0 +1,831 @@
+{
+ "slug": "audacity-capital",
+ "name": "Audacity Capital",
+ "category": "Forex/CFD",
+ "url": "https://audacitycapital.co.uk/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://audacity.capital/",
+   "kind": "home",
+   "chars": 55474
+  },
+  {
+   "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+   "kind": "page",
+   "chars": 676042
+  },
+  {
+   "url": "https://audacity.capital/terms-and-conditions/",
+   "kind": "page",
+   "chars": 832071
+  },
+  {
+   "url": "https://audacity.capital/about/",
+   "kind": "page",
+   "chars": 588806
+  },
+  {
+   "url": "https://audacity.capital/funded-trader-program/",
+   "kind": "page",
+   "chars": 616027
+  }
+ ],
+ "page_count": 5,
+ "total_chars": 2768424,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "st In The Market 7.5% 5% 5% Maximum Loss Highest In The Market 15% 10% 10% Profit Target 10% 5% - Profit Share - - Up to 90% Withdrawal / Payout - - Same day after approval Refundable Fee - - Refund Consistency Rule Upgraded None None None",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ys Highest In The Market Max Daily Loss 5% Highest In The Market Maximum Loss 10% Profit Target 5% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Tr",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "um Highest In The Market Max Daily Loss 5% Highest In The Market Maximum Loss 10% Profit Target - Profit Share Up to 90% Withdrawal / Payout Same day after approval Refundable Fee Refund Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowe",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "hase to complete.\\\\nTo pass the Ability One challenge, traders need to reach the 10% profit target while staying within the 3% daily drawdown and 6% maximum drawdown limits. There is no time limit, allowing traders to complete the challenge at their own pace.\\\"},{\\\"id\\\":\\\"6a620af5f198ee0014750d7",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "s a one-step prop firm challenge, Ability One requires traders to reach a single 10% profit target while staying within a tighter 6% maximum drawdown. This means it may suit traders who have a tested strategy and disciplined risk management, without the second phase found in a two-step challenge.\\\",\\\"",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "7.5",
+    "snippet": "nlimited Unlimited Unlimited Min Trading Days 4 Days 4 Days No minimum Max Daily Loss Highest In The Market 7.5% 5% 5% Maximum Loss Highest In The Market 15% 10% 10% Profit Target 10% 5% - Profit Share - - Up to 90% Withdrawal / Payout - - Same day after appro",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ns \u2014 Trading Period Unlimited Min Trading Days 4 Days Highest In The Market Max Daily Loss 5% Highest In The Market Maximum Loss 10% Profit Target 5% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"Live Phase has a daily drawdown of 10%\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1},{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"nor",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "\\\"children\\\":[{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"Daily Drawdown (3%) \u2192 $3,000 \u2192 Equity must not fall below $97,000 that day.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1}],\\\"direction\\\":null,\\\"textStyle\\\":\\\"",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "e challenge, traders need to reach the 10% profit target while staying within the 3% daily drawdown and 6% maximum drawdown limits. There is no time limit, allowing traders to complete the challenge at their own pace.\\\"},{\\\"id\\\":\\\"6a620af5f198ee0014750d74\\\",\\\"blockName\\\":null",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "15",
+    "snippet": "s 4 Days 4 Days No minimum Max Daily Loss Highest In The Market 7.5% 5% 5% Maximum Loss Highest In The Market 15% 10% 10% Profit Target 10% 5% - Profit Share - - Up to 90% Withdrawal / Payout - - Same day after approval Refundable Fee - - Refund Consistency",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Trading Days 4 Days Highest In The Market Max Daily Loss 5% Highest In The Market Maximum Loss 10% Profit Target 5% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "0,\\\"version\\\":1,\\\"children\\\":[{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"The Absolute Drawdown (Maximum Drawdown) is 6% of the initial account balance and remains fixed throughout the challenge.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1}],\\\"direction\\\":nul",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "\\\"two\\\":\\\"10%, then 5%\\\"},{\\\"id\\\":\\\"6a4d101eb557bb0014160d5e\\\",\\\"feature\\\":\\\"Daily / Max Loss\\\",\\\"instant\\\":\\\"5% / 10%\\\",\\\"one\\\":\\\"3% / 6% (static)\\\",\\\"two\\\":\\\"7.5% then 5% / 15% then 10%\\\"},{\\\"id\\\":\\\"6a4d101eb557bb0014160d5f\\\",\\\"feature\\\":\\\"Min Trading Days\\\",\\\"instant\\\":\\\"5\\\",\\\"o",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "10",
+    "snippet": "y Loss Highest In The Market 7.5% 5% 5% Maximum Loss Highest In The Market 15% 10% 10% Profit Target 10% 5% - Profit Share - - Up to 90% Withdrawal / Payout - - Same day after approval Refundable Fee - - Refund Consistency Rule Upgraded None None None News Trading / Weeke",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "In The Market 15% 10% 10% Profit Target 10% 5% - Profit Share - - Up to 90% Withdrawal / Payout - - Same day after approval Refundable Fee - - Refund Consistency Rule Upgraded None None None News Trading / Weekend Holding Upgraded Allowed Allowed A",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "Days Highest In The Market Max Daily Loss 7.5% Highest In The Market Maximum Loss 15% Profit Target 10% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "am, your goal is to complete the two-step challenge. After passing, you'll get up to 100% of your fee refunded on your first payout, and you'll be moved to a live trading account with the full account size. Monetize Your Skills Now it's time to put your trading skills to work. Use the strategies th",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "0% Min Trading Days 4 Days Time limit Unlimited Phase 3: Live Funded Profit Share 75% - 90% Payout Cycle Bi-weekly After your first live trade With your first available 14 days Scaling Ceiling Over $2M Fee Refund Up to 100% 14 YEARS OF TRADING LEGACY Choose Your F",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "trading days\\\"},{\\\"id\\\":\\\"6a4d0febb557bb0014160d49\\\",\\\"icon\\\":null,\\\"text\\\":\\\"Up to 80% profit share,No monthly fees\\\"},{\\\"id\\\":\\\"6a4d0febb557bb0014160d4a\\\",\\\"icon\\\":null,\\\"text\\\":\\\"No monthly fees\\\"}],\\\"title\\\":\\\"Instant Funding\\\",\\\"description\\\":\\\"Best for: traders wh",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "4",
+    "snippet": "lenge Verification Live Account Trading Period Unlimited Unlimited Unlimited Min Trading Days 4 Days 4 Days No minimum Max Daily Loss Highest In The Market 7.5% 5% 5% Maximum Loss Highest In The Market 15% 10% 10% Profit Target 10% 5% - Profit S",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "id\\\":\\\"6a4d0febb557bb0014160d48\\\",\\\"icon\\\":null,\\\"text\\\":\\\"5% daily, 10% max, with 5 minimum trading days\\\"},{\\\"id\\\":\\\"6a4d0febb557bb0014160d49\\\",\\\"icon\\\":null,\\\"text\\\":\\\"Up to 80% profit share,No monthly fees\\\"},{\\\"id\\\":\\\"6a4d0febb557bb0014160d4a\\\",\\\"icon\\\":null,\\\"text\\\":\\\"No monthly fees",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": ":\\\"7.5% then 5% / 15% then 10%\\\"},{\\\"id\\\":\\\"6a4d101eb557bb0014160d5f\\\",\\\"feature\\\":\\\"Min Trading Days\\\",\\\"instant\\\":\\\"5\\\",\\\"one\\\":\\\"3\\\",\\\"two\\\":\\\"4 per phase\\\"},{\\\"id\\\":\\\"6a4d101eb557bb0014160d60\\\",\\\"feature\\\":\\\"Upfront Fee\\\",\\\"instant\\\":\\\"One-time, no monthly fees\\\",\\\"one\\\":\\\"Low, refund",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "\\\"p2\\\":\\\"10%\\\"},{\\\"id\\\":\\\"6a6031589b0a2e0014e6d1da\\\",\\\"highlight\\\":false,\\\"label\\\":\\\"Minimum Trading Days\\\",\\\"p1\\\":\\\"4 Days\\\",\\\"p2\\\":\\\"4 Days\\\"},{\\\"id\\\":\\\"6a6031589b0a2e0014e6d1db\\\",\\\"highlight\\\":false,\\\"label\\\":\\\"Time Limit\\\",\\\"p1\\\":\\\"Unlimited\\\",\\\"p2\\\":\\\"Unlimited\\\"}],\\\"blockType",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "\"6% (Static)\\\"},{\\\"id\\\":\\\"6a620af5f198ee0014750d6b\\\",\\\"highlight\\\":false,\\\"label\\\":\\\"Min Trading Days\\\",\\\"value\\\":\\\"3 Days\\\"},{\\\"id\\\":\\\"6a620af5f198ee0014750d6c\\\",\\\"highlight\\\":true,\\\"label\\\":\\\"Time Limit\\\",\\\"value\\\":\\\"No Limit\\\"}],\\\"title\\\":\\\"The Evaluation\\\"},{\\\"id\\\":\\\"6a620af5f198ee0",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "instant funded account from day one, no evaluation to pass 5% daily, 10% max, with 5 minimum trading days Up to 80% profit share,No monthly fees No monthly fees Get Instant Funding 1 Most Popular Ability Challenge ( 2 Steps ) Best for: disciplined traders who want the lowest en",
+    "url": "https://audacity.capital/funded-trader-program/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "Join Competition REGISTRATION DEADLINE: OCTOBER 31 01 1ST PLACE ABILITY CHALLENGE $200K 02 2ND PLACE ABILITY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join Competition REGISTRATION DEADLINE: OCTOBER 31 Learn to Trade Like an Institution. For F",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "DLINE: OCTOBER 31 01 1ST PLACE ABILITY CHALLENGE $200K 02 2ND PLACE ABILITY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join Competition REGISTRATION DEADLINE: OCTOBER 31 Learn to Trade Like an Institution. For Free. AudaCity Capital Trader Uni",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ed Account Ability Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "hallenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our suppo",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "lity One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if you",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "nstant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if you have any questions.",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "120",
+    "snippet": "type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"The trader has a $120k Account. They have a max daily drawdown of $9k during Challenge Phase, so the Daily Drawdown level is set at $111k for the day. The trader opens the first trade and clos",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "ormal\\\",\\\"text\\\":\\\"The trader has a $120k Account. They have a max daily drawdown of $9k during Challenge Phase, so the Daily Drawdown level is set at $111k for the day. The trader opens the first trade and closes it with profit $3k. Their balance is now $12",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "111",
+    "snippet": "daily drawdown of $9k during Challenge Phase, so the Daily Drawdown level is set at $111k for the day. The trader opens the first trade and closes it with profit $3k. Their balance is now $123k and the new daily drawdown threshold is set at $113,775 (7.5% fro",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "set at $111k for the day. The trader opens the first trade and closes it with profit $3k. Their balance is now $123k and the new daily drawdown threshold is set at $113,775 (7.5% from $123k). They open another position and close it at a loss of $10k. The bal",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "250",
+    "snippet": "in Changing Lives Through Capital Founded in 2012. Active in 140+ countries. Over $250M paid out. 500K+ traders strong. Get Started Free Trial INTRODUCING THE New Audacity Capital Payouts in the same day upon approval Get paid the moment you suc",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Join Competition REGISTRATION DEADLINE: OCTOBER 31 01 1ST PLACE ABILITY CHALLENGE $200K 02 2ND PLACE ABILITY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join Competition REGISTRATION DEADLINE: OCTOBER 31 Learn to Trade Like an Institution. For",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "DLINE: OCTOBER 31 01 1ST PLACE ABILITY CHALLENGE $200K 02 2ND PLACE ABILITY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join Competition REGISTRATION DEADLINE: OCTOBER 31 Learn to Trade Like an Institution. For Free. AudaCity Capital Trader Un",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ed Account Ability Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "42",
+    "snippet": "bility Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "49",
+    "snippet": "ty Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "hallenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our supp",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "68",
+    "snippet": "eps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsAp",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "79",
+    "snippet": "Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "lity One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if you",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "168",
+    "snippet": "ep) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if you have any quest",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "195",
+    "snippet": "TP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if you have any questions.",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "ading goals. Unlimited Time No countdown on either phase; trade at your own pace. Static Drawdown, Clear Rules Fixed daily and maximum limits, so you always know where you stand. Up to 90% profit share Keep the lion's share of the profits you generate. Refund Fee",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "trailing",
+    "snippet": ":114,\\\"focalX\\\":50,\\\"focalY\\\":50},\\\"title\\\":\\\"Static Drawdown\\\",\\\"description\\\":\\\"No trailing drawdown nonsense. Your floor stays fixed based on initial balance.\\\"},{\\\"id\\\":\\\"6a620af5f198ee0014750d82\\\",\\\"icon\\\":{\\\"id\\\":2172,\\\"alt\\\":\\\"container\\\",\\\"updatedAt\\\":\\\"2026-07-23",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule anymore\n Not anymore\n \n The fastest scaling plan in the market\n Get funded up to 768K wit",
+    "snippet": "moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the market Get funded up to 768K with FTP Payouts in the same day upon approval Get paid the moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule a",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule Upgraded None\n None\n None\n \n News Trading / Weekend Holding Upgraded Allowed\n Allowed\n Al",
+    "snippet": "Withdrawal / Payout - - Same day after approval Refundable Fee - - Refund Consistency Rule Upgraded None None None News Trading / Weekend Holding Upgraded Allowed Allowed Allowed EAs Allowed / Copy Trading Upgraded Allowed Allowed Allowed Scaling Plans \u2014 \u2014 \u2014 Challenge Trading Period Unlimited Min Trading Days 4 Days Highest",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule None\n Upgraded News Trading / Weekend Holding Allowed\n Upgraded EAs Allowed / Copy Tradin",
+    "snippet": "Profit Target 10% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed Scaling Plans \u2014 Trading Period Unlimited Min Trading Days 4 Days Highest In The Market Max Daily Loss 5% Highest In The Market Maximum Loss 10% P",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule Helps You Become More Profitable:\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"forma",
+    "snippet": "\\\":1},{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"How the Consistency Rule Helps You Become More Profitable:\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1},{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"Avoiding the lure of a hefty single-day profit in favour ",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule is a crucial component of our Ability Challenge and The Funded Trader Program",
+    "snippet": "sion\\\":1},{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":1},{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"The Consistency Rule is a crucial component of our Ability Challenge and The Funded Trader Program. It not only motivates traders to refine their skills but also aid",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "Portugu\u00eas Deutsch Filippino \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0939\u093f\u0928\u094d\u0926\u0940 \u65e5\u672c\u8a9e Login No countdown. No consistency rule. Clear both phases and trade a funded account with a firm that's been paying traders since 2012. Two Step Prop Firm Challenge: Ability Challenge (2 steps) \u2014 Get Funded",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "every 14 days",
+    "snippet": "th our rapid scaling plan, you can grow your account up to $2 million and enjoy fast payouts every 14 days. 14 YEARS OF TRADING LEGACY Our Capital, Your Skills Join 1 million+ traders from 150+ countries who started their successful trading career with AudaCity Capita",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Bi-weekly",
+    "snippet": "ding Days 4 Days Time limit Unlimited Phase 3: Live Funded Profit Share 75% - 90% Payout Cycle Bi-weekly After your first live trade With your first available 14 days Scaling Ceiling Over $2M Fee Refund Up to 100% 14 YEARS OF TRADING LEGACY Choose Your Funded Account A",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "monthly",
+    "snippet": "TP Profit Sharing and Payouts\\\",\\\"body\\\":\\\"Keep up to 80% of your profits with clear payout requirements and no monthly fees. Trade for a minimum of 5 days, build your profits within the program\u2019s trading rules, and request your payout once the applicable requirements are met.\\\"},{\\\"id\\\":",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "Daily",
+    "snippet": "phase Pass two phases (Challenge, then Verification) Profit Target 10% to unlock withdrawals 10% 10%, then 5% Daily / Max Loss 5% / 10% 3% / 6% (static) 7.5% then 5% / 15% then 10% Min Trading Days 5 3 4 per phase Upfront Fee One-time, no monthly fees Low, refundable Lowest",
+    "url": "https://audacity.capital/funded-trader-program/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "bank transfer",
+    "snippet": "ersion\\\":1,\\\"children\\\":[{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"Withdrawals can be made via bank transfers, PayPal, and cryptocurrency.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1}],\\\"direction\\\":null,\\\"textStyle\\\":\\\"\\\",\\\"textFormat\\\":0}],\\\"dir",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "ldren\\\":[{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"Withdrawals can be made via bank transfers, PayPal, and cryptocurrency.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1}],\\\"direction\\\":null,\\\"textStyle\\\":\\\"\\\",\\\"textFormat\\\":0}],\\\"direction\\\":",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "mode\\\":\\\"normal\\\",\\\"text\\\":\\\"Withdrawals can be made via bank transfers, PayPal, and cryptocurrency.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1}],\\\"direction\\\":null,\\\"textStyle\\\":\\\"\\\",\\\"textFormat\\\":0}],\\\"direction\\\":null}}},{\\\"i",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "nging strategies after losses and ignoring drawdown limits can all undermine an otherwise effective trading plan. What to Look for in a 2-Step Prop Firm The right evaluation should give you clear rules, realistic targets and trading conditions that fit",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "nge whenever you're ready. Are there any hidden rules I should know about? \u2304 No surprises, the requirements are the published profit targets, the static daily and maximum drawdown limits, and the four-trading-day minimum per phase, with no time limit. For th",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "oard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the market Get funded up to 768K with FTP Payouts in the same day upon approval Get paid the moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the ma",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "r trading knowledge into practice with our Prop Firm Free Trial. Test your strategy, master risk management, and experience a simulated funded trading environment before taking on a live funded account. Start Free Trial Company Terms of Use Contact Us Affiliate Program About Us AML Policy Prohibited Trading Practices Code of Conduct Commu",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ned by the amount of profit it generates; its performance during both favorable and unfavorable conditions is equally crucial. Consistency of results is a key aspect of any strategy.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1},{\\\"type\\\":\\\"linebreak\\\",\\\"version\\\":",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "here you can begin trading for profit splits.\\\"}],\\\"heading\\\":\\\"One-Step Evaluation Basics\\\"},{\\\"id\\\":\\\"6a61fd4bf198ee0014750d52\\\",\\\"icon\\\":null,\\\"questions\\\":[{\\\"id\\\":\\\"6a61fd4bf198ee0014750d4d\\\",\\\"question\\\":\\\"What happens if I break a rule during the 1 step challenge?\\\",\\\"answer\\\":\\\"\\\\nIf you exceed the 3% daily or 6% maximum drawdown,",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "f does not carry out any regulated activities and consequently is not required to be authorized by the Financial Conduct Authority. All of AudaCity\u2019s preferred clearers do conduct regulated activities and are authorized to do so by the Financial Conduct Authority. 2.2 Failure to engage in trading ac",
+    "url": "https://audacity.capital/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Empowering Traders Sinc",
+    "snippet": "Audacity Capital | Best Prop Trading Firm in 2026 : Empowering Traders Since 2012 \ud83c\udf93 Join Trader University About Funding Ability Challenge Ability One Instant Funding Free Trial Stories Trader Success Stories Trader Fail Stories Competition",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Payouts in the sa",
+    "snippet": "raders strong. Get Started Free Trial INTRODUCING THE New Audacity Capital Payouts in the same day upon approval Get paid the moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule anymore Not anymore The faste",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Receive your payout in your dashboard wallet the sa",
+    "snippet": "y Capital Payouts in the same day upon approval Get paid the moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the market Get funded up to 768K with FTP Payouts in the same day upon approval",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "EUR Contact our support on WhatsA",
+    "snippet": "9 Best Seller $100K 14 % OFF $472 $549 $200K 14 % OFF $902 $1,049 \ud83c\uddfa\ud83c\uddf8 USD \ud83c\uddec\ud83c\udde7 GBP \ud83c\uddea\ud83c\uddfa EUR Contact our support on WhatsApp if you have any questions. Celebrating 14 Years, 14% OFF For All Programs 14th Done Pay $49 $42 For $5K Account Ability Challenge (2 steps) Challenge Ver",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Trading Period Unlimited",
+    "snippet": "or $5K Account Ability Challenge (2 steps) Challenge Verification Live Account Trading Period Unlimited Unlimited Unlimited Min Trading Days 4 Days 4 Days No minimum Max Daily Loss Highest In The Market 7.5% 5% 5% Maximum Loss Highest In The Market 15% 10%",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Sa",
+    "snippet": "n The Market Maximum Loss 10% Profit Target - Profit Share Up to 90% Withdrawal / Payout Same day after approval Refundable Fee Refund Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "our trading account directly from your browser. Manag",
+    "snippet": "edentials to begin trading. This web-based terminal allows you to seamlessly access your trading account directly from your browser. Manage trades, analyze market trends, and execute orders\u2014all without the need to download or install additional software. Show More Questions Experience a Prop Firm Free",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "irm Free Trial. Test your strategy, master risk manag",
+    "snippet": "ree Trial Before You Commit Put your trading knowledge into practice with our Prop Firm Free Trial. Test your strategy, master risk management, and experience a simulated funded trading environment before taking on a live funded account. Start Free Trial Company Terms of Use Contact Us Affiliate Progra",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "15850",
+    "snippet": "acilitator. All trading-related activities are operated through AudaCity Global LTD (Registration Number: 15850), licensed under the International Brokerage and Clearing House Licence (L15850/WL) issued by the Union of Comoros, with a registered office at Hamchako, Mutsamudu, Anjo",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "HE469039",
+    "snippet": "quare, Level 11, London, E14 4QZ, and maintain a partnership with Propmetry Limited (Company Number: HE469039), based in Limassol, Cyprus, which acts as an additional payment partner. This website and all services are offered through our sole domain at https://audacity.capital",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available in jurisdictions where such activities are restricted or prohibited, including but not limited to Syria, I",
+    "snippet": "ite and participation in our programs is subject to local laws, and our services are not available in jurisdictions where such activities are restricted or prohibited, including but not limited to Syria, Iran, and North Korea. U.S. residents may only participate via the DX Trade platform where permitted. Users are responsible for ensuring",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "restricted or prohibited by law in some countries, and you undertake to only access and use the Services in accordance w",
+    "snippet": "es are available. You acknowledge that your access to and use of the Services may be restricted or prohibited by law in some countries, and you undertake to only access and use the Services in accordance with applicable laws. 1.3 Any new features or tools which are added to the current store(under provided accounts section) shall also be ",
+    "url": "https://audacity.capital/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable Fee -\n -\n Refund\n \n Consistency Rule Upgraded None\n None\n None\n \n News Trading / Weekend Holding Upgraded All",
+    "snippet": "Profit Share - - Up to 90% Withdrawal / Payout - - Same day after approval Refundable Fee - - Refund Consistency Rule Upgraded None None None News Trading / Weekend Holding Upgraded Allowed Allowed Allowed EAs Allowed / Copy Trading Upgraded Allowed Allowed Allowed Scaling Plans \u2014 \u2014 \u2014 Challenge Trading Period Unlimited Min Trading Days 4 ",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable Fee -\n Upgraded Consistency Rule None\n Upgraded News Trading / Weekend Holding Allowed\n Upgraded EAs Allowed ",
+    "snippet": "e Market Maximum Loss 15% Profit Target 10% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed Scaling Plans \u2014 Trading Period Unlimited Min Trading Days 4 Days Highest In The Market Max Daily Loss 5% Highest In The",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable Fee Refund\n Upgraded Consistency Rule None\n Upgraded News Trading / Weekend Holding Allowed\n Upgraded EAs All",
+    "snippet": "rofit Target - Profit Share Up to 90% Withdrawal / Payout Same day after approval Refundable Fee Refund Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed Scaling Plans \u2014 14 YEARS OF TRADING LEGACY Made For Traders. By Traders Exclusive Benefits Up to 2 Million Tradin",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "refunded on your first payout, and you'll be moved to a live trading account with the full account size",
+    "snippet": "to complete the two-step challenge. After passing, you'll get up to 100% of your fee refunded on your first payout, and you'll be moved to a live trading account with the full account size. Monetize Your Skills Now it's time to put your trading skills to work. Use the strategies that match your style and start earning. With our rapid scal",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading / Weekend Holding Upgraded Allowed\n Allowed\n Allowed\n \n EAs Allowed / Copy Trading Upgraded Allowed\n Allowe",
+    "snippet": "oval Refundable Fee - - Refund Consistency Rule Upgraded None None None News Trading / Weekend Holding Upgraded Allowed Allowed Allowed EAs Allowed / Copy Trading Upgraded Allowed Allowed Allowed Scaling Plans \u2014 \u2014 \u2014 Challenge Trading Period Unlimited Min Trading Days 4 Days Highest In The Market Max Daily Loss 7.5% Highest In The Market M",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading / Weekend Holding Allowed\n Upgraded EAs Allowed / Copy Trading Allowed\n Scaling Plans \u2014\n \n Trading Period U",
+    "snippet": "- Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed Scaling Plans \u2014 Trading Period Unlimited Min Trading Days 4 Days Highest In The Market Max Daily Loss 5% Highest In The Market Maximum Loss 10% Profit Target 5% Profit Share - ",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading / Weekend Holding Allowed\n Upgraded EAs Allowed / Copy Trading Allowed\n Scaling Plans \u2014\n \n \n 14 YEARS OF TR",
+    "snippet": "day after approval Refundable Fee Refund Upgraded Consistency Rule None Upgraded News Trading / Weekend Holding Allowed Upgraded EAs Allowed / Copy Trading Allowed Scaling Plans \u2014 14 YEARS OF TRADING LEGACY Made For Traders. By Traders Exclusive Benefits Up to 2 Million Trading Funds Premium Spreads & Fast Execution Cloud Based Robust Tec",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard \n Affiliates Resources Support Guides Assets FAQ Dashboard \n EN English T\u00fcrk\u00e7e Espa\u00f1ol Fran\u00e7ais Italiano Port",
+    "snippet": "nding Free Trial Stories Trader Success Stories Trader Fail Stories Competition Leaderboard Affiliates Resources Support Guides Assets FAQ Dashboard EN English T\u00fcrk\u00e7e Espa\u00f1ol Fran\u00e7ais Italiano Portugu\u00eas Deutsch Filippino \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0939\u093f\u0928\u094d\u0926\u0940 \u65e5\u672c\u8a9e Login Changing Lives Through Capital Founded in 2012. Active in 140+ countries. Over $250M p",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n \n Where Traders Become Champions Join Competition REGISTRATION DEADLINE: OCTOBER 31 \n 01 1ST PLACE ABILITY C",
+    "snippet": "nymore The fastest scaling plan in the market Get funded up to 768K with FTP Learn more Where Traders Become Champions Join Competition REGISTRATION DEADLINE: OCTOBER 31 01 1ST PLACE ABILITY CHALLENGE $200K 02 2ND PLACE ABILITY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join Competition REGISTRATION DEADLINE: OCTOBER 31 Learn to Trade",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "EADLINE: OCTOBER 31 \n \n Learn to Trade Like an Institution",
+    "snippet": "TY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join Competition REGISTRATION DEADLINE: OCTOBER 31 Learn to Trade Like an Institution. For Free. AudaCity Capital Trader University teaches you the professional mindset, market structure, and risk discipline used by funded prop traders \u2014 for free Start",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "eaches you the professional mindset, market structure, and risk discipline used by funded prop traders \u2014 for free\n Start",
+    "snippet": "Learn to Trade Like an Institution. For Free. AudaCity Capital Trader University teaches you the professional mindset, market structure, and risk discipline used by funded prop traders \u2014 for free Start Learning for Free View Curriculum 14 YEARS OF TRADING LEGACY Choose Your Funded Account Ability Challenge (2 steps) Ability One (1 step) F",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "earning for Free View Curriculum \n \n 14 YEARS OF TRADING LEGACY Choose Your Funded Account\n Ability Challenge (2 steps) ",
+    "snippet": "market structure, and risk discipline used by funded prop traders \u2014 for free Start Learning for Free View Curriculum 14 YEARS OF TRADING LEGACY Choose Your Funded Account Ability Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Se",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "il upon account purchase.\\\"},{\\\"id\\\":\\\"6a47d71ba707e55720633e73\\\",\\\"question\\\":\\\"Are VPN and VPS permitted?\\\",\\\"answer\\\":\\\"As part of our standard policy, the use of VPN services by traders is generally prohibited due to concerns related to IP tracking and the risk of server misuse. However, in special cases where a trader presents a vali",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "VPS",
+    "snippet": "ill be carefully reviewed and are subject to approval.\\\\n\\\\nConversely, the use of a VPS is permitted, provided it is utilized for Expert Advisors (EAs) in a manner that does not result in server abuse.\\\\n\\\\nYou are allowed to trade using other WiFi networks. However, please be aware that our risk team is closely monitoring traders' accou",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "ay make one entry per trading period. Multiple entries using the same email, device, IP address, or other identifying details may be flagged for review and could lead to disqualification.\\\\nThis keeps the field fair for everyone and prevents users from gaining an unfair advantage through multiple accounts.\\\\nIf several traders from the sa",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@audacity.capital",
+    "snippet": "xt\\\":\\\"https://schema.org\\\",\\\"contactPoint\\\":{\\\"@type\\\":\\\"ContactPoint\\\",\\\"email\\\":\\\"support@audacity.capital\\\",\\\"contactType\\\":\\\"customer support\\\"}},{\\\"url\\\":\\\"https://audacity.capital\\\",\\\"name\\\":\\\"AudaCity Capital\\\",\\\"@type\\\":\\\"WebSite\\\",\\\"@context\\\":\\\"https://schema.org\\\",\\\"",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "partners@audacity.capital",
+    "snippet": "\"textFormat\\\":0}],\\\"direction\\\":null}},\\\"cta\\\":{\\\"type\\\":\\\"custom\\\",\\\"url\\\":\\\"mailto:partners@audacity.capital\\\",\\\"internalUrl\\\":\\\"/support\\\",\\\"anchorLabel\\\":null,\\\"label\\\":\\\"Contact Us\\\"}},{\\\"id\\\":\\\"6a844928ddd83f14a972ff9c\\\",\\\"image\\\":null,\\\"blockName\\\":null,\\\"blockType\\\":\\\"fre",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "info@audacitycapital.co.uk",
+    "snippet": "ease get in touch with our Data Protection Officer on 0 20 8050 1985 or via email at info@audacitycapital.co.uk . We will respond to your request free of charge and usually within one month. Ability Challenge Terms and Conditions These General Terms and Conditions govern rights",
+    "url": "https://audacity.capital/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "same day",
+    "snippet": "raders strong. Get Started Free Trial INTRODUCING THE New Audacity Capital Payouts in the same day upon approval Get paid the moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule anymore Not anymore The fastest sca",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "instant",
+    "snippet": "},\\\"title\\\":\\\"Real-Time Dashboard\\\",\\\"description\\\":\\\"Track clicks, conversions, and payouts instantly with our advanced institutional-grade affiliate portal.\\\"},{\\\"id\\\":\\\"6a8448c7211e92001444ab81\\\",\\\"icon\\\":{\\\"id\\\":2463,\\\"alt\\\":\\\"Icon\\\",\\\"updatedAt\\\":\\\"2026-08-17T08:48",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "?\\\",\\\"answer\\\":\\\"The Ability Challenge (2 Step) \\u0026 Ability One (1 Step) offers a leverage of 1:100 throughout the challenge, verification, and Live phases across all assets.\\\\nMeanwhile, the FTP (Instant Funding) provides a leverage of 1:30 across all assets.\\\"},{\\\"id",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "1:30",
+    "snippet": "and Live phases across all assets.\\\\nMeanwhile, the FTP (Instant Funding) provides a leverage of 1:30 across all assets.\\\"},{\\\"id\\\":\\\"6a47d487a707e55720633e6a\\\",\\\"question\\\":\\\"Is it necessary to set a Stop Loss?\\\",\\\"answer\\\":\\\"No. A stop loss is not mandatory, but it's s",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan in the market\n Get funded up to 768K with FTP\n \n \n Payouts in the same day upon approval\n Get paid the mome",
+    "snippet": "oard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the market Get funded up to 768K with FTP Payouts in the same day upon approval Get paid the moment you succeed. Receive your payout in your dashboard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the ma",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan in the market\n Get funded up to 768K with FTP\n \n Learn more \n \n Where Traders Become Champions Join Competi",
+    "snippet": "oard wallet the same day. No Consistency Rule anymore Not anymore The fastest scaling plan in the market Get funded up to 768K with FTP Learn more Where Traders Become Champions Join Competition REGISTRATION DEADLINE: OCTOBER 31 01 1ST PLACE ABILITY CHALLENGE $200K 02 2ND PLACE ABILITY ONE $100K 03 3RD PLACE ABILITY CHALLENGE $100K Join C",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plans \u2014\n \u2014\n \u2014\n \n Challenge\n \n Trading Period Unlimited\n Min Trading Days 4 Days\n Highest In The Market Max Daily",
+    "snippet": "Allowed Allowed EAs Allowed / Copy Trading Upgraded Allowed Allowed Allowed Scaling Plans \u2014 \u2014 \u2014 Challenge Trading Period Unlimited Min Trading Days 4 Days Highest In The Market Max Daily Loss 7.5% Highest In The Market Maximum Loss 15% Profit Target 10% Profit Share - Withdrawal / Payout - Refundable Fee - Upgraded Consistency Rule None U",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC verification process?\\\",\\\"answer\\\":{\\\"root\\\":{\\\"type\\\":\\\"root\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"version\\\":1,\\\"",
+    "snippet": "ed07ffeac57e8775c27c\\\",\\\"question\\\":\\\"What steps do I need to follow to complete the KYC verification process?\\\",\\\"answer\\\":{\\\"root\\\":{\\\"type\\\":\\\"root\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"version\\\":1,\\\"children\\\":[{\\\"type\\\":\\\"paragraph\\\",\\\"format\\\":\\\"\\\",\\\"indent\\\":0,\\\"version\\\":1,\\\"children\\\":[{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"KYC verification ",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC verification is required only when a trader requests a profit withdrawal, as identity confirmation is essenti",
+    "snippet": "rmat\\\":\\\"\\\",\\\"indent\\\":0,\\\"version\\\":1,\\\"children\\\":[{\\\"mode\\\":\\\"normal\\\",\\\"text\\\":\\\"KYC verification is required only when a trader requests a profit withdrawal, as identity confirmation is essential to ensure the security of their profit split. When necessary, simply log into your dashboard to complete the KYC process.\\\",\\\"type\\\":\\\"text",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC process",
+    "snippet": "f their profit split. When necessary, simply log into your dashboard to complete the KYC process.\\\",\\\"type\\\":\\\"text\\\",\\\"style\\\":\\\"\\\",\\\"detail\\\":0,\\\"format\\\":0,\\\"version\\\":1}],\\\"direction\\\":null,\\\"textStyle\\\":\\\"\\\",\\\"textFormat\\\":0}],\\\"direction\\\":null}}},{\\\"id\\\":\\\"69",
+    "url": "https://audacity.capital/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fees\\\"},{\\\"id\\\":\\\"6a4d0febb557bb0014160d4a\\\",\\\"icon\\\":null,\\\"text\\\":\\\"No monthly fees\\\"}],\\\"title\\\":\\\"Instant Fu",
+    "snippet": "id\\\":\\\"6a4d0febb557bb0014160d49\\\",\\\"icon\\\":null,\\\"text\\\":\\\"Up to 80% profit share,No monthly fees\\\"},{\\\"id\\\":\\\"6a4d0febb557bb0014160d4a\\\",\\\"icon\\\":null,\\\"text\\\":\\\"No monthly fees\\\"}],\\\"title\\\":\\\"Instant Funding\\\",\\\"description\\\":\\\"Best for: traders who want to skip evaluation and start trading instantly.\\\",\\\"c\\\":{\\\"p\\\":{\\\"type\\\":\\\"interna",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fees\\\",\\\"one\\\":\\\"Low, refundable\\\",\\\"two\\\":\\\"Lowest, refundable\\\"},{\\\"id\\\":\\\"6a4d101eb557bb0014160d61\\\",\\\"featur",
+    "snippet": ":\\\"6a4d101eb557bb0014160d60\\\",\\\"feature\\\":\\\"Upfront Fee\\\",\\\"instant\\\":\\\"One-time, no monthly fees\\\",\\\"one\\\":\\\"Low, refundable\\\",\\\"two\\\":\\\"Lowest, refundable\\\"},{\\\"id\\\":\\\"6a4d101eb557bb0014160d61\\\",\\\"feature\\\":\\\"Profit Share\\\",\\\"instant\\\":\\\"Up to 80%\\\",\\\"one\\\":\\\"Up to 90%\\\",\\\"two\\\":\\\"Up to 90%\\\"}],\\\"blockType\\\":\\\"fundedTraderCompare\\\",\\\"ti",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fees\\\",\\\"one\\\":\\\"Up to 90% / refundable fee\\\",\\\"two\\\":\\\"Up to 90% / refundable fee\\\"},{\\\"id\\\":\\\"6a4d1062b557bb00",
+    "snippet": "lighted\\\":false,\\\"feature\\\":\\\"Profit share \\u0026 fee\\\",\\\"instant\\\":\\\"Up to 80% / no monthly fees\\\",\\\"one\\\":\\\"Up to 90% / refundable fee\\\",\\\"two\\\":\\\"Up to 90% / refundable fee\\\"},{\\\"id\\\":\\\"6a4d1062b557bb0014160d77\\\",\\\"highlighted\\\":false,\\\"feature\\\":\\\"Entry Fee\\\",\\\"instant\\\":\\\"From $199\\\",\\\"one\\\":\\\"100% Refundable\\\",\\\"two\\\":\\\"Lowest Entry",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription fees",
+    "snippet": "p), and FTP (Instant Funding). Each requires a one-time joining fee, with no monthly subscription fees.\\\\nAbility Challenge: A one-time, refundable evaluation fee.\\\\nAbility One: A one-time, refundable evaluation fee.\\\\nFTP (Instant Funding): A one-time joining fee for in",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fees\\\",\\\"updatedAt\\\":\\\"2026-07-21T00:42:37",
+    "snippet": "perform.\\\"},{\\\"id\\\":\\\"6a5ec048302256015674601f\\\",\\\"icon\\\":{\\\"id\\\":2095,\\\"alt\\\":\\\"no monthly fees\\\",\\\"updatedAt\\\":\\\"2026-07-21T00:42:37.833Z\\\",\\\"createdAt\\\":\\\"2026-07-21T00:42:37.699Z\\\",\\\"url\\\":\\\"https://d155jn6047zdky.cloudfront.net/Overlay-7.png\\\",\\\"thumbnailURL\\\":null,\\\"filename\\\":\\\"Overlay-7.png\\\",\\\"",
+    "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Empowering Traders Since 2012 \ud83c\udf93 Join Trader University About Funding Ability Challenge Ability One Instant Funding Free Trial Stories Trader Success Stories Trader Fail Stories Competition Leaderboard Affiliates Resources Support Guides Assets FAQ Dashboard EN Engli",
+   "url": "https://audacity.capital/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "14 YEARS OF TRADING LEGACY Choose Your Funded Account Ability Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14 % OFF $472 $549 $200K",
+   "url": "https://audacity.capital/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "Free View Curriculum 14 YEARS OF TRADING LEGACY Choose Your Funded Account Ability Challenge (2 steps) Ability One (1 step) FTP (Instant Funding) $5K 14 % OFF $42 $49 $10K 14 % OFF $68 $79 $25K 14 % OFF $168 $195 $50K 14 % OFF $283 $329 Best Seller $100K 14",
+   "url": "https://audacity.capital/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "ose finishes are settled.\\\"},{\\\"id\\\":\\\"6a4adba3c260361b01d606b3\\\",\\\"blockName\\\":\\\"How to Compete in 4 Steps\\\",\\\"steps\\\":[{\\\"id\\\":\\\"6a4adba402edf70014b00f2c\\\",\\\"title\\\":\\\"Join\\\",\\\"description\\\":\\\"Register for the current month's competition with your Audacity trader",
+   "url": "https://audacity.capital/two-step-prop-firm-ability-challenge/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "ers Since 2012 \ud83c\udf93 Join Trader University About Funding Ability Challenge Ability One Instant Funding Free Trial Stories Trader Success Stories Trader Fail Stories Competition Leaderboard Affiliates Resources Support Guides Assets FAQ Dashboard EN English T\u00fcrk\u00e7e E",
+   "url": "https://audacity.capital/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "DXtrade"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "sch Filippino \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0939\u093f\u0928\u094d\u0926\u0940 \u65e5\u672c\u8a9e Login Changing Lives Through Capital Founded in 2012. Active in 140+ countries. Over $250M paid out. 500K+ traders strong. Get Started Fr",
+  "peers. Trading Platforms AS SEEN ON 25+ publications Join 500k+ traders from 140+ countries who started their successful trading career with Audacity C",
+  "youts every 14 days. 14 YEARS OF TRADING LEGACY Our Capital, Your Skills Join 1 million+ traders from 150+ countries who started their successful trading career with AudaCity C",
+  "fit sharing, and the opportunity to scale up to larger account sizes.\\\"}],\\\"heading\\\":\\\"Costs, Eligibility \\u0026 Accounts\\\"}],\\\"blockType\\\":\\\"cpFaq\\\",\\\"title\\\":\\\"Frequently Asked Qu",
+  "y for larger capital allocations through Audacity Capital's scaling plan.\\\"}],\\\"heading\\\":\\\"Funded Account \\u0026 Payouts\\\"},{\\\"id\\\":\\\"6a61fd4bf198ee0014750d5e\\\",\\\"icon\\\":null,\\\"que",
+  "\"6aac470a683c010014073167\\\",\\\"icon\\\":null,\\\"title\\\":null,\\\"description\\\":\\\"Funding traders since 2012, across 150+ countries.\\\"},{\\\"id\\\":\\\"6aac47565315d414bceef441\\\",\\\"icon\\\":null,\\\"ti"
+ ],
+ "errors": []
+}

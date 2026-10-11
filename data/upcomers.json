@@ -1,0 +1,635 @@
+{
+ "slug": "upcomers",
+ "name": "Upcomers",
+ "category": "Forex/CFD",
+ "url": "https://upcomers.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://upcomers.com/",
+   "kind": "home",
+   "chars": 18530
+  },
+  {
+   "url": "https://upcomers.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 12689
+  },
+  {
+   "url": "https://upcomers.com/challenge-plans",
+   "kind": "page",
+   "chars": 74491
+  },
+  {
+   "url": "https://upcomers.com/hi/policies/terms-conditions",
+   "kind": "page",
+   "chars": 78632
+  },
+  {
+   "url": "https://upcomers.com/pl/policies/affiliate-terms-conditions",
+   "kind": "page",
+   "chars": 49810
+  },
+  {
+   "url": "https://upcomers.com/de/policies/affiliate-terms-conditions",
+   "kind": "page",
+   "chars": 49975
+  },
+  {
+   "url": "https://upcomers.com/tr/policies/terms-conditions",
+   "kind": "page",
+   "chars": 78701
+  },
+  {
+   "url": "https://upcomers.com/fr/policies/affiliate-terms-conditions",
+   "kind": "page",
+   "chars": 50457
+  },
+  {
+   "url": "https://upcomers.com/pt/policies/affiliate-terms-conditions",
+   "kind": "page",
+   "chars": 49729
+  },
+  {
+   "url": "https://upcomers.com/de/policies/terms-conditions",
+   "kind": "page",
+   "chars": 79243
+  },
+  {
+   "url": "https://upcomers.com/cs/policies/affiliate-terms-conditions",
+   "kind": "page",
+   "chars": 49171
+  },
+  {
+   "url": "https://upcomers.com/policies/affiliate-terms-conditions",
+   "kind": "page",
+   "chars": 49130
+  },
+  {
+   "url": "https://upcomers.com/es/policies/terms-conditions",
+   "kind": "page",
+   "chars": 79189
+  },
+  {
+   "url": "https://upcomers.com/fr/policies/terms-conditions",
+   "kind": "page",
+   "chars": 79725
+  },
+  {
+   "url": "https://help.upcomers.com/en/",
+   "kind": "sub",
+   "chars": 2127
+  },
+  {
+   "url": "https://help.upcomers.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 25082
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 826696,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "100",
+    "snippet": "limit, designed to be cleared in a single trading session. Key Features Only a 2% profit target 1:100 leverage, no time limit Up to 100% profit split Funding up to $1,000,000 Get Funded Thunderbolt - 1 Step Most Popular The one-phase challenge most traders pick. A 5% profit target, 1:100 leverage and",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "Best Prop Firm 2026 | Get Funded Up to $1.5M & Up to 100% Profit Split 1,300+ markets Talk to us Classic Markets Gold, currencies, indices, stocks Futures Index, metals & energy on CME Perpetuals 24/7 BTC, gold, oil, US stocks 1,300+ mark",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": ". Reward Split Commissions begin only from the customer's 4th global payout onwards: 15% on the 4th payout, 5% on the 5th, 3% on the 6th, and 1% on the 7th and all subsequent payouts. No Reward Split Commission is generated on the customer's 1st, 2nd, or 3rd payout. 4.3.2. Re",
+    "url": "https://upcomers.com/pl/policies/affiliate-terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "1",
+    "snippet": "ed path to a funded account. Key Features Two phases, 4% target each (8% total) No minimum trading days 1:100 leverage, no time limit Up to 100% profit split Get Funded Built for serious traders The infrastructure behind every funded account. Flexible rewards Withdraw b",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "ew on Feefo (opens in a new tab) I made my first withdrawal from my EMBER account of $25K and it was approved the same day. Verified Just launched Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x lev",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "Open 24/7, weekends too Evaluation Instant Instant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Chall",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ep 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Ora",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vangua",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "pare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vanguard Higher reward chance",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vanguard Higher reward chance Ember No Daily",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "$31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vanguard Higher reward chance Ember No Daily Drawdown Acc",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "7.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vanguard Higher reward chance Ember No Daily Drawdown Account rules Rew",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "800",
+    "snippet": "90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vanguard Higher reward chance Ember No Daily Drawdown Account rules Reward information",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1",
+    "snippet": "Best Prop Firm 2026 | Get Funded Up to $1.5M & Up to 100% Profit Split 1,300+ markets Talk to us Classic Markets Gold, currencies, indices, stocks Futures Index, metals & energy on CME Perpetuals 24/7 BTC, gol",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250",
+    "snippet": "SR Sudhir R. I'm happy to share that I've successfully received my first payout of $250. Verified Read this review on Feefo (opens in a new tab) SH Sid H. Read this review on Feefo (opens in a new tab) I received all of my payouts in under 2 business da",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ew on Feefo (opens in a new tab) I made my first withdrawal from my EMBER account of $25K and it was approved the same day. Verified Just launched Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x le",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,24",
+    "snippet": "e, filled on Hyperliquid liquidity. Liquidity by xyz: GOLD Long 10x Unrealised P&L +$1,247.83 Entry 3,388.4 Mark 3,412.6 Funding 0.0050% Sunday 03:12 UTC \u00b7 open Gold XAU NVIDIA NVDA S&P 500 SP500 Tesla TSLA Bitcoin BTC Apple AAPL Gold XAU NVIDIA NVDA S&P 500",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "and Upcomers X. Trade on the one you already know. Lightning fast rewards Over $10.5M in verified rewards to traders, sent straight to your bank or crypto wallet. Engineered in-house We build and run our own platform, dashboard, and risk engine. 4",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "Open 24/7, weekends too Evaluation Instant Instant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 80",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15.90",
+    "snippet": "ant Instant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Chal",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "31.90",
+    "snippet": "24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge ty",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "47.90",
+    "snippet": "tep Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Mos",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "79.90",
+    "snippet": "size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K $559.90 $ 500K $839.90 $ 800K $1,199.90 $ 1M $1,439.90 Challenge type Challenge type Oracle Most Affordable Vangu",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "1:100 leverage, no time limit Up to 100% profit split Get Funded Phoenix - 2 Step Static drawdown. Fixed boundary. Two 4% phases with no minimum trading days. A steady, structured path to a funded account. Key Features Two phases, 4% target each (8% total) No min",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "s approved the same day. Verified Just launched Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x leverage, filled on Hyperliquid liquidity. Liquidity by xyz: GOLD Long 10x Unrealised P&L +$1,247.83 En",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "ize, platform, and profit target up front, then start trading in minutes with no surprises waiting in the fine print. Pass the evaluation Hit clear, fixed profit targets while staying inside transparent daily and max-drawdown limits. No hidden tricks, no mo",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "e solution and evaluation services, and all purchases are non-refundable unless otherwise specified in our refund policy. How an Upcomers account works: All trading on Upcomers accounts takes place in a simulated environment on demo accounts. You never depos",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "ders The infrastructure behind every funded account. Flexible rewards Withdraw by bank transfer or crypto - no fees, most approved in under an hour. Your platform, your way MetaTrader 5, TradeLocker, Match-Trader, cTrader and Upcomers X - trade on the one you kno",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   },
+   {
+    "value": "wire transfer",
+    "snippet": "nt in USD. You are responsible for providing a bank account capable of receiving USD wire transfers. Should the receiving bank not support USD, or should a payment be returned due to incorrect, incomplete, or incompatible banking details provided by you, the provision",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "Flow Building, V\u00e1clavsk\u00e9 n\u00e1m\u011bst\u00ed 2132/47, Prague 1) and a US office in Miami (100 Biscayne Blvd, 12th Floor).",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "px;animation:picker-ring-spin 3.2s linear infinite;position:absolute;inset:0;-webkit-mask-image:linear-gradient(#000 0 0),linear-gradient(#000 0 0);mask-image:linear-gradient(#000 0 0),linear-gradient(#000 0 0);-webkit-mask-position:0 0,0 0;mask-position:0 0,0 0;-webkit-mask-size:auto,auto;mask-size:auto,auto;-webkit-mask-repeat:repeat,re",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   },
+   {
+    "value": "Unregulated",
+    "snippet": "where its distribution or use would conflict with applicable local legal statutes. Unregulated Provider. We are not a brokerage firm, nor a trading platform and we do not accept any deposits nor allow you to conduct any real\u2011world financial transactions. The relevant info",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "our Services. Past performance does not predict future results. Legal Disclaimers. CFTC Rule 4.41 notes that hypothetical or simulated performance has inherent limitations that do not fully equate or otherwise mirror to the actual trading in real markets. Furtherm",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "initial virtual funds or other parameters specified by us. 3.3. Unless explicitly authorized by us, the initial virtual funds as well as any cumulative virtual funds acquired during the use of Services shall be non\u2011transferable and non\u2011combinable between any individual products (i.e. different options of Challenges and/or Instant Funding)",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "ply with anti-money laundering, counter-terrorist financing, or sanctions laws. 8. Basic Terms of Use and Intellectual Property 8.1. All elements comprising our Website and Services, including but not limited to the User Section, visual design, applications, data, multimedia content such as text,",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "2026-07-08T09:55:27Z https://help.upcomers.com/en/articles/12647969-prohibition-of-unfair-advantage-through-platform-or-data-freezing-due-to-demo-server-errors 2026-07-08T09:54:12Z https://help.upcomers.com/en/articles/12655461-scaling-plan 2026-09-30T14:54:45Z https://help.upcomers.com/en/articles/12657600-using-vpn-vps 2026-07-08T09:54:",
+    "url": "https://help.upcomers.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "traders Languag",
+    "snippet": "hat with support Online now \u00b7 replies in seconds 24/7 Discord community Join 43,000+ traders Language EN Currency $ USD Start challenge Sign in Black Friday Most Trusted Prop Firm of the Year Unlock Black Friday deals As featured in Upcomers expands tradin",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "l of my payouts in under 2 business days which was inc",
+    "snippet": "in a new tab) SH Sid H. Read this review on Feefo (opens in a new tab) I received all of my payouts in under 2 business days which was incredible seeing that money in my bank that fast. Verified XR Xavier R. Read this review on Feefo (opens in a new tab) I made my first withdrawal from my EMBER account",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "K and it was approved the sa",
+    "snippet": "on Feefo (opens in a new tab) I made my first withdrawal from my EMBER account of $25K and it was approved the same day. Verified Just launched Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x leverage, filled on Hyperliqui",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "weekends inc",
+    "snippet": "t of $25K and it was approved the same day. Verified Just launched Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x leverage, filled on Hyperliquid liquidity. Liquidity by xyz: GOLD Long 10x Unrealised P&L",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "account, up to 10x leverag",
+    "snippet": "Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x leverage, filled on Hyperliquid liquidity. Liquidity by xyz: GOLD Long 10x Unrealised P&L +$1,247.83 Entry 3,388.4 Mark 3,412.6 Funding 0.0050% Sunday 03:12 UTC \u00b7 open Gold XA",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Ethereum ETH Google GOOG Solana SOL Sa",
+    "snippet": "TC Apple AAPL Gold XAU NVIDIA NVDA S&P 500 SP500 Tesla TSLA Bitcoin BTC Apple AAPL Ethereum ETH Google GOOG Solana SOL Samsung SMSN BNB BNB Amazon AMZN Ethereum ETH Google GOOG Solana SOL Samsung SMSN BNB BNB Amazon AMZN XRP XRP Microsoft MSFT Cardano ADA Meta META Dogecoin DOGE Netflix N",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "NB Amazon AMZN Ethereum ETH Google GOOG Solana SOL Sa",
+    "snippet": "TSLA Bitcoin BTC Apple AAPL Ethereum ETH Google GOOG Solana SOL Samsung SMSN BNB BNB Amazon AMZN Ethereum ETH Google GOOG Solana SOL Samsung SMSN BNB BNB Amazon AMZN XRP XRP Microsoft MSFT Cardano ADA Meta META Dogecoin DOGE Netflix NFLX XRP XRP Microsoft MSFT Cardano ADA Meta META Dogecoin DOGE Netfli",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Time Limit Unlimited",
+    "snippet": "eward On demand Min. Trading None Min. profit for reward request 1% Account details Time Limit Unlimited Instruments 1,200+ See the list Fee refund Up to 200% AI coach Included News Trading Allowed Automated Trading Allowed Weekend Holding Allowed Show all rules Vanguard",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00579",
+    "snippet": "s Upcomers Ltd. is a legal entity incorporated under the laws of Saint Lucia, with registration number 2025-00579, located at: Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia. Upcomers Ltd. is the designated entity for operating additional tra",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Countries list;\n \u00a01",
+    "snippet": "1.3.1. are nationals of or otherwise residing in any jurisdictions defined in the Restricted Countries list; 1.3.2. are organized, established or incorporated in Restricted Countries; 1.3.3. are managed (business\u2011wise/operational\u2011wise) from any Restricted Countries; 1.3.4.",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Countries;\n \u00a01",
+    "snippet": "e Restricted Countries list; 1.3.2. are organized, established or incorporated in Restricted Countries; 1.3.3. are managed (business\u2011wise/operational\u2011wise) from any Restricted Countries; 1.3.4. have a criminal record related to financial misconduct, fraud, money launderi",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Countries list published on the Website;\n2",
+    "snippet": "not be a resident, national, or entity established in any jurisdiction listed in the Restricted Countries list published on the Website; 2.1.5. not be subject to sanctions, anti-money laundering restrictions, anti-terrorist financing restrictions, or other legal restrictions that would make participation in",
+    "url": "https://upcomers.com/pl/policies/affiliate-terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "prohibited-countries 2026-08-24T07:50:00Z https://help",
+    "snippet": "ers 2026-09-08T15:30:42Z https://help.upcomers.com/en/articles/8703655-are-there-any-prohibited-countries 2026-08-24T07:50:00Z https://help.upcomers.com/en/articles/9059273-what-capital-will-i-trade-with-when-i-buy-a-challenge 2024-03-12T09:12:18Z https://help.upcomers.com/en/articles/9059590-what-does-it-me",
+    "url": "https://help.upcomers.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund Up to 200% AI coach Included News Trading Allowed Automated Trading Allowed Weekend Holding Allowed \n Show all ru",
+    "snippet": "request 1% Account details Time Limit Unlimited Instruments 1,200+ See the list Fee refund Up to 200% AI coach Included News Trading Allowed Automated Trading Allowed Weekend Holding Allowed Show all rules Vanguard $100K Instant $239 . 90 $2,399 $ USD Save $2,159.10 Limited offer 90% off Start challenge +5 Trade on Built in-house Built in",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable unless otherwise specified in our refund policy",
+    "snippet": "r access to the software solution and evaluation services, and all purchases are non-refundable unless otherwise specified in our refund policy. How an Upcomers account works: All trading on Upcomers accounts takes place in a simulated environment on demo accounts. You never deposit trading capital and you neve",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refunds nor financial compensation as a result of such changes (including replacing, adding, or removing elements and fu",
+    "snippet": "y elements and functions of the Services at any time. You shall have no right to any refunds nor financial compensation as a result of such changes (including replacing, adding, or removing elements and functions). 2.10. Should you: 2.10.1. submit an unusually high volume of order forms taking into account the timeframe of such submission",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Refunds",
+    "snippet": "sive and cannot be combined with each other, unless expressly allowed by us. 4.2. Refunds. Upon payment of the fee, the Services are made available to you immediately at your request. You are entitled to withdraw from this contract and receive a full refund",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed Automated Trading Allowed Weekend Holding Allowed \n Show all rules Vanguard $100K\n Instant\n $239",
+    "snippet": "it Unlimited Instruments 1,200+ See the list Fee refund Up to 200% AI coach Included News Trading Allowed Automated Trading Allowed Weekend Holding Allowed Show all rules Vanguard $100K Instant $239 . 90 $2,399 $ USD Save $2,159.10 Limited offer 90% off Start challenge +5 Trade on Built in-house Built in-house Over $10.5M+ in verified rew",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn About Chat EN $ \n Sign in Start challenge \n Call us \n Challenges Payouts Affiliate Learn About Chat with support On",
+    "snippet": ") 803-0830 Classic Markets Futures Perpetuals 24/7 Challenges Payouts Affiliate Learn About Chat EN $ Sign in Start challenge Call us Challenges Payouts Affiliate Learn About Chat with support Online now \u00b7 replies in seconds 24/7 Discord community Join 43,000+ traders Language EN Currency $ USD Start challenge Sign in Black Friday Most Tr",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear \n Unlock Black Friday deals \n As featured in Upcomers expands trading automation across all supported platforms June",
+    "snippet": "$ USD Start challenge Sign in Black Friday Most Trusted Prop Firm of the Year Unlock Black Friday deals As featured in Upcomers expands trading automation across all supported platforms June 2026 Upcomers launches 2.0, expanding into futures with an AI coach and a redesigned experience July 2026 Upcomers expands trading automation across ",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal, verified reviews from funded traders - on Feefo, Google and Myfxbook, never cherry-picked",
+    "snippet": "2026 Everything you need to trade funded Why Upcomers Trusted by 80k+ traders Real, verified reviews from funded traders - on Feefo, Google and Myfxbook, never cherry-picked. SR Sudhir R. I'm happy to share that I've successfully received my first payout of $250. Verified Read this review on Feefo (opens in a new tab) SH Sid H. Read thi",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead this review on Feefo (opens in a new tab) SH Sid H",
+    "snippet": "appy to share that I've successfully received my first payout of $250. Verified Read this review on Feefo (opens in a new tab) SH Sid H. Read this review on Feefo (opens in a new tab) I received all of my payouts in under 2 business days which was incredible seeing that money in my bank that fast. Veri",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead this review on Feefo (opens in a new tab) I received all of my payouts in under 2 business days which was incredible",
+    "snippet": "yout of $250. Verified Read this review on Feefo (opens in a new tab) SH Sid H. Read this review on Feefo (opens in a new tab) I received all of my payouts in under 2 business days which was incredible seeing that money in my bank that fast. Verified XR Xavier R. Read this review on Feefo (opens in a new tab) I made my first withdrawal fr",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": ", shared identity or identity documents, shared payment instruments, shared devices, IP addresses, or other technical or behavioural links between the purchaser and the Affiliate. 4.5.4. Where any conduct described in this Section is identified, we reserve the right to (a) deny or reverse all Commissions associated with the offending orde",
+    "url": "https://upcomers.com/pl/policies/affiliate-terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "vpn",
+    "snippet": "9-certificates 2026-07-10T07:54:38Z https://help.upcomers.com/en/articles/9075659-is-vpn-usage-allowed 2024-03-15T08:13:56Z https://help.upcomers.com/en/articles/9075697-can-i-modify-my-passwords-during-a-challenge 2026-10-01T06:50:24Z https://help.upcomers.com/en/articles/9311123-upcomers-x-overview 2026",
+    "url": "https://help.upcomers.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "help@upcomers.com",
+    "snippet": "r challenge Not ready yet? Ask 43,000+ traders on Discord \u2197 Support 24/7 Support help@upcomers.com EU: +31 970 102 38515 Free with an EU calling plan US: +1 (844) 803-0830 Free for USA How it works What is a Prop Firm Payouts FAQ Company About us Why Upcomers Trad",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "same day",
+    "snippet": "rified XR Xavier R. Read this review on Feefo (opens in a new tab) I made my first withdrawal from my EMBER account of $25K and it was approved the same day. Verified Just launched Trade 24/7, weekends included Crypto, gold, oil, indices and US stocks on one 24/7 account, up to 10x leverage, filled on Hyperliquid liqu",
+    "url": "https://upcomers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "instant",
+    "snippet": "roved in full. BOGO promotions apply only to products operating on an evaluation and payout cycle; products providing instant funding or otherwise not requiring an evaluation shall not be eligible for an additional free account, unless expressly stated otherwise in the terms of the respective p",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "Choose your challenge. Earn your funding. Three evaluation programs. No time limits, 1:100 leverage, up to 100% profit split. The only difference is how many phases you want. Find your plan See rewards Challenge highlights 1:100 Leverage Up to 100% Profit split $",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout caps, and how to request your withdrawal",
+    "snippet": "futures rule in one place. 15 articles Futures payouts Payout conditions, per-payout caps, and how to request your withdrawal. 6 articles Prediction Markets Trade real-world outcomes with a simulated Upcomers funded account. Rules, payouts and how it works. 7 articles Perpetuals (Hyp",
+    "url": "https://help.upcomers.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan, under which the total virtual capital allocation may be increased up to USD 4,000,000 per User, subject to",
+    "snippet": "e maximum allocation limit shall not apply to increases of your allocation under our scaling plan, under which the total virtual capital allocation may be increased up to USD 4,000,000 per User, subject to the terms of the scaling plan as published on our website. 7.7. If you fail to meet some or any of the conditions specified in Section",
+    "url": "https://upcomers.com/hi/policies/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC\") on the Upcomers platform;\n2",
+    "snippet": "have completed and received approval for identity verification (Know Your Customer, \"KYC\") on the Upcomers platform; 2.1.3. be at least 18 years of age; 2.1.4. not be a resident, national, or entity established in any jurisdiction listed in the Restricted Countries list published on the",
+    "url": "https://upcomers.com/pl/policies/affiliate-terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "kyc-verification-required 2026-07-08T09:55:02Z https://help",
+    "snippet": "re-you-located 2026-09-11T13:26:54Z https://help.upcomers.com/en/articles/8493722-is-kyc-verification-required 2026-07-08T09:55:02Z https://help.upcomers.com/en/articles/8493800-how-can-i-become-funded-trader 2024-05-29T10:32:11Z https://help.upcomers.com/en/articles/8493842-what-capital-can-i-get-as-an-upcomers-",
+    "url": "https://help.upcomers.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "kyc 2026-09-11T13:26:53Z https://help",
+    "snippet": "d-account 2025-11-21T08:05:45Z https://help.upcomers.com/en/articles/9064116-what-is-kyc 2026-09-11T13:26:53Z https://help.upcomers.com/en/articles/9070694-what-documents-will-i-need-for-kyc 2026-07-08T09:54:52Z https://help.upcomers.com/en/articles/9070701-do-i-need-to-tax-my-income 2024-03",
+    "url": "https://help.upcomers.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscriptions",
+    "snippet": "n gates. 1 Pick your plan Choose a model, account size and platform. Pay once - no subscriptions. 2 Hit the target Trade your strategy and reach the profit target. No time limits on Classic. 3 Get funded Clear the evaluation and unlock a funded account of up to",
+    "url": "https://upcomers.com/challenge-plans",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "fering plans (i.e. differing minimum\u2011maximum trading days) and differing entering positions, and an Instant Funding service called \u201cVanguard\u201d. We might also refer to all Challenges and Instant Funding jointly as \u201cPrograms\u201d. The information located on the Website is binding w",
+   "url": "https://upcomers.com/hi/policies/terms-conditions"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "utures CME, NYMEX, COMEX, CBOT 24/7 Markets Open 24/7, weekends too Evaluation Instant Instant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90",
+   "url": "https://upcomers.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "CME, NYMEX, COMEX, CBOT 24/7 Markets Open 24/7, weekends too Evaluation Instant Instant 24 1 Step 2 Step Account size $2K \u2013 $1M Card view Compare plans $ 2K $15.90 $ 5K $31.90 $ 10K $47.90 $ 25K $79.90 $ 50K $119.90 Popular $ 100K $239.90 $ 200K $399.90 $ 300K",
+   "url": "https://upcomers.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "1:100 Leverage Up to 100% Profit split $1.5M Max funding <1h Rewards How the evaluation works. Three steps from checkout to your first reward - no approval queues, no hidden gates. 1 Pick your plan Choose a model, account size and platform. Pay once - no subscrip",
+   "url": "https://upcomers.com/challenge-plans"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "TradeLocker",
+  "Match-Trader",
+  "Volumetrica"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "s Payouts Affiliate Learn About Chat with support Online now \u00b7 replies in seconds 24/7 Discord community Join 43,000+ traders Language EN Currency $ USD Start challenge Sign in",
+  "ank or crypto wallet. Engineered in-house We build and run our own platform, dashboard, and risk engine. 43,000+ traders Join our Discord Any questions? Ask Fin, anytime Choose y",
+  "Sipho N. Martina L. Elif Y. Nikolaos P. Rui C. Jericho B. Ka Ho L. Start your challenge Not ready yet? Ask 43,000+ traders on Discord \u2197 Support 24/7 Support help@upcomers.com EU:",
+  "s Payouts Affiliate Learn About Chat with support Online now \u00b7 replies in seconds 24/7 Discord community Join 43,000+ traders Language EN Currency $ USD Start challenge Sign in Choo",
+  "at with this company. EI Erdo\u011fan I. Verified I have traded almost for 6 months in Upcomers, I have reached 3 payouts and I have received money. Their support team is great, whe",
+  "at with this company. EI Erdo\u011fan I. Verified I have traded almost for 6 months in Upcomers, I have reached 3 payouts and I have received money. Their support team is great, whe"
+ ],
+ "errors": []
+}

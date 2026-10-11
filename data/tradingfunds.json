@@ -1,0 +1,640 @@
+{
+ "slug": "tradingfunds",
+ "name": "TradingFunds",
+ "category": "Specialist",
+ "url": "https://tradingfunds.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tradingfunds.com/",
+   "kind": "home",
+   "chars": 7587
+  },
+  {
+   "url": "https://tradingfunds.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 495
+  },
+  {
+   "url": "https://tradingfunds.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 40173
+  },
+  {
+   "url": "https://tradingfunds.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 16914
+  },
+  {
+   "url": "https://tradingfunds.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 281
+  },
+  {
+   "url": "https://tradingfunds.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 214
+  },
+  {
+   "url": "https://tradingfunds.com/11-faqs-about-forex-funding/",
+   "kind": "page",
+   "chars": 9329
+  },
+  {
+   "url": "https://tradingfunds.com/prop-trading-challenge-tips-master-the-evaluation-process/",
+   "kind": "page",
+   "chars": 9460
+  },
+  {
+   "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+   "kind": "page",
+   "chars": 5835
+  },
+  {
+   "url": "https://tradingfunds.com/the-ultimate-guide-to-a-prop-firm-scaling-plan-your-roadmap-to-trading-success/",
+   "kind": "page",
+   "chars": 7820
+  },
+  {
+   "url": "https://tradingfunds.com/prop-firm-challenges-forex-trading-strategies/",
+   "kind": "page",
+   "chars": 12027
+  },
+  {
+   "url": "https://tradingfunds.com/two-step-challenge/",
+   "kind": "page",
+   "chars": 3720
+  },
+  {
+   "url": "https://tradingfunds.com/understanding-buy-now-pay-later-trading-challenges-for-forex-traders/",
+   "kind": "page",
+   "chars": 7933
+  },
+  {
+   "url": "https://tradingfunds.com/funding-without-challenges-is-instant-funding-right-for-you/",
+   "kind": "page",
+   "chars": 7416
+  },
+  {
+   "url": "https://tradingfunds.com/do-trading-challenges-really-prepare-you-for-funded-success/",
+   "kind": "page",
+   "chars": 12206
+  },
+  {
+   "url": "https://tradingfunds.com/one-step-challenge/",
+   "kind": "page",
+   "chars": 3160
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 144585,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "o 80% Weekend Holding Allowed News Trading Allowed Rules Evaluation Funded Profit Target 5% None Time Limit None None Min Trading Days 3 3 Trailing Drawdown 5% 5% Daily Drawdown 3% 3% Payouts None On Demand Profit Share None Up to 70% Weekend Hold",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "Weekend Holding Yes Yes News Trading Allowed Allowed Rules Evaluation Funded Profit Target 4% None Min Trading Days 1 day None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 6% 6% Payouts None Instant Profit Share None Up to 80% W",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "end Holding Allowed Allowed News Trading Allowed Allowed Rules 1-Step Funded Profit Target 10% None Min Trading Days 4 days None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 8% 8% Payouts None Bi-Weekly Profit Share None 80% Week",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "ng Allowed Allowed News Trading Allowed Allowed Rules Phase 1 Phase 2 Funded Profit Target 8% 6% None Min Trading Days 3 days 3 days None Max Trading Days None None None Daily Drawdown 5% 5% 5% Static Drawdown 8% 8% 8% Payouts None None Bi-Weekly Prof",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "Days 1 EOD Drawdown $2,000 Daily Drawdown (optional) $1,250 News Trading Yes Profit Target 6% Max Positions E-mini 3 | E-micro 30 Activation Fee Yes Scaling Yes Rules Entry Min Trading Days None EOD Drawdown $2,000 Daily Drawdown (optional) $1,2",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "Rules Funded Profit Target None Min Trading Days None Max Trading Days None Daily Drawdown 5% Trailing Drawdown 6% Payouts Instant Profit Share Up to 80% Weekend Holding Allowed News Trading Allowed Rules Evaluation Funded Profit Target 5% None",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "et 5% None Time Limit None None Min Trading Days 3 3 Trailing Drawdown 5% 5% Daily Drawdown 3% 3% Payouts None On Demand Profit Share None Up to 70% Weekend Holding Yes Yes News Trading Allowed Allowed Rules Evaluation Funded Profit Target 4% None",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "real market conditions. You\u2019re given specific rules, such as: A target profit (e.g. 10%) A maximum drawdown or daily loss limit A minimum number of trading days And sometimes, restrictions on holding trades overnight or over the weekend If you meet the profit target without",
+    "url": "https://tradingfunds.com/do-trading-challenges-really-prepare-you-for-funded-success/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "your guarantee: Same account, same credentials Same rules, same profit split up to 90% Same payouts - pending payouts processed normally Same platforms: MetaTrader 5, TradeLocker, MatchTrader Same support team New Traders, Welcome to FTUK Here's what you're getting: Instan",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "e payouts Pay After You Pass - $9 upfront No stop-loss or news restrictions Up to 80% profit share Choose your platform Scale to $6.4M 24/7 human support Visit FTUK Select Your Account And Start Your Trading Journey Pick your account type and star",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "Allowed Rules Evaluation Funded Profit Target 5% None Time Limit None None Min Trading Days 3 3 Trailing Drawdown 5% 5% Daily Drawdown 3% 3% Payouts None On Demand Profit Share None Up to 70% Weekend Holding Yes Yes News Trading Allowed Allowed Ru",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "News Trading Allowed Allowed Rules Evaluation Funded Profit Target 4% None Min Trading Days 1 day None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 6% 6% Payouts None Instant Profit Share None Up to 80% Weekend Holding Allowed All",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "ed News Trading Allowed Allowed Rules 1-Step Funded Profit Target 10% None Min Trading Days 4 days None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 8% 8% Payouts None Bi-Weekly Profit Share None 80% Weekend Holding Allowed Allowe",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "sitions E-mini 3 | E-micro 30 Activation Fee Yes Scaling Yes Rules Entry Min Trading Days None EOD Drawdown $2,000 Daily Drawdown (optional) $1,250 News Trading Yes Payout Target 5% Max Positions E-mini 5 | E-micro 50 Activation Fee No Scaling Yes Instant Fund",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "New Traders, Welcome to FTUK Here's what you're getting: Instant funding up to $100K 60-minute payouts Pay After You Pass - $9 upfront No stop-loss or news restrictions Up to 80% profit share Choose your platform Scale to $6.4M 24/7 human support",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Prop Firm Scaling Plan How to Scale from $5K to $600K - TradingFunds - Funded Trading Accounts for Forex Traders 1 Phase Challenge Prop Firm \u2013 TradingFunds About About Affiliate Area Affil",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "600",
+    "snippet": "Prop Firm Scaling Plan How to Scale from $5K to $600K - TradingFunds - Funded Trading Accounts for Forex Traders 1 Phase Challenge Prop Firm \u2013 TradingFunds About About Affiliate Area Affiliate Logi",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "At TradingFunds, each time you meet your target, your capital increases\u2014from $5K to $10K, then $25K, $50K, and beyond. Trade like you are already funded : Respect the capital. Even if it is simulated, your discipline matters. Avoid over-leveraging : Bigger",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "Funds, each time you meet your target, your capital increases\u2014from $5K to $10K, then $25K, $50K, and beyond. Trade like you are already funded : Respect the capital. Even if it is simulated, your discipline matters. Avoid over-leveraging : Bigger accounts r",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "each time you meet your target, your capital increases\u2014from $5K to $10K, then $25K, $50K, and beyond. Trade like you are already funded : Respect the capital. Even if it is simulated, your discipline matters. Avoid over-leveraging : Bigger accounts require",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "et, move to $10K Hit performance goals, scale to $25K Continue to $50K , $100K , $200K Ultimate milestone: $600K funded account Each level unlocks higher payouts, greater potential, and more confidence in your trading process. Step 6: Leverage the Com",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "New Traders, Welcome to FTUK Here's what you're getting: Instant funding up to $100K 60-minute payouts Pay After You Pass - $9 upfront No stop-loss or news restrictions Up to 80% profit share Choose your platform Scale to $6.4M 24/7 human support",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "ou're getting: Instant funding up to $100K 60-minute payouts Pay After You Pass - $9 upfront No stop-loss or news restrictions Up to 80% profit share Choose your platform Scale to $6.4M 24/7 human support Visit FTUK Select Your Acco",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "op-loss or news restrictions Up to 80% profit share Choose your platform Scale to $6.4M 24/7 human support Visit FTUK Select Your Account And Start Your Trading Journey Pick your account type and start trading in minutes. Forex Futu",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "After You Pass Instant Funding One Step Two Step One Step SIM Instant SIM Funding $5,000 $10,000 $25,000 $50,000 $100,000 $150,000 MetaTrader 5 Match-Trader TradeLocker FTUK XT Note: MetaTrader 5 is not available for US traders Rules Funded Profit",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "You Pass Instant Funding One Step Two Step One Step SIM Instant SIM Funding $5,000 $10,000 $25,000 $50,000 $100,000 $150,000 MetaTrader 5 Match-Trader TradeLocker FTUK XT Note: MetaTrader 5 is not available for US traders Rules Funded Profit Target",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "Instant Funding One Step Two Step One Step SIM Instant SIM Funding $5,000 $10,000 $25,000 $50,000 $100,000 $150,000 MetaTrader 5 Match-Trader TradeLocker FTUK XT Note: MetaTrader 5 is not available for US traders Rules Funded Profit Target None M",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "unding One Step Two Step One Step SIM Instant SIM Funding $5,000 $10,000 $25,000 $50,000 $100,000 $150,000 MetaTrader 5 Match-Trader TradeLocker FTUK XT Note: MetaTrader 5 is not available for US traders Rules Funded Profit Target None Min Trading",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "ne Step Two Step One Step SIM Instant SIM Funding $5,000 $10,000 $25,000 $50,000 $100,000 $150,000 MetaTrader 5 Match-Trader TradeLocker FTUK XT Note: MetaTrader 5 is not available for US traders Rules Funded Profit Target None Min Trading Days Non",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "wo Step One Step SIM Instant SIM Funding $5,000 $10,000 $25,000 $50,000 $100,000 $150,000 MetaTrader 5 Match-Trader TradeLocker FTUK XT Note: MetaTrader 5 is not available for US traders Rules Funded Profit Target None Min Trading Days None Max T",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "Trading Allowed Allowed Allowed Rules Entry Min Trading Days 1 EOD Drawdown $2,000 Daily Drawdown (optional) $1,250 News Trading Yes Profit Target 6% Max Positions E-mini 3 | E-micro 30 Activation Fee Yes Scaling Yes Rules Entry Mi",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "Rules Entry Min Trading Days 1 EOD Drawdown $2,000 Daily Drawdown (optional) $1,250 News Trading Yes Profit Target 6% Max Positions E-mini 3 | E-micro 30 Activation Fee Yes Scaling Yes Rules Entry Min Trading Days None EOD Drawdown",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "509",
+    "snippet": "pay the remaining fee to unlock your funded account. Find out more Start Trading $509 $235 Only pay full charge if you pass Get funded today Everything you love, Nothing lose We kept what works and made it better. Same Platforms Meta",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "it Target None Min Trading Days None Max Trading Days None Daily Drawdown 5% Trailing Drawdown 6% Payouts Instant Profit Share Up to 80% Weekend Holding Allowed News Trading Allowed Rules Evaluation Funded Profit Target 5% None Time Limit None None",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Static",
+    "snippet": "ays 3 days 3 days None Max Trading Days None None None Daily Drawdown 5% 5% 5% Static Drawdown 8% 8% 8% Payouts None None Bi-Weekly Profit Share None None 80% Weekend Holding Allowed Allowed Allowed News Trading Allowed Allowed Allowed Rules Entry Mi",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EOD",
+    "snippet": "llowed News Trading Allowed Allowed Allowed Rules Entry Min Trading Days 1 EOD Drawdown $2,000 Daily Drawdown (optional) $1,250 News Trading Yes Profit Target 6% Max Positions E-mini 3 | E-micro 30 Activation Fee Yes Scaling Yes Rules Entr",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Requirements : Rules designed to ensure you\u2019re not just getting lucky with a few big trades, but demo",
+    "snippet": "enge. Maximum Drawdown : The maximum allowable loss before you fail the challenge. Consistency Requirements : Rules designed to ensure you\u2019re not just getting lucky with a few big trades, but demonstrating sustainable trading strategies. Trading Days : A minimum number of trading days or a maximum timeframe in which you must achieve your ",
+    "url": "https://tradingfunds.com/prop-trading-challenge-tips-master-the-evaluation-process/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules, TradingFunds allows you to level up quickly\u2014no long waiting periods or hidden barriers",
+    "snippet": "The $5K stage is where habits are formed. Once you hit your profit target and meet consistency rules, TradingFunds allows you to level up quickly\u2014no long waiting periods or hidden barriers. Step 2: Follow a Proven Scaling Strategy Scaling is not random. It is about following a clear trading account scaling strategy . At TradingFunds, each",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "On Demand",
+    "snippet": "None None Min Trading Days 3 3 Trailing Drawdown 5% 5% Daily Drawdown 3% 3% Payouts None On Demand Profit Share None Up to 70% Weekend Holding Yes Yes News Trading Allowed Allowed Rules Evaluation Funded Profit Target 4% None Min Trading Days 1 day None",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Bi-Weekly",
+    "snippet": "None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 8% 8% Payouts None Bi-Weekly Profit Share None 80% Weekend Holding Allowed Allowed News Trading Allowed Allowed Rules Phase 1 Phase 2 Funded Profit Target 8% 6% None Min Trading Days 3",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "ese-man-hugging-bunch-of-cash.jpg https://tradingfunds.com/how-to-handle-trading-surprises-success-and-failure/ 2023-05-25T10:32:07+00:00 https://tradingfunds.com/wp-content/uploads/2023/04/freelancer-stock-market-trading-analysis-from-home-high-technology-co",
+    "url": "https://tradingfunds.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "crypto",
+    "snippet": "concept.jpg https://tradingfunds.com/wp-content/uploads/2023/04/trading-investing-in-cryptocurrency-and-stocks-using-mobile-app-concept-.jpg https://tradingfunds.com/wp-content/uploads/2023/04/lucky-man-using-laptop-outdoors.jpg https://tradingfunds.com/how-to-",
+    "url": "https://tradingfunds.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "ght and over the weekend, as well. However, bear in mind that it\u2019s down to you to be wise to the implications of volatility, liquidity, rollover swap conditions and spreads. Q: Will I Pay Tax On Earnings? A: Funded traders are considered independent contra",
+    "url": "https://tradingfunds.com/11-faqs-about-forex-funding/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "industry. Now we're combining TradingFunds' trader-first culture with FTUK's global scale. The result? More funding, faster payouts, better technology, and the same team you already know. Accelerated Start for New Traders Get funded faster wi",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "fca",
+    "snippet": "https://tradingfunds.com/wp-content/uploads/2023/11/560a494b-0f1a-4183-9847-c406b22bfcab.webp https://tradingfunds.com/wp-content/uploads/2023/11/13366b4a-6f07-4523-9954-3ddff4d5de35.webp https://tradingfunds.com/wp-content/uploads/2023/11/1d5c4e03-3bab-4d60",
+    "url": "https://tradingfunds.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": ".com/wp-content/uploads/2024/09/Blog-Images-25.png https://tradingfunds.com/trading-basics-guide-for-traders/ 2026-02-12T12:06:50+00:00 https://tradingfunds.com/wp-content/uploads/2024/11/john-yFbyvpEGHFQ-unsplash-scaled.jpg https://tradingfunds.com/trading-a-100k-funded-forex-account/ 2026-02-12T12:07:10+00:00 https://tradi",
+    "url": "https://tradingfunds.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "rkplace-background-1-scaled.jpg https://tradingfunds.com/prop-trading-challenge-tips-master-the-evaluation-process/ 2026-03-13T17:00:04+00:00 https://tradingfunds.com/wp-content/uploads/2024/02/black-businessman-checking-global-financial-analytic-on-smartphone-or-trading-on-forex.jpg https://tradingfunds.com/wp-content/uploads/202",
+    "url": "https://tradingfunds.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "fore you sign on the dotted line, however, and always check that your chosen firm is regulated by the relevant authorities. You can also check out reviews online if you\u2019re worried, another excellent way of finding the right firm for you. Q: What Is Drawdown? A: Drawdown is the lowest equi",
+    "url": "https://tradingfunds.com/11-faqs-about-forex-funding/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ded trading experience. More capital. Better tech. Sa",
+    "snippet": "the industry's most trusted prop trading firms are merging to create the ultimate funded trading experience. More capital. Better tech. Same team you trust. ( Effective April 18, 2026 ) Visit FTUK TradingFunds Dashboard This isn't a shutdown. This is two firms that believe in backing real trader",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ng tools and funding programs for serious traders sinc",
+    "snippet": "ing to do it together.\" Here's What's Happening TradingFunds has been building tools and funding programs for serious traders since 2022. FTUK has been doing the same since 2021 - backing thousands of traders worldwide with some of the most competitive funding in the industry. Now we're combining T",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e 2022. FTUK has been doing the same sinc",
+    "snippet": "TradingFunds has been building tools and funding programs for serious traders since 2022. FTUK has been doing the same since 2021 - backing thousands of traders worldwide with some of the most competitive funding in the industry. Now we're combining TradingFunds' trader-first culture with FT",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e 2021 - backing thousa",
+    "snippet": "nd funding programs for serious traders since 2022. FTUK has been doing the same since 2021 - backing thousands of traders worldwide with some of the most competitive funding in the industry. Now we're combining TradingFunds' trader-first culture with FTUK's global scale. The",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "unding, faster payouts, better technology, and the sa",
+    "snippet": "ining TradingFunds' trader-first culture with FTUK's global scale. The result? More funding, faster payouts, better technology, and the same team you already know. Accelerated Start for New Traders Get funded faster with zero upfront barriers. Existing TradingFunds Traders Nothing cha",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Same account, sa",
+    "snippet": "riers. Existing TradingFunds Traders Nothing changes \u2014 here's your guarantee: Same account, same credentials Same rules, same profit split up to 90% Same payouts - pending payouts processed normally Same platforms: MetaTrader 5, TradeLocker, MatchTrader Same s",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Same rules, sa",
+    "snippet": "s Traders Nothing changes \u2014 here's your guarantee: Same account, same credentials Same rules, same profit split up to 90% Same payouts - pending payouts processed normally Same platforms: MetaTrader 5, TradeLocker, MatchTrader Same support team New Trade",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "es Instant Funding $50,000 Payout On Demand Profit Share 80% once funded Leverage up to 30:1 After you pass the evaluation, simply pay the remaining fee to unlock your funded account. Find out more Start Trading $509 $235 Only pay full charge",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable signup fee after second payout \n No payout caps \n With features like these, it is easy to see why over 1,100 ",
+    "snippet": "uts starting from just $100 No stop-loss requirement Hold trades over weekends Refundable signup fee after second payout No payout caps With features like these, it is easy to see why over 1,100 traders have successfully scaled their accounts. Step 4: Scale with Confidence Confidence comes from clarity and preparation. Here are some tips ",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "Refundable registration fee\n After your second payout, you get your sign-up fee back",
+    "snippet": "n Only one-step. Clear rules Transparent drawdown limits: 4% daily, 8% trailing. Refundable registration fee After your second payout, you get your sign-up fee back. HOW IT WORKS Your Path to a Funded Account Step 1 Choose Your Account & Begin Your Journey Start your trading journey with low upfront risk. Choose an account s",
+    "url": "https://tradingfunds.com/one-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed \n \n Rules Evaluation Funded \n Profit Target 5% None \n Time Limit None None \n Min Trading Days 3 3 \n",
+    "snippet": "g Drawdown 6% Payouts Instant Profit Share Up to 80% Weekend Holding Allowed News Trading Allowed Rules Evaluation Funded Profit Target 5% None Time Limit None None Min Trading Days 3 3 Trailing Drawdown 5% 5% Daily Drawdown 3% 3% Payouts None On Demand Profit Share None Up to 70% Weekend Holding Yes Yes News Trading Allowed Allowed Rules",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed Allowed \n \n Rules Evaluation Funded \n Profit Target 4% None \n Min Trading Days 1 day None \n Max Tra",
+    "snippet": "% Payouts None On Demand Profit Share None Up to 70% Weekend Holding Yes Yes News Trading Allowed Allowed Rules Evaluation Funded Profit Target 4% None Min Trading Days 1 day None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 6% 6% Payouts None Instant Profit Share None Up to 80% Weekend Holding Allowed Allowed News Tr",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed Allowed \n \n Rules 1-Step Funded \n Profit Target 10% None \n Min Trading Days 4 days None \n Max Tradi",
+    "snippet": "youts None Instant Profit Share None Up to 80% Weekend Holding Allowed Allowed News Trading Allowed Allowed Rules 1-Step Funded Profit Target 10% None Min Trading Days 4 days None Max Trading Days None None Daily Drawdown 5% 5% Trailing Drawdown 8% 8% Payouts None Bi-Weekly Profit Share None 80% Weekend Holding Allowed Allowed News Tradin",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed Allowed \n \n Rules Phase 1 Phase 2 Funded \n Profit Target 8% 6% None \n Min Trading Days 3 days 3 day",
+    "snippet": "Payouts None Bi-Weekly Profit Share None 80% Weekend Holding Allowed Allowed News Trading Allowed Allowed Rules Phase 1 Phase 2 Funded Profit Target 8% 6% None Min Trading Days 3 days 3 days None Max Trading Days None None None Daily Drawdown 5% 5% 5% Static Drawdown 8% 8% 8% Payouts None None Bi-Weekly Profit Share None None 80% Weekend ",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ea \n Affiliate Login \n Affiliate Registration \n Affiliate Terms of Use \n Bio \n Cart \n Checkout \n Contact Us \n Contact Us",
+    "snippet": "1 Phase Challenge Prop Firm \u2013 TradingFunds About About Affiliate Area Affiliate Login Affiliate Registration Affiliate Terms of Use Bio Cart Checkout Contact Us Contact Us Feedback Funded Trading One Step Evaluation Funds For Traders: Prop Firm Guide to Funded Account Trading How It Works How the Funded Accounts Work Instant Fund",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eate the ultimate funded trading experience",
+    "snippet": "Part of FTUK Two of the industry's most trusted prop trading firms are merging to create the ultimate funded trading experience. More capital. Better tech. Same team you trust. ( Effective April 18, 2026 ) Visit FTUK TradingFunds Dashboard This isn't a shutdown. This is two firms that",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam you trust",
+    "snippet": "g to create the ultimate funded trading experience. More capital. Better tech. Same team you trust. ( Effective April 18, 2026 ) Visit FTUK TradingFunds Dashboard This isn't a shutdown. This is two firms that believe in backing real traders choosing to do",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal traders choosing to do it together",
+    "snippet": "ashboard This isn't a shutdown. This is two firms that believe in backing real traders choosing to do it together.\" Here's What's Happening TradingFunds has been building tools and funding programs for serious traders since 2022. FTUK has been doing the same since 2021 - ba",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam you already know",
+    "snippet": "al scale. The result? More funding, faster payouts, better technology, and the same team you already know. Accelerated Start for New Traders Get funded faster with zero upfront barriers. Existing TradingFunds Traders Nothing changes \u2014 here's your guara",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Asset-2@4x-6-1-300x70.webp",
+    "snippet": "s/2024/12/FXAN-WHITE-300x117.png https://tradingfunds.com/wp-content/uploads/2024/12/Asset-2@4x-6-1-300x70.webp https://tradingfunds.com/wp-content/uploads/2024/12/associated-press-logo-300x78.png https://tradingfunds.com/wp-content/uploads/2024/12/Diese-2-1-e1703270609524-300x57.",
+    "url": "https://tradingfunds.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Digital-Journal-Logosm@2x-1-300x42.webp",
+    "snippet": "e-2-1-e1703270609524-300x57.webp https://tradingfunds.com/wp-content/uploads/2023/06/Digital-Journal-Logosm@2x-1-300x42.webp https://tradingfunds.com/wp-content/uploads/2025/01/banner_shape01.webp https://tradingfunds.com/wp-content/uploads/2025/01/banner_shape01.webp https://tradingfunds.com/",
+    "url": "https://tradingfunds.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "ading Days None Max Trading Days None Daily Drawdown 5% Trailing Drawdown 6% Payouts Instant Profit Share Up to 80% Weekend Holding Allowed News Trading Allowed Rules Evaluation Funded Profit Target 5% None Time Limit None None Min Trading Days 3",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout caps \n With features like these, it is easy to see why over 1,100 traders have successfully scaled their accounts",
+    "snippet": "irement Hold trades over weekends Refundable signup fee after second payout No payout caps With features like these, it is easy to see why over 1,100 traders have successfully scaled their accounts. Step 4: Scale with Confidence Confidence comes from clarity and preparation. Here are some tips to scale your prop firm account without fear:",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan How to Scale from $5K to $600K - TradingFunds - Funded Trading Accounts for Forex Traders \n \n \n \n \n \n \n \n \n",
+    "snippet": "Prop Firm Scaling Plan How to Scale from $5K to $600K - TradingFunds - Funded Trading Accounts for Forex Traders 1 Phase Challenge Prop Firm \u2013 TradingFunds About About Affiliate Area Affiliate Login Affiliate Registration Affiliate Terms of Use Bio Cart Checkout Contact Us Contact",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plan How to Scale from $5K to $600K\n \n \n \n \n \n \n \n Scaling a prop firm account is every trader\u2019s dream: start wi",
+    "snippet": "ed trading evaluation? Log In Get Funded May 27, 2025 News Prop Firm Scaling Plan How to Scale from $5K to $600K Scaling a prop firm account is every trader\u2019s dream: start with a modest account, prove your skills, and access larger amounts of capital. But going from $5K to $600K is not just about hitting numbers. It requires a smart appro",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan allows you to start small, manage risk, and gradually unlock higher funding levels",
+    "snippet": "is what separates part-time traders from full-time professionals. A strong prop firm scaling plan allows you to start small, manage risk, and gradually unlock higher funding levels. At TradingFunds, traders can start with just $59 and work their way up to $600K. It is not a get-rich-quick scheme; it is a prop firm scaling program built fo",
+    "url": "https://tradingfunds.com/prop-firm-scaling-plan-scale-from-5k-to-600k/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee Yes \n Scaling Yes \n \n Rules Entry \n Min Trading Days None \n EOD Drawdown $2,000 \n Daily Drawdown (optiona",
+    "snippet": ",250 News Trading Yes Profit Target 6% Max Positions E-mini 3 | E-micro 30 Activation Fee Yes Scaling Yes Rules Entry Min Trading Days None EOD Drawdown $2,000 Daily Drawdown (optional) $1,250 News Trading Yes Payout Target 5% Max Positions E-mini 5 | E-micro 50 Activation Fee No Scaling Yes Instant Funding $50,000 Payout On Demand P",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee No \n Scaling Yes \n \n \n Instant Funding\n $50,000\n Payout On Demand \n Profit Share 80% once funded \n Levera",
+    "snippet": ",250 News Trading Yes Payout Target 5% Max Positions E-mini 5 | E-micro 50 Activation Fee No Scaling Yes Instant Funding $50,000 Payout On Demand Profit Share 80% once funded Leverage up to 30:1 After you pass the evaluation, simply pay the remaining fee to unlock your funded account. Find out more Start Trading $509 $235 Only pay full ch",
+    "url": "https://tradingfunds.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Traders: Prop Firm Guide to Funded Account Trading How It Works How the Funded Accounts Work Instant Funding Login Customizer Lost Password My account News One-Step Challenge Pay After You Pass Privacy Policy Quick Checkout Terms and Conditions Tha",
+   "url": "https://tradingfunds.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ffiliate Terms of Use Bio Cart Checkout Contact Us Contact Us Feedback Funded Trading One Step Evaluation Funds For Traders: Prop Firm Guide to Funded Account Trading How It Works How the Funded Accounts Work Instant Funding Login Customizer",
+   "url": "https://tradingfunds.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "gFunds \u2013 One Step Prop Firm TradingFunds Affiliates TradingFunds One-Step Evaluation Programs Two-Step-Challenge Welcome Welcome \u2013 FPR Welcome Affiliate What is a one step funded trading evaluation? Log In Get Funded Big News \u2014 We're Joinin",
+   "url": "https://tradingfunds.com/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "ork Instant Funding Login Customizer Lost Password My account News One-Step Challenge Pay After You Pass Privacy Policy Quick Checkout Terms and Conditions Thank You TradeLocker Prop Firm Trading Platform TradingFunds \u2013 One Step Prop Firm TradingFu",
+   "url": "https://tradingfunds.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "TradeLocker",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "t Target 5% Max Positions E-mini 5 | E-micro 50 Activation Fee No Scaling Yes Instant Funding $50,000 Payout On Demand Profit Share 80% once funded Leverage up to 3",
+  "firm that supports you every step of the way. Here is why traders choose TradingFunds: Funding from $10K to $600K Payouts starting from just $100 No stop-loss requirement Hold t",
+  "ndable signup fee after second payout No payout caps With features like these, it is easy to see why over 1,100 traders have successfully scaled their accounts. Step 4: Scale wit"
+ ],
+ "errors": [
+  "https://tradingfunds.com/evaluation/tradingfunds-challenges/:404:http-404",
+  "https://tradingfunds.com/select-challenge/:404:http-404"
+ ]
+}

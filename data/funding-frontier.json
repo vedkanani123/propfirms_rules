@@ -1,0 +1,12 @@
+{
+ "slug": "funding-frontier",
+ "name": "Funding Frontier",
+ "category": "Specialist",
+ "url": "https://fundingfrontier.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:301:http-301"
+ ]
+}

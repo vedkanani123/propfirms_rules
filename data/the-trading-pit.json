@@ -1,0 +1,584 @@
+{
+ "slug": "the-trading-pit",
+ "name": "The Trading Pit",
+ "category": "Forex/CFD",
+ "url": "https://thetradingpit.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.thetradingpit.com/",
+   "kind": "home",
+   "chars": 7723
+  },
+  {
+   "url": "https://www.thetradingpit.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 565
+  },
+  {
+   "url": "https://www.thetradingpit.com/sitemap-pages-en.xml",
+   "kind": "sitemap",
+   "chars": 1587
+  },
+  {
+   "url": "https://www.thetradingpit.com/sitemap-pages-de.xml",
+   "kind": "sitemap",
+   "chars": 1560
+  },
+  {
+   "url": "https://www.thetradingpit.com/sitemap-pages-es.xml",
+   "kind": "sitemap",
+   "chars": 1480
+  },
+  {
+   "url": "https://www.thetradingpit.com/sitemap-pages-it.xml",
+   "kind": "sitemap",
+   "chars": 1480
+  },
+  {
+   "url": "https://www.thetradingpit.com/trading-rules",
+   "kind": "page",
+   "chars": 25593
+  },
+  {
+   "url": "https://www.thetradingpit.com/de/trading-rules",
+   "kind": "page",
+   "chars": 27118
+  },
+  {
+   "url": "https://www.thetradingpit.com/es/trading-rules",
+   "kind": "page",
+   "chars": 30149
+  },
+  {
+   "url": "https://www.thetradingpit.com/it/trading-rules",
+   "kind": "page",
+   "chars": 28366
+  },
+  {
+   "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+   "kind": "page",
+   "chars": 90626
+  },
+  {
+   "url": "https://www.thetradingpit.com/es/about-us",
+   "kind": "page",
+   "chars": 8434
+  },
+  {
+   "url": "https://www.thetradingpit.com/about-us",
+   "kind": "page",
+   "chars": 7201
+  },
+  {
+   "url": "https://www.thetradingpit.com/de/about-us",
+   "kind": "page",
+   "chars": 8171
+  },
+  {
+   "url": "https://www.thetradingpit.com/it/about-us",
+   "kind": "page",
+   "chars": 8540
+  },
+  {
+   "url": "https://www.thetradingpit.com/contact-us",
+   "kind": "page",
+   "chars": 5178
+  },
+  {
+   "url": "https://www.thetradingpit.com/it/legal-documents",
+   "kind": "page",
+   "chars": 5182
+  },
+  {
+   "url": "https://www.thetradingpit.com/legal-documents",
+   "kind": "page",
+   "chars": 4358
+  },
+  {
+   "url": "https://support.thetradingpit.com/",
+   "kind": "sub",
+   "chars": 1155
+  },
+  {
+   "url": "https://support.thetradingpit.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 350732
+  }
+ ],
+ "page_count": 20,
+ "total_chars": 615217,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "40",
+    "snippet": "it and your account\u2019s profit target. The current consistency rule sits at 40% of the profit target, please also see: What is the 40% Consistency Rule for your Challenges? | TheTradingPit Prohibited Trading Practices Copy-Trading (a) You are allowed to copy trades manually or automatically in",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "10",
+    "snippet": "trading practice. An example of breaching this rule would be if you complete your 5 minimum trading days by entering 10 lot trades for the first 2 days and then for the rest 3 required trading days you place 0.1 lot trades. To see a detailed breakdown of what we consider gambling, click h",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "trading practices. An example of breaching this rule would be if you complete your 3 minimum trading days by entering a 5 contract position on day 1, and then for the remaining 2 trading days, you place 1 micro lot trades. To see a detailed breakdown of what we consider gambling, click here",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "T\u00fcrk\u00e7e Portugu\u00eas Ti\u1ebfng Vi\u1ec7t 35% OFF + FREE INSTANT ACCOUNT Get a $5K Instant Account after your first reward. Use code OCT35 on selected accounts. Start Now As featured in Track all markets on",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "T\u00fcrk\u00e7e Portugu\u00eas Ti\u1ebfng Vi\u1ec7t 35% OFF + FREE INSTANT ACCOUNT Get a $5K Instant Account after your first reward. Use code OCT35 on selected accounts. Start Now As featured in Track all markets o",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "18",
+    "snippet": "Track all markets on TradingView 10,000+ Active Monthly Accounts $18M+ in Rewards 450K+ Trades Monthly 180+ Supported countries Start Your Career In 3 Steps STEP 1 TAKE THE TTP CHALLENGE Choose the trading Challen",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400,00",
+    "snippet": "assic account. The total allocated starting balance across all accounts is capped at $400,000. Prohibited Trading Practices Copy-Trading Traders are permitted to copy trades\u2014either manually or through automation\u2014between their own accounts or from exter",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "y Trading allowed? | TheTradingPit News Trading News trading is not permitted on $100,000 and $200,000 CFD Accounts during the Challenge or Earning Phase. The following actions are not allowed within 2 minutes before or after high-impact news releases: - Op",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "200,00",
+    "snippet": "owed? | TheTradingPit News Trading News trading is not permitted on $100,000 and $200,000 CFD Accounts during the Challenge or Earning Phase. The following actions are not allowed within 2 minutes before or after high-impact news releases: - Opening trades",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "wdown limit, your account will automatically be closed. In this program, the Maximum Drawdown is static for both your Challenge and Earning Phase. For more information and examples check our FAQ\u2019s Complete Minimum 3 Profitable Trading Days This rule only applies to acc",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "EOD",
+    "snippet": "istency across our Challenge and Earning Accounts, in both types of accounts the Max Drawdown is trailing on EOD Balance, but will only trail up until your starting balance level. For more information and examples check our FAQ\u2019s Complete 3 Minimum Trading Days We ask you to tr",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "end-of-day",
+    "snippet": "-my-scaling-plan-account 2026-03-09 https://support.thetradingpit.com/ja/what-is-max-drawdown-trailing-on-eod-end-of-day-balance 2026-02-23 https://support.thetradingpit.com/ar-eg/prohibited-trading-practices 2026-07-31 https://support.thetradingpit.com/ar-eg/the-trading-pit-affiliate-faq-",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "trailing",
+    "snippet": "hre-herausforderungen 2025-07-30 https://support.thetradingpit.com/it/qual-%C3%A8-il-drawdown-massimo-con-trailing-sul-saldo-massimo-futures-classic 2025-07-24 https://support.thetradingpit.com/tr/5th-of-march-2026-temporary-futures-trading-restrictions-position-limits 2026-03-25 htt",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule The consistency target is calculated by factoring in your best day\u2019s profit and your acco",
+    "snippet": "The total allocated starting balance across all accounts is capped at $400,000. Consistency Rule The consistency target is calculated by factoring in your best day\u2019s profit and your account\u2019s profit target. The current consistency rule sits at 40% of the profit target. Prohibited Trading Practices Copy-Trading (a) It is forbidden for trad",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule sits at 40% of the profit target",
+    "snippet": "by factoring in your best day\u2019s profit and your account\u2019s profit target. The current consistency rule sits at 40% of the profit target. Prohibited Trading Practices Copy-Trading (a) It is forbidden for traders to copy trades manually or automatically between their accounts. (b) You can copy tr",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule sits at 40% of the profit target, please also see: What is the 40% Consistency Rule for y",
+    "snippet": "by factoring in your best day\u2019s profit and your account\u2019s profit target. The current consistency rule sits at 40% of the profit target, please also see: What is the 40% Consistency Rule for your Challenges? | TheTradingPit Prohibited Trading Practices Copy-Trading (a) You are allowed to copy trades manually or automatically in up to 5 of ",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement \u2013 are published on our Website on the relevant Product Category page",
+    "snippet": "d \u2013 in particular any applicable profit target, minimum trading day requirement, and consistency requirement \u2013 are published on our Website on the relevant Product Category page. The Product Objectives published on our Website at the time of your order form part of the Product Contract and are binding on you and TTP for the duration of th",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirements, Reward eligibility criteria , Reward rates, Reward caps, and the number of accounts eli",
+    "snippet": "itted instruments, minimum trading -day requirements, position concentration limits, consistency requirements, Reward eligibility criteria , Reward rates, Reward caps, and the number of accounts eligible for upgrade at any one time; 6.7.4 where a breach is confirmed and constitutes good cause within the meaning of Clause 14.2, immediately",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement applicable to future Trading Data;\n 6",
+    "snippet": "d subsequent Reward determinations under Clause A.3 of Schedule A; 6.8.3.2 a consistency requirement applicable to future Trading Data; 6.8.3.3 a maximum permitted lot or contract size; or 6.8.3.4 a maximum permitted risk percentage per trade, position, or trade idea. 6.8.4 Measu",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "es for the S&P 500, Dow Jones Industrial Average, Nasdaq, and more. Learn More Cryptocurrencies are prone to substantial price movements in the global markets, where you can take advantage of their value and trade the most popular range of crypto markets,",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "ment Methods Supports a variety of payment methods, including Credit Cards, PayPal, Apple Pay, Google Pay, Cryptos and BinancePay. Online bank transfers are also available based on the region. Start Trading Execution and Corporate Partn",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "ncluding Credit Cards, PayPal, Apple Pay, Google Pay, Cryptos and BinancePay. Online bank transfers are also available based on the region. Start Trading Execution and Corporate Partners Challenges CFDs Future",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "fino a 5 dei tuoi conti, tuttavia, se copi la stessa strategia in pi\u00f9 di 5 conti, ci riserviamo il diritto di negare l'upgrade ai conti aggiuntivi. (b) Puoi copiare operazioni da un conto esterno tuo. Tuttavia, \u00e8 vietato copiare operazioni da altri trader o f",
+    "url": "https://www.thetradingpit.com/it/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "trictions; 4.5.4 copying, modifying, decompiling, disassembling, or otherwise altering our platform or content; 4.5.5 selling, lending, licensing, distributing, or otherwise sharing our Services or content, unless expressly permitted;",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "e partnering with consistent traders. Keep trading profitably and in return, we will scale your account balance. Start Now What is Prop Trading The Power of Multi-Asset Trading CFDS FUTURES Gain access to the global foreign exchange market for",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "d to foster growth and consistency. CFDS FUTURES PRIME CLASSIC Basic Rules Hit Profit Target To pass your Challenge and proceed to the next phase, your Account Balance must reach the requested Profit Target and you must be flat on positions. Daily Drawdown The Daily Drawdown indicates the maximum amount you can lose throughout a single da",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "den. Ein profitabler Tag ist, wenn dein Konto einen Gewinn von mindestens 0,5 % des Anfangssaldos zeigt \u2013 basierend auf dem niedrigeren Wert von Kontostand oder Eigenkapital um Mitternacht im Vergleich zum Vortag. Minimum von (Mitternachtssaldo, Mitternachtseigenkapital) \u2013 Vortagssaldo > 0,5 % des Anfangssaldos. Hinweis: \u201eMitternacht\u201c bez",
+    "url": "https://www.thetradingpit.com/de/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "fsc",
+    "snippet": "10 Lots handelst und an den letzten drei Tagen nur 0,1 Lots. Um eine detaillierte Aufschl\u00fcsselung dessen zu sehen, was wir als Gl\u00fccksspiel betrachten, klicke hier . Ausnutzung von Systemfehlern Handelsstrategien, die Systemfehler ausnutzen oder mit externen/langsamen Datenfeeds handeln, sind verboten. Ebenso f\u00fchren Aktivit\u00e4ten",
+    "url": "https://www.thetradingpit.com/de/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "ado el impacto de ciertos factores del mercado, como la falta de liquidez. Los programas de trading simulados tambi\u00e9n suelen estar dise\u00f1ados con el beneficio de la retrospectiva. No hay garant\u00eda de que cualquier cuenta logre ganancias o p\u00e9rdidas similares a las mostradas. The Trading Pit no ofrece Contratos por Diferencias a residentes de",
+    "url": "https://www.thetradingpit.com/es/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "ector in the countries in which we offer our Services. TTP is neither supervised nor regulated by the Liechtenstein Financial Market Authority (FMA) or any comparable supervisory authority in other countries. Consequently, you do not enjoy any regulatory protection in connection with our Services as would be provided for regulated financi",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Cma",
+    "snippet": "8%D9%8A 2025-07-24 https://support.thetradingpit.com/tr/atasta-belirli-bir-enstr%C3%BCman%C4%B1-nas%C4%B1l-bulabilirim 2025-07-24 https://support.thetradingpit.com/ja/how-to-set-up-ninjatrader 2026-03-13 https://support.thetradingpit.com/es/what-is-the-40-consistency-rule-for-your-challenges-0 2026-07-14 https://s",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Bahasa",
+    "snippet": "tner With Us Register Login English English Deutsch Espa\u00f1ol Italiano Bahasa Melayu \u4e2d\u6587 \u65e5\u672c\u8a9e \u0627\u0644\u0639\u0631\u0628\u064a\u0629 T\u00fcrk\u00e7e Portugu\u00eas Ti\u1ebfng Vi\u1ec7t CFDs Futures Stocks Success Stories All Rewards Tools Educational Tools Blog Ebo",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Glossa",
+    "snippet": "ries All Rewards Tools Educational Tools Blog Ebooks Webinars Podcasts Glossary Trading Tools Economic Calendar Market Holiday Hours About Company Management Press Releases Careers Awards Contact Us Help Center",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Manag",
+    "snippet": "Trading Tools Economic Calendar Market Holiday Hours About Company Management Press Releases Careers Awards Contact Us Help Center Affiliates Portal Partner With Us Register Login Login Login Sign Up L",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "passing your Challenge, sign your Signal Provider ag",
+    "snippet": "yle and pass the challenge. STEP 2 ACCESS YOUR TTP EARNING ACCOUNT After passing your Challenge, sign your Signal Provider agreement and get your share of trading profits. STEP 3 LONG TERM PARTNERSHIP We love partnering with consistent traders. Keep trading profitably and in return",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bundant opportunities for those who can take advantag",
+    "snippet": "ccess to the global foreign exchange market for trading in currencies, which offers abundant opportunities for those who can take advantage of its inherent volatility. Learn More Trade with Futures in the global markets with the latest data on major world indexes for the S&P 500, Dow Jones Industrial",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "indexes for the S&P 500, Dow Jones Industrial Averag",
+    "snippet": "re Trade with Futures in the global markets with the latest data on major world indexes for the S&P 500, Dow Jones Industrial Average, Nasdaq, and more. Learn More Cryptocurrencies are prone to substantial price movements in the global markets, where you can take advantage of their value and tra",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ts in the global markets, where you can take advantag",
+    "snippet": "q, and more. Learn More Cryptocurrencies are prone to substantial price movements in the global markets, where you can take advantage of their value and trade the most popular range of crypto markets, including Ethereum, Bitcoin, Ripple, and more. Learn More Discover and trade the most-traded st",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nd trade the most popular range of crypto markets, inc",
+    "snippet": "price movements in the global markets, where you can take advantage of their value and trade the most popular range of crypto markets, including Ethereum, Bitcoin, Ripple, and more. Learn More Discover and trade the most-traded stocks in the global market, such as Amazon, Netflix, Apple, Tesla, and mo",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "FL-0002",
+    "snippet": "r FAQs. This website is owned and operated by The Trading Pit Challenge GmbH with registration number FL-0002.693.417-1 and registered address at Heiligkreuz 6, 9490, Vaduz, Liechtenstein. The Trading Pit Challenge GmbH is part of The Trading Pit Group (\"TTP Group\") which provi",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries for our services please see our FAQs",
+    "snippet": "ts of certain jurisdictions including the USA, Canada and Russia. For a full list of restricted countries for our services please see our FAQs. This website is owned and operated by The Trading Pit Challenge GmbH with registration number FL-0002.693.417-1 and registered address at Heiligkreuz 6, 9490, Vaduz,",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Restricted Jurisdictions rules (Clause\u00a0\u200e1",
+    "snippet": "bject to any restrictions based on nationality or place of residence pursuant to the Restricted Jurisdictions rules (Clause \u200e1.2). 1.2 Restricted Jurisdictions Our Services are legally restricted or entirely prohibited in certain countries and jurisdictions. You are obliged to ind",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions Our Services are legally restricted or entirely prohibited in certain countries and jurisdictio",
+    "snippet": "nce pursuant to the Restricted Jurisdictions rules (Clause \u200e1.2). 1.2 Restricted Jurisdictions Our Services are legally restricted or entirely prohibited in certain countries and jurisdictions. You are obliged to independently verify the laws and regulations applicable in your country of residence before using our Services. By registering",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions has the meaning given to it in Clause 1",
+    "snippet": "tifies the declaring party, without requiring a handwritten or electronic signature. Restricted Jurisdictions has the meaning given to it in Clause 1.2. Reward means the payment, if any, determined by TTP in its reasonable discretion in accordance with Clause A.3 of Schedule A in respect of Compliant Trading Data gene",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund of the purchase",
+    "snippet": "ctive and proceed with closing it, and you will not be eligible for a new account or refund of the purchase. Multiple CFD Earning Accounts Per Trader A trader can hold multiple CFD earning accounts, with a maximum total of 4 accounts. This can include up to four Prime acc",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "refund of Product Fees already paid; and (iii) forfeit all Reward entitlements that were generated on accounts tainted b",
+    "snippet": "Demo Trading Accounts with immediate effect and without prior notice; (ii) deny any refund of Product Fees already paid; and (iii) forfeit all Reward entitlements that were generated on accounts tainted by the abusive registration or during the period in which the abusive conduct was ongoing. You may contest any forfeiture determination t",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunded and the Client Account and all associated Demo Trading Accounts will be closed",
+    "snippet": "using payment methods of different persons to the person registered with TTP will be refunded and the Client Account and all associated Demo Trading Accounts will be closed. Attempted Reward payments to third parties will lead to the cancellation of the Reward and closure of the Client Account . The first Reward shall only be made after f",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund the Product Fee paid without undue delay",
+    "snippet": "ion or if there are indications of abuse. In the event of a rejection by us, we will refund the Product Fee paid without undue delay. 3.4 Fees for Products The Product Fee is a fee that varies depending on the Product selected. Additional fees may apply at other Product Phases or in con",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading News trading is not permitted on $100,000 and $200,000 CFD Accounts during the Challenge or Earning Phase",
+    "snippet": ". For more details, check out our FAQs: Is Copy Trading allowed? | TheTradingPit News Trading News trading is not permitted on $100,000 and $200,000 CFD Accounts during the Challenge or Earning Phase. The following actions are not allowed within 2 minutes before or after high-impact news releases: - Opening trades - Having pending orders ",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Allowed News Trading is allowed for the Futures Prime products, both in the challenge and in the earning ac",
+    "snippet": "wn. (c) Copying trades between your Challenge & Earning accounts is prohibited. News Trading Allowed News Trading is allowed for the Futures Prime products, both in the challenge and in the earning accounts. However, it's important to be aware of the significant risks involved, such as heightened volatility and potential for large, unpred",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading News trading is Prohibited on Challenge and Earning Accounts: \nThe following actions are not allowed within",
+    "snippet": "pying trades from other traders or sources that are not your own is prohibited. News Trading News trading is Prohibited on Challenge and Earning Accounts: The following actions are not allowed within 2 minutes before or after high-impact news releases: - Opening trades - Having pending orders that are filled during this restricted time No",
+    "url": "https://www.thetradingpit.com/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading News-Trading ist auf den $100",
+    "snippet": "mehr Infos, schau dir unsere FAQs an: Ist Copy Trading zul\u00e4ssig? | TheTradingPit News Trading News-Trading ist auf den $100.000- und $200.000-CFD-Konten w\u00e4hrend der Challenge- oder der Gewinnphase nicht erlaubt. Folgende Aktionen sind 2 Minuten vor oder nach wichtigen Nachrichtenereignissen",
+    "url": "https://www.thetradingpit.com/de/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eases\n Careers\n Awards\n Contact Us\n \n \n \n \n Help Center\n \n Affiliates Portal\n Partner With Us\n Register\n Login",
+    "snippet": "nomic Calendar Market Holiday Hours About Company Management Press Releases Careers Awards Contact Us Help Center Affiliates Portal Partner With Us Register Login Login Login Sign Up Login Login Sign Up English English Deutsch Espa\u00f1ol Italiano Bahasa Melayu \u4e2d\u6587 \u65e5\u672c\u8a9e \u0627\u0644\u0639\u0631\u0628\u064a\u0629 T\u00fcrk\u00e7e Portugu\u00eas Ti\u1ebfng Vi\u1ec7t",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured in\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Track all markets on TradingView \n \n \n \n 10,000+\n Active Monthly Accounts\n \n $",
+    "snippet": "your first reward. Use code OCT35 on selected accounts. Start Now As featured in Track all markets on TradingView 10,000+ Active Monthly Accounts $18M+ in Rewards 450K+ Trades Monthly 180+ Supported countries Start Your Career In 3 Steps STEP 1 TAKE THE TTP CHALLENGE Choose the trading Challen",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EARNING ACCOUNT \n \n \n After passing your Challenge, sign your Signal Provider agreement and get your share of trading pr",
+    "snippet": "e that suits your trading style and pass the challenge. STEP 2 ACCESS YOUR TTP EARNING ACCOUNT After passing your Challenge, sign your Signal Provider agreement and get your share of trading profits. STEP 3 LONG TERM PARTNERSHIP We love partnering with consistent traders. Keep trading profitably and in return, we will scale your account b",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More\n \n \n Trade with Futures in the global markets with the latest data on major world indexes for the S&P 500, Dow",
+    "snippet": "bundant opportunities for those who can take advantage of its inherent volatility. Learn More Trade with Futures in the global markets with the latest data on major world indexes for the S&P 500, Dow Jones Industrial Average, Nasdaq, and more. Learn More Cryptocurrencies are prone to substantial price movements in the global markets, wher",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More\n \n \n Cryptocurrencies are prone to substantial price movements in the global markets, where you can take advan",
+    "snippet": "jor world indexes for the S&P 500, Dow Jones Industrial Average, Nasdaq, and more. Learn More Cryptocurrencies are prone to substantial price movements in the global markets, where you can take advantage of their value and trade the most popular range of crypto markets, including Ethereum, Bitcoin, Ripple, and more. Learn More Discover an",
+    "url": "https://www.thetradingpit.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vps",
+    "snippet": "hat-do-you-mean-by-breached 2025-07-30 https://support.thetradingpit.com/can-i-use-a-vps-for-my-expert-advisor-0-0 2025-08-21 https://support.thetradingpit.com/ar-eg/%D9%85%D8%A7-%D9%87%D9%8A-%D9%86%D8%B3%D8%A8%D8%A9-%D8%AA%D9%82%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D9%81%D9%8A-%D9%85%",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "d-start-at-a-later-point 2026-02-27 https://support.thetradingpit.com/es/what-is-the-payout-policy-for-cfds-instant 2026-09-17 https://support.thetradingpit.com/ms/how-much-profit-split-do-you-offer-on-the-forex-live-stage 2025-08-29 https://support.thetradingpit.com/is-there-a-maximu",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Process) at any time, in particular prior to entry into the Funded Phase (Clause\u00a0\u200e7)",
+    "snippet": "Identity Verification We are entitled to carry out an identity verification (KYC Process) at any time, in particular prior to entry into the Funded Phase (Clause \u200e7). The KYC Process may be conducted through automated verification systems, including biometric identification and artificial intelligence-based tools. As part of the KYC",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "KYC Process may be conducted through automated verification systems, including biometric identification and artif",
+    "snippet": "ss) at any time, in particular prior to entry into the Funded Phase (Clause \u200e7). The KYC Process may be conducted through automated verification systems, including biometric identification and artificial intelligence-based tools. As part of the KYC Process, you are required to submit, in particular, the following documents: 1.4.1 a color ",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "KYC Process, you are required to submit, in particular, the following documents:\n 1",
+    "snippet": "ing biometric identification and artificial intelligence-based tools. As part of the KYC Process, you are required to submit, in particular, the following documents: 1.4.1 a color copy of your valid passport or national identity card; and 1.4.2 a recent proof of residence (e.g., utility bill, bank statement) not",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription-based fees where applicable to the Product selected)",
+    "snippet": "s payable upon successful completion of an evaluation or challenge, and recurring or subscription-based fees where applicable to the Product selected). Fees may be introduced, modified, removed, or reintroduced at any time at our discretion. The applicable fees in effect at the time of your order are published on our W",
+    "url": "https://www.thetradingpit.com/general-terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "subscription-fee 2026-03-30 https://support",
+    "snippet": "oi-executada 2025-07-24 https://support.thetradingpit.com/ja/will-there-be-a-monthly-subscription-fee 2026-03-30 https://support.thetradingpit.com/pt-pt/quais-s%C3%A3o-as-comiss%C3%B5es-por-transa%C3%A7%C3%A3o-e-que-instrumentos-posso-negociar-nos-vossos-desafios-de-futuros 2025-07-24 https://supp",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "subscription-fee 2026-03-28 https://support",
+    "snippet": "start-trading-1 2025-08-29 https://support.thetradingpit.com/will-there-be-a-monthly-subscription-fee 2026-03-28 https://support.thetradingpit.com/ms/is-hedging-allowed-0-0 2026-09-23 https://support.thetradingpit.com/how-can-i-modify-or-delete-an-order-on-quantower 2025-07-30 https://support.thet",
+    "url": "https://support.thetradingpit.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "3-Step",
+   "snippet": "$18M+ in Rewards 450K+ Trades Monthly 180+ Supported countries Start Your Career In 3 Steps STEP 1 TAKE THE TTP CHALLENGE Choose the trading Challenge that suits your trading style and pass the challenge. STEP 2 ACCESS YOUR TTP EARNI",
+   "url": "https://www.thetradingpit.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "ted, Clause \u200e19.2 applies . 5.8 Trial Accounts We may, at our sole discretion, offer free Trial Accounts providing limited access to our Services for a defined trial period. The following conditions apply to Trial Accounts: 5.8.1 a Trial Accoun",
+   "url": "https://www.thetradingpit.com/general-terms-and-conditions"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Rithmic",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Crypto",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "OCT35",
+   "context": "35% OFF + FREE INSTANT ACCOUNT Get a $5K Instant Account after your first reward. Use code OCT35 on selected accounts. Start Now As featured"
+  }
+ ],
+ "claims": [
+  "iple CFD Earning Accounts Per Trader A trader can hold multiple CFD earning accounts, with a maximum total of 4 accounts. This can include up to four Prime accounts or three Prime",
+  "iple CFD Earning Accounts Per Trader A trader can hold multiple CFD earning accounts, with a maximum total of 4 accounts. This can include up to four Prime accounts or three Prime",
+  "es manually or automatically in up to 5 of your accounts, however, if you copy the same strategy in more than 5 accounts, then we reserve the right to deny the upgrade to the addit",
+  "Prohibited Trading Practices Copy-Trading (a) You can copy trades manually or automatically in up to 5 accounts; however, if you copy the same strategy in more than 5 acco",
+  "opy trades manually or automatically in up to 5 accounts; however, if you copy the same strategy in more than 5 accounts, we reserve the right to deny the upgrade to the additional"
+ ],
+ "errors": []
+}

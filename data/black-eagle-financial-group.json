@@ -1,0 +1,555 @@
+{
+ "slug": "black-eagle-financial-group",
+ "name": "Black Eagle Financial Group",
+ "category": "Institutional",
+ "url": "https://blackeaglefg.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://blackeaglefg.com/",
+   "kind": "home",
+   "chars": 6777
+  },
+  {
+   "url": "https://blackeaglefg.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 277
+  },
+  {
+   "url": "https://blackeaglefg.com/post-sitemap1.xml",
+   "kind": "sitemap",
+   "chars": 63024
+  },
+  {
+   "url": "https://blackeaglefg.com/post-sitemap2.xml",
+   "kind": "sitemap",
+   "chars": 66393
+  },
+  {
+   "url": "https://blackeaglefg.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 14921
+  },
+  {
+   "url": "https://blackeaglefg.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1487
+  },
+  {
+   "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+   "kind": "page",
+   "chars": 18288
+  },
+  {
+   "url": "https://blackeaglefg.com/bg/best-prop-firms-with-fair-consistency-rules-in-2026/",
+   "kind": "page",
+   "chars": 18028
+  },
+  {
+   "url": "https://blackeaglefg.com/best-prop-firms-with-fair-consistency-rules-in-2026/",
+   "kind": "page",
+   "chars": 17673
+  },
+  {
+   "url": "https://blackeaglefg.com/pl/best-prop-firms-with-fair-consistency-rules-in-2026/",
+   "kind": "page",
+   "chars": 17944
+  },
+  {
+   "url": "https://blackeaglefg.com/fr/best-prop-firms-with-fair-consistency-rules-in-2026/",
+   "kind": "page",
+   "chars": 18114
+  },
+  {
+   "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+   "kind": "page",
+   "chars": 17421
+  },
+  {
+   "url": "https://blackeaglefg.com/bg/funded-trader-program-no-challenge/",
+   "kind": "page",
+   "chars": 17742
+  },
+  {
+   "url": "https://blackeaglefg.com/fr/funded-trader-program-no-challenge/",
+   "kind": "page",
+   "chars": 17826
+  },
+  {
+   "url": "https://blackeaglefg.com/pl/funded-trader-program-no-challenge/",
+   "kind": "page",
+   "chars": 17684
+  },
+  {
+   "url": "https://blackeaglefg.com/es/funded-trader-program-no-challenge/",
+   "kind": "page",
+   "chars": 18019
+  },
+  {
+   "url": "https://blackeaglefg.com/stock-trading-rules-dos-and-donts-for-smart-investing/",
+   "kind": "page",
+   "chars": 10292
+  },
+  {
+   "url": "https://blackeaglefg.com/pricing/",
+   "kind": "page",
+   "chars": 4339
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 346266,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "40",
+    "snippet": "ercentage exceeds the firm's cap, you are in breach. On a $50,000 account with a 10% profit target ($5,000) and a 40% consistency rule, no single day can exceed $2,000 in profit. Track this in real time, not at the end of the challenge. Is a firm with no consistency rule automatically",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "90% My Funded Futures 40\u201350% (eval); None (funded) Eval only EOD Trailing 1\u20135 days 80% Apex Trader Funding 30% (payout stage) Funded payouts Intraday Trailing (eval) 8 trading days 100% first $25K Topstep 50% (eval) Eval only EOD Trailing 5 benchmark days 100% first $10K 1. Tradeify",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "mark-day minimum. The rule is clearly disclosed and the threshold is permissive. The 100% profit split on the first $10,000 is a genuine differentiator. The structure is more rigid than the top three, but the transparency and track record are among the strongest in the fu",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "30",
+    "snippet": "ved flexibility significantly, including on-demand payouts. However, Apex enforces a 30% consistency rule at the payout stage, not just during evaluation. Per QuantVPS's 2026 statistics , this is one of the stricter thresholds in the funded stage, and withdrawal caps apply for the first f",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "s through one overleveraged session. The problem is implementation: thresholds below 40%, rules that extend into funded payouts, or caps that are not disclosed upfront. A fair rule is one you can calculate in real time and plan around. Does the consistency rule apply after I get funded? It depe",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "it does. Payouts: Profit splits often start around 70\u201380% to you and step up to 85\u201390% after your first or second payout. Some programs allow weekly or biweekly payouts, but frequent withdrawals can reset trailing drawdowns or equity baselines, double-check the fine print. A Risk Plan For",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "30% (payout stage) Funded payouts Intraday Trailing (eval) 8 trading days 100% first $25K Topstep 50% (eval) Eval only EOD Trailing 5 benchmark days 100% first $10K 1. Tradeify Select \u2014 Best overall for rule clarity and funded-stage freedom Tradeify's Se",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "% first $25K Topstep 50% (eval) Eval only EOD Trailing 5 benchmark days 100% first $10K 1. Tradeify Select \u2014 Best overall for rule clarity and funded-stage freedom Tradeify's Select plan removes the consistency rule entirely once funded, which is the sin",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "but most follow a familiar structure: You choose an account size (for example, $10k\u2013$200k) and pay a one-time or monthly fee. You receive a live or hybrid account with predefined risk limits. You trade approved instruments during approved hours. You reques",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "izes often run from small starter accounts (e.g., $10k, $25k) to larger allocations ($100k, $200k, and sometimes more). Some firms offer scaling plans that increase your allocation as you hit performance milestones without violations. Typical scaling triggers",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "25",
+    "snippet": "30% (payout stage) Funded payouts Intraday Trailing (eval) 8 trading days 100% first $25K Topstep 50% (eval) Eval only EOD Trailing 5 benchmark days 100% first $10K 1. Tradeify Select \u2014 Best overall for rule clarity and funded-stage freedom Tradeify's S",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "% first $25K Topstep 50% (eval) Eval only EOD Trailing 5 benchmark days 100% first $10K 1. Tradeify Select \u2014 Best overall for rule clarity and funded-stage freedom Tradeify's Select plan removes the consistency rule entirely once funded, which is the si",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "10,00",
+    "snippet": "learly disclosed and the threshold is permissive. The 100% profit split on the first $10,000 is a genuine differentiator. The structure is more rigid than the top three, but the transparency and track record are among the strongest in the futures space. Best f",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "50,00",
+    "snippet": "l profit to date. If that percentage exceeds the firm's cap, you are in breach. On a $50,000 account with a 10% profit target ($5,000) and a 40% consistency rule, no single day can exceed $2,000 in profit. Track this in real time, not at the end of the challeng",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "5,00",
+    "snippet": "ds the firm's cap, you are in breach. On a $50,000 account with a 10% profit target ($5,000) and a 40% consistency rule, no single day can exceed $2,000 in profit. Track this in real time, not at the end of the challenge. Is a firm with no consistency rule au",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "2,00",
+    "snippet": "th a 10% profit target ($5,000) and a 40% consistency rule, no single day can exceed $2,000 in profit. Track this in real time, not at the end of the challenge. Is a firm with no consistency rule automatically the best choice? Not necessarily. Some no-rule fi",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "izes often run from small starter accounts (e.g., $10k, $25k) to larger allocations ($100k, $200k, and sometimes more). Some firms offer scaling plans that increase your allocation as you hit performance milestones without violations. Typical scaling triggers",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "26,50",
+    "snippet": "awdown: Moves up with new equity highs and never moves down. If your equity peaks at $26,500 and the trailing is $1,500, your new breach level is $25,000. Daily Loss Limit: A cap on the day\u2019s realized + unrealized losses. Violating it, even by a few dollars, t",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "1,50",
+    "snippet": "uity highs and never moves down. If your equity peaks at $26,500 and the trailing is $1,500, your new breach level is $25,000. Daily Loss Limit: A cap on the day\u2019s realized + unrealized losses. Violating it, even by a few dollars, typically triggers an instan",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "25,00",
+    "snippet": "If your equity peaks at $26,500 and the trailing is $1,500, your new breach level is $25,000. Daily Loss Limit: A cap on the day\u2019s realized + unrealized losses. Violating it, even by a few dollars, typically triggers an instant breach. Some \u201cno-challenge\u201d pro",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "EOD",
+    "snippet": ": fairness cannot be evaluated in isolation. A 40% consistency threshold paired with EOD drawdown and a 4-day minimum is a very different proposition than the same 40% threshold paired with intraday trailing drawdown and a 10-day minimum. The combination is what dete",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "trailing",
+    "snippet": "mum is a very different proposition than the same 40% threshold paired with intraday trailing drawdown and a 10-day minimum. The combination is what determines the real friction. How We Scored These Prop Firms Each firm in this ranking was evaluated against five criteri",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "Static",
+    "snippet": "the difference between lasting and a quick breach. You\u2019ll usually see three types: Static Max Drawdown: A fixed dollar amount below your starting balance or equity (e.g., $1,000 on a $25k account). Breach it at any time and the account closes. Trailing Max Drawd",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules in 2026 \n \n \n \n \n \n \n \n \n Ir al contenido \n \n \n Inicio\n \n Ventajas\n Precios\n \n Capital S",
+    "snippet": "Best Prop Firms With Fair Consistency Rules in 2026 Ir al contenido Inicio Ventajas Precios Capital Seguridad Plataformas de negociaci\u00f3n Enrutamiento Programa de tutor\u00eda Visi\u00f3n nocturna Informes personalizados Ayuda Qui\u00e9nes somos Preguntas frecu",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules in 2026\n \n \n marzo 21, 2026\n \n \n Informaci\u00f3n\n \n \n \n \n \n \n \n \"You had a great trading day",
+    "snippet": "PL BG Inicio de sesi\u00f3n Best Prop Firms With Fair Consistency Rules in 2026 marzo 21, 2026 Informaci\u00f3n \"You had a great trading day. You caught a clean breakout, sized up correctly, and booked 6% on your account in a single session. Then you get an email saying your evaluation has been voided \u2014 not b",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule doing exactly what it was designed to do, and it catches experienced traders off guard fa",
+    "snippet": "ocumented repeatedly across trader communities, is not a fringe edge case. It is the consistency rule doing exactly what it was designed to do, and it catches experienced traders off guard far more often than any other evaluation restriction. Most prop-firm comparison articles rank firms by challenge fees, payout splits, or brand longevit",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rules are",
+    "snippet": "that actually determine whether your trading edge survives contact with a rulebook. Consistency rules are. According to QuantVPS's 2026 prop firm statistics , only 5\u201310% of traders pass evaluations and just 7% of funded accounts ever receive a payout. Rule design is a primar",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules interact with real trading behavior, payout eligibility, and strategy fit",
+    "snippet": "iver of both numbers. This article ranks prop firms on one specific lens: how their consistency rules interact with real trading behavior, payout eligibility, and strategy fit. Three things experienced traders switching firms need to know: A consistency rule can invalidate a passed challenge even when every drawdown rule was respected Som",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule can invalidate a passed challenge even when every drawdown rule was respected\n Some firms",
+    "snippet": "d strategy fit. Three things experienced traders switching firms need to know: A consistency rule can invalidate a passed challenge even when every drawdown rule was respected Some firms enforce consistency only during evaluation; others carry it into funded payouts \u2014 a critical distinction \"No consistency rule\" is not automatically bette",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "ned risk limits. You trade approved instruments during approved hours. You request payouts at set intervals (often weekly, biweekly, or monthly) if you\u2019re in compliance and in net profit. The frictionless start is the draw. The catch is staying inside risk rules every single day. Account",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "daily",
+    "snippet": "cumulative profit target (e.g., 10%\u201320%) Maintaining a clean record for a number of payout cycles Respecting maximum drawdown and daily loss limits Scaling matters because larger allocations with the same percentage risk can raise your dollar returns. Don\u2019t rush it, though. Many traders scale too early,",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "com/us-based-prop-firms/ 2025-03-22T16:34:45+00:00 https://blackeaglefg.com/fr/entreprises-daccessoires-basees-aux-etats-unis/ 2025-03-22T12:34:45-04:00 https://blackeaglefg.com/es/empresas-de-apuntalamiento-con-sede-en-ee-uu/ 2025-03-22T12:34:45-04:00 ht",
+    "url": "https://blackeaglefg.com/post-sitemap2.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "art investments based on research. Even if you like a company, investing in it isn\u2019t wise if the business isn\u2019t profitable. Contact Black Eagle Financial Group for More Smart Investing Help We at Black Eagle Financial Group in NYC strive to help profession",
+    "url": "https://blackeaglefg.com/stock-trading-rules-dos-and-donts-for-smart-investing/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "et ultrices tincidunt elit nam fusce aliquet. Sagittis ipsum dolor duis nulla turpis massa urna pellentesque. Dolor arcu, sit ultrices et. Orci, pulvinar pretium quam vestibulum, dui magna metus. Netus id blandit aliquet mauris neque, placerat. Non, mi, massa sed sodales in. Et",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "rading-firm/ 2025-11-27T18:49:06-05:00 https://blackeaglefg.com/best-prop-firm-for-scalping/ 2025-11-27T23:49:05+00:00 https://blackeaglefg.com/fr/best-prop-firm-for-scalping/ 2025-11-27T18:49:05-05:00 https://blackeaglefg.com/es/best-prop-firm-for-scalping/ 2025-11-27T18:49:05-05:00 https://blackeaglefg",
+    "url": "https://blackeaglefg.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "irness criteria that actually matter Rule Feature What Makes It Fair What Makes It Unfair Threshold level 40\u201350%, clearly disclosed Below 30%, buried in terms Scope Evaluation phase only Carries into funded payouts Calculation basis Closed P&L only Includes unrealized/floating P&L Transparencia Stated plainly in rules page Hidden in FAQ o",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "not regulated",
+    "snippet": "Most prop firms allocate their own capital, not client funds, so they\u2019re typically not regulated like brokers. Legal status varies by jurisdiction; firms must follow business laws and platform agreements. Traders should review terms, payout policies, and location restrictions. T",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Black Eag",
+    "snippet": "Professional Prop Trading Firm | Black Eagle Financial Group Skip to content Home Advantages Pricing Capital Security Trading Platforms Routing Mentorship Program Nigh",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Advantag",
+    "snippet": "Firm | Black Eagle Financial Group Skip to content Home Advantages Pricing Capital Security Trading Platforms Routing Mentorship Program Nightvision Custom Reports Support About Us FAQs Contact Us E",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "pholding our values and driven to an approach that inc",
+    "snippet": "Professionalism in Proprietary Trading We are dedicated to upholding our values and driven to an approach that includes security of your capital, sound risk management and regulatory compliance. Learn More Built for Traders Black Eagle",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ludes security of your capital, sound risk manag",
+    "snippet": "ding We are dedicated to upholding our values and driven to an approach that includes security of your capital, sound risk management and regulatory compliance. Learn More Built for Traders Black Eagle Financial Group is a proprietary trading firm st",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ide our traders with the best resources available, inc",
+    "snippet": "Statement A Tradercentric Approach to Proprietary Trading We strive to provide our traders with the best resources available, including an advanced trading platform, unparalleled routing options, proprietary tools, indicators and competitive pricing. We believe these resources are crucial to helpin",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Traders can customize everything from risk manag",
+    "snippet": "to ensure any issues are resolved extremely quickly. Customization Traders can customize everything from risk management to routing to get the personalized access they need to optimize their results. Our Advantages Our goal is to help support proprietary traders b",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Our Advantag",
+    "snippet": "to get the personalized access they need to optimize their results. Our Advantages Our goal is to help support proprietary traders by offering an array of benefits that assist in increasing their profitability. Pricing Customized an",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rs by offering an array of benefits that assist in inc",
+    "snippet": "ts. Our Advantages Our goal is to help support proprietary traders by offering an array of benefits that assist in increasing their profitability. Pricing Customized and competitive rates to meet the specific needs of each trader and strategy Routing A vast",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable after your first payout",
+    "snippet": "ly see: One-time access fee: A single payment per account size: sometimes partially refundable after your first payout. Recurring platform/desk fee: Monthly software, data, or \u201cseat\u201d charges. Reset fee (if applicable): A paid reset after a breach, often cheaper than buying a new accoun",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "high-impact news if slippage could breach limits",
+    "snippet": "1/3\u20131/2 of that per trade, and set a weekly stop near 1.5%\u20132%. Avoid trading through high-impact news if slippage could breach limits. Scale only after two green weeks without any rule violations. Are no-challenge funded trader programs legal and regulated? Most prop firms allocate their own capital,",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Eagle Financial Group \n \n \n \n \n \n \n \n \n \n Skip to content \n \n \n Home\n \n Advantages\n Pricing\n \n Capital Security\n \n Tradi",
+    "snippet": "Professional Prop Trading Firm | Black Eagle Financial Group Skip to content Home Advantages Pricing Capital Security Trading Platforms Routing Mentorship Program Nightvision Custom Reports Support About Us FAQs Contact Us EN FR ES PL BG",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Eagle Financial Group is a proprietary trading firm started with one simple goal in mind: help professional traders take",
+    "snippet": "ES PL BG Login Built for Traders Black Eagle Financial Group is a proprietary trading firm started with one simple goal in mind: help professional traders take their trading to the next level. Get Started Professionalism in Proprietary Trading We are dedicated to upholding our values and dr",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Built for Traders\n \n \n Black Eagle Financial Group is a proprietary trad",
+    "snippet": "des security of your capital, sound risk management and regulatory compliance. Learn More Built for Traders Black Eagle Financial Group is a proprietary trading firm started with one simple goal in mind: help professional traders take their trading to the next level. Get Started MIssion Statement",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n \n \n \n \n \n What We do\n \n \n Focus on What Matters\n \n \n We provide proven, proprietary traders with the capital",
+    "snippet": "esources are crucial to helping our traders maintain their edge in the market. Learn more What We do Focus on What Matters We provide proven, proprietary traders with the capital and infrastructure needed to trade the US equities and options markets.. No paid testing, no demo trading period, trade real capital from day 1. You focus on the",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal capital from day 1",
+    "snippet": "he US equities and options markets.. No paid testing, no demo trading period, trade real capital from day 1. You focus on the markets, we take care of the rest. Learn more Your Strategy, Our Capital Traders have full autonomy to trade their own strategie",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "ding edge survives contact with a rulebook. Consistency rules are. According to QuantVPS's 2026 prop firm statistics , only 5\u201310% of traders pass evaluations and just 7% of funded accounts ever receive a payout. Rule design is a primary driver of both numbers. This article ranks prop firms on one specific lens: how their consistency rules",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "info@blackeaglefg.com",
+    "snippet": "FAQs Contact Us +1 833 253-2453 (Toll Free) +1 514 532-0520 info@blackeaglefg.com Black And White LinkedIn Logo With The Letters \"in\" Inside A Square. Copyright \u00a9 2026 Black Eagle Financial Group. All Rights Reserved. Powered by",
+    "url": "https://blackeaglefg.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "unrealized losses\u2014violations typically trigger immediate breaches. How do fees and payouts typically work for instant funding programs? Common costs include a one-time access fee, optional monthly platform or desk fees, and a reset fee after breaches. Payouts often start at 70\u201380% and",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit cap, limits how much of your total evaluation profit can come from any single trading day",
+    "snippet": "y Rule? The consistency rule, sometimes called the profit consistency rule or daily profit cap, limits how much of your total evaluation profit can come from any single trading day. Myfxbook's prop challenge comparison defines it as a cap that typically prevents a single day's profit from exceeding 50% of the total required target. In pra",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plans that increase your allocation as you hit performance milestones without violations",
+    "snippet": "0k, $25k) to larger allocations ($100k, $200k, and sometimes more). Some firms offer scaling plans that increase your allocation as you hit performance milestones without violations. Typical scaling triggers include: Hitting a cumulative profit target (e.g., 10%\u201320%) Maintaining a clean record for a number of payout cycles Respecting maxi",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-prop-firm-negative-match-but-still-searched/ 2025-11-27T23:48:53+00:00 https://blackeaglefg",
+    "snippet": "unded-account-no-evaluation/ 2025-11-27T18:48:53-05:00 https://blackeaglefg.com/no-kyc-prop-firm-negative-match-but-still-searched/ 2025-11-27T23:48:53+00:00 https://blackeaglefg.com/fr/no-kyc-prop-firm-negative-match-but-still-searched/ 2025-11-27T18:48:53-05:00 https://blackeaglefg.com/es/no-kyc-prop-firm-negative-match-but-still-search",
+    "url": "https://blackeaglefg.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc-prop-firm-negative-match-but-still-searched/ 2025-11-27T18:48:53-05:00 \n https://blackeaglefg",
+    "snippet": "e-match-but-still-searched/ 2025-11-27T23:48:53+00:00 https://blackeaglefg.com/fr/no-kyc-prop-firm-negative-match-but-still-searched/ 2025-11-27T18:48:53-05:00 https://blackeaglefg.com/es/no-kyc-prop-firm-negative-match-but-still-searched/ 2025-11-27T18:48:53-05:00 https://blackeaglefg.com/bg/no-kyc-prop-firm-negative-match-but-still-sear",
+    "url": "https://blackeaglefg.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee, reset fees, and minimum trading days, not just the headline challenge price",
+    "snippet": "Copilink's 2026 futures prop trading breakdown , true cost includes evaluation fee, activation fee, reset fees, and minimum trading days, not just the headline challenge price. Scoring principle: A cheaper challenge with a 30% consistency rule that extends into funded payouts is worse value than a pricier challenge with a 50% evaluation-o",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "activation fees",
+    "snippet": "tion, a 40% cap applies, but it is evaluation-only with EOD trailing drawdown and no activation fees. The Select Flex plan has no minimum trading days, meaning a skilled trader is not forced to keep trading after hitting the profit target. Best for: Active day traders",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee, and clean payout terms add up to the lowest total friction of any firm on this list\n 2",
+    "snippet": "he two products Why it ranks #1: Evaluation-only consistency rule, EOD drawdown, no activation fee, and clean payout terms add up to the lowest total friction of any firm on this list 2. Take Profit Trader \u2014 Best for swing traders who want a predictable cap Take Profit Trader enforces a 50% daily profit limit, which is the most lenient th",
+    "url": "https://blackeaglefg.com/es/best-prop-firms-with-fair-consistency-rules-in-2026/",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fee",
+    "snippet": "ructure: You choose an account size (for example, $10k\u2013$200k) and pay a one-time or monthly fee. You receive a live or hybrid account with predefined risk limits. You trade approved instruments during approved hours. You request payouts at set intervals (often w",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fee (if applicable): A paid reset after a breach, often cheaper than buying a new account",
+    "snippet": "st payout. Recurring platform/desk fee: Monthly software, data, or \u201cseat\u201d charges. Reset fee (if applicable): A paid reset after a breach, often cheaper than buying a new account. Withdrawal fees or minimums: Some programs charge small withdrawal fees or have minimum payout thresholds. Run the math on a 3\u20136 month horizon. Assume at least ",
+    "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Login Funded Trader Programs With No Challenge: A Practical Guide To Instant Funding November 27, 2025 Informational Updated August 2026. Prop-firm marketing outpaced the actual business models. This piece was revised i",
+   "url": "https://blackeaglefg.com/funded-trader-program-no-challenge/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "DXtrade"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options",
+  "Bonds",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

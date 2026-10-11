@@ -1,0 +1,516 @@
+{
+ "slug": "ment-funding",
+ "name": "Ment Funding",
+ "category": "Forex/CFD",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://mentfunding.com/",
+  "evidence": "name+7 prop-firm signals on homepage",
+  "tried": [
+   "https://mentfunding.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://mentfunding.com/",
+   "kind": "home",
+   "chars": 12437
+  },
+  {
+   "url": "https://mentfunding.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 981
+  },
+  {
+   "url": "https://mentfunding.com/terms-of-service",
+   "kind": "page",
+   "chars": 30082
+  },
+  {
+   "url": "https://mentfunding.com/es/terms-of-service",
+   "kind": "page",
+   "chars": 32351
+  },
+  {
+   "url": "https://mentfunding.com/th/terms-of-service",
+   "kind": "page",
+   "chars": 26117
+  },
+  {
+   "url": "https://mentfunding.com/contact/",
+   "kind": "page",
+   "chars": 1645
+  },
+  {
+   "url": "https://mentfunding.com/es/contact/",
+   "kind": "page",
+   "chars": 1833
+  },
+  {
+   "url": "https://mentfunding.com/es/refund-policy",
+   "kind": "page",
+   "chars": 3025
+  },
+  {
+   "url": "https://mentfunding.com/refund-policy",
+   "kind": "page",
+   "chars": 2723
+  },
+  {
+   "url": "https://mentfunding.com/th/refund-policy",
+   "kind": "page",
+   "chars": 2667
+  }
+ ],
+ "page_count": 10,
+ "total_chars": 113870,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "t and withdraw your profit from above it. 1 One-step evaluation . Hit the 10% profit target on the starting balance, clear the consistency rule, respect drawdown - you\u2019re funded. One phase. No verification step. 2 90-day and 365-day evaluation window",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "r first payout it locks at the starting balance. Hard breach if exceeded. 5 5% daily loss limit. The Daily Loss Limit is the maximum your account can lose in any given day. Daily Loss Limit is calculated using the previous day balance which resets at 5 PM ES",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "r first payout it locks at the starting balance. Hard breach if exceeded. 4 3% daily loss limit. 3% of the previous day\u2019s closing balance, recalculated at 5 PM EST. Hard breach if exceeded - the account ends. 5 33% consistency rule. No single tradi",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "old them through the weekend with a checkout add-on. 4 6% static drawdown. Max loss is fixed at 6% below the starting balance and doesn\u2019t trail with profits. After your first payout it locks at the starting balance. Hard breach if exceeded. 5 5% daily loss l",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "n Get to know us No daily profit cap No consistency rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M Futures Funded futures accounts New Equities by Ment Funding Funded equities \u00b7 only at Ment Pick your account .",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "previous day ($100,000). So, your daily loss limit would still be $95,000. 6 75% profit split . Default split. 90% available as a checkout add-on on any account. First payout from day 1. 7 Up to 1:20 leverage . Up to 1:20 on forex and metals, up to 1:1",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "d the account pauses until the next session - a soft breach, not a fail. 6 80% profit split . Default split, with 90% as a checkout add-on for about 15% more. Payouts every 14 days, $100 minimum. 7 2:1 buying power . Two times leverage on every posit",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "400",
+    "snippet": "g money right now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this a",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "right now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ike the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Regis",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "he trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registrati",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "0K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration coming soon The fairest competition in the space. EAST WEST. Eas",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "00K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration coming soon The fairest competition in the space. EAST WEST. East aga",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "o consistency rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M Futures Funded futures accounts New Equities by Ment Funding Funded equities \u00b7 only at Ment Pick your account . Get credentials sent straight to you",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "making money right now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Tak",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "g money right now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "right now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "now, like the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ike the trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Regi",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "he trader you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registrat",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "der you are. Forex Futures Equities $1M $400K $200K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration c",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "0K $100K $50K $25K $2M $5M $400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration coming soon The fairest competition in the space. EAST WEST. Ea",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9,75",
+    "snippet": "$50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration coming soon The fairest competition in the space. EAST WEST. East against West on one board, three million dollars on",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8,60",
+    "snippet": "25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration coming soon The fairest competition in the space. EAST WEST. East against West on one board, three million dollars on the lin",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "Free to enter, judged on real trading skill, not the biggest gamble on the board. $3 MILLION Prize pool $0 Entry fee East vs West Format Coming soon Results Skill-weighted, not raw P&L. Raw profit rewards the biggest gamble. We weigh real trad",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "M EST Friday, or hold them through the weekend with a checkout add-on. 4 6% static drawdown. Max loss is fixed at 6% below the starting balance and doesn\u2019t trail with profits. After your first payout it locks at the starting balance. Hard breach if exceeded.",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule\n No time limits\n Up to 90% split\n Forex\n 1-step evaluation, up to $5M\n \n \n Futures\n Funde",
+    "snippet": "out since 2021. Select evaluation plan Get to know us No daily profit cap No consistency rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M Futures Funded futures accounts New Equities by Ment Funding Funded equities \u00b7 only at Ment Pick your account . Get credentials sent straight to your email, pass our 1-s",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "on daily gains, except the $2M tier, which carries a 2.5% daily cap. 9 No consistency rule . None on $25K to $1M accounts - trade freely. 10 Funded account rules . The rules for the Funded Account are the same as those for your Assessment account, wit",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Requirement",
+    "snippet": "Funded Accounts with a starting balance greater than $1 million are subject to a 35% Consistency Requirement. This requirement must be met before a withdrawal can be requested. 11 30-day activity rule. Open or close at least one trade every 30 days. Go that long with",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule, respect drawdown - you\u2019re funded",
+    "snippet": "One-step evaluation . Hit the 10% profit target on the starting balance, clear the consistency rule, respect drawdown - you\u2019re funded. One phase. No verification step. 2 90-day and 365-day evaluation window . The evaluation runs a maximum of 90 calendar days from your first trade. A 365-day",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "every 30 days",
+    "snippet": "% profit split . Default split, with 90% available as a checkout add-on. Request a payout, then withdraw again every 30 days. Max drawdown locks at the starting balance on the first withdrawal. 7 Front-month contracts . Trade the active front-month contract for each product - out-mo",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": "0% profit split . Default split, with 90% as a checkout add-on for about 15% more. Payouts every 14 days, $100 minimum. 7 2:1 buying power . Two times leverage on every position, across the whole stock list. 8 33% consistency rule. No single day above 33%",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "nce 2021. Every approved payout cleared. Gold \u00b7 - \u00b7 - Commodities BTC/USD \u00b7 - \u00b7 - Crypto Real payouts. Real traders. Real funded accounts. Scale to $5M . Account doubling . Once funded, your account closes and reopens at double the s",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "ou agree not to hold the Company liable for any possible claims of damages that may arise from any decision that you make based upon the use of data, information, and content on the Company website. While the Company does not provide you with the opportuni",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "y to you in relation to any prize, its fitness for purposes, merchantability or otherwise. 12 Guidelines The Company will display the guidelines associated with the Services on the Company\u2019s website and via email, upon becoming a Trader. These guideline",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "USD \u00b7 - \u00b7 - Crypto Real payouts. Real traders. Real funded accounts. Scale to $5M . Account doubling . Once funded, your account closes and reopens at double the size when three conditions are met: 1 First withdrawal completed on the account",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "licensed by",
+    "snippet": "s are copyrights, trademarks and/or other intellectual property owned, controlled or licensed by the Company, one of its affiliates or by third parties who have licensed their materials to us and are protected by laws of The United States of America. The compilation (meaning the collection, arrangement, and assembly) of all Contents on th",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "ar lugar a la cancelaci\u00f3n de operaciones Operar de cualquier forma que genere problemas regulatorios para el Br\u00f3ker Utilizar cualquier estrategia de terceros, estrategia prefabricada o estrategia comercializada para aprobar cuentas de desaf\u00edo Utilizar una estrategia para aprobar una evaluaci\u00f3n y luego utilizar una estrategia diferente en ",
+    "url": "https://mentfunding.com/es/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Not a single refused payout sinc",
+    "snippet": "S TH SELECT ACCOUNT One firm Your funding choice: Forex , Futures , Equities Not a single refused payout since 2021. Select evaluation plan Get to know us No daily profit cap No consistency rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M F",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAST WEST. East ag",
+    "snippet": "his account Registration coming soon The fairest competition in the space. EAST WEST. East against West on one board, three million dollars on the line. Free to enter, judged on real trading skill, not the biggest gamble on the board. $3 MILLION Prize pool $",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Equities Funding traders sinc",
+    "snippet": "he whole point. Enter the competition EUR/USD \u00b7 - \u00b7 - Forex S&P 500 \u00b7 - \u00b7 - Equities Funding traders since 2021. Every approved payout cleared. Gold \u00b7 - \u00b7 - Commodities BTC/USD \u00b7 - \u00b7 - Crypto Real payouts. Real traders. Real funded accounts. Scale to $5M",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Not necessa",
+    "snippet": "mpleted on the account. 2 In any rolling 6 months, 3 months with a gain above 2%. Not necessarily consecutive. 3 Total profits (current + past payouts) reach 10% of the starting balance. When all three are met: split paid out, account closes, new live acc",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Pass the sa",
+    "snippet": "\u2019re funded. No second phase. No verification challenge. 2 No time limits . Pass the same day you start, or take three months. No minimum trading days. No maximum. 3 Trade your way . EAs, hedging, scalping, any strategy - all permitted. No style",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ets at 5 PM EST. The Daily Stop compounds with the inc",
+    "snippet": "ny given day. Daily Loss Limit is calculated using the previous day balance which resets at 5 PM EST. The Daily Stop compounds with the increase in your account. Example: if your prior day's end of day balance (5pm EST) was $100,000, your account would violate the daily stop loss limit if your equity reached",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "leverag",
+    "snippet": "as a checkout add-on on any account. First payout from day 1. 7 Up to 1:20 leverage . Up to 1:20 on forex and metals, up to 1:10 on indices, up to 1:5 on oil, up to 1:2 on crypto. May be lower depending on market conditions \u2014 contact support for cur",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "contact support for current leverag",
+    "snippet": "to 1:5 on oil, up to 1:2 on crypto. May be lower depending on market conditions \u2014 contact support for current leverage. 8 No daily profit cap . Take whatever the market gives you in a day. No upper limit on daily gains, except the $2M tier, which carries a 2.5% daily cap.",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund policy \n Cookies \n \n \n \n \u00a9 Ment Funding \u00b7 2021-2026 \n \n \n ASK MENT FUNDING \n \n MENT FUNDING AI\n Hello, welcome to",
+    "snippet": "iates Competition Legal Terms of service Privacy policy Risk disclaimer Refund policy Cookies \u00a9 Ment Funding \u00b7 2021-2026 ASK MENT FUNDING MENT FUNDING AI Hello, welcome to Ment Funding! How can I help you? Answers based on Ment Funding docs. For account issues: [email protected]",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy",
+    "snippet": "tfunding.com/es/ https://mentfunding.com/privacy-policy.html https://mentfunding.com/refund-policy.html https://mentfunding.com/risk-disclaimer.html https://mentfunding.com/terms-of-service.html https://mentfunding.com/th/ https://mentfunding.com/es/commissions-and-pr",
+    "url": "https://mentfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refunds\n The Company may provide products, services, subscriptions, or access to certain portions to the Company\u2019s websi",
+    "snippet": "idual account at the same time) absent prior written approval. 10 Purchases and Refunds The Company may provide products, services, subscriptions, or access to certain portions to the Company\u2019s website at a monetary cost. Prices and availability are subject to change without notice. The Company may allow for such purchases within its webs",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "refunds on any Services purchased from the Company",
+    "snippet": "access will be available to you following the approved transaction. There are no refunds on any Services purchased from the Company. 11 Third Party Prizes Any contests, giveaways, or prizes offered being provided by a third party are in no way offered by or endorsed by the Company. Third-party",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading allowed",
+    "snippet": "res across the CME exchanges - majors and micros, including micro crypto. 9 News trading allowed . Trade through economic releases. Manage the volatility and the thinner liquidity yourself - no news lockout on the futures program. 10 Globex session . Trad",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ead the Forex rules $9,750 $8,600 \n Take this account \n \n \n \n Registration coming soon\n The fairest competition\nin the s",
+    "snippet": "$400K $200K $100K $50K $25K $100K $50K $25K $10K $5K Static Trailing Read the Forex rules $9,750 $8,600 Take this account Registration coming soon The fairest competition in the space. EAST WEST. East against West on one board, three million dollars on the line. Free to enter, judged on real trading skill, not the biggest gamble on the bo",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAST WEST",
+    "snippet": "his account Registration coming soon The fairest competition in the space. EAST WEST. East against West on one board, three million dollars on the line. Free to enter, judged on real trading skill, not the biggest gamble on the board. $3 MILLION Prize",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "East against West on one board, three million dollars on the line",
+    "snippet": "Registration coming soon The fairest competition in the space. EAST WEST. East against West on one board, three million dollars on the line. Free to enter, judged on real trading skill, not the biggest gamble on the board. $3 MILLION Prize pool $0 Entry fee East vs West Format Coming soon Results",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal trading skill, not the biggest gamble on the\u00a0board",
+    "snippet": "inst West on one board, three million dollars on the line. Free to enter, judged on real trading skill, not the biggest gamble on the board. $3 MILLION Prize pool $0 Entry fee East vs West Format Coming soon Results Skill-weighted, not raw P&L. Raw profit rewards the biggest gamble. We weigh re",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "East vs West Format \n Coming soon Results \n \n Skill-weighted, not raw P&L",
+    "snippet": "kill, not the biggest gamble on the board. $3 MILLION Prize pool $0 Entry fee East vs West Format Coming soon Results Skill-weighted, not raw P&L. Raw profit rewards the biggest gamble. We weigh real trading skill, so the board ranks traders, not luck. Multi-accounts, permanent ban. Try to game the leaderb",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:20",
+    "snippet": "lable as a checkout add-on on any account. First payout from day 1. 7 Up to 1:20 leverage . Up to 1:20 on forex and metals, up to 1:10 on indices, up to 1:5 on oil, up to 1:2 on crypto. May be lower depending on market conditions \u2014 contact support for curr",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit cap\n No consistency rule\n No time limits\n Up to 90% split\n Forex\n 1-step evaluation, up to $5M\n \n \n Futures\n Fund",
+    "snippet": "gle refused payout since 2021. Select evaluation plan Get to know us No daily profit cap No consistency rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M Futures Funded futures accounts New Equities by Ment Funding Funded equities \u00b7 only at Ment Pick your account . Get credentials sent straight to your email, pass our",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "profit cap",
+    "snippet": "ing on market conditions \u2014 contact support for current leverage. 8 No daily profit cap . Take whatever the market gives you in a day. No upper limit on daily gains, except the $2M tier, which carries a 2.5% daily cap. 9 No consistency rule . Non",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling plan \n \n Company\n Dashboard \n Support \n Affiliates \n Competition \n \n Legal\n Terms of service \n Privacy policy \n ",
+    "snippet": "Discord Instagram X YouTube Products Evaluation Account sizes Rules FAQ Scaling plan Company Dashboard Support Affiliates Competition Legal Terms of service Privacy policy Risk disclaimer Refund policy Cookies \u00a9 Ment Funding \u00b7 2021-2026 ASK MENT FUNDING MENT FUNDING AI Hello, welcome to Ment Funding! How can I help you? Answers based",
+    "url": "https://mentfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscriptions, or access to certain portions to the Company\u2019s website at a monetary cost",
+    "snippet": "approval. 10 Purchases and Refunds The Company may provide products, services, subscriptions, or access to certain portions to the Company\u2019s website at a monetary cost. Prices and availability are subject to change without notice. The Company may allow for such purchases within its website or via a white label affiliate. It is your res",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, or access to certain portions of the Company website, the Company will make any said product, service, or ",
+    "snippet": "er Rights Directive 2011/83/EU. Upon the complete purchase of a product, service, subscription, or access to certain portions of the Company website, the Company will make any said product, service, or access will be available to you following the approved transaction. There are no refunds on any Services purchased from the Company. 11 Th",
+    "url": "https://mentfunding.com/terms-of-service",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "et to know us No daily profit cap No consistency rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M Futures Funded futures accounts New Equities by Ment Funding Funded equities \u00b7 only at Ment Pick your account . Get c",
+   "url": "https://mentfunding.com/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "ncy rule No time limits Up to 90% split Forex 1-step evaluation, up to $5M Futures Funded futures accounts New Equities by Ment Funding Funded equities \u00b7 only at Ment Pick your account . Get credentials sent straight to your email, pass our 1-step ev",
+   "url": "https://mentfunding.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Equities",
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "ains, except the $2M tier, which carries a 2.5% daily cap. 9 No consistency rule . None on $25K to $1M accounts - trade freely. 10 Funded account rules . The rule"
+ ],
+ "errors": []
+}

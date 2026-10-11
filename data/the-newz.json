@@ -1,0 +1,356 @@
+{
+ "slug": "the-newz",
+ "name": "The Newz",
+ "category": "Specialist",
+ "url": "https://thenews.gg/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.thenews.gg/",
+   "kind": "home",
+   "chars": 4835
+  },
+  {
+   "url": "https://www.thenews.gg/terms",
+   "kind": "page",
+   "chars": 35491
+  }
+ ],
+ "page_count": 2,
+ "total_chars": 40327,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "80",
+    "snippet": "Two buttons. No charts, no jargon 03 We pay you for being right. Hit your profit target and we send you 80% of the gains. Real money, your bank or USDC. All accounts are 100% simulated. You never risk more than your entry fee. Prove you can win. Get up to $100K funding. K",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "nding $10,000 Days 30 Start for free \u2192 Simulated account: $10,000 Target: +10% Max drawdown: 10% Pick your first Challenge And start earning your first rewards 1 Special Boost inside \u272a Standard PREDICTION CHALLENGE i Entry Free Funding $10,000 Days 30 St",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "d your Bets. Predict what happens in the news. Hit your target, we send you up to $100k Follow Us Start for free \u2192 Is France going to win the World Cup 2026? Yes No 25,283 Trades Will the Lakers win the NBA Finals? Yes No 104,200 Trades",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "llenge \u2192 01 Pick a challenge tier Choose your entry. Free to $299 gets you a $10k\u2013$100k simulated account and 30 days to hit up to +15%. 1 Special Boost in the pack (Up to x5 on your earnings) Thank you! You've successfully bought Challenge Make",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "d your Bets. Predict what happens in the news. Hit your target, we send you up to $100k Follow Us Start for free \u2192 Is France going to win the World Cup 2026? Yes No 25,283 Trades Will the Lakers win the NBA Finals? Yes No 104,200 Trades",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "299",
+    "snippet": "t your first Challenge \u2192 01 Pick a challenge tier Choose your entry. Free to $299 gets you a $10k\u2013$100k simulated account and 30 days to hit up to +15%. 1 Special Boost in the pack (Up to x5 on your earnings) Thank you! You've successfully bought",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "llenge \u2192 01 Pick a challenge tier Choose your entry. Free to $299 gets you a $10k\u2013$100k simulated account and 30 days to hit up to +15%. 1 Special Boost in the pack (Up to x5 on your earnings) Thank you! You've successfully bought Challenge Mak",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "61",
+    "snippet": "ntry fee. Predict smarter than the crowd Successfully bet on BTC Bitcoin $BTC $61 463,10 +0.3% Will BTC Reach $62,000+ before the end of the day? Predict smarter than the crowd Successfully bet on BTC Bitcoin $BTC $61 463,10 +0.3% Will BTC R",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "62,00",
+    "snippet": "the crowd Successfully bet on BTC Bitcoin $BTC $61 463,10 +0.3% Will BTC Reach $62,000+ before the end of the day? Predict smarter than the crowd Successfully bet on BTC Bitcoin $BTC $61 463,10 +0.3% Will BTC Reach $62,000+ before the end of the d",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "Up to x5 on your earnings) \u272a Standard PREDICTION CHALLENGE i Entry Free Funding $10,000 Days 30 Start for free \u2192 Simulated account: $10,000 Target: +10% Max drawdown: 10% Pick your first Challenge And start earning your first rewards 1 Special Bo",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "284,50",
+    "snippet": "ion. Search for users... Position Name Total Earning Points #1 CryptoWhale99 $284,500.00 18,420 #2 DiamondHandsDan $231,780.50 16,905 #3 OracleOfOmaha $198,240.00 15,330 #4 MoonshotMaya $164,910.25 13,880 #5 SatoshiJr $142,300.00",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "231,78",
+    "snippet": "otal Earning Points #1 CryptoWhale99 $284,500.00 18,420 #2 DiamondHandsDan $231,780.50 16,905 #3 OracleOfOmaha $198,240.00 15,330 #4 MoonshotMaya $164,910.25 13,880 #5 SatoshiJr $142,300.00 12,540 #6 PredictionPro $119,650.75 1",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "198,24",
+    "snippet": "284,500.00 18,420 #2 DiamondHandsDan $231,780.50 16,905 #3 OracleOfOmaha $198,240.00 15,330 #4 MoonshotMaya $164,910.25 13,880 #5 SatoshiJr $142,300.00 12,540 #6 PredictionPro $119,650.75 11,210 #7 LuckyLuna $97,420.00 9,860",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "164,91",
+    "snippet": "$231,780.50 16,905 #3 OracleOfOmaha $198,240.00 15,330 #4 MoonshotMaya $164,910.25 13,880 #5 SatoshiJr $142,300.00 12,540 #6 PredictionPro $119,650.75 11,210 #7 LuckyLuna $97,420.00 9,860 #8 RiskItRyan $83,015.50 8,495 #",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "142,30",
+    "snippet": "maha $198,240.00 15,330 #4 MoonshotMaya $164,910.25 13,880 #5 SatoshiJr $142,300.00 12,540 #6 PredictionPro $119,650.75 11,210 #7 LuckyLuna $97,420.00 9,860 #8 RiskItRyan $83,015.50 8,495 #9 NewsNinja $71,880.25 7,340 #10",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "119,65",
+    "snippet": "aya $164,910.25 13,880 #5 SatoshiJr $142,300.00 12,540 #6 PredictionPro $119,650.75 11,210 #7 LuckyLuna $97,420.00 9,860 #8 RiskItRyan $83,015.50 8,495 #9 NewsNinja $71,880.25 7,340 #10 ParlayPaula $62,405.00 6,215 #11 H",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency requirements\n duration limits\n The Company may amend Evaluation Rules for future Evaluations without",
+    "snippet": "ximum position sizing maximum exposure limits minimum odds prohibited strategies consistency requirements duration limits The Company may amend Evaluation Rules for future Evaluations without modifying these Terms. Unless expressly stated otherwise, amendments shall not apply retroactively to Evaluations already in progress. 7.2 Evaluatio",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "clude, among other things: an eighty percent (80%) share payable to eligible Users weekly payout cycles a minimum payout threshold The Company reserves the unrestricted right to amend the Payout Policy for future payout periods. The Payout Policy published on the",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "art betting on real life events Find hot topics to trade... \ud83c\uddfa\ud83c\uddf8 Will Trump sign a crypto bill before July? 1.49 Yes \u2192 \u26bd Will PSG win vs. Manchester United 2.86 Draw \u2192 \ud83e\udd16 Will GPT-5 launch before September? 1.28 No \u2192 \ud83c\udfbe Will Alcaraz beat Sinner at Wimbledon? 1.",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": ". Hit your profit target and we send you 80% of the gains. Real money, your bank or USDC. All accounts are 100% simulated. You never risk more than your entry fee. Prove you can win. Get up to $100K funding. Keep 80% of the profits. No experience needed",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "creating an Account, purchasing an Evaluation, participating in a Challenge or otherwise using the Services, you acknowledge that you have read, understood and agree to be legally bound by these Terms, together with any additional policies incorporated herei",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "r materially from results obtained under actual market conditions. Differences may arise from, among other things: market liquidity execution timing slippage market impact technical limitations changes in market conditions differences between simulate",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "with all laws applicable to them. The use of VPN services, proxy servers, identity masking technologies or any similar method designed to circumvent geographic restrictions constitutes a material breach of these Terms. Where the Company reasonably believes that a User has circumvented geographical restrictions, it may immediately: suspend",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "munity if they suspect unauthorized access. 6.1 One Person Policy Unless expressly authorized by the Company, each natural person may maintain only the number of Accounts permitted under the applicable Evaluation Program. Users may not create multiple identities for the purpose of: circumventing Evaluation Rules avoiding restrictions obta",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "sca",
+    "snippet": "tted trading styles permitted automation eligibility requirements account sizing scaling opportunities any other characteristic determined by the Company The Company reserves the right to introduce, discontinue or modify any Evaluation Program at any time. 7.1 Evaluation Rules The detailed Evaluation Rules applicable to each Evaluation Pr",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ionally exploit loopholes, software bugs or technical defects in order to obtain an unfair advantage. The Company reserves the right to determine whether particular conduct violates the principle of good faith. 10.2 Accurate Information Users warrant that all informa",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "constitute a legally binding ag",
+    "snippet": "ms of Service Effective Date: July 17th, 2026 These Terms of Service (the \"Terms\") constitute a legally binding agreement between ANABELLA VENTURES LTD, Company Number 247138, a company duly incorporated under the laws of the Republic of Seychelles with its registered office at 306 V",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "reement between ANABELLA VENTURES LTD",
+    "snippet": "July 17th, 2026 These Terms of Service (the \"Terms\") constitute a legally binding agreement between ANABELLA VENTURES LTD, Company Number 247138, a company duly incorporated under the laws of the Republic of Seychelles with its registered office at 306 Victoria House, Victoria, Mah\u00e9, Seyche",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Company Number 247138, a company duly inc",
+    "snippet": "(the \"Terms\") constitute a legally binding agreement between ANABELLA VENTURES LTD, Company Number 247138, a company duly incorporated under the laws of the Republic of Seychelles with its registered office at 306 Victoria House, Victoria, Mah\u00e9, Seychelles (the \"Company\", \"TheNews\", \"we\", \"our\"",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "you acknowledge that you have read, understood and ag",
+    "snippet": "chasing an Evaluation, participating in a Challenge or otherwise using the Services, you acknowledge that you have read, understood and agree to be legally bound by these Terms, together with any additional policies incorporated herein by reference. If you do not agree to these Terms, you must immediately",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "these Terms, together with any additional policies inc",
+    "snippet": "ces, you acknowledge that you have read, understood and agree to be legally bound by these Terms, together with any additional policies incorporated herein by reference. If you do not agree to these Terms, you must immediately discontinue your use of the Services. The Company may amend these Terms from tim",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "If you do not ag",
+    "snippet": "hese Terms, together with any additional policies incorporated herein by reference. If you do not agree to these Terms, you must immediately discontinue your use of the Services. The Company may amend these Terms from time to time. Continued use of the Services followi",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Any capital owned, controlled or manag",
+    "snippet": "product and does not represent ownership of any financial assets. Company Capital Any capital owned, controlled or managed exclusively by the Company. Users never obtain any ownership interest, custody rights or beneficial rights over Company Capital. Evaluation The process through whic",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "The process through which a User attempts to sa",
+    "snippet": "hip interest, custody rights or beneficial rights over Company Capital. Evaluation The process through which a User attempts to satisfy the Evaluation Rules applicable to a particular Challenge. Evaluation Fee The fee paid by a User in exchange for participation in an Evaluation. Evaluation Fees",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "247138",
+    "snippet": "(the \"Terms\") constitute a legally binding agreement between ANABELLA VENTURES LTD, Company Number 247138, a company duly incorporated under the laws of the Republic of Seychelles with its registered office at 306 Victoria House, Victoria, Mah\u00e9, Seychelles (the \"Company\", \"T",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "RESTRICTED JURISDICTIONS\n The Services are not available worldwide",
+    "snippet": "the unrestricted right to reject any registration request for any lawful reason. 3. RESTRICTED JURISDICTIONS The Services are not available worldwide. The Company may refuse access to any jurisdiction where the provision of the Services may violate applicable laws or expose the Company to regulatory obligations. Wit",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions at any time without prior notice",
+    "snippet": "otherwise designated by the Company as restricted The Company may amend the list of Restricted Jurisdictions at any time without prior notice. Users remain solely responsible for ensuring that their use of the Services complies with all laws applicable to them. The use of VPN services, proxy servers, identit",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunds\n Except where mandatory under applicable law, all purchases are final",
+    "snippet": "investments escrow payments brokerage commissions capital contributions 7.3 No Refunds Except where mandatory under applicable law, all purchases are final. Evaluation Fees are: non-refundable non-transferable non-exchangeable Failure to satisfy Evaluation objectives shall not entitle a User to any refund. Abandonment",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refundable\n non-transferable\n non-exchangeable\n Failure to satisfy Evaluation objectives shall not entitle a User to any",
+    "snippet": "mandatory under applicable law, all purchases are final. Evaluation Fees are: non-refundable non-transferable non-exchangeable Failure to satisfy Evaluation objectives shall not entitle a User to any refund. Abandonment of an Evaluation shall not entitle a User to any refund. Termination for breach of these Terms shall not entitle a User ",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refund",
+    "snippet": "a User to any refund. Abandonment of an Evaluation shall not entitle a User to any refund. Termination for breach of these Terms shall not entitle a User to any refund. 7.4 Expiration The Company may establish expiration periods applicable to particular Ev",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy, Payout Policy and any Evaluation Rules published on the Website, constitute the entire agreement between ",
+    "snippet": "ms, together with the Privacy Policy, Risk Disclosure, Identity Verification Policy, Refund Policy, Payout Policy and any Evaluation Rules published on the Website, constitute the entire agreement between the Company and the User. They supersede all prior discussions, understandings or agreements relating to the Services. 28. CONTACT For ",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard $FUND Litepaper Start for free \u2192 \n $FUND Litepaper We fund your Bets",
+    "snippet": "thenews.gg \u2014 Your next win By Funded Protocol How it works Challenges Leaderboard $FUND Litepaper Start for free \u2192 $FUND Litepaper We fund your Bets. Predict what happens in the news. Hit your target, we send you up to $100k Follow Us Start for free \u2192 Is France going to win the World Cup 2026? Yes No 25",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "eal life events \n \n Find hot topics to trade",
+    "snippet": "NBA Finals? Yes No 104,200 Trades Get a funded account and start betting on real life events Find hot topics to trade... \ud83c\uddfa\ud83c\uddf8 Will Trump sign a crypto bill before July? 1.49 Yes \u2192 \u26bd Will PSG win vs. Manchester United 2.86 Draw \u2192 \ud83e\udd16 Will GPT-5 launch before September? 1.28 No \u2192 \ud83c\udfbe Will Alcar",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "eat Sinner at Wimbledon? 1",
+    "snippet": "r United 2.86 Draw \u2192 \ud83e\udd16 Will GPT-5 launch before September? 1.28 No \u2192 \ud83c\udfbe Will Alcaraz beat Sinner at Wimbledon? 1.82 Yes \u2192 Prove you can win. Get up to $100K funding. Keep 80% of the profits. No experience needed. Just pick a side on the news, and if you're right often enough",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "earnings)\n Thank you!\n You've successfully bought\n Challenge\n Make your first Bet \u2192 Will the Lakers win the NBA Finals?\n",
+    "snippet": "count and 30 days to hit up to +15%. 1 Special Boost in the pack (Up to x5 on your earnings) Thank you! You've successfully bought Challenge Make your first Bet \u2192 Will the Lakers win the NBA Finals? Yes No 104,200 Trades 02 Predict YES or NO Browse live events across politics, sports, crypto and AI. One question. Two buttons. No charts, n",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   },
+   {
+    "value": "eal money, your bank or USDC",
+    "snippet": "pay you for being right. Hit your profit target and we send you 80% of the gains. Real money, your bank or USDC. All accounts are 100% simulated. You never risk more than your entry fee. Prove you can win. Get up to $100K funding. Keep 80% of the profits. No experience needed",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "hat their use of the Services complies with all laws applicable to them. The use of VPN services, proxy servers, identity masking technologies or any similar method designed to circumvent geographic restrictions constitutes a material breach of these Terms. Where the Company reasonably believes that a User has circumvented geographical re",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "preserve: trading records communication logs technical logs device fingerprints IP address history blockchain transaction records for purposes including fraud prevention, dispute resolution and regulatory compliance 14. SUSPENSION AND TERMINATION The Company may suspend or terminate access to the Services at any time where it reasonably b",
+    "url": "https://www.thenews.gg/terms",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "contact@thenews.gg",
+    "snippet": "ges Leaderboard Legal Privacy Policy Terms of Service Socials X (Twitter) Telegram contact@thenews.gg \u00a9 2026 THENEWS.GG ALL RIGHTS RESERVED FUNDED PROTOCOL PRODUCT Website Legal Socials How it works Privacy Policy X (Twitter) Challenges Terms of Service Telegram Le",
+    "url": "https://www.thenews.gg/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Crypto"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

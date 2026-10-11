@@ -1,0 +1,464 @@
+{
+ "slug": "daytraders",
+ "name": "DayTraders",
+ "category": "Futures",
+ "url": "https://daytraders.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://daytraders.com/",
+   "kind": "home",
+   "chars": 17692
+  },
+  {
+   "url": "https://daytraders.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 21700
+  },
+  {
+   "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+   "kind": "page",
+   "chars": 5984
+  },
+  {
+   "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+   "kind": "page",
+   "chars": 7299
+  },
+  {
+   "url": "https://daytraders.com/help/articles/14038700-live-accounts-payouts",
+   "kind": "page",
+   "chars": 6721
+  },
+  {
+   "url": "https://daytraders.com/help/articles/14367899-funded-account-trading-rules-pro-s2f",
+   "kind": "page",
+   "chars": 7645
+  },
+  {
+   "url": "https://daytraders.com/help/collections/10493592-pro-account-trading-rules",
+   "kind": "page",
+   "chars": 744
+  },
+  {
+   "url": "https://daytraders.com/help/collections/10406145-about-pro-accounts",
+   "kind": "page",
+   "chars": 764
+  },
+  {
+   "url": "https://daytraders.com/help/articles/14367459-allowed-number-of-accounts-evaluations-and-pro-accounts",
+   "kind": "page",
+   "chars": 2995
+  },
+  {
+   "url": "https://daytraders.com/help/collections/10394879-evaluation-accounts",
+   "kind": "page",
+   "chars": 1066
+  },
+  {
+   "url": "https://daytraders.com/help/articles/9855114-why-trade-multiple-evaluation-accounts",
+   "kind": "page",
+   "chars": 2667
+  },
+  {
+   "url": "https://daytraders.com/help/articles/10751187-coupon-code-and-discounted-price",
+   "kind": "page",
+   "chars": 2175
+  },
+  {
+   "url": "https://daytraders.com/help/articles/9855012-why-choose-daytraders-key-features-program-benefits-and-how-it-works",
+   "kind": "page",
+   "chars": 4583
+  },
+  {
+   "url": "https://daytraders.com/help/",
+   "kind": "sub",
+   "chars": 1485
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 83533,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "50",
+    "snippet": "We have implemented a small variance for making small amounts slightly greater than 50% of the profit target. If you make 51% on the first trading day and then 49% the next trading day, the account will still be marked as 'passed'. Note: If your account does not meet the 50%",
+    "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "llent 4.7 out of 5 star rating on Trustpilot Trustpilot Keep 100% of Profits Automated Payout Approval 15 Funded Accounts Pricing Build Your Account One standard price. A flat $5 activation fee. No codes, no gimmicks \u2014 every rule visible before y",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": ": If you are moved to live during a payout and your total payouts exceed $10,000: 50% of the payout will be sent to your payout method 50% will be allocated to your live account Specific account parameters will be discussed with a Risk Manager. At minimum, 50% of your payout will be your MLL i",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "30",
+    "snippet": "down is crucial to your success. 2. Minimum Activity Policy : All accounts need minimum trading days within each rolling 30 day cycle to remain active Monthly Accounts: minimum 1 trading day within each 30-day billing cycle That trading day must meet the minimum daily profit for your a",
+    "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "between 6:00 PM ET and 5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account.",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "0 PM ET and 5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTrader",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our goal i",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "e next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our goal is to identify",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "300",
+    "snippet": "ccount Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our goal is to identify and reward c",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "40",
+    "snippet": "ss Login Sign Up Let's clear something up You need $40 And today. Learn the market, practice with zero risk, and work toward trading with real firm capital , one step at a time. Start your journey Trade Free",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Funded Accounts Pricing Build Your Account One standard price. A flat $5 activation fee. No codes, no gimmicks \u2014 every rule visible before you buy. Account Type Account Size Platform ArcTrader is our own browser-based pla",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "Older PCs <1 ms Order execution 24 /7 Demo resets daily 100 % Browser-based $0 To start trading Every trader gets a way in \u2014 before they ever pay. Free demo trading with DT-Games ONLY US The only futures funding company offering 100% free",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "ired account balance before and after withdrawal Submit a minimum payout request of $500 Follow all account rules including consistency and drawdown rules Have your payout method set up in advance Note: The day you request a payout does not count as a qua",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "between 6:00 PM ET and 5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account.",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "en 6:00 PM ET and 5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At Day",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "0 PM ET and 5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTrade",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "T and 5:00 PM ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "300",
+    "snippet": "ET the next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our goal is to i",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "e next day Account Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our goal is to identif",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "400",
+    "snippet": "Size Minimum Daily Profit $25K $100 $50K $200 $100K $300 $150K $300 $300K $400 Funded Account Profit Split (Pro Accounts & S2F) Enjoy a 100% simulated profit split in your Pro account. At DayTraders, our goal is to identify and reward consist",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "26,60",
+    "snippet": "Size Min. Balance to Request Min. Balance After Withdrawal Max Per Request $25K $26,600 $26,000 $1,000 $50K $52,600 $52,000 $2,000 $100K $103,100 $103,000 $3,000 $150K $155,100 $153,500 $3,500 $300K $307,600 $305,000 $5,000 What does \u201cMi",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "Splits Explained Challenge Cost vs Real Risk Dashboard Guide Rules and Risk Trailing Drawdown Explained EOD vs Trailing Drawdown Daily Loss Limits Explained Consistency Rules Explained Rules That Kill Profitable Traders Overnight Trading Rules News",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules\n Explained \n Rules That Kill\n Profitable Traders \n Overnight Trading\n Rules \n News Tradi",
+    "snippet": "ailing Drawdown Explained EOD vs Trailing Drawdown Daily Loss Limits Explained Consistency Rules Explained Rules That Kill Profitable Traders Overnight Trading Rules News Trading Rules Trader Development Psychology and Risk Control Why Traders Fail Evaluations How Long to Pass an Evaluation Can You Make a Living Trading? Best",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule (50%) : \n During the evaluation phase, there is a 50% consistency rule",
+    "snippet": "ccount size Consistency is not required , only the minimum daily profit applies 3. Consistency Rule (50%) : During the evaluation phase, there is a 50% consistency rule. This means that no trading day can be larger than 50% of the total simulated profits. Note: We have implemented a small variance for making small amounts slightly grea",
+    "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, meaning your largest simulated profit day is above 50% of the total simulated profit gen",
+    "snippet": "ount will still be marked as 'passed'. Note: If your account does not meet the 50% consistency rule, meaning your largest simulated profit day is above 50% of the total simulated profit generated, you can continue trading until either the simulated profit target is met or you hit the account's drawdown limit. 4. Minimum Daily Simulated Pr",
+    "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule \n NONE\n NONE\n NONE\n *DayTraders",
+    "snippet": "CLUDED * INCLUDED * Scaling Yes Yes Yes Min. Daily Profit NONE NONE NONE Consistency Rule NONE NONE NONE *DayTraders.com offers a free license for Onyx. Live Accounts \u2013 Risk & Scaling When can I request scaling adjustments to my account? Once your trailing drawdown reaches the init",
+    "url": "https://daytraders.com/help/articles/14038700-live-accounts-payouts",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule \n To promote stable and responsible trading, we require consistency in your profit distri",
+    "snippet": "ency Trading (HFT) : It is prohibited to use automated high-frequency trading. Consistency Rule To promote stable and responsible trading, we require consistency in your profit distribution throughout each payout cycle. Pro Accounts : No single trading day may exceed 30% of your total simulated profit. S2F Accounts : No single trading day",
+    "url": "https://daytraders.com/help/articles/14367899-funded-account-trading-rules-pro-s2f",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule S2F - Straight To (sim) Funded Payout FAQ (Pro Accounts + S2F) Evaluation Account Rules",
+    "snippet": "results. Services are exclusively for non-professional traders. Related Articles Consistency Rule S2F - Straight To (sim) Funded Payout FAQ (Pro Accounts + S2F) Evaluation Account Rules Did this answer your question? Disappointed Reaction \ud83d\ude1e Neutral Reaction \ud83d\ude10 Smiley Reaction \ud83d\ude03 Table of contents",
+    "url": "https://daytraders.com/help/articles/14367899-funded-account-trading-rules-pro-s2f",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "ta Fees ($150 Value) FREE FREE FREE Setup Time (Business Days) 1-5 1-5 1-5 Payout frequency Daily Daily Daily Profit Split 80 / 20 80 / 20 80 / 20 Platform License INCLUDED * INCLUDED * INCLUDED * Scaling Yes Yes Yes Min. Daily Profit NONE NONE",
+    "url": "https://daytraders.com/help/articles/14038700-live-accounts-payouts",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "urrencies (Forex), contracts for difference (CFDs), individual stocks, options, and cryptocurrencies, is strictly prohibited within the DayTraders.com ecosystem. Our programs, vendors, and platforms do not support or facilitate trading in these instruments,",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "op Firms Legit? Programs Straight to Live (S2L) Live Funded Trading Account Scaling Profit Splits Explained Challenge Cost vs Real Risk Dashboard Guide Rules and Risk Trailing Drawdown Explained EOD vs Trailing Drawdown Daily Loss Limits Explained Consistency Rules Explained Rules That Kill Profitable Traders Overnight Trading Rules",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "astically decrease and volatility can drastically increase , potentially leading to unfavorable fills. Exercise caution during these times. Evaluation Account Rules: Please review the following rules carefully to ensure a smooth transition to your Pro account withou",
+    "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Mas",
+    "snippet": "affiliate link might look like this: https://daytraders.com/member/aff/go/ChartMaster?c=CBUTXBPY In this case, CBUTXBPY is the coupon code embedded in the URL. When you click this link, the code will automatically apply at checkout. Additionally, if an affiliate account has multiple valid coupon codes, you can still use diffe",
+    "url": "https://daytraders.com/help/articles/10751187-coupon-code-and-discounted-price",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ur own browser-based platform, TradingView charts, sa",
+    "snippet": "before you buy. Account Type Account Size Platform ArcTrader is our own browser-based platform, TradingView charts, same price, same rules. The path From your first trade to live capital. Five stages. One platform. Here's the whole path at a glance. Step 1 Tr",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "me price, sa",
+    "snippet": "Platform ArcTrader is our own browser-based platform, TradingView charts, same price, same rules. The path From your first trade to live capital. Five stages. One platform. Here's the whole path at a glance. Step 1 Trade free Pr",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Five stag",
+    "snippet": "e, same rules. The path From your first trade to live capital. Five stages. One platform. Here's the whole path at a glance. Step 1 Trade free Practice risk-free, win prizes Play free Step 2 Evaluation Min. 2 days required to",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "tries Real-Time Data Personalized Accounts Risk Manag",
+    "snippet": "stions. No Profit Split Trader Community Transparent Rules 100+ Countries Real-Time Data Personalized Accounts Risk Management Tools Educational Courses Flexible Account Sizes 100% Free Demo Trading \u00b7 No card required Trading, built for everyone , everywhere. Introducing A",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trade real Rithmic-powered accounts on the sa",
+    "snippet": "t daily, trade with zero risk, and win real prizes. Direct Rithmic connectivity Trade real Rithmic-powered accounts on the same institutional-grade data infrastructure professional desks rely on. Built for any device 100% browser-based and optimized for minimal specs \u2014 trade from a laptop,",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trusted by thousa",
+    "snippet": "e markets. Play DT-Games Free View Pricing Read the FAQ No card required Trusted by thousands of traders in 40+ countries Payouts This is The Future Of Payouts Imagine payouts that are automatically approved, fast, seamless, and stress-free. No mo",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "aders who live to maximize results. Success is contag",
+    "snippet": "and the breakout. 03 Community Get Connected Join a vibrant group of fellow traders who live to maximize results. Success is contagious, catch the bug. 04 Evidence Do What Works We never guess what works, we prove it time and time again. Leverage our blood, sweat, and tears. Affiliat",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "never guess what works, we prove it time and time ag",
+    "snippet": "ze results. Success is contagious, catch the bug. 04 Evidence Do What Works We never guess what works, we prove it time and time again. Leverage our blood, sweat, and tears. Affiliate Program 20% Lifetime Referral Commission Enjoy the lasting benefits of earning a generous commission eve",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunds https://daytraders",
+    "snippet": "tions/10394883-account-billing-payments https://daytraders.com/help/articles/9854776-refunds https://daytraders.com/help/articles/9854827-understanding-daytraders-com-s-billing-structure https://daytraders.com/help/articles/9854855-what-payment-methods-are-accepted-at-daytraders-c",
+    "url": "https://daytraders.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Rules \n \n Trader Development Psychology and Risk\n Control \n Why Traders Fail\n Evaluations \n How Long to Pas",
+    "snippet": "Rules Explained Rules That Kill Profitable Traders Overnight Trading Rules News Trading Rules Trader Development Psychology and Risk Control Why Traders Fail Evaluations How Long to Pass an Evaluation Can You Make a Living Trading? Best Prop Firms Best Prop Firms Ranked Best for Scalpers Best for Swing Traders Best for Small Accounts Best",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading: is allowed",
+    "snippet": "Averaging (DCA) : DCA is allowed during both the evaluation and Pro account phases. News Trading: is allowed. Trading during news is not recommended as liquidity can drastically decrease and volatility can drastically increase , potentially leading to unfavorable fills. Exercis",
+    "url": "https://daytraders.com/help/articles/14368378-evaluation-account-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaways \n About \n Help Desk \n Learn Getting Started What Is a Prop Firm? \n How to Start Prop Trading \n Futures Prop Firms",
+    "snippet": "ding Accounts for Day Traders Home Products Live Payouts Free Games Giveaways About Help Desk Learn Getting Started What Is a Prop Firm? How to Start Prop Trading Futures Prop Firms Prop Funding Explained How Evaluations Work Are Prop Firms Legit? Programs Straight to Live (S2L) Live Funded Trading Account Scaling Profit Splits Explai",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal\n Risk \n Dashboard Guide \n \n Rules and Risk Trailing Drawdown Explained \n EOD vs Trailing Drawdown \n Daily Loss Limit",
+    "snippet": "Live Funded Trading Account Scaling Profit Splits Explained Challenge Cost vs Real Risk Dashboard Guide Rules and Risk Trailing Drawdown Explained EOD vs Trailing Drawdown Daily Loss Limits Explained Consistency Rules Explained Rules That Kill Profitable Traders Overnight Trading Rules News Trading Rules Trader Development Psychology and ",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear something up \n \n You need $40 And today",
+    "snippet": "vs FundedNext Company Press Login Sign Up Let's clear something up You need $40 And today. Learn the market, practice with zero risk, and work toward trading with real firm capital , one step at a time. Start your journey Trade Free Exc",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn the market, practice with zero risk, and work toward trading with\n real firm capital , one step at a time",
+    "snippet": "ign Up Let's clear something up You need $40 And today. Learn the market, practice with zero risk, and work toward trading with real firm capital , one step at a time. Start your journey Trade Free Excellent 4.7 out of 5 star rating on Trustpilot Trustpilot Keep 100% of Profits Automated Pay",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eakdown \n \n \n Who We Are\n We Are DayTraders \n Instant Account Creation Our copyrighted technology lets you start trading",
+    "snippet": "live firm capital, no limits. Get started Live Account Rules \u2192 See the full breakdown Who We Are We Are DayTraders Instant Account Creation Our copyrighted technology lets you start trading immediately and easily. Your Journey. Our Capital. We fully fund your account. We take the risk, you keep the profits. Automated Payout Approval Our p",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "same day",
+    "snippet": "e terms and complete CAPTCHA Place one trade after submission to generate a report Payouts approved before 5:00 PM ET will reflect the same day. Timing Tips Request payouts before 5:00 PM ET to ensure same day processing Place a small trade after requesting a payout so the system generates a report The day",
+    "url": "https://daytraders.com/help/articles/14363990-payout-faq-pro-accounts-s2f",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee",
+    "snippet": "nded Accounts Pricing Build Your Account One standard price. A flat $5 activation fee. No codes, no gimmicks \u2014 every rule visible before you buy. Account Type Account Size Platform ArcTrader is our own browser-based platform, TradingV",
+    "url": "https://daytraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee \n FREE\n FREE\n FREE\n Real-Time Data Fees ($150 Value) \n FREE\n FREE\n FREE\n Setup Time (Business Days) \n 1-5",
+    "snippet": "Total Drawdown $2,000 $4,500 $7,000 Daily Loss Limit $1,000 $1,750 $3,250 Activation Fee FREE FREE FREE Real-Time Data Fees ($150 Value) FREE FREE FREE Setup Time (Business Days) 1-5 1-5 1-5 Payout frequency Daily Daily Daily Profit Split 80 / 20 80 / 20 80 / 20 Platform License INCLUDED * INCLUDED * INCLUDED * Scaling Yes Yes Yes",
+    "url": "https://daytraders.com/help/articles/14038700-live-accounts-payouts",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "y. Learn the market, practice with zero risk, and work toward trading with real firm capital , one step at a time. Start your journey Trade Free Excellent 4.7 out of 5 star rating on Trustpilot Trustpilot Keep 100% of Pro",
+   "url": "https://daytraders.com/"
+  }
+ ],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Sierra Chart",
+  "Rithmic",
+  "WealthCharts",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Crypto",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "help traders with any and all questions. No Profit Split Trader Community Transparent Rules 100+ Countries Real-Time Data Personalized Accounts Risk Management Tools",
+  "Play DT-Games Free View Pricing Read the FAQ No card required Trusted by thousands of traders in 40+ countries Payouts This is The Future Of Payouts Imagine",
+  "EE FREE FREE Real-Time Data Fees ($150 Value) FREE FREE FREE Setup Time (Business Days) 1-5 1-5 1-5 Payout frequency Daily Daily Daily Profit Split 80 / 20 80",
+  "t is blown. Example: A trader passes 5 Core S2L accounts. On day 1, the trader logs in and will see all 5 accounts assigned to them. Only the first account will be available",
+  ",500 $3,500 300k $307,600 $305,000 $5,000 Example: You have $53,000 in a 50k Pro account and request a $800 payout. After withdrawal, your balance is $52,200. Since this is a",
+  "l includes: Pro Static accounts Pro Trailing accounts S2L accounts S2F accounts You can distribute these 15 accounts however you prefer, with one exception: S2F Accounts. You"
+ ],
+ "errors": [
+  "https://daytraders.com/help/articles/11610129-payout-faq-pro-accounts-s2f:404:http-404"
+ ]
+}

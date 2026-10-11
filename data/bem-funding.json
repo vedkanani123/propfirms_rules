@@ -1,0 +1,570 @@
+{
+ "slug": "bem-funding",
+ "name": "BEM Funding",
+ "category": "Forex/CFD",
+ "url": "https://bemfunding.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://bemfunding.com/",
+   "kind": "home",
+   "chars": 9367
+  },
+  {
+   "url": "https://bemfunding.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 69511
+  },
+  {
+   "url": "https://bemfunding.com/faq/common-questions-do-you-offer-an-evaluation-fee-refund",
+   "kind": "page",
+   "chars": 7714
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-one-only-what-are-the-rules-for-bem-one-only",
+   "kind": "page",
+   "chars": 8131
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-one-what-are-the-rules-for-the-bem-one",
+   "kind": "page",
+   "chars": 7943
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-classic-normal-what-are-the-rules-for-the-bem-classic-normal",
+   "kind": "page",
+   "chars": 8174
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-classic-swing-what-are-the-rules-for-bem-classic-swing",
+   "kind": "page",
+   "chars": 7781
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-extended-what-are-the-rules-for-the-bem-extended",
+   "kind": "page",
+   "chars": 7975
+  },
+  {
+   "url": "https://bemfunding.com/faq/general-what-are-the-bem-funding-evaluation-programs",
+   "kind": "page",
+   "chars": 7706
+  },
+  {
+   "url": "https://bemfunding.com/faq/rewards-what-payout-methods-are-available",
+   "kind": "page",
+   "chars": 7813
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-one-only-what-is-the-maximum-drawdown",
+   "kind": "page",
+   "chars": 7711
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-classic-normal-what-is-the-maximum-daily-drawdown",
+   "kind": "page",
+   "chars": 8138
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-extended-what-is-the-maximum-simulated-drawdown",
+   "kind": "page",
+   "chars": 7838
+  },
+  {
+   "url": "https://bemfunding.com/faq/bem-one-only-what-is-the-maximum-daily-drawdown",
+   "kind": "page",
+   "chars": 7715
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 173530,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "9",
+    "snippet": "OFFER - SAVE 30 % BEM One $5K \u00b7 MT5 $47 $32.90 Buy Challenge Read the full rules Profit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available Symbols Tickers 70+ Payouts On-demand Consistency Evaluation No Funded Yes Why BEM One? One good",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "he profit target while staying within the drawdown limits. How it works Profit Target: 6% of the Initial Balance Maximum Daily Drawdown: 3% of the Initial Balance Maximum Drawdown: 6% of the Initial Balance Consistency Requirement: No single tradi",
+    "url": "https://bemfunding.com/faq/bem-one-only-what-are-the-rules-for-bem-one-only",
+    "kind": "page"
+   },
+   {
+    "value": "4.5",
+    "snippet": "realized profit of 0.5% of the initial balance Phase 2 \u2013 Consistency Profit target: 4.5% of the initial balance Maximum daily drawdown: 4.5% of the initial balance Maximum drawdown: 9% of the initial balance Minimum trading requirement: At least",
+    "url": "https://bemfunding.com/faq/bem-classic-normal-what-are-the-rules-for-the-bem-classic-normal",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "requirements in both phases. How it works Phase 1 \u2013 Extended Challenge Profit target: 10% of the initial balance Maximum daily drawdown: 4% of the initial balance Maximum drawdown: 8% of the initial balance Minimum trading requirement: At least 3",
+    "url": "https://bemfunding.com/faq/bem-extended-what-are-the-rules-for-the-bem-extended",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ed profit of 0.5% of the initial balance Phase 2 \u2013 Extended Consistency Profit target: 5% of the initial balance Maximum daily drawdown: 4% of the initial balance Maximum drawdown: 8% of the initial balance Minimum trading requirement: At least 3",
+    "url": "https://bemfunding.com/faq/bem-extended-what-are-the-rules-for-the-bem-extended",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "32.90 Buy Challenge Read the full rules Profit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available Symbols Tickers 70+ Payouts On-demand Consistency Evaluation No Funded Yes Why BEM One? One good trade shouldn't need thirty good da",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4.5",
+    "snippet": "Phase 1 \u2013 Challenge Profit target: 9% of the initial balance Maximum daily drawdown: 4.5% of the initial balance Maximum drawdown: 9% of the initial balance Minimum trading requirement: At least 3 trading days , with each trading day achieving a minim",
+    "url": "https://bemfunding.com/faq/bem-classic-normal-what-are-the-rules-for-the-bem-classic-normal",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "Phase 1 \u2013 Extended Challenge Profit target: 10% of the initial balance Maximum daily drawdown: 4% of the initial balance Maximum drawdown: 8% of the initial balance Minimum trading requirement: At least 3 trading days , with each trading day achieving a minim",
+    "url": "https://bemfunding.com/faq/bem-extended-what-are-the-rules-for-the-bem-extended",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "$5K \u00b7 MT5 $47 $32.90 Buy Challenge Read the full rules Profit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available Symbols Tickers 70+ Payouts On-demand Consistency Evaluation No Funded Yes Why BEM One? One good trade shouldn't",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "% of the initial balance Maximum daily drawdown: 4.5% of the initial balance Maximum drawdown: 9% of the initial balance Minimum trading requirement: At least 3 trading days , with each trading day achieving a minimum realized profit of 0.5% of the initial balanc",
+    "url": "https://bemfunding.com/faq/bem-classic-normal-what-are-the-rules-for-the-bem-classic-normal",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "10% of the initial balance Maximum daily drawdown: 4% of the initial balance Maximum drawdown: 8% of the initial balance Minimum trading requirement: At least 3 trading days , with each trading day achieving a minimum realized profit of 0.5% of the initial balanc",
+    "url": "https://bemfunding.com/faq/bem-extended-what-are-the-rules-for-the-bem-extended",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "dwide. Payouts in 1\u20132 days. No time limits. Keep up to 80%. 5 Star PFM 3M+ Paid Out 80% Profit Split Challenge Refund Start the challenge \u2014 from $24 Couldn't find what you're looking for? Contact us Follow our socials Company About FAQ Contact Updates Blog Tradi",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "1",
+    "snippet": "ld the weekend. Funded in as little as a day. No consistency rule on evaluation No minimum trading days Pass in 1 trade On-demand payouts. Request anytime. Learn how it works Trusted by traders worldwide How it works Just a fair check of how you trade \u2014 three clear steps t",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "BEM Funding | Prop Trading Firm \u2014 Funded Accounts up to $200K MT5 is live on BEM. Get up to 40% off with code MT5LIVE this week. Home Challenges All Challenges Compare all products BEM One Pass in 1 trade, Reward on Demand BEM",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "reaks down which one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "down which one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMI",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ich one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED OFF",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED OFFER - SA",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ou. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED OFFER - SAVE 30 %",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "BEM Funding | Prop Trading Firm \u2014 Funded Accounts up to $200K MT5 is live on BEM. Get up to 40% off with code MT5LIVE this week. Home Challenges All Challenges Compare all products BEM One Pass in 1 trade, Reward on Demand BEM",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "reaks down which one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrad",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "down which one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LI",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ich one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED O",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED OFFER -",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ou. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED OFFER - SAVE 30",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "47",
+    "snippet": "rading platform MetaTrader5 cTrader LIMITED OFFER - SAVE 30 % BEM One $5K \u00b7 MT5 $47 $32.90 Buy Challenge Read the full rules Profit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available Symbols Tickers 70+ Payouts On-",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "32.90",
+    "snippet": "ng platform MetaTrader5 cTrader LIMITED OFFER - SAVE 30 % BEM One $5K \u00b7 MT5 $47 $32.90 Buy Challenge Read the full rules Profit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available Symbols Tickers 70+ Payouts On-demand",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "24",
+    "snippet": "5 Star PFM 3M+ Paid Out 80% Profit Split Challenge Refund Start the challenge \u2014 from $24 Couldn't find what you're looking for? Contact us Follow our socials Company About FAQ Contact Updates Blog Trading Updates Trading Leaderboard Lexicon Affiliat",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "Billings The available payout method depends on your eligible reward amount . Below $1,500: Crypto \u2014 USDC on the ERC-20 network $1,500 or more: Rise Works Due to regulatory and compliance requirements, cryptocurrency rewards are processed only in USDC on t",
+    "url": "https://bemfunding.com/faq/rewards-what-payout-methods-are-available",
+    "kind": "page"
+   },
+   {
+    "value": "10,00",
+    "snippet": "tions, closed trades, commissions, and swap fees . Example: Initial Balance: $10,000 Higher of Equity/Balance at 22:00 UTC: $10,356 4.5% of Initial Balance: $450 Daily Drawdown: $10,356 \u2212 $450 = $9,906 If your equity or balance drops below $",
+    "url": "https://bemfunding.com/faq/bem-classic-normal-what-is-the-maximum-daily-drawdown",
+    "kind": "page"
+   },
+   {
+    "value": "10,35",
+    "snippet": ". Example: Initial Balance: $10,000 Higher of Equity/Balance at 22:00 UTC: $10,356 4.5% of Initial Balance: $450 Daily Drawdown: $10,356 \u2212 $450 = $9,906 If your equity or balance drops below $9,906 at any time after the limit is set, the acc",
+    "url": "https://bemfunding.com/faq/bem-classic-normal-what-is-the-maximum-daily-drawdown",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "mand BEM One Only Most affordable, lowest profit target BEM Classic Standard 2-Step, static drawdown BEM Classic Swing Swap-free, overnight & weekend holding Leaderboard All-Time Our biggest verified rewards \u00b7 Top earners \u00b7 Trader stories \u00b7 Reward explainers Monthly W",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trailing",
+    "snippet": "he initial balance Maximum daily drawdown: 3% of the initial balance Maximum trailing drawdown: 6% of the initial balance Once all conditions are met and the rules are followed, your evaluation is considered successfully completed . After passing the",
+    "url": "https://bemfunding.com/faq/bem-one-what-are-the-rules-for-the-bem-one",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule on eval and no minimum days",
+    "snippet": "One? One good trade shouldn't need thirty good days. BEM One is one phase, with no consistency rule on eval and no minimum days. Hit your target, trade the news, hold the weekend. Funded in as little as a day. No consistency rule on evaluation No minimum trading days Pass in 1 trade On-demand",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule on evaluation\n No minimum trading days\n Pass in 1 trade\n On-demand payouts",
+    "snippet": "Hit your target, trade the news, hold the weekend. Funded in as little as a day. No consistency rule on evaluation No minimum trading days Pass in 1 trade On-demand payouts. Request anytime. Learn how it works Trusted by traders worldwide How it works Just a fair check of how you trade \u2014 three clear steps to becoming a funded trade",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule, no minimum days, with funding possible in as little as a single day",
+    "snippet": "ge ONE 01 CHALLENGE PHASE Pass the Challenge Our most relaxed challenge: 1-Step, no consistency rule, no minimum days, with funding possible in as little as a single day. No consistency rule on eval. Profit target 9% Passed Max. daily loss 3% Passed Max. loss 6% Passed 02 REWARDS PHASE Get Rewarded You are now a BEM Trader. Maintai",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule on eval",
+    "snippet": "stency rule, no minimum days, with funding possible in as little as a single day. No consistency rule on eval. Profit target 9% Passed Max. daily loss 3% Passed Max. loss 6% Passed 02 REWARDS PHASE Get Rewarded You are now a BEM Trader. Maintain strict risk management to e",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Requirement: No single trading day may account for more than 30% of the total realized profits genera",
+    "snippet": "wdown: 3% of the Initial Balance Maximum Drawdown: 6% of the Initial Balance Consistency Requirement: No single trading day may account for more than 30% of the total realized profits generated during the evaluation phase. Once you complete the evaluation and follow all program rules, you may become eligible for a BEM Trader Account with ",
+    "url": "https://bemfunding.com/faq/bem-one-only-what-are-the-rules-for-bem-one-only",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "ly https://bemfunding.com/lexicon/crush-spread yearly https://bemfunding.com/lexicon/cryptocurrency yearly https://bemfunding.com/lexicon/cup-and-handle-pattern yearly https://bemfunding.com/lexicon/currency-carry-trade yearly https://bemfunding.com/lexicon/cur",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "usdt",
+    "snippet": "mfunding.com/lexicon/technical-analysis yearly https://bemfunding.com/lexicon/tether-usdt yearly https://bemfunding.com/lexicon/the-flippening yearly https://bemfunding.com/lexicon/theta yearly https://bemfunding.com/lexicon/thin yearly https://bemfunding.com",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "my-reward 2026-06-17T11:12:38.390Z monthly https://bemfunding.com/faq/rewards-how-do-rise-works-rewards-work 2026-06-17T11:30:52.891Z monthly https://bemfunding.com/faq/rewards-how-do-cryptocurrency-rewards-work 2026-06-17T11:44:11.409Z monthly https://bemfun",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "USDC",
+    "snippet": "lable payout method depends on your eligible reward amount . Below $1,500: Crypto \u2014 USDC on the ERC-20 network $1,500 or more: Rise Works Due to regulatory and compliance requirements, cryptocurrency rewards are processed only in USDC on the ERC-20 networ",
+    "url": "https://bemfunding.com/faq/rewards-what-payout-methods-are-available",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "ly https://bemfunding.com/lexicon/firm-quote yearly https://bemfunding.com/lexicon/fiscal-dominance yearly https://bemfunding.com/lexicon/fisher-transform-indicator yearly https://bemfunding.com/lexicon/fix-api yearly https://bemfunding.com/lexicon/flat yearly https://bemfunding.com/lexicon/fli",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "5 yearly https://bemfunding.com/lexicon/node yearly https://bemfunding.com/lexicon/nonfarm-payroll-nfp yearly https://bemfunding.com/lexicon/nonfarm-productivity yearly https://bemfunding.com/lexicon/notional-amount yearly https://bemfunding.com/lexicon/offer yearly https://bemfunding.com/lexicon/",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Affiliate FAQ Resources Blog Trading, risk manag",
+    "snippet": "Who\u2019s earning the most right now \u00b7 Funded profit \u00b7 Updated daily \u00b7 Resets monthly Affiliate FAQ Resources Blog Trading, risk management and markets Trading Updates What changed in trading conditions Lexicon Trading terms, explained plainly Symbols Instruments, leverage and spreads English English",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "terms, explained plainly Symbols Instruments, leverag",
+    "snippet": "ement and markets Trading Updates What changed in trading conditions Lexicon Trading terms, explained plainly Symbols Instruments, leverage and spreads English English Deutsch Dutch Get Started Dashboard \u2715 English English Deutsch Dutch Home Challenges All Challenges Compare all products BEM One Pass",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "LIMITED OFFER - SA",
+    "snippet": "ne Only Lowest Profit Target Step 3 Choose trading platform MetaTrader5 cTrader LIMITED OFFER - SAVE 30 % BEM One $5K \u00b7 MT5 $47 $32.90 Buy Challenge Read the full rules Profit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available S",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "You are now a BEM Trader. Maintain strict risk manag",
+    "snippet": "sed Max. daily loss 3% Passed Max. loss 6% Passed 02 REWARDS PHASE Get Rewarded You are now a BEM Trader. Maintain strict risk management to earn up to 90% rewards. Earn Up to 90% Quick rewards, no unnecessary delays. Everything a serious trader needs, nothing that gets in the way. Avg. 6 hours pa",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Quick rewards, no unnecessa",
+    "snippet": "Trader. Maintain strict risk management to earn up to 90% rewards. Earn Up to 90% Quick rewards, no unnecessary delays. Everything a serious trader needs, nothing that gets in the way. Avg. 6 hours payout Paid in hours, not weeks. Request on-demand on 1-Step accounts. No wait",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nal rules and policies of Bex Software Development LLC",
+    "snippet": "L Policy Deletion Procedure Website Ownership This website is subject to the internal rules and policies of Bex Software Development LLC-FZ (referred to as \u201c BEM Funding \u201d), a company incorporated under the laws of United Arab Emirates. All content, products, and services offered through this site are pro",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "a company inc",
+    "snippet": "es and policies of Bex Software Development LLC-FZ (referred to as \u201c BEM Funding \u201d), a company incorporated under the laws of United Arab Emirates. All content, products, and services offered through this site are provided under the management and supervision of Bex S",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ffered through this site are provided under the manag",
+    "snippet": "porated under the laws of United Arab Emirates. All content, products, and services offered through this site are provided under the management and supervision of Bex Software Development LLC-FZ. Company Details BEX Software Development LLC-FZ. (referred to as \u201cBem Funding\u201d) BEM Funding is a technology a",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2026-00240",
+    "snippet": "EM Ltd. BEM Ltd. is a legal entity incorporated under the laws of Saint Lucia, with registration number 2026-00240, located at: Saint Lucia BEM Ltd. operates the following trading platforms: Metaquotes \u201cMT5\u201d. Risk Warning-Bem Ltd: Bem Ltd. offers simulated trading accounts; however,",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Start the challenge \u2014 from $24 \n Couldn't find what you're looking for?\n Contact us Follow our socials\n \n Company",
+    "snippet": "No time limits. Keep up to 80%. 5 Star PFM 3M+ Paid Out 80% Profit Split Challenge Refund Start the challenge \u2014 from $24 Couldn't find what you're looking for? Contact us Follow our socials Company About FAQ Contact Updates Blog Trading Updates Trading Leaderboard Lexicon Affiliate Symbols Legal Privacy Policy Cookies Policy Terms & Condi",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy AML Policy Deletion Procedure \n Website Ownership \nThis website is subject to the internal rules and polic",
+    "snippet": "ate Symbols Legal Privacy Policy Cookies Policy Terms & Conditions Cancellation and Refund Policy AML Policy Deletion Procedure Website Ownership This website is subject to the internal rules and policies of Bex Software Development LLC-FZ (referred to as \u201c BEM Funding \u201d), a company incorporated under the laws of United Arab Emirates. All",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable unless unused",
+    "snippet": "via the BEM Funding are for access to educational software and services, and are non-refundable unless unused. Access to MetaTrader \u201cMT5\u201d and cTrader services to U.S. residents and citizens in jurisdictions where such use would violate applicable laws or regulations is denied. I",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy AML Policy Or contact: [email\u00a0protected] \n*Effective Date: 13/04/2026*\n \u00a9 2026 BEM Funding",
+    "snippet": "se Terms and Conditions Prohibited Trading Practices Privacy Policy Cancellation and Refund Policy AML Policy Or contact: [email protected] *Effective Date: 13/04/2026* \u00a9 2026 BEM Funding",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard All-Time Our biggest verified rewards \u00b7 Top earners \u00b7 Trader stories \u00b7 Reward explainers Monthly Who\u2019s earnin",
+    "snippet": "2-Step, static drawdown BEM Classic Swing Swap-free, overnight & weekend holding Leaderboard All-Time Our biggest verified rewards \u00b7 Top earners \u00b7 Trader stories \u00b7 Reward explainers Monthly Who\u2019s earning the most right now \u00b7 Funded profit \u00b7 Updated daily \u00b7 Resets monthly Affiliate FAQ Resources Blog Trading, risk management and markets Tr",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads \n English English Deutsch Dutch \n Get Started Dashboard \n \u2715 English English Deutsch Dutch \n Home Challenges All Cha",
+    "snippet": "itions Lexicon Trading terms, explained plainly Symbols Instruments, leverage and spreads English English Deutsch Dutch Get Started Dashboard \u2715 English English Deutsch Dutch Home Challenges All Challenges Compare all products BEM One Pass in 1 trade, Reward on Demand BEM One Only Most affordable, lowest profit target BEM Classic Standard ",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads \n Contact us Get Started Dashboard \n MT5 is now available The prop firm that pays",
+    "snippet": "itions Lexicon Trading terms, explained plainly Symbols Instruments, leverage and spreads Contact us Get Started Dashboard MT5 is now available The prop firm that pays. Near-zero spreads, human support, payouts in hours. Trade up to $200K and keep 80% of your trading rewards. Start Challenge Get ready. This is where you build yo",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear-zero spreads, human support, payouts in hours",
+    "snippet": "Contact us Get Started Dashboard MT5 is now available The prop firm that pays. Near-zero spreads, human support, payouts in hours. Trade up to $200K and keep 80% of your trading rewards. Start Challenge Get ready. This is where you build your account. Four account types, four kinds of traders",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady",
+    "snippet": "s. Trade up to $200K and keep 80% of your trading rewards. Start Challenge Get ready. This is where you build your account. Four account types, four kinds of traders. The panel below breaks down which one fits you. One-Step Two-Step Step 1 Choose you",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 1\u20132 days",
+    "snippet": "Ready to accelerate your trading growth? Join 20,000+ funded traders worldwide. Payouts in 1\u20132 days. No time limits. Keep up to 80%. 5 Star PFM 3M+ Paid Out 80% Profit Split Challenge Refund Start the challenge \u2014 from $24 Couldn't find what you're looking for? Cont",
+    "url": "https://bemfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:47",
+    "snippet": ":37.621Z monthly https://bemfunding.com/faq/bem-classic-normal-available-instruments-leverage 2026-03-21T15:51:47.151Z monthly https://bemfunding.com/faq/bem-classic-swing-what-are-the-rules-for-bem-classic-swing 2026-03-23T13:37:52.350Z monthly https://bemfunding.com/faq/bem-classi",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "1:30",
+    "snippet": "ading: Hold positions without swap charges on all supported instruments Balanced leverage: Up to 1:30 (leverage may vary by instrument; please refer to the Symbols Page for details) Broad market access: Access a wide range of markets, including Forex, Metals, Indices",
+    "url": "https://bemfunding.com/faq/bem-classic-swing-what-are-the-rules-for-bem-classic-swing",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc yearly https://bemfunding",
+    "snippet": "ng.com/lexicon/kimchi-premium yearly https://bemfunding.com/lexicon/know-your-client-kyc yearly https://bemfunding.com/lexicon/lagging-indicator yearly https://bemfunding.com/lexicon/lambda yearly https://bemfunding.com/lexicon/latency yearly https://bemfunding.com/lexicon/leading-in",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc 2026-03-23T11:56:02",
+    "snippet": "ps://bemfunding.com/faq/common-questions-do-i-need-to-complete-identity-verification-kyc 2026-03-23T11:56:02.661Z monthly https://bemfunding.com/faq/common-questions-do-you-offer-an-evaluation-fee-refund 2026-05-13T15:25:23.245Z monthly https://bemfunding.com/faq/common-questio",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc-doorlopen 2026-05-13T15:25:07",
+    "snippet": "ly https://bemfunding.com/nl/faq/veelgestelde-vragen-moet-ik-een-identiteitscontrole-kyc-doorlopen 2026-05-13T15:25:07.558Z monthly https://bemfunding.com/nl/faq/veelgestelde-vragen-krijg-ik-de-kosten-voor-de-beoordeling-terugbetaald 2026-05-13T15:28:12.395Z monthly https://bemfunding.co",
+    "url": "https://bemfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "count. Four account types, four kinds of traders. The panel below breaks down which one fits you. One-Step Two-Step Step 1 Choose your account size $ 5 K $ 10 K $ 25 K $ 50 K $ 100 K $ 200 K Step 2 Choose your challenge One Most Popular One Only Lowest Profit",
+   "url": "https://bemfunding.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "n 1 trade, Reward on Demand BEM One Only Most affordable, lowest profit target BEM Classic Standard 2-Step, static drawdown BEM Classic Swing Swap-free, overnight & weekend holding Leaderboard All-Time Our biggest verified rewards \u00b7 Top earners \u00b7 Trader stories \u00b7",
+   "url": "https://bemfunding.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "DXtrade",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [
+  {
+   "code": "MT5LIVE",
+   "context": "rop Trading Firm \u2014 Funded Accounts up to $200K MT5 is live on BEM. Get up to 40% off with code MT5LIVE this week. Home Challenges All Challenges Compare all p"
+  }
+ ],
+ "claims": [
+  "rofit Target Phase 1 9% Max Drawdown 6% Daily Drawdown 3% Drawdown Type Dynamic Available Symbols Tickers 70+ Payouts On-demand Consistency Evaluation No Funded Yes Why BEM O"
+ ],
+ "errors": []
+}

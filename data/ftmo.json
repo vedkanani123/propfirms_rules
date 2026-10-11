@@ -1,0 +1,455 @@
+{
+ "slug": "ftmo",
+ "name": "FTMO",
+ "category": "Forex/CFD",
+ "url": "https://ftmo.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://ftmo.com/en/",
+   "kind": "home",
+   "chars": 23485
+  },
+  {
+   "url": "https://ftmo.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 644
+  },
+  {
+   "url": "https://ftmo.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 362096
+  },
+  {
+   "url": "https://ftmo.com/post-sitemap2.xml",
+   "kind": "sitemap",
+   "chars": 523318
+  },
+  {
+   "url": "https://ftmo.com/post-sitemap3.xml",
+   "kind": "sitemap",
+   "chars": 456885
+  },
+  {
+   "url": "https://ftmo.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 31077
+  },
+  {
+   "url": "https://ftmo.com/en/blog/consistency-creating-and-following-trading-rules-got-the-luck-out-of-my-career/",
+   "kind": "page",
+   "chars": 20463
+  },
+  {
+   "url": "https://ftmo.com/en/blog/planning-to-take-the-ftmo-challenge-this-december/",
+   "kind": "page",
+   "chars": 18790
+  },
+  {
+   "url": "https://ftmo.com/en/blog/5-rules-to-stop-breaching-your-ftmo-challenge/",
+   "kind": "page",
+   "chars": 16312
+  },
+  {
+   "url": "https://ftmo.com/en/blog/think-about-your-christmas-payout-early/",
+   "kind": "page",
+   "chars": 15873
+  },
+  {
+   "url": "https://ftmo.com/en/blog/ftmo-traders-talk-about-their-evaluation-process/",
+   "kind": "page",
+   "chars": 20209
+  },
+  {
+   "url": "https://ftmo.com/de/?p=413692",
+   "kind": "page",
+   "chars": 25812
+  },
+  {
+   "url": "https://ftmo.com/fr/blog/comment-lire-la-structure-du-marche-et-les-patterns-de-price-action/",
+   "kind": "page",
+   "chars": 18636
+  },
+  {
+   "url": "https://ftmo.com/en/blog/why-is-it-important-to-watch-yesterdays-prices/",
+   "kind": "page",
+   "chars": 16439
+  },
+  {
+   "url": "https://ftmo.com/cs/blog/jak-cist-strukturu-trhu-a-price-action-patterny/",
+   "kind": "page",
+   "chars": 17070
+  },
+  {
+   "url": "https://ftmo.com/en/blog/price-action-trading/",
+   "kind": "page",
+   "chars": 41748
+  },
+  {
+   "url": "https://ftmo.com/cs/blog/vyplati-se-obchodovat-price-action/",
+   "kind": "page",
+   "chars": 16462
+  },
+  {
+   "url": "https://ftmo.com/fr/blog/price-action-trading/",
+   "kind": "page",
+   "chars": 48144
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 1673480,
+ "findings": {
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "odern Prop Trading Firm since 2015 | FTMO 20% Off Special deal on $100K 1-Step Challenge { document.body.classList.toggle('no-scroll', value); }); // Set scroll to true when we are scrolled 5.2% of viewport height on mobile or 6%",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Trading Platforms Why People Choose FTMO More Power, Less Risk Up to $200K simulated capital Rewards Fast and easy rewards withdrawals Advanced Support Dedicated support via Live chat, email, or WhatsApp Tools & Services",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "I was quite deep into it on my verification I lien trading gold a lot I think I was -$6k at one point but when my gold trade came through it put me back right on track How would you rate your experience with FTMO? FTMO is brilliant if you are wanting to g",
+    "url": "https://ftmo.com/en/blog/planning-to-take-the-ftmo-challenge-this-december/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "odern Prop Trading Firm since 2015 | FTMO 20% Off Special deal on $100K 1-Step Challenge { document.body.classList.toggle('no-scroll', value); }); // Set scroll to true when we are scrolled 5.2% of viewport height on mobile or 6",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "Premium programme Join the top performers Scaling plan Grow up to $2M Start FTMO Challenge Start now = 1024) && activeItem === 'futures'\" @mouseleave=\"activeItem = null; menuOpen = false;\" @keydown.escape.window=\"",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "a quarter to five billion CZK. July 2024 \" class=\"cursor-help\" > Up to $200,000 FTMO Account Support in 21 Languages 4 Trading Platforms Why People Choose FTMO More Power, Less Risk Up to $200K simulated capital Reward",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Trading Platforms Why People Choose FTMO More Power, Less Risk Up to $200K simulated capital Rewards Fast and easy rewards withdrawals Advanced Support Dedicated support via Live chat, email, or WhatsApp Tools & Service",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "650",
+    "snippet": "FTMO Account. Trusted by Millions of Traders 4.5M+ Customers worldwide $650M+ Paid in rewards 140+ Countries served { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause();",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "114,90",
+    "snippet": "me)\" > YouTube \u2022 81K Views Maik Germany Rewards Earned $114,907 Trading Style Swing trader { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.cur",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "41,01",
+    "snippet": "\" > YouTube \u2022 62K Views Cinthya Ecuador Rewards Earned $41,018 Trading Style Day trader { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.curre",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "40,93",
+    "snippet": "e)\" > YouTube \u2022 56K Views Bjorn Belgium Rewards Earned $40,931 Trading Style Swing trader { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.cur",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "25,60",
+    "snippet": "ame)\" > YouTube \u2022 66K Views Tarhata USA Rewards Earned $25,607 Trading Style Day trader { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.curre",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "76,00",
+    "snippet": "YouTube \u2022 459K Views Pepijn The Netherlands Rewards Earned $76,000 Trading Style Scalper { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.currentT",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "37,67",
+    "snippet": "YouTube \u2022 83K Views Andi United Kingdom Rewards Earned $37,676 Trading Style Day trader { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.curre",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "96,64",
+    "snippet": "name)\" > YouTube \u2022 46K Views Fabian USA Rewards Earned $96,649 Trading Style Scalper { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; video.pause(); video.currentT",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "monthly",
+    "snippet": "/2024/02/Blog-banner-Unlimited-CZ.avif http://ftmo.com/app/uploads/2024/02/Number-of-payouts-monthly-in-each-year-2023.avif http://ftmo.com/app/uploads/2024/02/Amount-of-payouts-per-month-in-each-year-2024.avif http://ftmo.com/app/uploads/2024/02/Amount-of-payouts-per-y",
+    "url": "https://ftmo.com/post-sitemap2.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "/20191024_123242-3asda-1030x580.jpg https://ftmo.com/de/blog/trading-waehrend-einer-krise/ 2022-01-12T07:33:18+00:00 https://ftmo.com/wp-content/uploads/2020/04/1628-1030x687.jpg https://ftmo.com/wp-content/uploads/2020/04/ATR-1.avif https://ftmo.com/wp-conte",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "crypto",
+    "snippet": "o.com/app/uploads/2025/07/week-31-xauusd.avif https://ftmo.com/en/blog/ftmo-enhances-crypto-trading-new-instruments-and-better-spreads/ 2025-11-04T15:26:59+00:00 https://ftmo-frontend-prod.storage.googleapis.com/wp-content/uploads/2025/07/04115501/FTMO-Enhances",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "USDC",
+    "snippet": "/uploads/2020/09/BTCUSDH1after-1-1030x579-1.avif http://ftmo.com/app/uploads/2020/09/USDCHFH4bearishengulfing-1030x579-1.avif http://ftmo.com/app/uploads/2020/09/USDCHFH4extension-1030x579-1.avif http://ftmo.com/app/uploads/2020/09/c-1030x486-1.avif http://ft",
+    "url": "https://ftmo.com/post-sitemap3.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Skrill",
+    "snippet": "ses the next day. If the client specifies the option to pay in cryptocurrency or via Skrill, they should receive the money on the same day. If they specify the bank transfer option, the payment can take up to five days, but of course, this also depends on which",
+    "url": "https://ftmo.com/en/blog/think-about-your-christmas-payout-early/",
+    "kind": "page"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "cy or via Skrill, they should receive the money on the same day. If they specify the bank transfer option, the payment can take up to five days, but of course, this also depends on which country the client lives in and which bank they use. So, if you want to give y",
+    "url": "https://ftmo.com/en/blog/think-about-your-christmas-payout-early/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "ven strategy that will be profitable. You must backtest and prepare for victory otherwise you are preparing for failure. You must also train yourself to be patient and discipline otherwise you will fail. Be locked in mentally and stick to your strategy. Only",
+    "url": "https://ftmo.com/en/blog/ftmo-traders-talk-about-their-evaluation-process/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "; checkScroll(); window.addEventListener('scroll', checkScroll); } }\" @keydown.escape.prevent.stop=\" if (menuOpen || activeItem) { activeItem = null; menuOpen = false; } \" > { document.getElementById('first-mega-item-cfd')?.focus() })\" @blur",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "uploads/2025/09/Jack-Daniel-Balance-Curve-1.avif http://ftmo.com/app/uploads/2025/10/Master-your-psychology-banner-EN.avif http://ftmo.com/app/uploads/2025/09/Tze-Yong-Profile-picture.avif http://ftmo.com/app/uploads/2025/09/Tze-Yong-Balance-Curve-1.avif http://ftmo.com/app/uploads/2025",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "2025/08/Unlimited-period-banner-EN.avif http://ftmo.com/app/uploads/2025/05/FX-Blue-basic.avif http://ftmo.com/app/uploads/2025/10/Become-a-serious-trader-banner-EN.avif http://ftmo.com/app/uploads/2025/05/FXBlue-Deal-Ticket.avif http://ftmo.com/app/uploads/2",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ploads/2025/10/Start-Challenge-black-CZ.gif https://ftmo.com/de/blog/nutzen-sie-das-anfangsgleichgewicht-zu-ihrem-vorteil/ 2025-11-04T15:33:20+00:00 https://ftmo-frontend-prod.storage.googleapis.com/wp-content/uploads/2025/02/04121225/Use-the-Initial-Balance-to-your-advantage-DE.avif http://ftmo.com/app/uploads/2025/10/Get-100-000-banner-",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "The Modern Prop Trading Firm sinc",
+    "snippet": "The Modern Prop Trading Firm since 2015 | FTMO 20% Off Special deal on $100K 1-Step Challenge { document.body.classList.toggle('no-scroll', value); }); // Set scroll to tru",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Free Trial Unlimited",
+    "snippet": "cing Choose your FTMO Challenge How It Works Become an FTMO Trader Free Trial Unlimited practice for your strategy Trading Objectives Key rules to pass each phase Grow Trading Psychology For stronger mindset Premium program",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "In 2024 FTMO inc",
+    "snippet": "logical Entrepreneur 2022. 2022 \" class=\"cursor-help\" > Featured in Forbes: In 2024 FTMO increased its revenue by a quarter to five billion CZK. July 2024 \" class=\"cursor-help\" > Up to $200,000 FTMO Account Support in 21 Languages 4 Trading Pl",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Support in 21 Languag",
+    "snippet": "n CZK. July 2024 \" class=\"cursor-help\" > Up to $200,000 FTMO Account Support in 21 Languages 4 Trading Platforms Why People Choose FTMO More Power, Less Risk Up to $200K simulated capital Rewards Fast and easy rewards withdrawals",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Dedicated support via Live chat, email, or WhatsA",
+    "snippet": "capital Rewards Fast and easy rewards withdrawals Advanced Support Dedicated support via Live chat, email, or WhatsApp Tools & Services Tailored tools & services to support your growth Free Trial As many Free Trials as you need Choose Your FTM",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Malaysia",
+    "snippet": "et.id, $el.dataset.name)\" > YouTube \u2022 193K Views Choon Chiat Malaysia Rewards Earned $30,182 Trading Style Scalper { this.$refs.video.play().catch(() => {}); }); }, pauseVideo() { const video = this.$refs.video; vi",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "tion from our YouTube channel and connect with thousa",
+    "snippet": "Elevate Your Trading with FTMO Learn with FTMO Academy, gain inspiration from our YouTube channel and connect with thousands of traders on Discord. Join our trading community! Academy Expand Your Trading Knowledge With FTMO Academy Enhance your knowledge and learn to understand your up",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Your browser does not support the video tag",
+    "snippet": "d intermediate traders Includes the Trading Psychology Course Start course Your browser does not support the video tag. 100K+ Awesome members Join Our FTMO Discord. Trade Smarter. Together. Share in our trading community and get inspired. Start the chat",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal on $100K 1-Step Challenge\n \n \n \n \n {\n document",
+    "snippet": "The Modern Prop Trading Firm since 2015 | FTMO 20% Off Special deal on $100K 1-Step Challenge { document.body.classList.toggle('no-scroll', value); }); // Set scroll to true when we are scrolled 5.2% of viewport height on mobile or 6% on desktop. // Scroll variable is us",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "eave=\"activeItem = null; menuOpen = false;\"\n @keydown",
+    "snippet": "ed-lg focus:outline-none\"> About = 1024) && activeItem === 'cfd'\" @mouseleave=\"activeItem = null; menuOpen = false;\" @keydown.escape.window=\" if (activeItem || menuOpen) { activeItem = null; menuOpen = false; document.getElementById('mega-menu-button-cfd')?.focus(); } \" x-cloak x-transit",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "ease-out duration-200\"\n x-transition:enter-start=\"opacity-0 transform translate-y-10\"\n x-transition:enter-end=\"opacity-1",
+    "snippet": "ById('mega-menu-button-cfd')?.focus(); } \" x-cloak x-transition:enter=\"transition ease-out duration-200\" x-transition:enter-start=\"opacity-0 transform translate-y-10\" x-transition:enter-end=\"opacity-100 transform translate-y-0\" x-transition:leave=\"transition ease-in duration-200\" x-transition:leave-start=\"opacity-0 transform translate-y-0",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "eave=\"transition ease-in duration-200\"\n x-transition:leave-start=\"opacity-0 transform translate-y-0\"\n x-transition:leave",
+    "snippet": "e-y-10\" x-transition:enter-end=\"opacity-100 transform translate-y-0\" x-transition:leave=\"transition ease-in duration-200\" x-transition:leave-start=\"opacity-0 transform translate-y-0\" x-transition:leave-end=\"opacity-0 transform translate-y-10\" > Get started CFD Overview Your path to FTMO Pricing Choose your FTMO Challenge How It Works Beco",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "each phase\n \n \n \n \n \n Grow\n \n \n Trading Psychology For stronger mindset\n \n \n \n \n Premium programme Join the top performe",
+    "snippet": "l Unlimited practice for your strategy Trading Objectives Key rules to pass each phase Grow Trading Psychology For stronger mindset Premium programme Join the top performers Scaling plan Grow up to $2M Start FTMO Challenge Start now = 1024) && activeItem === 'futures'\" @mouseleave=\"activeItem = null; menuOpen",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vps",
+    "snippet": "s://ftmo-frontend-prod.storage.googleapis.com/wp-content/uploads/2021/08/04170745/VlivpsychoCZ.avif http://ftmo.com/app/uploads/2025/08/Unlimited-period-banner-CZ.avif http://ftmo.com/app/uploads/2025/07/Master-your-psychology-banner-CZ.avif http://ftmo.com/app/up",
+    "url": "https://ftmo.com/post-sitemap2.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling plan Grow up to $2M\n \n \n \n \n Start FTMO Challenge\n Start now\n \n \n \n \n \n \n = 1024) && activeItem === 'futures'\"\n ",
+    "snippet": "ogy For stronger mindset Premium programme Join the top performers Scaling plan Grow up to $2M Start FTMO Challenge Start now = 1024) && activeItem === 'futures'\" @mouseleave=\"activeItem = null; menuOpen = false;\" @keydown.escape.window=\" if (activeItem || menuOpen) { activeItem = null; menuOpen = false; document.getElementById('mega-menu",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling plan \n \n \n \n Futures\n New \n Get Started\n Futures Overview \n Pricing \n How Futures Work \n Trading Objectives \n \n ",
+    "snippet": "Free Trial Trading Objectives Grow Trading Psychology Premium programme Scaling plan Futures New Get Started Futures Overview Pricing How Futures Work Trading Objectives Trading Trading Esssentials Economic Calendar Trading Updates Instruments Trading Platforms Tools & Services Tools Overview Leaderboard App Suite Knowledge FAQ Bl",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling plan \n \n \n Futures\n \n Futures Overview \n Pricing \n How Futures Works \n Trading Objectives \n Comparison Table \n F",
+    "snippet": "allenge Comparison Table Forbidden Trading Practices Grow Premium Programme Scaling plan Futures Futures Overview Pricing How Futures Works Trading Objectives Comparison Table Forbidden Trading Practices Trading Economic Calendar Trading Updates Instruments Trading Platforms Tools & Services Tools Overview Trading Psychology Leaderboard A",
+    "url": "https://ftmo.com/en/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kych-zprav/ 2025-11-04T15:26:05+00:00 https://ftmo-frontend-prod",
+    "snippet": "k-PT.gif https://ftmo.com/cs/blog/obchodovani-s-americkymi-indexy-behem-makroekonomickych-zprav/ 2025-11-04T15:26:05+00:00 https://ftmo-frontend-prod.storage.googleapis.com/wp-content/uploads/2025/08/04115149/Trading-US-Indices-During-News-Events-CZ.avif http://ftmo.com/app/uploads/2025/08/Unlimited-period-banner-CZ.a",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kych-pozic-a-jak-s-tim-bojovat/ 2025-11-04T15:34:18+00:00 https://ftmo-frontend-prod",
+    "snippet": "t-Challenge-blue-EN.gif https://ftmo.com/cs/blog/proc-se-nekteri-obchodnici-boji-kratkych-pozic-a-jak-s-tim-bojovat/ 2025-11-04T15:34:18+00:00 https://ftmo-frontend-prod.storage.googleapis.com/wp-content/uploads/2025/02/04121426/Why-do-traders-fear-short-positions-and-how-can-you-conquer-it_-CZ-II.avif http://ftmo.com/app/uploads/2025/10",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kych-indikatoru/ 2025-11-04T15:34:55+00:00 https://ftmo-frontend-prod",
+    "snippet": ".gif https://ftmo.com/cs/blog/efektivni-rizeni-rizika-s-vyuzitim-volatility-a-technickych-indikatoru/ 2025-11-04T15:34:55+00:00 https://ftmo-frontend-prod.storage.googleapis.com/wp-content/uploads/2025/01/04121543/Effective-risk-management-using-volatility-and-technical-indicators-CZ.avif http://ftmo.com/app/uploads/2025/1",
+    "url": "https://ftmo.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription",
+    "snippet": "updates. Terms and conditions Thanks! Please check your inbox to confirm your subscription. Join the Community Join a global network of traders Related Uncategorized \u2022 CFDs \u2022 1 year ago Why Trade on cTrader: Platf",
+    "url": "https://ftmo.com/en/blog/consistency-creating-and-following-trading-rules-got-the-luck-out-of-my-career/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "The Modern Prop Trading Firm since 2015 | FTMO 20% Off Special deal on $100K 1-Step Challenge { document.body.classList.toggle('no-scroll', value); }); // Set scroll to true when we are scrolled 5.2% of viewport height on mobile or",
+   "url": "https://ftmo.com/en/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "om you. After you sign up , you can either start the FTMO Challenge: 1-Step or the FTMO Challenge: 2-Step right away, or \u2014 as we usually recommend \u2014 begin with our Free Trial. The Free Trial is a free, simplified version of the FTMO Challenge experience designed fo",
+   "url": "https://ftmo.com/en/"
+  },
+  {
+   "name": "Swing",
+   "snippet": "estrictions for trading during selected news releases apply only to the Standard account type . The Swing account type have no restrictions on trading during news releases. For Standard accounts, these restrictions apply only once you start trading on an FTMO Account . Th",
+   "url": "https://ftmo.com/en/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "MO Pricing Choose your FTMO Challenge How It Works Become an FTMO Trader Free Trial Unlimited practice for your strategy Trading Objectives Key rules to pass each phase Grow Trading Psychology For stronger mindset",
+   "url": "https://ftmo.com/en/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Oil",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "FTMO Account. Trusted by Millions of Traders 4.5M+ Customers worldwide $650M+ Paid in rewards 140+ Countries served { this.$refs.video.play().catch(() => {});",
+  "ure founders who pursued the idea in 2015. About Us Careers Since 2015 Team Members 300+ Countries Served 140+ Arabic Czech"
+ ],
+ "errors": []
+}

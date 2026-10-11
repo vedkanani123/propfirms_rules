@@ -1,0 +1,12 @@
+{
+ "slug": "klein-funding",
+ "name": "Klein Funding",
+ "category": "Crypto",
+ "url": "https://kleinfunding.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

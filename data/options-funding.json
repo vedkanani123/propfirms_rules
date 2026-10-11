@@ -1,0 +1,552 @@
+{
+ "slug": "options-funding",
+ "name": "Options Funding",
+ "category": "Specialist",
+ "url": "https://optionsfunding.co/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://optionsfunding.co/",
+   "kind": "home",
+   "chars": 6744
+  },
+  {
+   "url": "https://optionsfunding.co/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5596
+  },
+  {
+   "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+   "kind": "page",
+   "chars": 11536
+  },
+  {
+   "url": "https://optionsfunding.co/faq/payouts-and-payments",
+   "kind": "page",
+   "chars": 9173
+  },
+  {
+   "url": "https://optionsfunding.co/blog/5-rules-for-leaps-theta-decay-in-2026-funded-accounts",
+   "kind": "page",
+   "chars": 15736
+  },
+  {
+   "url": "https://optionsfunding.co/faq/accounts-and-billing",
+   "kind": "page",
+   "chars": 6054
+  },
+  {
+   "url": "https://optionsfunding.co/faq/billing-refunds-chargebacks",
+   "kind": "page",
+   "chars": 4396
+  },
+  {
+   "url": "https://optionsfunding.co/live-program-rules",
+   "kind": "page",
+   "chars": 29205
+  },
+  {
+   "url": "https://optionsfunding.co/checkout?plan=express_100k",
+   "kind": "page",
+   "chars": 2709
+  },
+  {
+   "url": "https://optionsfunding.co/blog/reverse-iron-condor-setup-rules-for-2026",
+   "kind": "page",
+   "chars": 17732
+  },
+  {
+   "url": "https://optionsfunding.co/rules",
+   "kind": "page",
+   "chars": 29704
+  },
+  {
+   "url": "https://optionsfunding.co/blog/5-rules-for-0dte-spx-gamma-risk-in-2026",
+   "kind": "page",
+   "chars": 15407
+  },
+  {
+   "url": "https://optionsfunding.co/blog/spy-opening-range-breakout-rules-for-2026-traders",
+   "kind": "page",
+   "chars": 17175
+  },
+  {
+   "url": "https://optionsfunding.co/faq/platform-and-technology",
+   "kind": "page",
+   "chars": 4529
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 175709,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "ailable evaluation plans. Feature Metric Express Account Plan Growth Account Plan Profit Target 10% of account size 12% of account size Trailing Drawdown 5% of account size 6% of account size Allowed Strategies Buy only options Multi leg options LEAPS Theta Manag",
+    "url": "https://optionsfunding.co/blog/5-rules-for-leaps-theta-decay-in-2026-funded-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "ule. Metric Growth 100K Growth 50K Growth 25K Express 100K Express 50K Express 25K Profit Target 12% ($12,000) 12% ($6,000) 12% ($3,000) 10% ($10,000) 10% ($5,000) 10% ($2,500) Time Limit Unlimited Unlimited Unlimited Unlimited Unlimited Unlimited Min Trading Days None",
+    "url": "https://optionsfunding.co/rules",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "80",
+    "snippet": "Plan $25K Express $239 $95.60 /month until you are funded Profit Target $2,500 Max Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,500 Payout Split 80% Buy Now Same day fu",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "ns with $1,000,000 in capital Same day funding \u26a1 \u26a1 Copy trade up to 10 accounts \u26a1 \u26a1 80% profit split Get Funded Now Be the first to get exclusive deals Get one email per week with limited-time discounts, trading tips, and early access to new features. Email address",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "n to you. You keep 80% of profits (80/20 split). Each payout, you can withdraw up to 50% of profits, subject to the payout cap for that payout number. A flat $129 activation fee is charged before your Funded account goes live, and it is fully refunded on your first payout. Once you receive y",
+    "url": "https://optionsfunding.co/rules",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "0",
+    "snippet": "ti leg options LEAPS Theta Management Exit before 120 days Sell short term calls Minimum Trading Days 0 days requirement 0 days requirement Qualifying Winning Days 8 days per cycle 8 days per cycle Activation Fee $129 fee refunded $129 fee refunded Profit Split Share",
+    "url": "https://optionsfunding.co/blog/5-rules-for-leaps-theta-decay-in-2026-funded-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "h 25K Unlimited Express 100K Unlimited Express 50K Unlimited Express 25K Unlimited Min Trading Days Growth 100K None Growth 50K None Growth 25K None Express 100K None Express 50K None Express 25K None Drawdown Your trailing drawdown moves up with your highest equity. If you t",
+    "url": "https://optionsfunding.co/rules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "n Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capi",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital. H",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "port Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital. Hit your ta",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,10",
+    "snippet": "rade with our capital, and earn payouts fast. Start trading How it works Verified $1,100,000+ In Verified Payouts Real profits paid to funded Options Funding traders Same Day Funding Hold Trades Overnight Refundable Activation Fee 24/7 Support Get fun",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "n Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our cap",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital.",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "port Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital. Hit your t",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "239",
+    "snippet": "up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital. Hit your target and get funded the same day. 3 3 Get",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "95.60",
+    "snippet": "ick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital. Hit your target and get funded the same day. 3 3 Get paid G",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "3,84",
+    "snippet": "equest a payout anytime. No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received Two Paths to Funded Pick your path. Start trading with funded capital today",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "7,29",
+    "snippet": "No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received Two Paths to Funded Pick your path. Start trading with funded capital today. Express Plan Growth Pl",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "Growth Plan $25K Express $239 $95.60 /month until you are funded Profit Target $2,500 Max Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,50",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "ress $239 $95.60 /month until you are funded Profit Target $2,500 Max Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,500 Payout Split 80% B",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "279",
+    "snippet": "0 Max Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,500 Payout Split 80% Buy Now Same day funding Most Popular $100K Express $389 $155.60",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "111.60",
+    "snippet": "Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,500 Payout Split 80% Buy Now Same day funding Most Popular $100K Express $389 $155.60 /month",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "hat does \"drawdown\" mean in plain English? Drawdown is your max allowed loss. We use trailing drawdown, which follows your highest account equity. If you touch the drawdown floor, the account is closed. What is the trailing drawdown size on each plan? Growth: 6 percent o",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "end of day",
+    "snippet": "ere is no live quote at all, at your average cost. End-of-day vs intraday How does end of day drawdown work? The drawdown floor updates once per day at market close. If you touch it intraday, the account still closes. How does intraday drawdown work? The drawdown floor u",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "intraday",
+    "snippet": "r day at market close. If you touch it intraday, the account still closes. How does intraday drawdown work? The drawdown floor updates in real time as your highest equity changes. If you touch it, the account closes. Drawdown lock Does drawdown ever stop trailing? Yes,",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule and no minimum trading days",
+    "snippet": "an account can take before it closes, and it trails your highest equity. There is no consistency rule and no minimum trading days. What drawdown means What does \"drawdown\" mean in plain English? Drawdown is your max allowed loss. We use trailing drawdown, which follows your highest account equity",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule\n Do you have a consistency rule? No",
+    "snippet": "alls to your starting balance, the account closes under the standard drawdown rule. Consistency rule Do you have a consistency rule? No. There is no consistency rule on either plan, in the evaluation or once you are funded, so no single day is ever capped as a share of your gains. What a payout does requ",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule on either plan, in the evaluation or once you are funded, so no single day is ever capped",
+    "snippet": "rd drawdown rule. Consistency rule Do you have a consistency rule? No. There is no consistency rule on either plan, in the evaluation or once you are funded, so no single day is ever capped as a share of your gains. What a payout does require is 8 qualifying winning days in the current payout cycle, and those days do not have to be consec",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, and neither has a minimum trading day requirement",
+    "snippet": "eg long calls and long puts, and has an 10 percent profit target. Neither plan has a consistency rule, and neither has a minimum trading day requirement. How much does each plan cost? Growth: $309 for $25K, $399 for $50K, $499 for $100K. Express: $239 for $25K, $279 for $50K, $389 for $100K. Monthly subscription that bi",
+    "url": "https://optionsfunding.co/faq/accounts-and-billing",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "anytime",
+    "snippet": "l. Hit your target and get funded the same day. 3 3 Get paid Get paid Request a payout anytime. No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received Two Path",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "what you earn. Every payout, you keep 80% of the profits. No hidden splits, no surprises. Your performance, your money. Scale up to $1M in capital. Start with $25K and grow your funded accounts as you hit targets. Copy trade up to 10 accounts. Trade",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "ch stays on record even after a reset) and be funded by an active subscription. Otherwise plans are separate accounts, not toggles: buy a new plan in the family you want, and the original keeps running until you cancel or breach. Downgrades to a cheaper plan",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "crypto",
+    "snippet": "count size. Charged before your funded account is activated (to your card on file or crypto balance), then fully refunded on your first payout. If an account never reaches a payout, the fee is not refunded. The fee applies to every funded account, including eva",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   },
+   {
+    "value": "wire transfer",
+    "snippet": "my payout method or receiving details between requests? Yes. You are paid by ACH or wire transfer (international wire for traders outside the US), sent from our Mercury account. Your receiving details are set up through the secure email Mercury sends you after a payo",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "p 80% of the profits. No hidden splits, no surprises. Your performance, your money. Scale up to $1M in capital. Start with $25K and grow your funded accounts as you hit targets. Copy trade up to 10 accounts. Trade on RixTrade . Built by traders for traders. RixTrade is the",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "eats-expiration 2026-08-01T16:01:55.920Z monthly 0.6 https://optionsfunding.co/blog/master-calendar-spread-volatility-skew-in-2026 2026-07-26T16:01:00.108Z monthly 0.6 https://optionsfunding.co/blog/5-rules-for-0dte-spx-gamma-risk-in-2026 2026-07-24T16:01:13.993Z monthly 0.6 https://optionsfunding.co/blog/390-order-r",
+    "url": "https://optionsfunding.co/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "ling How accounts work, what they cost, and what you can run in parallel. Account basics What happens when I buy an account? You get access to your evaluation account and can start trading right away. Is there a time limit to pass the evaluation? No. There is no time limit. Can I have more than one account at once? Yes. You can hold up to",
+    "url": "https://optionsfunding.co/faq/accounts-and-billing",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Get funded sa",
+    "snippet": "s Same Day Funding Hold Trades Overnight Refundable Activation Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "th our capital. Hit your target and get funded the sa",
+    "snippet": "ntil funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital. Hit your target and get funded the same day. 3 3 Get paid Get paid Request a payout anytime. No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Buy Now Sa",
+    "snippet": "until you are funded Profit Target $2,500 Max Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,500 Payout Split 80% Buy Now Same day funding Most",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "evaluation, and start trading with our capital the sa",
+    "snippet": "Why Options Funding Start today. Get funded today. Choose your account, pass the evaluation, and start trading with our capital the same day. Zero waiting. Get paid faster. Request a payout anytime you're above your threshold. No 15-day wait. You earned it, you keep it. Keep 80% of what you earn. Ev",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "How is Options Funding different from a brokerag",
+    "snippet": "Pass a simulated evaluation to qualify for payouts and potentially a live account. How is Options Funding different from a brokerage account? A brokerage account uses your own capital. Options Funding gives you a simulated evaluation account first, then a funded account funded by the firm. You do not",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "A brokerag",
+    "snippet": "entially a live account. How is Options Funding different from a brokerage account? A brokerage account uses your own capital. Options Funding gives you a simulated evaluation account first, then a funded account funded by the firm. You do not put up trading capit",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "or a confirmed processing failure. See the Terms pag",
+    "snippet": "ally nonrefundable. Refunds are only considered for billing error, duplicate charge, or a confirmed processing failure. See the Terms page. I canceled but got charged. What should I do? Contact support with your account email and the charge details so we can review it. See full FAQ Drop into Discord or o",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "X Instag",
+    "snippet": "Still have questions? Contact us Join Discord Get the latest updates on socials X Instagram TikTok Threads Discord Trade options with $1,000,000 in capital Same day funding \u26a1 \u26a1 Copy trade up to 10 accounts \u26a1 \u26a1 80% profit split Get Funded Now Be the first",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable Activation Fee\n 24/7 Support\n Get funded same day 1\n 1\n Sign up\n Sign up\n Pick your account - $25K, $50K, or ",
+    "snippet": "its paid to funded Options Funding traders Same Day Funding Hold Trades Overnight Refundable Activation Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with ",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "refunds? Fees are generally nonrefundable",
+    "snippet": "there a time limit to pass the evaluation? No. There is no time limit. Do you offer refunds? Fees are generally nonrefundable. Refunds are only considered for billing error, duplicate charge, or a confirmed processing failure. See the Terms page. I canceled but got charged. What should I do? C",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Refunds are only considered for billing error, duplicate charge, or a confirmed processing failure",
+    "snippet": "No. There is no time limit. Do you offer refunds? Fees are generally nonrefundable. Refunds are only considered for billing error, duplicate charge, or a confirmed processing failure. See the Terms page. I canceled but got charged. What should I do? Contact support with your account email and the charge details so we can review it. See fu",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "refunds-chargebacks 2026-10-11T11:40:04",
+    "snippet": "d-billing 2026-10-11T11:40:04.203Z weekly 0.7 https://optionsfunding.co/faq/billing-refunds-chargebacks 2026-10-11T11:40:04.203Z weekly 0.7 https://optionsfunding.co/faq/drawdown-and-consistency 2026-10-11T11:40:04.203Z weekly 0.7 https://optionsfunding.co/faq/trading-what-you-can-trade 202",
+    "url": "https://optionsfunding.co/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn",
+    "snippet": "n in Get Funded Founding 50 Rules FAQ Affiliates Contact Sign in Get Funded Learn. Trade. Earn. Get Funded to Trade Options Learn by following a proven path, trade with our capital, and earn payouts fast. Start trading How it works Verified $1,100",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "earn by following a proven path, trade with our capital, and earn payouts fast",
+    "snippet": "s Contact Sign in Get Funded Learn. Trade. Earn. Get Funded to Trade Options Learn by following a proven path, trade with our capital, and earn payouts fast. Start trading How it works Verified $1,100,000+ In Verified Payouts Real profits paid to funded Options Funding traders Same Day Funding Hold Trades Overnight Re",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "eal profits paid to funded Options Funding traders\n Same Day Funding\n Hold Trades Overnight\n Refundable Activation Fee\n ",
+    "snippet": "youts fast. Start trading How it works Verified $1,100,000+ In Verified Payouts Real profits paid to funded Options Funding traders Same Day Funding Hold Trades Overnight Refundable Activation Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.6",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "earned it - you keep 80%",
+    "snippet": "same day. 3 3 Get paid Get paid Request a payout anytime. No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received Two Paths to Funded Pick your path. Start trading with f",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "earned it, you keep it",
+    "snippet": "d faster. Request a payout anytime you're above your threshold. No 15-day wait. You earned it, you keep it. Keep 80% of what you earn. Every payout, you keep 80% of the profits. No hidden splits, no surprises. Your performance, your money. Scale up to $1M in capital. Star",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Same Day",
+    "snippet": "nd earn payouts fast. Start trading How it works Verified $1,100,000+ In Verified Payouts Real profits paid to funded Options Funding traders Same Day Funding Hold Trades Overnight Refundable Activation Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evalua",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "within 12 hours of your reque",
+    "snippet": "You keep 80 percent of profits. When will I receive my payout? As fast as 12 hours. Payouts can be paid within 12 hours of your request, and your payouts page shows your own time and the fastest track open to you. Do you pay out my account profit or only what I withdraw? Only payouts you request and r",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout caps or minimums? Some phases have payout minimums and payout caps",
+    "snippet": "unt, including evaluations won in giveaways or unlocked with promo codes. Are there payout caps or minimums? Some phases have payout minimums and payout caps. See the Rules page for current limits. What are the payout caps in Funded? Caps scale across the first four payouts. Growth $100K: 1st $2,000, 2nd $3,000, 3rd $4,000,",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   },
+   {
+    "value": "payout caps in Funded? Caps scale across the first four payouts",
+    "snippet": "ayout minimums and payout caps. See the Rules page for current limits. What are the payout caps in Funded? Caps scale across the first four payouts. Growth $100K: 1st $2,000, 2nd $3,000, 3rd $4,000, 4th $6,000. Growth $50K: 1st $1,000, 2nd $1,500, 3rd $2,000, 4th $3,000. Growth $25K: 1st $1,000, 2nd $1,500, 3rd $2,0",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   },
+   {
+    "value": "payout cap prevented you from taking, up to the size of that payout",
+    "snippet": "e at least $1 above the balance you last requested a payout at, less any amount your payout cap prevented you from taking, up to the size of that payout. Example: if you requested payout one at a balance of $52,000 and your payout cap did not limit it, your balance at your next payout request must be at $52,001 or higher",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   },
+   {
+    "value": "payout cap did not limit it, your balance at your next payout request must be at $52,001 or higher",
+    "snippet": "f that payout. Example: if you requested payout one at a balance of $52,000 and your payout cap did not limit it, your balance at your next payout request must be at $52,001 or higher. Review and holds What can delay or reject a payout? Rule violations, missing KYC or tax info, or payout details that do not match can delay or reject a pay",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-and-taxes 2026-10-11T11:40:04",
+    "snippet": "outs-and-payments 2026-10-11T11:40:04.203Z weekly 0.7 https://optionsfunding.co/faq/kyc-and-taxes 2026-10-11T11:40:04.203Z weekly 0.7 https://optionsfunding.co/faq/going-live 2026-10-11T11:40:04.203Z weekly 0.7 https://optionsfunding.co/faq/platform-and-technology 2026-10-11T11:40:04.",
+    "url": "https://optionsfunding.co/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC, Taxes, and Compliance Going Live Platform and Technology Glossary All FAQ topics Drawdown and Evaluation Rul",
+    "snippet": "tion Rules Trading: What You Can Trade Strategies and Multi-Leg Payouts and Payments KYC, Taxes, and Compliance Going Live Platform and Technology Glossary All FAQ topics Drawdown and Evaluation Rules Drawdown is the maximum loss an account can take before it closes, and it trails your highest equity. There is no consistency rule and no m",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "KYC, Taxes, and Compliance Going Live Platform and Technology Glossary All FAQ topics Payouts and Payments\n How p",
+    "snippet": "tion Rules Trading: What You Can Trade Strategies and Multi-Leg Payouts and Payments KYC, Taxes, and Compliance Going Live Platform and Technology Glossary All FAQ topics Payouts and Payments How payouts are requested, what gets paid, what can delay or hold a payout, and how Live changes the payout mechanics. How payouts work How do payou",
+    "url": "https://optionsfunding.co/faq/payouts-and-payments",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee\n 24/7 Support\n Get funded same day 1\n 1\n Sign up\n Sign up\n Pick your account - $25K, $50K, or $100K",
+    "snippet": "funded Options Funding traders Same Day Funding Hold Trades Overnight Refundable Activation Fee 24/7 Support Get funded same day 1 1 Sign up Sign up Pick your account - $25K, $50K, or $100K. One evaluation. No hoops. Starting at $239 $95.60 /mo until funded 2 2 Trade 1 day Trade 1 day Trade SPY, QQQ, or any stock options with our capital.",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription for the evaluation, and it stops once you activate your funded account",
+    "snippet": "ded account funded by the firm. You do not put up trading capital. You pay a monthly subscription for the evaluation, and it stops once you activate your funded account. What happens when I buy an account? You get access to your evaluation account and can start trading right away. Is there a time limit to pass the evaluation? No. Ther",
+    "url": "https://optionsfunding.co/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription price, it is priced off the current list price instead, at ten percentage points deeper than whatever sale ",
+    "snippet": "so it is always cheaper than starting a new one. If we cannot match the account to a subscription price, it is priced off the current list price instead, at ten percentage points deeper than whatever sale is running that day. The account is restored to its original starting balance, with the drawdown floor and peak equity back where they ",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "subscription stays active",
+    "snippet": "adline on a reset. Each account can have up to three paid resets, for as long as its subscription stays active. You buy it from your dashboard, and cancelling the subscription ends the option. Once an account has reached its limit of three paid resets, another is not sold for it.",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "subscription ends the option",
+    "snippet": "as its subscription stays active. You buy it from your dashboard, and cancelling the subscription ends the option. Once an account has reached its limit of three paid resets, another is not sold for it. A free reset credit can still be used on it, its next monthly renewal still rese",
+    "url": "https://optionsfunding.co/faq/drawdown-and-consistency",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradingView"
+ ],
+ "assets": [
+  "Metals",
+  "Crypto",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options",
+  "Bonds",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "3 Get paid Get paid Request a payout anytime. No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received",
+  "quest a payout anytime. No waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received",
+  "o waiting weeks. You earned it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received Two Paths to Funded Pick",
+  "ed it - you keep 80%. Get Funded $3,840 Payout Received $7,290 Payout Received $3,840 Payout Received $7,290 Payout Received Two Paths to Funded Pick your path. Start trading",
+  "n Growth Plan $25K Express $239 $95.60 /month until you are funded Profit Target $2,500 Max Loss Limit $1,250 Payout Split 80% Buy Now Same day funding $50K Express $279",
+  "day funding $50K Express $279 $111.60 /month until you are funded Profit Target $5,000 Max Loss Limit $2,500 Payout Split 80% Buy Now Same day funding Most Popular $100K"
+ ],
+ "errors": []
+}

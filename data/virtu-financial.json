@@ -1,0 +1,12 @@
+{
+ "slug": "virtu-financial",
+ "name": "Virtu Financial",
+ "category": "Institutional",
+ "url": "https://www.virtu.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

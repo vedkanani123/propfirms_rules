@@ -1,0 +1,717 @@
+{
+ "slug": "plutus-trade-base",
+ "name": "Plutus Trade Base",
+ "category": "Forex/CFD",
+ "url": "https://plutustradebase.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://plutustradebase.com/",
+   "kind": "home",
+   "chars": 32814
+  },
+  {
+   "url": "https://plutustradebase.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 288
+  },
+  {
+   "url": "https://plutustradebase.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 87238
+  },
+  {
+   "url": "https://plutustradebase.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 61424
+  },
+  {
+   "url": "https://plutustradebase.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 625
+  },
+  {
+   "url": "https://plutustradebase.com/local-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 67
+  },
+  {
+   "url": "https://plutustradebase.com/#plans",
+   "kind": "page",
+   "chars": 32814
+  },
+  {
+   "url": "https://plutustradebase.com/nl/plans/",
+   "kind": "page",
+   "chars": 21220
+  },
+  {
+   "url": "https://plutustradebase.com/id/plans/",
+   "kind": "page",
+   "chars": 22871
+  },
+  {
+   "url": "https://plutustradebase.com/es/plans/",
+   "kind": "page",
+   "chars": 22969
+  },
+  {
+   "url": "https://plutustradebase.com/it/plans/",
+   "kind": "page",
+   "chars": 23240
+  },
+  {
+   "url": "https://plutustradebase.com/de/plans/",
+   "kind": "page",
+   "chars": 20924
+  },
+  {
+   "url": "https://plutustradebase.com/ar/plans/",
+   "kind": "page",
+   "chars": 19136
+  },
+  {
+   "url": "https://plutustradebase.com/fr/plans/",
+   "kind": "page",
+   "chars": 22580
+  },
+  {
+   "url": "https://plutustradebase.com/pt/plans/",
+   "kind": "page",
+   "chars": 22047
+  },
+  {
+   "url": "https://plutustradebase.com/blog/ptb-new-trading-challenge-rules-flexibility-opportunities/",
+   "kind": "page",
+   "chars": 12771
+  },
+  {
+   "url": "https://plutustradebase.com/es/blog/ptb-new-trading-challenge-rules-flexibility-opportunities/",
+   "kind": "page",
+   "chars": 13834
+  },
+  {
+   "url": "https://plutustradebase.com/blog/ptb-launches-affiliate-program-earn-rewards-while-helping-traders-succeed/",
+   "kind": "page",
+   "chars": 13275
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 430154,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "e \u20ac124 Regular price \u20ac248 50% off \u2713 No activation fee after you pass Start now Profit target 10% Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF LIMITED TIME OFFER On Freedom Plan Code PASS50 See full Freedom rules Strike once. Get funded. Lightning is our",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "Swipe to compare plans Challenge While you're earning your funded account Profit target 3% Static drawdown 6% Min trading days None Best-day rule None Max leverage Up to 100\u00d7 Time limit Unlimited Funded The prize Once you're trading our capit",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "Time limit Unlimited Funded The prize Once you're trading our capital Profit target for payout \u2014 Static drawdown 4% Daily loss limit 2% Best day 40% First payout After 7 days Profit split Up to 95% What's allowed Trade your way News trading Allowed (add-on) Exper",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "pe to compare plans Phase 1 Step One Hit the first target to unlock Phase 2 Profit target 8% Daily drawdown 5% Max drawdown 10% trailing Min trading days 4 Max leverage Up to 100\u00d7 Time limit Unlimited Phase 2 Step Two A lower target \u2014 confirm y",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "it Unlimited Phase 2 Step Two A lower target \u2014 confirm your consistency Profit target 6% Daily drawdown 5% Max drawdown 10% trailing Min trading days 4 Max leverage Up to 100\u00d7 Time limit Unlimited Funded The prize Once you're trading our ca",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "activation fee after you pass Start now Profit target 10% Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF LIMITED TIME OFFER O",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "ce you're trading our capital Profit target for payout \u2014 Static drawdown 4% Daily loss limit 2% Best day 40% First payout After 7 days Profit split Up to 95% What's allowed Trade your way News trading Allowed (add-on) Expert Advisors Allowed C",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Phase 1 Step One Hit the first target to unlock Phase 2 Profit target 8% Daily drawdown 5% Max drawdown 10% trailing Min trading days 4 Max leverage Up to 100\u00d7 Time limit Unlimited Phase 2 Step Two A lower target \u2014 confirm your consistency",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "\u20ac248 50% off \u2713 No activation fee after you pass Start now Profit target 10% Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF L",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Challenge One step to half a million Profit target 4% Min trading days 30 Max total drawdown 5% trailing Stable daily average 5% Copy trading Not allowed Time limit Yes (see plan page) Funded The prize $500K, freedom to trade Account size $500,00",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "50",
+    "snippet": "et 10% Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF LIMITED TIME OFFER On Freedom Plan Code PASS50 See full Freedom rules Strike once. Get funded. Lightn",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF LIMITED TIME OFFER On Freedom Plan Code PASS50 See full Freedom rules Strike once. Get funded. Lightning is our most pop",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "Profit target for payout \u2014 Static drawdown 4% Daily loss limit 2% Best day 40% First payout After 7 days Profit split Up to 95% What's allowed Trade your way News trading Allowed (add-on) Expert Advisors Allowed Copy trading Allowed All instruments Forex, Crypto, Indic",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "lenge Evaluation phase None Wait time before trading None Trailing drawdown 10% Min trading days for payout 7 Max leverage Up to 50\u00d7 Payouts The prize Fastest path from idea to income First payout After 7 days Profit split Up to 95% Withdrawal frequency On-d",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "30",
+    "snippet": "ipe to compare plans Challenge One step to half a million Profit target 4% Min trading days 30 Max total drawdown 5% trailing Stable daily average 5% Copy trading Not allowed Time limit Yes (see plan page) Funded The prize $500K, freedom to trade",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "Evaluation phase None Wait time before trading None Trailing drawdown 10% Min trading days for payout 7 Max leverage Up to 50\u00d7 Payouts The prize Fastest path from idea to income First payout After 7 days Profit split Up to 95% Withdrawal frequency On-dem",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "lock Phase 2 Profit target 8% Daily drawdown 5% Max drawdown 10% trailing Min trading days 4 Max leverage Up to 100\u00d7 Time limit Unlimited Phase 2 Step Two A lower target \u2014 confirm your consistency Profit target 6% Daily drawdown 5% Max drawd",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "10",
+    "snippet": "re funded. Every payout auto-approved in under 24 hours. Swipe to compare plans $10K $20K $50K Popular $100K Account $10,000 One-time fee \u20ac19 Regular price \u20ac38 50% off \u2713 No activation fee after you pass Start now Account $20,000 One-time fee \u20ac2",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "nded. Every payout auto-approved in under 24 hours. Swipe to compare plans $10K $20K $50K Popular $100K Account $10,000 One-time fee \u20ac19 Regular price \u20ac38 50% off \u2713 No activation fee after you pass Start now Account $20,000 One-time fee \u20ac29 Reg",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "Every payout auto-approved in under 24 hours. Swipe to compare plans $10K $20K $50K Popular $100K Account $10,000 One-time fee \u20ac19 Regular price \u20ac38 50% off \u2713 No activation fee after you pass Start now Account $20,000 One-time fee \u20ac29 Regular",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "auto-approved in under 24 hours. Swipe to compare plans $10K $20K $50K Popular $100K Account $10,000 One-time fee \u20ac19 Regular price \u20ac38 50% off \u2713 No activation fee after you pass Start now Account $20,000 One-time fee \u20ac29 Regular price \u20ac58 50%",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "Copy trading Not allowed Time limit Yes (see plan page) Funded The prize $500K, freedom to trade Account size $500,000 Profit split Up to 95% Withdrawal frequency Anytime News trading Allowed (add-on) DCA / averaging Allowed What",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "981",
+    "snippet": "enge Instant Funding Payouts FAQ Blog Contact Login LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda passed Adventure Mia Gomez withdrew $1,862 Leon Mueller withdrew $1,409 Aarav Diaz withdrew $1,189 Adam Pillai got funded $",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "uts FAQ Blog Contact Login LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda passed Adventure Mia Gomez withdrew $1,862 Leon Mueller withdrew $1,409 Aarav Diaz withdrew $1,189 Adam Pillai got funded $100,000 Nyambura Virtanen pas",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,86",
+    "snippet": "81 Axel Reyes got funded $10,000 Marko Bensouda passed Adventure Mia Gomez withdrew $1,862 Leon Mueller withdrew $1,409 Aarav Diaz withdrew $1,189 Adam Pillai got funded $100,000 Nyambura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,40",
+    "snippet": "000 Marko Bensouda passed Adventure Mia Gomez withdrew $1,862 Leon Mueller withdrew $1,409 Aarav Diaz withdrew $1,189 Adam Pillai got funded $100,000 Nyambura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Sant",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,18",
+    "snippet": "dventure Mia Gomez withdrew $1,862 Leon Mueller withdrew $1,409 Aarav Diaz withdrew $1,189 Adam Pillai got funded $100,000 Nyambura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhat",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "1,862 Leon Mueller withdrew $1,409 Aarav Diaz withdrew $1,189 Adam Pillai got funded $100,000 Nyambura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhatt got funded $100,000 LIVE Kenji",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,24",
+    "snippet": "ai got funded $100,000 Nyambura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhatt got funded $100,000 LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda pass",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,60",
+    "snippet": "ura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhatt got funded $100,000 LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda passed Adventure Mia Gomez with",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,61",
+    "snippet": "Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhatt got funded $100,000 LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda passed Adventure Mia Gomez withdrew $1,862 Leon Mueller withdr",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500,00",
+    "snippet": "$100,000 Trade our capital. Get paid in hours Pass one challenge. Trade up to $500,000 . Keep up to 95% of every profit. Find your plan 24/7 online support \u00b7 avg. reply under 5 min HQ in Limassol \u00b7 Cyprus Follow us: As fe",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ol \u00b7 Cyprus Follow us: As featured in 50K + Funded traders $5M + Paid this year 140 + Countries paid 4.9 \u2605\u2605\u2605\u2605\u2605 222 Feefo reviews Where you'll trade Six platforms. Trade your way.",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "re funded. Every payout auto-approved in under 24 hours. Swipe to compare plans $10K $20K $50K Popular $100K Account $10,000 One-time fee \u20ac19 Regular price \u20ac38 50% off \u2713 No activation fee after you pass Start now Account $20,000 One-time fee \u20ac",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "plans Challenge While you're earning your funded account Profit target 3% Static drawdown 6% Min trading days None Best-day rule None Max leverage Up to 100\u00d7 Time limit Unlimited Funded The prize Once you're trading our capital Profit tar",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "mediately, no challenge Evaluation phase None Wait time before trading None Trailing drawdown 10% Min trading days for payout 7 Max leverage Up to 50\u00d7 Payouts The prize Fastest path from idea to income First payout After 7 days Profit split Up",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "ited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF LIMITED TIME OFFER On Freedom Plan Code PASS50 See full Freedom rules Strike once. Get funded. Lightning is our most popular pl",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Anytime",
+    "snippet": "rize $500K, freedom to trade Account size $500,000 Profit split Up to 95% Withdrawal frequency Anytime News trading Allowed (add-on) DCA / averaging Allowed What's allowed Pro tools, expert plays News trading Allowed (add-on) Scalping Allowed DCA / ave",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Every 14 days",
+    "snippet": "Profit target for payout None Daily loss limit 5% Max drawdown 10% trailing Withdrawals Every 14 days Scaling Available Profit split Up to 95% PICK YOUR ACCOUNT SIZE One-time fee. Click any size to start the checkout. $5,000 Account size \u20ac29 \u20ac98 \u2192 $10,",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "weekly",
+    "snippet": "026 PAYOUT Bonaventure Yvonne Feb 11, 2026 PAYOUT Geoffrey Bowen Feb 10, 2026 PAYOUT From our channel Strategy talks, weekly updates, and the team on camera. Plain-language breakdowns of how PTB works, what funded trading actually looks like, and answers to the questions traders keep asking.",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "PTB | Plutus Trade Base - Funding Accounts For Traders \ufeff PTB Crypto on BYB I T How it works Plans 1 Step Lightning 1 Step Freedom Adventure Challenge 2 Step Challenge Instant Funding Payouts Be a Partner FAQ Blog Contact Login",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Wise",
+    "snippet": "pproved \ud83c\udf89 third payout this month \ud83d\udd25 18 \ud83c\udf89 9 SK SarahK Funded Today at 14:09 Wise transfer hit in under 2 min. love this place \u2764\ufe0f \u26a1 12 MR MarcoR Today at 14:15 passed the $50K challenge in 6 days \ud83d\ude80 funded account starts monday \ud83d\ude80 21 \ud83d\udc4f 7",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "tial trading period and is processed within 24 hours of approval. All payouts go via Rise (your bank in local currency) or USDT (crypto wallet). Can US traders join? + Yes \u2014 fully supported. US traders get access to TradeLocker, TradingView, cTrader, Mat",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "ithin 24 hours of approval. All payouts go via Rise (your bank in local currency) or USDT (crypto wallet). Can US traders join? + Yes \u2014 fully supported. US traders get access to TradeLocker, TradingView, cTrader, Match Trader, and DXtrade . The only plat",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "deel",
+    "snippet": "Verduidelijking Indien een gebruiker ervoor kiest om aan live-handelen op de markt deel te nemen, vindt deze activiteit volledig buiten het toepassingsgebied van Triple Edge Group LTD en PTB Plutus TradeBase LTD plaats. Geen van beide bedrijven treedt op a",
+    "url": "https://plutustradebase.com/nl/plans/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "your plan 24/7 online support \u00b7 avg. reply under 5 min HQ in Limassol \u00b7 Cyprus Follow us: As featured in 50K + Funded traders $5M + Paid this year 140 + Countries paid 4.9 \u2605\u2605\u2605\u2605\u2605 222 Feefo reviews Where you'll trade Six platforms. Trade your way. * MT5 & cTrader n",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Sca",
+    "snippet": "d What's allowed Pro tools, expert plays News trading Allowed (add-on) Scalping Allowed DCA / averaging Allowed All instruments Forex, Crypto, Indices ONE SIZE. ONE PRICE. Click below to start the $500,000 challenge. $500K $500,000 Account size \u20ac199 \u2192 Single payment: Pay once, take the challenge, and a $500,000 funded a",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "ndent brokers chosen and managed by the user. Hypothetical Performance Disclosure - CFTC Rule 4.41 Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, these results do not represent real trading activity. They",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "atGPT-Image-Jul-3-2025-03_48_12-PM-1.png https://plutustradebase.com/blog/trading-basics-of-successful-trading/ 2025-06-22T08:39:59+00:00 https://plutustradebase.com/wp-content/uploads/2025/06/dee697f7-fb4a-41fc-9d65-c27b98a69efb.webp https://plutustradebase.com/wp-content/uploads/2025/03/image-4.jpg https://plutustradebase.com/w",
+    "url": "https://plutustradebase.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "i dana. Peluang Sangat Baik untuk Veteran Para trader berpengalaman dapat memanfaatkan alat-alat canggih dan opsi leverage kami yang berkualitas tinggi, yang memberikan Anda sumber daya dan kebebasan untuk meningkatkan keterampilan Anda ke tingkat yang lebih tinggi. Maksimalkan Perdagangan Anda Potensi dengan Plutus Trade Base Opsi Penska",
+    "url": "https://plutustradebase.com/id/plans/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Annika Sa",
+    "snippet": "funded $100,000 Nyambura Virtanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhatt got funded $100,000 LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda passed Adventur",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Chinedu Sa",
+    "snippet": "tanen passed Lightning Lucia Wisniewski withdrew $1,246 Annika Said withdrew $1,602 Chinedu Santos withdrew $6,619 Eva Bhatt got funded $100,000 LIVE Kenji Koch withdrew $981 Axel Reyes got funded $10,000 Marko Bensouda passed Adventure Mia Gomez withdrew $1,862",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "MT5 & cTrader not available for clients in the USA",
+    "snippet": "you'll trade Six platforms. Trade your way. * MT5 & cTrader not available for clients in the USA. All other platforms available worldwide. Limassol \u00b7 Cyprus Welcome to PTB In plain English A trading evaluation. Pass once. Keep the profits. That's t",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "That's the whole product. The four plans on this pag",
+    "snippet": "o PTB In plain English A trading evaluation. Pass once. Keep the profits. That's the whole product. The four plans on this page differ in price, account size, and how fast you can withdraw \u2014 but the core flow is identical. 01 Buy a challenge. Pick a plan, pay a one-time fee. You get a d",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "take as long as you need. Averag",
+    "snippet": "enge. Hit the profit target. Stay above the loss limit. No deadline on most plans \u2014 take as long as you need. Average pass time: 9 trading days . 03 Get funded \u00b7 get paid. Trade a funded account with our capital. Keep up to 95% of every profit. Payouts processed in under 24",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trading period Unlimited",
+    "snippet": "fter you pass Start now Profit target 10% Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when funded None Profit split Up to 95% Payouts Daily \u00b7 under 24h 50% OFF LIMITED TIME OFFER On Freedom Plan Code PASS",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Max leverag",
+    "snippet": "Profit target 3% Static drawdown 6% Min trading days None Best-day rule None Max leverage Up to 100\u00d7 Time limit Unlimited Funded The prize Once you're trading our capital Profit target for payout \u2014 Static drawdown 4% Daily loss limit 2%",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Time limit Unlimited",
+    "snippet": "drawdown 6% Min trading days None Best-day rule None Max leverage Up to 100\u00d7 Time limit Unlimited Funded The prize Once you're trading our capital Profit target for payout \u2014 Static drawdown 4% Daily loss limit 2% Best day 40% First payout After 7",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "HE465348",
+    "snippet": "ple Edge Group LTD, a company incorporated under the laws of the Republic of Cyprus (Company No. HE465348). All content, products, and services offered through this site are provided under the management and supervision of Triple Edge Group LTD. The brand PlutusTradeBase (",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2025-00638",
+    "snippet": "brand owned by PTB Plutus TradeBase LTD, incorporated under the laws of Saint Lucia (Reg. No. 2025-00638). Company Details Triple Edge Group LTD Registered Office: Omirou & Nikis, PAKOVA CENTRE, BLOCK A, 2nd Floor, Office 205, 3095 Limassol, Cyprus. Role: Educational t",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted in jurisdictions where such use violates local laws (including the United States)",
+    "snippet": "Trader 5 (MT5) platform within the PlutusTradeBase ecosystem. Access to MT5 will be restricted in jurisdictions where such use violates local laws (including the United States). Educational Use Only All content and services provided through Triple Edge Group LTD are for informational and educational purposes only. The programs and account",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable, but you can purchase another challenge at any time",
+    "snippet": "dictional rules. What happens if I fail a challenge? + The challenge fee is non-refundable, but you can purchase another challenge at any time. On Lightning specifically, since the activation fee is only charged after you pass, failing means you only ever paid the small upfront challenge fee \u2014 never the activat",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable except as stated here",
+    "snippet": "sers do not deposit trading capital. The challenge fee is the user's cost and is non-refundable except as stated here. Program outcomes depend solely on individual performance and adherence to the stated rules and objectives. Live Trading Clarification If a user chooses to engage in l",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refunds and Non-Investment Statement\n All payments made through the PlutusTradeBase platform are for access to education",
+    "snippet": "ia, Iran, Lebanon, Iraq, Yemen, North Korea, Russia, Ukraine, Belarus, and Myanmar. Refunds and Non-Investment Statement All payments made through the PlutusTradeBase platform are for access to educational software and services only. Payments are non-refundable, unless unused. \"Unused\" means the user has not logged into or activated their",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable, unless unused",
+    "snippet": "platform are for access to educational software and services only. Payments are non-refundable, unless unused. \"Unused\" means the user has not logged into or activated their account within 14 days of purchase. No deposits are accepted for investment purposes. Users do not depos",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading Allowed (add-on) \n Expert Advisors Allowed \n Copy trading Allowed \n All instruments Forex, Crypto, Indices ",
+    "snippet": "yout After 7 days Profit split Up to 95% What's allowed Trade your way News trading Allowed (add-on) Expert Advisors Allowed Copy trading Allowed All instruments Forex, Crypto, Indices PICK YOUR ACCOUNT SIZE One-time fee. Click any size to start the checkout. $20,000 Account size \u20ac14 \u20ac28 \u2192 $50,000 Account size \u20ac24 \u20ac48 \u2192 Most popular $100,",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading Allowed (add-on) \n DCA / averaging Allowed \n \n \n What's allowed\n Pro tools, expert plays\n \n \n News trading ",
+    "snippet": "Account size $500,000 Profit split Up to 95% Withdrawal frequency Anytime News trading Allowed (add-on) DCA / averaging Allowed What's allowed Pro tools, expert plays News trading Allowed (add-on) Scalping Allowed DCA / averaging Allowed All instruments Forex, Crypto, Indices ONE SIZE. ONE PRICE. Click below to start the $500,000 challeng",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed\n \n \n Copy Trading Allowed\n \n tot 100\nLeverage\n \n Funded Live Account\n 7%\nWinstdoel\n 4%\nTrailing Dra",
+    "snippet": "count 3% Winstdoel 6% Static Drawdown 0 Minimale Handelsdagen DCA Allowed News Trading Allowed Copy Trading Allowed tot 100 Leverage Funded Live Account 7% Winstdoel 4% Trailing Drawdown 7 Minimale Handelsdagen First Reward 7 days DCA Allowed News Trading Allowed Copy Trading Allowed tot 100 Leverage tot en met 95% Winstverdeling * Activa",
+    "url": "https://plutustradebase.com/nl/plans/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Allowed\n \n \n Copy Trading Allowed\n \n tot 100\nLeverage\n tot en met 95%\nWinstverdeling\n * Activation fee requ",
+    "snippet": "railing Drawdown 7 Minimale Handelsdagen First Reward 7 days DCA Allowed News Trading Allowed Copy Trading Allowed tot 100 Leverage tot en met 95% Winstverdeling * Activation fee required after passing (check rules) Choose the account you want: Accountgrootte $20,000 Prijs \u20ac49 Plan ophalen Accountgrootte $50,000 Prijs \u20ac79 Plan ophalen Acc",
+    "url": "https://plutustradebase.com/nl/plans/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eatured in\n \n \n \n \n \n 50K + \n Funded traders\n \n $5M + \n Paid this year\n \n 140 + \n Countries paid\n \n 4",
+    "snippet": "upport \u00b7 avg. reply under 5 min HQ in Limassol \u00b7 Cyprus Follow us: As featured in 50K + Funded traders $5M + Paid this year 140 + Countries paid 4.9 \u2605\u2605\u2605\u2605\u2605 222 Feefo reviews Where you'll trade Six platforms. Trade your way. * MT5 & cTrader not available for clients in t",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadline on most plans \u2014 take as long as you need",
+    "snippet": "02 Pass the challenge. Hit the profit target. Stay above the loss limit. No deadline on most plans \u2014 take as long as you need. Average pass time: 9 trading days . 03 Get funded \u00b7 get paid. Trade a funded account with our capital. Keep up to 95% of every profit. Payouts processed in u",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earning your funded account\n \n \n Profit target 3% \n Static drawdown 6% \n Min trading days None \n Best-day rule None \n Ma",
+    "snippet": "ou pass \u2713 Our most popular plan Swipe to compare plans Challenge While you're earning your funded account Profit target 3% Static drawdown 6% Min trading days None Best-day rule None Max leverage Up to 100\u00d7 Time limit Unlimited Funded The prize Once you're trading our capital Profit target for payout \u2014 Static drawdown 4% Daily loss limi",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Expert Advisors Allowed \n Copy trading Allowed \n All instruments Forex, Crypto, Indices \n \n \n \n PICK YOUR ACCOUNT SIZE\n ",
+    "snippet": "Up to 95% What's allowed Trade your way News trading Allowed (add-on) Expert Advisors Allowed Copy trading Allowed All instruments Forex, Crypto, Indices PICK YOUR ACCOUNT SIZE One-time fee. Click any size to start the checkout. $20,000 Account size \u20ac14 \u20ac28 \u2192 $50,000 Account size \u20ac24 \u20ac48 \u2192 Most popular $100,000 Account size \u20ac29 \u20ac58 \u2192 $200",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ea to income",
+    "snippet": "Log in, trade, collect your first payout within seven days. The fastest path from idea to income. \u2713 Live funded from day one \u2713 No challenge \u2014 ever \u2713 Fastest path from idea to income Swipe to compare plans Live account Trading immediately, no challenge E",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@plutustradebase.com",
+    "snippet": "ve trading sessions and payout drops. Join 8,400+ members \u2192 Email Email us support@plutustradebase.com For detailed questions, account issues, or anything that needs a paper trail. Reply within 2 hours \u2192 Common questions Answers to the things you'd ask in DM",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "24 hours",
+    "snippet": "get paid. Trade a funded account with our capital. Keep up to 95% of every profit. Payouts processed in under 24 hours, sent to your bank or wallet. That's it. You never deposit a cent of your own capital. You only ever pay the one-time challenge fee. \ufeff Account sizes & pricin",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "48 hours",
+    "snippet": "t path from idea to income First payout After 7 days Profit split Up to 95% Withdrawal frequency On-demand Payout speed 24-48 hours Min withdrawal $100 What's allowed Trade your way News trading Allowed (add-on) Expert Advisors Allowed Copy trading Allowed All instruments Forex, C",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instant",
+    "snippet": "ready. 1-Step Challenge only. No two-step gauntlet on any plan. Freedom Day-one payouts Lightning Lowest entry Adventure $500K \u00b7 Experts Instant No challenge 01 / 04 \" I want to get paid the day I earn it. \" Pass once. Cross the buffer. Every dollar above is yours \u2014 auto-approved in under 24 hours",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plans!\n \n Meld u nu aan\n \n \n \n \n Plutus Trade Base \u2014 financiert serieuze handelaren sinds 2024",
+    "snippet": "ur trading to the next level? Join Plutus Trade Base today and make the most of our scaling plans! Meld u nu aan Plutus Trade Base \u2014 financiert serieuze handelaren sinds 2024. Gebaseerd op transparantie. Beschikt over een vergunning van Cyprus. Wordt beheerd door Triple Edge Group LTD. support@plutustradebase.com Plannen Lightning Free",
+    "url": "https://plutustradebase.com/nl/plans/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans!\n \n Jetzt teilnehmen\n \n \n \n \n Plutus Trade Base \u2013 seit 2024 Finanzierungen f\u00fcr ernsthafte Trader",
+    "snippet": "ur trading to the next level? Join Plutus Trade Base today and make the most of our scaling plans! Jetzt teilnehmen Plutus Trade Base \u2013 seit 2024 Finanzierungen f\u00fcr ernsthafte Trader. Auf Transparenz aufgebaut. In Zypern lizenziert. Betrieben von Triple Edge Group LTD. support@plutustradebase.com Pl\u00e4ne Lightning Freedom Adventure 2 Step C",
+    "url": "https://plutustradebase.com/de/plans/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans!\n \n Join Now\n \n \n \n \n Plutus Trade Base \u2014 \u0646\u062f\u0639\u0645 \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644\u064a\u0646 \u0627\u0644\u062c\u0627\u062f\u064a\u0646 \u0645\u0646\u0630 \u0639\u0627\u0645 2024",
+    "snippet": "ur trading to the next level? Join Plutus Trade Base today and make the most of our scaling plans! Join Now Plutus Trade Base \u2014 \u0646\u062f\u0639\u0645 \u0627\u0644\u0645\u062a\u062f\u0627\u0648\u0644\u064a\u0646 \u0627\u0644\u062c\u0627\u062f\u064a\u0646 \u0645\u0646\u0630 \u0639\u0627\u0645 2024. \u0646\u0631\u062a\u0643\u0632 \u0639\u0644\u0649 \u0627\u0644\u0634\u0641\u0627\u0641\u064a\u0629. \u0645\u0631\u062e\u0635\u0629 \u0641\u064a \u0642\u0628\u0631\u0635. \u062a\u062f\u064a\u0631\u0647\u0627 \u0634\u0631\u0643\u0629 Triple Edge Group LTD. support@plutustradebase.com \u062e\u0637\u0637 Lightning Freedom Adventure 2 Step Challenge Instant Fundin",
+    "url": "https://plutustradebase.com/ar/plans/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee after you pass \n Start now \n Account $20,000 \n One-time fee \u20ac29 Regular price \u20ac58 50% off \u2713 No activation",
+    "snippet": "0K Popular $100K Account $10,000 One-time fee \u20ac19 Regular price \u20ac38 50% off \u2713 No activation fee after you pass Start now Account $20,000 One-time fee \u20ac29 Regular price \u20ac58 50% off \u2713 No activation fee after you pass Start now Account $50,000 One-time fee \u20ac69 Regular price \u20ac138 50% off \u2713 No activation fee after you pass Start now Account $1",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee after you pass \n Start now \n Account $100,000 \n One-time fee \u20ac124 Regular price \u20ac248 50% off \u2713 No activat",
+    "snippet": "ass Start now Account $50,000 One-time fee \u20ac69 Regular price \u20ac138 50% off \u2713 No activation fee after you pass Start now Account $100,000 One-time fee \u20ac124 Regular price \u20ac248 50% off \u2713 No activation fee after you pass Start now Profit target 10% Max loss 10% Max daily loss 3% Trading period Unlimited Best day rule 50% Profit target when fun",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee is only due after you pass",
+    "snippet": "g is our most popular plan \u2014 the fast entry path. Pay a small starter fee today; the activation fee is only due after you pass. No reset traps, no minimum trading days, no best-day rule. \u2713 Split-pay: activation only after you pass \u2713 Our most popular plan Swipe to compare plans Challenge",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee",
+    "snippet": "y once, take the challenge, and a $500,000 funded account is yours when you pass. No activation fee. See full Adventure rules Skip the challenge. Trade now. Instant Funding gives you a live funded account from day one. No evaluation, no phases, no waiting perio",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee only kicks in after you pass \u2014 if you don't make it, that's all you lose",
+    "snippet": "nt to start cheap and prove myself. \" Pay a small fee today to take the challenge. Activation fee only kicks in after you pass \u2014 if you don't make it, that's all you lose. The lowest-risk way to test our platform with your skills. \u2713 Lowest upfront cost in the lineup \u2713 Activation fee only after you pass \u2713 No challenge time limit \u2713 Same",
+    "url": "https://plutustradebase.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "YB I T How it works Plans 1 Step Lightning 1 Step Freedom Adventure Challenge 2 Step Challenge Instant Funding Payouts Be a Partner FAQ Blog Contact Login Get Funded How it works Plans 1 Step Lightning 1 Step Freedom Adventure Challenge 2 Step Challenge Ins",
+   "url": "https://plutustradebase.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "tus Trade Base - Funding Accounts For Traders \ufeff PTB Crypto on BYB I T How it works Plans 1 Step Lightning 1 Step Freedom Adventure Challenge 2 Step Challenge Instant Funding Payouts Be a Partner FAQ Blog Contact Login Get Funded How it works P",
+   "url": "https://plutustradebase.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "\ufeff PTB Crypto on BYB I T How it works Plans 1 Step Lightning 1 Step Freedom Adventure Challenge 2 Step Challenge Instant Funding Payouts Be a Partner FAQ Blog Contact Login Get Funded How it works Plans 1 Step Lightning 1 Step Freedom Adventure Chal",
+   "url": "https://plutustradebase.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "DXtrade",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "l \u00b7 Cyprus Follow us: As featured in 50K + Funded traders $5M + Paid this year 140 + Countries paid 4.9 \u2605\u2605\u2605\u2605\u2605 222 Feefo reviews Where you'll t",
+  "e processed. Names, countries, dates, amounts \u2014 pulled straight from our records. Soraya Linden Mar 2, 2026 PAYOUT Ronan Delacroix Mar 2, 2026 PAYOUT Nelson Julio Lantigu",
+  "amounts \u2014 pulled straight from our records. Soraya Linden Mar 2, 2026 PAYOUT Ronan Delacroix Mar 2, 2026 PAYOUT Nelson Julio Lantigua Mar 2, 2026 PASSED Kai Odonnell",
+  "OUT Ronan Delacroix Mar 2, 2026 PAYOUT Nelson Julio Lantigua Mar 2, 2026 PASSED Kai Odonnell Feb 24, 2026 PAYOUT Kateryna Nesina Feb 24, 2026 PAYOUT Ezra Lloyd Feb 24,",
+  "UT Nelson Julio Lantigua Mar 2, 2026 PASSED Kai Odonnell Feb 24, 2026 PAYOUT Kateryna Nesina Feb 24, 2026 PAYOUT Ezra Lloyd Feb 24, 2026 PAYOUT Loic Biron Feb 22, 2026",
+  "2026 PASSED Kai Odonnell Feb 24, 2026 PAYOUT Kateryna Nesina Feb 24, 2026 PAYOUT Ezra Lloyd Feb 24, 2026 PAYOUT Loic Biron Feb 22, 2026 PASSED Soraya Linden Mar 2, 20"
+ ],
+ "errors": []
+}

@@ -1,0 +1,24 @@
+{
+ "slug": "fidelcrest",
+ "name": "Fidelcrest",
+ "category": "Forex/CFD",
+ "url": "https://fidelcrest.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "http://fidelcrest.com/",
+   "kind": "home",
+   "chars": 678
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 678,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

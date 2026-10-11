@@ -1,0 +1,163 @@
+{
+ "slug": "jane-street",
+ "name": "Jane Street",
+ "category": "Institutional",
+ "url": "https://www.janestreet.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.janestreet.com/",
+   "kind": "home",
+   "chars": 3671
+  },
+  {
+   "url": "https://www.janestreet.com:443/contact-us/",
+   "kind": "page",
+   "chars": 3340
+  },
+  {
+   "url": "https://www.janestreet.com/join-jane-street/programs-and-events/?location=north-america&program-type=all-programs&event-type=all-events&show-programs=true&show-events=false",
+   "kind": "page",
+   "chars": 6506
+  }
+ ],
+ "page_count": 3,
+ "total_chars": 13519,
+ "findings": {
+  "prices": [
+   {
+    "value": "50,00",
+    "snippet": "ts only (not faculty). It is a financial award \u2014 one year of tuition and fees plus a $50,000 stipend \u2014 to recognize excellence in mathematics, computer science, physics, and statistics. This program supports students while they continue their studies at their h",
+    "url": "https://www.janestreet.com/join-jane-street/programs-and-events/?location=north-america&program-type=all-programs&event-type=all-events&show-programs=true&show-events=false",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "WiSE",
+    "snippet": "by engaging and collaborating with academic researchers. Learn More PROGRAM WiSE ACCEPTING APPLICATIONS Self-identifying women, transgender, and/or gender-expansive students about to start their first year of university learn how math and compu",
+    "url": "https://www.janestreet.com/join-jane-street/programs-and-events/?location=north-america&program-type=all-programs&event-type=all-events&show-programs=true&show-events=false",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "es and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cookies by selecting \u201cAccept\u201d or \u201cReject\u201d. For information regarding our cookie practices, see Jane Street\u2019s Ad and Cookie Policy . Accept A",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "rtaken in Europe by Jane Street Financial Limited, an investment firm authorized and regulated by the U.K. Financial Conduct Authority, and Jane Street Netherlands B.V., an investment firm authorized and regulated by the Netherlands Authority for the Financial Markets ( A",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Jane Street Group, LLC",
+    "snippet": "Home :: Jane Street Jane Street Group, LLC uses cookies and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cook",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "uses cookies and similar technologies, inc",
+    "snippet": "Home :: Jane Street Jane Street Group, LLC uses cookies and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cookies by selecting \u201cAccept\u201d or \u201cReject\u201d. For",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s are provided in the U.S. by Jane Street Capital, LLC",
+    "snippet": "rtunity Employer \u00a9 2026 Jane Street Group, LLC. All rights reserved. Services are provided in the U.S. by Jane Street Capital, LLC and Jane Street Execution Services, LLC, each of which is a SEC-registered broker dealer and member of FINRA ( www.finra.org ). Regulated activities are undertaken in E",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "and Jane Street Execution Services, LLC",
+    "snippet": ". All rights reserved. Services are provided in the U.S. by Jane Street Capital, LLC and Jane Street Execution Services, LLC, each of which is a SEC-registered broker dealer and member of FINRA ( www.finra.org ). Regulated activities are undertaken in Europe by Jane Street Financial Limited,",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "are undertaken in Europe by Jane Street Financial Limited",
+    "snippet": "egistered broker dealer and member of FINRA ( www.finra.org ). Regulated activities are undertaken in Europe by Jane Street Financial Limited, an investment firm authorized and regulated by the U.K. Financial Conduct Authority, and Jane Street Netherlands B.V., an investment firm authorized and regulated by t",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Conduct Authority, and Jane Street Netherlands B.V",
+    "snippet": "inancial Limited, an investment firm authorized and regulated by the U.K. Financial Conduct Authority, and Jane Street Netherlands B.V., an investment firm authorized and regulated by the Netherlands Authority for the Financial Markets ( Autoriteit Financi\u00eble Markten ), and in Hong Kong by Jane Street H",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Kong Limited",
+    "snippet": "ial Markets ( Autoriteit Financi\u00eble Markten ), and in Hong Kong by Jane Street Hong Kong Limited, a regulated entity under the Hong Kong Securities and Futures Commission (CE No. BAL548). Each of these entities is a wholly owned subsidiary of Jane Street Group, LLC.",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "is a wholly owned subsidiary of Jane Street Group, LLC",
+    "snippet": "Hong Kong Securities and Futures Commission (CE No. BAL548). Each of these entities is a wholly owned subsidiary of Jane Street Group, LLC. This material is provided for informational purposes only and does not constitute an offer or solicitation for the purchase or sale of any security or other financial",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earch-driven trading firm where curious people work together on deep\u00a0problems",
+    "snippet": "SOLVING THE PUZZLE OF GLOBAL MARKETS Jane Street is a research-driven trading firm where curious people work together on deep problems. Join us We commit our capital, global reach, technology, and expertise to help institutions meet their trading goals. Partner with us Machine learning",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each, technology, and expertise to help institutions meet their trading\u00a0goals",
+    "snippet": "s people work together on deep problems. Join us We commit our capital, global reach, technology, and expertise to help institutions meet their trading goals. Partner with us Machine learning at Jane Street We believe deep learning is the future of quantitative trading. Learn more Our people, our cultu",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earning at\u00a0Jane\u00a0Street\n We believe deep learning is the future of quantitative\u00a0trading",
+    "snippet": "to help institutions meet their trading goals. Partner with us Machine learning at Jane Street We believe deep learning is the future of quantitative trading. Learn more Our people, our culture Discover who we are, and how we collaborate. Learn more Technical to the core We build low-latency networks,",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n \n \n \n \n Our people, our culture\n Discover who we are, and how we collaborate",
+    "snippet": "ng at Jane Street We believe deep learning is the future of quantitative trading. Learn more Our people, our culture Discover who we are, and how we collaborate. Learn more Technical to the core We build low-latency networks, hack compilers and design distributed systems. Learn more Start y",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n \n \n \n \n Technical to the\u00a0core\n We build low-latency networks, hack compilers and design distributed systems",
+    "snippet": "re Our people, our culture Discover who we are, and how we collaborate. Learn more Technical to the core We build low-latency networks, hack compilers and design distributed systems. Learn more Start your future at Jane Street Strengthen your problem-solving skills with real-world challenges and a supportive community.",
+    "url": "https://www.janestreet.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "media@janestreet.com",
+    "snippet": "6 Directions +65 6393 6000 CONTACT US For media inquiries, please email: media@janestreet.com If you would like to get in touch about sponsorships, please email: sponsorship-inquiries@janestreet.com The next great idea will come from you View open ro",
+    "url": "https://www.janestreet.com:443/contact-us/",
+    "kind": "page"
+   },
+   {
+    "value": "sponsorship-inquiries@janestreet.com",
+    "snippet": "nestreet.com If you would like to get in touch about sponsorships, please email: sponsorship-inquiries@janestreet.com The next great idea will come from you View open roles Who We Are What We Do The Latest Culture Join Jane Street Contact Us \u7b80\u4f53\u4e2d\u6587 | Disclos",
+    "url": "https://www.janestreet.com:443/contact-us/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

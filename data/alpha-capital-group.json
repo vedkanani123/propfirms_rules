@@ -1,0 +1,12 @@
+{
+ "slug": "alpha-capital-group",
+ "name": "Alpha Capital Group",
+ "category": "Forex/CFD",
+ "url": "https://alphacapitalgroup.uk/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

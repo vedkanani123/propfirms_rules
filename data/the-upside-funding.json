@@ -1,0 +1,12 @@
+{
+ "slug": "the-upside-funding",
+ "name": "The Upside Funding",
+ "category": "Forex/CFD",
+ "url": "https://theupsidefunding.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "slug": "dna-funded",
+ "name": "DNA Funded",
+ "category": "Forex/CFD",
+ "url": "https://dnafunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://dnafunded.com/",
+   "kind": "home",
+   "chars": 3363
+  },
+  {
+   "url": "https://dnafunded.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 417
+  },
+  {
+   "url": "https://dnafunded.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5565
+  },
+  {
+   "url": "https://dnafunded.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1984
+  },
+  {
+   "url": "https://dnafunded.com/faq-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 453
+  },
+  {
+   "url": "https://dnafunded.com/product_cat-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 388
+  },
+  {
+   "url": "https://dnafunded.com/faq/trading-rules/",
+   "kind": "page",
+   "chars": 7962
+  },
+  {
+   "url": "https://dnafunded.com/faq/24-hour-challenge/",
+   "kind": "page",
+   "chars": 3474
+  },
+  {
+   "url": "https://dnafunded.com/faq/drawdown/",
+   "kind": "page",
+   "chars": 4323
+  },
+  {
+   "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+   "kind": "page",
+   "chars": 2202
+  },
+  {
+   "url": "https://dnafunded.com/product/10000-rapid-challenge/",
+   "kind": "page",
+   "chars": 2202
+  },
+  {
+   "url": "https://dnafunded.com/product/100000-rapid-challenge/",
+   "kind": "page",
+   "chars": 2203
+  },
+  {
+   "url": "https://dnafunded.com/product/25000-rapid-challenge/",
+   "kind": "page",
+   "chars": 2202
+  },
+  {
+   "url": "https://dnafunded.com/wp-content/uploads/2026/08/DNA-Funded-Ltd-Rules-and-Conditions-V2-31.08.26.pdf",
+   "kind": "page",
+   "chars": 151893
+  },
+  {
+   "url": "https://dnafunded.com/faq/purchase/",
+   "kind": "page",
+   "chars": 6923
+  },
+  {
+   "url": "https://dnafunded.com/faq/kyc/",
+   "kind": "page",
+   "chars": 3707
+  },
+  {
+   "url": "https://dnafunded.com/faq/trading-platform/",
+   "kind": "page",
+   "chars": 4705
+  },
+  {
+   "url": "https://dnafunded.com/faqs/",
+   "kind": "page",
+   "chars": 28215
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 232198,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "$50,000 Rapid Challenge Rapid Challenge Rules Minimum Trading Days 3 Profit Target 5% Max Daily Loss 3% Max Total Loss 5% Profit Split Up to 90% Add-ons \u2139 Profit Split \u2013 Keep 90% of profits instead of 80%. Earlier Payout \u2013 Shorten the",
+    "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "nge Rapid Challenge Rules Minimum Trading Days 3 Profit Target 5% Max Daily Loss 3% Max Total Loss 5% Profit Split Up to 90% Add-ons \u2139 Profit Split \u2013 Keep 90% of profits instead of 80%. Earlier Payout \u2013 Shorten the payout waiting period",
+    "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": "lenge Rules Minimum Trading Days 3 Profit Target 5% Max Daily Loss 3% Max Total Loss 5% Profit Split Up to 90% Add-ons \u2139 Profit Split \u2013 Keep 90% of profits instead of 80%. Earlier Payout \u2013 Shorten the payout waiting period to 7 days instead of",
+    "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "30",
+    "snippet": "d or disqualified. - New purchases (after February 3): Daily profit distribution is 30% of the requested payout. - Old purchases (before February 3): Daily profit distribution is 40% of the requested payout. Example 1: If your profit cap is $1,000 and you request $1,250, the $1,0",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "requested payout. - Old purchases (before February 3): Daily profit distribution is 40% of the requested payout. Example 1: If your profit cap is $1,000 and you request $1,250, the $1,000 profit cap is used. At 30% distribution limit, your daily max is $300. Example 2: If your p",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "Profit Target 5% Max Daily Loss 3% Max Total Loss 5% Profit Split Up to 90% Add-ons \u2139 Profit Split \u2013 Keep 90% of profits instead of 80%. Earlier Payout \u2013 Shorten the payout waiting period to 7 days instead of 14. Demo Reset \u2013 Reset your account if you fail during th",
+    "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "ou\u2019ll need at least $125 in your account to request a withdrawal. That way, once the 80% split is applied, you\u2019ll receive the minimum $100 payout. In case the amount gets below $100 but greater than $1 after profit split, the payout request will be denied and the",
+    "url": "https://dnafunded.com/faqs/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "tsch Espa\u00f1ol \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200f \u65e5\u672c\u8a9e $50,000 Rapid Challenge Rapid Challenge Rules Minimum Trading Days 3 Profit Target 5% Max Daily Loss 3% Max Total Loss 5% Profit Split Up to 90% Add-ons \u2139 Profit Split \u2013 Keep 90% of profits instead of 80%. Earlier",
+    "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "0",
+    "snippet": "simulated funded capital. 0 + Trading Assets 0 Challenge Options $ 0 k Maximum Funding How our challenges work Buy a challenge We offer a range of options designed to suit different trading approaches, experience levels and go",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "600,00",
+    "snippet": "ur financial blueprint with DNA Funded. Become a DNA Funded trader and manage up to $600,000 in simulated funded capital. 0 + Trading Assets 0 Challenge Options $ 0 k Maximum Funding How our challenges work Buy a challenge We of",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "simulated funded capital. 0 + Trading Assets 0 Challenge Options $ 0 k Maximum Funding How our challenges work Buy a challenge We offer a range of options designed to suit different trading approaches, experience levels and",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "rofit distribution is 40% of the requested payout. Example 1: If your profit cap is $1,000 and you request $1,250, the $1,000 profit cap is used. At 30% distribution limit, your daily max is $300. Example 2: If your profit cap is $1,000 and you request $850,",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "1,25",
+    "snippet": "0% of the requested payout. Example 1: If your profit cap is $1,000 and you request $1,250, the $1,000 profit cap is used. At 30% distribution limit, your daily max is $300. Example 2: If your profit cap is $1,000 and you request $850, the $850 request is us",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "300",
+    "snippet": "$1,250, the $1,000 profit cap is used. At 30% distribution limit, your daily max is $300. Example 2: If your profit cap is $1,000 and you request $850, the $850 request is used. At 30% distribution limit, your daily max is $255. Note: Profits from partial",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "850",
+    "snippet": "it, your daily max is $300. Example 2: If your profit cap is $1,000 and you request $850, the $850 request is used. At 30% distribution limit, your daily max is $255. Note: Profits from partial closures are consolidated into a single entry on the final clos",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "255",
+    "snippet": "request $850, the $850 request is used. At 30% distribution limit, your daily max is $255. Note: Profits from partial closures are consolidated into a single entry on the final closure day for payout calculations. News Trading and Corporate Actions News Tra",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "r selected multiplier determines your potential payout. For example, if you choose a $25 stake with a 2x multiplier, your potential payout is $50. To pass, you must reach the required profit target within the 24-hour period while staying within the challeng",
+    "url": "https://dnafunded.com/faq/24-hour-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "or example, if you choose a $25 stake with a 2x multiplier, your potential payout is $50. To pass, you must reach the required profit target within the 24-hour period while staying within the challenge rules, including the trailing drawdown limit. The chal",
+    "url": "https://dnafunded.com/faq/24-hour-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "75",
+    "snippet": "one single asset. For example, if your required profit target is $100, no more than $75 can come from trading one asset such as XAUUSD. The remaining profit must come from another asset. The trailing drawdown moves up as your account balance or equity incr",
+    "url": "https://dnafunded.com/faq/24-hour-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "10,40",
+    "snippet": "Previous Day\u2019s Balance \u00d7 Limit / 100 For example, if the previous day\u2019s balance was $10,400 and the limit is 5% Note: daily drawdown is not applicable for instant funding. What is maximum total drawdown? For 1 phase, 2 phase and rapid challenge, your lifetime",
+    "url": "https://dnafunded.com/faq/drawdown/",
+    "kind": "page"
+   },
+   {
+    "value": "104,00",
+    "snippet": "this limit, the account will be breached. Example: If the previous day\u2019s equity was $104,000 and the limit is 5%, then: ($104,000 \u00d7 5) / 100 = $5,200. The account will breach if the equity drops below $98,800 ($104,000 \u2013 $5,200). For instant funding, your tota",
+    "url": "https://dnafunded.com/faq/drawdown/",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "et within the 24-hour period while staying within the challenge rules, including the trailing drawdown limit. The challenge also includes a 75% profit allocation rule per asset. This means no more than 75% of the required profit target can come from one single asset. For",
+    "url": "https://dnafunded.com/faq/24-hour-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "static",
+    "snippet": "rawdown What is maximum daily drawdown? Our daily drawdown is balance-based. It is a static drawdown with a fixed percentage of the end-of-day snapshot of an account\u2019s balance At the end of each trading day (10pm UTC), the account balance is used as the reference point",
+    "url": "https://dnafunded.com/faq/drawdown/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "the weekend? Weekend trading (placing, modifying, or closing trades) is allowed for Cryptocurrencies. For all other markets, trades can be held over the weekend but cannot be executed. Note: Weekend trading is strictly prohibited for the Rapid, Instant Fundin",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "y one time on the trading platform. Maximum Total Exposure Limits Forex (excluding USDCNH): 100 lots per symbol Metals (excluding Gold, Silver): 50 lots per symbol Gold: 30 lots per symbol Silver: 10 lots per symbol Oil: 50 lots per symbol Indices (exc",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "drawdown is trailing. This means when your account makes profit, the drawdown limit rises accordingly. Your lifetime drawdown is set at 4%, and if you start with a $10,000 account, your drawdown limit would be $9,600. If your account grows to $11,000, the dr",
+    "url": "https://dnafunded.com/faq/drawdown/",
+    "kind": "page"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "o make a withdrawal, if so they will process the payout either via Cryptocurrency or Bank Transfer. Please notice that once you create a Funded account, you will be required to fill out the Payment Method form, where you will provide your preferred payment method to",
+    "url": "https://dnafunded.com/faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "ing a withdrawal, you can choose to receive payment in the form of: Cryptocurrency (USDT, BTC, etc) International Bank Transfer Please note, withdrawals will be subject to fees according to the method chosen: \u2013 1% for Cryptocurrency \u2013 $50 for International",
+    "url": "https://dnafunded.com/faqs/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Copy Trading from non-DNA Funded Accounts Funded Stage Only: Latency Arbitrage News Scalping Reverse Hedging Between Accounts Hedge Arbitrage Trading Tick Scalping Grid Trading Martingale Strategies One-Sided Betting Important: Copying or mirroring trades between accounts with different users (unique email addresses) or from external acco",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "trades at a predefined price level, capping potential losses when the market moves unfavorably. Employ Risk Management Techniques: Utilize position sizing and diversification to spread risk, reducing the impact of drawdowns. Exercise Patience: Secure profits when",
+    "url": "https://dnafunded.com/faq/drawdown/",
+    "kind": "page"
+   },
+   {
+    "value": "Mas",
+    "snippet": "o payment options for accessing our challenges, including credit cards like Visa and Mastercard, as well as cryptocurrencies such as: \u2013 TRC20 \u2013 ERC20 \u2013 BTC We highly recommend using crypto for a smoother experience! I bought the wrong challenge, can I get a swap or refund? As per our Terms & Conditions, we don\u2019t process refunds. We can ho",
+    "url": "https://dnafunded.com/faq/purchase/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Become a DNA Funded trader and manag",
+    "snippet": "Deutsch Espa\u00f1ol \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200f \u65e5\u672c\u8a9e Unlock your financial blueprint with DNA Funded. Become a DNA Funded trader and manage up to $600,000 in simulated funded capital. 0 + Trading Assets 0 Challenge Options $ 0 k Maximum Funding How our challenges work Buy a c",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Prove yourself and navigate market conditions, manag",
+    "snippet": "Demonstrate your skills Apply your knowledge and showcase your trading experience. Prove yourself and navigate market conditions, manage risk, and execute your strategy within the challenge rules. Start Trading Successfully complete the challenge to gain access to a DNA Funded trading account.",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "this booster to your challenge and benefit from an inc",
+    "snippet": "ur challenges at checkout for an enhanced evaluation experience. Profit Split\u200b Add this booster to your challenge and benefit from an increased profit split from 80% to 90%!\u200b Profit Booster Profit Booster Early Payout Save a week on your payouts! Add this booster to your challenge and benefit from",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Reset your account if you fail during the demo stag",
+    "snippet": "lenge and benefit from a reduced payout frequency from 14 to 7 days.\u200b Demo Reset Reset your account if you fail during the demo stage. Trade with precision on TradeLocker Trade with precision on TradeLocker Check out our asset range and spreads quality, or download the platforms yourself.",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Complaint Manag",
+    "snippet": "Website Terms and Conditions Privacy Policy Participant Verification Policy Complaint Management Policy RISK DISCLOSURE: All information provided on this site is intended solely for the educational purposes related to trading on financial markets and does",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sample-pag",
+    "snippet": "funded.com/wp-content/uploads/2025/08/DNA-FUNDED-DASHBOARD.png https://dnafunded.com/sample-page/ 2024-08-28T01:59:08+00:00 https://dnafunded.com/launching-soon/ 2024-09-19T07:55:34+00:00 https://dnafunded.com/wp-content/uploads/2024/09/dna-funded-logo-1024x145.png",
+    "url": "https://dnafunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "orbital-wait-payment-pag",
+    "snippet": "unded.com/dna-funded-privacy-policy/ 2024-11-15T04:57:33+00:00 https://dnafunded.com/orbital-wait-payment-page/ 2024-12-04T04:03:58+00:00 https://dnafunded.com/promotions/black-friday-promotion/ 2025-11-26T12:08:20+00:00 https://dnafunded.com/wp-content/uploads/2025/11/Rectangle",
+    "url": "https://dnafunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Promo-page-imag",
+    "snippet": "2025/12/image-20251216-011229-1.png https://dnafunded.com/wp-content/uploads/2026/02/Promo-page-image-819x1024.jpg",
+    "url": "https://dnafunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "prohibited from the following countries: Australia, Saint Lucia, Cuba, Iran, Iraq, Democratic People\u2019s Republic of Korea",
+    "snippet": "f contract, with no exceptions. What are the Restricted Territory areas? Trading is prohibited from the following countries: Australia, Saint Lucia, Cuba, Iran, Iraq, Democratic People\u2019s Republic of Korea (North Korea), Myanmar, Russia (and the Crimea, Donetsk, and Luhansk ), Ukraine, Somalia, Syria, Central African Republic, Mali, Democr",
+    "url": "https://dnafunded.com/faq/purchase/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund? As per our Terms & Conditions, we don\u2019t process refunds",
+    "snippet": "crypto for a smoother experience! I bought the wrong challenge, can I get a swap or refund? As per our Terms & Conditions, we don\u2019t process refunds. We can however, assist in switching you to a challenge of the same price, or provide a coupon to go towards a challenge of a higher cost. My crypto payment failed, is",
+    "url": "https://dnafunded.com/faq/purchase/",
+    "kind": "page"
+   },
+   {
+    "value": "refund or recovery must be handled through the provider's official process",
+    "snippet": "our payment fails for these reasons, the funds remain with the provider, not us. Any refund or recovery must be handled through the provider's official process. Important: We will never ask for extra crypto to \"release\" stuck funds. If you have an issue, contact our official channels so we can direct you to the provider\u2019s proc",
+    "url": "https://dnafunded.com/faq/purchase/",
+    "kind": "page"
+   },
+   {
+    "value": "refunds for accounts closed due to a failed KYC check, as this constitutes a breach of your agreement to provide accurat",
+    "snippet": "account will be closed. In accordance with our Terms and Conditions, we do not issue refunds for accounts closed due to a failed KYC check, as this constitutes a breach of your agreement to provide accurate and verifiable information. Home FAQs Affiliate Promotions Contact us General Terms and Conditions Rules and Conditions Website Terms",
+    "url": "https://dnafunded.com/faq/kyc/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading and Corporate Actions News Trading\n Traders may trade during news events, except during restricted periods ",
+    "snippet": "consolidated into a single entry on the final closure day for payout calculations. News Trading and Corporate Actions News Trading Traders may trade during news events, except during restricted periods surrounding major data releases, high-impact news, or significant macroeconomic events. This also applies to unexpected, high-impact event",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eased profit split from 80% to 90%!\u200b\n \n Profit Booster\n Profit Booster\n \n Early Payout\n Save a week on your payouts! Add",
+    "snippet": "perience. Profit Split\u200b Add this booster to your challenge and benefit from an increased profit split from 80% to 90%!\u200b Profit Booster Profit Booster Early Payout Save a week on your payouts! Add this booster to your challenge and benefit from a reduced payout frequency from 14 to 7 days.\u200b Demo Reset Reset your account if you fail during ",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads quality, or download the platforms yourself",
+    "snippet": "n TradeLocker Trade with precision on TradeLocker Check out our asset range and spreads quality, or download the platforms yourself. Login support@dnafunded.com Password 5pa1PA$=!814 Server PTTSER Log in Download Our Features State of the art Dashboard View you",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatures\n \n \n State of the art Dashboard \n View your challenges, virtual funded accounts, stats and log in all on our ver",
+    "snippet": "Password 5pa1PA$=!814 Server PTTSER Log in Download Our Features State of the art Dashboard View your challenges, virtual funded accounts, stats and log in all on our very own DNA Funded Dashboard. Low latency Experience super speed with our DNA Funded Dashboard available on desktop & mobile. Fast Execution Experience lightn",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam is here to help you with any trader query you may have",
+    "snippet": "ghtning fast trade execution and reliability. Support Our dedicated support team is here to help you with any trader query you may have. Join our community Connect with other traders and the wider DNA Funded community. Home FAQs Affiliate Promotions Contact us G",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaca250468d93fc29523-1024x768",
+    "snippet": "10/Group-68.png https://dnafunded.com/wp-content/uploads/2026/03/b2ddcfa32581dc21842beaca250468d93fc29523-1024x768.png https://dnafunded.com/wp-content/uploads/2026/03/646195526ed5e44c9f46b7f61757ffae155a5c98.png https://dnafunded.com/wp-content/uploads/2026/03/copy-01.svg https://dn",
+    "url": "https://dnafunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "lt in an account breach. Trading Restrictions Consistent IP Usage: Use a consistent IP address to avoid unauthorized access. Frequent IP changes may trigger security reviews. Traders must avoid the following prohibited strategies at DNA Funded: Exploiting errors or latency in pricing/platfo",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Vpn",
+    "snippet": "w !\ufffd'\ufffd\ufffd\ufffd#\ufffd,P\ufffd\"\ufffdo\ufffddN9\ufffd\ufffd\ufffd\ufffdo:U\u06fd\ufffd \ufffd\ufffd\u0014/\ufffdln(M\ufffd\ufffdx\ufffd \ufffd\ufffd\ufffdB\ufffd-\ufffd\ufffd\ufffd(^\ufffd\ufffd\ufffd \ufffd%\ufffdT%\ufffd\ufffd\ufffd\u001bN\ufffd\u001a\ufffd\ufffd/\ufffd\ufffd\ufffdS\ufffd= \ufffd\ufffd\ufffd\ufffdVpn.\ufffd\ufffd\ufffd\ufffd=~x\ufffdN\u000e\ufffd\ufffdK\ufffd#\ufffd\ufffd\ufffd\ufffd\u001a\ufffd{Sr U\ufffd(\ufffd\u01b1m?\ufffd\ufffd\ufffd\ufffdv7\u0004\ufffdh9W\ufffdR|q8L9i\ufffdL\ufffd\ufffd\\\"\ufffd\ufffd\ufffdy\ufffd\ufffd\ufffd\u0007\u0016\u000e\ufffd\ufffde\ufffd\u0005s\ufffd\ufffd\u0013\ufffd\ufffd\u0282/\ufffdH\ufffd8Z:\ufffd\ufffd\ufffd\ufffd\"i`\ufffdT\ufffdg\ufffd\u0000\ufffdHs\u0014\ufffd\ufffd\ufffd\ufffdNK\ufffd\ufffd1\ufffd\u0005Y#E\ufffd\ufffdoD='G\ufffd\ufffdb\u1e14\ufffd\u000e\ufffd\ufffd\u071d\ufffdm\ufffd|\ufffd^l\u001b-\ufffd\ufffdr\u0084\u0007\ufffdo\ufffd\ufffd\ufffd\ufffdTFLU\"\u0015\ufffd\ufffd\"\u0353\ufffd}\b@\ufffd\ufffd",
+    "url": "https://dnafunded.com/wp-content/uploads/2026/08/DNA-Funded-Ltd-Rules-and-Conditions-V2-31.08.26.pdf",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@dnafunded.com",
+    "snippet": "out our asset range and spreads quality, or download the platforms yourself. Login support@dnafunded.com Password 5pa1PA$=!814 Server PTTSER Log in Download Our Features State of the art Dashboard View your challenges, virtual funded ac",
+    "url": "https://dnafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Noisy-Glass-Cube@1-1470x831-1-1024x579.jpg",
+    "snippet": "nded.com/ 2026-09-11T12:34:12+00:00 https://dnafunded.com/wp-content/uploads/2024/08/Noisy-Glass-Cube@1-1470x831-1-1024x579.jpg https://dnafunded.com/wp-content/uploads/2024/10/Group-91.svg https://dnafunded.com/wp-content/uploads/2025/01/DNA-Funded-Best-Prop-Firm-Overall-Award-2025.png https://d",
+    "url": "https://dnafunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 1-4 business days",
+    "snippet": "g do withdrawals take? We aim to process payouts as quickly as possible. Our average withdrawal processing time is within 1-4 business days. After that, the funds will be forwarded according to your chosen withdrawal method, usually taking an additional 1-2 business days to reach your account. How do I with",
+    "url": "https://dnafunded.com/faqs/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:50",
+    "snippet": "pid and Instant Funding 1:30 2 Phase is 1:50 New purchases (after February 3): Forex leverage for all phases is updated to 1:50 Commodities and Indices All challenges 1:10 Stocks All challenges 1:5 Cryptocurrency All Challenges 1:2 Spreads and Commissions? We are backed by DNA Markets as our",
+    "url": "https://dnafunded.com/faq/trading-platform/",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit cap if applicable",
+    "snippet": "only contribute up to a maximum percentage limit of your requested payout, up to the profit cap if applicable. Profits above this limit will be deducted from your payout request, but your account will not be breached or disqualified. - New purchases (after February 3): Daily pr",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "profit cap is $1,000 and you request $1,250, the $1,000 profit cap is used",
+    "snippet": "ry 3): Daily profit distribution is 40% of the requested payout. Example 1: If your profit cap is $1,000 and you request $1,250, the $1,000 profit cap is used. At 30% distribution limit, your daily max is $300. Example 2: If your profit cap is $1,000 and you request $850, the $850 request is used. At 30% distribution limit, y",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "profit cap is $1,000 and you request $850, the $850 request is used",
+    "snippet": "cap is used. At 30% distribution limit, your daily max is $300. Example 2: If your profit cap is $1,000 and you request $850, the $850 request is used. At 30% distribution limit, your daily max is $255. Note: Profits from partial closures are consolidated into a single entry on the final closure day for payout calcula",
+    "url": "https://dnafunded.com/faq/trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "profit cap to 7",
+    "snippet": "\u2013 Reset your account if you fail during the demo stage. Profit Booster \u2013 Boost your profit cap to 7.5%. Profit Split 90% profit split Earlier Payout Request early payout - 7 days Demo Reset Reset your Demo account Profit Booster Boost yo",
+    "url": "https://dnafunded.com/product/50000-rapid-challenge/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc/ 2026-04-16T07:43:14+00:00 https://dnafunded",
+    "snippet": "ps://dnafunded.com/faq/drawdown/ 2026-04-16T07:43:08+00:00 https://dnafunded.com/faq/kyc/ 2026-04-16T07:43:14+00:00 https://dnafunded.com/faq/withdrawals/ 2026-04-29T08:58:21+00:00 https://dnafunded.com/faq/24-hour-challenge/ 2026-05-22T02:26:24+00:00 https://dnafunded.com/faq/trading-rules/ 2026-07-22",
+    "url": "https://dnafunded.com/faq-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC - dnafunded",
+    "snippet": "KYC - dnafunded.com Notice: MT5 accounts are migrating to TradeLocker (impacted clients notified directly). All other trading remains unaffected. New orders are currently paus",
+    "url": "https://dnafunded.com/faq/kyc/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC \n KYC What is KYC? KYC stands for Know Your Customer",
+    "snippet": "ns Contact us Login English Deutsch Espa\u00f1ol \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200f \u65e5\u672c\u8a9e Home \u00bb FAQs \u00bb KYC KYC What is KYC? KYC stands for Know Your Customer. KYC documentation is the process of collecting and verifying customer information, such as identification and proof of address, to ensure regulatory compliance. It he",
+    "url": "https://dnafunded.com/faq/kyc/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fees? No, we do not charge any ongoing monthly fees",
+    "snippet": "Deutsch Espa\u00f1ol \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u200f \u65e5\u672c\u8a9e Home \u00bb FAQs \u00bb Purchase Purchase Are there any monthly fees? No, we do not charge any ongoing monthly fees. All of our evaluations and challenges require a one-time payment specific to that evaluation or challenge. Who can buy challenges at DNA Funded? You must be 18 years o",
+    "url": "https://dnafunded.com/faq/purchase/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "t least one trade every 30 days to avoid account inactivity. Can I use EA, Algo's or Copy Trading? Instant Funding Accounts: EAs and algorithmic trading (Algos) are prohibited. 1 Phase, 2 Phase and Rapid Accounts: EAs and Algos are allowed, except for the following prohibi",
+   "url": "https://dnafunded.com/faq/trading-rules/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "TradeLocker"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "DNAfunded - dnafunded.com Notice: MT5 accounts are migrating to TradeLocker (impacted clients notified dir",
+  "d.com/product-category/two-phase/ 2026-08-03T02:13:20+00:00 Trading Rules - dnafunded.com Notice: MT5 accounts are migrating to TradeLocker (impacted clients notified dir",
+  "feed is powered by the third-party liquidity providers 24-hour Challenge - dnafunded.com Notice: MT5 accounts are migrating to TradeLocker (impacted clients notified dir",
+  "multiplier (2x, 5x, or 10x) selected at checkout. For example, a $100 fee with a 10x Multiplier results in a $1,000 payout. What instruments can I trade in the 24-hour Challenge? Yo",
+  "and data feed is powered by the third-party liquidity providers Drawdown - dnafunded.com Notice: MT5 accounts are migrating to TradeLocker (impacted clients notified dir",
+  "is powered by the third-party liquidity providers $50,000 Rapid Challenge - dnafunded.com Notice: MT5 accounts are migrating to TradeLocker (impacted clients notified dir"
+ ],
+ "errors": []
+}

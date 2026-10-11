@@ -1,0 +1,676 @@
+{
+ "slug": "aquafunded",
+ "name": "AquaFunded",
+ "category": "Forex/CFD",
+ "url": "https://www.aquafunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.aquafunded.com/",
+   "kind": "home",
+   "chars": 16021
+  },
+  {
+   "url": "https://www.aquafunded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 40434
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+   "kind": "page",
+   "chars": 21820
+  },
+  {
+   "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+   "kind": "page",
+   "chars": 64565
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/maximum-daily-drawdown-rules-forex-prop-firms",
+   "kind": "page",
+   "chars": 13249
+  },
+  {
+   "url": "https://www.aquafunded.com/legal/terms-and-conditions",
+   "kind": "page",
+   "chars": 41657
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/why-you-keep-breaking-your-trading-rules",
+   "kind": "page",
+   "chars": 12951
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/what-is-index-pricing",
+   "kind": "page",
+   "chars": 29646
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/price-action-trading-explained",
+   "kind": "page",
+   "chars": 12672
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/forex-price-action-trading",
+   "kind": "page",
+   "chars": 33738
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/how-to-build-trading-plan",
+   "kind": "page",
+   "chars": 11910
+  },
+  {
+   "url": "https://www.aquafunded.com/trader-plan",
+   "kind": "page",
+   "chars": 9317
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/forex-compounding-plan",
+   "kind": "page",
+   "chars": 40493
+  },
+  {
+   "url": "https://www.aquafunded.com/blogs/what-challenges-do-traders-face",
+   "kind": "page",
+   "chars": 19118
+  },
+  {
+   "url": "https://help.aquafunded.com/en/",
+   "kind": "sub",
+   "chars": 709
+  },
+  {
+   "url": "https://help.aquafunded.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 7015
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 375330,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "The FTMO Challenge is designed with traders in mind. The first phase requires a 10% profit target, but it's halved to 5% in the second phase. This sliding scale makes the challenge more achievable and rewarding. Plus, FTMO reimburses the sign-up fee for traders who pass the challenge, a ge",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "tting Your Trading Goals Your mission is clear: meet specific trading targets. 1. Profit Target Aim for a 10% profit within 30 days for standard accounts. Aggressive accounts need 8%. 2. Daily Drawdown Keep daily losses under 5% of the account balance. 3. Overall Drawdown",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "es and complicated payout systems. AquaFunded simplifies things . Traders have a low-profit target of 8% and can expect fast, straightforward payouts. With an option for the first payout in just 7 days and bi-weekly payouts after that, AquaFunded puts money in your pocket q",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "e most flexible trading conditions in the industry - no time limits, easy-to-achieve profit targets, and up to 100% profit split ; learn more about our funded trading program and choose instant funding or challenge paths that suit your style. That next piece uncovers the exact step",
+    "url": "https://www.aquafunded.com/blogs/what-is-index-pricing",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "28",
+    "snippet": "n demand One Day Pass Standard No consistency on eval Risk option No daily loss limit Maximum flexibility Save up to 28% $1,200 daily loss limit Lower Priced - Higher Payout Cap Model Type Standard Pro Elite New Flex New Limited Time Beginner Add-",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "10% profit within 30 days for standard accounts. Aggressive accounts need 8%. 2. Daily Drawdown Keep daily losses under 5% of the account balance. 3. Overall Drawdown Total losses should be at most 10% of the account balance. Aggressive accounts have a bit more leeway. Managing Risk FTM",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "3",
+    "snippet": "m Daily Loss The maximum amount of loss allowed within a single trading day. 3% Maximum Loss Maximum Loss Your account equity including unreleased/floating positions must not hit/exceed below this percentage. 6% Account Leverage Account Leverage The ratio of a tra",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ximum Daily Loss The maximum amount of loss allowed within a single trading day. 5% 5% 5% Maximum Loss Maximum Loss Your account equity including unreleased/floating positions must not hit/exceed below this percentage. 8% 8% 8% Account Leverage Account Leverage The ratio of a",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "ximum Daily Loss The maximum amount of loss allowed within a single trading day. 4% 4% 4% Maximum Loss Maximum Loss Your account equity including unreleased/floating positions must not hit/exceed below this percentage. 8% 8% 8% Account Leverage Account Leverage The ratio of a",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "0.5",
+    "snippet": "isk between 1% and 2% of their account value per trade. If you have $40,000, risking 0.5% means a maximum loss of $200 per trade. Only trade with funds you can afford to lose, and use reputable online brokers and trading platforms. 4. Dedicate Time: Be Ready for the Commitment",
+    "url": "https://www.aquafunded.com/blogs/what-challenges-do-traders-face",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "AquaFunded | Leading Prop Firm with Instant Funding & 100% Profit Split CFDs Crypto Futures TV EN EN 25% OFF Limited Time Code: AUTUMN Markets CFDs Futures How",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "s First reward on demand 100% profit split Standard Bi-weekly rewards 90% profit split Why Traders Love AquaFunded Get Funded Learn More $283 for $100k Account Reward guarantee Get paid in 24 hours or we pay you an extra $1000 100% refunda",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "ets traders tap into significant capital accounts, offering the chance to earn up to 95% profit splits. What makes AquaFunded stand out ? They\u2019re not just another prop trading firm. With a unique funding model, traders can quickly meet an 8% profit target. Plus, they o",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "ete your challenge in 1,2 or 3 Steps. Or skip the challenge with instant funding. 40% OFF + BOGO *after 1st Payout for cfds only Limited Time Code: SUMMERCLEAR Forex Models Instant Funding Most Popular One Step Two Step Three Step Aqua Man Model Type Standard PRO Plat",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "increase flexibility, and recognise their achievement within the Aqua community. 25% Account Balance Increase Payouts On Demand Exclusive Aqua Gift Box Aqua Elite Discord Role Priority Support Access Requirements 3 months of profitable funded trading No failed funded ac",
+    "url": "https://www.aquafunded.com/trader-plan",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "400",
+    "snippet": "rove your skill or skip with instant funding Step 2 Unlock capital Funded up to $400k Step 3 Trade & get paid 100% of the Profits Get Funded Learn More From $14 for $5k account Trade safely with us Your skill, our risk Trade with our capital",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tep 3 Trade & get paid 100% of the Profits Get Funded Learn More From $14 for $5k account Trade safely with us Your skill, our risk Trade with our capital without being liable for any losses. 24/7 support Our dedicated support team is always h",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "90% profit split Why Traders Love AquaFunded Get Funded Learn More $283 for $100k Account Reward guarantee Get paid in 24 hours or we pay you an extra $1000 100% refundable fees 100% profit split available Standard profit split 90%",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "13",
+    "snippet": "are about their traders. James R. I have just received my first reward of over $13k. AquaFunded is the real deal. Their rules are fair and easy to follow. The customer support is 2nd to none and I'm happy to recommend them to anyone. Trust is key in thi",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Available \ud83c\uddfa\ud83c\uddf8 Meta Trader 5 Most Popular cTrader + $15 Account Size $2.5k $5k $10k $25k $50k $100k $150k $200k $250k $300k $400k Whale \u0421hallenge 560 862 100k Not Available One-time fee \u2022 100% Refundable Get Fund",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "ble \ud83c\uddfa\ud83c\uddf8 Meta Trader 5 Most Popular cTrader + $15 Account Size $2.5k $5k $10k $25k $50k $100k $150k $200k $250k $300k $400k Whale \u0421hallenge 560 862 100k Not Available One-time fee \u2022 100% Refundable Get Funded",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "Meta Trader 5 Most Popular cTrader + $15 Account Size $2.5k $5k $10k $25k $50k $100k $150k $200k $250k $300k $400k Whale \u0421hallenge 560 862 100k Not Available One-time fee \u2022 100% Refundable Get Funded Paymen",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "Most Popular cTrader + $15 Account Size $2.5k $5k $10k $25k $50k $100k $150k $200k $250k $300k $400k Whale \u0421hallenge 560 862 100k Not Available One-time fee \u2022 100% Refundable Get Funded Payment Options: Digi",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "Popular cTrader + $15 Account Size $2.5k $5k $10k $25k $50k $100k $150k $200k $250k $300k $400k Whale \u0421hallenge 560 862 100k Not Available One-time fee \u2022 100% Refundable Get Funded Payment Options: Digital Cur",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "250",
+    "snippet": "cTrader + $15 Account Size $2.5k $5k $10k $25k $50k $100k $150k $200k $250k $300k $400k Whale \u0421hallenge 560 862 100k Not Available One-time fee \u2022 100% Refundable Get Funded Payment Options: Digital Currencies",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "65,37",
+    "snippet": "Autumn Sale 25% OFF Limited Time Code: AUTUMN Recent Verified Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "78,66",
+    "snippet": "FF Limited Time Code: AUTUMN Recent Verified Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payo",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "13,41",
+    "snippet": "e Code: AUTUMN Recent Verified Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No D",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,49",
+    "snippet": "Recent Verified Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment re",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8,82",
+    "snippet": "Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9,06",
+    "snippet": "77 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "120,59",
+    "snippet": "eoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite Trading Platforms 24/7 S",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "39,27",
+    "snippet": "rew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite Trading Platforms 24/7 Support Always here",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "11,38",
+    "snippet": "d $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite Trading Platforms 24/7 Support Always here to help Get Fund",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "19,81",
+    "snippet": "$9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite Trading Platforms 24/7 Support Always here to help Get Funded Choose your",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,42",
+    "snippet": "11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite Trading Platforms 24/7 Support Always here to help Get Funded Choose your Account CFDs Futures Limited Time 25% OFF AUTUMN Copy",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,20",
+    "snippet": "l Risk option No daily loss limit Maximum flexibility Save up to 28% $1,200 daily loss limit Lower Priced - Higher Payout Cap Model Type Standard Pro Elite New Flex New Limited Time Beginner Add-ons av",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "r One Step New Two Step Most Popular Flex No consistency on funded Daily Payouts Daily No consistency on funded No Eval Instant Rewards on demand One Day Pass Standard No consistency on eval Risk option No daily loss limit Maximum fle",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "anytime",
+    "snippet": "Your Payout You\u2019re not stuck waiting for the calendar to flip. Traders can request payouts anytime after the first 14 days of trading. This system offers flexibility, letting you cash out when it suits you. Once you order, the payout is processed within a few days. Th",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "bi-weekly",
+    "snippet": "get of 8% and can expect fast, straightforward payouts. With an option for the first payout in just 7 days and bi-weekly payouts after that, AquaFunded puts money in your pocket quickly. This approach makes it easier for trader s to focus on what they do best: trading. A Home for All Trad",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "on Demand",
+    "snippet": "1:50 Rewards Rewards How often you can request to withdraw your profits. Payout on Demand Profit Split Profit Split Percentage of the profits you make on your trades that you can withdraw. Up to 100% Instant Funded Aqua Trader Skip th",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Monthly",
+    "snippet": "als. 50% increase in account balance $1,000 monthly salary Unlimited crypto withdrawals Monthly session with our Psychology Coach Monthly 1-on-1 mentoring session Exclusive Aqua Elite Silver Discord role Aqua Gift Box Max allocation increased to $500,00",
+    "url": "https://www.aquafunded.com/trader-plan",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "ading Prop Firm with Instant Funding & 100% Profit Split CFDs Crypto Futures TV EN EN 25% OFF Limited Time Code: AUTUMN Markets CFDs Futures How it works How It Works Scaling",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "assets you\u2019re most familiar with and take advantage of market opportunities as they arise. It also allows for more diversification in your trading strategy. 5. Transparent Pricing, Rules, and Account Types FTMO is known for its pricing, rules, and account t",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   },
+   {
+    "value": "WISE",
+    "snippet": "AD THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING THIS SITE OR OUR SERVICES OR OTHERWISE AGREEING TO THIS AGREEMENT, YOU UNDERSTAND AND AGREE TO BE BOUND BY THIS AGREEMENT AND RECOGNIZE THAT YOU MAY BE WAIVING CERTAIN RIGHTS. Welcome to https://www.aquafunde",
+    "url": "https://www.aquafunded.com/legal/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ets CFDs Futures How it works How It Works Scaling Plan Rules How it Works Scaling Plan Rules Rewards Affiliate About FAQ CFDs Futures Contact Select language EN EN Forex Futures TV FAQ FAQ CFDs Futures Contact Get Funded Logi",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "ted trading services provided by Aqua Funded please contact support@aquafunded.com. CFTC RULE 4.41-Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also,",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "m/instant-giveaway-confirm 2026-07-25T14:00:00.826Z https://www.aquafunded.com/christmas-giveaway 2026-07-25T14:01:08.946Z https://www.aquafunded.com/pay-later 2026-09-18T11:26:46.698Z https://www.aquafunded.com/trader-plan 2026-07-25T14:00:00.861Z https://www.aquafunded.com/prop-firm-g",
+    "url": "https://www.aquafunded.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "use the Site or its contents in any manner or for any purpose except as permitted or authorized by Company. Your use of the Site does not entitle you to make any unauthorized use of any content, and without limiting the foregoing, in particular you will not delete, alter or o",
+    "url": "https://www.aquafunded.com/legal/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ed risk parameters. What Are the Limitations of Price Action? Price action is not infallible, and experienced practitioners are the first to acknowledge this. Markets do not always respect historical levels; structural breaks occur, and what appeared to be strong support can dissolve instantly during a high-impact news releas",
+    "url": "https://www.aquafunded.com/blogs/price-action-trading-explained",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Select languag",
+    "snippet": "rds Affiliate About FAQ CFDs Futures Contact Select language EN EN Forex Futures TV FAQ FAQ CFDs Futures Contact Get Funded Login Login CFDs Login Futures Get Fun",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Autumn Sa",
+    "snippet": "the Profit paid on demand Get Funded Reward Guarantee Millions Paid to Traders Autumn Sale 25% OFF Limited Time Code: AUTUMN Recent Verified Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Abusa",
+    "snippet": "t Verified Rewards $65,377 Andrei $78,661 Neoh $13,412 Andrew $5,493 Abusad $8,829 Cho $9,066 Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received!",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Three rewards per account then account closes, unlimited",
+    "snippet": "Rewards Rules % $ The original most popular flex model with no path to live. Three rewards per account then account closes, unlimited accounts available. View challenge rules Challenge rules % $ View funded & reward rules No Activation Fee News trading Weekend holding Expert",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "ze 2.5K 5K 10K 25K 50K Popular 100K Popular 150K 200K 250K 300K 400K Average Reward $9,000 How many accounts? Includes your 25% promo, plus extra for more accounts. One 25% off 2nd -30% 3rd -35% 4th Best Value -40% 5th Best Value",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "You sa",
+    "snippet": "rd -35% 4th Best Value -40% 5th Best Value -50% Allocation 100K Total $0 You save $0 One account $0 $0 One-time fee \u2022 100% refundable Get Funded Reward Guarantee Digital Currencies 300,000 + traders Rated 9.4/10",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trade sa",
+    "snippet": "get paid 100% of the Profits Get Funded Learn More From $14 for $5k account Trade safely with us Your skill, our risk Trade with our capital without being liable for any losses. 24/7 support Our dedicated support team is always here to help. Fast",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "What traders sa",
+    "snippet": "t, or email. FAQ Contact 24/7 Support Rated 9.4/10 From 5k+ verified reviews What traders say about AquaFunded Join 330,000+ Aqua Traders Worldwide Ravi K. AquaFunded is one of the best funding companies, there are no hidden rules that harm trader",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2004-00597",
+    "snippet": "ing, Ground Floor, Rodney Village, Rodney Bay, Gros-Islet, SW18 1TA, St. Lucia, with company number 2004-00597, provides the simulated trading services advertised on www.aquafunded.com . For more information on simulated trading services provided by Aqua Funded please contact sup",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable\n \n Get Funded Reward Guarantee\n \n \n \n \n \n \n \n \n \n Digital Currencies\n \n \n 300,000 + traders \n Rated 9",
+    "snippet": "ocation 100K Total $0 You save $0 One account $0 $0 One-time fee \u2022 100% refundable Get Funded Reward Guarantee Digital Currencies 300,000 + traders Rated 9.4/10 5k+ reviews $8M + paid out Total Rewards $ 8,500,000 + Average Reward $ 2,450 Highest Paid Trader $ 119,175 Steps How it works?",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable fees\n \n \n 100% profit split available\n Standard profit split 90%\n \n \n Rewards on Demand available\n Fast Bi-We",
+    "snippet": "unt Reward guarantee Get paid in 24 hours or we pay you an extra $1000 100% refundable fees 100% profit split available Standard profit split 90% Rewards on Demand available Fast Bi-Weekly rewards Easy to achieve 2-10% profit targets Up to $4M in scaled capital No hidden rules No time limits News Trading Allowed Instant funding Skip the c",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy Privacy Policy Terms of Service \u00a9 2025 AquaFunded",
+    "snippet": "hieve profit or losses similar to those depicted on the www.aquafunded.com website. Refund Policy Privacy Policy Terms of Service \u00a9 2025 AquaFunded. All rights reserved.",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy 2026-07-25T14:00:00",
+    "snippet": "ww.aquafunded.com/privacy-policy 2026-07-25T14:00:00.794Z https://www.aquafunded.com/refund-policy 2026-07-25T14:00:00.807Z https://www.aquafunded.com/instant-giveaway 2026-07-25T14:00:00.816Z https://www.aquafunded.com/instant-giveaway-sms 2026-07-25T14:00:00.821Z https://www.aquafunded",
+    "url": "https://www.aquafunded.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading\n Weekend holding\n Expert Advisors\n Account resets\n \n \n Account Size\n 2",
+    "snippet": "Challenge rules % $ View funded & reward rules No Activation Fee News trading Weekend holding Expert Advisors Account resets Account Size 2.5K 5K 10K 25K 50K Popular 100K Popular 150K 200K 250K 300K 400K Average Reward $9,000 How many accounts? Includes your 25% promo, plus extra for more",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed\n \n \n Instant funding\n Skip the challenge and get instantly funded",
+    "snippet": "fit targets Up to $4M in scaled capital No hidden rules No time limits News Trading Allowed Instant funding Skip the challenge and get instantly funded. Charity By choosing AquaFunded you help clean our oceans & provide drinking water to people in need Dive into AquaFunded trading Spreads starting from 0.",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "news trading, and holding positions overnight",
+    "snippet": "e. Trading Restrictions Any limitations and restrictions on strategies, lot sizes, news trading, and holding positions overnight. By understanding the key prop firm challenge rules and knowing what is expected of you in advance, you can come up with a suitable strategy instead of guessing your",
+    "url": "https://www.aquafunded.com/prop-firm-guides/prop-firm-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eading Prop Firm with Instant Funding & 100% Profit Split \n \n \n \n \n \n \n \n \n \n \n CFDs\n Crypto\n Futures\n TV\n \n EN\n \n EN",
+    "snippet": "AquaFunded | Leading Prop Firm with Instant Funding & 100% Profit Split CFDs Crypto Futures TV EN EN 25% OFF Limited Time Code: AUTUMN Markets CFDs Futures How it works How It Works Scaling Plan Rules How it Works Scal",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ean\n \n \n Payout Guarantee\n No Denials\n Payment received!\n $2,428\n \n Your Favorite Trading Platforms\n \n 24/7 Support\n Alw",
+    "snippet": "Watthanaphon $120,590 Sunil $39,273 Brandon $11,383 Uduak $19,812 Jean Payout Guarantee No Denials Payment received! $2,428 Your Favorite Trading Platforms 24/7 Support Always here to help Get Funded Choose your Account CFDs Futures Limited Time 25% OFF AUTUMN Copy CFDs Model Instant Most Popular One Step New Two",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Expert Advisors\n Account resets\n \n \n Account Size\n 2",
+    "snippet": "View funded & reward rules No Activation Fee News trading Weekend holding Expert Advisors Account resets Account Size 2.5K 5K 10K 25K 50K Popular 100K Popular 150K 200K 250K 300K 400K Average Reward $9,000 How many accounts? Includes your 25% promo, plus extra for more",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More\n From $14 for $5k account\n \n Trade safely with us\n Your skill, our risk Trade with our capital without being l",
+    "snippet": "Funded up to $400k Step 3 Trade & get paid 100% of the Profits Get Funded Learn More From $14 for $5k account Trade safely with us Your skill, our risk Trade with our capital without being liable for any losses. 24/7 support Our dedicated support team is always here to help. Fast & reliable rewards Receive rewards with a high profit split",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam is always here to help",
+    "snippet": "capital without being liable for any losses. 24/7 support Our dedicated support team is always here to help. Fast & reliable rewards Receive rewards with a high profit split, protected by our reward guarantee. 8,000,000 total rewards Fast & Reliable Rewards Simul",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@aquafunded.com",
+    "snippet": "ore information on simulated trading services provided by Aqua Funded please contact support@aquafunded.com. CFTC RULE 4.41-Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual t",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "r One Step New Two Step Most Popular Flex No consistency on funded Daily Payouts Daily No consistency on funded No Eval Instant Rewards on demand One Day Pass Standard No consistency on eval Risk option No daily loss limit Maximum flexibility Save up to 28% $1,200 daily loss",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:59",
+    "snippet": "ops-for-trading-forex 2025-10-23T16:01:59.014Z https://www.aquafunded.com/blogs/best-leverage-for-forex 2025-10-23T16:01:59.014Z https://www.aquafunded.com/blogs/best-market-to-trade-for-beginners 2025-10-23T16:01:59.014Z https://www.aquafunded.com/blogs/best-markets-for-day-trading 2025-10-2",
+    "url": "https://www.aquafunded.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap\n \n \n \n Model Type\n Standard\n \n \n Pro\n \n \n Elite New \n \n \n Flex New \n \n \n Limited Time\n \n \n Beginner\n \n \n \n Ad",
+    "snippet": "Maximum flexibility Save up to 28% $1,200 daily loss limit Lower Priced - Higher Payout Cap Model Type Standard Pro Elite New Flex New Limited Time Beginner Add-ons available at checkout Rewards On Demand Rewards in 7 Days Lifetime Profit Split 100% Swap Free Funded & Rewards Rules % $ The original most popula",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan\n Rules\n How it Works Scaling Plan Rules Rewards Affiliate About FAQ \n \n \n \n \n \n \n \n CFDs \n \n \n \n \n \n \n \n \n ",
+    "snippet": "ets CFDs Futures How it works How It Works Scaling Plan Rules How it Works Scaling Plan Rules Rewards Affiliate About FAQ CFDs Futures Contact Select language EN EN Forex Futures TV FAQ FAQ CFDs Futures Contact Get Funded Login Login CFDs Login Futures",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan\n Fast payout times\n What are the differences between the top prop trading firms?\n The main differences betw",
+    "snippet": "jectives Professional trading environment No long-term capital lock-up Structured scaling plan Fast payout times What are the differences between the top prop trading firms? The main differences between the top funded trading firms come down to their evaluation models, risk parameters, payout structures, and the overall trading conditions",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan that increases their capital by 25% every four months with no cap",
+    "snippet": "can earn up to 90% of the profits they generate and can also benefit from an account scaling plan that increases their capital by 25% every four months with no cap. FTMO\u2019s Two-Step Qualification Process FTMO evaluates traders through a two-step process. The first step is the FTMO Challenge , which assesses a trader's skills and d",
+    "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee\n News trading\n Weekend holding\n Expert Advisors\n Account resets\n \n \n Account Size\n 2",
+    "snippet": "challenge rules Challenge rules % $ View funded & reward rules No Activation Fee News trading Weekend holding Expert Advisors Account resets Account Size 2.5K 5K 10K 25K 50K Popular 100K Popular 150K 200K 250K 300K 400K Average Reward $9,000 How many accounts? Includes your 25% promo, plus extra for more",
+    "url": "https://www.aquafunded.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "AquaFunded | Leading Prop Firm with Instant Funding & 100% Profit Split CFDs Crypto Futures TV EN EN 25% OFF Limited Time Code: AUTUMN Markets CFDs",
+   "url": "https://www.aquafunded.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "t CFDs Futures Limited Time 25% OFF AUTUMN Copy CFDs Model Instant Most Popular One Step New Two Step Most Popular Flex No consistency on funded Daily Payouts Daily No consistency on funded No Eval Instant Rewards on demand One Da",
+   "url": "https://www.aquafunded.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "Limited Time 25% OFF AUTUMN Copy CFDs Model Instant Most Popular One Step New Two Step Most Popular Flex No consistency on funded Daily Payouts Daily No consistency on funded No Eval Instant Rewards on demand One Day Pass Standard",
+   "url": "https://www.aquafunded.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "gible for a funded account, you need to meet the objectives of our evaluation challenge in 1, 2, or 3 steps. The objectives and parameters that you need to reach and trade within vary depending on the entry model you choose. Once you have chosen the entry model and",
+   "url": "https://www.aquafunded.com/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "Z https://www.aquafunded.com/christmas-giveaway 2026-07-25T14:01:08.946Z https://www.aquafunded.com/pay-later 2026-09-18T11:26:46.698Z https://www.aquafunded.com/trader-plan 2026-07-25T14:00:00.861Z https://www.aquafunded.com/prop-firm-guides/cheapest-prop-firm-challen",
+   "url": "https://www.aquafunded.com/sitemap.xml"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": ", MetaTrader 5, or cTrader) and base currency (EUR, USD, GBP, etc.). Decide whether to start with a Free Trial or jump into the Paid Challenge. For the real deal, go with the paid option. 3. Pay the Participation Fee Participation fees depend on the account size you",
+   "url": "https://www.aquafunded.com/blogs/ftmo-challenge-price"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "Futures Contact Get Funded Login Login CFDs Login Futures Get Funded Join 330,000+ Traders Rated 9.4/10 From 5k+ verified reviews Dive into Succ",
+  "One-time fee \u2022 100% refundable Get Funded Reward Guarantee Digital Currencies 300,000 + traders Rated 9.4/10 5k+ reviews $8M + paid out",
+  "tions , no time limits , and easy profit targets . You can also enjoy a profit split of up to 100%. Join over 42,000 traders who have earned more than $2.9 million in rewards, all supp",
+  "ers access to accounts of up to $ 400,000 with flexible conditions and profit splits of up to 100%. Join over 42,000 traders worldwide who have already collected more than $2.9 million",
+  "conditions in your favor: no time limits, easy profit targets, and a profit split as high as 100% . Join over 42,000 traders who\u2019ve earned more than $2.9 million in rewards, all with a",
+  "ts. You get to keep up to 100% of what you make. If you\u2019ve got the skills, this is your playground. Join over 42,000 traders worldwide who\u2019ve already cashed in more than $2.9 million."
+ ],
+ "errors": []
+}

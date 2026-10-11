@@ -1,0 +1,724 @@
+{
+ "slug": "tiger-funded",
+ "name": "Tiger Funded",
+ "category": "Forex/CFD",
+ "url": "https://tigerfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tigerfunded.com/",
+   "kind": "home",
+   "chars": 18900
+  },
+  {
+   "url": "https://tigerfunded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1275
+  },
+  {
+   "url": "https://tigerfunded.com/scallingplan",
+   "kind": "page",
+   "chars": 12404
+  },
+  {
+   "url": "https://tigerfunded.com/challenges",
+   "kind": "page",
+   "chars": 181
+  },
+  {
+   "url": "https://tigerfunded.com/challenge",
+   "kind": "page",
+   "chars": 181
+  },
+  {
+   "url": "https://tigerfunded.com/blog/how-pass-prop-firm-challenge",
+   "kind": "page",
+   "chars": 181
+  },
+  {
+   "url": "https://tigerfunded.com/rules",
+   "kind": "page",
+   "chars": 13150
+  },
+  {
+   "url": "https://tigerfunded.com/faq",
+   "kind": "page",
+   "chars": 95209
+  },
+  {
+   "url": "https://tigerfunded.com/terms-of-service",
+   "kind": "page",
+   "chars": 20027
+  },
+  {
+   "url": "https://tigerfunded.com/about-us",
+   "kind": "page",
+   "chars": 12330
+  },
+  {
+   "url": "https://tigerfunded.com/about",
+   "kind": "page",
+   "chars": 18838
+  },
+  {
+   "url": "https://tigerfunded.com/contact",
+   "kind": "page",
+   "chars": 10101
+  },
+  {
+   "url": "https://tigerfunded.com/refund-policy",
+   "kind": "page",
+   "chars": 10061
+  }
+ ],
+ "page_count": 13,
+ "total_chars": 212850,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "40",
+    "snippet": "milestone pays +40%, with no ceiling at all. Start My Challenge Compare Boost \u2192 12% Profit target 3 Months Per window +40% With Boost Scaling Simulator Ceiling $2,000,000 Start $25K $50K $100K $200K Standard +15% Boost +40% Fastest Start 12 Mo 24 Mo 36 Mo Standard Ceiling \u00b7 $2,000,000 $5",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "0,000 Daily limit \u22125% Max drawdown \u221212% 2-Step Challenge 12% Max Drawdown \u00b7 Static Profit target 8% then 5% Daily drawdown 5% Drawdown type Static Minimum trading days 1 day Consistency rule None Leverage 1:100 Limits shown on a $100,000 example account. Simulated fu",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "g on your model, closed and floating losses combined. Profit Targets Clear, closed-profit targets per phase: 10% on 1-Step, 8% then 5% on 2-Step, 6% per phase on 3-Step. Instant Pro has no target at all, you're already in. Minimum Trading Days One day on 1-Step and 2-Step, none a",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "2.5",
+    "snippet": "me. At a glance Rule Instant Elite Consistency rule None Minimum trading days None Profit target / time limit None Daily loss 2.5% of start-of-day equity Maximum loss 5% trailing Withdrawal buffer 5% First withdrawal cap 3%, then uncapped Risk per trade idea 1.5% Profit split 80% (100% add-on) 36",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "2.5",
+    "snippet": "Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating included. Resets at 17:00 EST. Max Drawdown i 5% Trailing \u00b7 never locks 5% trailing on your highest equity (floating included",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "drawdown \u221212% 2-Step Challenge 12% Max Drawdown \u00b7 Static Profit target 8% then 5% Daily drawdown 5% Drawdown type Static Minimum trading days 1 day Consistency rule None Leverage 1:100 Limits shown on a $100,000 example account. Simulated funds. Maximum Drawdown Sta",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "20",
+    "snippet": "wn Style no hidden rules 100K+ traders $10.2M+ \u00b7 195+ countries \u2605 4.7/5 Succeed 12% Max Drawdown Keep 20% Challenge Rewards No Consistency Rules 200% Fee Refund Up to 100% Reward Split Free Reset News & Weekend Allowed OK 48H Rewards Processing Rewards CHOOSE YOUR CHALLENG",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "wn i 2.5% 2.5% of your start-of-day equity, floating included. Resets at 17:00 EST. Max Drawdown i 5% Trailing \u00b7 never locks 5% trailing on your highest equity (floating included). It never goes back down and never locks. Reward Split i 80% \u2192 100% You keep 80% of your p",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12",
+    "snippet": "ep Instant Pro Profit zone Breach zone Target +8% Start \u00b7 $100,000 Daily limit \u22125% Max drawdown \u221212% 2-Step Challenge 12% Max Drawdown \u00b7 Static Profit target 8% then 5% Daily drawdown 5% Drawdown type Static Minimum trading days 1 day Consistency rule None Leverage 1:",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "Target +8% Start \u00b7 $100,000 Daily limit \u22125% Max drawdown \u221212% 2-Step Challenge 12% Max Drawdown \u00b7 Static Profit target 8% then 5% Daily drawdown 5% Drawdown type Static Minimum trading days 1 day Consistency rule None Leverage 1:100 Limits shown on a $100,000 example account. Simulated fu",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "200",
+    "snippet": "es \u2605 4.7/5 Succeed 12% Max Drawdown Keep 20% Challenge Rewards No Consistency Rules 200% Fee Refund Up to 100% Reward Split Free Reset News & Weekend Allowed OK 48H Rewards Processing Rewards CHOOSE YOUR CHALLENGE \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45% OFF Code OCTOBER",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "luded). It never goes back down and never locks. Reward Split i 80% \u2192 100% You keep 80% of your profits \u2014 up to 100% with the Profit Split add-on at checkout. Avg. reward $1,920 Account Size Price 25K $229 $126 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "target. On Demand Rewards Request your rewards whenever you want, no schedule. Up to 100% Reward Split You keep 80% of your profits \u2014 up to 100% with the Profit Split add-on at checkout. SECURE PAYMENT \u00b7 SSL VISA AMEX Pay Real Testimonials Watch real Tiger Funded tr",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "t consistency threshold of 15% . That means no single trading day should account for 15% or more of the total profit in a given payout period. If a day's profit equals or surpasses 15% of the total profits, you cannot request a payout until that day's contribution is below the 15% threshold. What if I",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "95",
+    "snippet": "a payout guarantee? Yes! We have a Payout Guarantee \u2014 get paid in 48 hours or we pay 95% reward split . Our business hours begin at 9 AM Monday and close at 5 PM Friday (Dubai time). Payouts are only processed on business days, so the 48-hour Payout Guarantee timer is p",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "2",
+    "snippet": "$81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating included. Resets at 17:00 EST. Max Drawdown i 5% Trailing \u00b7 never locks 5% trailing on your highest equity (floating inclu",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "ax Drawdown \u00b7 Static Profit target 8% then 5% Daily drawdown 5% Drawdown type Static Minimum trading days 1 day Consistency rule None Leverage 1:100 Limits shown on a $100,000 example account. Simulated funds. Maximum Drawdown Static Your total loss limit, fixed on your sta",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "get 3 Months Per window +40% With Boost Scaling Simulator Ceiling $2,000,000 Start $25K $50K $100K $200K Standard +15% Boost +40% Fastest Start 12 Mo 24 Mo 36 Mo Standard Ceiling \u00b7 $2,000,000 $535K $535K Projected Balance \u00b7 36 Months 12 Milestones Clear",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "Months Per window +40% With Boost Scaling Simulator Ceiling $2,000,000 Start $25K $50K $100K $200K Standard +15% Boost +40% Fastest Start 12 Mo 24 Mo 36 Mo Standard Ceiling \u00b7 $2,000,000 $535K $535K Projected Balance \u00b7 36 Months 12 Milestones Cleared 22",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "hs Per window +40% With Boost Scaling Simulator Ceiling $2,000,000 Start $25K $50K $100K $200K Standard +15% Boost +40% Fastest Start 12 Mo 24 Mo 36 Mo Standard Ceiling \u00b7 $2,000,000 $535K $535K Projected Balance \u00b7 36 Months 12 Milestones Cleared 22 \u2248 5Y",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "window +40% With Boost Scaling Simulator Ceiling $2,000,000 Start $25K $50K $100K $200K Standard +15% Boost +40% Fastest Start 12 Mo 24 Mo 36 Mo Standard Ceiling \u00b7 $2,000,000 $535K $535K Projected Balance \u00b7 36 Months 12 Milestones Cleared 22 \u2248 5Y 6M Cyc",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "535",
+    "snippet": "dard +15% Boost +40% Fastest Start 12 Mo 24 Mo 36 Mo Standard Ceiling \u00b7 $2,000,000 $535K $535K Projected Balance \u00b7 36 Months 12 Milestones Cleared 22 \u2248 5Y 6M Cycles To $2,000,000 Projection assumes one cleared milestone per quarter. Simulated funds. Perf",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "102",
+    "snippet": "to determine the new daily loss limit. Examples If a $100K account has an equity of $102K at 5 PM EST, the next day's loss limit is $97K ($102K \u2212 $5K). If the equity is $98K but the balance is still $100K, the loss limit remains at $95K. If there are no ope",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "97",
+    "snippet": "If a $100K account has an equity of $102K at 5 PM EST, the next day's loss limit is $97K ($102K \u2212 $5K). If the equity is $98K but the balance is still $100K, the loss limit remains at $95K. If there are no open trades at 5 PM, the drawdown is calculated ba",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "count has an equity of $102K at 5 PM EST, the next day's loss limit is $97K ($102K \u2212 $5K). If the equity is $98K but the balance is still $100K, the loss limit remains at $95K. If there are no open trades at 5 PM, the drawdown is calculated based on the cl",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "98",
+    "snippet": "102K at 5 PM EST, the next day's loss limit is $97K ($102K \u2212 $5K). If the equity is $98K but the balance is still $100K, the loss limit remains at $95K. If there are no open trades at 5 PM, the drawdown is calculated based on the closed balance. 22 What",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "95",
+    "snippet": "K). If the equity is $98K but the balance is still $100K, the loss limit remains at $95K. If there are no open trades at 5 PM, the drawdown is calculated based on the closed balance. 22 What is maximum total loss? The maximum total loss is the overall am",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "10",
+    "snippet": "Instantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models $10.2 Million+ total rewards 195+ Countries 48H Rewards Secured every time 2024 Best New Prop Firm 2025 Best Trading Condition Pass your challenge Get rewarded",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "147",
+    "snippet": "Standard 1 Step 2 Step Platform MatchTrader Platform 5 % $ Account Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floati",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "81",
+    "snippet": "dard 1 Step 2 Step Platform MatchTrader Platform 5 % $ Account Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating i",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,92",
+    "snippet": "of your profits \u2014 up to 100% with the Profit Split add-on at checkout. Avg. reward $1,920 Account Size Price 25K $229 $126 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of yo",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "229",
+    "snippet": "with the Profit Split add-on at checkout. Avg. reward $1,920 Account Size Price 25K $229 $126 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, float",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "126",
+    "snippet": "the Profit Split add-on at checkout. Avg. reward $1,920 Account Size Price 25K $229 $126 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating i",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,48",
+    "snippet": "of your profits \u2014 up to 100% with the Profit Split add-on at checkout. Avg. reward $4,480 Account Size Price 50K $409 $225 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of yo",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "409",
+    "snippet": "with the Profit Split add-on at checkout. Avg. reward $4,480 Account Size Price 50K $409 $225 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, float",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "225",
+    "snippet": "the Profit Split add-on at checkout. Avg. reward $4,480 Account Size Price 50K $409 $225 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating i",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,75",
+    "snippet": "of your profits \u2014 up to 100% with the Profit Split add-on at checkout. Avg. reward $6,750 Best Value Save $317 Account Size Price 100K $704 $387 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Draw",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "317",
+    "snippet": "o 100% with the Profit Split add-on at checkout. Avg. reward $6,750 Best Value Save $317 Account Size Price 100K $704 $387 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of yo",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "704",
+    "snippet": "add-on at checkout. Avg. reward $6,750 Best Value Save $317 Account Size Price 100K $704 $387 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, float",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "Buy Challenge Tiger Funded \u00b7 Trading Rules Rules You Can Actually Trade With Static drawdowns, no consistency rules on Step challenges, and your style is your business. Here is everything, in plain language. Start My Challenge See The Rules \u2193 12% Max drawdown,",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "ned through promotional or bonus offers. Standard TigerFunded trading rules apply. Trailing drawdown applies by default. Consistency rule \u2014 no single trading day may represent more than 15% of total profit. Example You buy a 2-Step $100K account with a BOGO offer. Pur",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules 200% Fee Refund Up to 100% Reward Split Free Reset News & Weekend Allowed OK 48H Rewards",
+    "snippet": "2M+ \u00b7 195+ countries \u2605 4.7/5 Succeed 12% Max Drawdown Keep 20% Challenge Rewards No Consistency Rules 200% Fee Refund Up to 100% Reward Split Free Reset News & Weekend Allowed OK 48H Rewards Processing Rewards CHOOSE YOUR CHALLENGE \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Inst",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule Instant Elite NEW Instant Standard 1 Step 2 Step Platform MatchTrader Platform 5 % $ \n Ac",
+    "snippet": "nstantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models No consistency rule Instant Elite NEW Instant Standard 1 Step 2 Step Platform MatchTrader Platform 5 % $ Account Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% ",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule\n No minimum trading days\n Daily Drawdown i 2",
+    "snippet": "Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating included. Resets at 17:00 EST. Max Drawdown i 5% Trailing \u00b7 never locks 5% trailing on your highest equity (floating inclu",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules No consistency rule: you are not required to spread your profits evenly across days or t",
+    "snippet": "add-on at checkout. Avg. reward $16,600 Included in every Instant Elite account No Consistency Rules No consistency rule: you are not required to spread your profits evenly across days or trades. None Min Trading Days Minimum number of days with at least one trade before a payout can be requested. None Profit Target Instant funding \u2014 no c",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules i Trade your own style \u2014 no minimum days, no lot-size policing",
+    "snippet": "irst payout received Lee \ud83c\uddfa\ud83c\uddf8 \u201cI just received my first payout \u2014 I'm very excited.\u201d No Consistency Rules i Trade your own style \u2014 no minimum days, no lot-size policing. Raykla \ud83c\udde7\ud83c\uddf7 \u00b7 Trades with discipline \u201cI follow a clear plan and respect risk management.\u201d Trades with discipline Raykla \ud83c\udde7\ud83c\uddf7 \u201cI follow a clear plan and respect risk mana",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rules",
+    "snippet": "t and keep your momentum going. Umar \ud83c\uddf3\ud83c\uddec \u00b7 2 years of trading \u201cSmooth conditions, no consistency rules.\u201d 2 years of trading Umar \ud83c\uddf3\ud83c\uddec \u201cSmooth conditions, no consistency rules.\u201d Buy 1 Get 3 Instantly i Pay for one challenge, get three accounts in total \u2014 for the price of o",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "Live Pick a challenge and watch its exact boundaries draw themselves. No fog, no surprises. Risk Instrument 1-Step 2-Step 3-Step Instant Pro Profit zone Breach zone Target +8% Start \u00b7 $100,000 Daily limit \u22125% Max drawdown \u221212% 2-Step Challenge 12% Max Dr",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "ial channels to catch the next big opportunity. Promotion rules Unless stated otherwise, these rules apply only to accounts obtained through promotional or bonus offers. Standard TigerFunded trading rules apply. Trailing drawdown applies by default. Cons",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "Metals (Gold / Silver) 1:30 1:20 Indices 1:20 1:10 Commodities (Oil / Gas) 1:20 1:10 Cryptocurrencies 1:2 1:2 Cryptocurrency markets are available 24/7, including weekends. Other instruments follow their standard market trading hours. Leverage Limits You must",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "funded traders can request payouts through their dashboard. Withdrawals are made by bank transfer (crypto can be arranged if requested). Minimum funded account withdrawal: $100 \u00b7 Minimum affiliate withdrawal: $100. 40 What is the profit split? The profit split our",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "SCA",
+    "snippet": "lenge NEW50 First order only \u00d7 RULES RULES Rules FAQ FAQ REWARDS REWARDS SCALING PLAN SCALING PLAN AFFILIATE AFFILIATE ABOUT US ABOUT US About Us Contact Contact Buy Challenge Buy Challenge 4.7/5 Rated Excellent CHOSEN BY 100K+ TRADERS SINCE 2024 BUY CHALLENGE \u2197 \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 INSTANTLY \u2605 + 200% REFUN",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "licensed by",
+    "snippet": "d. ALPHAEDGE PRO \u2013 FZCO, License No. 42340, Dubai Unified License (DUL) No. DH5472, licensed by the Dubai Integrated Economic Zones Authority \u2013 DSO, Dubai, United Arab Emirates, provides TigerFunded's simulated trading platforms and related technological infrastructure. Alphaedgepro Services (Europe) Ltd, Cyprus company registration numbe",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "We update our promotions regularly to keep them fresh and rewarding. Whether it's a massive discount or an instant multi-account deal, one thing is certain: no one in the industry matches TigerFunded's scale, transparency, and generosity. Remember \u2014 once a TigerFunded offer ends, it's gone forever. Stay connected to our official channels ",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ctices that contradict live trading conditions or exploit market inefficiencies for unfair advantage Gambling-style trading behavior, abusive tick scalping, arbitrage bots, reverse arbitrage, latency arbitrage, or any emulator, exploit, or abusive system designed to manipulate or abuse our systems or services Copying trades or strategies ",
+    "url": "https://tigerfunded.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "rt Advisors (EAs), are strictly prohibited on funded demo accounts unless explicitly authorized by TigerFunded in writing. Detection of unauthorized automated systems may result in immediate account closure or termination, without exception. We may monitor technical and compliance signals,",
+    "url": "https://tigerfunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "TRADERS SINC",
+    "snippet": "ct Buy Challenge Buy Challenge 4.7/5 Rated Excellent CHOSEN BY 100K+ TRADERS SINCE 2024 BUY CHALLENGE \u2197 \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 INSTANTLY \u2605 + 200% REFUND *Excluding Instant Elite models 45% OFF Code OCTOBER \ud83c\udf83 OCTOBER OFFER \u00b7 E",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "of your start-of-day equity, floating inc",
+    "snippet": "l freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5% of your start-of-day equity, floating included. Resets at 17:00 EST. Max Drawdown i 5% Trailing \u00b7 never locks 5% trailing on your highest equity (floating included). It never goes back down and never locks. Re",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "floating inc",
+    "snippet": "0 EST. Max Drawdown i 5% Trailing \u00b7 never locks 5% trailing on your highest equity (floating included). It never goes back down and never locks. Reward Split i 80% \u2192 100% You keep 80% of your profits \u2014 up to 100% with the Profit Split add-on at checkout. Avg. rewa",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Best Value Sa",
+    "snippet": "r profits \u2014 up to 100% with the Profit Split add-on at checkout. Avg. reward $6,750 Best Value Save $317 Account Size Price 100K $704 $387 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum trading days Daily Drawdown i 2.5% 2.5",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "SSL VISA",
+    "snippet": "ur profits \u2014 up to 100% with the Profit Split add-on at checkout. SECURE PAYMENT \u00b7 SSL VISA AMEX Pay Real Testimonials Watch real Tiger Funded traders share how they passed, scaled, and got paid. Pranay Biswajeet Vincenzo R Kamakshy Arman Ra",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rewards sent to thousa",
+    "snippet": "mar Ruben Thinh Samuel Stefan Lee BUY CHALLENGE \u2197 $ 10,200,000 + Rewards sent to thousands of traders across 195+ countries since 2024. Reward processed within 24 hours, no delays. 24 H Avg. reward time 100 K+ Active traders 65 % Repeat rewards Rewards",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "countries sinc",
+    "snippet": "BUY CHALLENGE \u2197 $ 10,200,000 + Rewards sent to thousands of traders across 195+ countries since 2024. Reward processed within 24 hours, no delays. 24 H Avg. reward time 100 K+ Active traders 65 % Repeat rewards Rewards in 48H 195+ countries Secure payouts BUY",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "I follow a clear plan and respect risk manag",
+    "snippet": "style \u2014 no minimum days, no lot-size policing. Raykla \ud83c\udde7\ud83c\uddf7 \u00b7 Trades with discipline \u201cI follow a clear plan and respect risk management.\u201d Trades with discipline Raykla \ud83c\udde7\ud83c\uddf7 \u201cI follow a clear plan and respect risk management.\u201d 200% Fee Refund i Pass your challenge and get double your fee back with yo",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available in jurisdictions where they would be prohibited by applicable law",
+    "snippet": "ting in an evaluation. Services are intended only for users aged 18 or older and are not available in jurisdictions where they would be prohibited by applicable law. CORPORATE INFORMATION \u00a9 2026 TigerFunded. All rights reserved. ALPHAEDGE PRO \u2013 FZCO, License No. 42340, Dubai Unified License (DUL) No. DH5472, licensed by the Dub",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Restricted Jurisdictions: TigerFunded\u2019s products and services are not offered, provided, or made available to residents,",
+    "snippet": "contact us: TigerFunded Email: support@tigerfunded.com Website: tigerfunded.com Restricted Jurisdictions: TigerFunded\u2019s products and services are not offered, provided, or made available to residents, citizens, or persons located in restricted jurisdictions, including Russia, North Korea, Iran, and Myanmar. TigerFunded reserves the right ",
+    "url": "https://tigerfunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "REFUND\n *Excluding Instant Elite models\n 45% OFF Code OCTOBER \n \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45",
+    "snippet": "2024 BUY CHALLENGE \u2197 \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 INSTANTLY \u2605 + 200% REFUND *Excluding Instant Elite models 45% OFF Code OCTOBER \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models $10.2 Million+ total rewards 195+ Countries 48H Rewards Secured every t",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "REFUND \u2605 *Excluding Instant Elite models \n $10",
+    "snippet": "OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models $10.2 Million+ total rewards 195+ Countries 48H Rewards Secured every time 2024 Best New Prop Firm 2025 Best Trading Condition Pass your challenge Get rewarded",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Up to 100% Reward Split Free Reset News & Weekend Allowed OK 48H Rewards Processing Rewards \n CHOOSE YOUR CHALLEN",
+    "snippet": "5 Succeed 12% Max Drawdown Keep 20% Challenge Rewards No Consistency Rules 200% Fee Refund Up to 100% Reward Split Free Reset News & Weekend Allowed OK 48H Rewards Processing Rewards CHOOSE YOUR CHALLENGE \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models No consist",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "REFUND \u2605 *Excluding Instant Elite models No consistency rule Instant Elite NEW Instant Standard 1 Step 2 Step Platform M",
+    "snippet": "OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 Instantly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models No consistency rule Instant Elite NEW Instant Standard 1 Step 2 Step Platform MatchTrader Platform 5 % $ Account Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No ",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading and EAs stay allowed at every level",
+    "snippet": "ecalculated on your new balance, so your room grows with your size. Weekend holding, news trading and EAs stay allowed at every level. Does scaling affect my rewards? No. Your reward split and schedule stay untouched. Scaling stacks on top of what you already earn, it never replaces it or delays it.",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading No restrictions Trade straight through NFP, CPI, FOMC, anything",
+    "snippet": "llow Trade Your Way. All Of It. The list other firms keep short. Ours is the point. News Trading No restrictions Trade straight through NFP, CPI, FOMC, anything. No blackout windows, no profit clawbacks , in evaluation and beyond. If the volatility is your edge, take it. Weekend & Overnight Holding Allowed Hold through the nigh",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "news trading allowed? Yes, news trading is allowed",
+    "snippet": "visors) and trade copiers, but EAs are not permitted during the funded stage. 25 Is news trading allowed? Yes, news trading is allowed. 26 Position management rules Hedging guideline Description. This rule applies exclusively to funded accounts. To maintain disciplined and consistent trading, opening",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "news trading allowed?\",\n a: \"Yes, news trading is allowed",
+    "snippet": "d trade copiers, but EAs are not permitted during the funded stage.\", }, { q: \"Is news trading allowed?\", a: \"Yes, news trading is allowed.\", }, { q: \"Position management rules\", a: \"### Hedging guideline\\n**Description.** This rule applies exclusively to funded accounts. To maintain disciplined and con",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ead your profits evenly across days or trades",
+    "snippet": "t Elite account No Consistency Rules No consistency rule: you are not required to spread your profits evenly across days or trades. None Min Trading Days Minimum number of days with at least one trade before a payout can be requested. None Profit Target Instant funding \u2014 no challenge phase, no profi",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "east one trade before a payout can be requested",
+    "snippet": "evenly across days or trades. None Min Trading Days Minimum number of days with at least one trade before a payout can be requested. None Profit Target Instant funding \u2014 no challenge phase, no profit target. On Demand Rewards Request your rewards whenever you want, no schedule. Up to 100% Reward Spli",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Testimonials Watch real Tiger Funded traders share how they passed, scaled, and got paid",
+    "snippet": "with the Profit Split add-on at checkout. SECURE PAYMENT \u00b7 SSL VISA AMEX Pay Real Testimonials Watch real Tiger Funded traders share how they passed, scaled, and got paid. Pranay Biswajeet Vincenzo R Kamakshy Arman Raykla Matt Umar Ruben Thinh Samuel Stefan Lee BUY CHALLENGE \u2197 $ 10,200,000 + Rewar",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat rewards\n Rewards in 48H 195+ countries Secure payouts BUY CHALLENGE \u2197 $ 10,200,000 +\n Sent to traders in 195+ countr",
+    "snippet": "d within 24 hours, no delays. 24 H Avg. reward time 100 K+ Active traders 65 % Repeat rewards Rewards in 48H 195+ countries Secure payouts BUY CHALLENGE \u2197 $ 10,200,000 + Sent to traders in 195+ countries \u00b7 processed within 24H 24H Avg. reward time 100K+ Active traders 65% Repeat rewards Buy Challenge \u2197 Recent rewards Powered by Buy Challe",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat rewards Buy Challenge \u2197 \n Recent rewards Powered by \n \n Buy Challenge \u2197 \n Available Trading Platforms\n Two professio",
+    "snippet": "+ countries \u00b7 processed within 24H 24H Avg. reward time 100K+ Active traders 65% Repeat rewards Buy Challenge \u2197 Recent rewards Powered by Buy Challenge \u2197 Available Trading Platforms Two professional-grade platforms, fully synced with your funded account \u2014 trade from anywhere, on any device. Platform Match-Trader A fast, modern trading pla",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "tion, without exception. We may monitor technical and compliance signals, including IP addresses and login patterns, to detect violations. IP addresses may be allowed from the same country identified by the trader during the KYC process, while access patterns from other countries may be restricted, investi",
+    "url": "https://tigerfunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@tigerfunded.com",
+    "snippet": "vented participation. Refund requests must be submitted within 7 days of purchase to support@tigerfunded.com . 5.3 Free Retry / Free Reset After your first simulated reward, if things do not go as planned, TigerFunded may offer a free reset allowing you to restart the demo ch",
+    "url": "https://tigerfunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 195+ countries \u00b7 proces",
+    "snippet": "me 100 K+ Active traders 65 % Repeat rewards Rewards in 48H 195+ countries Secure payouts BUY CHALLENGE \u2197 $ 10,200,000 + Sent to traders in 195+ countries \u00b7 processed within 24H 24H Avg. reward time 100K+ Active traders 65% Repeat rewards Buy Challenge \u2197 Recent rewards Powered by Buy Challenge \u2197 Available Trading Platforms",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 1\u20132 business days",
+    "snippet": "positions must be flat (no open trades and no open orders) to receive a payout. The payouts are processed within 1\u20132 business days . All funded traders can request payouts through their dashboard. Withdrawals are made by bank transfer (crypto can be arranged if requested). Minimum funded account wit",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "in 48 hours or we pay 95%",
+    "snippet": "is the profit split? The profit split our traders receive is 95% . 41 Do you have a payout guarantee? Yes! We have a Payout Guarantee \u2014 get paid in 48 hours or we pay 95% reward split . Our business hours begin at 9 AM Monday and close at 5 PM Friday (Dubai time). Payouts are only processed on business days, so the 48-hour Payout Guarant",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "in 48 hours on average, s",
+    "snippet": "nd risk professionals who only write rules they would accept themselves. Payments & Payouts A dedicated team processing rewards in 48 hours on average, secured every time. Technology Engineers keeping MatchTrader and Platform 5 fast, stable and fair, around the clock. 24/7 Support 60+ specialists across 20 languages.",
+    "url": "https://tigerfunded.com/about-us",
+    "kind": "page"
+   },
+   {
+    "value": "Within 48h \u2014 guaranteed, or w",
+    "snippet": "talking to a member of the team in minutes during office hours. Y Hey! When will my payout arrive? 14:02 T Within 48h \u2014 guaranteed, or we add $1,000 on top \ud83d\udc2f 14:03 Click the chat bubble at the bottom-right corner to open Intercom. Average first reply \u2014 under 5 minutes during office hours. Anytime \u2014 2",
+    "url": "https://tigerfunded.com/contact",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "ly drawdown 5% Drawdown type Static Minimum trading days 1 day Consistency rule None Leverage 1:100 Limits shown on a $100,000 example account. Simulated funds. Maximum Drawdown Static Your total loss limit, fixed on your starting balance and it never moves up behin",
+    "url": "https://tigerfunded.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "1:50",
+    "snippet": "\\n| Forex | 1:100 |\\n| Indices | 1:30 |\\n| Commodities | 1:30 |\\n| Crypto | 1:2 |\\n~ Leverage for Instant Pro is 1:50.\", }, { q: \"When is the daily max limit reset time?\", a: \"The max daily limit resets at **8 PM EST**.\", }, ] as QA[], faqRules: [ { q: \"What is the target?\", a",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout capped at 3% of balance \u2014 the rest simply carries forward, nothing lost",
+    "snippet": ",250 $50,000 $52,500 $2,500 $100,000 $105,000 $5,000 $200,000 $210,000 $10,000 First payout capped at 3% of balance \u2014 the rest simply carries forward, nothing lost. Uncapped from your second payout. Example \u00b7 $100K Equity at $112,000 \u2192 $3,000 paid now , $9,000 stays on the account for next time. At a glance Rule Instant Elite Con",
+    "url": "https://tigerfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "SCALING PLAN\n SCALING PLAN\n AFFILIATE\n AFFILIATE\n ABOUT US\n ABOUT US\n About Us Contact \n Contact Buy Challenge\n \n \n \n Bu",
+    "snippet": "lenge NEW50 First order only \u00d7 RULES RULES Rules FAQ FAQ REWARDS REWARDS SCALING PLAN SCALING PLAN AFFILIATE AFFILIATE ABOUT US ABOUT US About Us Contact Contact Buy Challenge Buy Challenge 4.7/5 Rated Excellent CHOSEN BY 100K+ TRADERS SINCE 2024 BUY CHALLENGE \u2197 \ud83c\udf83 OCTOBER OFFER \u00b7 ENDS OCT 31 \ud83c\udf83 BUY 1 GET 3 INSTANTLY \u2605 + 200% REFUND *Exclud",
+    "url": "https://tigerfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan \n \n \n \n \n \n New to Tiger Funded? Get 50% OFF your first challenge with code New here? 50% OFF your 1st chal",
+    "snippet": "Tiger Funded \u00b7 Scaling Plan New to Tiger Funded? Get 50% OFF your first challenge with code New here? 50% OFF your 1st challenge NEW50 First order only \u00d7 RULES RULES Rules FAQ FAQ REWARDS REWARDS SCALING PLAN SCALING PLAN AFFILIATE AFFILIATE ABOUT US ABOUT US About Us Contact Contact Buy Challe",
+    "url": "https://tigerfunded.com/scallingplan",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC process, while access patterns from other countries may be restricted, investigated, or treated as a complian",
+    "snippet": "P addresses may be allowed from the same country identified by the trader during the KYC process, while access patterns from other countries may be restricted, investigated, or treated as a compliance violation. 8. Intellectual Property All content, features, branding, software, text, graphics, logos, and functionality of the Platform are",
+    "url": "https://tigerfunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Minimum number of days with at least one trade before a payout can be requested. None Profit Target Instant funding \u2014 no challenge phase, no profit target. On Demand Rewards Request your rewards whenever you want, no schedule. Up to 100% Reward Split You keep 80% of your pro",
+   "url": "https://tigerfunded.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "00% REFUND \u2605 *Excluding Instant Elite models No consistency rule Instant Elite NEW Instant Standard 1 Step 2 Step Platform MatchTrader Platform 5 % $ Account Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No m",
+   "url": "https://tigerfunded.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "UND \u2605 *Excluding Instant Elite models No consistency rule Instant Elite NEW Instant Standard 1 Step 2 Step Platform MatchTrader Platform 5 % $ Account Size Price 10K $147 $81 BUY CHALLENGE Free Reset 200% Refundable Total freedom \u2605 No consistency rule No minimum",
+   "url": "https://tigerfunded.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "nd watch its exact boundaries draw themselves. No fog, no surprises. Risk Instrument 1-Step 2-Step 3-Step Instant Pro Profit zone Breach zone Target +8% Start \u00b7 $100,000 Daily limit \u22125% Max drawdown \u221212% 2-Step Challenge 12% Max Drawdown \u00b7 Static Profit target",
+   "url": "https://tigerfunded.com/rules"
+  }
+ ],
+ "platforms": [
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "tly 45% OFF Code OCTOBER \u2605 + 200% REFUND \u2605 *Excluding Instant Elite models $10.2 Million+ total rewards 195+ Countries 48H Rewards Secured every time 2024 Best New Prop Firm",
+  "Pass your challenge Get rewarded \u00b7 under 48H Trade Your Own Style no hidden rules 100K+ traders $10.2M+ \u00b7 195+ countries \u2605 4.7/5 Succeed 12% Max Drawdown Keep 20% Challenge Reward",
+  "nh Samuel Stefan Lee BUY CHALLENGE \u2197 $ 10,200,000 + Rewards sent to thousands of traders across 195+ countries since 2024. Reward processed within 24 hours, no delays. 2",
+  "ithin 24 hours, no delays. 24 H Avg. reward time 100 K+ Active traders 65 % Repeat rewards Rewards in 48H 195+ countries Secure payouts BUY CHALLENGE \u2197 $ 10,200,000 + Sent to trad",
+  "peat rewards Rewards in 48H 195+ countries Secure payouts BUY CHALLENGE \u2197 $ 10,200,000 + Sent to traders in 195+ countries \u00b7 processed within 24H 24H Avg. reward time 100K+ Active t",
+  "ant Funding BUY CHALLENGE \u2197 Instant funding Learn, grow and connect with traders worldwide, traders from 195 countries trust our platform Join an active community of funded trad"
+ ],
+ "errors": []
+}

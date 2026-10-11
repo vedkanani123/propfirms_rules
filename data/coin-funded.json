@@ -1,0 +1,29 @@
+{
+ "slug": "coin-funded",
+ "name": "Coin Funded",
+ "category": "Crypto",
+ "url": "https://coin-funded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://coin-funded.com/",
+   "kind": "home",
+   "chars": 0
+  },
+  {
+   "url": "https://coin-funded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 30
+  }
+ ],
+ "page_count": 2,
+ "total_chars": 31,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

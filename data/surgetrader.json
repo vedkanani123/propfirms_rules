@@ -1,0 +1,29 @@
+{
+ "slug": "surgetrader",
+ "name": "SurgeTrader",
+ "category": "Historical/Uncertain",
+ "url": "https://surgetrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://surgetrader.com/",
+   "kind": "home",
+   "chars": 0
+  },
+  {
+   "url": "https://surgetrader.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 30
+  }
+ ],
+ "page_count": 2,
+ "total_chars": 31,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

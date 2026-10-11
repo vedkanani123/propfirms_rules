@@ -1,0 +1,12 @@
+{
+ "slug": "propshoptrader",
+ "name": "PropShopTrader",
+ "category": "Forex/CFD",
+ "url": "https://propshoptrader.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

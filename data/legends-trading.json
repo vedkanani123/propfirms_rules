@@ -1,0 +1,371 @@
+{
+ "slug": "legends-trading",
+ "name": "Legends Trading",
+ "category": "Futures",
+ "url": "https://thelegendstrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://thelegendstrading.com/",
+   "kind": "home",
+   "chars": 12870
+  },
+  {
+   "url": "https://thelegendstrading.com/plans",
+   "kind": "page",
+   "chars": 16054
+  },
+  {
+   "url": "https://thelegendstrading.com/terms-conditions",
+   "kind": "page",
+   "chars": 13606
+  },
+  {
+   "url": "https://thelegendstrading.com/about",
+   "kind": "page",
+   "chars": 4601
+  },
+  {
+   "url": "https://thelegendstrading.com/contact",
+   "kind": "page",
+   "chars": 3804
+  }
+ ],
+ "page_count": 5,
+ "total_chars": 50939,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "40",
+    "snippet": "d What\u2019s included Code: LTG $1,500 Profit Target $1,250 EOD trailing max loss Daily Loss Limit: None Consistency: 40% Contracts: 2 Minis / 20 Micros Activation Fee: None Most Popular $50,000 Max 4 Minis / 40 Micros $149 $96.85 / one time Save $52.15 with code LTG Get star",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "30",
+    "snippet": "arted What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 8",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "Get started What\u2019s included Code: LTG $1,500 Profit Target $1,250 EOD trailing max loss Daily Loss Limit: None Consistency: 40% Contracts: 2 Minis / 20 Micros Activation Fee: None Most Popular $50,000 Max 4 Minis / 40 Micros $149 $96.85 / one time Save $52.15 with code LTG Get star",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "28",
+    "snippet": "FUNDED Start Trading. Stay Connected Raj P. $25,000 Master Plan Equity Growth: 28% Payout $7 ,102 Linda K. $100,000 Master Plan Equity Growth: 35% Payout $31 ,507.05 Mateo V. $15,000 Master Plan Equity Growth: 25% Payout $22, 588.98 Mateo V. $1",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "35",
+    "snippet": "quity Growth: 28% Payout $7 ,102 Linda K. $100,000 Master Plan Equity Growth: 35% Payout $31 ,507.05 Mateo V. $15,000 Master Plan Equity Growth: 25% Payout $22, 588.98 Mateo V. $100,000 Master Plan Equity Growth: 30% Payout $18,658.88 JOIn Disc",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ty Growth: 35% Payout $31 ,507.05 Mateo V. $15,000 Master Plan Equity Growth: 25% Payout $22, 588.98 Mateo V. $100,000 Master Plan Equity Growth: 30% Payout $18,658.88 JOIn Discord Get Started now Legends Trading Group, Inc. 5755 Las Virgenes Rd.",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "30",
+    "snippet": "y Growth: 25% Payout $22, 588.98 Mateo V. $100,000 Master Plan Equity Growth: 30% Payout $18,658.88 JOIn Discord Get Started now Legends Trading Group, Inc. 5755 Las Virgenes Rd., Suite D Calabasas, CA 91302 Navigation Plans About Knowledge Cont",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "50",
+    "snippet": "st was the support team. Every question I had got answered within minutes. Passed my $50k challenge and already on my second payout! Maria D. Getting funded felt unreal at first. But Legends delivered exactly what they promised. If you\u2019re serious about trad",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,50",
+    "snippet": "AVE WHAT IT TAKES TO BE THE NEXT LEGENDARY TRADER No daily loss limit Trade up to $1,500,000 on multiple accounts 90/10 payouts Get Funded in 1 Day We are the first in the industry with a solid foundation in futures brokerage, giving us unique insights an",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "Your Journey Starts Here Apprentice Elite Straight to master Most Popular $25,000 Max 4 contracts / 40 micros $165 $33 / per month Save $132 with code LTG Get started What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trai",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "165",
+    "snippet": "ce Elite Straight to master Most Popular $25,000 Max 4 contracts / 40 micros $165 $33 / per month Save $132 with code LTG Get started What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 da",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "33",
+    "snippet": "e Straight to master Most Popular $25,000 Max 4 contracts / 40 micros $165 $33 / per month Save $132 with code LTG Get started What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "132",
+    "snippet": "Most Popular $25,000 Max 4 contracts / 40 micros $165 $33 / per month Save $132 with code LTG Get started What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "ode: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 80% off Code:",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 80% off Code: LTG 3.000 profit goal $2,000 EOD trai",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "185",
+    "snippet": "4 days $99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 80% off Code: LTG 3.000 profit goal $2,000 EOD trailing max loss Consistency 30% 4 day",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "37",
+    "snippet": "$99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 80% off Code: LTG 3.000 profit goal $2,000 EOD trailing max loss Consistency 30% 4 days $99",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "148",
+    "snippet": "Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 80% off Code: LTG 3.000 profit goal $2,000 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most P",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "ith code LTG Get started What\u2019s included 80% off Code: LTG 3.000 profit goal $2,000 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $100,000 Max 14 contracts / 70 micros $225 $45 / per month Save $180 with cod",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $100,000 Max 14 contracts / 70 micros $225 $45 / per month Save $180 with code LTG Get started What\u2019s included 80% off Code: LTG $6.000 profit goal $3.000 EOD tra",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "TG Get started What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "End-of-Day",
+    "snippet": "imit As long as you stay within your overall Max Loss, you can continue trading. End-of-Day Max Trailing Drawdown We calculate your Max Drawdown at the end of each trading day. This lets you focus on your strategy without pressure during trading hours. Fair Con",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule\n Our 30% consistency rule allows flexibility",
+    "snippet": "This lets you focus on your strategy without pressure during trading hours. Fair Consistency Rule Our 30% consistency rule allows flexibility. If you exceed it, we adjust the extra\u2014no account deactivation, no penalties. No Hidden Traps As long as you stay within your overall Max Loss, you can continue trad",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule, you can request payouts\u2014up to twice per month",
+    "snippet": "e trading. Payouts Fast & secure Rewards! Flexible Payouts Once you meet the consistency rule, you can request payouts\u2014up to twice per month. 90/10 profit split Join live funded after 2nd payout, and keep your 90/10 split \u2014 a unique industry offer. 24/7 Live Support Our team is available around the clock",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "wise",
+    "snippet": "use these tools in a responsible and ethical manner. By posting information or otherwise using any open communication tools as mentioned, you agree that you will not upload, post, share, or otherwise distribute any content that: I. Is illegal, threatening, d",
+    "url": "https://thelegendstrading.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "Choose Your Account Your Journey Starts Here Apprentice Elite Straight to master Most Popular $25,000 Max 4 contracts / 40 micros $165 $33 / per month Save $132 with code LTG Get started What\u2019s included 80% off Code: LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $50,000",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "d a platform that works. Legends gave me the confidence (and the capital) to finally scale my trading Victor M. I failed my first attempt, but what I love is how they let you reset without punishing you financially. Second time I passed, and now I\u2019m withdrawing profits weekly.",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "consider trading. Past performance is not necessarily indicative of future results. CFTC RULE 4.41 - Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "transmission of any content on this site is strictly prohibited, unless specifically authorized by Legends Trading LLC. Termination of Use You agree that we may, at our sole discretion, suspend or terminate your access to all or part of our website and Resources with or without notice",
+    "url": "https://thelegendstrading.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "industry with a solid foundation in futures brokerag",
+    "snippet": "000 on multiple accounts 90/10 payouts Get Funded in 1 Day We are the first in the industry with a solid foundation in futures brokerage, giving us unique insights and expertise Get Started Choose Your Account Your Journey Starts Here Apprentice Elite Straight to master Most Popular $25,0",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ssing the challenge, enter the Master Simulation stag",
+    "snippet": "d avoid liquidation to prove your skill Step 3 Move to the Master Account After passing the challenge, enter the Master Simulation stage. Manage risk and earn real rewards from your profitable trades Apprentice Elite Straight to master Most Popular $25,000 Max 4 contracts / 40 micros $165 $",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e. Manag",
+    "snippet": "to the Master Account After passing the challenge, enter the Master Simulation stage. Manage risk and earn real rewards from your profitable trades Apprentice Elite Straight to master Most Popular $25,000 Max 4 contracts / 40 micros $165 $33 / pe",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Legends Trading Group, Inc",
+    "snippet": "ster Plan Equity Growth: 30% Payout $18,658.88 JOIn Discord Get Started now Legends Trading Group, Inc. 5755 Las Virgenes Rd., Suite D Calabasas, CA 91302 Navigation Plans About Knowledge Contact us Legal links Terms & Conditions Privacy Policy Manage cookies",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Calabasa",
+    "snippet": "scord Get Started now Legends Trading Group, Inc. 5755 Las Virgenes Rd., Suite D Calabasas, CA 91302 Navigation Plans About Knowledge Contact us Legal links Terms & Conditions Privacy Policy Manage cookies Affiliate Area Stay in touch Sign up",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Manag",
+    "snippet": "lans About Knowledge Contact us Legal links Terms & Conditions Privacy Policy Manage cookies Affiliate Area Stay in touch Sign up for our newsletter Thank you! Your submission has been received! Oops! Something went wrong while submitting the form",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "uld consider trading. Past performance is not necessa",
+    "snippet": "sk capital should be used for trading and only those with sufficient risk capital should consider trading. Past performance is not necessarily indicative of future results. CFTC RULE 4.41 - Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulate",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ed results do not represent actual trading. Also, sinc",
+    "snippet": "rmance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also, since the trades have not been executed, the results may have under-or-over compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulate",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy\n Due to intellectual property rights, we have a strict no refund policy",
+    "snippet": "BILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. Contact Information Refund Policy Due to intellectual property rights, we have a strict no refund policy. Furthermore, any action to enforce this User Agreement shall be brought in the federal or state courts located in California. You hereby agree to personal jurisdiction",
+    "url": "https://thelegendstrading.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "each trading day",
+    "snippet": "g. End-of-Day Max Trailing Drawdown We calculate your Max Drawdown at the end of each trading day. This lets you focus on your strategy without pressure during trading hours. Fair Consistency Rule Our 30% consistency rule allows flexibility. If you exceed it, we",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eactivation, no penalties",
+    "snippet": "nsistency rule allows flexibility. If you exceed it, we adjust the extra\u2014no account deactivation, no penalties. No Hidden Traps As long as you stay within your overall Max Loss, you can continue trading. Payouts Fast & secure Rewards! Flexible Payouts Once you meet th",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam is available around the clock via live chat to assist you\u2014no waiting for business hours or delayed email replies",
+    "snippet": "ayout, and keep your 90/10 split \u2014 a unique industry offer. 24/7 Live Support Our team is available around the clock via live chat to assist you\u2014no waiting for business hours or delayed email replies. $2,100 Singapore $7,000 Spain $1,500 Turkey $8,000 Sweden $2,100 South Korea $2,100 Singapore $2,100 USA $2,100 Poland Get Started no",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ea\n \n $2,100\n Singapore\n \n $2,100\n USA\n \n $2,100\n Poland\n \n Get Started now\n \n testimonials\n Trusted by legends all over",
+    "snippet": "Singapore $7,000 Spain $1,500 Turkey $8,000 Sweden $2,100 South Korea $2,100 Singapore $2,100 USA $2,100 Poland Get Started now testimonials Trusted by legends all over the globe What impressed me most was the support team. Every question I had got answered within minutes. Passed my $50k challenge and already on my second payout! Maria",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam",
+    "snippet": "ials Trusted by legends all over the globe What impressed me most was the support team. Every question I had got answered within minutes. Passed my $50k challenge and already on my second payout! Maria D. Getting funded felt unreal at first. But Legends",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 1 Day We are the firs",
+    "snippet": "ARY TRADER No daily loss limit Trade up to $1,500,000 on multiple accounts 90/10 payouts Get Funded in 1 Day We are the first in the industry with a solid foundation in futures brokerage, giving us unique insights and expertise Get Started Choose Your Account Your Journey Starts Here",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee\n \n Most Popular\n $50,000\n Max 10 contracts / 50 micros\n $185\n \n $37\n / per month\n Save $148 with code \u00a0 L",
+    "snippet": "LTG $1,500 profit goal $1,500 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $50,000 Max 10 contracts / 50 micros $185 $37 / per month Save $148 with code LTG Get started What\u2019s included 80% off Code: LTG 3.000 profit goal $2,000 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $10",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n \n Most Popular\n $100,000\n Max 14 contracts / 70 micros\n $225\n \n $45\n / per month\n Save $180 with code \u00a0 ",
+    "snippet": ": LTG 3.000 profit goal $2,000 EOD trailing max loss Consistency 30% 4 days $99 Activation Fee Most Popular $100,000 Max 14 contracts / 70 micros $225 $45 / per month Save $180 with code LTG Get started What\u2019s included 80% off Code: LTG $6.000 profit goal $3.000 EOD trailing max loss Consistency 30% 4 days $149 Activation Fee Most Popular",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n \n Most Popular\n $150,000\n Max 17 contracts / 85 micros\n $320\n \n $64\n / per month\n Save $256 with code \u00a0 ",
+    "snippet": "LTG $6.000 profit goal $3.000 EOD trailing max loss Consistency 30% 4 days $149 Activation Fee Most Popular $150,000 Max 17 contracts / 85 micros $320 $64 / per month Save $256 with code LTG Get started What\u2019s included 80% off Code: LTG $9.000 profit goal $4.000 EOD trailing max loss Consistency 30% 4 days $199 Activation Fee Most Popular",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n \n Most Popular\n $25,000\n Max 2 contracts / 20 micros\n $99\n \n $64",
+    "snippet": "LTG $9.000 profit goal $4.000 EOD trailing max loss Consistency 30% 4 days $199 Activation Fee Most Popular $25,000 Max 2 contracts / 20 micros $99 $64.35 / one time Save $34.65 with code LTG Get started What\u2019s included Code: LTG $1,500 Profit Target $1,250 EOD trailing max loss Daily Loss Limit: None Consis",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee: None\n \n Most Popular\n $50,000\n Max 4 Minis / 40 Micros\n $149\n \n $96",
+    "snippet": "max loss Daily Loss Limit: None Consistency: 40% Contracts: 2 Minis / 20 Micros Activation Fee: None Most Popular $50,000 Max 4 Minis / 40 Micros $149 $96.85 / one time Save $52.15 with code LTG Get started What\u2019s included Code: LTG $2,700 Profit Target $2,200 EOD trailing max loss Daily Loss Limit: None Consis",
+    "url": "https://thelegendstrading.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "TAKES TO BE THE NEXT LEGENDARY TRADER No daily loss limit Trade up to $1,500,000 on multiple accounts 90/10 payouts Get Funded in 1 Day We are the first in the industry with"
+ ],
+ "errors": []
+}

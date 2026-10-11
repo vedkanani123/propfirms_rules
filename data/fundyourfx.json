@@ -1,0 +1,641 @@
+{
+ "slug": "fundyourfx",
+ "name": "FundYourFX",
+ "category": "Forex/CFD",
+ "url": "https://fundyourfx.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundyourfx.io/",
+   "kind": "home",
+   "chars": 15713
+  },
+  {
+   "url": "https://fundyourfx.io/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 68218
+  },
+  {
+   "url": "https://fundyourfx.io/fr/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4794
+  },
+  {
+   "url": "https://fundyourfx.io/id/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4432
+  },
+  {
+   "url": "https://fundyourfx.io/es/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4702
+  },
+  {
+   "url": "https://fundyourfx.io/vi/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4677
+  },
+  {
+   "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4509
+  },
+  {
+   "url": "https://fundyourfx.io/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4230
+  },
+  {
+   "url": "https://fundyourfx.io/ar/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4235
+  },
+  {
+   "url": "https://fundyourfx.io/pt/faqs/trading-rules-guide/growth-plan",
+   "kind": "page",
+   "chars": 4498
+  },
+  {
+   "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+   "kind": "page",
+   "chars": 7672
+  },
+  {
+   "url": "https://fundyourfx.io/pt/faqs/trading-rules-guide/nitro-challenge",
+   "kind": "page",
+   "chars": 7526
+  },
+  {
+   "url": "https://fundyourfx.io/fr/faqs/trading-rules-guide/nitro-challenge",
+   "kind": "page",
+   "chars": 7921
+  },
+  {
+   "url": "https://fundyourfx.io/id/faqs/trading-rules-guide/nitro-challenge",
+   "kind": "page",
+   "chars": 7443
+  },
+  {
+   "url": "https://help.fundyourfx.io/",
+   "kind": "sub",
+   "chars": 836
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 151420,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "ocess How to Get Started. Start earning with FundYourFX in just three simple steps: Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Evaluation Phase Pass the Challenge Reward paid $2,890 Oliver F. Funded Phase Get Paid Up To $6M 95% Split 24 H",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "nstant Funding \u00b7 Classic Account Rules $ Rules Rewards Conditions Rule Funded Profit Target i $150 Daily Loss i 4% Max Loss i 6% Payouts i 24 Hours Refundable Fee i Yes Reward Split i 50\u201395% Payout Time i 24 Hours Consistency Rule i No Time Limit i None Weekend Holding i Allowed Dr",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "ung, die Sie vor dem Start kennen. Die drei Geschwindigkeiten Stufe Handelsfenster Profit target Max drawdown Nitro 6 Stunden 1% 0.4% Elite 12 Stunden 2% 0.9% Schnell 24 Stunden 3% 1.35% Geb\u00fchren und feste Belohnungen (aktuelle Aktionspreise, best\u00e4tigen Sie den neuesten Stand an der Kasse): Stufe",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "tarted. Start earning with FundYourFX in just three simple steps: Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Evaluation Phase Pass the Challenge Reward paid $2,890 Oliver F. Funded Phase Get Paid Up To $6M 95% Split 24 Hours Scaling Scal",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "ing with FundYourFX in just three simple steps: Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Evaluation Phase Pass the Challenge Reward paid $2,890 Oliver F. Funded Phase Get Paid Up To $6M 95% Split 24 Hours Scaling Scale Up Profit T",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "or dem Start kennen. Die drei Geschwindigkeiten Stufe Handelsfenster Profit target Max drawdown Nitro 6 Stunden 1% 0.4% Elite 12 Stunden 2% 0.9% Schnell 24 Stunden 3% 1.35% Geb\u00fchren und feste Belohnungen (aktuelle Aktionspreise, best\u00e4tigen Sie den neuesten Stand an der Kasse): Stufe",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "Limits? Sie h\u00e4ngen von Ihrer Geschwindigkeit ab: Nitro hat ein Ziel von 1% mit 0.4% max drawdown, Elite 2% mit 0.9% und Schnell 3% mit 1.35%. 3. Wie viel kann ich verdienen? Die Belohnungen sind fest und werden vor dem Kauf angezeigt (siehe Tabelle oben). Zum Beispiel zahlt",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "0.4",
+    "snippet": "n 6h Nitro / 12h Elite / 24h Schnell Profit Target 1% / 2% / 3% nach Geschwindigkeit Max Drawdown 0.4% / 0.9% / 1.35% nach Geschwindigkeit Leverage 1:30 Mindesttrades 5 berechtigte Trades Stop-Loss-Regel Innerhalb von 2 Min. erforderlich Rapid-Re-Entry-Regel Kein Wiederei",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "imites de drawdown? Eles dependem da sua velocidade: Lightning tem target de 1% com max drawdown de 0,4%, Elite tem 2% com 0,9% e Fast tem 3% com 1,35%. 3. Quanto posso ganhar? As recompensas s\u00e3o fixas e exibidas antes da compra (veja a tabela acima). Por exemplo, um desa",
+    "url": "https://fundyourfx.io/pt/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "55",
+    "snippet": "FundYourFX | Instant Funded Trader Accounts \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17 \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17 \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "and keep up to 95% of your profits. Payouts in 24 Hours No Consistency Rule Up to 95% Split Recognized by the Industry Process How to Get Started. Start earning with FundYourFX in just three simple steps: Profit Target 10% Daily Drawdown 4% Max Drawdown",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "gen (aktuelle Aktionspreise, best\u00e4tigen Sie den neuesten Stand an der Kasse): Stufe $25K $50K $100K Nitro $59 Geb\u00fchr / $160 Belohnung $99 / $320 $179 / $640 Elite $89 / $260 $179 / $520 $299 / $1,040 Schnell $129 / $360 $259 / $720 $399 / $1,440 H\u00e4ufig geste",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "aktuelle Aktionspreise, best\u00e4tigen Sie den neuesten Stand an der Kasse): Stufe $25K $50K $100K Nitro $59 Geb\u00fchr / $160 Belohnung $99 / $320 $179 / $640 Elite $89 / $260 $179 / $520 $299 / $1,040 Schnell $129 / $360 $259 / $720 $399 / $1,440 H\u00e4ufig gestellte",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "lle Aktionspreise, best\u00e4tigen Sie den neuesten Stand an der Kasse): Stufe $25K $50K $100K Nitro $59 Geb\u00fchr / $160 Belohnung $99 / $320 $179 / $640 Elite $89 / $260 $179 / $520 $299 / $1,040 Schnell $129 / $360 $259 / $720 $399 / $1,440 H\u00e4ufig gestellte Fragen",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "155",
+    "snippet": "FundYourFX | Instant Funded Trader Accounts \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17 \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17 \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE:",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "0,265 Reviews Built For Traders Who Scale Win Succeed Get Paid Level Up Trade Up to $6M in Capital. Daily Payouts. No Consistency Rule. Start Challenge Join The Desk $42M+ Paid in Rewards 220,532 Funded Traders 160+ Countries Served 2021 Established",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "42",
+    "snippet": "$6M in Capital. Daily Payouts. No Consistency Rule. Start Challenge Join The Desk $42M+ Paid in Rewards 220,532 Funded Traders 160+ Countries Served 2021 Established Recent Payouts Verified on the Blockchain $487 Ahmad J. \ud83c\uddef\ud83c\uddf4 Verified \u00b7 13m ago $656 Em",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "487",
+    "snippet": "160+ Countries Served 2021 Established Recent Payouts Verified on the Blockchain $487 Ahmad J. \ud83c\uddef\ud83c\uddf4 Verified \u00b7 13m ago $656 Emmanuel R. \ud83c\uddec\ud83c\udded Verified \u00b7 13m ago $9,209 Anh Z. \ud83c\uddfb\ud83c\uddf3 Verified \u00b7 16m ago $682 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "656",
+    "snippet": "ed Recent Payouts Verified on the Blockchain $487 Ahmad J. \ud83c\uddef\ud83c\uddf4 Verified \u00b7 13m ago $656 Emmanuel R. \ud83c\uddec\ud83c\udded Verified \u00b7 13m ago $9,209 Anh Z. \ud83c\uddfb\ud83c\uddf3 Verified \u00b7 16m ago $682 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "9,20",
+    "snippet": "lockchain $487 Ahmad J. \ud83c\uddef\ud83c\uddf4 Verified \u00b7 13m ago $656 Emmanuel R. \ud83c\uddec\ud83c\udded Verified \u00b7 13m ago $9,209 Anh Z. \ud83c\uddfb\ud83c\uddf3 Verified \u00b7 16m ago $682 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 2",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "682",
+    "snippet": "\u00b7 13m ago $656 Emmanuel R. \ud83c\uddec\ud83c\udded Verified \u00b7 13m ago $9,209 Anh Z. \ud83c\uddfb\ud83c\uddf3 Verified \u00b7 16m ago $682 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 28m ago $1,161 Rashed U. \ud83c\udde7\ud83c\udde9 Verified",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "664",
+    "snippet": "ed \u00b7 13m ago $9,209 Anh Z. \ud83c\uddfb\ud83c\uddf3 Verified \u00b7 16m ago $682 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 28m ago $1,161 Rashed U. \ud83c\udde7\ud83c\udde9 Verified \u00b7 35m ago $2,526 Aaron K. \ud83c\uddf2\ud83c\uddfe Verifi",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "326",
+    "snippet": "d \u00b7 16m ago $682 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 28m ago $1,161 Rashed U. \ud83c\udde7\ud83c\udde9 Verified \u00b7 35m ago $2,526 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 41m ago $1,273 Obinna T. \ud83c\uddf3\ud83c\uddec Veri",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "1,92",
+    "snippet": "ed \u00b7 18m ago $664 Javier N. \ud83c\uddea\ud83c\uddf8 Verified \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 28m ago $1,161 Rashed U. \ud83c\udde7\ud83c\udde9 Verified \u00b7 35m ago $2,526 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 41m ago $1,273 Obinna T. \ud83c\uddf3\ud83c\uddec Verified \u00b7 52m ago $366 Ruben F. \ud83c\uddf3\ud83c\uddf1 Veri",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "1,16",
+    "snippet": "d \u00b7 26m ago $326 Levi P. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 28m ago $1,161 Rashed U. \ud83c\udde7\ud83c\udde9 Verified \u00b7 35m ago $2,526 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 41m ago $1,273 Obinna T. \ud83c\uddf3\ud83c\uddec Verified \u00b7 52m ago $366 Ruben F. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 57m ago $326 Jae-hwan T. \ud83c\uddf0\ud83c\uddf7 Ver",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "2,52",
+    "snippet": "27m ago $1,927 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 28m ago $1,161 Rashed U. \ud83c\udde7\ud83c\udde9 Verified \u00b7 35m ago $2,526 Aaron K. \ud83c\uddf2\ud83c\uddfe Verified \u00b7 41m ago $1,273 Obinna T. \ud83c\uddf3\ud83c\uddec Verified \u00b7 52m ago $366 Ruben F. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 57m ago $326 Jae-hwan T. \ud83c\uddf0\ud83c\uddf7 Verified \u00b7 58m ago $487 Ahmad J. \ud83c\uddef\ud83c\uddf4 Verifi",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "Time i 24 Hours Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Tr",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule",
+    "snippet": "ho Scale Win Succeed Get Paid Level Up Trade Up to $6M in Capital. Daily Payouts. No Consistency Rule. Start Challenge Join The Desk $42M+ Paid in Rewards 220,532 Funded Traders 160+ Countries Served 2021 Established Recent Payouts Verified on the Blockchain $487",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule\n Up to 95% Split\n Recognized by the Industry \n \n \n Process How to Get Started",
+    "snippet": "Account, scale to $6M, and keep up to 95% of your profits. Payouts in 24 Hours No Consistency Rule Up to 95% Split Recognized by the Industry Process How to Get Started. Start earning with FundYourFX in just three simple steps: Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Evaluation Phase Pass the Challenge Re",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule, No Time Limit \u2014 Just Trade and Get Paid",
+    "snippet": "Scale Up Start Challenge Programs Choose Your Account, Trade Your Way No Consistency Rule, No Time Limit \u2014 Just Trade and Get Paid. \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout \u00b7 ends in 00 d 00 h 00 m 00 s Instant Instant Funding \u2212 55 % CASH55 1-Step 1-Step \u2212 55 % CASH55 2-Step 2-Step \u2212 55 % CASH55",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100 Scali",
+    "snippet": "youts i 24 Hours Refundable Fee i Yes Reward Split i 50\u201395% Payout Time i 24 Hours Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Traders Five",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding \n \n Why FYFX B",
+    "snippet": "kend Holding i Allowed Drawdown i Static Leverage i 1:100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Traders Five reasons traders stay \u2014 each one you can check yourself. Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None S",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules\n Trade freely without strict consistency requirements",
+    "snippet": "s Love FYFX? Everything other firms took away. We kept it. Then made it better. No Consistency Rules Trade freely without strict consistency requirements. Up To 95% Reward Split Keep up to 95% of your rewards. Unlimited Trading Days Trade at your own pace without time pressure. Trusted Since 2021 Trade with a prop f",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "me so you always know which day a result falls into. Read the full answer How the Payouts Work Request a reward on your programme\u2019s weekly or bi-weekly schedule. Approved payouts are typically processed within 24 hours by bank transfer or crypto; verification or compliance review may take up to 5 business d",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "monthly",
+    "snippet": "0.7 https://fundyourfx.io/pt/investor-relations monthly 0.7 https://fundyourfx.io/payouts monthly 0.7 https://fundyourfx.io/id/payouts monthly 0.7 https://fundyourfx.io/vi/payouts monthly 0.7 https://fundyourfx.io/es/payouts monthly 0.7 https://fundyourfx.io/fr/p",
+    "url": "https://fundyourfx.io/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "bank transfer",
+    "snippet": "y or bi-weekly schedule. Approved payouts are typically processed within 24 hours by bank transfer or crypto; verification or compliance review may take up to 5 business days. Read the full answer Copy Trading: What's Allowed and What's Not No. Copy trading is not",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "hedule. Approved payouts are typically processed within 24 hours by bank transfer or crypto; verification or compliance review may take up to 5 business days. Read the full answer Copy Trading: What's Allowed and What's Not No. Copy trading is not allowed. C",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "tax or trading advice, and none of our employees, staff or representatives are authorised to provide investment advice or recommendations. All information on this website is intended solely for educational and evaluation purposes related to trading on the fi",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ok Google Trustindex FundedTrading 4.7 /5 From 10,265 Reviews Built For Traders Who Scale Win Succeed Get Paid Level Up Trade Up to $6M in Capital. Daily Payouts. No Consistency Rule. Start Challenge Join The Desk $42M+ Paid in Rewards 220,532 Funded Traders 160+ Countries Served 2021 Established Recent Payo",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "$6,356 Fabienne J . Netherlands Reward $3,410 Valentin G . Germany Reward $3,670 Thomas P . Portugal Reward $8,150 Josh H . United Kingdom Reward $16,490 Tony M . Kenya Reward $5,940 Hidde S . Netherlands Reward $1,189 Ahmed K . Egypt Reward $4,830 Fabiana M",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "stop-limit-orders 2025-04-23T00:00:00.000Z monthly 0.5 https://fundyourfx.io/blog/nonfarm-payroll 2025-04-23T00:00:00.000Z monthly 0.5 https://fundyourfx.io/blog/automated-forex-trading 2025-04-23T00:00:00.000Z monthly 0.5 https://fundyourfx.io/blog/smart-money-concepts-terms 2026-07-",
+    "url": "https://fundyourfx.io/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "fsc",
+    "snippet": "rpr\u00fcfen Sie immer Ihre lokalen Vorschriften. Regeln & Anforderungen (vollst\u00e4ndige Aufschl\u00fcsselung) Regelkategorie Nitro Struktur Einstufig, zeitlich begrenzt Geschwindigkeiten 6h Nitro / 12h Elite / 24h Schnell Profit Target 1% / 2% / 3% nach Geschwindigkeit Max Drawdown 0.4% / 0.9% / 1.35% nach Geschwindigkeit Leverage 1:30 Mindesttrades",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Rewards Affiliate FAQ About en English Bahasa",
+    "snippet": "You Pass 2-Step Evaluation Prove Skill, Unlock Bigger Capital Compare All Programs Rewards Affiliate FAQ About en English Bahasa Indonesia Ti\u1ebfng Vi\u1ec7t Espa\u00f1ol Fran\u00e7ais Deutsch \u0627\u0644\u0639\u0631\u0628\u064a\u0629 Portugu\u00eas Start Challenge Reviewed on Myfxbook Google Trustindex FundedTrading 4.7 /5 From 10,265 Reviews Buil",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Indonesia",
+    "snippet": "Bigger Capital Compare All Programs Rewards Affiliate FAQ About en English Bahasa Indonesia Ti\u1ebfng Vi\u1ec7t Espa\u00f1ol Fran\u00e7ais Deutsch \u0627\u0644\u0639\u0631\u0628\u064a\u0629 Portugu\u00eas Start Challenge Reviewed on Myfxbook Google Trustindex FundedTrading 4.7 /5 From 10,265 Reviews Built For Trad",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Trusted Sinc",
+    "snippet": "52m ago $366 Ruben F. \ud83c\uddf3\ud83c\uddf1 Verified \u00b7 57m ago $326 Jae-hwan T. \ud83c\uddf0\ud83c\uddf7 Verified \u00b7 58m ago Trusted Since 2021 Your Skill . Our Capital . Join a prop firm that only profits when you get paid. Trade a simulated Funded Account, scale to $6M, and keep up to 95% of your profits",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "You sa",
+    "snippet": "25K 50K 100K 200K Account Overview 50K Instant Funding \u00b7 Classic $373.05 $829 You save $455.95 Start Trading You save $455.95 One-time fee 100% refundable Account Overview 50K Instant Funding \u00b7 Classic Account Rules $ Rules Rewards Conditions Rul",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Start Trading You sa",
+    "snippet": "Account Overview 50K Instant Funding \u00b7 Classic $373.05 $829 You save $455.95 Start Trading You save $455.95 One-time fee 100% refundable Account Overview 50K Instant Funding \u00b7 Classic Account Rules $ Rules Rewards Conditions Rule Funded Profit Target i $150 D",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "e Weekend Holding i Allowed Drawdown i Static Leverag",
+    "snippet": "Reward Split i 50\u201395% Payout Time i 24 Hours Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Traders Fi",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "countries Track Record Award-Winning Sinc",
+    "snippet": "rds Beyond Trading Up To $6M Scaling Plan Scale All the Way to $6M Since 2021 160+ countries Track Record Award-Winning Since 2021 Start Challenge Success Stories Real Traders. Real Payouts. Hear Directly from Funded Traders Around the World About Their Journey, Strategy, and Payouts.",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "TraderWaves Included Journal and analytics, inc",
+    "snippet": "s, synced across desktop, web, and mobile. Windows Android MacOS iOS Browser TraderWaves Included Journal and analytics, included for every FundYourFX trader by default. Browser iOS Android Platform 5 The terminal most traders already know. EAs and automation \u2014 available now. Windows A",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "75280952-000",
+    "snippet": "Terms \u00a9 2026 FundYourFX \u2022 All rights reserved FYFX Capital Limited \u00b7 Hong Kong company number: 75280952-000 Disclaimer All accounts offered by FundYourFX are virtual demo accounts and all services are provided in a simulated environment reflecting live market conditions. We",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available to residents of Hong Kong, North Korea or Iran",
+    "snippet": "y recommendation or solicitation to trade any financial instrument. Our services are not available to residents of Hong Kong, North Korea or Iran. For full details, please refer to our Terms of Service.",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable Account Overview\n 50K Instant Funding \u00b7 Classic \n \n Account Rules\n $ Rules Rewards Conditions \n Rule Funded P",
+    "snippet": "$373.05 $829 You save $455.95 Start Trading You save $455.95 One-time fee 100% refundable Account Overview 50K Instant Funding \u00b7 Classic Account Rules $ Rules Rewards Conditions Rule Funded Profit Target i $150 Daily Loss i 4% Max Loss i 6% Payouts i 24 Hours Refundable Fee i Yes Reward Split i 50\u201395% Payout Time i 24 Hours Consistency Ru",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable Fee i Yes Reward Split i 50\u201395% Payout Time i 24 Hours \n Consistency Rule i No Time Limit i None Weekend Hold",
+    "snippet": "Rule Funded Profit Target i $150 Daily Loss i 4% Max Loss i 6% Payouts i 24 Hours Refundable Fee i Yes Reward Split i 50\u201395% Payout Time i 24 Hours Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EA",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable EAs Welcome Weekend Holding \n \n Why FYFX Built for Serious Traders Five reasons traders stay \u2014 each one you c",
+    "snippet": ":100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Traders Five reasons traders stay \u2014 each one you can check yourself. Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Simple Rules Trade Without Looking Over Your Shoulder ",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy Privacy Policy Cookies Policy Affiliate Terms \n \n \u00a9 2026 FundYourFX \u2022 All rights reserved\n FYFX Capital Li",
+    "snippet": "ffiliate Program Investor Relations White Label Solution Legal Terms and Conditions Refund Policy Privacy Policy Cookies Policy Affiliate Terms \u00a9 2026 FundYourFX \u2022 All rights reserved FYFX Capital Limited \u00b7 Hong Kong company number: 75280952-000 Disclaimer All accounts offered by FundYourFX are virtual demo accounts and all services are p",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading, grid trading und reverse trading sind nicht erlaubt",
+    "snippet": "inns d\u00fcrfen aus einem einzigen Trade stammen. 10. Welche Strategien sind verboten? News trading, grid trading und reverse trading sind nicht erlaubt. Es darf nur ein aktives Challenge-Konto gleichzeitig handeln. 11. Wie schnell werde ich ausgezahlt? Genehmigte Belohnungen werden innerhalb von 24 Stunden bearbeitet.",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, grid trading e reverse trading",
+    "snippet": "de uma \u00fanica negocia\u00e7\u00e3o. 10. Quais estrat\u00e9gias s\u00e3o proibidas? N\u00e3o s\u00e3o permitidas: news trading, grid trading e reverse trading. Apenas uma conta de desafio ativa pode negociar por vez. 11. Quanto tempo leva para receber o pagamento? As recompensas aprovadas s\u00e3o processadas em at\u00e9 24 horas. Com",
+    "url": "https://fundyourfx.io/pt/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, le grid trading et le reverse trading ne sont pas autoris\u00e9s",
+    "snippet": "otal ne peut provenir d'un seul trade. 10. Quelles strat\u00e9gies sont interdites ? Le news trading, le grid trading et le reverse trading ne sont pas autoris\u00e9s. Un seul compte challenge actif peut trader \u00e0 la fois. 11. \u00c0 quelle vitesse suis-je pay\u00e9 ? Les r\u00e9compenses approuv\u00e9es sont trait\u00e9es sous 24 heures. Comme la r\u00e9compense",
+    "url": "https://fundyourfx.io/fr/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "News trading, grid trading, reverse trading ; trading multi-comptes R\u00e9compense Fixe, affich\u00e9e avant l'achat Traitement d",
+    "snippet": "par trade Max 1% du solde Concentration des profits Max 40% d'un seul trade Interdit News trading, grid trading, reverse trading ; trading multi-comptes R\u00e9compense Fixe, affich\u00e9e avant l'achat Traitement du payout Sous 24 heures Profit split Aucun (r\u00e9compense fixe) Nouvelle tentative Tentative instantan\u00e9e \u00e0 20% de r\u00e9duction (24h) Type de ",
+    "url": "https://fundyourfx.io/fr/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Earning Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluat",
+    "snippet": "E: cash55 Ends Oct 17 Home Programs Instant Funding Most Popular Skip Steps, Start Earning Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluation Prove Skill, Unlock Bigger Capital Compare All Programs Rewards Affiliate FAQ About en English Bahasa Indonesia Ti\u1ebfng Vi\u1ec7t Espa\u00f1ol Fr",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "earning with FundYourFX in just three simple steps:\n Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None",
+    "snippet": "Up to 95% Split Recognized by the Industry Process How to Get Started. Start earning with FundYourFX in just three simple steps: Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Evaluation Phase Pass the Challenge Reward paid $2,890 Oliver F. Funded Phase Get Paid Up To $6M 95% Split 24 Hours Scaling Scale Up Profit Tar",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "EAs Welcome Weekend Holding \n \n Why FYFX Built for Serious Traders Five reasons traders stay \u2014 each one you can check yo",
+    "snippet": "g i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Traders Five reasons traders stay \u2014 each one you can check yourself. Profit Target 10% Daily Drawdown 4% Max Drawdown 6% Time Limit None Simple Rules Trade Without Looking Over Your Shoulder Reward paid",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn Pips Climb Tiers Cashback Loyalty Program Rewards Beyond Trading\n Up To $6M Scaling Plan Scale All the Way to $6M\n ",
+    "snippet": "ooking Over Your Shoulder Reward paid $9,209 Anh Z. 24-Hour Payouts Get Paid, Fast Earn Pips Climb Tiers Cashback Loyalty Program Rewards Beyond Trading Up To $6M Scaling Plan Scale All the Way to $6M Since 2021 160+ countries Track Record Award-Winning Since 2021 Start Challenge Success Stories Real Traders. Real Payouts. Hear Directly f",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Traders",
+    "snippet": "ntries Track Record Award-Winning Since 2021 Start Challenge Success Stories Real Traders. Real Payouts. Hear Directly from Funded Traders Around the World About Their Journey, Strategy, and Payouts. Reward $1,189 Ahmed K . Egypt Reward $4,830 Fabiana",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@fundyourfx.io",
+    "snippet": "in 8 languages, by chat or email, whenever you need us. Chat with us Email us Email support@fundyourfx.io General enquiries info@fundyourfx.io English German Spanish French Portuguese Arabic Indonesian Vietnamese English German Spanish French Portuguese Arabic Indonesian V",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "info@fundyourfx.io",
+    "snippet": "er you need us. Chat with us Email us Email support@fundyourfx.io General enquiries info@fundyourfx.io English German Spanish French Portuguese Arabic Indonesian Vietnamese English German Spanish French Portuguese Arabic Indonesian Vietnamese 8 Languages Customer Supp",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "Cashback with payout USE CODE: cash55 Ends Oct 17 \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17 Home Programs Instant Funding Most Popular Skip Steps, Start Earning Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluation Prove",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "in 24 Hours\n No Consisten",
+    "snippet": "Trade a simulated Funded Account, scale to $6M, and keep up to 95% of your profits. Payouts in 24 Hours No Consistency Rule Up to 95% Split Recognized by the Industry Process How to Get Started. Start earning with FundYourFX in just three simple steps: Profit Target 10% Daily",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "in 00 d 00 h 00 m 00 s",
+    "snippet": "ency Rule, No Time Limit \u2014 Just Trade and Get Paid. \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout \u00b7 ends in 00 d 00 h 00 m 00 s Instant Instant Funding \u2212 55 % CASH55 1-Step 1-Step \u2212 55 % CASH55 2-Step 2-Step \u2212 55 % CASH55 Select Your Product 4.7 /5 From 7,452 Reviews Program Instant Instant Fu",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "24 Hours",
+    "snippet": "Rewards Conditions Rule Funded Profit Target i $150 Daily Loss i 4% Max Loss i 6% Payouts i 24 Hours Refundable Fee i Yes Reward Split i 50\u201395% Payout Time i 24 Hours Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours by bank trans",
+    "snippet": "uts Work Request a reward on your programme\u2019s weekly or bi-weekly schedule. Approved payouts are typically processed within 24 hours by bank transfer or crypto; verification or compliance review may take up to 5 business days. Read the full answer Copy Trading: What's Allowed and What's Not No. Copy trading is n",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "Consistency Rule i No Time Limit i None Weekend Holding i Allowed Drawdown i Static Leverage i 1:100 Scaling i Up To $1.5M No Consistency Rule No Time Limit Paid In 24 Hours 100% Refundable EAs Welcome Weekend Holding Why FYFX Built for Serious Traders Five reason",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   },
+   {
+    "value": "1:30",
+    "snippet": "en nach Er\u00f6ffnung eines Trades platziert werden. 6. Wie hoch ist der leverage? Der leverage bei der Nitro Challenge betr\u00e4gt 1:30. 7. Wie viele Positionen kann ich gleichzeitig halten? Bis zu 2 Positionen gleichzeitig. 8. Gibt es ein Risiko-pro-Trade-Limit? Ja. Sie d\u00fcrfen maximal 1% Ihres Konto",
+    "url": "https://fundyourfx.io/de/faqs/trading-rules-guide/nitro-challenge",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan Scale All the Way to $6M\n Since 2021 160+ countries Track Record Award-Winning Since 2021\n \n Start Challeng",
+    "snippet": "st Earn Pips Climb Tiers Cashback Loyalty Program Rewards Beyond Trading Up To $6M Scaling Plan Scale All the Way to $6M Since 2021 160+ countries Track Record Award-Winning Since 2021 Start Challenge Success Stories Real Traders. Real Payouts. Hear Directly from Funded Traders Around the World About Their Journey, Strategy, and Payouts. ",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription, no payout fee, no hidden overnight markup from us",
+    "snippet": "on top of the market. You only pay the standard swap the market charges. No platform subscription, no payout fee, no hidden overnight markup from us. Read the full answer Can You Trade With an EA? Yes, with restrictions. HFT, arbitrage, grid, martingale, tick scalping, and copying other traders or signals are not",
+    "url": "https://fundyourfx.io/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "5 Ends Oct 17 \ud83d\udd25 55% OFF - \ud83d\udcb0$155 Cashback with payout USE CODE: cash55 Ends Oct 17 Home Programs Instant Funding Most Popular Skip Steps, Start Earning Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluation Prov",
+   "url": "https://fundyourfx.io/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "DE: cash55 Ends Oct 17 Home Programs Instant Funding Most Popular Skip Steps, Start Earning Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluation Prove Skill, Unlock Bigger Capital Compare All Programs",
+   "url": "https://fundyourfx.io/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "g Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluation Prove Skill, Unlock Bigger Capital Compare All Programs Rewards Affiliate FAQ About en English Bahasa Indonesia Ti\u1ebfng Vi\u1ec7t Espa\u00f1ol Fran\u00e7ais Deutsc",
+   "url": "https://fundyourfx.io/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "Steps, Start Earning Today 1-Step Evaluation Pass Once, Get Funded Faster Pay After Pass Start Now, Pay After You Pass 2-Step Evaluation Prove Skill, Unlock Bigger Capital Compare All Programs Rewards Affiliate FAQ About en English Bahasa Indonesia Ti\u1ebfng Vi\u1ec7t Espa\u00f1ol Fran\u00e7ais",
+   "url": "https://fundyourfx.io/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "Match-Trader",
+  "TradingView",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Gold",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "y Payouts. No Consistency Rule. Start Challenge Join The Desk $42M+ Paid in Rewards 220,532 Funded Traders 160+ Countries Served 2021 Established Recent Payouts Verified on the",
+  "Cashback Loyalty Program Rewards Beyond Trading Up To $6M Scaling Plan Scale All the Way to $6M Since 2021 160+ countries Track Record Award-Winning Since 2021 Start Challenge",
+  "Behind FundYourFX One Global Team. Built Around Traders. 220,532 Funded Traders $42M+ Paid in Rewards 160+ Countries Served Hong Kong HQ Meet The Team Company Overview F",
+  "answer Not finding what you need? View all FAQs Start Your Journey! Trade With the Best Conditions. Join 220,000+ Traders From Over 160 Countries. Paid In 24 Hours Trusted since 20",
+  "ou need? View all FAQs Start Your Journey! Trade With the Best Conditions. Join 220,000+ Traders From Over 160 Countries. Paid In 24 Hours Trusted since 2021 Start Challenge Join",
+  "is suppl\u00e9mentaires et aucune demande distincte. Comment \u00e7a marche ? Votre solde de compte augmente tous les 3 payouts. Chaque augmentation vous fait monter d'un niveau sur l'\u00e9c"
+ ],
+ "errors": []
+}

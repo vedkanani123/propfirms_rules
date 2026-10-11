@@ -1,0 +1,354 @@
+{
+ "slug": "trade4u",
+ "name": "Trade4U",
+ "category": "Futures",
+ "url": "https://trade4uprop.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.trade4uprop.com/en",
+   "kind": "home",
+   "chars": 4894
+  },
+  {
+   "url": "https://www.trade4uprop.com/en/challenges",
+   "kind": "page",
+   "chars": 1393
+  },
+  {
+   "url": "https://www.trade4uprop.com/en/faq",
+   "kind": "page",
+   "chars": 1530
+  },
+  {
+   "url": "https://www.trade4uprop.com/en/terms",
+   "kind": "page",
+   "chars": 4016
+  },
+  {
+   "url": "https://www.trade4uprop.com/en/how-it-works",
+   "kind": "page",
+   "chars": 1843
+  },
+  {
+   "url": "https://www.trade4uprop.com/en/about",
+   "kind": "page",
+   "chars": 1523
+  },
+  {
+   "url": "https://www.trade4uprop.com/en/contact",
+   "kind": "page",
+   "chars": 739
+  }
+ ],
+ "page_count": 7,
+ "total_chars": 15944,
+ "findings": {
+  "max_drawdown": [
+   {
+    "value": "30",
+    "snippet": "ATED ACCOUNT Activation Fee One-time fee Min Profitable Days 5 Min Daily Profit $200 Max Drawdown RT (Trailing) Contract Exposure 4 Minis Consistency Rule 30% Up to 90% of simulated profits, paid to the trader Futures on professional platforms Approved payout requests processed within 24h See the full rulebook Start the ev",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "lenge Two-phase evaluation on a simulated account. Proven path. Profit Split 90% Max Drawdown 8% Learn more Instant Activation Reduced cost. Pay activation only when you pass. Profit Split 90% Max Drawdown 8% Learn more One-Day Challenge One session. One",
+    "url": "https://www.trade4uprop.com/en/challenges",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "t Funded No evaluation. Trade a simulated account from day one. Profit Split 80% Max Drawdown 6% trailing Learn more Simulated CME futures evaluations. Product Instant Funding Trading Platform Company About How it works FAQ Contact Legal Terms Privacy Risk",
+    "url": "https://www.trade4uprop.com/en/challenges",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "lts. Standard Challenge Two-phase evaluation on a simulated account. Proven path. Profit Split 90% Max Drawdown 8% Learn more Instant Activation Reduced cost. Pay activation only when you pass. Profit Split 90% Max Drawdown 8% Learn more One-Day Challenge",
+    "url": "https://www.trade4uprop.com/en/challenges",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "Learn more Instant Funded No evaluation. Trade a simulated account from day one. Profit Split 80% Max Drawdown 6% trailing Learn more Simulated CME futures evaluations. Product Instant Funding Trading Platform Company About How it works FAQ Contact Legal T",
+    "url": "https://www.trade4uprop.com/en/challenges",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "1",
+    "snippet": "The rules you trade under Profit Target Per program Max Drawdown Static / Trailing Min Trading Days From 1 day PRICING & ACCOUNTS One fee. No subscription. No condition you discover later. Every parameter below is the parameter you trade. The evaluation fee is charged onc",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "Trade4U | Simulated CME Futures Evaluations $25K evaluation \u2014 $99, regular $165. Challenges How it works Trading Platform About FAQ Contact Log In See pricing Simulated CME futures evaluations Every rule published b",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "ted CME futures evaluations Every rule published before payment. CME futures, up to $150K simulated. One fee. The entire rulebook is public before you start. Meet it and you keep up to 90% of the simulated profits. Trade4U provides simulated trading evaluati",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "e is charged once and is not refundable. Instant Funding Challenge $25K Challenge $50K Instant Funding Account $25K REGULAR $165 $99 One-time payment SIMULATED ACCOUNT Activation Fee One-time fee Min Profitable Days 5 Min Daily Profit $200 Max Draw",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "25",
+    "snippet": "Trade4U | Simulated CME Futures Evaluations $25K evaluation \u2014 $99, regular $165. Challenges How it works Trading Platform About FAQ Contact Log In See pricing Simulated CME futures evaluations Every rule published",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "Trade4U | Simulated CME Futures Evaluations $25K evaluation \u2014 $99, regular $165. Challenges How it works Trading Platform About FAQ Contact Log In See pricing Simulated CME futures evaluations Every rule published before payment. CM",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "165",
+    "snippet": "Trade4U | Simulated CME Futures Evaluations $25K evaluation \u2014 $99, regular $165. Challenges How it works Trading Platform About FAQ Contact Log In See pricing Simulated CME futures evaluations Every rule published before payment. CME futures, up",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "ted CME futures evaluations Every rule published before payment. CME futures, up to $150K simulated. One fee. The entire rulebook is public before you start. Meet it and you keep up to 90% of the simulated profits. Trade4U provides simulated trading evaluat",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "149",
+    "snippet": "10% Trader / Trade4U $150K Largest simulated account 24h Payout after approval $149 One-Day entry price See pricing Log in The rules you trade under Profit Target Per program Max Drawdown Static / Trailing Min Trading Days From 1 day PRICING & AC",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "e is charged once and is not refundable. Instant Funding Challenge $25K Challenge $50K Instant Funding Account $25K REGULAR $165 $99 One-time payment SIMULATED ACCOUNT Activation Fee One-time fee Min Profitable Days 5 Min Daily Profit $200 Max Dra",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "SIMULATED ACCOUNT Activation Fee One-time fee Min Profitable Days 5 Min Daily Profit $200 Max Drawdown RT (Trailing) Contract Exposure 4 Minis Consistency Rule 30% Up to 90% of simulated profits, paid to the trader Futures on professional platforms Approved",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "rocessed within 24 hours. Start your evaluation Trade a simulated account of up to $150,000 under rules published in full, and keep up to 90% of the simulated profits. See pricing Simulated CME futures evaluations. Product Instant Funding Trading Platform",
+    "url": "https://www.trade4uprop.com/en/how-it-works",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "End of Day",
+    "snippet": "s published. Read it before you decide. Profit Target Per program Daily Drawdown End of Day Max Drawdown Static / Trailing Leverage Micro 10 / Mini 1 Min Trading Days From 1 day News Trading Restricted Weekend Holding Allowed BLACKARROW PLATFORM BlackA",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule 30% \n Up to 90% of simulated profits, paid to the trader Futures on professional platform",
+    "snippet": "le Days 5 Min Daily Profit $200 Max Drawdown RT (Trailing) Contract Exposure 4 Minis Consistency Rule 30% Up to 90% of simulated profits, paid to the trader Futures on professional platforms Approved payout requests processed within 24h See the full rulebook Start the evaluation \u2014 $25K TRADING CONDITIONS Nothing here changes after you pay",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "after 5 profitable days with a $200 minimum daily profit and compliance with the 30% consistency rule. Once approved, processing takes up to 24 hours. Do I need a stop-loss? Stop-losses are not required (recommended on the One-Day Challenge). What happens if I trade du",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule? It limits how much a single day or trade can contribute to your total profits, encouragi",
+    "snippet": "olding rules depend on the program. See each challenge page for details. What's the consistency rule? It limits how much a single day or trade can contribute to your total profits, encouraging sustainable trading. Still have questions? Our support team is available 24/7 to help you. Contact Support Simulated CME futures evaluations. Produ",
+    "url": "https://www.trade4uprop.com/en/faq",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "login for all your accounts Explore BlackArrow YOUR JOURNEY Three phases. No surprises. You trade a simulated account to prove your skill. Meet the published requirements and you become eligible for payouts on simulated profits. Step 1 Evaluation Phase",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Leverag",
+    "snippet": "it Target Per program Daily Drawdown End of Day Max Drawdown Static / Trailing Leverage Micro 10 / Mini 1 Min Trading Days From 1 day News Trading Restricted Weekend Holding Allowed BLACKARROW PLATFORM BlackArrow \u2014 built for futures, not adapted",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Real-time CME data feed inc",
+    "snippet": "ata, native futures execution and the depth-of-market tools futures traders expect. Real-time CME data feed included Micro and Mini futures contracts Depth of market and advanced order types Web, desktop and mobile apps One BlackArrow login for all your accounts Explore BlackArrow",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "No vag",
+    "snippet": "within 24 hours. Start the evaluation WHY TRADE4U What you get, stated plainly No vague promises. This is exactly what the program includes. Futures only Built around CME futures instruments, not retrofitted from another market. Simulated account up to",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "ue promises. This is exactly what the program inc",
+    "snippet": "n 24 hours. Start the evaluation WHY TRADE4U What you get, stated plainly No vague promises. This is exactly what the program includes. Futures only Built around CME futures instruments, not retrofitted from another market. Simulated account up to $150K Prove your skill at size, without exposin",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "One session. One target. Simulated account the sa",
+    "snippet": "when you pass. Profit Split 90% Max Drawdown 8% Learn more One-Day Challenge One session. One target. Simulated account the same day. Profit Split 90% Max Drawdown 8% Learn more Instant Funded No evaluation. Trade a simulated account from day one. Profit Split 80% Max Drawdown 6% tra",
+    "url": "https://www.trade4uprop.com/en/challenges",
+    "kind": "page"
+   },
+   {
+    "value": "g rules depend on the program. See each challenge pag",
+    "snippet": "PI, GDP) results in account closure. Can I hold positions overnight? Position-holding rules depend on the program. See each challenge page for details. What's the consistency rule? It limits how much a single day or trade can contribute to your total profits, encouraging sustainable trading. Still have q",
+    "url": "https://www.trade4uprop.com/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "trade can contribute to your total profits, encourag",
+    "snippet": "e page for details. What's the consistency rule? It limits how much a single day or trade can contribute to your total profits, encouraging sustainable trading. Still have questions? Our support team is available 24/7 to help you. Contact Support Simulated CME futures evaluations. Product Instant F",
+    "url": "https://www.trade4uprop.com/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "services. By accessing or using our platform, you ag",
+    "snippet": "uction These Terms of Service govern your use of the Trade4U website and evaluation services. By accessing or using our platform, you agree to be bound by these terms. Trade4U provides simulated trading evaluation programs designed to identify skilled futures traders for potential funding opportunities.",
+    "url": "https://www.trade4uprop.com/en/terms",
+    "kind": "page"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Countries \n Trading futures involves substantial risk and is not suitable for every investor",
+    "snippet": "latform Company About How it works FAQ Contact Legal Terms Privacy Risk Disclosure Restricted Countries Trading futures involves substantial risk and is not suitable for every investor. Past performance is not indicative of future results. Trade4U provides simulated trading evaluations. \u00a9 2026 Trade4U. All rights reserved. \ud83c\uddec\ud83c\udde7 EN",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable",
+    "snippet": "eter below is the parameter you trade. The evaluation fee is charged once and is not refundable. Instant Funding Challenge $25K Challenge $50K Instant Funding Account $25K REGULAR $165 $99 One-time payment SIMULATED ACCOUNT Activation Fee One-time fee Mi",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "refundable except as explicitly stated in the specific program terms",
+    "snippet": "of purchase and are processed through our authorized payment providers. Fees are non-refundable except as explicitly stated in the specific program terms. Payout requests on simulated profits are subject to review and, once approved, are processed according to the payout schedule and split ratio described in the applicabl",
+    "url": "https://www.trade4uprop.com/en/terms",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading\n Restricted\n Weekend Holding\n Allowed\n \n BLACKARROW PLATFORM\n BlackArrow \u2014 built for futures, not adapted t",
+    "snippet": "wdown Static / Trailing Leverage Micro 10 / Mini 1 Min Trading Days From 1 day News Trading Restricted Weekend Holding Allowed BLACKARROW PLATFORM BlackArrow \u2014 built for futures, not adapted to them Our official trading platform: real-time CME data, native futures execution and the depth-of-market tools futures traders expect. Real-time C",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ead it before you decide",
+    "snippet": "thing here changes after you pay The full rulebook for every program is published. Read it before you decide. Profit Target Per program Daily Drawdown End of Day Max Drawdown Static / Trailing Leverage Micro 10 / Mini 1 Min Trading Days From 1 day News Trading Restr",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eal-time CME data, native futures execution and the depth-of-market tools futures traders expect",
+    "snippet": "BlackArrow \u2014 built for futures, not adapted to them Our official trading platform: real-time CME data, native futures execution and the depth-of-market tools futures traders expect. Real-time CME data feed included Micro and Mini futures contracts Depth of market and advanced order types Web, desktop and mobile apps One BlackArrow login f",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eal-time CME data feed included Micro and Mini futures contracts Depth of market and advanced order types Web, desktop a",
+    "snippet": "ta, native futures execution and the depth-of-market tools futures traders expect. Real-time CME data feed included Micro and Mini futures contracts Depth of market and advanced order types Web, desktop and mobile apps One BlackArrow login for all your accounts Explore BlackArrow YOUR JOURNEY Three phases. No surprises. You trade a simula",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "ear the evaluation\n Reach the profit target without breaching the daily or the total drawdown limit",
+    "snippet": "d you become eligible for payouts on simulated profits. Step 1 Evaluation Phase Clear the evaluation Reach the profit target without breaching the daily or the total drawdown limit. Both numbers are published per program. Step 2 Simulated Account Phase Trade the simulated account A new simulated account, with entitlement to up to 90% of t",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Both numbers are published per program",
+    "snippet": "on Reach the profit target without breaching the daily or the total drawdown limit. Both numbers are published per program. Step 2 Simulated Account Phase Trade the simulated account A new simulated account, with entitlement to up to 90% of the simulated profits it generates. Step 3 Pa",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 24h \n See the full rul",
+    "snippet": "of simulated profits, paid to the trader Futures on professional platforms Approved payout requests processed within 24h See the full rulebook Start the evaluation \u2014 $25K TRADING CONDITIONS Nothing here changes after you pay The full rulebook for every program is published. Read it before you decide.",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription",
+    "snippet": "down Static / Trailing Min Trading Days From 1 day PRICING & ACCOUNTS One fee. No subscription. No condition you discover later. Every parameter below is the parameter you trade. The evaluation fee is charged once and is not refundable. Instant Funding Challen",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee One-time fee Min Profitable Days 5 Min Daily Profit $200 Max Drawdown RT (Trailing) Contract Exposure 4 M",
+    "snippet": "stant Funding Account $25K REGULAR $165 $99 One-time payment SIMULATED ACCOUNT Activation Fee One-time fee Min Profitable Days 5 Min Daily Profit $200 Max Drawdown RT (Trailing) Contract Exposure 4 Minis Consistency Rule 30% Up to 90% of simulated profits, paid to the trader Futures on professional platforms Approved payout requests proce",
+    "url": "https://www.trade4uprop.com/en",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ameter below is the parameter you trade. The evaluation fee is charged once and is not refundable. Instant Funding Challenge $25K Challenge $50K Instant Funding Account $25K REGULAR $165 $99 One-time payment SIMULATED ACCOUNT Activation Fee One-time fee Min Profit",
+   "url": "https://www.trade4uprop.com/en"
+  },
+  {
+   "name": "Futures",
+   "snippet": "Trade4U | Simulated CME Futures Evaluations $25K evaluation \u2014 $99, regular $165. Challenges How it works Trading Platform About FAQ Contact Log In See pricing Simulated CME futures evaluations Every",
+   "url": "https://www.trade4uprop.com/en"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "account A new simulated account, with entitlement to up to 90% of the simulated profits it generates. Step 3 Payout Request your payout The first request can be submitted 7",
+  "lated account A new simulated account, with entitlement to up to 90% of the simulated profits it generates. 3 Payout Request your payout The first request can be submitted 7",
+  "lated account A new simulated account, with entitlement to up to 90% of the simulated profits it generates. 3 Payout Request your payout The first request can be submitted 7"
+ ],
+ "errors": []
+}

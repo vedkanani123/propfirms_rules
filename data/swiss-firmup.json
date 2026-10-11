@@ -1,0 +1,12 @@
+{
+ "slug": "swiss-firmup",
+ "name": "Swiss Firmup",
+ "category": "Specialist",
+ "url": "https://swissfirmup.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

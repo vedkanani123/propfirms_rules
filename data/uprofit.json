@@ -1,0 +1,455 @@
+{
+ "slug": "uprofit",
+ "name": "UProfit",
+ "category": "Futures",
+ "url": "https://uprofit.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://uprofit.com/",
+   "kind": "home",
+   "chars": 6877
+  },
+  {
+   "url": "https://uprofit.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 33
+  },
+  {
+   "url": "https://uprofit.com/sitemap-0.xml",
+   "kind": "sitemap",
+   "chars": 12171
+  },
+  {
+   "url": "https://uprofit.com/blog/day-trading-rules",
+   "kind": "page",
+   "chars": 12247
+  },
+  {
+   "url": "https://uprofit.com/pt/help",
+   "kind": "page",
+   "chars": 3289
+  },
+  {
+   "url": "https://uprofit.com/fr/help",
+   "kind": "page",
+   "chars": 3804
+  },
+  {
+   "url": "https://uprofit.com/es/help",
+   "kind": "page",
+   "chars": 3473
+  },
+  {
+   "url": "https://uprofit.com/help",
+   "kind": "page",
+   "chars": 3223
+  },
+  {
+   "url": "https://uprofit.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 17659
+  },
+  {
+   "url": "https://uprofit.com/choose-a-program",
+   "kind": "page",
+   "chars": 4004
+  },
+  {
+   "url": "https://uprofit.com/es/zero-programs-landing",
+   "kind": "page",
+   "chars": 4622
+  },
+  {
+   "url": "https://uprofit.com/day-programs",
+   "kind": "page",
+   "chars": 9462
+  },
+  {
+   "url": "https://uprofit.com/fr/zero-programs-landing",
+   "kind": "page",
+   "chars": 5124
+  },
+  {
+   "url": "https://uprofit.com/fr/legacy-programs",
+   "kind": "page",
+   "chars": 8299
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 94300,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "50",
+    "snippet": "oft Day Soft Day Flex 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss limit 50 % Consistency 6",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "50",
+    "snippet": "x 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss limit 50 % Consistency 6",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "150",
+    "snippet": "ed $800 Profit target 50 % Consistency $400 Drawdown 01 No Personal Risk Up to $150K in buying power\u2014no savings at stake 02 Real-time dashboard Allows you to track your orders, targets and limits live! 03 Fast payouts Profits in your pocket within",
+    "url": "https://uprofit.com/day-programs",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "29",
+    "snippet": "DAY 2.0 10K account is here, the most accessible way to start. Your evaluation from $29, with the 40% already applied. And for our 7th anniversary, get 20% EXTRA with code UPTBDAY. \ud83d\udce3 \ud83d\udce3 The new DAY 2.0 10K account is here, the most accessible way to start.",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "r strategy. A clear learning path to funding. Start Your Evaluation from $29 Target $1,500 $ 500 ( 0.5 %) Today Ready to Level Up Your Trading? 60K Virtual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout W",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "y. A clear learning path to funding. Start Your Evaluation from $29 Target $1,500 $ 500 ( 0.5 %) Today Ready to Level Up Your Trading? 60K Virtual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout Why Choose",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,40",
+    "snippet": "60K Virtual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout Why Choose Uprofit\u2019s Funded Trading Account? No Personal Funds at Risk. Live dashboard so you always know where you stand. Fast Payouts with no hidden",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "130",
+    "snippet": "valuation from $29 Trade on trusted platforms Day Soft Day Soft Day Flex 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "78",
+    "snippet": "ion from $29 Trade on trusted platforms Day Soft Day Soft Day Flex 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trad",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "Day Soft Day Soft Day Flex 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,10",
+    "snippet": "Day Flex 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss li",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "rted $3,000 Profit target $1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss limit 50 % Consistency 6 Contracts (max) $3,000 Drawdown 15",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "193",
+    "snippet": "$1,100 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss limit 50 % Consistency 6 Contracts (max) $3,000 Drawdown 150 K $ 327 $ 196 / Month",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "116",
+    "snippet": "0 Daily loss limit 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss limit 50 % Consistency 6 Contracts (max) $3,000 Drawdown 150 K $ 327 $ 196 / Month Trad",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,00",
+    "snippet": "cts (max) $2,000 Drawdown 100 K $ 193 $ 116 / Month Trade with Get started $6,000 Profit target $2,200 Daily loss limit 50 % Consistency 6 Contracts (max) $3,000 Drawdown 150 K $ 327 $ 196 / Month Trade with Get started $9,000 Profit target",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "EOD",
+    "snippet": "owing our simplified objectives, reach the Profit Target, and take advantage of your EOD Drawdown. Once traders pass this stage, they gain access to a Virtual Live Account. Monetized SIM Virtual Live Account Moving to the next stage showcases both commitment and a",
+    "url": "https://uprofit.com/day-programs",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "e to make profits: Trend Trading : this kind of trader buys an asset that is on the rise, and sells the ones that are dropping. They are trading with the current trend. Counter-Trend Trading : in this method, traders expect that prices on the rise will fall",
+    "url": "https://uprofit.com/blog/day-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "bsite from time to time to review the current legal notice. 1. License Unless otherwise stated, the copyright and other intellectual property rights in all material on this Website (with limitation photographs and graphical images) are owned by UProfit Trad",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "r-day-trading daily 0.7 2026-10-06T21:01:36.880Z https://uprofit.com/blog/que-es-el-scalping daily 0.7 2026-10-06T21:01:36.880Z https://uprofit.com/blog/como-ser-rentable-en-trading daily 0.7 2026-10-06T21:01:36.880Z https://uprofit.com/blog/como-ser-lucrativo-no-trad",
+    "url": "https://uprofit.com/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "rio, ganhe 20% EXTRA com o cupom UPTBDAY. \ud83d\udce3 Como fazemos Programa DAY 2.0 Plataformas Ajuda Blog Portugese pt English French Spanish Portugese Sign in Sign in Sign up for free Como fazemos Programa DAY 2.0 Plataformas Ajuda Blog Termos e condi\u00e7\u00f5es Pol\u00edtica de privacidade Aviso de cookies Portugese pt English French Spanish Portugese Sign ",
+    "url": "https://uprofit.com/pt/help",
+    "kind": "page"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "forth by governing bodies, including the U.S. Commodity Futures Trading Commission (CFTC), as well as our internal standards of conduct. 10.1. Regulatory Compliance Regulators such as the CFTC actively monitor trading activities to ensure market integrity. Particular attention is given to practices such",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "outside the best bid or offer (BBO). Using external or delayed data feeds to gain unfair advantages. c. Coordination of Accounts and Manipulative Strategies Coordinating trades between connected or external accounts to manipulate outcomes, collectively reduce risks, o",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Funding Sinc",
+    "snippet": "Funding Since 2019 | UProfit \u2014 UProfit \ud83d\udce3 The new DAY 2.0 10K account is here, the most accessible way to start. Your evaluation from $29, with the 40% already applied. And for our 7t",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "already applied. And for our 7th anniversa",
+    "snippet": "nt is here, the most accessible way to start. Your evaluation from $29, with the 40% already applied. And for our 7th anniversary, get 20% EXTRA with code UPTBDAY. \ud83d\udce3 \ud83d\udce3 The new DAY 2.0 10K account is here, the most accessible way to start. Your evaluation from $29, with the 40% already applied. A",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Virtual Live accounts sinc",
+    "snippet": "rom $29 Target $1,500 $ 500 ( 0.5 %) Today Ready to Level Up Your Trading? 60K Virtual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout Why Choose Uprofit\u2019s Funded Trading Account? No Personal Funds at Risk. Live dashboard so y",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Approved payout requests sinc",
+    "snippet": "ay Ready to Level Up Your Trading? 60K Virtual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout Why Choose Uprofit\u2019s Funded Trading Account? No Personal Funds at Risk. Live dashboard so you always know where you stand. Fast Payouts",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "tual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout Why Choose Uprofit\u2019s Funded Trading Account? No Personal Funds at Risk. Live dashboard so you always know where you stand. Fast Payouts with no hidden fees. 24",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "w-latency platforms and direct market access. Leverag",
+    "snippet": "Live Account Take Payouts Discover our Day Program 2.0 Platforms Command ultra-low-latency platforms and direct market access. Leverage expert support, community coaching, and educational resources. Discover Platforms What our traders say Customer reviews presented on this site may not reflect the",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "What our traders sa",
+    "snippet": "xpert support, community coaching, and educational resources. Discover Platforms What our traders say Customer reviews presented on this site may not reflect the experiences of all clients and should not be viewed as a promise of similar outcomes or success in the futu",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Hello Community, I want to sa",
+    "snippet": "d that's made me a better trader. Rowmer / 2026-08-27 Over 3 years without issues Hello Community, I want to say that in my experience with UProfit, to this day I've never had any issues with payments. I've been with them for over 3 years, interacting with the different accounts t",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund",
+    "snippet": "articipation in, or failure to use, such purchased service does not entitle you to a refund. All Sales are final, there are no refunds. 4. Disclaimer While we endeavour to ensure that the information on our Website is correct, we do not warrant the accuracy a",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunds",
+    "snippet": "urchased service does not entitle you to a refund. All Sales are final, there are no refunds. 4. Disclaimer While we endeavour to ensure that the information on our Website is correct, we do not warrant the accuracy and completeness of the material on this Web",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunded under any circumstances",
+    "snippet": "onally, the payment made for the successfully completed evaluation phase will not be refunded under any circumstances. This policy is enforced without exception and is designed to comply with regulatory requirements and ensure the integrity of the process. 10. Prohibited Practices and",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading : this technique consists of trading with an expected pop that happens when a major event or high impact ne",
+    "snippet": "e of the ranges of different markets. So they are trading between 2 specific areas. News Trading : this technique consists of trading with an expected pop that happens when a major event or high impact news comes out. These traders look to take advantage of bigger movements when anticipated news is announced. Having a detailed trading str",
+    "url": "https://uprofit.com/blog/day-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eady applied",
+    "snippet": "is here, the most accessible way to start. Your evaluation from $29, with the 40% already applied. And for our 7th anniversary, get 20% EXTRA with code UPTBDAY. \ud83d\udce3 \ud83d\udce3 The new DAY 2.0 10K account is here, the most accessible way to start. Your evaluation from $29, with",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal capital",
+    "snippet": "l Sharpen your intraday Futures strategy in a risk-free SIM environment\u2014then unlock real capital. Start your evaluation today, hit your targets, and monetize your strategy. A clear learning path to funding. Start Your Evaluation from $29 Target $1,500 $ 500 ( 0.",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear learning path to funding",
+    "snippet": "tal. Start your evaluation today, hit your targets, and monetize your strategy. A clear learning path to funding. Start Your Evaluation from $29 Target $1,500 $ 500 ( 0.5 %) Today Ready to Level Up Your Trading? 60K Virtual Live accounts since 2019 13,445 Approved payout r",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady to Level Up Your Trading?\n 60K\n Virtual Live accounts since 2019\n 13,445\n Approved payout requests since 2019\n $ 1,",
+    "snippet": "to funding. Start Your Evaluation from $29 Target $1,500 $ 500 ( 0.5 %) Today Ready to Level Up Your Trading? 60K Virtual Live accounts since 2019 13,445 Approved payout requests since 2019 $ 1,400 Average payout Why Choose Uprofit\u2019s Funded Trading Account? No Personal Funds at Risk. Live dashboard so you always know where you stand. Fast",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam is very good, the trading platform is wonderful, and what I like most is the quality of my order execution Jhonatan ",
+    "snippet": "mpany that delivers. I currently have 4 withdrawals without any issues, the support team is very good, the trading platform is wonderful, and what I like most is the quality of my order execution Jhonatan / 2026-09-02 The rules that teach me Uprofit's rules teach me, they force me to trade with discipline, and that's made me a better trad",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "have filed a dispute over any service payment. 7. Prohibited Practices The use of VPN, VPS, tools, or other similar or related instruments that generate or could generate the subcontracting of operations is strictly prohibited on our platforms. The detection of any VPN or VPS use will result in the immediate closure of all associated acco",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@uprofittrader.com",
+    "snippet": "2026-09-06 Our way Legacy DAY Program Platforms Help Address & Contact Contact support@uprofittrader.com +1 (844) 500-4776 Address 8 The Green STE B Dover, DE 19901 KENT COUNTY United States Legal information Terms & Conditions Privacy policy Cookie Notice Risk Disc",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "soporte@uprofittrader.com",
+    "snippet": "uestra manera Legacy DAY Program Plataformas Ayuda Direcci\u00f3n & Contacto Contacto soporte@uprofittrader.com +1 (844) 500-4776 Direcci\u00f3n 8 The Green STE B Dover, DE 19901 KENT COUNTY United States Informaci\u00f3n legal T\u00e9rminos y condiciones Pol\u00edtica de privacidad Aviso de",
+    "url": "https://uprofit.com/es/help",
+    "kind": "page"
+   },
+   {
+    "value": "admin@uprofittrader.com",
+    "snippet": "ccept these Terms, do not use this Website. If you have any questions please contact admin@uprofittrader.com Through our Website property, we provide you with access to a variety of resources to which these Terms relate. The use of this Website is subject to the following term",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 2 days",
+    "snippet": "h real capital. This represents the ultimate career goal traders envision. A simple payout policy Help center Pass your evaluation in 2 days. Keep 90% of your profits. Request up to $4,500 per payout and receive up to $24,000 per account. Consistency: To keep your account stable, your best trading day mus",
+    "url": "https://uprofit.com/day-programs",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours through your",
+    "snippet": "rading day must not exceed 40% of the total profit accumulated in your account. All payouts are processed within 24 hours through your preferred payment method. Help center Day Soft Day Soft Day Flex 50 K $ 130 $ 78 / Month Trade with Get started $3,000 Profit target $1,100 Daily loss lim",
+    "url": "https://uprofit.com/day-programs",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours",
+    "snippet": "-time dashboard Allows you to track your orders, targets and limits live! 03 Fast payouts Profits in your pocket within 24 hours. 01 No Personal Risk Up to $150K in buying power\u2014no savings at stake 02 Real-time dashboard Allows you to track your orders, targets and limits live! 03 Fast pay",
+    "url": "https://uprofit.com/day-programs",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC) The assignment of a Live account is contingent upon successfully completing the identity verification proces",
+    "snippet": "r use, and not for the use or benefit of any third party. 9. Identity Verification (KYC) The assignment of a Live account is contingent upon successfully completing the identity verification process (KYC). If the identity verification is not successfully completed, the Live account cannot be assigned. Additionally, the payment made for th",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "KYC)",
+    "snippet": "ccount is contingent upon successfully completing the identity verification process (KYC). If the identity verification is not successfully completed, the Live account cannot be assigned. Additionally, the payment made for the successfully completed evaluatio",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee\n 50 K\n $ 147 $ 88 / Month \n Trade with\n \n \n Get started $3,000 Profit target 50 % Consistency 3 Contracts",
+    "snippet": "started $800 Profit target $220 Daily loss limit 50 % Consistency $400 Drawdown No activation fee 50 K $ 147 $ 88 / Month Trade with Get started $3,000 Profit target 50 % Consistency 3 Contracts (max) $2,000 Drawdown 100 K $ 227 $ 136 / Month Trade with Get started $6,000 Profit target 50 % Consistency 6 Contracts (max) $3,000 Drawdown 15",
+    "url": "https://uprofit.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscriptions daily 0",
+    "snippet": "ps://uprofit.com/admin daily 0.7 2026-10-06T21:01:36.879Z https://uprofit.com/admin/subscriptions daily 0.7 2026-10-06T21:01:36.879Z https://uprofit.com/admin/subscriptions/new daily 0.7 2026-10-06T21:01:36.879Z https://uprofit.com/blog daily 0.7 2026-10-06T21:01:36.879Z",
+    "url": "https://uprofit.com/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscriptions/new daily 0",
+    "snippet": "om/admin/subscriptions daily 0.7 2026-10-06T21:01:36.879Z https://uprofit.com/admin/subscriptions/new daily 0.7 2026-10-06T21:01:36.879Z https://uprofit.com/blog daily 0.7 2026-10-06T21:01:36.879Z https://uprofit.com/change-payment-method daily 0.7 2026-10-06T21:01:36.879Z ht",
+    "url": "https://uprofit.com/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscription at any time through their account on our platform",
+    "snippet": "ellation policy Our cancellation policy is clear and simple: users can cancel their subscription at any time through their account on our platform. If there is a dispute, our support team is available to resolve any issue efficiently and fairly. In the case of a Live account, any generated profits will be duly sett",
+    "url": "https://uprofit.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee\n 50 K\n $ 147 $ 88 / Mois \n Trade with\n \n \n Commencez votre \u00e9valuation d\u00e8s maintenant $3,000 Objectif de p",
+    "snippet": "profit $220 Limite de perte quotidienne 50 % Consistency $400 Pro Drawdown EOD No activation fee 50 K $ 147 $ 88 / Mois Trade with Commencez votre \u00e9valuation d\u00e8s maintenant $3,000 Objectif de profit 50 % Consistency 3 Contrats maximums $2,000 Pro Drawdown EOD 100 K $ 227 $ 136 / Mois Trade with Commencez votre \u00e9valuation d\u00e8s maintenant $6",
+    "url": "https://uprofit.com/fr/zero-programs-landing",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradingView",
+  "NinjaTrader"
+ ],
+ "assets": [
+  "Stocks",
+  "Futures"
+ ],
+ "coupon_codes": [
+  {
+   "code": "UPTBDAY",
+   "context": "n from $29, with the 40% already applied. And for our 7th anniversary, get 20% EXTRA with code UPTBDAY. \ud83d\udce3 \ud83d\udce3 The new DAY 2.0 10K account is here, the most accessi"
+  }
+ ],
+ "claims": [
+  "rmance. NinjaTrader is our trusted trading platform . It is one of the leaders in the market, with more than 500,000 traders who find support in its software to trade different types o"
+ ],
+ "errors": [
+  "https://uprofit.com/blog/como-hacer-un-plan-de-trading:404:http-404"
+ ]
+}

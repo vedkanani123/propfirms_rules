@@ -1,0 +1,720 @@
+{
+ "slug": "tradeify",
+ "name": "Tradeify",
+ "category": "Futures",
+ "url": "https://tradeify.co/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tradeify.co/",
+   "kind": "home",
+   "chars": 21040
+  },
+  {
+   "url": "https://tradeify.co/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 8254
+  },
+  {
+   "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+   "kind": "page",
+   "chars": 48546
+  },
+  {
+   "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+   "kind": "page",
+   "chars": 47033
+  },
+  {
+   "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+   "kind": "page",
+   "chars": 40372
+  },
+  {
+   "url": "https://tradeify.co/post/double-bottom-pattern-guide-for-better-trade-planning",
+   "kind": "page",
+   "chars": 34140
+  },
+  {
+   "url": "https://tradeify.co/select-plan",
+   "kind": "page",
+   "chars": 14000
+  },
+  {
+   "url": "https://tradeify.co/select-plan-paid-daily",
+   "kind": "page",
+   "chars": 14180
+  },
+  {
+   "url": "https://tradeify.co/post/passing-prop-firm-challenges-one-trade-a-day",
+   "kind": "page",
+   "chars": 24584
+  },
+  {
+   "url": "https://tradeify.co/post/best-futures-contracts-for-passing-a-prop-firm-challenge",
+   "kind": "page",
+   "chars": 42503
+  },
+  {
+   "url": "https://tradeify.co/post/sebi-fo-new-rules-2026-us-futures-alternative",
+   "kind": "page",
+   "chars": 35709
+  },
+  {
+   "url": "https://tradeify.co/post/futures-prop-firm-rules-beginners-misunderstand-most",
+   "kind": "page",
+   "chars": 31108
+  },
+  {
+   "url": "https://tradeify.co/post/trading-indicators-help-futures-prop-traders",
+   "kind": "page",
+   "chars": 32922
+  },
+  {
+   "url": "https://tradeify.co/",
+   "kind": "sub",
+   "chars": 21040
+  },
+  {
+   "url": "https://tradeify.co/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 8254
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 423699,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "0k Account: $3,000 (Growth) or $3,000 (Select) profit target. $100k Account: $6,000 profit target (6% of account size) $150k Account: $9,000 profit target (6% of account size) Profit Split: All accounts feature a 90% profit split, meaning traders keep 90% of their pr",
+    "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "o consistency rule. STEP 1 Pass Your Evaluation With 40% Consistency Meet your 6% profit target with 40% consistency. Pass in as few as 3 trading days \u2014 one of the fastest evaluation in the industry. DAY 1 Start Trading DAY 2 Maintain 40% Consistency DAY 3 Pass 6% Pro",
+    "url": "https://tradeify.co/select-plan",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "40",
+    "snippet": "can pass the evaluation in as little as one trading day. Select evaluations have no Daily Loss Limit during the evaluation phase but require a 40% consistency rule, meaning no single day's profit can exceed 40% of total profits \u2014 which means you need a minimum of three trading days to pass. \u200d Account Type Account",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "1",
+    "snippet": "adeify-enforced rule. In a $50,000 Select account, the practical risk capital is the maximum drawdown of $2,000, not the full balance, which would put a 1% per-trade risk at $20. ATR-Based Position Sizing for Futures Contracts To apply rules like this consistently, traders often calibrate stop-losses to current market vol",
+    "url": "https://tradeify.co/post/best-futures-contracts-for-passing-a-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "35",
+    "snippet": "consistency once funded End-of-day drawdown - no intraday traps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout Received Trustpilot 4.8 $350M+ Verified Payouts 0% Payout Denials 100,000+ Happy Traders",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "50,000 $3,750 $6,000 20%* \u200d *Lightning accounts use a progressive consistency rule: 20% for the first payout, 25% for the second, and 30% for all subsequent payouts. \u200d A few things to notice here. Growth and Lightning share the same DLL values at matching account sizes, but L",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "30",
+    "snippet": "se a progressive consistency rule: 20% for the first payout, 25% for the second, and 30% for all subsequent payouts. \u200d A few things to notice here. Growth and Lightning share the same DLL values at matching account sizes, but Lightning has larger max trailing drawdowns at $100K ($4",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "000 in total profit on a Growth funded account and $4,000 of that came from one day (40%), they are ineligible for a payout \u2014 a common reason prop firm payouts get denied \u2014 until they earn enough additional, smaller profits to bring that single day down to 35% or less of the total. \u200d Losing",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "r accounts purchased after September 12, 2025, the rule is 20% for the first payout, 25% for the second, and 30% for the third payout and beyond. This rewards disciplined, lower-risk scalping or swing trading. What Happens to Profits Above the Payout Cap A common question on trading forums is what ha",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "ay trader can optimize their path to profitability. The goal is not just to secure a 90% profit split on a simulated account. It is to prove enough methodical consistency to be invited into the Elite Live program, where scalable career trading begins. Frequently Asked Q",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "0",
+    "snippet": "dustry-wide, profit splits run 50% to 95%, consistency rules 20% to 50% (some none), minimum trading days 0 to 15, minimum payouts $50 to $1,500, payout frequency daily to monthly, and processing 1 hour to 5 business days. Payments move via Rise, Plane, Deel, Wise, ACH/wire, P",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "day. This is a massive differentiator in an industry where competitors often enforce minimum trading days ranging from 5 to 15 days. This allows a trader who catches a significant market trend to capitalize immediately and move to the funded stage. Evaluation Consistency: During the evalu",
+    "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "750",
+    "snippet": "Get funded Get funded now THE BEST FUTURES PROP FIRM Trade with $750K funding, and earn daily payouts. Keep 90% of profit and get paid daily. Instant funding - skip evaluations No consistency once funded End-of-day drawdown - no intrada",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "s, please see our Privacy Policy . Decline Accept Do you want a chance to Win a $150k Growth Account? Winner announced on 31st October Yes, enter prize drawing No, I\u2019m not interested First Name Please enter first name Email Address Please ent",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "STEP: 1 YOU'VE GOT A MYSTERY ACCOUNT OFFER What size do you want to trade? $25K Account $50K Account $100K Account $150K Account No thanks, I'll pay full price. YOUR 100K ACCOUNT OFFER IS READY Enter your email to reveal your mystery offe",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "OU'VE GOT A MYSTERY ACCOUNT OFFER What size do you want to trade? $25K Account $50K Account $100K Account $150K Account No thanks, I'll pay full price. YOUR 100K ACCOUNT OFFER IS READY Enter your email to reveal your mystery offer. Please ente",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "STERY ACCOUNT OFFER What size do you want to trade? $25K Account $50K Account $100K Account $150K Account No thanks, I'll pay full price. YOUR 100K ACCOUNT OFFER IS READY Enter your email to reveal your mystery offer. Please enter valid email P",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "750",
+    "snippet": "Get funded Get funded now THE BEST FUTURES PROP FIRM Trade with $750K funding, and earn daily payouts. Keep 90% of profit and get paid daily. Instant funding - skip evaluations No consistency once funded End-of-day drawdown - no intrad",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "nd-of-day drawdown - no intraday traps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout Received Trustpilot 4.8 $350M+ Verified Payouts 0% Payout Denials 100,000+ Happy",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "3,35",
+    "snippet": "day traps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout Received Trustpilot 4.8 $350M+ Verified Payouts 0% Payout Denials 100,000+ Happy Traders Join the $1,000,",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "350",
+    "snippet": "$3,356 Payout Received $3,356 Payout Received Trustpilot 4.8 $350M+ Verified Payouts 0% Payout Denials 100,000+ Happy Traders Join the $1,000,000 Premier Trading League Free to enter. Eight matches on house money. 1,000 trad",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "$350M+ Verified Payouts 0% Payout Denials 100,000+ Happy Traders Join the $1,000,000 Premier Trading League Free to enter. Eight matches on house money. 1,000 traders get paid. Enter for FREE Get 30% OFF + Double Gem rewards Earn twice",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "359",
+    "snippet": "ops! Something went wrong while submitting the form. MOST POPULAR 25K Evaluation $359 $251 one time payment Profit Target ? Lorem ipsum dolor. $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "251",
+    "snippet": "omething went wrong while submitting the form. MOST POPULAR 25K Evaluation $359 $251 one time payment Profit Target ? Lorem ipsum dolor. $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules S",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "25K Evaluation $359 $251 one time payment Profit Target ? Lorem ipsum dolor. $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH MOST POPULAR 25K F",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "600",
+    "snippet": "t ? Lorem ipsum dolor. $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH MOST POPULAR 25K Funded $359 $251 one time payment Payout Frequency 5 Day",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "nt Profit Target Daily Flex Payout Frequency Daily 5 days Max Payout $600 $1,250 Daily Loss Limit $500 None View Evaluation Rules Start with 25k Save $X with code DASH MOST POPULAR 100K Evaluation $359 $251 one time payment",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "18,00",
+    "snippet": "e - the best live program in prop. Real, live capital with performance rewards up to $18,000 per account. Get funded - 35% OFF Trustpilot TRADEIFY ELITE 80,000+ traders . One shared mindset. Our athletes and prop firm traders share the same",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "s, please see our Privacy Policy . Decline Accept Do you want a chance to Win a $150k Growth Account? Winner announced on 31st October Yes, enter prize drawing No, I\u2019m not interested First Name Please enter first name Email Address Please en",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "End-of-day",
+    "snippet": "and get paid daily. Instant funding - skip evaluations No consistency once funded End-of-day drawdown - no intraday traps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout Received Trustpilot",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "Evaluation $359 $251 one time payment Profit Target ? Lorem ipsum dolor. $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH MOST POPULAR 25K Funded $359",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "intraday",
+    "snippet": "t funded - 35% OFF What you get with other firms 10+ failed Evaluations due to intraday drawdown Payout rejections due to complex fine print Payouts that take days or weeks to hit the bank account No path to live, they keep you on simulated accounts TRADEIFY E",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "EOD",
+    "snippet": "-first guide to passing futures prop firm evaluations: consistency math, intraday vs EOD drawdown, day-1 psychology, and the rules that fail most traders. popular Futures Trading Strategies 7 minutes Passing Prop Firm Challenges With One Trade a Day Prop Firm Co",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule and can be passed in a single day; Growth funded accounts carry a 35% consistency rule, a",
+    "snippet": "through $150K) with End-of-Day (EOD) trailing drawdowns. Growth evaluations have no consistency rule and can be passed in a single day; Growth funded accounts carry a 35% consistency rule, a Daily Loss Limit (DLL) as a soft breach, and max trailing drawdown as a hard breach. Select evaluations require a 40% consistency rule and have no DL",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule and have no DLL, but the consistency rule is removed entirely once funded \u2014 and traders c",
+    "snippet": "breach, and max trailing drawdown as a hard breach. Select evaluations require a 40% consistency rule and have no DLL, but the consistency rule is removed entirely once funded \u2014 and traders choose between Flex (no DLL) or Daily (lower DLL) payout paths after passing. Lightning skips the evaluation entirely with instant funding, uses a pro",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule starting at 20%, and has different drawdown limits at larger account sizes",
+    "snippet": "ng. Lightning skips the evaluation entirely with instant funding, uses a progressive consistency rule starting at 20%, and has different drawdown limits at larger account sizes. EOD trailing means the drawdown floor only trails upward at session close, but it is enforced in real time \u2014 if your balance hits the current limit during trading",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement, meaning you can pass the evaluation in as little as one trading day",
+    "snippet": "0K, $150K) but differ in key ways. Growth evaluations have a Daily Loss Limit and no consistency requirement, meaning you can pass the evaluation in as little as one trading day. Select evaluations have no Daily Loss Limit during the evaluation phase but require a 40% consistency rule, meaning no single day's profit can exceed 40% of tota",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, meaning no single day's profit can exceed 40% of total profits \u2014 which means you need a",
+    "snippet": "t evaluations have no Daily Loss Limit during the evaluation phase but require a 40% consistency rule, meaning no single day's profit can exceed 40% of total profits \u2014 which means you need a minimum of three trading days to pass. \u200d Account Type Account Size Daily Loss Limit (DLL) Max Trailing Drawdown Consistency Profit Target Growth Eval",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule: 20% for the first payout, 25% for the second, and 30% for all subsequent payouts",
+    "snippet": "20%* Lightning $150,000 $3,750 $6,000 20%* \u200d *Lightning accounts use a progressive consistency rule: 20% for the first payout, 25% for the second, and 30% for all subsequent payouts. \u200d A few things to notice here. Growth and Lightning share the same DLL values at matching account sizes, but Lightning has larger max trailing drawdowns at $",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "Choose Your Account Growth Pass in 1 day Quick evaluation \u2022 5 day payouts Select Pass in 3 days Daily payouts \u2022 Flexible funded rules Lightning Instant Instant funding \u2022 5 day payouts Tradovate WealthCharts Rithmic / Tradesea Thank you! Your submission has been re",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "bank transfer",
+    "snippet": "Open a Slay Markets brokerage account, and fund it directly with your payouts. Skip bank transfers and start trading live faster. Important Disclaimer: Tradeify Brokerage LLC d/b/a Slay Markets is a CFTC-registered introducing broker guaranteed by NinjaTrader Cleari",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "accounts, save 5% Activate the bundle at checkout 1 hour payouts 24/7 support Crypto payments Building careers, one payout at a time Meka Verified payout Juan Jose Materon Verified payout Troy Blausey Verified payout Matthew",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "ppens is you hit your account's loss limit and the account closes. That's it. No surprise bills, no calls asking you to cover a loss. Just your skills being tested, not your savings. What hours are futures open? Pretty much all of them. Markets run close",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": ", futures-related products/derivatives, or any futures products of any kind, or otherwise constitute any type of trading or investment advice, recommendation or strategy, or an endorsement of any financial instruments, companies, or funds. Users are encourage",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Deel",
+    "snippet": "to monthly, and processing 1 hour to 5 business days. Payments move via Rise, Plane, Deel, Wise, ACH/wire, PayPal, or crypto stablecoins (USDT/USDC), where crypto is fastest and runs around the clock but adds conversion risk. Profit above a payout cap stays i",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "sing 1 hour to 5 business days. Payments move via Rise, Plane, Deel, Wise, ACH/wire, PayPal, or crypto stablecoins (USDT/USDC), where crypto is fastest and runs around the clock but adds conversion risk. Profit above a payout cap stays in the account as equity",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "Payments move via Rise, Plane, Deel, Wise, ACH/wire, PayPal, or crypto stablecoins (USDT/USDC), where crypto is fastest and runs around the clock but adds conversion risk. Profit above a payout cap stays in the account as equity and becomes withdrawable over",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "ents move via Rise, Plane, Deel, Wise, ACH/wire, PayPal, or crypto stablecoins (USDT/USDC), where crypto is fastest and runs around the clock but adds conversion risk. Profit above a payout cap stays in the account as equity and becomes withdrawable over late",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "CFTC",
+    "snippet": "g live faster. Important Disclaimer: Tradeify Brokerage LLC d/b/a Slay Markets is a CFTC-registered introducing broker guaranteed by NinjaTrader Clearing, LLC and an NFA Member. Futures trading involves substantial risk and is not suitable for everyone. Losses may exceed the initial investment. Past performance is not necessarily indicati",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "Discord Live chat, quick answers, and direct access to the team Join Discord Master the Markets with Tradeify Academy Step-by-step content to help you trade with clarity and control. Start learning Steal the playbook of 7 figure traders - for FREE Watch masterclasses from world-class, professional traders.Learn profitable strategies and g",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "this is a safe place to put in the reps. What happens if I break a rule? Nothing scary. Every account comes with clear rules laid out from day one, like a daily loss limit, and if you cross one, the account just ends. There's no hidden penalty and nobody c",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "NFA",
+    "snippet": "Derivatives US, and Tradovate (\"NTC\"), and is a National Futures Association Member (NFA ID: 0575972). Tradeify Brokerage LLC's principal place of business is 1700 S. Dixie Highway, Suite 305, Boca Raton, FL 33432. Novaflame LTD (Registration No. HE 480295 ), with its r",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "support is near 5,120 and the neckline is 5,160, the pattern height is 40 points. A basic measured objective would be 5,200. That number is a planning reference, not a forecast. Price can stall before the objective, exceed it, or fail immediately after the breakout. Nearby resistance, market",
+    "url": "https://tradeify.co/post/double-bottom-pattern-guide-for-better-trade-planning",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Premier Trading Leag",
+    "snippet": "rified Payouts 0% Payout Denials 100,000+ Happy Traders Join the $1,000,000 Premier Trading League Free to enter. Eight matches on house money. 1,000 traders get paid. Enter for FREE Get 30% OFF + Double Gem rewards Earn twice the Gems, including from",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn twice the Gems, inc",
+    "snippet": "1,000 traders get paid. Enter for FREE Get 30% OFF + Double Gem rewards Earn twice the Gems, including from purchases. Get to the packs faster. Limited time only. Get double gems Take your payouts LIVE Open a Slay Markets brokerage account, and fund it d",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "luding from purchases. Get to the packs faster. Limited",
+    "snippet": "Enter for FREE Get 30% OFF + Double Gem rewards Earn twice the Gems, including from purchases. Get to the packs faster. Limited time only. Get double gems Take your payouts LIVE Open a Slay Markets brokerage account, and fund it directly with your payouts. Skip bank transfers and star",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Take your payouts LIVE Open a Slay Markets brokerag",
+    "snippet": "m purchases. Get to the packs faster. Limited time only. Get double gems Take your payouts LIVE Open a Slay Markets brokerage account, and fund it directly with your payouts. Skip bank transfers and start trading live faster. Important Disclaimer: Tradeify Brokerage LLC d/b/a Slay Markets is",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Tradeify Brokerage LLC",
+    "snippet": "r payouts. Skip bank transfers and start trading live faster. Important Disclaimer: Tradeify Brokerage LLC d/b/a Slay Markets is a CFTC-registered introducing broker guaranteed by NinjaTrader Clearing, LLC and an NFA Member. Futures trading involves substantial risk and is no",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "oducing broker guaranteed by NinjaTrader Clearing, LLC",
+    "snippet": "rtant Disclaimer: Tradeify Brokerage LLC d/b/a Slay Markets is a CFTC-registered introducing broker guaranteed by NinjaTrader Clearing, LLC and an NFA Member. Futures trading involves substantial risk and is not suitable for everyone. Losses may exceed the initial investment. Past performance is not necessar",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "e initial investment. Past performance is not necessa",
+    "snippet": "ding involves substantial risk and is not suitable for everyone. Losses may exceed the initial investment. Past performance is not necessarily indicative of future results. View Disclosures Open Slay account HOW IT WORKS Get your first payout in 4 days Today 1. Choose your account Pick Lightni",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Buy 5 accounts, sa",
+    "snippet": "it $600 View Evaluation Rules Start with 25k Save $X with code DASH Buy 5 accounts, save 5% Activate the bundle at checkout 1 hour payouts 24/7 support Crypto payments Building careers, one payout at a time Meka Verified payout Juan",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading or high-frequency scalping",
+    "snippet": "ote: The Growth account favors aggressive strategies during the evaluation , such as news trading or high-frequency scalping. However, it requires a strategic pivot to a long-term mindset once funded. The trader must shift from hitting a target to managing a portfolio, ensuring that large wins",
+    "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "News trading allowed\" should not be read as protection from spread changes, thin liquidity, slippage, or a hard loss-flo",
+    "snippet": "ents, limit it by account type, or prohibit specific strategies around the release. \"News trading allowed\" should not be read as protection from spread changes, thin liquidity, slippage, or a hard loss-floor breach. Keep the firm's time zone next to every deadline. Check holiday schedules separately because early closes can move the requi",
+    "url": "https://tradeify.co/post/futures-prop-firm-rules-beginners-misunderstand-most",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard Join Discord Pricing Tradeify TV Help Center Sign in\n Futures\n 247\n New\n \n Sign in\n \n \n \n Get funded\n \n \n \n G",
+    "snippet": "ODE: GEMS ENDS 31 Aigust , 11:59PM EST \ud83d\udd25 USE CODE: SEP How it works Leaderboard Join Discord Pricing Tradeify TV Help Center Sign in Futures 247 New Sign in Get funded Get funded now THE BEST FUTURES PROP FIRM Trade with $750K funding, and earn daily payouts. Keep 90% of profit and get paid daily. Instant funding - skip evaluations",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "earn daily payouts",
+    "snippet": "Get funded now THE BEST FUTURES PROP FIRM Trade with $750K funding, and earn daily payouts. Keep 90% of profit and get paid daily. Instant funding - skip evaluations No consistency once funded End-of-day drawdown - no intraday traps Get funded - 35%",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "eague\n Free to enter",
+    "snippet": "% Payout Denials 100,000+ Happy Traders Join the $1,000,000 Premier Trading League Free to enter. Eight matches on house money. 1,000 traders get paid. Enter for FREE Get 30% OFF + Double Gem rewards Earn twice the Gems, including from purchases. Get to",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn twice the Gems, including from purchases",
+    "snippet": "1,000 traders get paid. Enter for FREE Get 30% OFF + Double Gem rewards Earn twice the Gems, including from purchases. Get to the packs faster. Limited time only. Get double gems Take your payouts LIVE Open a Slay Markets brokerage account, and fund it directly with your pay",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "earing, LLC and an NFA Member",
+    "snippet": "b/a Slay Markets is a CFTC-registered introducing broker guaranteed by NinjaTrader Clearing, LLC and an NFA Member. Futures trading involves substantial risk and is not suitable for everyone. Losses may exceed the initial investment. Past performance is not necessarily indicative of",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 4 days \n Today\n 1",
+    "snippet": "re results. View Disclosures Open Slay account HOW IT WORKS Get your first payout in 4 days Today 1. Choose your account Pick Lightning Funded to get funded instantly. Or pass a short Evaluation to get funded. Next 4 days 2.Trade with our capital Access up to $750k",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "in 3 days\n Daily payouts",
+    "snippet": "Choose Your Account Growth Pass in 1 day Quick evaluation \u2022 5 day payouts Select Pass in 3 days Daily payouts \u2022 Flexible funded rules Lightning Instant Instant funding \u2022 5 day payouts Tradovate WealthCharts Rithmic / Tradesea Thank you! Your submission has been received!",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "instant",
+    "snippet": "eventual Elite Live progression. Get up to $750k instant sim funding Start earning payouts instantly Super fast automated payouts Free journal to improve Get funded now Join 80,000+ happy traders Summarize and ask questions with AI ChatGPT Claude Perplexity Gro",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "in 80,000+ happy traders",
+    "snippet": "to $750k instant sim funding Start earning payouts instantly Super fast automated payouts Free journal to improve Get funded now Join 80,000+ happy traders Summarize and ask questions with AI ChatGPT Claude Perplexity Grok Google Recommended for you 9 minutes Prop Firm Risk & Recovery How to Use a Losing Streak C",
+    "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "Same day",
+    "snippet": "s many countries Plane Payout processor Minutes to hours Built for global contractor payouts Deel Payout / contractor platform Same day to a few days Often used for international traders Wise / bank transfer Bank rail 1 to 3 business days Lower fees on cross-border than legacy wires ACH / wire Bank rail",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Max Payout\n $600\n $1,250\n Daily Loss Limit\n $500\n None\n View Evaluation Rules\n \n \n \n \n Start with 25k\n \n Save $X with co",
+    "snippet": "51 one time payment Profit Target Daily Flex Payout Frequency Daily 5 days Max Payout $600 $1,250 Daily Loss Limit $500 None View Evaluation Rules Start with 25k Save $X with code DASH MOST POPULAR 100K Evaluation $359 $251 one time payment Profit Target ? Lorem ipsum dolor. $0 Trailing Max Drawdown (EOD) $1,000 Daily Loss Limit",
+    "url": "https://tradeify.co/",
+    "kind": "home"
+   },
+   {
+    "value": "payout cap stays in the account as equity and becomes withdrawable over later cycles",
+    "snippet": "crypto is fastest and runs around the clock but adds conversion risk. Profit above a payout cap stays in the account as equity and becomes withdrawable over later cycles. Red flags include vague or shifting rules, hidden deductions, delayed-payout excuses, and no public proof of payouts. How Prop Firm Payout Rules Work For aspiring day",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "Payout Cap\n A common question on trading forums is what happens to profit that sits above a payout cap",
+    "snippet": "isciplined, lower-risk scalping or swing trading. What Happens to Profits Above the Payout Cap A common question on trading forums is what happens to profit that sits above a payout cap. The short answer is that it does not disappear. Excess profit stays in the account as equity and acts as an additional buffer against drawdown. On a capp",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "Payout caps",
+    "snippet": "s 5 winning days and is in profit, they can withdraw regardless of account balance. Payout caps. Withdrawals are capped at 50% of the total profit generated above the starting balance. The raw dollar caps per cycle are large, with $1,250 for 25K, $3,000 for 50K, $4",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plans Affect Prop Firm Payout Size Common Mistakes That Block Prop Firm Payouts Prop Firm Payout Red Flags and L",
+    "snippet": "How Daily Prop Firm Payouts Really Work Withdrawal Process and Payout Timelines How Scaling Plans Affect Prop Firm Payout Size Common Mistakes That Block Prop Firm Payouts Prop Firm Payout Red Flags and Legitimacy Checks Prop Firm Payout Rules Compared Across the Industry Building a Sustainable Career as a Funded Trader Frequently Asked Q",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan",
+    "snippet": "ion fee, virtual/simulated capital, evaluation phase, KYC identity verification, and scaling plan. The standard payout process runs eligibility check, close open trades, request in dashboard, complete KYC, select method, compliance review, funds received, then cycle",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling plan: A structured path that increases account size or buying power as a trader hits profit and consistency mile",
+    "snippet": "equired before a firm releases money, usually a government ID and proof of address. Scaling plan: A structured path that increases account size or buying power as a trader hits profit and consistency milestones, which in turn raises payout potential. How the Prop Firm Payout Process Works Step by Step Most reputable firms follow a similar",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC identity verification, and scaling plan",
+    "snippet": "ion before any payout), activation fee, virtual/simulated capital, evaluation phase, KYC identity verification, and scaling plan. The standard payout process runs eligibility check, close open trades, request in dashboard, complete KYC, select method, compliance review, funds received, then cycle",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "KYC, select method, compliance review, funds received, then cycle reset",
+    "snippet": "ut process runs eligibility check, close open trades, request in dashboard, complete KYC, select method, compliance review, funds received, then cycle reset. Industry-wide, profit splits run 50% to 95%, consistency rules 20% to 50% (some none), minimum trading days 0 to 15, minimum payouts $50 to $1,500, payout frequency dai",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "KYC (Know Your Customer): The identity verification step required before a firm releases money, usually a governm",
+    "snippet": "a profit target, a drawdown limit, and sometimes a minimum number of trading days. KYC (Know Your Customer): The identity verification step required before a firm releases money, usually a government ID and proof of address. Scaling plan: A structured path that increases account size or buying power as a trader hits profit and consistency",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee, virtual/simulated capital, evaluation phase, KYC identity verification, and scaling plan",
+    "snippet": "l time during the day), safety buffer (a required profit cushion before any payout), activation fee, virtual/simulated capital, evaluation phase, KYC identity verification, and scaling plan. The standard payout process runs eligibility check, close open trades, request in dashboard, complete KYC, select method, compliance review, funds re",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "Activation fee: A one-time charge some firms apply when a trader passes an evaluation and moves to a funded account, sep",
+    "snippet": "hdrawal is allowed. It protects the firm from immediate payout requests on day one. Activation fee: A one-time charge some firms apply when a trader passes an evaluation and moves to a funded account, separate from the evaluation cost. Virtual capital: Simulated funds. Most modern prop firms fund traders on demo or simulated accounts firs",
+    "url": "https://tradeify.co/post/prop-firm-payout-rules-every-funded-trader-should-know",
+    "kind": "page"
+   },
+   {
+    "value": "activation fees, and enforces a 35% consistency rule on funded payouts",
+    "snippet": "t) costs approximately $97/month , requires a 1-day minimum assessment, charges zero activation fees, and enforces a 35% consistency rule on funded payouts. The Select Evaluation requires a 3-day assessment, charges zero activation fees, enforces a 40% consistency rule during evaluation, and allows daily payouts with 0% con",
+    "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "activation fees, enforces a 40% consistency rule during evaluation, and allows daily payouts with 0% consistency restric",
+    "snippet": "e on funded payouts. The Select Evaluation requires a 3-day assessment, charges zero activation fees, enforces a 40% consistency rule during evaluation, and allows daily payouts with 0% consistency restrictions once funded. The Instant Funding (Lightning) model grants immediate payout eligibility for a one-time fee ( $244-$510 ), subjecti",
+    "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "Activation fee $0 Yes (monthly funded-account fee applies) Consistency rule (funded) 35% (Growth funded) Not the same mo",
+    "snippet": "cks at $52,100) $2,500 trailing Minimum pass time 1 day No fixed minimum days listed Activation fee $0 Yes (monthly funded-account fee applies) Consistency rule (funded) 35% (Growth funded) Not the same model; uses safety-net and 5:1 contract rules Both firms list the same $3,000 profit target on a $50K eval. The big differences are the d",
+    "url": "https://tradeify.co/post/instant-funding-vs-evaluation-prop-firm-challenges",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Best Futures Prop Firm - Instant Funding & Daily Payouts Plans Futures 247 Forex New Get 30% Off with code \"GEMS\" \u2022 ENDS 31 AUGUST , 11:59PM EST Get 30% Off with code \"GEMS\" USE",
+   "url": "https://tradeify.co/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "pecific dollar amount recovered. \u200d The 9-Week Size Scale-Up Roadmap \u200d Returning to full size in one step undoes the recovery. Scale back up in clear phases, each tied to a specific size and minimum streak of disciplined sessions before the next step. \u200d Phase Win",
+   "url": "https://tradeify.co/post/prop-firm-drawdown-recovery-plan-funded-traders"
+  },
+  {
+   "name": "Futures",
+   "snippet": "DR: Trading indicators for prop traders should do more than flash buy and sell signals. In a funded futures account, the best indicator stack helps you answer three questions before every trade: where is the market accepting price, where is risk invalidated, and how close ar",
+   "url": "https://tradeify.co/post/trading-indicators-help-futures-prop-traders"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Sierra Chart",
+  "Rithmic",
+  "ProjectX",
+  "TradeSea",
+  "WealthCharts"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds"
+ ],
+ "coupon_codes": [
+  {
+   "code": "DASH",
+   "context": "Limit $600 Consistency None View Funded Rules Start with 25k Save $X with code DASH MOST POPULAR 25K Funded $359 $251 one time payment P"
+  }
+ ],
+ "claims": [
+  "onsistency once funded End-of-day drawdown - no intraday traps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout R",
+  "-day drawdown - no intraday traps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout Received Trustpilot",
+  "raps Get funded - 35% OFF How it works $5,000 Payout Received $3,356 Payout Received $3,356 Payout Received Trustpilot 4.8 $350M+ Verified Pa",
+  "Happy Traders Join the $1,000,000 Premier Trading League Free to enter. Eight matches on house money. 1,000 traders get paid. Enter for FREE Get 30% OFF + Double G",
+  "35% Daily Loss Limit $600 View Evaluation Rules Start with 25k Save $X with code DASH Buy 5 accounts, save 5% Activate the bundle at checkout 1 hour payouts",
+  "formance rewards up to $18,000 per account. Get funded - 35% OFF Trustpilot TRADEIFY ELITE 80,000+ traders . One shared mindset. Our athletes and prop firm traders s"
+ ],
+ "errors": [
+  "https://tradeify.co/${btn_src}/?plan_id=${acc.placementId}:404:http-404"
+ ]
+}

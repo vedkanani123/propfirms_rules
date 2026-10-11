@@ -1,0 +1,499 @@
+{
+ "slug": "carrot-funding",
+ "name": "Carrot Funding",
+ "category": "Specialist",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://carrotfunding.io/",
+  "evidence": "name+5 prop-firm signals on homepage",
+  "tried": [
+   "https://carrotfunding.com/",
+   "https://carrotfunding.io/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://carrotfunding.io/",
+   "kind": "home",
+   "chars": 6320
+  },
+  {
+   "url": "https://carrotfunding.io/sitemap-index.xml",
+   "kind": "sitemap",
+   "chars": 38
+  },
+  {
+   "url": "https://carrotfunding.io/sitemap-0.xml",
+   "kind": "sitemap",
+   "chars": 5576
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/evaluation-and-verification-accounts/",
+   "kind": "page",
+   "chars": 4560
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+   "kind": "page",
+   "chars": 44589
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/carrot-funded-trader-accounts/",
+   "kind": "page",
+   "chars": 3887
+  },
+  {
+   "url": "https://carrotfunding.io/blog/prop-firm-scaling-plans-explained/",
+   "kind": "page",
+   "chars": 15363
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/privacy-policy/",
+   "kind": "page",
+   "chars": 12254
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/read-me-support-guide/",
+   "kind": "page",
+   "chars": 2566
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/",
+   "kind": "page",
+   "chars": 1448
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/general/",
+   "kind": "page",
+   "chars": 5809
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/",
+   "kind": "page",
+   "chars": 1506
+  },
+  {
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/forbidden-trading-practices/",
+   "kind": "page",
+   "chars": 3850
+  },
+  {
+   "url": "https://carrotfunding.io/blog/mark-price-vs-index-price-explained/",
+   "kind": "page",
+   "chars": 16303
+  },
+  {
+   "url": "https://carrotfunding.io/docs/get-funded/how-to-start/start-new-challenge/",
+   "kind": "page",
+   "chars": 2862
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 126945,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "e $699 One-time payment Account Size $100,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5%",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "e $799 One-time payment Account Size $100,000 Max. Daily Loss: 4% Max. Loss: 8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 Best Deal $499 One-time payment Account Size $50,000 Max. Daily Loss: 4% Max. Loss: 8% Profit Target: 8% Levera",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "1 Phase NEW 1 - Phase Challenge $699 One-time payment Account Size $100,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,000 Max. Daily Loss: 5%",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "t Split: 80% Consistency Score $799 One-time payment Account Size $100,000 Max. Daily Loss: 4% Max. Loss: 8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 Best Deal $499 One-time payment Account Size $50,000 Max. Daily Loss: 4% Max. L",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "8",
+    "snippet": "se and 8% in Verification Phase, while keeping your Max Daily Loss under 5% and your Max Loss below 8%. Phase 1 Target $5,000 (5%) Phase 2 Target $8,000 (8%) Max Loss $10,000 Funded Trader Balance $105,200 STEP 2 \u00b7 FUNDED PHASE Earn as a Funded Trader After completi",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "Coming Soon Get paid through our Trusted Banking Partners. 24h Guaranteed Payout 80% Profit Split 24/7 Customer Support Verifiable Track Record All performances are recorded on-chain. Explore our top traders. On-chain On-demand Verifiable USDC PAYOUT SETTLED 1,",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "699",
+    "snippet": "e eligible to monetize. 2 Phase 2 - Phase Challenge 1 Phase NEW 1 - Phase Challenge $699 One-time payment Account Size $100,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $44",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "hase Challenge 1 Phase NEW 1 - Phase Challenge $699 One-time payment Account Size $100,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,00",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "449",
+    "snippet": "fit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score MOST POPULAR $",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score MOST POPULAR $239 One-time payment Account Size $20",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "239",
+    "snippet": "Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score MOST POPULAR $239 One-time payment Account Size $20,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $119 One-time",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "20,00",
+    "snippet": "fit Split: 80% Consistency Score MOST POPULAR $239 One-time payment Account Size $20,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $119 One-time payment Account Size $10,000 Max. Da",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "119",
+    "snippet": "s: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $119 One-time payment Account Size $10,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $65 One-time",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "up to 5x Profit Split: 80% Consistency Score $119 One-time payment Account Size $10,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $65 One-time payment Account Size $5,000 Max. Dail",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "65",
+    "snippet": "s: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $65 One-time payment Account Size $5,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $799 One-time",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "e up to 5x Profit Split: 80% Consistency Score $65 One-time payment Account Size $5,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $799 One-time payment Account Size $100,000 Max. D",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "799",
+    "snippet": "s: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score $799 One-time payment Account Size $100,000 Max. Daily Loss: 4% Max. Loss: 8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 Best Deal $499 One-",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "499",
+    "snippet": "8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 Best Deal $499 One-time payment Account Size $50,000 Max. Daily Loss: 4% Max. Loss: 8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 MOST POPULAR $249 On",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "USDC",
+    "snippet": "nd earn 80% of the profits in real money. Balance $105,200 Payout Received $5,200 USDC \u00b7 Arbitrum STEP 3 \u00b7 PAYOUT Receive Your Payout Receive your Payout. On-demand, processed within 24 hours in USDC on-chain via Arbitrum. Payout $5,200 Phase 1 \u00b7 Verif",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "um. Payout $5,200 Get Funded Comprehensive Market Access Trade 175+ assets across crypto, commodities, stocks, and indices within a single funding framework. TradFi Experience, DeFi Integrity Seamless, Professional UX Trade directly from the Carrot termin",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "Payout We support direct Payouts via USDC, receive them instantly in your wallet. Bank Transfer Coming Soon Get paid through our Trusted Banking Partners. 24h Guaranteed Payout 80% Profit Split 24/7 Customer Support Verifiable Track Record All performances",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "nce metrics generated are purely notional, have no real-world value, and do not give rise to any right, claim, or entitlement of any kind. 1.7 We may amend or update these Terms from time to time. We will not notify You before any material changes take effec",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "y, and to update such information without delay through the Trader Dashboard or otherwise as instructed. If You provide any inaccurate, incomplete, or misleading information, or fail to comply with such requests, We reserve the right to suspend or terminate y",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "olated-vs-cross-margin-explained/ https://carrotfunding.io/blog/leverage-and-margin-basics/ https://carrotfunding.io/blog/maker-vs-taker-fees/ https://carrotfunding.io/blog/mark-price-vs-index-price-explained/ https://carrotfunding.io/blog/market-order-vs-limit-order-explained/ http",
+    "url": "https://carrotfunding.io/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "rrotfunding.io/blog/prop-firm-rules-decoded/ https://carrotfunding.io/blog/prop-firm-scaling-plans-explained/ https://carrotfunding.io/blog/prop-firm-scam-warning-signs/ https://carrotfunding.io/blog/prop-trading-for-crypto-natives/ https://carrotfunding.io/blog/stop-loss-basics/ https://carrotfundin",
+    "url": "https://carrotfunding.io/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "he Services are prohibited or restricted, including by using VPNs, proxies, or other masking technologies; and c. will provide Us with all the necessary personal information, including identity documents as We may request from time to time, to comply with Anti Money Laundering (\u201cAM",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "vities conducted through or in connection with your Trader Dashboard, whether or not authorized by You. 4.7 Each NFT represents a limited, revocable, and non-exclusive right to access a specific Challenge and its associated parameters as defined at the time of minting. A",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "Securities and Exchange Commission (SEC), the Commodity Futures Trading Commission (CFTC), or any other U.S. or foreign financial regulator. You understand that all Our Services are provided for information and education purposes only and are not intended to be nor shall be",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "e evaluation rules Attempting to distort performance metrics or bypass objectives Unfair automation or tooling Using automated software, high-frequency trading systems, or mass order entry systems that provide an unfair advantage or are inconsistent with normal trading behavior. Abusive or unrealistic trading behavior Trading in a way tha",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/forbidden-trading-practices/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "We Bet on Traders, Not Ag",
+    "snippet": "ed 4.6 Excellent 22 reviews Trustpilot Powered by Hyperliquid Prop Firm Done Right We Bet on Traders, Not Against Them Other firms sell challenges and profit from failure. We deploy real capital using trader signals and share the profits. Learn More \u2192 Transparent, Fair & Ver",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "t Account Size $100,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverag",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "a growth partner with industry-leading performance inc",
+    "snippet": "Growth Partner Have a strong following or deep industry connections? Join Carrot as a growth partner with industry-leading performance incentives. View opportunities \u2192 Get Funded with a Modern Prop Firm That Bets on You Not Against You Get Funded Subscribe to Email Updates Stay Updated on Funding, Featu",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "unded with a Modern Prop Firm That Bets on You Not Ag",
+    "snippet": "th partner with industry-leading performance incentives. View opportunities \u2192 Get Funded with a Modern Prop Firm That Bets on You Not Against You Get Funded Subscribe to Email Updates Stay Updated on Funding, Features & Markets Subscribe FAQ Docs Terms of Service Privacy Policy Contact Us \u00a9 2026 carro",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "what-is-ag",
+    "snippet": "//carrotfunding.io/blog/what-is-a-drawdown-in-trading/ https://carrotfunding.io/blog/what-is-agentic-trading/ https://carrotfunding.io/blog/what-is-hyperliquid/ https://carrotfunding.io/blog/what-is-instant-funding-prop-firms/ https://carrotfunding.io/blog/what-is-",
+    "url": "https://carrotfunding.io/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "what-is-slippag",
+    "snippet": "/ https://carrotfunding.io/blog/what-is-open-interest/ https://carrotfunding.io/blog/what-is-slippage/ https://carrotfunding.io/blog/why-prop-firms-use-evaluations/ https://carrotfunding.io/blog/why-transparency-matters-building-the-first-on-chain-trader-funding-firm/ h",
+    "url": "https://carrotfunding.io/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "we need to ensure you can trade consistently, manag",
+    "snippet": "unding trader funding program. Before you can access a Carrot Funded Trader Account, we need to ensure you can trade consistently, manage risk responsibly, and follow predefined rules. The Evaluation Account allows you to trade in a simulated crypto market environment, where your performance is assessed a",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/evaluation-and-verification-accounts/",
+    "kind": "page"
+   },
+   {
+    "value": "et environment, where your performance is assessed ag",
+    "snippet": "edefined rules. The Evaluation Account allows you to trade in a simulated crypto market environment, where your performance is assessed against specific Trading Objectives. What is a Carrot Verification Account? A Carrot Verification Account is the second and final step in carrotfunding.io\u2019s Evaluation Pro",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/evaluation-and-verification-accounts/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund or retain payments where required by Applicable Law or Our internal risk management policies at Our sole absolute",
+    "snippet": "3.3 You understand that We may suspend or refuse to give You access to Our Services, refund or retain payments where required by Applicable Law or Our internal risk management policies at Our sole absolute discretion. You represent and warrant that You are not a sanctioned person and will not access Our Services from a restricted jurisdic",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refunded",
+    "snippet": "ing and transfers, are generally irreversible and may not be cancelled, reversed, or refunded. The Company shall not be responsible for losses resulting from blockchain network failures, smart contract vulnerabilities, third-party infrastructure outages, or user",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refundable",
+    "snippet": "the extent to which You subsequently access or use it. Accordingly, all fees are non-refundable. 4.17 Should You initiate or lodge an unjustified complaint, payment dispute, chargeback, or similar claim with your bank, payment service provider, or any third-party",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refund or reimbursement of fees paid and does not affect ownership of any NFTs, which shall remain subject to these Term",
+    "snippet": "ess to the Services will be terminated. Such termination does not entitle You to any refund or reimbursement of fees paid and does not affect ownership of any NFTs, which shall remain subject to these Terms. 5.8 The Company reserves the right to modify, suspend, or discontinue any part of the Platform, including features, parameters, or a",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal capital using trader signals and share the profits",
+    "snippet": "s, Not Against Them Other firms sell challenges and profit from failure. We deploy real capital using trader signals and share the profits. Learn More \u2192 Transparent, Fair & Verifiable No hidden rules or discretion. Execution, capital, and profit sharing are enforced and verifiable on blockchain. View An",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More \u2192\n Transparent, Fair & Verifiable\n No hidden rules or discretion",
+    "snippet": "t from failure. We deploy real capital using trader signals and share the profits. Learn More \u2192 Transparent, Fair & Verifiable No hidden rules or discretion. Execution, capital, and profit sharing are enforced and verifiable on blockchain. View Analytics \u2192 Choose your Challenge Complete the challenge and become eligible t",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eal $449\n One-time payment\n Account Size\n $50,000\n Max",
+    "snippet": "Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score Best Deal $449 One-time payment Account Size $50,000 Max. Daily Loss: 5% Max. Loss: 10% Profit Target: 5% - 8% Leverage up to 5x Profit Split: 80% Consistency Score MOST POPULAR $239 One-time payment Account Size $20,000",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eal $499\n One-time payment\n Account Size\n $50,000\n Max",
+    "snippet": "ss: 8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 Best Deal $499 One-time payment Account Size $50,000 Max. Daily Loss: 4% Max. Loss: 8% Profit Target: 8% Leverage up to 5x Profit Split: 80% Best Day Rule: 50 MOST POPULAR $249 One-time payment Account Size $20,000 Max. Da",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn as a Funded Trader\n After completing the Challenge, you become a Funded Trader",
+    "snippet": "8,000 (8%) Max Loss $10,000 Funded Trader Balance $105,200 STEP 2 \u00b7 FUNDED PHASE Earn as a Funded Trader After completing the Challenge, you become a Funded Trader. You can now monetize account and earn 80% of the profits in real money. Balance $105,200 Payout Received $5,200 USDC \u00b7 Arbitrum STEP 3 \u00b7 PAYOUT Receive Your Payout",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "any jurisdiction where the Services are prohibited or restricted, including by using VPNs, proxies, or other masking technologies; and c. will provide Us with all the necessary personal information, including identity documents as We may request from time to time, to comply with Anti Money Laundering (\u201cAM",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "lly collect when you use our services. These are data about your device (such as the IP address, device type, operating system, browser used, connection provider); website usage data (such as the date, time and duration of visit, a country from which you visit the website, website browsing history), and data on the use of services (such a",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/privacy-policy/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@carrotfunding.io",
+    "snippet": "lying with them. 5.7 You may request closure of your Trader Dashboard by contacting support@carrotfunding.io . Upon confirmation, your access to the Services will be terminated. Such termination does not entitle You to any refund or reimbursement of fees paid and does not affec",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "privacy@carrotfunding.io",
+    "snippet": "any registered in Ras Al Khaimah, UAE. You can contact carrotfunding.io via email at privacy@carrotfunding.io regarding any questions and the exercise of rights relating to the processing of your personal data. 2. WHAT INFORMATION DO WE COLLECT ABOUT YOU AND HOW DO WE OBTAIN IT",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/privacy-policy/",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "Simple Payout Process Easily request your payout from the dashboard. Digital Asset Payout We support direct Payouts via USDC, receive them instantly in your wallet. Bank Transfer Coming Soon Get paid through our Trusted Banking Partners. 24h Guaranteed Payout 80% Profit Split 24/7 Customer Support Verifiab",
+    "url": "https://carrotfunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours via Arbitrum",
+    "snippet": "ss) will be reset to their original limits. You may resume trading immediately. All payouts are processed within 24 hours via Arbitrum. Rewards are settled transparently and verifiably on-chain . Please ensure your wallet details are correct before submitting your payout request. We are not responsible",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/carrot-funded-trader-accounts/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plans: How Account Growth Actually Works | carrotfunding",
+    "snippet": "Prop Firm Scaling Plans: How Account Growth Actually Works | carrotfunding.io Blog Rulebook FAQ Docs Blog Growth Program Enter App Rulebook FAQ Docs Blog Growth Program Enter App Home / Blog / Prop Firm Scaling Plans: How Account Growth Actua",
+    "url": "https://carrotfunding.io/blog/prop-firm-scaling-plans-explained/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans: How Account Growth Actually Works Education Prop Firm Scaling Plans: How Account Growth Actually Works\n C",
+    "snippet": "Enter App Rulebook FAQ Docs Blog Growth Program Enter App Home / Blog / Prop Firm Scaling Plans: How Account Growth Actually Works Education Prop Firm Scaling Plans: How Account Growth Actually Works C CarrotFunding September 27, 2026 \u00b7 9 min read Share Title image: AI-generated A scaling plan can read like one promise: your account grows",
+    "url": "https://carrotfunding.io/blog/prop-firm-scaling-plans-explained/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan can read like one promise: your account grows as you prove yourself",
+    "snippet": "C CarrotFunding September 27, 2026 \u00b7 9 min read Share Title image: AI-generated A scaling plan can read like one promise: your account grows as you prove yourself. That promise reads like steadily compounding capital, and that reading is exactly where traders get caught out. A scaling plan is not a promise. It is a set of conditio",
+    "url": "https://carrotfunding.io/blog/prop-firm-scaling-plans-explained/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC\u201d) requirements",
+    "snippet": "om time to time, to comply with Anti Money Laundering (\u201cAML\u201d) and Know Your Client (\u201cKYC\u201d) requirements. Furthermore, You expressly warrant that all provided information is complete and accurate. 3.2 You acknowledge that We may request additional information or documentat",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription fees",
+    "snippet": "fees for funded traders? No. Once you\u2019re funded, there are no recurring platform or subscription fees . When and how do I get paid? You\u2019ll be able to request a payout from your Trader Dashboard once eligible. To request a payout, please ensure that: All trades (includi",
+    "url": "https://carrotfunding.io/docs/challenge-faq-and-support/faq/carrot-funded-trader-accounts/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Free trial / demo",
+   "snippet": "features or tools made available to the User, such as access to specific analytical resources. The Free Trial allows You to access certain Services on a limited basis and for a specified duration, free of charge. Completion of the Free Trial does not grant You access t",
+   "url": "https://carrotfunding.io/docs/challenge-faq-and-support/terms-and-conditions/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "TradingView"
+ ],
+ "assets": [
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "you become a Funded Trader. You can now monetize account and earn 80% of the profits in real money. Balance $105,200 Payout Received $5,200 USDC \u00b7 Arbitrum STEP 3 \u00b7 PAYOUT Receive",
+  "you become a Funded Trader. You can now monetize account and earn 80% of the profits in real money. Balance $105,200 Payout Received $5,200 USDC \u00b7 Arbitrum STEP 3 \u00b7 PAYOUT Receive",
+  "emand Verifiable USDC PAYOUT SETTLED 1,205.61 Account Type 1 Phase ROI 1943 % TX Hash 0xd27ed86d...8d0c8 PAYOUT SETTLED 1,408.88 Account Type 2 Phase ROI 292 % TX Ha",
+  "Hash 0xd27ed86d...8d0c8 PAYOUT SETTLED 1,408.88 Account Type 2 Phase ROI 292 % TX Hash 0x3464b4c1...31572 PAYOUT SETTLED 390.13 Account Type 2 Phase ROI 9 % TX Hash",
+  "TX Hash 0x3464b4c1...31572 PAYOUT SETTLED 390.13 Account Type 2 Phase ROI 9 % TX Hash 0xca6504e5...06c33 PAYOUT SETTLED 1,216.05 Account Type 2 Phase ROI 239 % TX Ha",
+  "represent a return on capital, an investment outcome, or participation in the Company\u2019s revenues or profits. 8.3 Payouts, if applicable, may be processed no more frequently than on"
+ ],
+ "errors": []
+}

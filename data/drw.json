@@ -1,0 +1,245 @@
+{
+ "slug": "drw",
+ "name": "DRW",
+ "category": "Institutional",
+ "url": "https://www.drw.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.drw.com/",
+   "kind": "home",
+   "chars": 3011
+  },
+  {
+   "url": "https://www.drw.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 29
+  },
+  {
+   "url": "https://www.drw.com/sitemap-0.xml",
+   "kind": "sitemap",
+   "chars": 106818
+  },
+  {
+   "url": "https://www.drw.com/vc/updates/interprice-technologies-releases-bank-api-integration-to-streamline-bond-pricing-indications-for-treasury-teams",
+   "kind": "page",
+   "chars": 902
+  },
+  {
+   "url": "https://www.drw.com/updates/news/in-the-news-punch-bowl-social-coming-to-west-loop-replacing-planned-brooklyn-bowl-site",
+   "kind": "page",
+   "chars": 2091
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-london-1",
+   "kind": "page",
+   "chars": 3722
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/gearing-up-for-the-technical-challenge",
+   "kind": "page",
+   "chars": 2092
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-metrosquash",
+   "kind": "page",
+   "chars": 3508
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-inspiration-corporation",
+   "kind": "page",
+   "chars": 4560
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-singapore",
+   "kind": "page",
+   "chars": 2516
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-summer-of-a-lifetime",
+   "kind": "page",
+   "chars": 3674
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-bottom-line",
+   "kind": "page",
+   "chars": 4040
+  },
+  {
+   "url": "https://www.drw.com/updates/instagram/preparing-for-our-technical-challenge",
+   "kind": "page",
+   "chars": 598
+  },
+  {
+   "url": "https://www.drw.com/updates/news/in-the-news-its-never-boring-heres-how-drw-keeps-engineers-inspired-and-challenged",
+   "kind": "page",
+   "chars": 1308
+  },
+  {
+   "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-texas-1",
+   "kind": "page",
+   "chars": 3134
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 142017,
+ "findings": {
+  "prices": [
+   {
+    "value": "500",
+    "snippet": "Inspiration Cafe is open 365 days each year, and it typically costs our organization $500 for each meal we provide to 40-45 people working to overcome poverty. The money raised from the Holiday Giving Challenge will go directly toward operational expenses at",
+    "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-inspiration-corporation",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "any has provided monetary support. With our aggressive fundraising goal of more than $2 million by the end of June 2018, development opportunities like the Holiday Giving Challenge give us the resources to add new programs and better serve our students. Fo",
+    "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-bottom-line",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "and have expanded DRW to capture new opportunities. We've been at the forefront of crypto asset trading since 2014, offering unique access to innovative opportunities. Through our VC firm, we invest in financial and enterprise technology that benefits the wo",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "to innovative opportunities. Through our VC firm, we invest in financial and enterprise technology that benefits the work we do every day. Our NX team is dedicated to designing, building, and operating one of the most sophisticated networks of its kind in",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "rly, the disabled, low income families, children from single parent families or otherwise poverty stricken families, and migrant workers in Singapore. How else can you get involved in your organization? Willing Hearts has a simple philosophy when it comes to",
+    "url": "https://www.drw.com/updates/insights/holiday-giving-challenge-singapore",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "0-07T15:06:01.176Z daily 0.7 https://drw.com/updates/instagram/coding-for-speed-and-scale-a-software-developers-first-year-at-drw 2026-10-07T15:06:01.176Z daily 0.7 https://drw.com/updates/instagram/coffee-series-a-discussion-with-cryptoasset-analyst-nate-george 2026-10-07T15:06:01.176Z daily 0.7 https://drw.com/upd",
+    "url": "https://www.drw.com/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "cftc",
+    "snippet": ":06:01.177Z daily 0.7 https://drw.com/updates/news/drw-statement-on-the-decision-in-cftc-matter 2026-10-07T15:06:01.177Z daily 0.7 https://drw.com/updates/news/drw-to-acquire-rgm-advisors 2026-10-07T15:06:01.177Z daily 0.7 https://drw.com/updates/news/drw-to-break-into-hong-kong-mar",
+    "url": "https://www.drw.com/sitemap-0.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "enged 2026-10-07T15:06:01.177Z daily 0.7 https://drw.com/updates/news/in-the-news-kumas-bringing-burgers-to-fulton-market 2026-10-07T15:06:01.177Z daily 0.7 https://drw.com/updates/news/in-the-news-manipulation-or-brilliant-trade-the-curious-case-of-don-wilson 2026-10-07T15:06:01.177Z daily 0.7 https://drw.c",
+    "url": "https://www.drw.com/sitemap-0.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Homepag",
+    "snippet": "Homepage Open menu Menu Open Region Selection Where markets are made. We are a diversified trading firm innovating across both traditional and cutting-edge markets. \"DRW's",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ve been at the forefront of crypto asset trading sinc",
+    "snippet": "We define markets broadly and have expanded DRW to capture new opportunities. We've been at the forefront of crypto asset trading since 2014, offering unique access to innovative opportunities. Through our VC firm, we invest in financial and enterprise technology that benefits the work we do every day.",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "We're adding to the conversa",
+    "snippet": "al estate investment arm is focused on giving value-add properties a new purpose. We're adding to the conversation. Our professionals are leaders in their fields, and that means we have a lot to say. Check out our latest news and insights. See all 09.16.2026 A Brilliant Vision",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s in their fields, and that means we have a lot to sa",
+    "snippet": "ies a new purpose. We're adding to the conversation. Our professionals are leaders in their fields, and that means we have a lot to say. Check out our latest news and insights. See all 09.16.2026 A Brilliant Vision for Chicago's Children and Families Community Investment Read more \u2192 08.31.2026 Meet",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "See all 09.16.2026 A Brilliant Vision for Chicag",
+    "snippet": "ields, and that means we have a lot to say. Check out our latest news and insights. See all 09.16.2026 A Brilliant Vision for Chicago's Children and Families Community Investment Read more \u2192 08.31.2026 Meet Our 2026 Community Partners Community Investment Read more \u2192 07.28.2026 Don Wilson on per",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "DRW Supports New University of Chicag",
+    "snippet": "re \u2192 07.28.2026 Don Wilson on perpetual futures Don Wilson Read more 07.28.2026 DRW Supports New University of Chicago Program for Quantitative Developers Software Developer Read more 07.15.2026 DRW Participates in DTCC's Tokenized Securities Milestone Cumberland Read more 07.06.2",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "vacy Notice California Privacy Notice Facebook Instag",
+    "snippet": "ccess Our Liquidity Community Investment News & Insights Our Offices Terms of use Privacy Notice California Privacy Notice Facebook Instagram Twitter Linked In Youtube Glassdoor Regulatory and Fraud Contact Compliance DRW Canada FR EN \u00a9 2026 DRW Holdings, LLC. All Rights Reserved.",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ram Twitter Linked In Youtube Glassdoo",
+    "snippet": "hts Our Offices Terms of use Privacy Notice California Privacy Notice Facebook Instagram Twitter Linked In Youtube Glassdoor Regulatory and Fraud Contact Compliance DRW Canada FR EN \u00a9 2026 DRW Holdings, LLC. All Rights Reserved.",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "both traditional and cutting-edge markets",
+    "snippet": "ction Where markets are made. We are a diversified trading firm innovating across both traditional and cutting-edge markets. \"DRW's commitment to challenging consensus and continuous innovation enables us to be a transformative force in global markets.\" \u2014 Don Wilson, Founder and CEO Who w",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears of experience across a variety of asset classes",
+    "snippet": "liquidity across a range of asset classes. Our counterparties benefit from our 30+ years of experience across a variety of asset classes. Access liquidity Powerful solutions to global challenges. Don Wilson co-founded Climate Vault, a non-profit that helps institutions achieve climate neutrality thr",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn about our climate ambitions \n \n At DRW, we are working toward a better world",
+    "snippet": "itiative led to DRW becoming the first carbon-neutral global trading firm in 2020. Learn about our climate ambitions At DRW, we are working toward a better world. DRW gives our people the power to do great things at work\u2014and we don't stop there. We are committed as an organization and as individuals to make an impact on the world",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat things at work\u2014and we don't stop there",
+    "snippet": "At DRW, we are working toward a better world. DRW gives our people the power to do great things at work\u2014and we don't stop there. We are committed as an organization and as individuals to make an impact on the world and change it for the better. Learn about CSR at DRW We define markets broadly",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn about CSR at DRW \n We define markets broadly and have expanded DRW to capture new opportunities",
+    "snippet": "on and as individuals to make an impact on the world and change it for the better. Learn about CSR at DRW We define markets broadly and have expanded DRW to capture new opportunities. We've been at the forefront of crypto asset trading since 2014, offering unique access to innovative opportunities. Through our VC firm, we invest in financ",
+    "url": "https://www.drw.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader"
+ ],
+ "assets": [
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

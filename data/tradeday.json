@@ -1,0 +1,455 @@
+{
+ "slug": "tradeday",
+ "name": "TradeDay",
+ "category": "Futures",
+ "url": "https://tradeday.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.tradeday.com/",
+   "kind": "home",
+   "chars": 23736
+  },
+  {
+   "url": "https://www.tradeday.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 69532
+  },
+  {
+   "url": "https://www.tradeday.com/how-it-works",
+   "kind": "page",
+   "chars": 3379
+  },
+  {
+   "url": "https://www.tradeday.com/about",
+   "kind": "page",
+   "chars": 7295
+  },
+  {
+   "url": "https://www.tradeday.com/affiliate-program",
+   "kind": "page",
+   "chars": 5470
+  }
+ ],
+ "page_count": 5,
+ "total_chars": 109416,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "60",
+    "snippet": "ut Certificate Josh $1,832 Pricing Simple pricing. No hidden fees. Up to 60% off! BUILD YOUR ACCOUNT Daily payouts True Day-One Payouts - No buffer Pass in 3 days Fastest route to funded Tradovate / Rithmic Intraday End of Day Thank you! Your submission has been recei",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "45",
+    "snippet": "Trailing Max Drawdown: $1,000 (calculated EOD) Milestones: None Consistency: 45% Min Days to Payout: 5 Min Profitable Days: 5 x $100 Min Payout Request: $250 Max Payout Request Per Cycle: $750 Profit split: 80/20 Funded Sim, 90/10 Funded Live Position Li",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "5",
+    "snippet": "ulated Intraday) Position Limits - 2 Contracts (20 Micros) Consistency 30% Min trading days 5 Resets $45 No activation fee Get Funded 60% OFF Funded Rules Funded Sim Trailing Max Drawdown: $1,000 (calculated intraday) Milestones: None Consiste",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "ated End of Day) Position Limits - 2 Contracts (20 Micros) Consistency 45% Min trading days 3 Resets $65 No activation fee Get Funded 50% OFF Funded Rules Funded Sim Trailing Max Drawdown: $1,000 (calculated EOD) Milestones: None Consistency: 4",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "4",
+    "snippet": "er Min Days to Payout: 1 Min Payout Request: $250 Profit Split: 50/50 below $4k net profit, 80/20 above $4k net profit, 90/10 in Funded Live Position Limit: 2 Contracts (20 Micros) Eval Rules Tradovate Quick Pay New Intraday 25k $ 100",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "10 Funded Live Position Limit: 1 contracts (or 10 Micros), scales +1 contract per $2k profit at EOD, max 2 minis Eval Rules Tradovate Fast Pass New End of Day 25k $ 130 $ 65 per month Profit Target $1,500 Trailing Max Drawdown $1,000 (c",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "r trading day. Get full access from only $24/month! Find out more Win A Free $100k Account Enter for a chance to win a $100k Evaluation account plus exclusive discounts! Congrats, you've now entered and will receive an email shortly Oops! Somethi",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "5% 22.5% Graphics Newsletters Giveaways 0 1 2 3 5 Free $50k Evaluation Acc Bespoke Custom Graphic What's in it for you? (Affliates) Up to 22.5% commission High conversion rates Personal discount codes Col",
+    "url": "https://www.tradeday.com/affiliate-program",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "40",
+    "snippet": "tablished 2020. Trusted by traders worldwide. Now up to 60% OFF! Accounts from just $40! Get Funded Now $10M+ Verified Payouts 1000s of Funded Traders 6+ Years in Operation 15,000+ Trader Community Excellent Based on 1000s o",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ders worldwide. Now up to 60% OFF! Accounts from just $40! Get Funded Now $10M+ Verified Payouts 1000s of Funded Traders 6+ Years in Operation 15,000+ Trader Community Excellent Based on 1000s of reviews 4.6 4.6 4.8",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "13,20",
+    "snippet": "down options Over $10 million in Verified Payouts Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jo",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "18,83",
+    "snippet": "Verified Payouts Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12,32",
+    "snippet": "Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Micha",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,36",
+    "snippet": "Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Michael $1,436 Payout Certificate Crist",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "64,31",
+    "snippet": "icate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Michael $1,436 Payout Certificate Cristian $783 Payout Certificate Jos",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,75",
+    "snippet": "ficate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Michael $1,436 Payout Certificate Cristian $783 Payout Certificate Josh $1,832 Payout Certificate H",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,82",
+    "snippet": "ificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Michael $1,436 Payout Certificate Cristian $783 Payout Certificate Josh $1,832 Payout Certificate Heather $13,207 Payout Certificate",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,43",
+    "snippet": "ate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Michael $1,436 Payout Certificate Cristian $783 Payout Certificate Josh $1,832 Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "783",
+    "snippet": "Wilson $25,827 Payout Certificate Michael $1,436 Payout Certificate Cristian $783 Payout Certificate Josh $1,832 Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,83",
+    "snippet": "cate Michael $1,436 Payout Certificate Cristian $783 Payout Certificate Josh $1,832 Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certifica",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "g the form. New Intraday 25k $ 100 $ 40 per month Profit Target $1,500 Trailing Max Drawdown $1,000 (calculated Intraday) Position Limits - 2 Contracts (20 Micros) Consistency 30% Min trading days 5 Resets $45 No activation fee Get Fund",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "Pricing Simple pricing. No hidden fees. Up to 60% off! BUILD YOUR ACCOUNT Daily payouts True Day-One Payouts - No buffer Pass in 3 days Fastest route to funded Tradovate / Rithmic Intraday End of Day Thank you! Your submission has been receiv",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "WISE",
+    "snippet": "R, ACCESSING, BROWSING, CREATING AN ACCOUNT, POSTING OR DOWNLOADING CONTENT, OR OTHERWISE USING THE TRADEDAY SITES OR SERVICES OR ENTERING INTO ANY OTHER AGREEMENT WITH US, YOU ACKNOWLEDGE (ON BEHALF OF YOURSELF AND ANY ENTITY YOU REPRESENT) THAT YOU HAVE REA",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "resources and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third-party Websites linked to our Sites or Services, you do so entirely at your own risk and subject to the te",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": ": 80/20 Funded Sim, 90/10 Funded Live Position Limit: 1 contracts (or 10 Micros), scales +1 contract per $2k profit at EOD, max 2 minis Eval Rules Tradovate Fast Pass New End of Day 25k $ 130 $ 65 per month Profit Target $1,500 Trailing Max Drawdown $1,000 (calculated End of Day) Position Limits - 2 Contracts (20 Micros) Consistency 45%",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "been received! Oops! Something went wrong while submitting the form. Psychology Master YOUR emotions and discover how to embrace daily trading challenges! Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Quick & Easy Answers FAQs What is the best futures prop firm in 2026? TradeDay has fu",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "tomers and are not a guarantee of future performance or success. Simulated Trading \u2013 CFTC Rule 4.41: Simulated or hypothetical trading programmes are subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any a",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ations of trades, the purpose of which is to manipulate, abuse, or give the user an unfair advantage, for example, by engaging in any short-term or high frequency trades or simultaneously entering into opposite positions. Signing up using different usernames and email addresses. Performing trades in conflict with the terms and conditions ",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Trusted sinc",
+    "snippet": "hrough a transparent, trader-first model. Day-One Payouts Multiple accounts Trusted since 2020 Flexible drawdown options Over $10 million in Verified Payouts Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certific",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "By signing up you ag",
+    "snippet": "ill receive an email shortly Oops! Something went wrong while submitting the form. By signing up you agree to recieve emails from TradeDay. Why us WHAT OUR TRADERS ARE SAYING Real funded traders. Real payouts. Here's what they have to say about trading with Trad",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "WHAT OUR TRADERS ARE SA",
+    "snippet": "the form. By signing up you agree to recieve emails from TradeDay. Why us WHAT OUR TRADERS ARE SAYING Real funded traders. Real payouts. Here's what they have to say about trading with TradeDay. Jarius United States Funded Trader Tyler United States Veri",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ed traders. Real payouts. Here's what they have to sa",
+    "snippet": "recieve emails from TradeDay. Why us WHAT OUR TRADERS ARE SAYING Real funded traders. Real payouts. Here's what they have to say about trading with TradeDay. Jarius United States Funded Trader Tyler United States Verified Payout Funded Trader Ayesi Austrailia Funded Trader He",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "TradeDay has funded futures traders sinc",
+    "snippet": "Quick & Easy Answers FAQs What is the best futures prop firm in 2026? TradeDay has funded futures traders since 2020, paying out millions through a transparent, trader-first model. Day-one payouts on Quick Pay, a 3-day Fast Pass route for traders who want to get funded fast, mult",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "matter when you're trying to build a real trading inc",
+    "snippet": "funded accounts allowed, and lower entry pricing than ever. The things that actually matter when you're trying to build a real trading income. Which prop firms actually pay out? We publish verified payouts on our site and across social media, and we've processed over $10 million to funded traders si",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "million to funded traders sinc",
+    "snippet": "h verified payouts on our site and across social media, and we've processed over $10 million to funded traders since launch. Every testimonial on this page is a real trader with a real payout. If a firm won't show you proof of payouts, that's your answer. How do prop firm evaluat",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e launch. Every testimonial on this pag",
+    "snippet": "and across social media, and we've processed over $10 million to funded traders since launch. Every testimonial on this page is a real trader with a real payout. If a firm won't show you proof of payouts, that's your answer. How do prop firm evaluations work? You trade a simulated acc",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy: All subscription fees are non-refundable except where required by law",
+    "snippet": "being made that any account will achieve profits or losses similar to those shown. Refund Policy: All subscription fees are non-refundable except where required by law. Please review our full Refund Policy on our website. TradeDay LLC is not registered with the SEC or CFTC as a broker-dealer, investment advisor, futures commission mer",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy on our website",
+    "snippet": "ription fees are non-refundable except where required by law. Please review our full Refund Policy on our website. TradeDay LLC is not registered with the SEC or CFTC as a broker-dealer, investment advisor, futures commission merchant, or commodity trading advisor.",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund of the fee, for example, if you cancel your Account or request the cancellation by e-mail, if you terminate the u",
+    "snippet": "or educational resources provided in connection therewith. You are not entitled to a refund of the fee, for example, if you cancel your Account or request the cancellation by e-mail, if you terminate the use of the Services prematurely (for example, fails to complete the Evaluation Challenge), you fail to meet the conditions of the Evalua",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund of any fees or costs, and all fees are final, non-cancelable, and non-refundable",
+    "snippet": "be terminated as of the date of the confirmation email. User is not entitled to any refund of any fees or costs, and all fees are final, non-cancelable, and non-refundable. If you lodge an unjustifiable complaint regarding the paid fee or dispute the paid fee with your bank or payment service TradeDay (e.g., through chargeback services, d",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ears in Operation\n \n 15,000+\n Trader Community\n \n \n \n \n Excellent\n Based on 1000s of reviews\n 4",
+    "snippet": "Get Funded Now $10M+ Verified Payouts 1000s of Funded Traders 6+ Years in Operation 15,000+ Trader Community Excellent Based on 1000s of reviews 4.6 4.6 4.8 Trade up to 10 accounts Accounts from $40 What's New? Why us WHAT MAKES TRADEDAY DIFFERENT? Since 2020, TradeDay has funded futures",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eather\n $13,207\n Payout Certificate\n Shahmir\n $18,832\n Payout Certificate\n Brian\n $12,326\n Payout Certificate\n Brandon\n ",
+    "snippet": "ble drawdown options Over $10 million in Verified Payouts Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,827 Payout Certificate Michael $1,436 Payout Certific",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ea to access our resources to help you find your edge",
+    "snippet": "TRADEDAY COPILOT Not interested in funding, but want access to TradeDay's members area to access our resources to help you find your edge. Let TradeDay be your CoPilot throughout your trading day. Get full access from only $24/month! Find out more Win A Free $100k Account Enter for a chance to win",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal funded traders",
+    "snippet": "gree to recieve emails from TradeDay. Why us WHAT OUR TRADERS ARE SAYING Real funded traders. Real payouts. Here's what they have to say about trading with TradeDay. Jarius United States Funded Trader Tyler United States Verified Payout Funded Trade",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal payouts",
+    "snippet": "s from TradeDay. Why us WHAT OUR TRADERS ARE SAYING Real funded traders. Real payouts. Here's what they have to say about trading with TradeDay. Jarius United States Funded Trader Tyler United States Verified Payout Funded Trader Ayesi Au",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "graphical restrictions of availability or any other technical restrictions. Using a VPN or VPS to mask the location of the trading. Please see our policy here . Engaging in other conduct which, in the sole discretion of TradeDay, represents uncommercial activity, is intended to game the market, or o",
+    "url": "https://www.tradeday.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@tradeday.com",
+    "snippet": "th TradeDay's transparent, trader-first funding model. Get Funded Support support@tradeday.com Available 24/7 Address Tradeday LLC 2nd Floor, 412 S. Wells Chicago, Illinois 60607 Legal \u203a Affiliate Program \u203a Terms and Conditions \u203a Privacy Policy \u203a Coo",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "affiliates@tradeday.com",
+    "snippet": "Commission Earn up to 22.5% commission on all purchases Got questions? Email us at affiliates@tradeday.com Bronze Silver Gold Platinum Diamond Monthly Sales $0-$2,500 $2,501-$5,000 $5,001-$10,000 $10,001-$25,000 $25,000+ Commissions 15% 15% 20% 22.5% 22.5%",
+    "url": "https://www.tradeday.com/affiliate-program",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 3 days\n Fastest route",
+    "snippet": "ricing Simple pricing. No hidden fees. Up to 60% off! BUILD YOUR ACCOUNT Daily payouts True Day-One Payouts - No buffer Pass in 3 days Fastest route to funded Tradovate / Rithmic Intraday End of Day Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. New",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Max Payout Request Per Cycle: $750\n \n Profit split: 80/20 Funded Sim, 90/10 Funded Live\n \n Position Limit: 1 contracts (",
+    "snippet": "in Days to Payout: 5 Min Profitable Days: 5 x $100 Min Payout Request: $250 Max Payout Request Per Cycle: $750 Profit split: 80/20 Funded Sim, 90/10 Funded Live Position Limit: 1 contracts (or 10 Micros), scales +1 contract per $2k profit at EOD, max 2 minis Eval Rules Tradovate Fast Pass New End of Day 25k $ 130 $ 65 per month Profit Tar",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Max Payout Request Per Cycle: $1,500\n \n Profit split: 80/20 Funded Sim, 90/10 Funded Live\n \n Position Limit: 2 contracts",
+    "snippet": "in Days to Payout: 5 Min Profitable Days: 5 x $150 Min Payout Request: $250 Max Payout Request Per Cycle: $1,500 Profit split: 80/20 Funded Sim, 90/10 Funded Live Position Limit: 2 contracts (or 20 Micros), scales +1 contract per $2k profit at EOD Eval Rules Tradovate Fast Pass Most Popular End of Day 50k $ 189 $ 95 per month Profit Targe",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Max Payout Request Per Cycle: $1,875\n \n Profit split: 80/20 Funded Sim, 90/10 Funded Live\n \n Position Limit: 3 contracts",
+    "snippet": "in Days to Payout: 5 Min Profitable Days: 5 x $200 Min Payout Request: $250 Max Payout Request Per Cycle: $1,875 Profit split: 80/20 Funded Sim, 90/10 Funded Live Position Limit: 3 contracts (or 30 Micros), scales +1 contract per $2k profit at EOD Eval Rules Tradovate Fast Pass Best Value End of Day 100k $ 330 $ 165 per month Profit Targe",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Max Payout Request Per Cycle: $2,250\n \n Profit split: 80/20 Funded Sim, 90/10 Funded Live\n \n Position Limit: 4 contracts",
+    "snippet": "in Days to Payout: 5 Min Profitable Days: 5 x $250 Min Payout Request: $250 Max Payout Request Per Cycle: $2,250 Profit split: 80/20 Funded Sim, 90/10 Funded Live Position Limit: 4 contracts (or 40 Micros), scales + 1 contract per $2k profit at EOD Eval Rules Tradovate Fast Pass Expert End of Day 150k $ 500 $ 250 per month Profit Target $",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee\n Get Funded\n 60% OFF\n Funded Rules\n Funded Sim\n \n Trailing Max Drawdown: $1,000 (calculated intraday)\n \n ",
+    "snippet": "Contracts (20 Micros) Consistency 30% Min trading days 5 Resets $45 No activation fee Get Funded 60% OFF Funded Rules Funded Sim Trailing Max Drawdown: $1,000 (calculated intraday) Milestones: None Consistency: None No Payout Buffer Min Days to Payout: 1 Min Payout Request: $250 Profit Split: 50/50 below $4k net profit, 80/20 above $4k n",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee\n Get Funded\n 60% OFF\n Funded Rules\n Funded Sim\n \n Trailing Max Drawdown: $2,000 (calculated intraday)\n \n ",
+    "snippet": "Contracts (50 Micros) Consistency 30% Min trading days 5 Resets $59 No activation fee Get Funded 60% OFF Funded Rules Funded Sim Trailing Max Drawdown: $2,000 (calculated intraday) Milestones: None Consistency: None No Payout Buffer Min Days to Payout: 1 Min Payout Request: $250 Profit Split: 50/50 below $4k net profit, 80/20 above $4k n",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee\n Get Funded\n 50% OFF\n Funded Rules\n Funded Sim\n \n Trailing Max Drawdown: $1,000 (calculated EOD)\n \n Miles",
+    "snippet": "Contracts (20 Micros) Consistency 45% Min trading days 3 Resets $65 No activation fee Get Funded 50% OFF Funded Rules Funded Sim Trailing Max Drawdown: $1,000 (calculated EOD) Milestones: None Consistency: 45% Min Days to Payout: 5 Min Profitable Days: 5 x $100 Min Payout Request: $250 Max Payout Request Per Cycle: $750 Profit split: 8",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee\n Get Funded\n 50% OFF\n Funded Rules\n Funded Sim\n \n Trailing Max Drawdown: $2,000 (calculated EOD)\n \n Miles",
+    "snippet": "Contracts (50 Micros) Consistency 45% Min trading days 3 Resets $95 No activation fee Get Funded 50% OFF Funded Rules Funded Sim Trailing Max Drawdown: $2,000 (calculated EOD) Milestones: None Consistency: 45% Min Days to Payout: 5 Min Profitable Days: 5 x $150 Min Payout Request: $250 Max Payout Request Per Cycle: $1,500 Profit split:",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee\n Get Funded\n 60% OFF\n Funded Rules\n Funded Sim\n \n Trailing Max Drawdown: $3,000 (calculated intraday)\n \n ",
+    "snippet": "Contracts (50 Micros) Consistency 30% Min trading days 5 Resets $108 No activation fee Get Funded 60% OFF Funded Rules Funded Sim Trailing Max Drawdown: $3,000 (calculated intraday) Milestones: None Consistency: None No Payout Buffer Min Days to Payout: 1 Min Payout Request: $250 Profit Split: 50/50 below $4k net profit, 80/20 above $4k n",
+    "url": "https://www.tradeday.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "odes Collaboration Best in class software What's In It For Traders? An experienced trading team One step evaluation Real funded accounts TMD calculated end of day Industry's best payouts Institution trading tools Win A Free $100k Account Enter for a chance",
+   "url": "https://www.tradeday.com/affiliate-program"
+  }
+ ],
+ "platforms": [
+  "Tradovate",
+  "Rithmic"
+ ],
+ "assets": [
+  "FX",
+  "Gold",
+  "Silver",
+  "Oil",
+  "Commodities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "15,000+ Trader Community Excellent Based on 1000s of reviews 4.6 4.6 4.8 Trade up to 10 accounts Accounts from $40 What's New? Why us WHAT MAK",
+  "ce 2020 Flexible drawdown options Over $10 million in Verified Payouts Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $",
+  "Over $10 million in Verified Payouts Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $",
+  "outs Payout Certificate Heather $13,207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,",
+  ",207 Payout Certificate Shahmir $18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752",
+  "$18,832 Payout Certificate Brian $12,326 Payout Certificate Brandon $5,369 Payout Certificate Kou $64,317 Payout Certificate Jose $3,752 Payout Certificate Wilson $25,"
+ ],
+ "errors": []
+}

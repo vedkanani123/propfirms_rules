@@ -1,0 +1,390 @@
+{
+ "slug": "vault-funder",
+ "name": "Vault Funder",
+ "category": "Historical/Uncertain",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://vaultmarkets.trade/vaultfunder/",
+  "evidence": "name+4 prop-firm signals on homepage",
+  "tried": [
+   "https://vaultfunder.com/",
+   "https://vaultfunder.io/",
+   "https://vaultfunder.co/",
+   "https://vaultfunder.net/",
+   "https://vaultfunder.org/",
+   "https://vaultfunder.app/",
+   "https://vaultfunder.trade/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://vaultmarkets.trade/vaultfunder/",
+   "kind": "home",
+   "chars": 1730
+  },
+  {
+   "url": "https://vaultmarkets.trade/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 300
+  },
+  {
+   "url": "https://vaultmarkets.trade/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 12782
+  },
+  {
+   "url": "https://vaultmarkets.trade/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 10111
+  },
+  {
+   "url": "https://vaultmarkets.trade/client-types-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 83
+  },
+  {
+   "url": "https://vaultmarkets.trade/testimonial-types-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 164
+  },
+  {
+   "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+   "kind": "page",
+   "chars": 150817
+  },
+  {
+   "url": "https://vaultmarkets.trade/vaultfunder/legal/simulated-trading-evaluation-agreement.pdf",
+   "kind": "page",
+   "chars": 421253
+  },
+  {
+   "url": "https://vaultmarkets.trade/vaultfunder/legal/cancellation-and-refund-policy.pdf",
+   "kind": "page",
+   "chars": 69746
+  },
+  {
+   "url": "https://vaultmarkets.trade/trading-desk/faq/",
+   "kind": "page",
+   "chars": 10593
+  },
+  {
+   "url": "https://vaultmarkets.trade/forex/best-time-to-trade-forex-and-how-vault-markets-helps-you-make-the-most-of-every-session/",
+   "kind": "page",
+   "chars": 10478
+  },
+  {
+   "url": "https://vaultmarkets.trade/aboutus/awards/",
+   "kind": "page",
+   "chars": 2886
+  },
+  {
+   "url": "https://vaultmarkets.trade/forex/everything-you-need-to-know-about-trade245-login-and-broker-selection/",
+   "kind": "page",
+   "chars": 9263
+  },
+  {
+   "url": "https://vaultmarkets.trade/aboutus/",
+   "kind": "page",
+   "chars": 6264
+  },
+  {
+   "url": "https://vaultmarkets.trade/contact/",
+   "kind": "page",
+   "chars": 3107
+  },
+  {
+   "url": "https://vaultmarkets.trade/forex/brokers-with-micro-accounts-that-actually-put-traders-first-why-vault-markets-leads-the-way/",
+   "kind": "page",
+   "chars": 9828
+  },
+  {
+   "url": "https://vaultmarkets.trade/forex/brokers-with-micro-accounts-how-vault-markets-opens-the-door-for-every-trader/",
+   "kind": "page",
+   "chars": 9030
+  },
+  {
+   "url": "https://vaultmarkets.trade/forex/brokers-with-micro-accounts-how-to-actually-learn-forex-without-betting-real-money-you-cant-afford-to-lose/",
+   "kind": "page",
+   "chars": 10271
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 738723,
+ "findings": {
+  "prices": [
+   {
+    "value": "0",
+    "snippet": "i=i\ufffdZ\u000f\ufffd\ufffdy\ufffd\u02dav&WKEt\ufffd.\ufffd\ufffd*}\ufffd,\ufffd\ufffd\ufffd\u05f4\ufffd?EG|u\ufffd\ufffd\ufffd\ufffdM~\\\u0012\ufffd\ufffd\ufffd\ufffdS\ufffd\ufffdUvPC\ufffd\ufffd\u0126\ufffd\ufffdC\ufffd7\ufffdWJ\ufffd^1\ufffdOJ\ufffdX=\ufffd\u0531\ufffd\u04ef\ufffd\ufffdRu\ufffd\ufffd\ufffd$0M*\ufffd\ufffd\ufffd j\b\ufffd\ufffd\ufffd\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffdi\ufffd\ufffd\u007f\ufffd\u00029?;\ufffd\ufffdXl\ufffdI\ufffd\ufffd/7\ufffd\u0019 \ufffd=\ufffd\ufffd\ufffd\ufffd\u0561\ufffd \ufffd\ufffd\ufffd\ufffdmq\u0012) {\ufffd\ufffd\ufffd \ufffd\ufffd\u0003\ufffd\ufffd\ufffd\u0731\ufffd\ufffd\b\ufffd/\ufffd\ufffd\ufffd \ufffd\u06ca\ufffd\ufffd\u06f2\ufffdK\u026b;\ufffd\u351do\ufffdx\ufffd'.6Y\u0004\ufffdx\ufffd\ufffdR\ufffd\ufffd\ufffdWM\ufffd'k\ufffd\ufffd\ufffd\u1ad7F\ufffd\ufffd\ufffd\u0001$\ufffdzoM\ufffd\ufffd\ufffd\u0469\u03f2\ufffd\ufffd\u0019'\u0011\ufffd(\u0016;\ufffd\u000f {k]1\ufffdK\ufffdw\b\ufffd\ufffdR+\ufffdg\ufffd-\ufffd\ufffd\ufffdr\ufffd\u0014\u04cd\ufffdr\u7179",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "9",
+    "snippet": "\ufffdF3z\ufffd\ufffd\ufffd\ufffd\u0005\ufffd\u0014\ufffd\u0000\ufffd\ufffd\ufffdgg\ufffd\ufffd\ufffd\ufffd\u001b\ufffd\ufffd\ufffd[\ufffd\ufffd6\ufffd[\ufffd\ufffdI5\u000f\ufffd\ufffd\ufffd@\u0006\ufffd\u0013 \ufffd\u0003h\\\ufffd Q\ufffd\u00061H\ufffdR\ufffd\u04fa\ufffd\ufffd5>\ufffdf\ufffd\ufffd>\ufffdO\ufffd\u02222\ufffd2\ufffd\u001a\ufffd\ufffdi\u0019W|\ufffd$9t\ufffd\u0003\ufffd\ufffd\ufffd\ufffd\"\ufffd\u0013\ufffdP\ufffd\ufffdE\u0003Z\ufffd\ufffdQ\ufffd\ufffd\u0015\ufffd h\ufffd\ufffd\ufffd\ufffd]\ufffd\ufffd+h\ufffd\u0019\b\ufffd\ufffdJM\ufffd\ufffd\ufffd\u0003\ufffd\ufffd\u0017\ufffd!P\ufffd\u0018LR\ufffd\ufffd\u0015T\ufffd\ufffd\ufffd\ufffd B\b\ufffdS\ufffd\u0004\ufffd6\ufffd\ufffd\u0014\ufffd4M\ufffd\ufffd\u0007\ufffd\ufffd0\ufffd \ufffd\u0017\ufffd\ufffd\u0000\ufffd,Q\ufffd\ufffd\u0006\u0018\ufffd\ufffdw\u0290\ufffd\ufffd\ufffdI+\u0015\ufffd\ufffd\u2854\u0006u#\u000f\ufffd\ufffd8\ufffd\ufffd!\u0413lb\ufffd\ufffdU\ufffd\u0005\ufffd\u0007\u0017d\ufffd\ufffd\u000e\ufffd\b\u0012\ufffd\ufffd\ufffd }u\ufffd^6 RJ\ufffd\u00131\u01f9\ufffd\ufffd.sB gN 7 \ufffd \ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "\ufffd\ufffd\ufffd\u0003 \ufffd/\ufffd\ufffd\ufffde\u0004 \ufffd\"\u03d0\ufffd\ufffdAo\ufffd!\u5b07\ufffd\u0016\ufffd\u00c3 \ufffdK\ufffd\u0012g\ufffdZe\u0103\ufffdF\ufffdV \ufffdI\ufffd\ufffd \ufffd% \u0012\u0000\ufffd\u010cz@a[\u0003J8f\ufffd:\ufffd\ufffdkYIk\ufffd\ufffdB\u0002- \ufffd7\ufffd\ufffd\ufffd\ufffd\u001a\u0662\ufffd$1&{\ufffd3\u0010\ufffda>\ufffd\ufffd \u0014\ufffd)\ufffdP\ufffd\"\ufffd\ufffd!\ufffd\ufffd\ufffdhD\ufffd\ufffd\ufffd\u0696\u0012E\u02389\ufffdM\ufffd\ufffd\ufffd+%\ufffd\u0007\ufffd\ufffdN \ufffd\"\ufffdF\ufffdH^\u0483\ufffd\ufffd(\ufffd\u03c3Q2\ufffd\ufffd(\ufffd\ufffd\ufffd\ufffdGq\ufffd\ufffdm\ufffd\u04b8\ufffd\u0015 \u0010\ufffd\ufffd\ufffd5\ufffd\ufffdY2`* \ufffd\u0019\ufffd\ufffd!\ufffd?f\ufffd\ufffd6\ufffdA\u00d0\ufffd&\ufffd\ufffd3\ufffd\ufffdR\ufffd\u0002%\ufffd\ufffdF^_ \ufffdN\ufffd\ufffd;s\ufffdx\u000f\ufffd\ufffd\ufffd\ufffd-\ufffd \ufffd[\ufffd\ufffdHZ/ xH\ufffd\ufffd q\ufffd\ufffd}(\ufffd*\ufffd.r\ufffd\ufffd\ufffdEp \ufffd\ufffd6",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "\ufffd\ufffd)B Fs~\u06e82\ufffde\ufffd\ufffd\ufffd\ufffd6\ufffdYm\ufffd\u0006nLx\u0017tb~\ufffd6jXm\ufffd\ufffd\ufffdq\ufffdF=\ufffdF\ufffd\ufffd\ufffdDs \ufffd \ufffd\u0011\u00187J\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd`#\ufffd\u0018\u0015\u0012 \ufffdP\u00192\ufffdir\ufffd\ufffd!B\ufffd\ufffd$ 8m\ufffd!\ufffdo\ufffd\ufffd}\ufffd\ufffd# n\ufffd\u0002U\ufffd\ufffdz\ufffdu\u0014>$PiF\ufffd\ufffd\ufffdi=\ufffd1\ufffdq\ufffd\u0462\u0015 \ufffd-\u0012\ufffd\u0018\ufffdp\ufffd\ufffdAZd8\ufffd\ufffd\ufffd\u0019\ufffdpHa\ufffdz\ufffd\ufffd\ufffd \ufffd\u0017\ufffd\u000e\ufffdC\ufffdl~z\ufffd j{\ufffdB,)U\ufffd\b\ufffdO\ufffd\u0006\ufffdm\ufffd\ufffd\u0612\ufffdT\\ H \b o\u0014\u102a4=\u0471\\YI\u0014\u022f!\ufffd.\u0006|\ufffd\u078da8\ufffd\u0272%)c\ufffd'\u0010\u000e\ufffd)\ufffdQ\u000f\ufffdO.\ufffd\ufffdqjs\u0006\u0017e~b\ufffdp\ufffd\u0196x\ufffd\u023f r\ufffdpD%\ufffd\u0015\ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "~\b\ufffd\ufffd\ufffd\u0003 \u0015\ufffd*\ufffd\ufffd \u0011\ufffd\ufffd\ufffd\u007f\u0001\ufffd3\u000e endstream endobj 70 0 obj > stream x\ufffd\ufffd]ms\ufffd8\ufffd\ufffd\ufffd\ufffd\ufffd\u0007~\ufffd\ufffd\ufffd ^\ufffdr\ufffdJ\ufffd\ufffd$3\ufffd\ufffd\u0759\u001b{7u\ufffd\ufffd\u000f\ufffdDK\ufffd\ufffdD E%\ufffd\u007f\u007f\ufffd\u0006)\ufffd6\ufffd\ufffd:h\ufffd\ufffd* \ufffd\"\ufffdh\ufffd\ufffd\ufffd\u0007\ufffdW\ufffd]\ufffd\ufffdT\ufffd>y\ufffd\ufffd\ufffdy\ufffdW\ufffde=O>\ufffd\ufffdj\ufffd\ufffdzu\ufffdm[\ufffd\ufffd\ufffdZ4\ufffd\ufffdo\ufffd\u036b\ufffd\ufffdu\u000f\ufffd~\ufffd\ufffdy\u077dy\ufffd\ufffd}w\ufffd\ufffd\ufffd\ufffd2K\u0016\ufffd\ufffd/\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd,\ufffd\"\ufffds]$\ufffd\ufffd\ufffd\u0313B\u0294\ufffd\ufffd\ufffd_\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd \ufffd\ufffdtr\ufffdRf\ufffd\ufffd8\ufffd:a\ufffd2U*9~\ufffdNf\ufffd/^}\\W\ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "\ufffde\ufffd\ufffdt\ufffd\u0018n\ufffd\ufffd\ufffdb^\ufffd?\ufffdA;\ufffdu* \ufffdm\ufffd\u0658\ufffdT b\u0012A\ufffdKA\ufffd bC)\ufffdf\ufffd\u04a8\ufffdJ!\u0017\ufffdH#\ufffd\ufffdy\ufffd\ufffd4\ufffd\ufffd\ufffdhJP\\\u0015\ufffd \ufffd\ufffd \ufffd\ufffdb\ufffd\ufffdT2:\ufffdA+LX x$ 2\ufffdt\ufffdd\ufffdA\ufffd\ufffd\ufffd,\ufffd\ufffd\u0001J\ufffdGJ\ufffd%W \ufffdEz\ufffd\ufffd2.\ufffd \ufffd[\ufffd\u0000\ufffd\ufffd3rk\ufffdx\ufffd\u04a4\u0435t\ufffd\ufffdZ \u0011ia\ufffd\u0732i\u001b\ufffdeQ\ufffd\u0019\ufffd\ufffd\ufffd)\ufffd\u001bI\ufffd\ufffd\u0010\ufffdN\ufffd\u0006\u0011\ufffd \u0013,\u0007 \ufffd\ufffd\ufffdb\ufffd\ufffdY\ufffd s\ufffdK\ufffd\ufffd*\ufffd\u0004\ufffd\u02c8\ufffd \ufffd!c\ufffdp\ufffd a\u001a-\ufffd2\u0000\u0006\ufffdWf&\ufffd\ufffd\ufffds\ufffd \ufffd\ufffdsS\u0007\\:#\ufffdE8m.PoK\ufffdE\u0018\ufffdp\ufffd\\\u0003\ufffdk\ufffd f\u0005\ufffd.\u000eJ\ufffdKK\u0006\u0010 \ufffd[\u0000",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "GZ@\u0500\ufffd\u0004 \ufffd \ufffd!\ufffd2\ufffdl\ufffd` \u0011\ufffd&\\q\ufffdo\ufffd\ufffd\u0000\u0005\ufffd\ufffd\ufffd\ufffd%p2\ufffd\u0007\u0018#{P`\ufffd \ufffd\ufffd\ufffd !\ufffdq[\ufffd!\ufffd1\ufffd\u000e!\ufffd1\u0016\ufffd\ufffd\ufffd\ufffd\ufffd FRk\ufffd\ufffd\ufffd\ufffd\u0018 \ufffdHj ?b$5\ufffdFZX,\u00cf\u0018 \ufffd\u06e2\u0010^\ufffd\ufffd \ufffd \ufffd9,\ufffd\ufffd\ufffd HY\u03e0\ufffd\ufffd;\u0001\ufffd\u0001\ufffd\ufffd\u000e$\u0003\ufffd\ufffd\u0002)\u0006Q \ufffd\u0004O+ \ufffd\u0209\u1849!\u0003xh\ufffd|$\ufffdC\ufffd +%x\ufffd87\ufffdJ R\ufffd+xh*\ufffd \ufffd*\ufffd\ufffd\ufffd&Dy\ufffd\ufffdJ\ufffd\ufffd\ufffd\u00f7\ufffd\ufffd\ufffd\ufffdy\u0019x\ufffd\ufffd\u0019>\ufffd\u0012\ufffd\ufffd \ufffd\u0006=\u0001I\u0018~\ufffd\ufffd\ufffdXY \b\ufffd\ufffd\ufffd\u0015\u0019\u0012c\ufffdE2|\ufffd\ufffd\u0019@ \ufffdIiU,\ufffd ,-h\u0015\ufffd\\\u0005Q`\ufffd \ufffd\ufffd\u0015\ufffdk\ufffdY$\ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "7",
+    "snippet": "\ufffdD\ufffd;\u0018\u0003W\ufffd\u0018;\ufffd7 \u0015\ufffdHJ\ufffd:?\ufffd\ufffd!\ufffdZ\ufffd\ufffdu( \ufffd\ufffdf\ufffd\u02a1K\ufffd\ufffdN\ufffd[\ufffd\u04f2\ufffd{\u05db\ufffdW\ufffd\ufffd\ufffdu[~M\ufffdh+\u0565\ufffd+\ufffd\ufffda\ufffd\ufffd@>\ufffd\"\u039ae\ufffdO\ufffdO\ufffdgB\ufffdT(.}\ufffd$ 7\ufffd\u0012\ufffd\ufffd\ufffdPuY\u0012{\ufffd\ufffdWReL\ufffd2V\ufffdHC\ufffd\u0395\ufffd?\ufffdw\ufffd\ufffd5]\ufffd\ufffd\ufffd7o\ufffd\ufffd\ufffdF\ufffd\ufffd\u001b\ufffd\ufffd\ufffd0\ufffd\ufffdH=W\ufffd\ufffd{\u034e \ufffd\ufffd+W\ufffd ]^\u0014p\ufffd~\ufffdd\ufffd\ufffdu\ufffd\ufffd\ufffd7\ufffd\ufffd\ufffdVe\ufffdW\ufffd\u001a\ufffd\u0003\ufffd\ufffd\u0019\ufffd\ufffd\ufffd\u04a3,4\ufffdW\ufffd\u001b\ufffd\u0015\ufffd\ufffd%\ufffd\u0002IY?\ufffd\ufffdn\ufffd\ufffd\ufffd\ufffd\u0416-\u000f\ufffd\u000f\ufffd\u0005\ufffd\ufffd}N'W(\ufffd\u0018\ufffd\ufffdX\ufffd\ufffd\u0615C'\ufffd\ufffd{\u0006\ufffd\ufffd6\u0733g\ufffd \ufffdK{\ufffd \ufffd!\ufffd\b\ufffd!\ufffdQ-\ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "\ufffd\u0016H\u0369\ufffd-\ufffdsU\ufffd\u001b.Iw\u04bf]\"\ufffdS\ufffdc+\ufffdw4\ufffdE\ufffdG\ufffdo,\ufffd\ufffd\"\ufffd2\ufffd\u000eCzt\ufffdtv\ufffd\ufffd:zue\u04bb \u0769?_%\u00f1:z\ufffdJ\ufffdrEZ\ufffd\ufffdt\ufffd\ufffd\ufffd\ufffd\ufffd\"\ufffd\ufffdJ\u01a3\ufffd\ufffd\ufffd\ufffd\ufffdK$4\ufffdJ\ufffd'\ufffdO\ufffd\ufffd5\ufffd\ufffd\ufffdd\u001a4K\ufffd\ufffd\ufffd\ufffd\u0000h\ufffdZ \ufffdI\ufffd *\ufffd(\u0015\ufffd\ufffd@\u0014\ufffd\u0006\u0004\ufffd\u001a\ufffd\ufffd0L\u0002\b\ufffdx\ufffd\\\u0215,2@\ufffd*`\ufffd\ufffd\ufffdp\ufffd\u0581\ufffdV[\ufffd\ufffdn\ufffd{\ufffd\ufffdgE\ufffd:J\ufffd\u03ba\ufffd\ufffd{\u0013\u0002b\ufffd\ufffd~\ufffd\ufffd\ufffd\ufffd\ufffd~%\ufffd\ufffd9\ufffd\ufffd\ufffd\ufffd\ufffd9\ufffd\ufffdx\ufffd{ \ufffdhL\ufffdQ>\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdw\ufffd\ufffdV\ufffd\ufffd>\ufffd\ufffdZ b\ufffdoJ\ufffd\ufffd\u0010\ufffd\u0006\ufffdk`\ufffd\ufffd\u0016x\u0005\ufffd}\ufffd\ufffd \ufffd}\ufffd\ufffd\ufffd?\ufffd\ufffd\ufffd\u007fM\u0007",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/terms-and-conditions.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "08",
+    "snippet": "\ufffd:\ufffd\u0400!\ufffd\ufffd|\ufffdd\ufffdtDo\ufffd \ufffd>\ufffd\ufffd=\ufffd\ufffd\ufffd::\u0005CDO\ufffd\ufffd\u0018\ufffdPJdwq$M\ufffdK]x#)!\ufffd\u0010\ufffd\u020d0\ufffd\ufffdkDE\u00128LJ\\R\ufffdOn\ufffd|\ufffdHL\ufffd'\ufffd\u0003B\u0004}\ufffd\ufffd\ufffd\ufffdD\ufffd$08\ufffdB\u0490\ufffd\ufffd\ufffd \ufffdcD\ufffd\u06118\ufffd\ufffd\ufffd\ufffdc\ufffd\ufffd^yi\u0013\ufffd\ufffdYz\ufffd^s\be\ufffd5\ufffd\"\u0015m\ufffdb\ufffd\ufffd\ufffd\ufffd1\ufffd\ufffd\u07b8\ufffd\u0003\ufffd\u0010z\u001b\ufffdyi\ufffd|I\ufffdI\ufffd\u0010v\ufffd\ufffd\u03d1W\ufffd\ufffd0\ufffd\ufffd\ufffdV\ufffd7\ufffd\u0018\ufffd\ufffd\ufffd\ufffdy)\ufffd(.\u0018\ufffd\u0017\uf312\ufffd\ufffdq\ufffd\ufffd\u0017\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\u02073\u0000\u0011w\ufffd\ufffd\ufffd)\ufffd\ufffd \ufffd\ufffd\u0001C \ufffdX\ufffdC}K\ufffdd\ufffd\u0005\u0016\u0013\ufffdP\u0006\ufffd\ufffd\ufffdM6s\u0014 \\K\ufffdQ \u0019\ufffd{6\ufffd\ufffd\ufffds\u00e9 6\ufffdyy\ufffd\ufffdC\ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/simulated-trading-evaluation-agreement.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "\ufffdB\ufffd\ufffd\ufffdy\ufffd. %\ufffd\\\ufffd\ufffdX1\ufffdj\ufffd\ufffdVQ\ufffd\ufffd\ufffd \u0282\ufffdgR$\u0019\ufffd\ufffd{\ufffd\ufffd\ufffdd\ufffd\ufffd\u001b\ufffd\ufffd\u0402G\ufffd\u000e.$\ufffdx\u0006Ul\u0014k\ufffd\ufffd\ufffd(\ufffd\ufffda\u0396\ufffdJr\ufffd\ufffd G \ufffd\ufffdz\ufffd\u000e\ufffd`!u\ufffd2+$6\ufffd\ufffd\ufffd\u0155\ufffd\u001b\ufffd\ufffd[\ufffd\ufffd\ufffd\ufffd\u0017\ufffdb[\ufffdA,\ufffd9zH\ufffd\ufffd\ufffdN\ufffd\ufffd%\ufffdyn{\ufffdNz|9\ufffd\ufffd~{\u0017\\\ufffdD\ufffd\ufffd \u0013\ufffdt-B\ufffdQ\ufffd\ufffd@\ufffd\ufffd!\ufffd\ufffd\ufffd\u001a6i\ufffdy\ufffd\ufffd@e\ufffdT\ufffdf\ufffd\ufffd{\ufffd 6\ufffdg\ufffd/K\ufffd\u0014\ufffd\ufffd\u000e0\u0019 \ufffd-\ufffd\u0012\ufffd\u0000\ufffd)\ufffd W=\ufffd\ufffdU\ufffd\ufffdY\u0000\ufffdu>\ufffd\ufffd\ufffd;\ufffdT\ufffd\ufffd\u0015rvD3\ufffd P\ufffd\ufffd\u0004\ufffd\u0548\ufffd=&U\ufffd\u001400\ufffdk8'\u051f\ufffd\ufffdk\u0003 Z\ufffd\ufffdh\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/simulated-trading-evaluation-agreement.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "74",
+    "snippet": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd?\ufffd\ufffd/\ufffd\ufffd\ufffdo]\ufffda\u007f\ufffd\ufffd\ufffde\ufffdm\ufffd~\ufffd\ufffd\ufffde\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd?\ufffd\ufffd~\ufffd\ufffd\ufffdK\ufffd*\u0014\ufffd\ufffdI\u000f\ufffd\ufffdW|!\ufffd\b\ufffd\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffdp\ufffd\u0004\ufffdg\ufffd\ufffdz\ufffdm\ufffd\ufffdS\ufffdN\ufffdO$74\b\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd \u0407h\ufffd\ufffd\u0015\u06b7~\ufffd\ufffd\ufffd\u007fhm\ufffd\ufffdc_\ufffd\ufffd\ufffdl\u02f4 \ufffd\ufffdf\u0708:{\ufffd\ufffd\ufffd\ufffd\ufffdp\u0607\u000fr\ufffd\ufffd\ufffd\ufffdl7nx\ufffdu\ufffd0\ufffd W{ \ufffd60\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\u0016\ufffd\ufffdv\ufffda\u0002m)'\ufffdQ,\u0014|F\ufffd\ufffd\u0019?o\ufffd5\ufffdh=z\u0002\ud4e5r\ufffd1b\ufffd\ufffd\ufffd~\u000f\ufffdr\ufffd \ufffdT\ufffdW\u007f\ufffd\ufffd\ufffdM\ufffd\ufffd\ufffd>\ufffdK\ufffdN\u000e\u0018\u06e8 V\ufffdm\ufffd\ufffd\u00123\ufffd )\ufffd\ufffd \ufffd\u0015L*\ufffd78i\ufffd\ufffd\u0019:\ufffdH \ufffd",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/simulated-trading-evaluation-agreement.pdf",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "ddress at 4 Canal Close, 2 Century Falls Road, Century City, 7441 and is a duly authorised Juristic Representative of RocketX (Pty) Ltd. RocketX (Pty) Ltd is licensed and regulated by the Financial Sector Conduct Authority (FSP number 52142). RocketX (Pty) Lt",
+    "url": "https://vaultmarkets.trade/trading-desk/faq/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "nt number. Requests sent from unregistered addresses cannot be processed. Beware of scams There is no fee to claim your money. Vault Funder will never call or message you asking for a password, a one-time PIN, a \u201cprocessing fee\u201d, a \u201ctax clearance\u201d or any payment to release your funds, and will",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "accessible-forex-trading/ 2025-09-19T04:43:37+00:00 https://vaultmarkets.trade/forex/mastering-the-market-understanding-when-to-buy-and-sell-forex/ 2025-09-16T10:12:57+00:00 https://vaultmarkets.trade/forex/is-vault-markets-legit-a-complete-review-for-south-african-traders/ 2025-08-26T11:56:18+00:00 https://vaultmarkets.trade/forex/how-to",
+    "url": "https://vaultmarkets.trade/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Nfa",
+    "snippet": "\u0745V\u0019\u5150\ufffd( \ufffd\ufffd\ufffd\ufffd\ufffd\ufffdl\ufffd|c\ufffd\u0016\ufffd\u02ef\ufffd[? mZ\u0017\ufffd\ufffdz\ufffd\ufffd\u07b4F\ufffd\ufffd \ufffd\ufffd\u010c\ufffdO\ufffd\ufffd\u000e\ufffd\ufffd\ufffdu}\ufffd\ufffdL\ufffdP\u000fB\ufffd\u0015\u0361\ufffd\ufffd\u01bcs\ufffd\ufffd{\ufffd\ufffd\ufffd_\ufffd\ufffd\u000e\u0004\ufffd\ufffdiI\ufffd#\u007f/\ufffdNfa'j\ufffd\ufffdII=(K-To\ufffd\ufffd\ufffdYZ\u0016V\ufffd\ufffdr\ufffd\ufffdP1\ufffd\u0581\ufffd\ufffdM\u000fM5t\ufffd~\ufffd\ufffd\ufffdpW\ufffd\ufffd\ufffd \ufffd\ufffd\u0010i]\u04fc\ufffd?\ufffdmM\ufffd\ufffd\ufffd \ufffd#\ufffd\ufffdx;\ufffd\ufffd\ufffd\ufffdM\ufffd\u04f7~\ufffd\u0003-FG@\ufffd \ufffd)\ufffd\ufffd\ufffd\ufffdO?9~\ufffd\ufffdh(\u001ad\u0005\ufffd\ufffd*\ufffd+\ufffd~\ufffdV\ufffd \ufffdzM\u0002\ufffd\ufffdC7\ufffd\ufffd H;\u0002\u0015\ufffd\u0003\ufffd\u0018\ufffd$\ufffdJ\ufffd\ufffd\ufffd{d\ufffdU\ufffd8\ufffd\ufffd9\u0097Y8\u0011\u000e+B\ufffd\ufffd:\ufffd\ufffdEF\ufffd\ufffd\ufffda\ufffd\\\ufffd\ufffd\ufffd\ufffd{\ufffd\ufffd\ufffd\ufffd\u0003\u0001\ufffd \ufffd\b^3c\ufffd\ufffd\ufffdk?\ufffd\u0362\u0486\ufffdj\ufffd\ufffd\ufffd\ufffde\ufffdP5\ufffd\ufffd\ufffd,9\ufffdTl\ufffd&U\ufffdl\u0005-\ufffd20\ufffd,\ufffd\ufffd>\ufffd\ufffdR%\ufffd\ufffdu[ \ufffd^\ufffd\ufffd\u0018\u0411\ufffd\u0003+\u06b6|f\ufffd\ufffdKp\ufffd\u0010",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/cancellation-and-refund-policy.pdf",
+    "kind": "page"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "ised Juristic Representative of RocketX (Pty) Ltd. RocketX (Pty) Ltd is licensed and regulated by the Financial Sector Conduct Authority (FSP number 52142). RocketX (Pty) Ltd, registration number 2020/824856/07, \u0430 company organized and existing under the laws of South Africa, RocketX is an Over the Counter Derivatives Provi",
+    "url": "https://vaultmarkets.trade/trading-desk/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "rstone Best Time To Trade Forex Tools Session alerts, EA support, MT4/MT5 MT4/MT5 basic MT4/MT5 basic MT4/MT5, cTrader African Payment Methods MPESA, MTN, Ozow, Payguru Limited Limited None Minimum Deposit R10 $1 $10 $200 Deposit Bonus Up to 400% None Seasonal None Educational Resources eBooks, podcast, blog, videos Basic Moderate Moderat",
+    "url": "https://vaultmarkets.trade/forex/best-time-to-trade-forex-and-how-vault-markets-helps-you-make-the-most-of-every-session/",
+    "kind": "page"
+   },
+   {
+    "value": "FSCA",
+    "snippet": "t is regulation. The platform operates under the Financial Sector Conduct Authority (FSCA) in South Africa, which is a meaningful distinction in a market where plenty of brokers operate with no oversight at all. The second is how deeply the platform has been built around African traders specifically, not adapted for them as an afterthough",
+    "url": "https://vaultmarkets.trade/forex/brokers-with-micro-accounts-that-actually-put-traders-first-why-vault-markets-leads-the-way/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "submissions are checked ag",
+    "snippet": "gistered on their account. That form is the only channel we process claims through \u2014 submissions are checked against our client records. If you held an active account and did not receive the email, write to [email protected] from the email address registered on your account , and",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "the email address registered on your account , and inc",
+    "snippet": "eld an active account and did not receive the email, write to [email protected] from the email address registered on your account , and include your account number. Requests sent from unregistered addresses cannot be processed. Beware of scams There is no fee to claim your money. Vault Funder will never ca",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "aim your money. Vault Funder will never call or messa",
+    "snippet": "m unregistered addresses cannot be processed. Beware of scams There is no fee to claim your money. Vault Funder will never call or message you asking for a password, a one-time PIN, a \u201cprocessing fee\u201d, a \u201ctax clearance\u201d or any payment to release your funds, and will never ask for your banking details by e",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "r ask for your banking details by email reply, WhatsA",
+    "snippet": "rocessing fee\u201d, a \u201ctax clearance\u201d or any payment to release your funds, and will never ask for your banking details by email reply, WhatsApp or social media. Anyone who does is not us \u2014 report it to [email protected] . Vault Funder was operated by Fintech Focused (Pty) Ltd. Legal & regulatory Terms & Con",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "Conditions Privacy Policy Refund Policy Evaluation Ag",
+    "snippet": "Vault Funder was operated by Fintech Focused (Pty) Ltd. Legal & regulatory Terms & Conditions Privacy Policy Refund Policy Evaluation Agreement PAIA Manual Regulatory Disclosure Complaints Fintech Focused (Pty) Ltd. Vault Funder accounts operated in a simulated trading environment. This page is retained f",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "operated in a simulated trading environment. This pag",
+    "snippet": "al Regulatory Disclosure Complaints Fintech Focused (Pty) Ltd. Vault Funder accounts operated in a simulated trading environment. This page is retained for reference only.",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "rs-with-micro-accounts-how-vault-markets-opens-the-doo",
+    "snippet": "raders-need-to-know/ 2026-07-02T06:16:58+00:00 https://vaultmarkets.trade/forex/brokers-with-micro-accounts-how-vault-markets-opens-the-door-for-every-trader/ 2026-06-29T12:40:05+00:00 https://vaultmarkets.trade/forex/forex-trading-with-mt4-how-vault-markets-makes-it-work-for-south-african-traders/ 2026-06-2",
+    "url": "https://vaultmarkets.trade/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "forex-trading-for-beginners-smart-steps-to-start-sa",
+    "snippet": "strategies-for-beginners/ 2025-09-19T05:41:45+00:00 https://vaultmarkets.trade/forex/forex-trading-for-beginners-smart-steps-to-start-safely-and-profitably/ 2025-09-19T05:39:52+00:00 https://vaultmarkets.trade/forex/micro-account-brokers-the-smart-gateway-to-accessible-forex-trading/ 2025-09-19T04:43:37+0",
+    "url": "https://vaultmarkets.trade/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunded in full , and funded traders are being paid any profit they had earned but not yet withdrawn",
+    "snippet": "held an active account Active challenges, evaluations and funded accounts are being refunded in full , and funded traders are being paid any profit they had earned but not yet withdrawn. Your performance in an evaluation does not affect this. Every client with an active account has been sent a claim form by email, to the address registere",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy Evaluation Agreement PAIA Manual Regulatory Disclosure Complaints Fintech Focused (Pty) Ltd",
+    "snippet": "by Fintech Focused (Pty) Ltd. Legal & regulatory Terms & Conditions Privacy Policy Refund Policy Evaluation Agreement PAIA Manual Regulatory Disclosure Complaints Fintech Focused (Pty) Ltd. Vault Funder accounts operated in a simulated trading environment. This page is retained for reference only.",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eased operations Skip to main content Vault Funder has ceased operations",
+    "snippet": "Vault Funder has ceased operations Skip to main content Vault Funder has ceased operations. Vault Funder is permanently closed. Evaluation challenges, funded accounts, competitions and affiliate programmes have all ended, and the platform no longer accepts re",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "earned but not yet withdrawn",
+    "snippet": "s are being refunded in full , and funded traders are being paid any profit they had earned but not yet withdrawn. Your performance in an evaluation does not affect this. Every client with an active account has been sent a claim form by email, to the address registered on their acc",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "earance\u201d or any payment to release your funds, and will never ask for your banking details by email reply, WhatsApp or s",
+    "snippet": "l or message you asking for a password, a one-time PIN, a \u201cprocessing fee\u201d, a \u201ctax clearance\u201d or any payment to release your funds, and will never ask for your banking details by email reply, WhatsApp or social media. Anyone who does is not us \u2014 report it to [email protected] . Vault Funder was operated by Fintech Focused (Pty) Ltd. Legal",
+    "url": "https://vaultmarkets.trade/vaultfunder/",
+    "kind": "home"
+   },
+   {
+    "value": "earn-forex-without-betting-real-money-you-cant-afford-to-lose/ 2026-08-14T13:00:12+00:00 https://vaultmarkets",
+    "snippet": "+00:00 https://vaultmarkets.trade/forex/brokers-with-micro-accounts-how-to-actually-learn-forex-without-betting-real-money-you-cant-afford-to-lose/ 2026-08-14T13:00:12+00:00 https://vaultmarkets.trade/forex/trading-brokers-for-high-volume-traders-what-actually-matters-once-execution-speed-is-the-bottleneck/ 2026-08-11T13:41:05+00:00 https",
+    "url": "https://vaultmarkets.trade/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "bottleneck/ 2026-08-11T13:41:05+00:00 https://vaultmarkets",
+    "snippet": "ng-brokers-for-high-volume-traders-what-actually-matters-once-execution-speed-is-the-bottleneck/ 2026-08-11T13:41:05+00:00 https://vaultmarkets.trade/forex/forex-brokers-what-experienced-traders-actually-look-for-before-switching/ 2026-08-05T13:29:52+00:00 https://vaultmarkets.trade/forex/best-time-to-trade-fore",
+    "url": "https://vaultmarkets.trade/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VpN",
+    "snippet": "\ufffd\ufffd\ufffdD\ufffd\u00024\u00031 \"\u0018\u0004o \ufffdN\ufffd\ufffd\u0013\ufffd\ufffd \ufffd\ufffd\u000e\ufffd \u0004r\b\u0300\u0003;\ufffd01{\ufffdZDJJ\ufffd\ufffdD\ufffd\ufffd\ufffd\ufffd-\ufffd\ufffd\ufffd:\u001b\u0011\b\ufffdd\"\ufffd\ufffd\ufffd\ufffd%\ufffd\u0458\ufffd8e\ufffd\ufffdHZ\ufffd\ufffd;-\ufffd9j\u000f\ufffdVpN\ufffd\u0788\ufffd\ufffd\ufffd\ufffdn\ufffdG\ufffdX\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffd- \ufffd\ufffdm\ufffd\ufffdqbF\ufffd\ufffdI\ufffdm\ufffdmg\u000f;\ufffdG\ufffd\ufffdr4\ufffd\ufffdG\ufffd\ufffd\u05a3\ufffd\u000f\ufffdg\ufffd jH\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffdt\ufffd\ufffd{\ufffd\u00164\ufffd\ufffd=\ufffd{mn\ufffd\u02fb\u001a w\ufffd ,Z\ufffd\ufffd{\u0578\ufffdr\ufffdvB\ufffd\ufffd \ufffd\u007f;\ufffd2\ufffdn\ufffd\ufffd,[g\ufffd\b\ufffd\ufffd \ufffd\ufffd1\u0014\ufffd\ufffd\ufffdZ\ufffd\ufffd\ufffd2r\ufffd\ufffd\u0005g\u0016/ \ufffd,l\ufffd=\u077f\ufffd\ufffd=\ufffdw\u2628KV\u0019\ufffds\u067f\ufffdN\ufffd8\ufffd\ufffd]\ufffd\ufffdGM3\ufffd\u0006\u0014\ufffd\u0015=\ufffdzD[\ufffd\ufffd\u026e\ufffd\ufffdS\ufffdM\ufffd\u0019^#\ufffdM\ufffdF\ufffdv\u06dd\ufffd[\ufffd3\ufffd\u0769\"\ufffd\ufffdE\ufffd.\ufffd\ufffd\ufffd\ufffd@\ufffd3f\u075f?c\ufffd2\ufffdN\ufffd\u000e+\ufffd\ufffd \ufffdSe==\ufffd\u001b\ufffd\ufffd\ufffd\ufffd\u064f\ufffd.s\ufffd\u07d2M\\aX\ufffdM",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/cancellation-and-refund-policy.pdf",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "K@48G9-.BYBGNPTUT",
+    "snippet": "%PDF-1.7 4 0 obj > stream \ufffd\ufffd\ufffd\ufffd\u0000\u0010JFIF\u0000\u0001\u0001\u0001\u0000`\u0000`\u0000\u0000\ufffd\ufffd\u0000C\u0000 \b \u000f\u000e \u0010\u0014!\u0015\u0014\u0012\u0012\u0014( \u0018!0*21/*.-4;K@48G9-.BYBGNPTUT3?]c\\RbKSTQ\ufffd\ufffd\u0000C\u0001\u000e\u000f\u000f\u0014\u0011\u0014'\u0015\u0015'Q6.6QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ\ufffd\ufffd\u0000\u0011\b\u0001\ufffd\u0006@\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001\ufffd\ufffd\u0000 \u0000\u0000\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \ufffd\ufffd\u0000\ufffd\u0010\u0000\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u0014",
+    "url": "https://vaultmarkets.trade/vaultfunder/legal/simulated-trading-evaluation-agreement.pdf",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "d public holidays may cause additional delays. While Vault Markets may process your withdrawal instantly, the final processing time is dependent on your bank\u2019s turnaround time. How do I deposit funds? Please log in to your portal or mobile app to view the full rang",
+    "url": "https://vaultmarkets.trade/trading-desk/faq/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:1000",
+    "snippet": "African Payment Methods MPESA, MTN, Ozow, Payguru Limited Limited Limited Maximum Leverage 1:1000 1:2000 1:1000 1:1000 Deposit Bonus Up to 400% None Up to 100% Seasonal only Swap-Free Option Yes Yes Yes Yes Referral Income Program Yes No No No Local Education",
+    "url": "https://vaultmarkets.trade/forex/brokers-with-micro-accounts-that-actually-put-traders-first-why-vault-markets-leads-the-way/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "impact on their finances to participate in live markets regularly. Vault Markets takes this concept one step further by providing its clients with a micro-account structure, instant withdrawals, professional trading platforms, local payments, and genuine support when",
+   "url": "https://vaultmarkets.trade/forex/brokers-with-micro-accounts-how-vault-markets-opens-the-door-for-every-trader/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 4",
+  "MetaTrader 5",
+  "cTrader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Energy",
+  "Equities",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

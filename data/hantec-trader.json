@@ -1,0 +1,12 @@
+{
+ "slug": "hantec-trader",
+ "name": "Hantec Trader",
+ "category": "Forex/CFD",
+ "url": "https://hentrader.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -2] Name or service not known>"
+ ]
+}

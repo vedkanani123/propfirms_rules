@@ -1,0 +1,521 @@
+{
+ "slug": "hyrotrader",
+ "name": "HyroTrader",
+ "category": "Crypto",
+ "url": "https://hyrotrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.hyrotrader.com/",
+   "kind": "home",
+   "chars": 16875
+  },
+  {
+   "url": "https://www.hyrotrader.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 816
+  },
+  {
+   "url": "https://www.hyrotrader.com/sitemaps/en.xml",
+   "kind": "sitemap",
+   "chars": 28386
+  },
+  {
+   "url": "https://www.hyrotrader.com/sitemaps/de.xml",
+   "kind": "sitemap",
+   "chars": 16884
+  },
+  {
+   "url": "https://www.hyrotrader.com/sitemaps/ru.xml",
+   "kind": "sitemap",
+   "chars": 16884
+  },
+  {
+   "url": "https://www.hyrotrader.com/sitemaps/es.xml",
+   "kind": "sitemap",
+   "chars": 16884
+  },
+  {
+   "url": "https://www.hyrotrader.com/ru/faq/hyrotrader-account/is-the-refundable-challenge-deposit-returned-together-with-my-first-payout/",
+   "kind": "page",
+   "chars": 2730
+  },
+  {
+   "url": "https://www.hyrotrader.com/faq/hyrotrader-account/is-the-refundable-challenge-deposit-returned-together-with-my-first-payout/",
+   "kind": "page",
+   "chars": 3430
+  },
+  {
+   "url": "https://www.hyrotrader.com/es/faq/hyrotrader-account/is-the-refundable-challenge-deposit-returned-together-with-my-first-payout/",
+   "kind": "page",
+   "chars": 2894
+  },
+  {
+   "url": "https://www.hyrotrader.com/de/faq/hyrotrader-account/is-the-refundable-challenge-deposit-returned-together-with-my-first-payout/",
+   "kind": "page",
+   "chars": 2985
+  },
+  {
+   "url": "https://www.hyrotrader.com/faq/rules/how-is-the-5-daily-drawdown-calculated/",
+   "kind": "page",
+   "chars": 3430
+  },
+  {
+   "url": "https://www.hyrotrader.com/es/faq/rules/how-is-the-5-daily-drawdown-calculated/",
+   "kind": "page",
+   "chars": 2890
+  },
+  {
+   "url": "https://www.hyrotrader.com/ru/faq/rules/how-is-the-5-daily-drawdown-calculated/",
+   "kind": "page",
+   "chars": 2789
+  },
+  {
+   "url": "https://www.hyrotrader.com/es/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+   "kind": "page",
+   "chars": 2975
+  },
+  {
+   "url": "https://www.hyrotrader.com/de/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+   "kind": "page",
+   "chars": 3046
+  },
+  {
+   "url": "https://www.hyrotrader.com/de/faq/rules/how-is-the-5-daily-drawdown-calculated/",
+   "kind": "page",
+   "chars": 3005
+  },
+  {
+   "url": "https://www.hyrotrader.com/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+   "kind": "page",
+   "chars": 3495
+  },
+  {
+   "url": "https://www.hyrotrader.com/ru/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+   "kind": "page",
+   "chars": 2915
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 133330,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "on \u00b7 Fastest Route to Funding Starts from $ 89 Max loss 5% Daily loss 3% Evaluation profit target 10% Minimum evaluation period 1 day Profit split 80% Profit distribution Yes Deposit or fee Non-refundable fee Start Zero-Step Show full rules Most Popular One-Step 1-Step",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "-Step New 1-Day Evaluation \u00b7 Fastest Route to Funding Starts from $ 89 Max loss 5% Daily loss 3% Evaluation profit target 10% Minimum evaluation period 1 day Profit split 80% Profit distribution Yes Deposit or fee Non-refundable fee Start Zero-Step Show full rules M",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "One-Step 1-Step Evaluation \u00b7 Simple Route to Funding Starts from $ 69 Max loss 6% Daily loss 4% Evaluation profit target 10% Minimum evaluation period 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refundable deposit Start One-Step Show fu",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tep 2-Step Evaluation \u00b7 Lowest-Cost Route to Funding Starts from $ 59 Max loss 10% Daily loss 5% Evaluation profit target 10% + 5% Minimum evaluation period 5 + 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refundable deposit Start Two-Ste",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": "wo-Step Zero-Step New 1-Day Evaluation \u00b7 Fastest Route to Funding Starts from $ 89 Max loss 5% Daily loss 3% Evaluation profit target 10% Minimum evaluation period 1 day Profit split 80% Profit distribution Yes Deposit or fee Non-refundable fee Start Zero-Step Sho",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "Most Popular One-Step 1-Step Evaluation \u00b7 Simple Route to Funding Starts from $ 69 Max loss 6% Daily loss 4% Evaluation profit target 10% Minimum evaluation period 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refundable deposit Start On",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "l rules Two-Step 2-Step Evaluation \u00b7 Lowest-Cost Route to Funding Starts from $ 59 Max loss 10% Daily loss 5% Evaluation profit target 10% + 5% Minimum evaluation period 5 + 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refundable deposit",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "10",
+    "snippet": "oute to Funding Starts from $ 89 Max loss 5% Daily loss 3% Evaluation profit target 10% Minimum evaluation period 1 day Profit split 80% Profit distribution Yes Deposit or fee Non-refundable fee Start Zero-Step Show full rules Most Popular One-Step 1-Step Evaluation \u00b7 Simple Route to Funding Starts",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "3% 3% Maximum loss 5% 5% Profit target 10% - Profit distribution 50% per trade None Profit split - 80% Deposit or fee - No refund For further details on risk management conditions, please visit our FAQ section A Crypto Prop Firm Built by Traders Abou",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "USDT or USDC within 24 hours, with no fees. Flexible Profit Splits You start on 80% and keep it on every payout. Trade well over time and we can raise your split to 90% on One-Step and Two-Step. Zero-Step stays at 80%. Success Challenge Deposit Refund Feb 22, 2026 $ 579 . 00",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "1",
+    "snippet": "p 1 The Challenge Step 2 Funded Account Trading period Unlimited Unlimited Minimum trading days 1 day - Stop loss Not required Not required Daily drawdown 3% 3% Maximum loss 5% 5% Profit target 10% - Profit distribution 50% per trade No",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "HyroTrader - Crypto Prop Firm | Funded Accounts up to $200K Get Funded Results Academy Partners FAQ Blog About Sign in Free trial Sign in Start Crypto Prop Firm That Pays You Up to 90% Pass a trading test, get a funded acc",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "HyroTrader - Crypto Prop Firm | Funded Accounts up to $200K Get Funded Results Academy Partners FAQ Blog About Sign in Free trial Sign in Start Crypto Prop Firm That Pays You Up to 90% Pass a trading test, get a funded ac",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "rop Firm That Pays You Up to 90% Pass a trading test, get a funded account of up to $200,000, and keep up to 90% of what you make. Paid in USDT or USDC. Join Challenge Free Trial Join Discord Your Journey How to get fund",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "32,00",
+    "snippet": "unts with HyroTrader. See All Reviews Interview with Trader Mike Total profit $ 32,000 Interview with Trader Kirill Total profit $ 35,645 Interview with Trader Dan Cheung Interview with Trader Eshan Total profit $ 23,000 Interview with Tra",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "35,64",
+    "snippet": "h Trader Mike Total profit $ 32,000 Interview with Trader Kirill Total profit $ 35,645 Interview with Trader Dan Cheung Interview with Trader Eshan Total profit $ 23,000 Interview with Trader Renee Total profit $ 20,661 Interview with Trad",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "23,00",
+    "snippet": "45 Interview with Trader Dan Cheung Interview with Trader Eshan Total profit $ 23,000 Interview with Trader Renee Total profit $ 20,661 Interview with Trader Patrick Total profit $ 10,000 Interview with Trader Joran Interview with Trader",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20,66",
+    "snippet": "h Trader Eshan Total profit $ 23,000 Interview with Trader Renee Total profit $ 20,661 Interview with Trader Patrick Total profit $ 10,000 Interview with Trader Joran Interview with Trader Morgan Total profit $ 10,547 Interview with Trader",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "Trader Renee Total profit $ 20,661 Interview with Trader Patrick Total profit $ 10,000 Interview with Trader Joran Interview with Trader Morgan Total profit $ 10,547 Interview with Trader Alex Interview with Trader Mike Total profit $ 32,0",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,54",
+    "snippet": "10,000 Interview with Trader Joran Interview with Trader Morgan Total profit $ 10,547 Interview with Trader Alex Interview with Trader Mike Total profit $ 32,000 Interview with Trader Kirill Total profit $ 35,645 Interview with Trader Dan",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "ith Trader Alex 35K+ Community Members & Traders 700+ Tradable Cryptocurrencies $8M+ Paid to Funded Traders 1.7K+ Funded Traders Recent Funded Payouts Below you can see recent profit split payouts issued to funded traders. Payouts are processed wi",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "89",
+    "snippet": "tep Two-Step Zero-Step New 1-Day Evaluation \u00b7 Fastest Route to Funding Starts from $ 89 Max loss 5% Daily loss 3% Evaluation profit target 10% Minimum evaluation period 1 day Profit split 80% Profit distribution Yes Deposit or fee Non-refundable fee Start Z",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "69",
+    "snippet": "ules Most Popular One-Step 1-Step Evaluation \u00b7 Simple Route to Funding Starts from $ 69 Max loss 6% Daily loss 4% Evaluation profit target 10% Minimum evaluation period 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refundable depo",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "59",
+    "snippet": "w full rules Two-Step 2-Step Evaluation \u00b7 Lowest-Cost Route to Funding Starts from $ 59 Max loss 10% Daily loss 5% Evaluation profit target 10% + 5% Minimum evaluation period 5 + 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refun",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "you can let winning trades run without tightening your own limit. That's what makes static drawdown the most trader-friendly type of daily drawdown. Backed by the community All systems operational Company Evaluation Documentation All trading on HyroTrader",
+    "url": "https://www.hyrotrader.com/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "on demand",
+    "snippet": "ing Works Here You keep 80%, up to 90% on One-Step and Two-Step. Clear loss limits. Payouts on demand in USDT or USDC. Payout Received Feb 23, 2026 $ 6,856 . 00 Payout Received Feb 23, 2026 $ 3,500 . 00 Fast Crypto Payouts Close your positions and request a p",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "HyroTrader - Crypto Prop Firm | Funded Accounts up to $200K Get Funded Results Academy Partners FAQ Blog About Sign in Free trial Sign in Start Crypto Prop Firm That Pays You Up to 90",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "get a funded account of up to $200,000, and keep up to 90% of what you make. Paid in USDT or USDC. Join Challenge Free Trial Join Discord Your Journey How to get funded with a crypto prop firm? Pass a trading test, ge",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "nded account of up to $200,000, and keep up to 90% of what you make. Paid in USDT or USDC. Join Challenge Free Trial Join Discord Your Journey How to get funded with a crypto prop firm? Pass a trading test, get a fund",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "ou start the day at $102,000 \u2192 your floor for the day is $98,000 During the day you rise to $105,000 \u2192 your floor stays at $98,000 Your floor never moves up when you're in profit, so you can let winning trades run without tightening your own limit. That's w",
+    "url": "https://www.hyrotrader.com/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ading accounts, on live market data. Watch Video Show gallery HyroTrader Prague Scalping Tournament HyroTrader Headquarters, Prague, Czech Republic 9 traders competed in a high-speed live scalping tournament at HyroTrader HQ Prague, trading under real-time market conditions. Watch Video Show gallery HyroTrader Miami Day Trading Tournament",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "devuelven el dep\u00f3sito reembolsable del desaf\u00edo junto con mi primer retiro? Plataformas y configuraci\u00f3n t\u00e9cnica Plataforma Bybit Tealstreet Terminal Plataforma Hyro Plataforma de BloFin Pedidos, facturaci\u00f3n e impuestos Certificados Empresas de prop trading cripto Inicio Cuenta de HyroTrader y retiros \u00bfMe devuelven el dep\u00f3sito reembolsable ",
+    "url": "https://www.hyrotrader.com/es/faq/hyrotrader-account/is-the-refundable-challenge-deposit-returned-together-with-my-first-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "des Eigenkapitals zu Tagesbeginn berechnet. Er darf einen festen Prozentsatz Ihres Anfangsguthabens nicht \u00fcberschreiten. Formel Tagesuntergrenze = Eigenkapital zu Tagesbeginn \u2212 (Anfangsguthaben \u00d7 Prozentsatz des t\u00e4glichen Drawdowns) Sinkt Ihr Eigenkapital unter die Tagesuntergrenze, is",
+    "url": "https://www.hyrotrader.com/de/faq/rules/how-is-the-5-daily-drawdown-calculated/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "USDT perpetual pairs, leverag",
+    "snippet": "Connect your own Bybit demo account and trade your challenge directly on Bybit. 700+ USDT perpetual pairs, leverage up to 100x. Available on: No API setup HyroTrader's own trading platform, with no exchange account needed. Live Bybit market data with realistic fees and slippa",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ive Bybit market data with realistic fees and slippag",
+    "snippet": "No API setup HyroTrader's own trading platform, with no exchange account needed. Live Bybit market data with realistic fees and slippage, official TradingView charts, 700+ pairs and leverage up to 100x+, depending on the pair. Your challenge starts instantly. Connected By API Connect your own BloF",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "pairs and leverag",
+    "snippet": "ybit market data with realistic fees and slippage, official TradingView charts, 700+ pairs and leverage up to 100x+, depending on the pair. Your challenge starts instantly. Connected By API Connect your own BloFin demo account and trade your challenge directly on B",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT-M futures pairs, leverag",
+    "snippet": "onnect your own BloFin demo account and trade your challenge directly on BloFin. 80+ USDT-M futures pairs, leverage up to 150x on BTC and ETH. Connected By API A professional trading terminal running on Bybit market data. We create your API keys for you. Just paste them into T",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "For further details on risk manag",
+    "snippet": "n 50% per trade None Profit split - 80% Deposit or fee - No refund For further details on risk management conditions, please visit our FAQ section A Crypto Prop Firm Built by Traders About Us HyroTrader is a crypto prop firm. The team started building in 2022 and la",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "t, deposit and refund in your dashboard. Every transa",
+    "snippet": "Refund Feb 21, 2026 $ 749 . 00 Billing and Refunds in One Place See every payout, deposit and refund in your dashboard. Every transaction is recorded, so your account history is always clear. Trading Period Unlimited Low-cap Altcoins Market cap < $100M <5% of initial balance incl. leverage Dail",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "of initial balance incl. leverag",
+    "snippet": "always clear. Trading Period Unlimited Low-cap Altcoins Market cap < $100M <5% of initial balance incl. leverage Daily Loss Limit 3% to 5%, by challenge Transparent Trading Rules Every limit in plain numbers, with nothing hidden. Check any rule before you trade against it.",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "th nothing hidden. Check any rule before you trade ag",
+    "snippet": "3% to 5%, by challenge Transparent Trading Rules Every limit in plain numbers, with nothing hidden. Check any rule before you trade against it. Trade on Reputable Exchange Infrastructure Trade on Bybit or BloFin with your own demo account, or on Hyro with nothing to connect. More e",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted-countries/ 2026-10-01T02:20:04",
+    "snippet": "270Z https://www.hyrotrader.com/faq/platform/is-trading-allowed-for-individuals-from-restricted-countries/ 2026-10-01T02:20:04.857Z https://www.hyrotrader.com/faq/platform/which-countries-are-allowed-to-join-hyrotrader-can-i-join-from-the-usuk/ 2026-10-01T02:17:19.483Z https://www.hyrotrader.com",
+    "url": "https://www.hyrotrader.com/sitemaps/en.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable once you activate the challenge",
+    "snippet": "and Two-Step the deposit comes back with your first payout. The Zero-Step fee is not refundable once you activate the challenge. Reach the Profit Target Hit the profit target while staying inside two loss limits: one for a single day, one for the account overall. Trade at your own pace, with",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable Challenge Deposit is returned with your first payout",
+    "snippet": "ofits, up to 90% on One-Step and Two-Step as you grow. On One-Step and Two-Step, the Refundable Challenge Deposit is returned with your first payout. 1 Choose product 2 Trading capital Zero-Step One-Step Two-Step Zero-Step New 1-Day Evaluation \u00b7 Fastest Route to Funding Starts from $ 89 Max loss 5% Daily loss 3% E",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable fee Start Zero-Step Show full rules Most Popular One-Step\n 1-Step Evaluation \u00b7 Simple Route to Funding\n Start",
+    "snippet": "evaluation period 1 day Profit split 80% Profit distribution Yes Deposit or fee Non-refundable fee Start Zero-Step Show full rules Most Popular One-Step 1-Step Evaluation \u00b7 Simple Route to Funding Starts from $ 69 Max loss 6% Daily loss 4% Evaluation profit target 10% Minimum evaluation period 5 days Profit split Starts at 80% Profit dist",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable deposit Start One-Step Show full rules Two-Step\n 2-Step Evaluation \u00b7 Lowest-Cost Route to Funding\n Starts fro",
+    "snippet": "tion period 5 days Profit split Starts at 80% Profit distribution Yes Deposit or fee Refundable deposit Start One-Step Show full rules Two-Step 2-Step Evaluation \u00b7 Lowest-Cost Route to Funding Starts from $ 59 Max loss 10% Daily loss 5% Evaluation profit target 10% + 5% Minimum evaluation period 5 + 5 days Profit split Starts at 80% Profi",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "each the Profit Target\n Hit the profit target while staying inside two loss limits: one for a single day, one for the ac",
+    "snippet": "rst payout. The Zero-Step fee is not refundable once you activate the challenge. Reach the Profit Target Hit the profit target while staying inside two loss limits: one for a single day, one for the account overall. Trade at your own pace, with no deadline. Get Funded Get your funded account. Keep 80% of what you make, up to 90% on One-St",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadline",
+    "snippet": "one for a single day, one for the account overall. Trade at your own pace, with no deadline. Get Funded Get your funded account. Keep 80% of what you make, up to 90% on One-Step and Two-Step as you grow. Paid in USDT or USDC within 24 hours. Verified Funde",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady Trade Use your own Bybit or BloFin demo account, or trade on Hyro with nothing to set up",
+    "snippet": "and compliance with risk rules. Trade Where You Already Trade Use your own Bybit or BloFin demo account, or trade on Hyro with nothing to set up. Live market prices either way. Connected By API Connect your own Bybit demo account and trade your challenge directly on Bybit. 700+ USDT perpetual pairs, leverage",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ealistic fees and slippage, official TradingView charts, 700+ pairs and leverage up to 100x+, depending on the pair",
+    "snippet": "own trading platform, with no exchange account needed. Live Bybit market data with realistic fees and slippage, official TradingView charts, 700+ pairs and leverage up to 100x+, depending on the pair. Your challenge starts instantly. Connected By API Connect your own BloFin demo account and trade your challenge directly on BloFin. 80+ USD",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eate your API keys for you",
+    "snippet": "onnected By API A professional trading terminal running on Bybit market data. We create your API keys for you. Just paste them into Tealstreet and start trading. Available on: Connected By API Trade your challenge in the Tiger.com terminal, running on Bybit market data.",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "the United States or in countries where Bybit is restricted, and you must not use a VPN or any other means to get around that. The evaluation is a genuine test of risk management, and many traders do not pass. HyroTrader's revenue comes from challenge fees. Trading financial markets carries hig",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 24 hours based on veri",
+    "snippet": "ded Payouts Below you can see recent profit split payouts issued to funded traders. Payouts are processed within 24 hours based on verified trading performance and compliance with risk rules. Trade Where You Already Trade Use your own Bybit or BloFin demo account, or trad",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours, and overall",
+    "snippet": "board is fast and shows real-time performance, and support is easy to reach anytime. Payouts are processed within 24 hours, and overall it just allowed me to scale my capital while staying on the platform I already use. March 23, 2026 Yotun Yorraen You guys keep asking me where I do my trades and i",
+    "url": "https://www.hyrotrader.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-on-tealstreet-when-starting-the-verification-process-with-hyrotrader/ 2026-10-01T03:31:34",
+    "snippet": ":29:53.393Z https://www.hyrotrader.com/faq/tealstreet-terminal/do-i-need-to-complete-kyc-on-tealstreet-when-starting-the-verification-process-with-hyrotrader/ 2026-10-01T03:31:34.641Z https://www.hyrotrader.com/faq/tealstreet-terminal/can-i-connect-my-bybit-demo-challenge-to-tealstreet/ 2026-10-01T03:33:55.877Z https://www.hyrotrader.com/",
+    "url": "https://www.hyrotrader.com/sitemaps/en.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc-on-bybit-when-starting-the-verification-process-with-hyrotrader/ 2026-10-01T03:00:08",
+    "snippet": "01T03:00:41.568Z https://www.hyrotrader.com/faq/bybit-platform/do-i-need-to-complete-kyc-on-bybit-when-starting-the-verification-process-with-hyrotrader/ 2026-10-01T03:00:08.789Z https://www.hyrotrader.com/faq/bybit-platform/can-i-create-an-api-key-on-bybit-to-trade-on-a-different-platform/ 2026-10-01T02:57:11.602Z https://www.hyrotrader.",
+    "url": "https://www.hyrotrader.com/sitemaps/en.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc-to-trade-on-hyro/ 2026-10-01T04:35:06",
+    "snippet": "yro/ 2026-10-01T04:27:55.111Z https://www.hyrotrader.com/faq/hyro-platform/do-i-need-kyc-to-trade-on-hyro/ 2026-10-01T04:35:06.629Z https://www.hyrotrader.com/faq/blofin-platform/what-is-blofin-and-how-does-it-work-with-hyrotrader/ 2026-10-01T04:37:11.551Z https://www.hyrotrader.com/faq/blofin-p",
+    "url": "https://www.hyrotrader.com/sitemaps/en.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "llenge Pick your account size and pay the challenge deposit, or the challenge fee on Zero-Step. On One-Step and Two-Step the deposit comes back with your first payout. The Zero-Step fee is not refundable once you activate the challenge. Reach the Profit Target Hi",
+   "url": "https://www.hyrotrader.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "your account size and pay the challenge deposit, or the challenge fee on Zero-Step. On One-Step and Two-Step the deposit comes back with your first payout. The Zero-Step fee is not refundable once you activate the challenge. Reach the Profit Target Hit the profit",
+   "url": "https://www.hyrotrader.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "rop Firm | Funded Accounts up to $200K Get Funded Results Academy Partners FAQ Blog About Sign in Free trial Sign in Start Crypto Prop Firm That Pays You Up to 90% Pass a trading test, get a funded account of up to $200,000, and keep up to 90% of what you make. P",
+   "url": "https://www.hyrotrader.com/"
+  }
+ ],
+ "platforms": [
+  "TradingView"
+ ],
+ "assets": [
+  "Metals",
+  "Crypto",
+  "Oil",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "d Two-Step. Clear loss limits. Payouts on demand in USDT or USDC. Payout Received Feb 23, 2026 $ 6,856 . 00 Payout Received Feb 23, 2026 $ 3,500 . 00 Fast Crypto Payouts",
+  "with real prizes and funded accounts. Bybit HQ Dubai Trading Tournament Bybit Headquarters, Dubai, UAE 25+ traders competed live at Bybit HQ Dubai for $235,000 in funded trad",
+  "deo Show gallery HyroTrader Prague Scalping Tournament HyroTrader Headquarters, Prague, Czech Republic 9 traders competed in a high-speed live scalping tournament at HyroTr",
+  "l-time market conditions. Watch Video Show gallery HyroTrader Miami Day Trading Tournament Miami, USA 15+ traders competed live in Miami for $350,000+ in funded trading acco",
+  "arket data. Watch Video Show gallery Bybit HQ Dubai Trading Tournament Bybit Headquarters, Dubai, UAE 25+ traders competed live at Bybit HQ Dubai for $235,000 in funded trad",
+  "Show gallery HyroTrader Prague Scalping Tournament HyroTrader Headquarters, Prague, Czech Republic 9 traders competed in a high-speed live scalping tournament at HyroTr"
+ ],
+ "errors": []
+}

@@ -1,0 +1,471 @@
+{
+ "slug": "trade-the-pool",
+ "name": "Trade The Pool",
+ "category": "Futures",
+ "url": "https://tradethepool.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tradethepool.com/",
+   "kind": "home",
+   "chars": 13669
+  },
+  {
+   "url": "https://tradethepool.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 971
+  },
+  {
+   "url": "https://tradethepool.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 120365
+  },
+  {
+   "url": "https://tradethepool.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 14178
+  },
+  {
+   "url": "https://tradethepool.com/booksingle-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6039
+  },
+  {
+   "url": "https://tradethepool.com/team-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1741
+  },
+  {
+   "url": "https://tradethepool.com/mental-skill/day-trading-rules-book/",
+   "kind": "page",
+   "chars": 13503
+  },
+  {
+   "url": "https://tradethepool.com/program-terms/",
+   "kind": "page",
+   "chars": 37601
+  },
+  {
+   "url": "https://tradethepool.com/pre-market-prep/how-operation-absolute-resolve-is-repricing/",
+   "kind": "page",
+   "chars": 13305
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/energy-sector-opportunities-amid-oil-price-surge/",
+   "kind": "page",
+   "chars": 18964
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/oracle-stock-price-and-tiktok-deal/",
+   "kind": "page",
+   "chars": 15266
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/quantum-leaps-impact-on-microsoft-stock-price/",
+   "kind": "page",
+   "chars": 24799
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/how-battery-swapping-network-boosts-nio-share-price/",
+   "kind": "page",
+   "chars": 20472
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/wage-increases-walmart-stock-prices/",
+   "kind": "page",
+   "chars": 22316
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/intel-stock-price/",
+   "kind": "page",
+   "chars": 20543
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/asml-stock-price-innovating-the-future/",
+   "kind": "page",
+   "chars": 20242
+  },
+  {
+   "url": "https://tradethepool.com/ai/can-ai-predict-stock-prices/",
+   "kind": "page",
+   "chars": 20179
+  },
+  {
+   "url": "https://tradethepool.com/fundamental/zoom-stock-prices-after-five9-acquisition/",
+   "kind": "page",
+   "chars": 25767
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 409937,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "30",
+    "snippet": "r optimizing a growth milestone target. Stop Loss and Quantity Stop and Quantity: Daily loss X 30% = the maximum $ risk you can take on each trade (each execution) Entry Price \u2013 Stop Loss Price = Stop size Max $ Risk / Stop size = Number of shares to buy/sell Examp",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "7",
+    "snippet": "r account Violating bot restrictions triggers immediate termination and forfeiture Maximum Drawdown Limits Verify your tier\u2019s exact cap, such as a 7% maximum loss from buying power Ensures a single bad AI-recommended trade cannot breach your total limit Daily Pause Threshold Know your tier\u2019s specific daily loss limi",
+    "url": "https://tradethepool.com/ai/can-ai-predict-stock-prices/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "70",
+    "snippet": "of previously split profit will be reduced. Upon each Scaling Event, the applicable Profit Split (70% Customer / 30% TTP) is applied to remaining eligible Profit. The Customer\u2019s portion is posted to the next-level Scaled Account as Credits. Credits are applied on a firs",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "et a FREE 14-day trial Limited risk trading Manage Our Funds with up to $200K Buying Power What's Trade The Pool Start Free Trial Most Popular Stock Trading Prop Firm How Much Capital Would You Like to Manage Day Trade S",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "a thousand-dollar account would seem and feel very different from the same loss on a $100K account, don\u2019t you think? Not having (and not following) rules on risk tolerance could lead you to put too much money at risk and potentially lose too much on one singl",
+    "url": "https://tradethepool.com/mental-skill/day-trading-rules-book/",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "minus the overall loss limit. For example: A newly funded $200k FLEX account earns $20k valid profit and fulfills all scaling criteria. The account is closed and a new account is opened, with a starting trading balance of $224k: the tier balance of $210k (t",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "224",
+    "snippet": "he account is closed and a new account is opened, with a starting trading balance of $224k: the tier balance of $210k (the previous tier balance + 5%) plus $14k of rolled-over profit (70% of $20k earned in previous tier). The max drawdown is $12k, meaning the",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "210",
+    "snippet": "new account is opened, with a starting trading balance of $224k: the tier balance of $210k (the previous tier balance + 5%) plus $14k of rolled-over profit (70% of $20k earned in previous tier). The max drawdown is $12k, meaning the minimum equity is $210,000.",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "14",
+    "snippet": "ng balance of $224k: the tier balance of $210k (the previous tier balance + 5%) plus $14k of rolled-over profit (70% of $20k earned in previous tier). The max drawdown is $12k, meaning the minimum equity is $210,000. If the User earns $10k additional valid p",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "14k of rolled-over profit (70% of $20k earned in previous tier). The max drawdown is $12k, meaning the minimum equity is $210,000. If the User earns $10k additional valid profit, the trading balance will be $234,000. The maximum split payout is $21,000 ($14k",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "The max drawdown is $12k, meaning the minimum equity is $210,000. If the User earns $10k additional valid profit, the trading balance will be $234,000. The maximum split payout is $21,000 ($14k already split profit + 70% of new profit), though withdrawing al",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "though withdrawing all of it will close the account. If the User requests payout of $5k (of account balance, potentially pre-split) and then meets the scaling criteria, a new account is again created. The starting trading balance is $227,500: the same tier",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "with virtual capital according to account selected: $5k intraday or $800 overnight $25k intraday or $4k overnight $50k intraday or $8k overnight $100k intraday or $16k overnight $200k intraday or $32k overnight MAX/FLEX Swing Minimum 5 positions. Star",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "et a FREE 14-day trial Limited risk trading Manage Our Funds with up to $200K Buying Power What's Trade The Pool Start Free Trial Most Popular Stock Trading Prop Firm How Much Capital Would You Like to Manage Day Trade",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "p Firm How Much Capital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000 $ 200,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "How Much Capital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000 $ 200,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "How Much Capital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000 $ 200,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000 What is",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "w Much Capital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000 $ 200,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000 What is your tradi",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "ital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000 $ 200,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000 What is your trading level?",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "el? Beginner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare Which Evaluat",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20,00",
+    "snippet": "nner Advanced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare Which Evaluation Fits",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40,00",
+    "snippet": "nced Start Now Start Now Or Compare Close compare $ 2,000 $ 10,000 $ 20,000 $ 40,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare Which Evaluation Fits You Best?",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80,00",
+    "snippet": "er restrictions. Hear It From Our Funded Traders Ruben M Funded Trader $80,000 Mikhail T Funded Trader $25,000 David S Funded Trader $20,000 Barnadette S Funded Trader $50,000 Pavishya J Funded Trader $25,000",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "24,00",
+    "snippet": "er $50,000 Pavishya J Funded Trader $25,000 Sabrina Funded Trader $24,000 Dana Funded Trader $80,000 Edwin Funded Trader $80,000 Tim Funded Trader $160,000 Anna Funded Trader $12,000 Sahil Funded",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "160,00",
+    "snippet": "ded Trader $80,000 Edwin Funded Trader $80,000 Tim Funded Trader $160,000 Anna Funded Trader $12,000 Sahil Funded Trader $80,000 Morgan Funded Trader $22,000 Adam Funded Trader $160,000 Alper Fu",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "t it from being ever breached. For most traders, this often includes the use of Stop-loss and Trailing Stop-loss orders. However, you must ensure your stop-loss is always set according to your RPT. By being executed automatically, Stop-loss orders guarantee that the losse",
+    "url": "https://tradethepool.com/mental-skill/day-trading-rules-book/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "//tradethepool.com/wp-content/uploads/2025/03/MicroStrategys-Role-in-the-Bitcoin-and-Crypto-Markets.webp https://tradethepool.com/wp-content/uploads/2025/03/Potential-Benefits-and-Risks-of-Investing-in-MSTR.webp https://tradethepool.com/fundamental/super-micro-",
+    "url": "https://tradethepool.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "record.jpg https://tradethepool.com/wp-content/uploads/2023/01/interest-rates-on-the-rise-1.jpg https://tradethepool.com/wp-content/uploads/2023/01/interest-rates-increases-1.jpg https://tradethepool.com/mental-skill/change-your-trading-habits-2/ 2025-11-19T0",
+    "url": "https://tradethepool.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "Consistency/Validity Rules The maximum position profit ratio is 30% unless otherwise specified; that is, the User\u2019s best position cannot be responsible for more than 30% (or the relevant ratio) of the total valid profit earned. This applies to all evalua",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "o know to prepare yourself for the trading day, from analyzing the indices, building scanners, the parameters of the right stock we would like to [\u2026] Read more.. Date 30/05/2022 A Trader Over The Shoulder EP 03 \u2013 Pro Traders Dissect Their Biggest Loss A Trader Over The Shoulders Podcast A trader over the shoulder is a",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "/11s-xli-Industrial.jpg https://tradethepool.com/wp-content/uploads/2023/07/11s-xlp-Basic-Material.jpg https://tradethepool.com/technical-skill/swing-trading/ 2025-06-17T08:27:02+00:00 https://tradethepool.com/wp-content/uploads/2023/09/Swing-Trading-972x432-100.jpg h",
+    "url": "https://tradethepool.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "com/wp-content/uploads/2023/02/blog-banner2.jpg https://tradethepool.com/fundamental/mastering-footprint-charts-trading/ 2025-10-25T12:43:11+00:00 https://tradethepool.com/wp-content/uploads/2025/10/21-10-25-Mastering-Footprint-Charts-Trading-headline.jpg https://tradethepool.com/wp-content/uploads/2025/10/Image-01-1.jpg https://tradet",
+    "url": "https://tradethepool.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Trade The Pool - Limited",
+    "snippet": "Trade The Pool - Limited Risk Trading Skip to content Program Features The Program 24/5 Trading Copy Trading Markets Funded Phase FAQs Blog Trading Education Video on",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Manag",
+    "snippet": "Up Sign up to the hub and get a FREE 14-day trial Limited risk trading Manage Our Funds with up to $200K Buying Power What's Trade The Pool Start Free Trial Most Popular Stock Trading Prop Firm How Much Capital Would You",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "How Much Capital Would You Like to Manag",
+    "snippet": "Pool Start Free Trial Most Popular Stock Trading Prop Firm How Much Capital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000 $ 200,000 What is your trading level? Beginner Advanced Start Now Start Now Or Compare Close compare",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Shorter learning curve, unlimited",
+    "snippet": "ph Funded Trader $260,000 Jorge Funded Trader $160,000 Shorter learning curve, unlimited opportunities, more results Backing Traders with Capital, Knowledge, and Opportunity The revolutionary trading opportunity , that undermines the brokers bu",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "In 5 years, people will look back and sa",
+    "snippet": "hift in Trading Broke a Barrier: Access, Costs, now RISK Traders First Approach In 5 years, people will look back and say: \u2018Remember when traders had to risk their own money to trade? Trading has evolved, but one thing remains constant\u2014risk. At Trade The Pool, we believe in a smarter way",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The Pool, we believe in a smarter way forward. Our Limited",
+    "snippet": "n money to trade? Trading has evolved, but one thing remains constant\u2014risk. At Trade The Pool, we believe in a smarter way forward. Our Limited Risk Trading Platform is designed to support traders, giving them the freedom to grow while keeping risk under control. We remove unnecessary barriers, offer structured",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "We remove unnecessa",
+    "snippet": "support traders, giving them the freedom to grow while keeping risk under control. We remove unnecessary barriers, offer structured opportunities, and create an environment where skill\u2014not capital limitations\u2014determines success. Join us and experience fearless trading, w",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trade Manag",
+    "snippet": "ositions by buying some or all of the [\u2026] Read more.. Date 19/02/2024 12 Trade Management Golden Tips For Day Traders Introduction As a day trader, effectively managing trades is a critical component of gaining consistent profits in the stock markets. T",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading, for example, can all be aspects that you might want to consider to create further rules",
+    "snippet": "ingent on their own trading style. Timing, edging, scaling in and out of trades, and news trading, for example, can all be aspects that you might want to consider to create further rules. Well, I hope this post can help you create your own Trading Rule Book for 2024 but remember, it\u2019s not enough to just set rules, you\u2019re going to have to ",
+    "url": "https://tradethepool.com/mental-skill/day-trading-rules-book/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eatures The Program \n 24/5 Trading \n Copy Trading \n Markets \n \n Funded Phase \n FAQs \n Blog \n Trading Education Video on ",
+    "snippet": "Trade The Pool - Limited Risk Trading Skip to content Program Features The Program 24/5 Trading Copy Trading Markets Funded Phase FAQs Blog Trading Education Video on Demand Trading books Forex to Stocks Futures to Stocks Inside TTP About us TTP\u2019s Partners Meet the Mentors Meet Your Coaches TTP Gear Trader\u2019s Area",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear \n \n Trader\u2019s Area \n Sign Up Sign up to the hub and get a FREE 14-day trial \n \n \n \n \n \n Limited risk trading\n Manage ",
+    "snippet": "Inside TTP About us TTP\u2019s Partners Meet the Mentors Meet Your Coaches TTP Gear Trader\u2019s Area Sign Up Sign up to the hub and get a FREE 14-day trial Limited risk trading Manage Our Funds with up to $200K Buying Power What's Trade The Pool Start Free Trial Most Popular Stock Trading Prop Firm How Much Capital Would You Lik",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear It From Our Funded Traders\n \n \n Ruben M\n Funded Trader\n $80,000\n \n \n \n Mikhail T\n Funded Trader\n $25,000\n \n \n \n Davi",
+    "snippet": "e. Once funded, eliminate barriers and trade freely with fewer restrictions. Hear It From Our Funded Traders Ruben M Funded Trader $80,000 Mikhail T Funded Trader $25,000 David S Funded Trader $20,000 Barnadette S Funded Trader $50,000 Pavishya J Funded Trader $25,000 Sabrina Funded Trader $24,000 Dana Funded",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earning curve, unlimited opportunities, more results Backing Traders with Capital, Knowledge, and Opportunity",
+    "snippet": "d Trader $260,000 Jorge Funded Trader $160,000 Shorter learning curve, unlimited opportunities, more results Backing Traders with Capital, Knowledge, and Opportunity The revolutionary trading opportunity , that undermines the brokers business model Our Vision Every Shift in Trading Broke a Barrier: Access, Costs, now RISK T",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears, people will look back and say:\n \u2018Remember when traders had to risk their own money to trade? Trading has evolved, ",
+    "snippet": "n Trading Broke a Barrier: Access, Costs, now RISK Traders First Approach In 5 years, people will look back and say: \u2018Remember when traders had to risk their own money to trade? Trading has evolved, but one thing remains constant\u2014risk. At Trade The Pool, we believe in a smarter way forward. Our Limited Risk Trading Platform is designed to",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Help@TradeThePool.com",
+    "snippet": "dwide See Why Our Clients Love Us! Trustpilot JOIN OUR COMMUNITY Email Help@TradeThePool.com UK Branch Enstar House, 168, Praed Street, London Website Disclaimers Five Percent Online Ltd. (\u201cWe\u201d, \u201cOur\u201d, \u201cUs\u201d, or \u201cCompany\u201d) operates as a proprietary",
+    "url": "https://tradethepool.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Subscription-Pivot-1024x580",
+    "snippet": "://tradethepool.com/wp-content/uploads/2026/02/Coinbase_-Tech-Moat-Cybersecurity-and-Subscription-Pivot-1024x580.webp https://tradethepool.com/wp-content/uploads/2026/02/Live-COIN-earnings-with-Trade-The-Pool.jpg https://tradethepool.com/fundamental/palo-alto-networks-why-the-marke",
+    "url": "https://tradethepool.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscription to one of the platforms (if he/she would like to use them)",
+    "snippet": "for 30 days. Please be aware, once a User gets funded, he or she will pay for their subscription to one of the platforms (if he/she would like to use them). Tradersync / Stock Traders Daily / Tradervue Due to our collaboration with Tradersync / Stock Traders Daily / Tradervue any new User that signs up for Trade The Pool",
+    "url": "https://tradethepool.com/program-terms/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, and swappable and upgradable batteries",
+    "snippet": "aaS), offering comprehensive services enabled by vehicle-battery separation, battery subscription, and swappable and upgradable batteries. The BaaS concept separates vehicle ownership from battery ownership, allowing customers to lease batteries rather than purchase them outright. This flexibility makes EV",
+    "url": "https://tradethepool.com/fundamental/how-battery-swapping-network-boosts-nio-share-price/",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions, not to forecast markets",
+    "snippet": "ese is a reason to slow down. Meanwhile, two or more signals a product built to sell subscriptions, not to forecast markets. \ud83d\udd17 Small-Cap Stocks Why Predicting Stock Prices Is So Hard Why can\u2019t AI just predict the market? Fundamentally, the Efficient Market Hypothesis explains it. Prices a",
+    "url": "https://tradethepool.com/ai/can-ai-predict-stock-prices/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Swing",
+   "snippet": "subsections). Demo Accounts Each user may open up to one Demo Day Trading Account and one Demo Swing Trading Account only. These demo accounts are intended to allow users to explore our charts, symbols, and platform features before starting an evaluation. MAX/FLEX Payout sp",
+   "url": "https://tradethepool.com/program-terms/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "Limited risk trading Manage Our Funds with up to $200K Buying Power What's Trade The Pool Start Free Trial Most Popular Stock Trading Prop Firm How Much Capital Would You Like to Manage Day Trade Swing $ 5,000 $ 25,000 $ 50,000 $ 100,000",
+   "url": "https://tradethepool.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "the same position in another account, regardless of size or entry price. Copy trading is allowed only between 2 accounts (not more) that are each Mini BP, Super BP, or MAX/FLEX of"
+ ],
+ "errors": []
+}

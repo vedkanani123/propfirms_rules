@@ -1,0 +1,621 @@
+{
+ "slug": "the5ers",
+ "name": "The5ers",
+ "category": "Forex/CFD",
+ "url": "https://the5ers.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://the5ers.com/",
+   "kind": "home",
+   "chars": 21196
+  },
+  {
+   "url": "https://the5ers.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 21495
+  },
+  {
+   "url": "https://the5ers.com/summer-plan/",
+   "kind": "page",
+   "chars": 14595
+  },
+  {
+   "url": "https://the5ers.com/faqs/",
+   "kind": "page",
+   "chars": 5417
+  },
+  {
+   "url": "https://the5ers.com/faqs/prohibited-trading-practices/",
+   "kind": "page",
+   "chars": 15573
+  },
+  {
+   "url": "https://the5ers.com/futures-faqs/",
+   "kind": "page",
+   "chars": 5317
+  },
+  {
+   "url": "https://the5ers.com/terms-and-conditions/",
+   "kind": "page",
+   "chars": 70251
+  },
+  {
+   "url": "https://the5ers.com/about-the5ers/",
+   "kind": "page",
+   "chars": 10184
+  }
+ ],
+ "page_count": 8,
+ "total_chars": 164035,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "ep 2 Steps Trading Rules Account Size: $100,000 Buy 2 accounts at the same time Profit Target: 10% to pass the evaluation and get Pro Leverage: 1:100 One-time Fee: $249 Get 10% in Hub Credits once getting a Pro Program The Pro Program target stays the same as the e",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "/5 ($149): Phase 1 profit target is 10%; Phase 2 is 5%. Summer 8/5 ($179): Phase 1 profit target is 8%; Phase 2 is 5%. REFUND POLICY TWO-Step: Receive 10% hub credits upon passing Step One. Receive 20% hub credits upon passing Step Two. Withdraw 70% with your thir",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "ded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Min. Withdrawal - $250 Target 10% 10% for scaling Consistency- Per Day 50% 50% Payout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonu",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ings simple and structured, your profit target (10%) and risk rules (6% max loss, 3% daily loss, and 50% consistency) remain the same on your funded account as they were during evaluation. BONUS: Get 10% in hub credits once funded What is the difference between the One-",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "USD EUR GBP INR 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Min. Withdrawal - $250 Target 10% 10% for scaling Consistency- Per Day 50% 50% Payout Cap - $2000 Profit Share - 75%-25%",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "o. To keep things simple and structured, your profit target (10%) and risk rules (6% max loss, 3% daily loss, and 50% consistency) remain the same on your funded account as they were during evaluation. BONUS: Get 10% in hub credits once funded What is the differe",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "aluation?\u02c7 Both the New and Classic versions share the same evaluation risk model: Maximum Loss: 10% of your initial balance. Daily Loss Limit: Calculated at the end of each trading day based on 3% of your account\u2019s EOD equity OR balance\u2014whichever of the two is higher.",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "50",
+    "snippet": "% 3% Min. Withdrawal - $250 Target 10% 10% for scaling Consistency- Per Day 50% 50% Payout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonus - 10% Refund - Refund From 3rd Payout Max no. of active accounts 2 - Price $249 - 1 Step Funded Trader Max. Trad",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "% Payout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonus - 10% Refund - Refund From 3rd Payout Max no. of active accounts 2 - Price $249 - 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Mi",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "% $125,000 $137,500 75%/25% $150,000 $165,000 75%/25% $175,000 $192,500 75%/25% Account Size Balance Target (10%) Payout Ratio $100,000 $110,000 75%/25% $125,000 $137,500 75%/25% $150,000 $165,000 75%/25% $175,000 $192,500 75%/25% Start on the Summer plan FAQ Have More",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "70",
+    "snippet": "s upon passing Step One. Receive 20% hub credits upon passing Step Two. Withdraw 70% with your third payout What are the risk parameters for the 2-Step Plan evaluation?\u02c7 Both the New and Classic versions share the same evaluation risk model: Maximum Loss: 10% of your initi",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "l and trading style. Summer Plan CFDs Futures 1 Step 1 Step 2 Steps Futures $100K USD EUR GBP INR 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Min. Withdrawal - $250 Target 1",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ter contains: $15 one-time Hub Credits for your The5ers or Futures Account FREE $5K Trade the Pool Account Exclusive access to Summer Contests FREE one-month TraderSync trial FREE one-month TrendSpider trial What is TradePoints and How Many Po",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "egate buying power allowed across all Summer Plan accounts is $600,000 per trader. $200K Account Options: Each trader is permitted to purchase one $200K (10/5 Plan) and one $200K (8/5 Plan) account simultaneously. Combining Account Sizes: Since holding two",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "400",
+    "snippet": "t simultaneously. Combining Account Sizes: Since holding two $200K accounts equals $400K in total capital, you still have $200K in remaining allocation under the $600K cap. This means you can also hold additional $100K accounts (e.g., up to two $100K account",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "600",
+    "snippet": "quals $400K in total capital, you still have $200K in remaining allocation under the $600K cap. This means you can also hold additional $100K accounts (e.g., up to two $100K accounts) alongside your $200K accounts. Is Copy Trading Allowed Between my Accoun",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "4,00",
+    "snippet": "nce 2016 Turning your passion into a trading career Get qualified and manage up to $4,000,000! Get Started Get Started Trustpilot You\u2019ve got what it takes to become an Elite Trader. Fair Play First A commitment to honesty, clarity, and full transpar",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "full transparency in everything we do. Best Conditions in the Industry Scale up to $4M with competitive industry-leading rates 24/7 Support & Guidance We\u2019re here to make you a better trader, day in and day out. Trader stories Real Traders. Real Result",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,50",
+    "snippet": "with our programs and turned skill into real results. Carlos Garabito Payouts of $4,500 Rohit Kumar Payouts of $35,000 Ruben. N Payouts of $8,000 Samuel D. Payouts of $98,038 Van. T Payouts of $98,038 Joseph Payouts of $16,754 Luke Payouts of $",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "35,00",
+    "snippet": "ll into real results. Carlos Garabito Payouts of $4,500 Rohit Kumar Payouts of $35,000 Ruben. N Payouts of $8,000 Samuel D. Payouts of $98,038 Van. T Payouts of $98,038 Joseph Payouts of $16,754 Luke Payouts of $18,754 Sandrina R. Payouts of $",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8,00",
+    "snippet": "s Garabito Payouts of $4,500 Rohit Kumar Payouts of $35,000 Ruben. N Payouts of $8,000 Samuel D. Payouts of $98,038 Van. T Payouts of $98,038 Joseph Payouts of $16,754 Luke Payouts of $18,754 Sandrina R. Payouts of $20,116 Rob D. Payouts of $1",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "98,03",
+    "snippet": "Rohit Kumar Payouts of $35,000 Ruben. N Payouts of $8,000 Samuel D. Payouts of $98,038 Van. T Payouts of $98,038 Joseph Payouts of $16,754 Luke Payouts of $18,754 Sandrina R. Payouts of $20,116 Rob D. Payouts of $13,776 Adam B. Payouts of $4,8",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "16,75",
+    "snippet": "8,000 Samuel D. Payouts of $98,038 Van. T Payouts of $98,038 Joseph Payouts of $16,754 Luke Payouts of $18,754 Sandrina R. Payouts of $20,116 Rob D. Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payout",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "18,75",
+    "snippet": "of $98,038 Van. T Payouts of $98,038 Joseph Payouts of $16,754 Luke Payouts of $18,754 Sandrina R. Payouts of $20,116 Rob D. Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payouts of $3,507 Furkan K. Pa",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20,11",
+    "snippet": "8,038 Joseph Payouts of $16,754 Luke Payouts of $18,754 Sandrina R. Payouts of $20,116 Rob D. Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payouts of $3,507 Furkan K. Payouts of $20,206 Griff Z. Payou",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "13,77",
+    "snippet": "6,754 Luke Payouts of $18,754 Sandrina R. Payouts of $20,116 Rob D. Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payouts of $3,507 Furkan K. Payouts of $20,206 Griff Z. Payouts of $7,191 Alexandre T.",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,87",
+    "snippet": "54 Sandrina R. Payouts of $20,116 Rob D. Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payouts of $3,507 Furkan K. Payouts of $20,206 Griff Z. Payouts of $7,191 Alexandre T. Payouts of $21,769 Davide M",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15,31",
+    "snippet": "16 Rob D. Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payouts of $3,507 Furkan K. Payouts of $20,206 Griff Z. Payouts of $7,191 Alexandre T. Payouts of $21,769 Davide M. Payouts of $9,752 Majd H. Pay",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Requirement: 50% in both evaluation and Pro accounts\n50% consistency requirement applies to the Pro P",
+    "snippet": "e getting a Pro Program The Pro Program target stays the same as the evaluation: 10% Consistency Requirement: 50% in both evaluation and Pro accounts 50% consistency requirement applies to the Pro Program as well Risk Management Funding & Payouts Trading Rules Risk Management Funding & Payouts Account Size: $100,000 Buy 2 accounts at the ",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Requirement: 50% (no single trading day can account for more than 50% of your total profit)",
+    "snippet": "ased on 3% of your account\u2019s EOD equity OR balance\u2014whichever of the two is higher. Consistency Requirement: 50% (no single trading day can account for more than 50% of your total profit). What happens after I pass the 1-Step evaluation? You move directly to a $100,000 funded account. Plus, as a passing bonus, you will receive 10% of your ",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule during the evaluation phases for the 2-Step plan",
+    "snippet": "r account\u2019s EOD equity OR balance\u2014whichever of the two is higher. Note: There is no consistency rule during the evaluation phases for the 2-Step plan. Does the Consistency Rule Apply to Account Balance or Account Size? No. The consistency percentage is not calculated based on your account size or account balance.",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule Apply to Account Balance or Account Size?\n No",
+    "snippet": "s no consistency rule during the evaluation phases for the 2-Step plan. Does the Consistency Rule Apply to Account Balance or Account Size? No. The consistency percentage is not calculated based on your account size or account balance. It is calculated based on your profits. For example, if you have a $100K a",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule:\n Best trading day : $5,000\n Required total profit : $10,000\n(Because: $5,000 \u00f7 50% = $10",
+    "snippet": "withdraw or use for scale-up eligibility. Quick example If your account has a 50% Consistency Rule: Best trading day : $5,000 Required total profit : $10,000 (Because: $5,000 \u00f7 50% = $10,000) If your total profit is below $10,000, you need to continue trading until your total profit reaches the required amount. What are Summer Boosters? B",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule: A 50% daily consistency requirement applies, meaning no single trading day can account f",
+    "snippet": "um withdrawal is $250 , with a payout cap of up to $3,000 per payout cycle . Daily Consistency Rule: A 50% daily consistency requirement applies, meaning no single trading day can account for more than 50% of your total generated profit at the time of a payout request. Does the $200K High Stakes Summer Plan Support Account Scaling? No. Th",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Monthly",
+    "snippet": "es to paying out. If you've earned it, it's yours. 0 Traders Worldwide 0 16\u05d9 Avg Payout Time 0 Monthly zero-fuss payouts Program advantages Everything you need to succeed (and a whole lot more) Instant, simple payouts Fastest growth plans Free educational resources",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "weekly",
+    "snippet": "ion (the \"Payout Threshold\"), the Company reserves the right to distribute the total payout amount across consecutive weekly installments. Each weekly installment under this section shall not exceed $10,000 (Ten Thousand US Dollars), and installments shall be issued on a continuous weekly basi",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "monthly 0.6 https://wp.the5ers.com/british-pound-under-pressure-what-andy-burnhams-rise/ 2026-06-30T05:46:29.000Z monthly 0.6 https://wp.the5ers.com/why-do-people-use-prop-firms-real-reasons-behind-funded-accounts/ 2026-09-27T06:11:44.000Z monthly 0.6 htt",
+    "url": "https://the5ers.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "ll have the meaning assigned to them in these Terms unless the context requires otherwise. \u201c Account \u201d means a User\u2019s designated account allowing a User to access the Hub and use the Services, view the status of the various Services the User is subscribed to",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "crypto",
+    "snippet": "from time to time, and restrictions relating to third-country or Russian-established crypto exchanges and payment agents; the United Kingdom (including OFSI); the State of Israel; and any other applicable regions or jurisdictions where Our payment processors",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "can pay the fee for the selected program of the Evaluation by a payment card, via a bank transfer, or using other means of payment that We currently offer on the Website. In the event of payment by a payment card or via any other express payment method, the payment",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "larity, and full transparency in everything we do. Best Conditions in the Industry Scale up to $4M with competitive industry-leading rates 24/7 Support & Guidance We\u2019re here to make you a better trader, day in and day out. Trader stories Real Traders. Real Results. Meet the traders who transformed their journey with our programs and turne",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "our true potential: classes, webinars, courses, and weekly sessions with our trading masterminds. Go To Academy Supportive community Join a Network of Real Traders Share your journey with fellow enthusiasts in our Discord, virtual events, and in-person meetup",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "plained/ 2026-02-12T13:53:10.000Z monthly 0.6 https://wp.the5ers.com/academy/forex-basics/ 2026-01-29T10:50:40.000Z monthly 0.7 https://wp.the5ers.com/academy/technical-analysis/ 2026-01-29T10:51:06.000Z monthly 0.7 https://wp.the5ers.com/academy/day-trading-strategies/ 2026-01",
+    "url": "https://the5ers.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "unregulated",
+    "snippet": "third-party which may be an unaffiliated company, or an affiliate of Ours, including unregulated entities (\u201c Third Parties \u201d). Any authority granted to Us by You, and any limitation of liability granted to Us, shall also extend to include Our affiliates, agents and any service providers. Us and",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "The5ers sinc",
+    "snippet": "The5ers: The Top 5% of the Prop World | The5ers since 2016 Turning your passion into a trading career Get qualified and manage up to $4,000,000! Get Started Get Started Trustpilot You\u2019ve got what it takes to becom",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Get qualified and manag",
+    "snippet": "of the Prop World | The5ers since 2016 Turning your passion into a trading career Get qualified and manage up to $4,000,000! Get Started Get Started Trustpilot You\u2019ve got what it takes to become an Elite Trader. Fair Play First A commitment to honesty, clarity, and",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "ing Consistency- Per Day 50% 50% Payout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonus - 10% Refund - Refund From 3rd Payout Max no. of active accounts 2 - Price $249 - 1 Step Funded Trader Max. Trading Period Unlimited",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Program advantag",
+    "snippet": "yours. 0 Traders Worldwide 0 16\u05d9 Avg Payout Time 0 Monthly zero-fuss payouts Program advantages Everything you need to succeed (and a whole lot more) Instant, simple payouts Fastest growth plans Free educational resources Transparent one-time fees Academy",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Share your journey with fellow enthusia",
+    "snippet": "asterminds. Go To Academy Supportive community Join a Network of Real Traders Share your journey with fellow enthusiasts in our Discord, virtual events, and in-person meetups. Connect Now Performance Conditions We've Got The Best Conditions. No Gimmicks. With exceptional conditio",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Prashant , 7 days ag",
+    "snippet": "aders who value transparency, discipline, and a professional trading environment. \ud83d\ude80 Prashant , 7 days ago Simple Interface with easy navigation Great prop firm to trade Simple and cheap plans available Thusitha Samarasinghe , 14 days ago Robinson The account proces",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Thusitha Samarasinghe , 14 days ag",
+    "snippet": "ace with easy navigation Great prop firm to trade Simple and cheap plans available Thusitha Samarasinghe , 14 days ago Robinson The account processes are very fast, support is always attentive to solving problems, payouts are processed within the timeframes they establish in their t",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The best prop firm at the moment , 21 days ag",
+    "snippet": "hin the timeframes they establish in their terms. The best prop firm at the moment. The best prop firm at the moment , 21 days ago Excellent experience with The5ers The platform is professional, the rules are clear, and the overall trading experience has been smooth. I also appreciate the suppo",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "12553363",
+    "snippet": "This website is operated by FIVE PERCENT ONLINE LTD, a company registered in UK with company number 12553363 and registered office at Enstar House, 168, Praed Street, London, United Kingdom, W2 1RH. Five Percent Online LTD - Copyright \u00a9 2026. THE5ERS",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "515864007",
+    "snippet": "United Kingdom, and by FIVE PERCENT ONLINE LTD, a company registered in Israel with company number 515864007 and registered office at 2 Ha`tidhar street, Raanana, Israel. Limited Time Offer! Industry\u2019s Lowest $100K For $149 Start Now Start Your Challenge Learn to Trade M",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available to residents or citizens of certain jurisdictions, including but not limited to: Afghanistan, Belarus, Bur",
+    "snippet": "e profits or losses similar to those demonstrated. Please note that our services are not available to residents or citizens of certain jurisdictions, including but not limited to: Afghanistan, Belarus, Burundi, Central African Republic, Cuba, Congo Republic, Crimea, Democratic Republic of Congo, Eritrea, Guinea, Guinea-Bissau, Iraq, Iran,",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "prohibited from being used by residents of the United States",
+    "snippet": "You are hereby notified that Trading Platforms provided by MetaQuotes are strictly prohibited from being used by residents of the United States. \u201c Professional User \u201d If You successfully complete the Evaluation and User Verification Process, We may offer You to become a Professional User and trade with Our trad",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund\n -\n Refund From 3rd Payout\n Max no",
+    "snippet": "yout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonus - 10% Refund - Refund From 3rd Payout Max no. of active accounts 2 - Price $249 - 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Min. Withd",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "REFUND POLICY \n TWO-Step: Receive 10% hub credits upon passing Step One",
+    "snippet": "%; Phase 2 is 5%. Summer 8/5 ($179): Phase 1 profit target is 8%; Phase 2 is 5%. REFUND POLICY TWO-Step: Receive 10% hub credits upon passing Step One. Receive 20% hub credits upon passing Step Two. Withdraw 70% with your third payout What are the risk parameters for the 2-Step Plan evaluation?\u02c7 Both the New and",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Refund and Summer Boost Credits?\n Your evaluation fee refund is distributed in three distinct stages throughout your pro",
+    "snippet": "w evaluation accounts within The5ers ecosystem. How do I Receive my Evaluation Fee Refund and Summer Boost Credits? Your evaluation fee refund is distributed in three distinct stages throughout your progression: Step 1 Completion: You receive 10% of your evaluation fee back as HUB credits as soon as you pass Phase 1. Step 2 Completion (Re",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "refund or profit will not be processed, and you will be permanently banned from The5ers Fund",
+    "snippet": "and/or restrict your access to the services for specific functions immediately. Any refund or profit will not be processed, and you will be permanently banned from The5ers Fund. Was this article helpful? Yes No Limited Time Offer! Industry\u2019s Lowest $100K For $149 Start Now Start Your Challenge Learn to Trade Meet The5ers Get Engaged",
+    "url": "https://the5ers.com/faqs/prohibited-trading-practices/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "high-impact news",
+    "snippet": "ehind the strategy activity. Bracketing strategy by opening pending orders around high-impact news. It consists of opening buy and sell stops close to the price before the news. Situation: Ahead of a major economic announcement, a trader places both buy and sell pend",
+    "url": "https://the5ers.com/faqs/prohibited-trading-practices/",
+    "kind": "page"
+   },
+   {
+    "value": "high-impact news event, taking a position size that would be financially catastrophic in a live account but carries limi",
+    "snippet": "trader allocates their entire available margin to a single currency pair ahead of a high-impact news event, taking a position size that would be financially catastrophic in a live account but carries limited personal consequence in a simulated environment, in order to maximise the chance of hitting the profit target in a single trade. Gen",
+    "url": "https://the5ers.com/faqs/prohibited-trading-practices/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eading rates\n 24/7 Support & Guidance\n We\u2019re here to make you a better trader, day in and day out",
+    "snippet": "we do. Best Conditions in the Industry Scale up to $4M with competitive industry-leading rates 24/7 Support & Guidance We\u2019re here to make you a better trader, day in and day out. Trader stories Real Traders. Real Results. Meet the traders who transformed their journey with our programs and turned skill into real results. Carlos Garabito P",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Traders",
+    "snippet": "dance We\u2019re here to make you a better trader, day in and day out. Trader stories Real Traders. Real Results. Meet the traders who transformed their journey with our programs and turned skill into real results. Carlos Garabito Payouts of $4,500 Rohit Kumar",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Results",
+    "snippet": "ere to make you a better trader, day in and day out. Trader stories Real Traders. Real Results. Meet the traders who transformed their journey with our programs and turned skill into real results. Carlos Garabito Payouts of $4,500 Rohit Kumar Payouts of $35",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eandro G",
+    "snippet": "Payouts of $13,776 Adam B. Payouts of $4,871 Dimitrios H. Payouts of $15,315 Leandro G. Payouts of $3,507 Furkan K. Payouts of $20,206 Griff Z. Payouts of $7,191 Alexandre T. Payouts of $21,769 Davide M. Payouts of $9,752 Majd H. Payouts of $36,",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eader in supporting pro traders of all skill levels\n The5ers is an established and highly respected industry player, wit",
+    "snippet": "Max no. of active accounts 2 - Price $249 - Loading... About us A proven leader in supporting pro traders of all skill levels The5ers is an established and highly respected industry player, with a proven track record of delivering for traders. 262K Pro Traders 10 Years Active 171 Employees in 24 countries MOST USER FRIENDLY PROP FIRM BEST",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "agree that circumvention of geographical restrictions (including through the use of VPN or any other technical means) constitutes a fundamental breach of the Terms. You declare that you do not reside in a prohibited jurisdiction or one subject to sanctions. The Company performs KYC procedures as a condition for becoming a \u201cProfess",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "help@the5ers.com",
+    "snippet": "ebinars Contest Refer a trader Press Room Press Kit FAQs Futures FAQs Get in touch! help@the5ers.com Start chat Privacy Policy Terms & Conditions The 5%ers Cookie Policy Copyright Infringement Policy AML Policy Prohibited Trading Practices Website disclaimers Five",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "help.desk@the5ers.com",
+    "snippet": "ion of the US authorities relevant information by official and authorized request to help.desk@the5ers.com . Data Accuracy Although We intend to provide accurate and timely information on the Website, such information may not always be entirely accurate, complete or curre",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "ing Consistency- Per Day 50% 50% Payout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonus - 10% Refund - Refund From 3rd Payout Max no. of active accounts 2 - Price $249 - 1 Step Funded Trader Max. Trading Period Unlimited Unlimi",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap\n -\n $2000\n Profit Share\n -\n 75%-25%\n Leverage\n 1:100\n 1:100\n Bonus\n -\n 10%\n Refund\n -\n Refund From 3rd Payout",
+    "snippet": ". Withdrawal - $250 Target 10% 10% for scaling Consistency- Per Day 50% 50% Payout Cap - $2000 Profit Share - 75%-25% Leverage 1:100 1:100 Bonus - 10% Refund - Refund From 3rd Payout Max no. of active accounts 2 - Price $249 - 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Mi",
+    "url": "https://the5ers.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Cap & Minimum: The minimum withdrawal is $250 , with a payout cap of up to $3,000 per payout cycle",
+    "snippet": "ed account: Profit Share: You receive an 80/20 profit split (80% to the trader). Payout Cap & Minimum: The minimum withdrawal is $250 , with a payout cap of up to $3,000 per payout cycle . Daily Consistency Rule: A 50% daily consistency requirement applies, meaning no single trading day can account for more than 50% of your total generate",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan\n Account scales up on every 10% target reached\n 1 Step 2 Steps \n Account Size\n Balance Target (10%)\n Payout",
+    "snippet": "ion and Pro accounts 50% consistency requirement applies to the Pro Program as well Scaling Plan Account scales up on every 10% target reached 1 Step 2 Steps Account Size Balance Target (10%) Payout Ratio $100,000 $110,000 75%/25% $125,000 $137,500 75%/25% $150,000 $165,000 75%/25% $175,000 $192,500 75%/25% Account Size Balance Target (10",
+    "url": "https://the5ers.com/summer-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan work? How many Bootcamp accounts can I have? What is the Leverage in the Bootcamp Program? \n Start Your Cha",
+    "snippet": "am Payment structure Work? How does the Bootcamp Program work? How does the Bootcamp scaling plan work? How many Bootcamp accounts can I have? What is the Leverage in the Bootcamp Program? Start Your Challenge Learn to Trade Meet The5ers Get Engaged 10 Year Anniversary Futures New Get Started Join us The Secret of Getting Ahead is Getting",
+    "url": "https://the5ers.com/faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plan 1 Article Summer Plan (Swing) 3 Articles How can I Identify my The5ers Evaluation Account in BlackArrow? Ho",
+    "snippet": "Articles FAQs 22 Articles Payments 3 Articles Payouts 5 Articles Refunds 2 Articles Scaling Plan 1 Article Summer Plan (Swing) 3 Articles How can I Identify my The5ers Evaluation Account in BlackArrow? How do I Switch From the BlackArrow Demo Account to my The5ers Account? What Happens if I Trade on the BlackArrow Demo Account? What is th",
+    "url": "https://the5ers.com/futures-faqs/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC \u201d stands for Know Your Customer, which means the process of a business verifying the identity of its clients,",
+    "snippet": "e foregoing (as applicable) now existing or hereafter filed, issued, or acquired. \u201c KYC \u201d stands for Know Your Customer, which means the process of a business verifying the identity of its clients, their UBOs, and assessing potential regulatory risks of the business relationship. \u201c Sanctions Regime \u201d means any and all economic or financia",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC policies aimed to ensure our compliance with the applicable law",
+    "snippet": "ion to accept or reject applications to create Accounts. AML We implement AML and KYC policies aimed to ensure our compliance with the applicable law. You are subject to these checks at any stage, particularly upon successfully passing the Evaluation stage and as a condition for becoming a Professional User. We will a",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC checks",
+    "snippet": "to determine or assess Your access to any part of the Services and/or to perform AML/KYC checks. Risk assessments and Our policies may change, and therefore we may restrict Accounts that have been previously approved by Us. Sanctions We comply with the Sanctions",
+    "url": "https://the5ers.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "ourney Choose the best program for your skill level and trading style. Summer Plan CFDs Futures 1 Step 1 Step 2 Steps Futures $100K USD EUR GBP INR 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss",
+   "url": "https://the5ers.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "best program for your skill level and trading style. Summer Plan CFDs Futures 1 Step 1 Step 2 Steps Futures $100K USD EUR GBP INR 1 Step Funded Trader Max. Trading Period Unlimited Unlimited Maximum Loss 6% 6% Maximum Daily Loss 3% 3% Min. Wit",
+   "url": "https://the5ers.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "Add as a preferred source on Google Start Your Challenge 1 Step | Growth 2 Step | High Stakes 3 Step | Bootcamp Futures Stock Trading Learn to trade Blog Academy Performance Coach Forex To Futures Stocks To Futures Tools News Sentiment Economic Forex Calenda",
+   "url": "https://the5ers.com/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "TradePoints Rewards The Pro Booster contains: $15 one-time Hub Credits for your The5ers or Futures Account FREE $5K Trade the Pool Account Exclusive access to Summer Contests FREE one-month TraderSync trial FREE one-month TrendSpider trial What is TradeP",
+   "url": "https://the5ers.com/summer-plan/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "with a proven track record of delivering for traders. 262K Pro Traders 10 Years Active 171 Employees in 24 countries MOST USER FRIENDLY PROP FIRM BEST TRADING SERVICE(B2C) B",
+  "payouts We have a strict 'no nonsense' policy when it comes to paying out. If you've earned it, it's yours. 0 Traders Worldwide 0 16\u05d9 Avg Payout Time 0 Monthly zero-fuss pay",
+  "EVERYONE GETS REWARDED! Score Free Starter-Booster Kit on purchase #1 Unlock free Pro-Booster when you get 4+ accounts. Starter Booster 5 Pro Booster 6 Everything You Need",
+  "unding Programs How will you trade this summer? 1 Step 2 Steps Trading Rules Account Size: $100,000 Buy 2 accounts at the same time Profit Target: 10% to pass the evaluation",
+  "gement Funding & Payouts Trading Rules Risk Management Funding & Payouts Account Size: $100,000 Buy 2 accounts at the same time Profit Target: 10% to pass the evaluation",
+  "0K (10/5 Plan) and one $200K (8/5 Plan) account simultaneously. Combining Account Sizes: Since holding two $200K accounts equals $400K in total capital, you still have $200K in rema"
+ ],
+ "errors": []
+}

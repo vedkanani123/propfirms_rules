@@ -1,0 +1,557 @@
+{
+ "slug": "funded-futures-family",
+ "name": "Funded Futures Family",
+ "category": "Futures",
+ "url": "https://fundedfuturesfamily.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.fundedfuturesfamily.com:443/",
+   "kind": "home",
+   "chars": 15062
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 235
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 15862
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 2311
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/faq-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5055
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/faq/",
+   "kind": "page",
+   "chars": 15086
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com:443/terms-and-conditions/",
+   "kind": "page",
+   "chars": 56378
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/about/",
+   "kind": "page",
+   "chars": 11126
+  },
+  {
+   "url": "https://www.fundedfuturesfamily.com/contact/",
+   "kind": "page",
+   "chars": 10154
+  }
+ ],
+ "page_count": 9,
+ "total_chars": 131277,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "rading Core Labs Velocity Built for fast first payouts \u26a1\ufe0f 3 Minimum Days Up to 90% Profit Split No Time Limits Flexible Trading Rules Weekend Holding Allowed Fast Account Review With add-on unlocks Daily payouts No consistency in sim funded Watch 90-sec e",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "valuation Start on a sim funded account Intraday Drawdown Type for S2F Accelerate 25% consistency 5 day payouts Watch 90-sec explainer View plan & pricing Sniper Daily payout requests, no consistency \u26a1\ufe0f 1-Day Payout No DLL No Consistency rule E-O-D Drawdown that never l",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "x Payout $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 08HRS : 01M : 23S Hear From The Family Funded traders, in their own words Get Funded Now Results vary by trader",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "90",
+    "snippet": "our Path to Funded Trading Core Labs Velocity Built for fast first payouts \u26a1\ufe0f 3 Minimum Days Up to 90% Profit Split No Time Limits Flexible Trading Rules Weekend Holding Allowed Fast Account Review With add-on unlocks Daily payouts No consistency in sim funded",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "2",
+    "snippet": "remier+ Prime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "er+ Prime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "rime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 On",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 One time",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "ier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 One time fee",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "rades $1,750 Payout \u201cLessgggo\u201d View on Discord Apple Trader California +$75k with @fundedfamily total sim profits. Requested another payout since I qualified for just $6,000. This is what I know about live so far with FFF: -Sim profits are halt",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,00",
+    "snippet": "\u26a1\ufe0f 1-Day Payout No DLL No Consistency rule E-O-D Drawdown that never locks Up to $1,000 per payout Invite Only View plan & pricing Accelerate A low-cost path to funded \u26a1\ufe0f 5-Day Payout No DLL Intraday Drawdown that never locks 25% Consistency N",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "t Drawdown locks at starting balance 40% Consistency Scaling Plan Included Up to $1,250 per payout Hard breach DLL Invite Only View plan & pricing Challenge selector Choose your account details in a step-by-step. Select Type Evaluation Straight",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "remier+ Prime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "er+ Prime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "rime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 O",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "ier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 One time fee",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "39",
+    "snippet": "0K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 One time fee Start a Challenge Max Contracts 1 Mini (10 Micros) Max Drawdown $750 EOD (Never",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "y Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 One time fee Start a Challenge Max Contracts 1 Mini (10 Micros) Max Drawdown $750 EOD (Never Locks) Daily Loss Limit None Profit Target Between Payouts $2,",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "69.99",
+    "snippet": "aily Payout +$39 EOD Drawdown vs Intraday Trailing +$39 Selected Size $25,000 $69.99 One time fee Start a Challenge Max Contracts 1 Mini (10 Micros) Max Drawdown $750 EOD (Never Locks) Daily Loss Limit None Profit Target Between Payouts $2,500 Payouts",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "750",
+    "snippet": "69.99 One time fee Start a Challenge Max Contracts 1 Mini (10 Micros) Max Drawdown $750 EOD (Never Locks) Daily Loss Limit None Profit Target Between Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "Drawdown $750 EOD (Never Locks) Daily Loss Limit None Profit Target Between Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "ween Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 0",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Intraday",
+    "snippet": "ght to Funded No evaluation phase \u26a1\ufe0f No Evaluation Start on a sim funded account Intraday Drawdown Type for S2F Accelerate 25% consistency 5 day payouts Watch 90-sec explainer View plan & pricing Sniper Daily payout requests, no consistency \u26a1\ufe0f 1-Day Payout N",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "EOD",
+    "snippet": "r Accelerate Payday Select Plan Velocity Premier+ Prime Premier+ Drawdown Type EOD Drawdown Intraday Select Account Size $2K $25K $50K $100K $150K Select Platform Tradovate WealthCharts Velocity Add-ons Daily Payout +$39 EOD Drawdown vs Intraday Trail",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules by Plan\n No consistency rule on Premier+ and Prime plan for evaluation phase",
+    "snippet": "frequent payouts? Select plans offer a daily payout add-on. Plan rules still apply. Consistency Rules by Plan No consistency rule on Premier+ and Prime plan for evaluation phase. Read FAQs for more details. No activation fee on any plan. No activation fee on any plan. Pass your evaluation and move straight to a funded account at no extra ",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency rule on Evaluation\n Customisable Drawdown Type\n No DLL\n \n Watch 90-sec explainer View plan & p",
+    "snippet": "ity for traders \u26a1\ufe0f 1 Minimum Day(FastPass) No Activation Fee No Buffer Needed No Consistency rule on Evaluation Customisable Drawdown Type No DLL Watch 90-sec explainer View plan & pricing Prime Clean & simple rules \u26a1\ufe0f 1 Minimum Day No Activation Fee No Consistency rule on Evaluation E-O-D Drawdown No DLL Watch 90-sec explainer View plan ",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency rule on Evaluation\n E-O-D Drawdown\n No DLL\n \n Watch 90-sec explainer View plan & pricing \n Str",
+    "snippet": "lan & pricing Prime Clean & simple rules \u26a1\ufe0f 1 Minimum Day No Activation Fee No Consistency rule on Evaluation E-O-D Drawdown No DLL Watch 90-sec explainer View plan & pricing Straight to Funded No evaluation phase \u26a1\ufe0f No Evaluation Start on a sim funded account Intraday Drawdown Type for S2F Accelerate 25% consistency 5 day payouts Watch",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency rule\n E-O-D Drawdown that never locks\n Up to $1,000 per payout\n \n Invite Only \n View plan & pr",
+    "snippet": "pricing Sniper Daily payout requests, no consistency \u26a1\ufe0f 1-Day Payout No DLL No Consistency rule E-O-D Drawdown that never locks Up to $1,000 per payout Invite Only View plan & pricing Accelerate A low-cost path to funded \u26a1\ufe0f 5-Day Payout No DLL Intraday Drawdown that never locks 25% Consistency No Lifetime Payout Cap 3 Minis (30 Micros)",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) \n Funded Rules \n Offer",
+    "snippet": "ever Locks) Daily Loss Limit None Profit Target Between Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 08HRS : 01M : 23S Hear From The Fami",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule(funded accounts bought from September 9, 2026 carry a 40% consistency rule)",
+    "snippet": "allows news trading, has no daily loss limit, and includes the Premier+ Plan with no consistency rule(funded accounts bought from September 9, 2026 carry a 40% consistency rule). It also supports commodity futures trading, continuously monitors accounts from day one for instant payout approval, and pays traders on a 90/10 profit split. Ke",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "daily",
+    "snippet": "A Clear Path to Funded Trading Watch on Daily Payout Add-On Prefer more frequent payouts? Select plans offer a daily payout add-on. Plan rules still apply. Consistency Rules by Plan No consistency rule on Premier+ and Prime plan for evaluation phase. Read FAQs for more details. No a",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "o review as soon as you submit it, and most are reviewed the same day. Paid Through Rise Once approved, you'll get a Rise invite to verify your details and sign. Payment usually follows within 24 hours. Bank transfers can take 1 to 3 business days. Clear A",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Bank transfer",
+    "snippet": "ise invite to verify your details and sign. Payment usually follows within 24 hours. Bank transfers can take 1 to 3 business days. Clear Answers If a request can't be approved, we tell you which rule it missed so you know what to fix. Plan Select your Path to Fun",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "and services, your accounts, and other tools offered. All capitalized terms not otherwise defined herein shall have the meanings set forth in the Privacy Policy which is incorporated herein by reference. The Funded Futures Family Sites and Services are offer",
+    "url": "https://www.fundedfuturesfamily.com:443/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "r payout caps \u26a1\ufe0f 7-Day Payout Drawdown locks at starting balance 40% Consistency Scaling Plan Included Up to $1,250 per payout Hard breach DLL Invite Only View plan & pricing Challenge selector Choose your account details in a step-by-step. Select Type Evaluation Straight to Funded Labs Straight to Funded Plan S2F Standard S2F Accelerate ",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "for regulatory or compliance reasons, even where simulated accounts are available. CFTC Rule 4.41: Hypothetical or simulated performance. Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Celebrating 2 Years Anniversa",
+    "snippet": "lans FAQs Help Center Affiliate More Blog About Contact Us Login Get Funded Now Celebrating 2 Years Anniversary Become a Funded Futures Trader. No Hidden Rules. Trade your plan on a simulated account. Start Your Evaluation Join us Trustpilot Listed on Trustpilot 2847 r",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "s soon as you submit it, and most are reviewed the sa",
+    "snippet": "eviewed When You Submit There are no payout windows. Your request goes into review as soon as you submit it, and most are reviewed the same day. Paid Through Rise Once approved, you'll get a Rise invite to verify your details and sign. Payment usually follows within 24 hours. Bank transfers can take 1 to",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Customisa",
+    "snippet": "y(FastPass) No Activation Fee No Buffer Needed No Consistency rule on Evaluation Customisable Drawdown Type No DLL Watch 90-sec explainer View plan & pricing Prime Clean & simple rules \u26a1\ufe0f 1 Minimum Day No Activation Fee No Consistency rule on Evaluat",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan Inc",
+    "snippet": "r payout caps \u26a1\ufe0f 7-Day Payout Drawdown locks at starting balance 40% Consistency Scaling Plan Included Up to $1,250 per payout Hard breach DLL Invite Only View plan & pricing Challenge selector Choose your account details in a step-by-step. Select Type Ev",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "amily total sim profits. Requested another payout sinc",
+    "snippet": "ut \u201cLessgggo\u201d View on Discord Apple Trader California +$75k with @fundedfamily total sim profits. Requested another payout since I qualified for just $6,000. This is what I know about live so far with FFF: -Sim profits are halted while in live... View on Twitter Brian Kim United State",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Its been about 6 weeks sinc",
+    "snippet": "profits are halted while in live... View on Twitter Brian Kim United State Its been about 6 weeks since I started... Its been about 6 weeks since I started and I put in my second payout request this morning. And it got approved the same day which is crazy. Overall i'd ...",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "e I started... Its been about 6 weeks sinc",
+    "snippet": "n live... View on Twitter Brian Kim United State Its been about 6 weeks since I started... Its been about 6 weeks since I started and I put in my second payout request this morning. And it got approved the same day which is crazy. Overall i'd ..... View on Trustpilot ! Red Bull Gre",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "yout request this morning. And it got approved the sa",
+    "snippet": "s since I started... Its been about 6 weeks since I started and I put in my second payout request this morning. And it got approved the same day which is crazy. Overall i'd ..... View on Trustpilot ! Red Bull Green Bear $21,900 Payout \u201cCongrats to FFF for 1 year anniversary. My first payout from F",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "unavailable to residents of certain countries for regulatory or compliance reasons, even where simulated accounts are av",
+    "snippet": "participation may require additional documentation and broker processing, and may be unavailable to residents of certain countries for regulatory or compliance reasons, even where simulated accounts are available. CFTC Rule 4.41: Hypothetical or simulated performance. Hypothetical or simulated performance results have certain limitations.",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "not available to residents of certain countries and regions, as listed in our Help Center (Restricted Countries / Region",
+    "snippet": "d fees set by that provider. Eligibility and restricted regions. FFF's services are not available to residents of certain countries and regions, as listed in our Help Center (Restricted Countries / Regions). It is your responsibility to ensure that your use of FFF's services complies with the laws of your jurisdiction. Accuracy. Funded Fu",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund of the fee, for example, if you cancel your Account or request the cancellation by e-mail, if you terminate the u",
+    "snippet": "or educational resources provided in connection therewith. You are not entitled to a refund of the fee, for example, if you cancel your Account or request the cancellation by e-mail, if you terminate the use of the Services prematurely (for example, fail to complete the Trading Challenge), you fail to meet the conditions of the Trading Ch",
+    "url": "https://www.fundedfuturesfamily.com:443/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refund of the fee or any part thereof is requested, Funded Futures Family is entitled, at its own discretion, to stop pr",
+    "snippet": "es, or other similar services), on the basis of which an annulment, cancellation, or refund of the fee or any part thereof is requested, Funded Futures Family is entitled, at its own discretion, to stop providing to you any Services and refuse any future provision of any Services. Any Data entered in your registration form can be checked,",
+    "url": "https://www.fundedfuturesfamily.com:443/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refund of any fees or costs, and all fees are final, non-cancelable, and non-refundable",
+    "snippet": "be terminated as of the date of the confirmation email. User is not entitled to any refund of any fees or costs, and all fees are final, non-cancelable, and non-refundable. Users may perform any simulated trading in the Trading Challenge other than any such transaction which constitutes Prohibited Conduct (as such term is defined below).",
+    "url": "https://www.fundedfuturesfamily.com:443/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refunds",
+    "snippet": "Sites and Services, including the Account and the Sites, without any compensation or refunds. Funded Futures Family is not responsible for trading or other investment activities performed by you or otherwise related to the Services in real trading on financial m",
+    "url": "https://www.fundedfuturesfamily.com:443/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading, has no daily loss limit, and includes the Premier+ Plan with no consistency rule(funded accounts bought fr",
+    "snippet": "ures prop firms? Funded Futures Family offers no activation fees on any plan, allows news trading, has no daily loss limit, and includes the Premier+ Plan with no consistency rule(funded accounts bought from September 9, 2026 carry a 40% consistency rule). It also supports commodity futures trading, continuously monitors accounts from day",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "News trading: Allowed Daily loss limit: None Premier+ Plan: No consistency rule on the evaluation Account monitoring: Co",
+    "snippet": "roval, and pays traders on a 90/10 profit split. Key features: Activation fees: None News trading: Allowed Daily loss limit: None Premier+ Plan: No consistency rule on the evaluation Account monitoring: Continuous from day one Payout approval: Instant for eligible accounts Profit split: 90/10 How much does it cost to get a funded futures ",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ears Anniversary\n Become a Funded Futures Trader",
+    "snippet": "Center Affiliate More Blog About Contact Us Login Get Funded Now Celebrating 2 Years Anniversary Become a Funded Futures Trader. No Hidden Rules. Trade your plan on a simulated account. Start Your Evaluation Join us Trustpilot Listed on Trustpilot 2847 reviews on Listed on Years Se",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "ears Serving Trader\n 2+ Years \n Traders in the family\n 50K+ Traders \n Verified Payouts Paid out as of Oct 2026\n 29M+ Pai",
+    "snippet": "ion Join us Trustpilot Listed on Trustpilot 2847 reviews on Listed on Years Serving Trader 2+ Years Traders in the family 50K+ Traders Verified Payouts Paid out as of Oct 2026 29M+ Paid Payout Time 24 hrs Or Less How It Works A Clear Path to Funded Trading Watch on Daily Payout Add-On Prefer more frequent payouts? Select plans offer a dai",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "ear Path to Funded Trading\n Watch on\n Daily Payout Add-On\n Prefer more frequent payouts? Select plans offer a daily payo",
+    "snippet": "Paid out as of Oct 2026 29M+ Paid Payout Time 24 hrs Or Less How It Works A Clear Path to Funded Trading Watch on Daily Payout Add-On Prefer more frequent payouts? Select plans offer a daily payout add-on. Plan rules still apply. Consistency Rules by Plan No consistency rule on Premier+ and Prime plan for evaluation phase. Read FAQs for m",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "ead FAQs for more details",
+    "snippet": "Rules by Plan No consistency rule on Premier+ and Prime plan for evaluation phase. Read FAQs for more details. No activation fee on any plan. No activation fee on any plan. Pass your evaluation and move straight to a funded account at no extra cost. Payout Experience A Better",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "ear Answers\n If a request can't be approved, we tell you which rule it missed so you know what to fix",
+    "snippet": "nt usually follows within 24 hours. Bank transfers can take 1 to 3 business days. Clear Answers If a request can't be approved, we tell you which rule it missed so you know what to fix. Plan Select your Path to Funded Trading Core Labs Velocity Built for fast first payouts \u26a1\ufe0f 3 Minimum Days Up to 90% Profit Split No Time Limits Flexible T",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Support@fundedfuturesfamily.com",
+    "snippet": "l Links Privacy Policy Terms & Conditions State of Incorporation California Email Support@fundedfuturesfamily.com Customer Service 888-700-6501 Important Disclosures General information only. All content provided by Funded Futures Family LLC (\"Funded Futures Family\" or \"FFF\"), wh",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 08HRS : 01M : 23S\n Hea",
+    "snippet": "00 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 08HRS : 01M : 23S Hear From The Family Funded traders, in their own words Get Funded Now Results vary by trader and aren't guaranteed. Shorts Funded Trader Testimonial Shorts Funded T",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "instant",
+    "snippet": "licly shares verified payout proof. Accounts are monitored continuously, so eligible payouts are approved instantly, and the full approval record is published on the payout data page . How much do prop firm traders make? How much you can make depends on your account size and tradin",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours",
+    "snippet": "tions. At Funded Futures Family, there are no activation fees, no hidden charges and payouts sent within 24 hours. How do prop firms work? Prop firms give skilled traders the chance to trade with the firm\u2019s money instead of their own. To earn a funded account, you first prove yours",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap\n 3 Minis (30 Micros)\n \n Invite Only \n View plan & pricing \n Payday\n Bigger account, bigger payout caps\n \u26a1\ufe0f 7-",
+    "snippet": "Day Payout No DLL Intraday Drawdown that never locks 25% Consistency No Lifetime Payout Cap 3 Minis (30 Micros) Invite Only View plan & pricing Payday Bigger account, bigger payout caps \u26a1\ufe0f 7-Day Payout Drawdown locks at starting balance 40% Consistency Scaling Plan Included Up to $1,250 per payout Hard breach DLL Invite Only View plan & p",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Max Payout $500 (Payouts 1-2) / $1,000 (3+) \n Funded Rules \n Offer for new users Claim 50% off your First Account + $250",
+    "snippet": "Target Between Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 08HRS : 01M : 23S Hear From The Family Funded traders, in their own words Get",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan Included\n Up to $1,250 per payout\n Hard breach DLL\n \n Invite Only \n View plan & pricing \n Challenge selecto",
+    "snippet": "r payout caps \u26a1\ufe0f 7-Day Payout Drawdown locks at starting balance 40% Consistency Scaling Plan Included Up to $1,250 per payout Hard breach DLL Invite Only View plan & pricing Challenge selector Choose your account details in a step-by-step. Select Type Evaluation Straight to Funded Labs Straight to Funded Plan S2F Standard S2F Accelerate ",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) \n Funded Rules \n Offer for new users Claim 50% off your Fi",
+    "snippet": "Limit None Profit Target Between Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 08HRS : 01M : 23S Hear From The Family Funded traders, in t",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC) and fees set by that provider",
+    "snippet": "arty payout provider, Rise (Riseworks), and may be subject to identity verification (KYC) and fees set by that provider. Eligibility and restricted regions. FFF's services are not available to residents of certain countries and regions, as listed in our Help Center (Restricted Countries",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee on any plan",
+    "snippet": "ule on Premier+ and Prime plan for evaluation phase. Read FAQs for more details. No activation fee on any plan. No activation fee on any plan. Pass your evaluation and move straight to a funded account at no extra cost. Payout Experience A Better Payout Experience Reviewed",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n No Buffer Needed\n No Consistency rule on Evaluation\n Customisable Drawdown Type\n No DLL\n \n Watch 90-sec ",
+    "snippet": "pricing Premier + Maximum flexibility for traders \u26a1\ufe0f 1 Minimum Day(FastPass) No Activation Fee No Buffer Needed No Consistency rule on Evaluation Customisable Drawdown Type No DLL Watch 90-sec explainer View plan & pricing Prime Clean & simple rules \u26a1\ufe0f 1 Minimum Day No Activation Fee No Consistency rule on Evaluation E-O-D Drawdown No DLL",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n No Consistency rule on Evaluation\n E-O-D Drawdown\n No DLL\n \n Watch 90-sec explainer View plan & pricing ",
+    "snippet": "ec explainer View plan & pricing Prime Clean & simple rules \u26a1\ufe0f 1 Minimum Day No Activation Fee No Consistency rule on Evaluation E-O-D Drawdown No DLL Watch 90-sec explainer View plan & pricing Straight to Funded No evaluation phase \u26a1\ufe0f No Evaluation Start on a sim funded account Intraday Drawdown Type for S2F Accelerate 25% consistency 5 ",
+    "url": "https://www.fundedfuturesfamily.com:443/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fees, no hidden charges and payouts sent within 24 hours",
+    "snippet": "ts are more valuable than failed evaluations. At Funded Futures Family, there are no activation fees, no hidden charges and payouts sent within 24 hours. How do prop firms work? Prop firms give skilled traders the chance to trade with the firm\u2019s money instead of their own. To earn a funded account, you first prove yours",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "activation fees on any plan",
+    "snippet": "t Funded Futures Family, your account is ready the moment you pass, and there are no activation fees on any plan. What is a futures prop firm? A futures prop firm lets you trade markets like the S&P 500, crude oil, and gold using the firm\u2019s money instead of risking your own. First",
+    "url": "https://www.fundedfuturesfamily.com/faq/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Futures",
+   "snippet": "approval: Instant for eligible accounts Profit split: 90/10 How much does it cost to get a funded futures account? At Funded Futures Family, you can start a funded futures evaluation for under $20. The evaluation fee is the only cost required to qualify for a funded accoun",
+   "url": "https://www.fundedfuturesfamily.com/faq/"
+  }
+ ],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Rithmic",
+  "WealthCharts"
+ ],
+ "assets": [
+  "FX",
+  "Gold",
+  "Silver",
+  "Oil",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "s 1 Mini (10 Micros) Max Drawdown $750 EOD (Never Locks) Daily Loss Limit None Profit Target Between Payouts $2,500 Payouts Daily Consistency Rule None Scaling Plan None Max Payout $5",
+  "out $500 (Payouts 1-2) / $1,000 (3+) Funded Rules Offer for new users Claim 50% off your First Account + $250 Payout Bonus View plan & pricing Coupon FIRST50 Offer ends in 08H",
+  "d Trader Testimonial Shorts Funded Trader Testimonial Shorts Funded Trader Testimonial Samgtrades $1,750 Payout \u201cLessgggo\u201d View on Discord Apple Trader California",
+  "got approved the same day which is crazy. Overall i'd ..... View on Trustpilot ! Red Bull Green Bear $21,900 Payout \u201cCongrats to FFF for 1 year anniversary. My first payout",
+  "ithin 24 hours! I look forward to continue doing business with this company. View on Trustpilot Arnyy $6,300 Payout \u201cHands down the best Propfirm\u201d View on Discord FAQ",
+  "aders develop skills. Get Funded Now How it Works Team 50+ Experts Since 2024 Year Countries Served 100+ Countries Who We Are Funded Futures Family started with a simple id"
+ ],
+ "errors": []
+}

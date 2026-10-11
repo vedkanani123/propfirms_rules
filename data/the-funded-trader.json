@@ -1,0 +1,12 @@
+{
+ "slug": "the-funded-trader",
+ "name": "The Funded Trader",
+ "category": "Forex/CFD",
+ "url": "https://thefundedtraderprogram.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:402:http-402"
+ ]
+}

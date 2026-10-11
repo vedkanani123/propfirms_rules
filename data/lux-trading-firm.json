@@ -1,0 +1,12 @@
+{
+ "slug": "lux-trading-firm",
+ "name": "Lux Trading Firm",
+ "category": "Specialist",
+ "url": "https://luxtradingfirm.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

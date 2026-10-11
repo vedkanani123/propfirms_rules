@@ -1,0 +1,439 @@
+{
+ "slug": "axi-select",
+ "name": "Axi Select",
+ "category": "Specialist",
+ "url": "https://axiselect.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.axi.com/int/funded-trader-program",
+   "kind": "home",
+   "chars": 15682
+  },
+  {
+   "url": "https://www.axi.com/int/legal-documentation/website-terms-conditions",
+   "kind": "page",
+   "chars": 13456
+  },
+  {
+   "url": "https://www.axi.com/int/our-edge/best-pricing-execution",
+   "kind": "page",
+   "chars": 9461
+  },
+  {
+   "url": "https://www.axi.com/int/company/about-axi",
+   "kind": "page",
+   "chars": 18530
+  },
+  {
+   "url": "https://www.axi.com/int/contact-us",
+   "kind": "page",
+   "chars": 6560
+  },
+  {
+   "url": "https://www.axi.com/int/trading-accounts",
+   "kind": "page",
+   "chars": 9880
+  },
+  {
+   "url": "https://www.axi.com/int/legal-documentation/complaints-handling",
+   "kind": "page",
+   "chars": 9795
+  },
+  {
+   "url": "https://www.axi.com/int/legal-documentation",
+   "kind": "page",
+   "chars": 5427
+  },
+  {
+   "url": "https://www.axi.com/int/legal-documentation/privacy-policy",
+   "kind": "page",
+   "chars": 25375
+  },
+  {
+   "url": "https://www.axi.com/th/funded-trader-program",
+   "kind": "page",
+   "chars": 85060
+  },
+  {
+   "url": "https://www.axi.com/pt/funded-trader-program",
+   "kind": "page",
+   "chars": 19339
+  },
+  {
+   "url": "https://www.axi.com/jp/funded-trader-program",
+   "kind": "page",
+   "chars": 11981
+  },
+  {
+   "url": "https://www.axi.com/int/partnerships/hybrid-program",
+   "kind": "page",
+   "chars": 8827
+  },
+  {
+   "url": "https://help.axi.com/en-US/axiv2--axicorp-prod",
+   "kind": "sub",
+   "chars": 23
+  },
+  {
+   "url": "https://help.axi.com/en-US/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 29
+  },
+  {
+   "url": "https://help.axi.com/en-US/axiv2--axicorp-prod",
+   "kind": "sub",
+   "chars": 23
+  },
+  {
+   "url": "https://help.axi.com/en-US/axiv2--axicorp-prod",
+   "kind": "subsitemap",
+   "chars": 23
+  }
+ ],
+ "page_count": 17,
+ "total_chars": 239487,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "7",
+    "snippet": "0,000 $100,000 $200,000 $500,000 $1,000,000 Your Profit Share 0% 40% 50% 60% 70% 80% Profit Target (Allocation Account) 7% 7% 7% 7% 7% - Stage Duration (Min Days) 30 60 60 60 60 - Trades Per Stage 20 40 50 50 50 - Leverage Up to 1000:1 100:1 100:1 100:1 100:1 100:1 Maximum Loss -7% -7% -7% -",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "7",
+    "snippet": "rades Per Stage 20 40 50 50 50 - Leverage Up to 1000:1 100:1 100:1 100:1 100:1 100:1 Maximum Loss -7% -7% -7% -7% -7% -10% Seed Minimum Equity $500 Edge Score 50 Max Funding Multiplier x10 Maximum Funding $5,000 Your Profit Share 0% Profit Target (",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "unt) - Stage Duration (Min Days) - Trades Per Stage - Leverage 100:1 Maximum Loss -10% Stage conditions, capital allocations and profit share percentages are indicative and subject to change. Payouts are processed on the 1st of every month. Capital figur",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "40",
+    "snippet": "Become a Hybrid Partner Earn up to $300 USD per each qualified client and up to 40% revenue share on every trade Sign up now Trustpilot Explore your earning potential Use the sliders to estimate your potential earnings from referring clients to Axi as a Hybr",
+    "url": "https://www.axi.com/int/partnerships/hybrid-program",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "henever you need them \u2014 setup, stage progression, Edge Score, anything. $200K + Largest single payout $ 600 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro M $1M traders Trusted by 60,000+ traders around the w",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1",
+    "snippet": "Free Funded Account - Forex & 650+ Markets, $1M - Axi Select Axi Your Edge Markets Trade Education Partnerships Our Company Open account Open account Trade with Confidence We support every step of your tradi",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "henever you need them \u2014 setup, stage progression, Edge Score, anything. $200K + Largest single payout $ 600 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro M $1M traders Trusted by 60,000+ traders around the",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "600",
+    "snippet": "tage progression, Edge Score, anything. $200K + Largest single payout $ 600 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro M $1M traders Trusted by 60,000+ traders around the world Yoleny G. Pro M $1,000,0",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "14",
+    "snippet": "$200K + Largest single payout $ 600 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro M $1M traders Trusted by 60,000+ traders around the world Yoleny G. Pro M $1,000,000 funded Sofea Pro M $1,000,000 funde",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "+ Pro M $1M traders Trusted by 60,000+ traders around the world Yoleny G. Pro M $1,000,000 funded Sofea Pro M $1,000,000 funded Kayan Pro M $1,000,000 funded /// Six funding stages Your path to $1 million. Each stage unlocks more Axi capit",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "target window. Seed Incubation Acceleration Pro Pro 500 Pro M Minimum Equity $500 $1,000 $2,000 $5,000 $10,000 $20,000 Edge Score 50 60 70 90 90 90 Max Funding Multiplier x10 x10 x25 x40 x50 x50 Maximum Funding $5,000 $20,000 $100,000 $200,000 $500,00",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "ubation Acceleration Pro Pro 500 Pro M Minimum Equity $500 $1,000 $2,000 $5,000 $10,000 $20,000 Edge Score 50 60 70 90 90 90 Max Funding Multiplier x10 x10 x25 x40 x50 x50 Maximum Funding $5,000 $20,000 $100,000 $200,000 $500,000 $1,000,000 Your Profit Sha",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "20,00",
+    "snippet": "Acceleration Pro Pro 500 Pro M Minimum Equity $500 $1,000 $2,000 $5,000 $10,000 $20,000 Edge Score 50 60 70 90 90 90 Max Funding Multiplier x10 x10 x25 x40 x50 x50 Maximum Funding $5,000 $20,000 $100,000 $200,000 $500,000 $1,000,000 Your Profit Share 0% 40",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "90 90 Max Funding Multiplier x10 x10 x25 x40 x50 x50 Maximum Funding $5,000 $20,000 $100,000 $200,000 $500,000 $1,000,000 Your Profit Share 0% 40% 50% 60% 70% 80% Profit Target (Allocation Account) 7% 7% 7% 7% 7% - Stage Duration (Min Days) 30 60 60 60 60 - Tra",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "x Funding Multiplier x10 x10 x25 x40 x50 x50 Maximum Funding $5,000 $20,000 $100,000 $200,000 $500,000 $1,000,000 Your Profit Share 0% 40% 50% 60% 70% 80% Profit Target (Allocation Account) 7% 7% 7% 7% 7% - Stage Duration (Min Days) 30 60 60 60 60 - Trades Per S",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "500,00",
+    "snippet": "Multiplier x10 x10 x25 x40 x50 x50 Maximum Funding $5,000 $20,000 $100,000 $200,000 $500,000 $1,000,000 Your Profit Share 0% 40% 50% 60% 70% 80% Profit Target (Allocation Account) 7% 7% 7% 7% 7% - Stage Duration (Min Days) 30 60 60 60 60 - Trades Per Stage 20 4",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ur Edge Discover Your Edge Axi by the numbers* Annual trading volume $5T Users since 2007 1.4m Countries served 100+ Offices 9 People 500+ *AxiTrader Limited is part of the Axi Group of Companies, which operates its business globall",
+    "url": "https://www.axi.com/int/company/about-axi",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "oon as they are public Commodities Diversify with hard and soft commodity markets Cryptocurrencies Trade digital assets, explore crypto options TradFi Markets\ud83d\udd25 Soon Trade Gold, Stocks, Indices and Commodities 24x7 Payments Payment Methods Fees & Cha",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "brand names attributed to us (such as AxiTrader) as the context requires unless otherwise stated. Your access to and use of this website is subject to these terms and conditions, our Client Agreement, and any notices, disclaimers or other terms and condition",
+    "url": "https://www.axi.com/int/legal-documentation/website-terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "2007 Founded in Sydney, Australia. 2012-2014 Opened a branch in London, authorised and regulated by the Financial Conduct Authority (FCA). Winner of 7 awards*, including: Best IB & Affiliate Programme Worldwide; Best Forex Broker Asia 2015-2017",
+    "url": "https://www.axi.com/int/company/about-axi",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ding activities in one place. Download the app now and experience it for yourself! Scan to download the App on iOS or Android. Get the App Download on the App Store Get it on Google Play Essentials Open Account Payment Methods Download MT4 Download MT5 Download Axi App Trad",
+    "url": "https://www.axi.com/int/our-edge/best-pricing-execution",
+    "kind": "page"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "ounded in Sydney, Australia. 2012-2014 Opened a branch in London, authorised and regulated by the Financial Conduct Authority (FCA). Winner of 7 awards*, including: Best IB & Affiliate Programme Worldwide; Best Forex Broker Asia 2015-2017 Expanded globally in multiple regions. Surpassed monthly",
+    "url": "https://www.axi.com/int/company/about-axi",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "Description Essential Cookies Necessary for the operation of our websites, enabling basic functions like page navigation and access to secure areas. Performance Cookies Collect information about how visitors use our websites, helping us improve user experience and optimize our services. Functional Cookies Enable o",
+    "url": "https://www.axi.com/int/legal-documentation/privacy-policy",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ement will be subject to rigorous testing, audits, and compliance checks to prevent unfair outcomes, biases, or misuse of personal data. Contact Us For questions about this Privacy Notice, or to make a complaint about the way we handle your personal information, contact us: Privacy Officer Axi",
+    "url": "https://www.axi.com/int/legal-documentation/privacy-policy",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "1878d73b6\\\"],\\\"AccordionContent\\\"]\\n8e:T25aa,.cc-40-60-0d1-topRight-backdrop{-webkit-mask:linear-gradient(white, white) 0 0 / calc(100% - 44px + 1px) 100% no-repeat, linear-gradient(white, white) 0 43px / 100% calc(100% - 44px + 1px) no-repeat, url(\\\"data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%",
+    "url": "https://www.axi.com/th/funded-trader-program",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Trade Sa",
+    "snippet": "g journey Pricing and Execution Transparent pricing with fast, reliable execution Trade Safely Advanced security to protect your trading Award-Winning Service Recognised for excellence in trading Trading Edge Giving you more to trade your edge CFDS Fo",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "MT4 Multi-Account Manag",
+    "snippet": "Hybrid Programme New Combine CPA and revenue share in one flexible partner model MT4 Multi-Account Manager Manage multiple client accounts with advanced allocation tools MT4 PAMM Manager Become a fund manager and share the profits About Axi Learn more about Axi's mis",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "Manag",
+    "snippet": "bine CPA and revenue share in one flexible partner model MT4 Multi-Account Manager Manage multiple client accounts with advanced allocation tools MT4 PAMM Manager Become a fund manager and share the profits About Axi Learn more about Axi's mission and",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "MT4 PAMM Manag",
+    "snippet": "lti-Account Manager Manage multiple client accounts with advanced allocation tools MT4 PAMM Manager Become a fund manager and share the profits About Axi Learn more about Axi's mission and values Sponsorship Explore our sponsorship and partnerships Corporate",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "Become a fund manag",
+    "snippet": "r Manage multiple client accounts with advanced allocation tools MT4 PAMM Manager Become a fund manager and share the profits About Axi Learn more about Axi's mission and values Sponsorship Explore our sponsorship and partnerships Corporate Social Responsibility",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "Progress through six stag",
+    "snippet": "Select The 1st free funded trading account with up to $1 million USD in funding Progress through six stages. Get backed with up to $1M of our capital. Keep up to 80% of your profits. Free to join. Join Axi Select /// Become a funded trader Seeing the trader in you No",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "Six Progressive Stag",
+    "snippet": "nded trader community. Everything you need to grow. Keep up to 80% of your profits: Six Progressive Stages, Automatic Payouts on the 1st of every month - no exceptions Real support from day one: Our team is there whenever you need them \u2014 setup, stage progression, Edge Score",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "setup, stag",
+    "snippet": "no exceptions Real support from day one: Our team is there whenever you need them \u2014 setup, stage progression, Edge Score, anything. $200K + Largest single payout $ 600 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "25417",
+    "snippet": "or \u2018AxiTrader\u2019 in this Privacy Policy is a reference to AxiTrader Limited (Business Company Number 25417 BC 2019) and the brand names attributed to us (such as AxiTrader) as the context requires unless otherwise stated. Your access to and use of this website is subject to",
+    "url": "https://www.axi.com/int/legal-documentation/website-terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eading market indices globally\n Shares\n Trade stocks from leading global companies\n ETFs\n Trending\n Broad exposure with ",
+    "snippet": "CFDS Forex Access forex pairs and trade in markets 24/5 Indices Invest in key leading market indices globally Shares Trade stocks from leading global companies ETFs Trending Broad exposure with exchange-traded funds Upcoming IPOs New Trade the biggest IPOs as soon as they are public Commodities Diversify with hard and soft commodity marke",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "earn trading with free tutorials and resources\n Free eBooks\n Discover valuable trading strategies\n Blog\n Access trading ",
+    "snippet": "Schedule Futures CFD Contract Rollover Trading Holidays Calendar Axi Academy Learn trading with free tutorials and resources Free eBooks Discover valuable trading strategies Blog Access trading guides, technical analysis and market news Help Centre Our Help Centre will answer all your questions about trading with Axi Introducing Brokers E",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "Earn commissions by referring clients\n Affiliate Programme\n Popular\n Promote and earn easily with flexible rewards\n Hybr",
+    "snippet": "Centre will answer all your questions about trading with Axi Introducing Brokers Earn commissions by referring clients Affiliate Programme Popular Promote and earn easily with flexible rewards Hybrid Programme New Combine CPA and revenue share in one flexible partner model MT4 Multi-Account Manager Manage multiple client accounts with adv",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "earn more about Axi's mission and values\n Sponsorship\n Explore our sponsorship and partnerships\n Corporate Social Respon",
+    "snippet": "tools MT4 PAMM Manager Become a fund manager and share the profits About Axi Learn more about Axi's mission and values Sponsorship Explore our sponsorship and partnerships Corporate Social Responsibility Discover Axi's commitment to social impact Investor Relations Building innovation and strength for our partners Company News Read about ",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   },
+   {
+    "value": "ead about the latest Axi news and events\n Careers\n Find job opportunities and join our team\n Contact Us\n Get in touch wi",
+    "snippet": "nvestor Relations Building innovation and strength for our partners Company News Read about the latest Axi news and events Careers Find job opportunities and join our team Contact Us Get in touch with our support team Your Edge Markets Trade Education Partnerships Our Company Home Trade Axi Select The 1st free funded trading account",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "This may include details of visits, pages viewed, user location, and server address/IP address. Interaction and behavioural information Your interactions with us, including your queries or complaints, opt-ins to receive marketing surveys and communications, as wel",
+    "url": "https://www.axi.com/int/legal-documentation/privacy-policy",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "success@axi.com",
+    "snippet": "act our Client Services team through the contact details below: Axi Via Email: success@axi.com Other contact options CMG Via Email: support@cmgau.com Via Phone: +61 2 4036 3165 OFM Via Email: clientservices@ofmarkets.com Via Phone: +44 (0) 203 544 9646",
+    "url": "https://www.axi.com/int/legal-documentation/complaints-handling",
+    "kind": "page"
+   },
+   {
+    "value": "support@cmgau.com",
+    "snippet": "elow: Axi Via Email: success@axi.com Other contact options CMG Via Email: support@cmgau.com Via Phone: +61 2 4036 3165 OFM Via Email: clientservices@ofmarkets.com Via Phone: +44 (0) 203 544 9646 Investigation On receipt of your complaint our staff will",
+    "url": "https://www.axi.com/int/legal-documentation/complaints-handling",
+    "kind": "page"
+   },
+   {
+    "value": "clientservices@ofmarkets.com",
+    "snippet": "CMG Via Email: support@cmgau.com Via Phone: +61 2 4036 3165 OFM Via Email: clientservices@ofmarkets.com Via Phone: +44 (0) 203 544 9646 Investigation On receipt of your complaint our staff will discuss the issue with you and, if required, will complete an investigation",
+    "url": "https://www.axi.com/int/legal-documentation/complaints-handling",
+    "kind": "page"
+   },
+   {
+    "value": "privacy@axi.com",
+    "snippet": "the way we handle your personal information, contact us: Privacy Officer Axi Group privacy@axi.com For specific inquiries related to your region: EU Residents : compliance.eu@axi.com UK Residents : compliance.uk@axi.com Australia and New Zealand Residents : pri",
+    "url": "https://www.axi.com/int/legal-documentation/privacy-policy",
+    "kind": "page"
+   },
+   {
+    "value": "compliance.eu@axi.com",
+    "snippet": "privacy@axi.com For specific inquiries related to your region: EU Residents : compliance.eu@axi.com UK Residents : compliance.uk@axi.com Australia and New Zealand Residents : privacy@axi.com UAE/DIFC Clients: privacy@axi.com If you are not satisfied with our respo",
+    "url": "https://www.axi.com/int/legal-documentation/privacy-policy",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fees",
+    "snippet": "d trader with Axi Select A capital allocation program with no registration and no monthly fees. Up to $1 million USD in funding per trader. 100% free to join. /2026 LATAM Best Broker for Latam Global Forex Awards / 2026 ASIA Introducer IB Program Global Fo",
+    "url": "https://www.axi.com/int/funded-trader-program",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "3-Step",
+   "snippet": "es reflect Axi's contribution on top of your own funds. /// How to join Axi Select Get started in three steps. Join Axi Open a live trading account with Axi. The programme is free to join with no sign-up or membership fees. Your existing Axi account qualifies autom",
+   "url": "https://www.axi.com/int/funded-trader-program"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "CFD",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "est single payout $ 600 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro M $1M traders Trusted by 60,000+ traders around the world Yoleny G. P",
+  "0 M+ Total funds allocated to traders $ 14 M+ Total paid out to traders 12 + Pro M $1M traders Trusted by 60,000+ traders around the world Yoleny G. Pro M $1,000,000 funded So",
+  "wn from a two-person startup to a well-respected global trading brand, valued by over 1.4 million traders* in 100+ countries. *Axi Group of Companies. Trustpilot Built by traders,",
+  "Your Edge Discover Your Edge Axi by the numbers* Annual trading volume $5T Users since 2007 1.4m Countries served 100+ Offices 9 People 500+ *AxiTrader Limited",
+  "+ Maior pagamento individual $ 600 M+ Total de fundos alocados aos traders $ 14 M+ Total pago aos traders 12 + Traders Pro M de US$ 1M Confiada por + 60.000 traders ao redor do",
+  "de fundos alocados aos traders $ 14 M+ Total pago aos traders 12 + Traders Pro M de US$ 1M Confiada por + 60.000 traders ao redor do mundo Yoleny G. Pro M US$ 1.000.000 financ"
+ ],
+ "errors": []
+}

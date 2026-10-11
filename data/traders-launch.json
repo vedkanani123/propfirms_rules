@@ -1,0 +1,518 @@
+{
+ "slug": "traders-launch",
+ "name": "Traders Launch",
+ "category": "Forex/CFD",
+ "url": "https://traderslaunch.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://traderslaunch.com/",
+   "kind": "home",
+   "chars": 6608
+  },
+  {
+   "url": "https://traderslaunch.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 943
+  },
+  {
+   "url": "https://traderslaunch.com/payout-rules",
+   "kind": "page",
+   "chars": 2690
+  },
+  {
+   "url": "https://traderslaunch.com/pricing",
+   "kind": "page",
+   "chars": 4203
+  },
+  {
+   "url": "https://traderslaunch.com/futures/rules",
+   "kind": "page",
+   "chars": 3156
+  },
+  {
+   "url": "https://traderslaunch.com/crypto/rules",
+   "kind": "page",
+   "chars": 2490
+  },
+  {
+   "url": "https://traderslaunch.com/faq",
+   "kind": "page",
+   "chars": 3044
+  },
+  {
+   "url": "https://traderslaunch.com/terms",
+   "kind": "page",
+   "chars": 23050
+  },
+  {
+   "url": "https://traderslaunch.com/community-partner-program",
+   "kind": "page",
+   "chars": 6827
+  }
+ ],
+ "page_count": 9,
+ "total_chars": 53019,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "ew legacy accounts \u2193 Pricing Choose your profit split to get started Futures 100K 80 % Profit Split $100,000 Starting Capital $159 One-time fee Profit Target: $2,000 Max Drawdown: $1,000 EOD - Locks at Starting Balance Starting Size: 2 Mini or 20 Micros Scale up t",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "55",
+    "snippet": "or 80% above. NYC trading hours: 9:30am\u20134:00pm ET. Legacy pricing and rules apply. 55 % 80 % Futures 100K Legacy NYC 80 % Profit Split $100,000 Starting Capital $99 One-time fee Profit Target: $2,000 Max Drawdown: $1,000 EOD - Locks at Starting Balance Starting Size: 5 Micros Scale up to 15 mini co",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "60",
+    "snippet": "nal Fees Once Funded Account Details Get Funded Futures Pricing Snapshot Choose a 60 % profit split from $99 or an 80% profit split from $159 . Legacy NYC accounts are listed separately. Crypto Pricing Snapshot Crypto accounts start at $20 and range up to $199 for the $20,000 account. Quick Answer",
+    "url": "https://traderslaunch.com/pricing",
+    "kind": "page"
+   },
+   {
+    "value": "15",
+    "snippet": "e, tracked automatically in your affiliate portal. Commission per Referred Purchase 15% Standard Rate $100K \u00b7 Legacy NYC \u00b7 80% Split $99 Evaluation Fee $14.85 / Sale $200K \u00b7 80% Split $299 Evaluation Fee $44.85 / Sale $300K \u00b7 80% Split $599 Evaluation Fee $89.85 / Sale 30 purchases of $200K fu",
+    "url": "https://traderslaunch.com/community-partner-program",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "ion Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eva",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "15% Standard Rate $100K \u00b7 Legacy NYC \u00b7 80% Split $99 Evaluation Fee $14.85 / Sale $200K \u00b7 80% Split $299 Evaluation Fee $44.85 / Sale $300K \u00b7 80% Split $599 Evaluation Fee $89.85 / Sale 30 purchases of $200K futures accounts ( $299 ) in a month puts $",
+    "url": "https://traderslaunch.com/community-partner-program",
+    "kind": "page"
+   },
+   {
+    "value": "300",
+    "snippet": "Evaluation Fee $14.85 / Sale $200K \u00b7 80% Split $299 Evaluation Fee $44.85 / Sale $300K \u00b7 80% Split $599 Evaluation Fee $89.85 / Sale 30 purchases of $200K futures accounts ( $299 ) in a month puts $1,345.50 in your pocket - before repeat purchases. Il",
+    "url": "https://traderslaunch.com/community-partner-program",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "0",
+    "snippet": "ncy Daily Payout Caps None Consistency Rules (Funded) None Activation Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily.",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ion Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Ev",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "downside stops moving. You Passed Buffer account opens automatically. Profit target $2,000 above start EOD floor locks at Starting balance On pass Buffer account created automatically Example trading timeframe - evaluations can be passed in as little as",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "\u2193 Pricing Choose your profit split to get started Futures 100K 80 % Profit Split $100,000 Starting Capital $159 One-time fee Profit Target: $2,000 Max Drawdown: $1,000 EOD - Locks at Starting Balance Starting Size: 2 Mini or 20 Micros Scale up to 15 mini",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "159",
+    "snippet": "t split to get started Futures 100K 80 % Profit Split $100,000 Starting Capital $159 One-time fee Profit Target: $2,000 Max Drawdown: $1,000 EOD - Locks at Starting Balance Starting Size: 2 Mini or 20 Micros Scale up to 15 mini contracts No Additional",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "ional Fees Once Funded Account Details Get Funded Futures 200K 80 % Profit Split $200,000 Starting Capital $299 One-time fee Profit Target: $4,000 Max Drawdown: $2,000 EOD - Locks at Starting Balance Starting Size: 4 Mini or 40 Micros Scale up to 15 mini",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "299",
+    "snippet": "nt Details Get Funded Futures 200K 80 % Profit Split $200,000 Starting Capital $299 One-time fee Profit Target: $4,000 Max Drawdown: $2,000 EOD - Locks at Starting Balance Starting Size: 4 Mini or 40 Micros Scale up to 15 mini contracts No Additional",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,00",
+    "snippet": "K 80 % Profit Split $200,000 Starting Capital $299 One-time fee Profit Target: $4,000 Max Drawdown: $2,000 EOD - Locks at Starting Balance Starting Size: 4 Mini or 40 Micros Scale up to 15 mini contracts No Additional Fees Once Funded Account Details Get",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300,00",
+    "snippet": "ional Fees Once Funded Account Details Get Funded Futures 300K 80 % Profit Split $300,000 Starting Capital $599 One-time fee Profit Target: $6,000 Max Drawdown: $3,000 EOD - Locks at Starting Balance Starting Size: 6 Mini or 60 Micros Scale up to 15 mini",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "599",
+    "snippet": "nt Details Get Funded Futures 300K 80 % Profit Split $300,000 Starting Capital $599 One-time fee Profit Target: $6,000 Max Drawdown: $3,000 EOD - Locks at Starting Balance Starting Size: 6 Mini or 60 Micros Scale up to 15 mini contracts No Additional",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,00",
+    "snippet": "K 80 % Profit Split $300,000 Starting Capital $599 One-time fee Profit Target: $6,000 Max Drawdown: $3,000 EOD - Locks at Starting Balance Starting Size: 6 Mini or 60 Micros Scale up to 15 mini contracts No Additional Fees Once Funded Account Details Get",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "$300,000 Starting Capital $599 One-time fee Profit Target: $6,000 Max Drawdown: $3,000 EOD - Locks at Starting Balance Starting Size: 6 Mini or 60 Micros Scale up to 15 mini contracts No Additional Fees Once Funded Account Details Get Funded No Consiste",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "EOD",
+    "snippet": "drawdown floor trails you up, then locks at your starting balance . Account equity EOD drawdown floor $100k starting balance Profit target You Passed Buffer account opens automatically. Floor Locks Here Your downside stops moving. 99.0k 99.5k 100k Start 100.5k",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules\n Daily Payouts\n No Payout Caps\n Get Exclusive Access\n Exclusive Discounts & Giveaways\n J",
+    "snippet": "Day After That. Get Funded Loading independent reviews... Listed On PropScore No Consistency Rules Daily Payouts No Payout Caps Get Exclusive Access Exclusive Discounts & Giveaways Join Discord Or Get Email Updates Subscribe Why Traders Switch to Us Rules are published before you pay and don't change after. Traders Launch Payout Frequency",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules (Funded)\n None \n Activation Fees\n $0 \n Drawdown Type\n EOD only \n See Hundreds of Verifie",
+    "snippet": "don't change after. Traders Launch Payout Frequency Daily Payout Caps None Consistency Rules (Funded) None Activation Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a st",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules\n Trade your way once funded\n Daily Payouts\n Request a payout any day you profit\n No Payo",
+    "snippet": "to 15 mini contracts No Additional Fees Once Funded Account Details Get Funded No Consistency Rules Trade your way once funded Daily Payouts Request a payout any day you profit No Payout Caps Withdraw your profits in full Legacy accounts \u00b7 NYC Legacy NYC accounts remain available to purchase with their existing rules. For our standard acc",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules in Funded \u2022 Zero Fees Once Funded\n Get Funded in One Week",
+    "snippet": "d Paid. All in One Week. Daily Payouts \u2022 No Time Restrictions \u2022 No Payout Caps \u2022 No Consistency Rules in Funded \u2022 Zero Fees Once Funded Get Funded in One Week. Not Now Get Funded Traders Launch | Futures Prop Firm & Funded Trading Accounts",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rules once funded No activation fees No additional fees once funded Payouts and funded account",
+    "snippet": "and become eligible for scaling opportunities No time restriction on withdrawals No consistency rules once funded No activation fees No additional fees once funded Payouts and funded account restrictions are subject to program rules and Terms Why This Matters Payout rules are one of the clearest ways to compare prop firms. Traders Launch ",
+    "url": "https://traderslaunch.com/payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule once funded No activation fees No additional fees once funded Payouts and funded account",
+    "snippet": "t Same-day payout processing when eligible No time restriction on withdrawals No 25%/consistency rule once funded No activation fees No additional fees once funded Payouts and funded account restrictions are subject to program rules and Terms Account Sizes $5,000 account: $20 one-time evaluation fee, $200 profit target, $200 max drawdown,",
+    "url": "https://traderslaunch.com/crypto/rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "to Us Rules are published before you pay and don't change after. Traders Launch Payout Frequency Daily Payout Caps None Consistency Rules (Funded) None Activation Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evalua",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Futures Crypto Traders Launch How It Works Results Affiliates FAQ Join Discord Sign In Get Funded Now 3 Days to Your First Payout. Then Every Day After That. Get Funded Loading",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "WISE",
+    "snippet": "ITY, OR OTHER TORT, BREACH OF ANY STATUTORY DUTY, INDEMNITY OR CONTRIBUTION, OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE LI",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Drawdown: $1,000 EOD - Locks at Starting Balance Starting Size: 2 Mini or 20 Micros Scale up to 15 mini contracts No Additional Fees Once Funded Account Details Get Funded Futures 200K 80 % Profit Split $200,000 Starting Capital $299 One-time fee Profit Target: $4,000 Max Drawdown: $2,000 EOD - Locks at Starting Balance Starting Size: 4 M",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "ate in, or recover through any class action, collective action, consolidated action, mass action, private attorney general action, or other representative proceeding. The arbitrator may award relief only in favor of the individual party seeking relief. If a court determines that this class action waiver is invalid as to a particular",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Select a stag",
+    "snippet": "Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eval Pass the Eval \u2192 2 Buffer Build a Buffer \u2192 $ Get Paid Get Paid Pass the Eval Hit the profit target. The drawdown floor trails you up, then locks",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Can I averag",
+    "snippet": "orms are available? How many accounts can I have? Are there restrictions on hedging? Can I average into positions? Are scalping and high-frequency trading allowed? Are there any prohibited trading rules? What are the payout rules? See all questions \u2192 Common Quest",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Account Manag",
+    "snippet": ") The Evaluation ( 14 ) Getting Funded ( 1 ) Payouts ( 3 ) Platforms & Trading ( 5 ) Account Management ( 1 ) What is Traders Launch? Who is Traders Launch for? How much does it cost to get started? Are there any activation fees or hidden costs? Are there any restrict",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "What is the buffer stag",
+    "snippet": "to use my own card to purchase? Is the 100K account truly one-step with no Phase 2? What is the buffer stage and how much do I need to build? What are the payout rules? How and when do I get paid? Do payouts affect my drawdown level? What trading platforms are available? What",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "pto evaluations with daily payouts. Traders Launch LLC",
+    "snippet": "n Discord and ask anything. Join Discord Full FAQ \u2192 Traders Launch Futures and crypto evaluations with daily payouts. Traders Launch LLC, Philadelphia. Quick Links Futures Trading Crypto Trading Results Affiliates FAQ Payout Rules Evaluation and funded accounts operate in a simulated trading environ",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Traders Launch LLC",
+    "snippet": "d payouts are not guaranteed; all payouts are subject to program rules. See Terms . Traders Launch LLC \u00b7 1700 Market Street Suite 1005, Philadelphia, PA 19103 \u00a9 2026 Traders Launch LLC . All rights reserved. Privacy Policy Terms of Service Your privacy choices Buy, Pa",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Traders Launch processes eligible payouts the sa",
+    "snippet": "AQ Join Discord Sign In Get Funded Now Payout rules Same-Day Payout Processing Traders Launch processes eligible payouts the same day. Futures funded accounts are eligible once the account is above +1% profit. Traders pause at $100,000 cumulative payouts and become eligible for scaling opportunit",
+    "url": "https://traderslaunch.com/payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "clean payout access rather than recurring funded-stag",
+    "snippet": "ounts both use one-time evaluation fees. Once funded, the program is designed around clean payout access rather than recurring funded-stage charges. Related Pages Futures rules: /futures/rules Crypto rules: /crypto/rules Proof and payout examples: /results Ready to compare accounts? Review the program de",
+    "url": "https://traderslaunch.com/payout-rules",
+    "kind": "page"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries? What are the profit targets? Is there a maximum time limit to pass? Is there a minimum number of t",
+    "snippet": "it cost to get started? Are there any activation fees or hidden costs? Are there any restricted countries? What are the profit targets? Is there a maximum time limit to pass? Is there a minimum number of trading days? How does the drawdown work? What is the 40% rule? Are there inactivity rules? What are the contract limits? What is the co",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "restricted countries? \n The Evaluation ( 14 ) What are the profit targets? \n Is there a maximum time limit to pass? \n Is",
+    "snippet": "ost to get started? Are there any activation fees or hidden costs? Are there any restricted countries? The Evaluation ( 14 ) What are the profit targets? Is there a maximum time limit to pass? Is there a minimum number of trading days? How does the drawdown work? What is the 40% rule? Are there inactivity rules? What are the contract limi",
+    "url": "https://traderslaunch.com/faq",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy\n Due to the nature of service, we do not provide refunds except in the case where fraudulent activity is i",
+    "snippet": "isions but is a platform to prove you have what it takes to be a consistent trader. Refund Policy Due to the nature of service, we do not provide refunds except in the case where fraudulent activity is involved. In the case of a visitor who may infringe or repeatedly, infringes our copyrights or other intellectual property rights or the r",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refund of any amounts previously paid",
+    "snippet": "r products. In the case of such termination, we will have no obligation to provide a refund of any amounts previously paid. If for any reason you are dissatisfied with your purchase, please allow us to resolve the issue by sending an email to support@traderslaunch.com. Please include the wo",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refund of unused fees previously paid for the Service",
+    "snippet": "he Service because you have breached this Agreement, you will not be entitled to any refund of unused fees previously paid for the Service. Even after your membership is terminated, certain sections of this Agreement will remain in effect. Non-Commercial Use by Members Participants in the Traders Launch p",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refund, any chargeback, any suspension or termination, or any other relationship or transaction between you and Traders ",
+    "snippet": "aluation, any SimFunded account, any trading activity, any payout, any purchase, any refund, any chargeback, any suspension or termination, or any other relationship or transaction between you and Traders Launch LLC shall be resolved by final and binding individual arbitration. The arbitration shall be administered by the American Arbitra",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaways\n Join Discord Or Get Email Updates \n Subscribe \n Why Traders Switch to Us\n Rules are published before you pay and",
+    "snippet": "Rules Daily Payouts No Payout Caps Get Exclusive Access Exclusive Discounts & Giveaways Join Discord Or Get Email Updates Subscribe Why Traders Switch to Us Rules are published before you pay and don't change after. Traders Launch Payout Frequency Daily Payout Caps None Consistency Rules (Funded) None Activation Fees $0 Drawdown Type EOD ",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear published rules",
+    "snippet": "ple path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eval Pass the Eval \u2192 2 Buffer Build a Buffer \u2192 $ Get Paid Get Paid Pass the Eval Hit the profit target. The drawdown floor trails yo",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eated automatically\n Example trading timeframe - evaluations can be passed in as little as 3 days",
+    "snippet": "$2,000 above start EOD floor locks at Starting balance On pass Buffer account created automatically Example trading timeframe - evaluations can be passed in as little as 3 days. Looking for NYC? View legacy accounts \u2193 Pricing Choose your profit split to get started Futures 100K 80 % Profit Split $100,000 Starting Capital $159 One-time f",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "high-frequency trading allowed? Are there any prohibited trading rules? What are the payout rules? \n See all questions \u2192",
+    "snippet": "e? Are there restrictions on hedging? Can I average into positions? Are scalping and high-frequency trading allowed? Are there any prohibited trading rules? What are the payout rules? See all questions \u2192 Common Questions Everything you need to know about the evaluation, payouts, and trading rules. All ( 29 ) Getting Started ( 5 ) The Eval",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "high-frequency trading allowed? Are there any prohibited trading rules? Do I need to use my own card to purchase? Is the",
+    "snippet": "t? Are there restrictions on hedging? Can I average into positions? Are scalping and high-frequency trading allowed? Are there any prohibited trading rules? Do I need to use my own card to purchase? Is the 100K account truly one-step with no Phase 2? What is the buffer stage and how much do I need to build? What are the payout rules? How ",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@traderslaunch.com",
+    "snippet": "fied with your purchase, please allow us to resolve the issue by sending an email to support@traderslaunch.com. Please include the words \"Dissatisfied Purchase\" in the subject of the email and we will promptly attempt to resolve the matter in your favor. Registration Information",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "legal@traderslaunch.com",
+    "snippet": "ur account, and a clear statement that you wish to opt out. Send opt-out notices to: legal@traderslaunch.com or Traders Launch LLC, 1700 Market St Suite 1005, Philadelphia, PA 19103. 8. Severability Except as otherwise stated in the class action waiver above, if any portion o",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "same day",
+    "snippet": "esults Affiliates FAQ Join Discord Sign In Get Funded Now Payout rules Same-Day Payout Processing Traders Launch processes eligible payouts the same day. Futures funded accounts are eligible once the account is above +1% profit. Traders pause at $100,000 cumulative payouts and become eligible for scaling opportunities.",
+    "url": "https://traderslaunch.com/payout-rules",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Caps\n Get Exclusive Access\n Exclusive Discounts & Giveaways\n Join Discord Or Get Email Updates \n Subscribe \n Why",
+    "snippet": "ndependent reviews... Listed On PropScore No Consistency Rules Daily Payouts No Payout Caps Get Exclusive Access Exclusive Discounts & Giveaways Join Discord Or Get Email Updates Subscribe Why Traders Switch to Us Rules are published before you pay and don't change after. Traders Launch Payout Frequency Daily Payout Caps None Consistency ",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Caps\n None \n Consistency Rules (Funded)\n None \n Activation Fees\n $0 \n Drawdown Type\n EOD only \n See Hundreds of V",
+    "snippet": "d before you pay and don't change after. Traders Launch Payout Frequency Daily Payout Caps None Consistency Rules (Funded) None Activation Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published ",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Caps\n Withdraw your profits in full\n Legacy accounts \u00b7 NYC Legacy NYC accounts remain available to purchase with",
+    "snippet": "Trade your way once funded Daily Payouts Request a payout any day you profit No Payout Caps Withdraw your profits in full Legacy accounts \u00b7 NYC Legacy NYC accounts remain available to purchase with their existing rules. For our standard accounts, choose 60 % or 80% above. NYC trading hours: 9:30am\u20134:00pm ET. Legacy pricing and rules apply",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Caps \u2022 No Consistency Rules in Funded \u2022 Zero Fees Once Funded\n Get Funded in One Week",
+    "snippet": "s, Get Funded, and Paid. All in One Week. Daily Payouts \u2022 No Time Restrictions \u2022 No Payout Caps \u2022 No Consistency Rules in Funded \u2022 Zero Fees Once Funded Get Funded in One Week. Not Now Get Funded Traders Launch | Futures Prop Firm & Funded Trading Accounts",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC before you can start trading the Evaluation Live Account",
+    "snippet": "Traders Launch Evaluation Funded Trading Program, requires every user to fill out a KYC before you can start trading the Evaluation Live Account. Each user will automatically get all necessary applications sent to them by email. Funding is conditional on meeting the stipulated simulated performance goals provide",
+    "url": "https://traderslaunch.com/terms",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fees\n $0 \n Drawdown Type\n EOD only \n See Hundreds of Verified Trader Payouts \u2192 \n $100K Futures Evaluation - e",
+    "snippet": "h Payout Frequency Daily Payout Caps None Consistency Rules (Funded) None Activation Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eval Pass the ",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "monthly fees",
+    "snippet": "valuation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eval Pass the Eval \u2192 2 Buffer Build a Buffer \u2192 $ Get Paid Get Paid Pass the Eval Hit the profit target. The d",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fees or hidden costs? How does the drawdown work? Is there a maximum time limit to pass? What trading platfor",
+    "snippet": "You Decide Rules laid out before you pay How and when do I get paid? Are there any activation fees or hidden costs? How does the drawdown work? Is there a maximum time limit to pass? What trading platforms are available? How many accounts can I have? Are there restrictions on hedging? Can I average into positions? Are scalping and high-fr",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fees or hidden costs? Are there any restricted countries? What are the profit targets? Is there a maximum tim",
+    "snippet": "unch? Who is Traders Launch for? How much does it cost to get started? Are there any activation fees or hidden costs? Are there any restricted countries? What are the profit targets? Is there a maximum time limit to pass? Is there a minimum number of trading days? How does the drawdown work? What is the 40% rule? Are there inactivity rule",
+    "url": "https://traderslaunch.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fees\n None\n Funded fees\n No additional fees once funded\n Terms\n Rules and restrictions apply\n What Traders Sh",
+    "snippet": "t policy $100,000 scaling review threshold Withdrawal timing No time restriction Activation fees None Funded fees No additional fees once funded Terms Rules and restrictions apply What Traders Should Know Same-day payout processing when eligible Futures funded accounts are eligible once above +1% Traders pause at $100,000 cumulative payou",
+    "url": "https://traderslaunch.com/payout-rules",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "e any prohibited trading rules? Do I need to use my own card to purchase? Is the 100K account truly one-step with no Phase 2? What is the buffer stage and how much do I need to build? What are the payout rules? How and when do I get paid? Do payouts affect my drawdown",
+   "url": "https://traderslaunch.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "undreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eval Pass the Eval \u2192 2 Buffer Build a Buffer \u2192 $ Get Paid",
+   "url": "https://traderslaunch.com/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "mbers convert and succeed. Co-Branded Onboarding Custom Landing Pages Unique Leaderboard Formats Four Steps to Partnership 01 Apply Tell us about your community, platform, and what would be most valuable for your members. 02 Set Up We align on perks (suppor",
+   "url": "https://traderslaunch.com/community-partner-program"
+  },
+  {
+   "name": "Futures",
+   "snippet": "Activation Fees $0 Drawdown Type EOD only See Hundreds of Verified Trader Payouts \u2192 $100K Futures Evaluation - example path How the Path Works Two steps, then you get paid daily. No monthly fees. Clear published rules. Select a stage to explore 1 Pass Eval Pass th",
+   "url": "https://traderslaunch.com/"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "sing terms visible, with requests subject to program rules and Terms. Program Context Futures and crypto accounts both use one-time evaluation fees. Once funded, the program is designed around clean payout access rather than recurring funded-stage charges. Related Pages",
+   "url": "https://traderslaunch.com/payout-rules"
+  }
+ ],
+ "platforms": [
+  "Quantower"
+ ],
+ "assets": [
+  "Gold",
+  "Crypto",
+  "Oil",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "to program rules. See Terms . Traders Launch LLC \u00b7 1700 Market Street Suite 1005, Philadelphia, PA 19103 \u00a9 2026 Traders Launch LLC . All rights reserved. Privacy Policy Terms of",
+  "to program rules. See Terms . Traders Launch LLC \u00b7 1700 Market Street Suite 1005, Philadelphia, PA 19103 \u00a9 2026 Traders Launch LLC . All rights reserved. Privacy Policy Terms of",
+  "to program rules. See Terms . Traders Launch LLC \u00b7 1700 Market Street Suite 1005, Philadelphia, PA 19103 \u00a9 2026 Traders Launch LLC . All rights reserved. Privacy Policy Terms of",
+  "to program rules. See Terms . Traders Launch LLC \u00b7 1700 Market Street Suite 1005, Philadelphia, PA 19103 \u00a9 2026 Traders Launch LLC . All rights reserved. Privacy Policy Terms of",
+  "to program rules. See Terms . Traders Launch LLC \u00b7 1700 Market Street Suite 1005, Philadelphia, PA 19103 \u00a9 2026 Traders Launch LLC . All rights reserved. Privacy Policy Terms of",
+  "Trading ( 5 ) Account Management ( 1 ) Categories All 29 Getting Started 5 The Evaluation 14 Getting Funded 1 Payouts 3 Platforms & Trading 5 Account Management 1 Need more help"
+ ],
+ "errors": []
+}

@@ -1,0 +1,317 @@
+{
+ "slug": "funderblu",
+ "name": "FunderBlu",
+ "category": "Forex/CFD",
+ "url": "https://www.funderblu.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.funderblu.com/",
+   "kind": "home",
+   "chars": 10208
+  },
+  {
+   "url": "https://www.funderblu.com/rules",
+   "kind": "page",
+   "chars": 5042
+  },
+  {
+   "url": "https://www.funderblu.com/terms",
+   "kind": "page",
+   "chars": 11276
+  },
+  {
+   "url": "https://www.funderblu.com/about",
+   "kind": "page",
+   "chars": 6424
+  },
+  {
+   "url": "https://www.funderblu.com/contact",
+   "kind": "page",
+   "chars": 3119
+  }
+ ],
+ "page_count": 5,
+ "total_chars": 36073,
+ "findings": {
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "of your starting account size. Example : If your account begins at $100,000 and the max drawdown is 6%, your account must never fall below $94,000, regardless of whether the loss is from open trades or closed trades. Note: Gen Z Instant and Flex 1 Step plans follows a max",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "ated by real traders on Trustpilot . $1M+ In Rewards sent to Traders Get Up to 100% Reward Split Industry-leading reward share models. Scale Up to $1M in Allocations Oppurtunity for traders around the world. Lightning-Fast 24H Rewards Express 24-hour re",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1",
+    "snippet": "100% of the Reward Join the next generation of traders. Get a maximum allocation of $1M. Start Your Challenge View Trading Rules \u2605 4.8/5 rated by real traders on Trustpilot . $1M+ In Rewards sent to Traders Get Up to 100% Reward Split Industry-lead",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "344",
+    "snippet": "02 05:02 05:02 05:02 05:02 Live Rewards Feed Mahasin Goldar India +$ 344.9 Oluwaseun Adebayo Nigeria +$ 590 Tariq Mahmood Pakistan +$ 125 Zineb Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Has",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "590",
+    "snippet": "Live Rewards Feed Mahasin Goldar India +$ 344.9 Oluwaseun Adebayo Nigeria +$ 590 Tariq Mahmood Pakistan +$ 125 Zineb Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IG",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "125",
+    "snippet": "ldar India +$ 344.9 Oluwaseun Adebayo Nigeria +$ 590 Tariq Mahmood Pakistan +$ 125 Zineb Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Ais",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "410",
+    "snippet": "un Adebayo Nigeria +$ 590 Tariq Mahmood Pakistan +$ 125 Zineb Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muham",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "0 Tariq Mahmood Pakistan +$ 125 Zineb Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "5 Zineb Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 31",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "472",
+    "snippet": "410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Osei Ghana +$ 275",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "105",
+    "snippet": "istan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Osei Ghana +$ 275 Yuki Japan +$ 495 Tahj Miles Jamaica +$ 3",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "298",
+    "snippet": "Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Osei Ghana +$ 275 Yuki Japan +$ 495 Tahj Miles Jamaica +$ 374.24 Mohammad Aman United",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "748",
+    "snippet": "GBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Osei Ghana +$ 275 Yuki Japan +$ 495 Tahj Miles Jamaica +$ 374.24 Mohammad Aman United Arab Emirates +$ 512.87 IBRAHI",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "310",
+    "snippet": "ha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Osei Ghana +$ 275 Yuki Japan +$ 495 Tahj Miles Jamaica +$ 374.24 Mohammad Aman United Arab Emirates +$ 512.87 IBRAHIM SULAIMAN Nigeria +$ 224.13 Kw",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "trades or closed trades. Note: Gen Z Instant and Flex 1 Step plans follows a maximum trailing drawdown Consistency Rule To ensure long-term success, we track volume consistency. For Flex Instant accounts, no single trading day should exceed 30% of your total target.",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule To ensure long-term success, we track volume consistency",
+    "snippet": ". Note: Gen Z Instant and Flex 1 Step plans follows a maximum trailing drawdown Consistency Rule To ensure long-term success, we track volume consistency. For Flex Instant accounts, no single trading day should exceed 30% of your total target. This rule is Not Applicable for other plans (including Instant Live). Trad",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "opia +$ 423 Pay effortlessly with Crypto, Credit/Debit Cards, or your preferred local wallet Testimonials Trusted by Real Traders Worldwide From first-time challengers to consistent reward requests, trader",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Traders Get Up to 100% Reward Split Industry-leading reward share models. Scale Up to $1M in Allocations Oppurtunity for traders around the world. Lightning-Fast 24H Rewards Express 24-hour reward prmoise. Unlimited Trading Days Focus on quality, not clocks. Verified Trader Rewards Trusted by",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Absolute Sa",
+    "snippet": "ntact Us Sign In Home About Us Affiliate FAQs Blogs Contact Us Sign In Absolute Safety Trade the World\u2019s Markets. Keep 100% of the Reward Join the next generation of traders. Get a maximum allocation of $1M. Start Your Challenge View Trading Rules",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trusted by Thousa",
+    "snippet": "imited Trading Days Focus on quality, not clocks. Verified Trader Rewards Trusted by Thousands of Traders Worldwide Real traders, real rewards, and life-changing funding. 04:12 03:45 06:18 05:02 05:02 05:02 05:02 05:02 04:12 03:45",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Omar Hassa",
+    "snippet": "b Alami Morocco +$ 410 Ruoxi Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Ose",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "OGHOSA",
+    "snippet": "i Wei China +$ 1,002 Nazia ikram Pakistan +$ 200 Omar Hassan Egypt +$ 472.5 OGHOSA BRIGHT IGBINOMWANHIA Nigeria +$ 105 Aisha Kamau Kenya +$ 298 Muhammad Daud Pakistan +$ 748 Nadia Rahman Bangladesh +$ 310 Kwame Osei Ghana +$ 275 Yuki Jap",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s. The goal is to help traders scale without being limited",
+    "snippet": "raders access to funded accounts, fair trading conditions, and generous rewards splits. The goal is to help traders scale without being limited by their own capital. Is FunderBlu available worldwide? + Yes, traders from most countries can join, except for regions restricted by international regulations.",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Stop risking your own sa",
+    "snippet": "ng fair and accessible. Join Our Community Join Telegram Join Discord Stop risking your own savings. Start trading ours. We don\u2019t just fund you; we grow with you. Every time you hit a 10% target on your funded account, we increase your initial simulated capital by",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "target on your funded account, we inc",
+    "snippet": "art trading ours. We don\u2019t just fund you; we grow with you. Every time you hit a 10% target on your funded account, we increase your initial simulated capital by 25%, up to a maximum of $1,000,000. Join FunderBlu Today \u2192 At FunderBlu, our mission is to unlock trading potential by givin",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Al Sa",
+    "snippet": "elease Contact Unit 2A, 17/F, Glenealy Tower, No.1, Hong Kong Dubai Office: 705, Al Saqr Business Tower, Sheikh Zayed Road, Dubai, United Arab Emirates [email protected] Rate us on \u00a9 2026 \u2013 Funderblu Copyrights Privacy Policy Terms & Conditions Risk Dis",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "78933601",
+    "snippet": "ities on this platform are conducted solely by FunderBlu, incorporated in Hong Kong (Company No. 78933601), using virtual funds within a simulated trading environment. No real financial instruments are traded, and no real capital is placed at risk. FunderBlu is a company reg",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "REFUND POLICY \n 22",
+    "snippet": "MUNICATIONS, TRANSACTIONS, AND SIGNATURES 20. CALIFORNIA USERS AND RESIDENTS 21. REFUND POLICY 22. MISCELLANEOUS 23. CONTACT US 1. OUR SERVICES The Services are not intended for use in jurisdictions or countries where such use would be unlawful or subject us to re",
+    "url": "https://www.funderblu.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "REFUND POLICY\n Purchases of evaluation programs grant immediate access to digital Services",
+    "snippet": "nsumer Affairs, 1625 North Market Blvd., Suite N112, Sacramento, CA 95834, USA. 21. REFUND POLICY Purchases of evaluation programs grant immediate access to digital Services. By completing a purchase, you acknowledge and agree that: \u2022 You are purchasing access to a digital evaluation service. \u2022 Access to the evaluation is delivered immedi",
+    "url": "https://www.funderblu.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refundable once access has been granted",
+    "snippet": "tal and instantly accessible nature of the Services, all purchases are final and non-refundable once access has been granted. Refunds may be considered only under the following limited circumstances: \u2022 Duplicate payments \u2022 Technical errors preventing account creation \u2022 Billing errors attributa",
+    "url": "https://www.funderblu.com/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Refunds may be considered only under the following limited circumstances:\n\u2022 Duplicate payments\n\u2022 Technical errors preven",
+    "snippet": "e Services, all purchases are final and non-refundable once access has been granted. Refunds may be considered only under the following limited circumstances: \u2022 Duplicate payments \u2022 Technical errors preventing account creation \u2022 Billing errors attributable to us Refund requests must be submitted in writing to [email protected] within 7 ca",
+    "url": "https://www.funderblu.com/terms",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading \n 6",
+    "snippet": "rget is $450 target. 2. Breach Rules 3. After Phase 1 4. Additional Notes 5. News Trading 6. Final Disclaimer 1. General Rules 2. Breach Rules 3. After Phase 1 4. Additional Notes 5. News Trading 6. Final Disclaimer 1. General Rules Inactivity Limit To main",
+    "url": "https://www.funderblu.com/rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal traders on Trustpilot",
+    "snippet": "aximum allocation of $1M. Start Your Challenge View Trading Rules \u2605 4.8/5 rated by real traders on Trustpilot . $1M+ In Rewards sent to Traders Get Up to 100% Reward Split Industry-leading reward share models. Scale Up to $1M in Allocations Oppurtunity for traders ar",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading reward share models",
+    "snippet": "pilot . $1M+ In Rewards sent to Traders Get Up to 100% Reward Split Industry-leading reward share models. Scale Up to $1M in Allocations Oppurtunity for traders around the world. Lightning-Fast 24H Rewards Express 24-hour reward prmoise. Unlimited Trading D",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal traders, real rewards, and life-changing funding",
+    "snippet": "clocks. Verified Trader Rewards Trusted by Thousands of Traders Worldwide Real traders, real rewards, and life-changing funding. 04:12 03:45 06:18 05:02 05:02 05:02 05:02 05:02 04:12 03:45 06:18 05:02 05:02 05:02 05:02 05:02 04:12 03:45 06:18",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ea \n +$ 284",
+    "snippet": "nited Arab Emirates +$ 512.87 IBRAHIM SULAIMAN Nigeria +$ 224.13 Kwog South Korea +$ 284.86 Abeba Selassie Ethiopia +$ 423 Mahasin Goldar India +$ 344.9 Oluwaseun Adebayo Nigeria +$ 590 Tariq Mahmood Pakistan +$ 125 Zineb Alami Morocco +$ 410",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Traders Worldwide\n From first-time challengers to consistent reward requests, traders trust FunderBlu for clear rule",
+    "snippet": "pto, Credit/Debit Cards, or your preferred local wallet Testimonials Trusted by Real Traders Worldwide From first-time challengers to consistent reward requests, traders trust FunderBlu for clear rules and real oppurtinty. \u2605 1187 reviews on Trustpilot . How It Works Get Rewarded in 4 Steps A straightforward path from challenge to rewards,",
+    "url": "https://www.funderblu.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "to see the specific trading rules. Flex Gen Z (18-25 y/o) Instant Live NEW Turbo\u26a1 NEW Instant 1 Step 2 Step Flex Gen Z (18-25 y/o) Instant Live NEW Turbo\u26a1 NEW Instant 1 Step 2 Step Features Detail Every rule is transparently defined to ensure a f",
+   "url": "https://www.funderblu.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "the specific trading rules. Flex Gen Z (18-25 y/o) Instant Live NEW Turbo\u26a1 NEW Instant 1 Step 2 Step Flex Gen Z (18-25 y/o) Instant Live NEW Turbo\u26a1 NEW Instant 1 Step 2 Step Features Detail Every rule is transparently defined to ensure a fair and",
+   "url": "https://www.funderblu.com/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "r rules and real oppurtinty. \u2605 1187 reviews on Trustpilot . How It Works Get Rewarded in 4 Steps A straightforward path from challenge to rewards, no guesswork, no hidden steps. Select Your Challenge Pick the account size that fits your ambition.",
+   "url": "https://www.funderblu.com/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "mand rewards by default. Turbo Roadmap Step 1 Pay $24.99 Phase 1 Complete Step 3 Pay Later \u26a1 Funded FunderBlu Home About Us Affiliate FAQs Blogs Contact Us Sign In Home About Us Affiliate FAQs Blogs Contact Us Sign In Trading",
+   "url": "https://www.funderblu.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

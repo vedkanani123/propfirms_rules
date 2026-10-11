@@ -1,0 +1,364 @@
+{
+ "slug": "leeloo-trading",
+ "name": "Leeloo Trading",
+ "category": "Futures",
+ "url": "https://leelootrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://leelootrading.com/",
+   "kind": "home",
+   "chars": 15958
+  },
+  {
+   "url": "https://leelootrading.com/terms-of-service",
+   "kind": "page",
+   "chars": 61868
+  },
+  {
+   "url": "https://www.leelootrading.com/blog/leeloo-about-us",
+   "kind": "page",
+   "chars": 8498
+  },
+  {
+   "url": "https://leelootrading.com/contact",
+   "kind": "page",
+   "chars": 4790
+  },
+  {
+   "url": "https://support.leelootrading.com/Main/",
+   "kind": "sub",
+   "chars": 1940
+  }
+ ],
+ "page_count": 5,
+ "total_chars": 93058,
+ "findings": {
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "Asked Questions How do I sign up? Choose the practice account of your choice, i.e. $25k Aspire (3 contracts), $50k Launch (8 contracts), etc. Click \u201cBuy Now\u201d (Make sure you sign up with your full name exactly as it reads on your government issued identific",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ign up? Choose the practice account of your choice, i.e. $25k Aspire (3 contracts), $50k Launch (8 contracts), etc. Click \u201cBuy Now\u201d (Make sure you sign up with your full name exactly as it reads on your government issued identification; do not use a fake na",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "250",
+    "snippet": "Resources OUR ACCOUNTS Ready to start trading? get started today... Aspire, $250 per month $25,000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "OUR ACCOUNTS Ready to start trading? get started today... Aspire, $250 per month $25,000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "280",
+    "snippet": "trading? get started today... Aspire, $250 per month $25,000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contract",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "tarted today... Aspire, $250 per month $25,000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 p",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "320",
+    "snippet": "per month $25,000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 cont",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "405",
+    "snippet": "er month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts Leeloo\u2122 Where educatio",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "0 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts Leeloo\u2122 Where education meets aspiration",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "725",
+    "snippet": "month $100,000 | 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts Leeloo\u2122 Where education meets aspiration Hone your trading skills",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250,00",
+    "snippet": "| 12 contracts Cruise, $405 per month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts Leeloo\u2122 Where education meets aspiration Hone your trading skills and practice tradi",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "850",
+    "snippet": "month $150,000 | 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts Leeloo\u2122 Where education meets aspiration Hone your trading skills and practice trading with the potential to earn",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300,00",
+    "snippet": "| 15 contracts Burst, $725 per month $250,000 | 25 contracts Explode, $850 per month $300,000 | 30 contracts Leeloo\u2122 Where education meets aspiration Hone your trading skills and practice trading with the potential to earn real money with tr",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "counts... LB Bundle Aspire $25,000 3 minis | 30 micros $1,500 profit target $1500 Trailing Drawdown $520 month / non-recurring buy now Only one account within the bundle can qualify LB Bundle Launch $50,000 8 minis | 80 micros $3,000 profit target $2500 Trailing",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "ay or keep a near-depleted account active, is not permissible. How to sign up with Rise Works How do I qualify for a Performance Account? Meet your Profit Target while Managing Risk (do not let your account meet the drawdown). Trade for a minimum of 10",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "hey were or are Leeloo in the event they become involved in a Dispute with you. Otherwise, these Terms are only for the benefit of, and will only be enforceable by, you and Leeloo only and do not give rights to any third parties. 2. YOU AGREE TO OUR PR",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "n fees on a recurring basis. When you make any payment through our payment portals: PayPal, NMI, Stripe, you expressly authorize Leeloo to charge you a non-refundable convenience fee for each payment you make. Subscription fees and the amount charged may be s",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ledgebase It's the small things... Trade with Flexibility Swing Trade No Scaling No Daily Drawdown Trade Holidays & News Trade Full Contracts Multiple Accounts ONE login No maximum trading period trade with us Leeloo\u2122 Exclusives Leeloo\u2122 App to close trades, participate in contests and view trading progress from anywhere Leeloo\u2122 Loyalty Pr",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "any trading system or methodology is not necessarily indicative of future results. CFTC RULE 4.41 - Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ght, patent, and trademark laws, as well as various other intellectual property and unfair competition laws. (b) Copies of Leeloo Materials. You are authorized to view and retain a copy of pages of the Services only for your own personal, non-commercial use. You may also",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright and/or trademark owner, its agent, or the law; and \u2022 A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right th",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "R 2023 LE Leeloo Entry Raised to 50% Have you heard? A jump from 20% to 50% sounds massive! As it should. A 30% increase on your trading balance is a GREAT trading day and so is a 30% increase on your profits. Starting month 5, on... DEC 2022 Urgent. Watch the Late",
+    "url": "https://support.leelootrading.com/Main/",
+    "kind": "sub"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "We will help you create a packag",
+    "snippet": "r more information check out our FAQ Ask us about our Leeloo\u2122 Concierge Contact us! We will help you create a package specific to your budget and goals, inclusive of our specialty accounts Leeloo\u2122 Bundle , Entry , Weekly and Ignite . Aspire $25,000 3 minis | 30 micros $1,500 profit t",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e specific to your budget and goals, inc",
+    "snippet": "FAQ Ask us about our Leeloo\u2122 Concierge Contact us! We will help you create a package specific to your budget and goals, inclusive of our specialty accounts Leeloo\u2122 Bundle , Entry , Weekly and Ignite . Aspire $25,000 3 minis | 30 micros $1,500 profit target $1,500 Trailing Drawdown $250 mo",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Jigsa",
+    "snippet": ", Linux) Motive Wave (Mac, Windows, Linux) Multicharts ATAS Finamark Systems Jigsaw Daytradr Trade Navigator VolFix Bookmap X-Ray Investor/RT (Linnsoft) Sierra Charts OptimusFLOW How much are the Performance Account Fees? Once you qualify fo",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Meet your Profit Target while Manag",
+    "snippet": "le. How to sign up with Rise Works How do I qualify for a Performance Account? Meet your Profit Target while Managing Risk (do not let your account meet the drawdown). Trade for a minimum of 10 active U.S. Traded days . Check your traded days by downloading the Leeloo mobile app...",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Can I have multiple accounts at the sa",
+    "snippet": "Traded days . Check your traded days by downloading the Leeloo mobile app... Can I have multiple accounts at the same time? Yes. Traders are allowed to maintain multiple practice and Performance Accounts simultaneously. Traders are only allowed one Rithmic ID . When purchasing addit",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ensures all your accounts are associated with the sa",
+    "snippet": "nal practice accounts, make sure to login with your Leeloo account credentials. This ensures all your accounts are associated with the same Rithmic ID. Find out More What are the rules for a Performance Account (PA)? Trading Rules for Performance Accounts (PA) What are the key rules for Performance Ac",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "al starting balance, promoting responsible risk manag",
+    "snippet": "0% Rule: Daily profits in a PA should not exceed 30% of the net profit from the initial starting balance, promoting responsible risk management and consistent trading growth. 2. No Flipping Policy: Engaging in trades just to meet minimum activity requirements is discouraged. In PAs, less than 5% of trading",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Engag",
+    "snippet": "g responsible risk management and consistent trading growth. 2. No Flipping Policy: Engaging in trades just to meet minimum activity requirements is discouraged. In PAs, less than 5% of trading days should be 'flipping' days. Read more here: https://support.",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund when you Qualify\n Simple Rules\n \n \n Trading with Leeloo\u2122\n Many desire to invest in the market, but the dream of p",
+    "snippet": "view trading progress from anywhere Leeloo\u2122 Loyalty Program Leeloo Express\u2122, Full Refund when you Qualify Simple Rules Trading with Leeloo\u2122 Many desire to invest in the market, but the dream of personally investing for oneself can be unrealistic. Many lose money due to inexperience. The market is crowded with individuals who cannot develo",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy\n PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERM",
+    "snippet": "Trading, LLC dba Leeloo Trading Disclaimers, Terms of Use, Terms and Condition, and Refund Policy PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER. Leeloo Trading is for educational p",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "refunds",
+    "snippet": "CTION. By signing up for Leeloo Services, you understand and agree that there are no refunds. By purchasing a subscription or signing up for an Account, you understand that Leeloo does not control or create the data provided and does not control the amount of d",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "refundable convenience fee for each payment you make",
+    "snippet": "ent portals: PayPal, NMI, Stripe, you expressly authorize Leeloo to charge you a non-refundable convenience fee for each payment you make. Subscription fees and the amount charged may be subject to change. We may increase the subscription fees\u2014and bill your credit card or other payment method for such in",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eady to start trading? get started today",
+    "snippet": "og in PA Login / Payouts Home About Support Resources OUR ACCOUNTS Ready to start trading? get started today... Aspire, $250 per month $25,000 | 3 contracts Launch, $280 per month $50,000 | 8 contracts Climb, $320 per month $100,000 | 12 contracts Cruise, $405 per month $150,0",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn real money with trading performance payouts\n get started today \n \n \n \n \n \n Track all markets on TradingView \n \n \n \n",
+    "snippet": "ets aspiration Hone your trading skills and practice trading with the potential to earn real money with trading performance payouts get started today Track all markets on TradingView popular accounts foundation accounts bundle accounts (LB) Looking to get started? Meet some of our most popular accounts... LB Bundle Aspire $25,000 3 minis ",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eate a package specific to your budget and goals, inclusive of our specialty accounts Leeloo\u2122 Bundle , Entry , Weekly an",
+    "snippet": "check out our FAQ Ask us about our Leeloo\u2122 Concierge Contact us! We will help you create a package specific to your budget and goals, inclusive of our specialty accounts Leeloo\u2122 Bundle , Entry , Weekly and Ignite . Aspire $25,000 3 minis | 30 micros $1,500 profit target $1,500 Trailing Drawdown $250 month / recurring buy now This account ",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more",
+    "snippet": "Drawdown $250 month / recurring buy now This account is eligible for a reset $85 Learn more... Launch $50,000 8 minis | 80 micros $3,000 profit target $2,500 Trailing Drawdown $280 month / recurring buy now This account is eligible for a reset $85 Learn",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead more",
+    "snippet": "uy a bundle of accounts to trade in one go, good value, though only one can qualify read more... LB Bundle Aspire $25,000 3 minis | 30 micros $1,500 profit target $1500 Trailing Drawdown $520 month / non-recurring buy now Only one account within the bundle can",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@leelootrading.com",
+    "snippet": "ice of Dispute 821 North 27th #2035 Billings, Montana 59101 with a copy by email to support@leelootrading.com, with the subject heading: \u201cNotice of Dispute.\u201d We will send any Claimant Notice to you at the contact information we have for you. If a party receives a Claimant Noti",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "maximum payout amount (\u201cAccount Payout Cap\u201d) per user",
+    "snippet": "ole and absolute discretion, Leeloo is not obligated to pay the Trader more than the maximum payout amount (\u201cAccount Payout Cap\u201d) per user. Account Payout Caps are subject to change at any time. For more information on payouts, please contact us using the information in the \u201cContact Information\u201d section b",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "Payout Caps are subject to change at any time",
+    "snippet": "Trader more than the maximum payout amount (\u201cAccount Payout Cap\u201d) per user. Account Payout Caps are subject to change at any time. For more information on payouts, please contact us using the information in the \u201cContact Information\u201d section below. Trading activity is reviewed to identify behavio",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription is $88 per month per Performance Account\n The one-time fee is $250 per Performance Account\n \n Trading frequ",
+    "snippet": "you qualify for a Performance Account, there are two options available. The monthly subscription is $88 per month per Performance Account The one-time fee is $250 per Performance Account Trading frequency must be carefully considered when deciding between the monthly subscription and the one-time fee. The one-time fee is designed for acti",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription and the one-time fee",
+    "snippet": "Trading frequency must be carefully considered when deciding between the monthly subscription and the one-time fee. The one-time fee is designed for active traders that will trade their Performance Account a minimum of 12 trading days each calendar month. Deliberately placing minima",
+    "url": "https://leelootrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription, the subscription-based accounts are subject to the terms described in the \u201cSubscription and Automatic Rene",
+    "snippet": "all of the terms and conditions of these Terms of Use. Some Accounts may require a subscription, the subscription-based accounts are subject to the terms described in the \u201cSubscription and Automatic Renewal\u201d section below. If you do not agree to these Terms of Use, you may not sign up for an Account and you shall not have the right to use",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "SUBSCRIPTION AND AUTOMATIC RENEWAL TERMS\nCertain uses of the Services and certain types of Accounts require a monthly su",
+    "snippet": "n risk, and you are responsible for ensuring compliance with all local laws. 8. SUBSCRIPTION AND AUTOMATIC RENEWAL TERMS Certain uses of the Services and certain types of Accounts require a monthly subscription. When your subscription renews, it does NOT reset your Account or change your account balance. ALL SUBSCRIPTION-BASED SERVICES AN",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "subscription renews, it does NOT reset your Account or change your account balance",
+    "snippet": "he Services and certain types of Accounts require a monthly subscription. When your subscription renews, it does NOT reset your Account or change your account balance. ALL SUBSCRIPTION-BASED SERVICES AND ACCOUNTS WILL AUTOMATICALLY RENEW EVERY THIRTY (30) CALENDAR DAYS UNLESS YOU TERMINATE IN ACCORDANCE WITH THIS SECTION. By signing u",
+    "url": "https://leelootrading.com/terms-of-service",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradingView",
+  "NinjaTrader",
+  "Rithmic",
+  "ATAS"
+ ],
+ "assets": [
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

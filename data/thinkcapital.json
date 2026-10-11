@@ -1,0 +1,640 @@
+{
+ "slug": "thinkcapital",
+ "name": "ThinkCapital",
+ "category": "Forex/CFD",
+ "url": "https://thinkcapital.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.thinkcapital.com/",
+   "kind": "home",
+   "chars": 11518
+  },
+  {
+   "url": "https://www.thinkcapital.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 523
+  },
+  {
+   "url": "https://www.thinkcapital.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 246797
+  },
+  {
+   "url": "https://www.thinkcapital.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 7441
+  },
+  {
+   "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 61289
+  },
+  {
+   "url": "https://www.thinkcapital.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4865
+  },
+  {
+   "url": "https://www.thinkcapital.com/tc-faqs/bolt-program-rules/how-is-the-daily-simulated-drawdown-calculated-in-the-bolt-plan/",
+   "kind": "page",
+   "chars": 11793
+  },
+  {
+   "url": "https://www.thinkcapital.com/tc-faqs/bolt-program-rules/how-is-the-maximum-simulated-drawdown-calculated-in-the-bolt-plan/",
+   "kind": "page",
+   "chars": 12926
+  },
+  {
+   "url": "https://www.thinkcapital.com/es/tc-faqs/reglas-del-programa-bolt/como-se-calcula-el-drawdown-simulado-diario-en-el-plan-bolt/",
+   "kind": "page",
+   "chars": 14094
+  },
+  {
+   "url": "https://www.thinkcapital.com/de/tc-faqs/bolt-programm-regeln/wie-wird-der-taegliche-simulierte-drawdown-im-bolt-plan-berechnet/",
+   "kind": "page",
+   "chars": 14446
+  },
+  {
+   "url": "https://www.thinkcapital.com/de/tc-faqs/bolt-programm-regeln/how-is-the-maximum-simulated-drawdown-calculated-in-the-bolt-plan/",
+   "kind": "page",
+   "chars": 15935
+  },
+  {
+   "url": "https://www.thinkcapital.com/tc-faqs/dual-step-program/how-is-the-daily-simulated-drawdown-calculated-in-the-dual-step-intraday-challenge-funded/",
+   "kind": "page",
+   "chars": 12411
+  },
+  {
+   "url": "https://www.thinkcapital.com/de/tc-faqs/dual-step-programm/wie-wird-der-maximale-simulierte-drawdown-in-der-dual-step-swing-challenge-funded-berechnet/",
+   "kind": "page",
+   "chars": 12550
+  },
+  {
+   "url": "https://www.thinkcapital.com/de/tc-faqs/nexus-programm/wie-wird-der-taegliche-simulierte-drawdown-in-der-nexus-challenge-funded-berechnet/",
+   "kind": "page",
+   "chars": 15371
+  },
+  {
+   "url": "https://www.thinkcapital.com/de/tc-faqs/dual-step-programm/wie-wird-der-taegliche-simulierte-drawdown-in-der-dual-step-intraday-challenge-funded-berechnet/",
+   "kind": "page",
+   "chars": 15227
+  },
+  {
+   "url": "https://www.thinkcapital.com/es/tc-faqs/programa-dual-step/como-se-calcula-el-drawdown-simulado-diario-en-el-dual-step-intraday-challenge-funded/",
+   "kind": "page",
+   "chars": 14739
+  },
+  {
+   "url": "https://www.thinkcapital.com/es/tc-faqs/programa-lightning/como-se-calcula-el-drawdown-simulado-maximo-en-el-lightning-challenge-funded/",
+   "kind": "page",
+   "chars": 15511
+  },
+  {
+   "url": "https://www.thinkcapital.com/es/tc-faqs/programa-lightning/como-se-calcula-el-drawdown-simulado-diario-en-el-lightning-challenge-funded/",
+   "kind": "page",
+   "chars": 14946
+  },
+  {
+   "url": "https://help.thinkcapital.com/en/",
+   "kind": "sub",
+   "chars": 1406
+  }
+ ],
+ "page_count": 19,
+ "total_chars": 503806,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "nt Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target 10% Phase 2 Profit Target \u2014 Phase 3 Profit Target \u2014 Daily Loss Limit 3% Max Loss Limit (Challenge) 6% Max Loss Limit (Funded) 6% All plans include: Evaluat",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "des: % $ Phase 1 Phase 1 Profit Target 10% Phase 2 Profit Target \u2014 Phase 3 Profit Target \u2014 Daily Loss Limit 3% Max Loss Limit (Challenge) 6% Max Loss Limit (Funded) 6% All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profi",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "tart Now The $ 5K Two Step Challenge includes: % $ Phase 1 Phase 2 Phase 1 Profit Target 9% Phase 2 Profit Target 5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max Loss Limit (Funded) 8% All plans include: Evalua",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tep Challenge includes: % $ Phase 1 Phase 2 Phase 1 Profit Target 9% Phase 2 Profit Target 5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max Loss Limit (Funded) 8% All plans include: Evaluation Required 2 phase Min",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "Phase 1 Phase 2 Phase 1 Profit Target 9% Phase 2 Profit Target 5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max Loss Limit (Funded) 8% All plans include: Evaluation Required 2 phase Minimum Trading Days 3 Days Leverage Dynamic up t",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "The $ 5K Three Step Challenge includes: % $ Phase 1 Phase 2 Phase 3 Phase 1 Profit Target 7% Phase 2 Profit Target 6% Phase 3 Profit Target 5% Daily Loss Limit 4% Max Loss Limit (Challenge) 8% Max Loss Limit (Funded) 8% All plans include: Evalu",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "1 Phase 1 Profit Target 10% Phase 2 Profit Target \u2014 Phase 3 Profit Target \u2014 Daily Loss Limit 3% Max Loss Limit (Challenge) 6% Max Loss Limit (Funded) 6% All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profi",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "2 Phase 1 Profit Target 9% Phase 2 Profit Target 5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max Loss Limit (Funded) 8% All plans include: Evaluation Required 2 phase Minimum Trading Days 3 Days Leverage Dynamic up t",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "rget 10% Phase 2 Profit Target \u2014 Phase 3 Profit Target \u2014 Daily Loss Limit 3% Max Loss Limit (Challenge) 6% Max Loss Limit (Funded) 6% All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profit Split Up to 90% Payout Frequ",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "rget 9% Phase 2 Profit Target 5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max Loss Limit (Funded) 8% All plans include: Evaluation Required 2 phase Minimum Trading Days 3 Days Leverage Dynamic up to 1:100 Profit Split Up to 90%",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max Loss Limit (Funded) 8% All plans include: Evaluation Required 2 phase Minimum Trading Days 3 Days Leverage Dynamic up to 1:100 Profit Split Up to 90% Payout Frequency 14 days (",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "Manage up to $600K Profit split up to 90% Payout cycle up to 7 Days Total payouts $4M+ Intro What is ThinkCapital Start Now HOW IT WORKS Step 1 Choose your program Learn More Step 2 Pa",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "CALCULATE YOUR POTENTIAL Account Size $25,000 Expected Return 10% Profit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One St",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "IAL Account Size $25,000 Expected Return 10% Profit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $5",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "Max Loss Limit (Funded) 6% All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profit Split Up to 90% Payout Frequency 14 days (7 days add-on) DUAL STEP Two Step Challenge Intraday Swing $5K $10K $25K $50K $",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "600",
+    "snippet": "er-backed prop firm. Manage up to $600K Profit split up to 90% Payout cycle up to 7 Days Total payouts $4M+ Intro What is ThinkCapital Start Now HOW IT WORKS",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "hallenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "enge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profi",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Tar",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ee Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target 1",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ep Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target 10% P",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "600",
+    "snippet": "er-backed prop firm. Manage up to $600K Profit split up to 90% Payout cycle up to 7 Days Total payouts $4M+ Intro What is ThinkCapital Start Now HOW IT WORKS",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "age up to $600K Profit split up to 90% Payout cycle up to 7 Days Total payouts $4M+ Intro What is ThinkCapital Start Now HOW IT WORKS Step 1 Choose your program Learn More Step 2 Pass e",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "outs Learn More CALCULATE YOUR POTENTIAL Account Size $25,000 Expected Return 10% Profit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "5,000 Expected Return 10% Profit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "hallenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "enge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Prof",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Ta",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ee Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ep Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target 10%",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "59",
+    "snippet": "Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target 10% Phase 2 Profit Target \u2014 Phase 3 Profit Target",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "39",
+    "snippet": "e Step Challenge $5K $10K $25K $50K $100K NEXUS Three Step Challenge $39 For $ 5K account Start Now The $ 5K Three Step Challenge includes: % $ Phase 1 Phase 2 Phase 3 Phase 1 Profit Target 7% Phase 2 Profit Target 6% Phas",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "p to 90% Payout Frequency 14 days (7 days add-on) BOLT Instant Funding $2.5K $5K $10K $25K $50K $100K New BOLT Instant Funding $39 For $ 2.5K account Start Now The $ 2.5K Instant Funding includes: % $ Funded Phas",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": ",000 $47,000 $53,000 $50,000 $100,000 $6,000 $94,000 $106,000 $100,000 What is the trailing drawdown? The trailing drawdown is a fixed limit of 6% of the initial account equity ($6,000 on a $100,000 account). It follows your highest equity upward in real time . As yo",
+    "url": "https://www.thinkcapital.com/tc-faqs/bolt-program-rules/how-is-the-maximum-simulated-drawdown-calculated-in-the-bolt-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "Intraday",
+    "snippet": "our account reaches first. The Maximum Drawdown Limit is explained in the Dual Step Intraday Max Drawdown article. What causes immediate termination? Your account closes the moment equity or balance touches or falls below the daily breach level . This can be ca",
+    "url": "https://www.thinkcapital.com/tc-faqs/dual-step-program/how-is-the-daily-simulated-drawdown-calculated-in-the-dual-step-intraday-challenge-funded/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Global Presence (incl. USA) Flexible PAYOUT METHODS Crypto USDT USDC Rise Global Payouts Broker Account Transfer payouts to ThinkMarkets personal account Not available fo",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "esence (incl. USA) Flexible PAYOUT METHODS Crypto USDT USDC Rise Global Payouts Broker Account Transfer payouts to ThinkMarkets personal account Not available for certain res",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "(incl. USA) Flexible PAYOUT METHODS Crypto USDT USDC Rise Global Payouts Broker Account Transfer payouts to ThinkMarkets personal account Not available for certain residents,",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "Flexible PAYOUT METHODS Crypto USDT USDC Rise Global Payouts Broker Account Transfer payouts to ThinkMarkets personal account Not available for certain residents, including US resid",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "odities Crypto Indices Previous Next What's your typical trading timeframe? Scalping (minutes to hours) Day trading (intraday) Swing trading (days to weeks) Previous Next How would you describe your risk tolerance? Conservative (low risk) Moderate (balanced risk) Aggressive (high risk) Previous Next What's your primary goal in prop tradin",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "T-A-100000-FUNDED-ACCOUNT-4.png https://www.thinkcapital.com/de/top-prop-firms-fuer-anfaenger-in-2025/ 2026-01-19T11:57:07+00:00 https://www.thinkcapital.com/wp-content/uploads/2025/02/post-1-scaled-1.jpg https://www.thinkcapital.com/wp-content/uploads/2024/08/GET-A-100000-FUNDED-ACCOUNT-4.png https://www.thi",
+    "url": "https://www.thinkcapital.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "8/GET-A-100000-FUNDED-ACCOUNT-1.jpg https://www.thinkcapital.com/es/los-6-prop-firms-mas-baratos-en-2025/ 2026-01-19T23:46:33+00:00 https://www.thinkcapital.com/wp-content/uploads/2024/12/Blog-Post-Graphics-3_Post-1-scaled.png https://www.thinkcapital.com/wp-content/uploads/2024/12/1546103c-6d94-4573-9bec-16a333",
+    "url": "https://www.thinkcapital.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "d questions Search for articles... Introduction to Think Capital Programs Basic Information about Think Capital Programs By ThinkCapital 1 author 5 articles Lightning Program Rules Familiarize with the regulations and guidelines for trading accounts. By ThinkCapital 1 author 2 articles Dual Step Program Rules Familiarize with the regulati",
+    "url": "https://help.thinkcapital.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Manag",
+    "snippet": "the best broker-backed prop firm. Manage up to $600K Profit split up to 90% Payout cycle up to 7 Days Total payouts $4M+ Intro What is ThinkCapital Start Now HOW IT WORKS",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "K One Step Challenge inc",
+    "snippet": "Lightning One Step Challenge $59 For $ 5K account Start Now The $ 5K One Step Challenge includes: % $ Phase 1 Phase 1 Profit Target 10% Phase 2 Profit Target \u2014 Phase 3 Profit Target \u2014 Daily Loss Limit 3% Max Loss Limit (Challenge) 6% Max Loss Li",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "All plans inc",
+    "snippet": "ily Loss Limit 3% Max Loss Limit (Challenge) 6% Max Loss Limit (Funded) 6% All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profit Split Up to 90% Payout Frequency 14 days (7 days add-on) DUAL STEP",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profit Split Up to 90% Payout Frequency 14 days (7 days add-on) DUAL STEP Two Step Challenge Intraday Swing $5K $10K $25K $50K $100K Most",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "K Two Step Challenge inc",
+    "snippet": "Intraday Two Step Challenge $59 For $ 5K account Start Now The $ 5K Two Step Challenge includes: % $ Phase 1 Phase 2 Phase 1 Profit Target 9% Phase 2 Profit Target 5% Phase 3 Profit Target \u2014 Daily Loss Limit 4% Max Loss Limit (Challenge) 7% Max",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "K Three Step Challenge inc",
+    "snippet": "NEXUS Three Step Challenge $39 For $ 5K account Start Now The $ 5K Three Step Challenge includes: % $ Phase 1 Phase 2 Phase 3 Phase 1 Profit Target 7% Phase 2 Profit Target 6% Phase 3 Profit Target 5% Daily Loss Limit 4% Max Loss Limit (Challenge)",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "K Instant Funding inc",
+    "snippet": "ew BOLT Instant Funding $39 For $ 2.5K account Start Now The $ 2.5K Instant Funding includes: % $ Funded Phase 1 Profit Target Phase 2 Profit Target Phase 3 Profit Target Daily Loss Limit Max Loss Limit (Challenge) Max Loss Limit (Funded)",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "incl. USA",
+    "snippet": "l Academy (coming soon) Advanced Trading Platform Global Presence (incl. USA) Flexible PAYOUT METHODS Crypto USDT USDC Rise Global Payouts Broker Account Transfer pa",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Not available for certain residents, including US residents",
+    "snippet": "Broker Account Transfer payouts to ThinkMarkets personal account Not available for certain residents, including US residents. Check your eligibility here in FAQ Start Now Payout History Complete Sep 7, 2025 PAYOUT AMOUNT $1,500 METHOD ACCOUNT NUMBE",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "restricted-countries/ 2026-10-03T18:48:14+00:00 https://www",
+    "snippet": "47:33+00:00 https://www.thinkcapital.com/tc-faqs/general-faqs/client-eligibility-and-restricted-countries/ 2026-10-03T18:48:14+00:00 https://www.thinkcapital.com/es/tc-faqs/preguntas-frecuentes-generales/elegibilidad-del-cliente-y-paises-restringidos/ 2026-10-03T18:48:16+00:00 https://www.thinkcapital.com/de/tc-f",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Restricted Countries \n \n \n \n Share this article\n \n URL copied \n \n \n \n \n Still need help?\n Contact our support team",
+    "snippet": "Allocation for Simulated Challenges and Funded Accounts? Client eligibility and Restricted Countries Share this article URL copied Still need help? Contact our support team. Email inquiries are accepted 24 hours a day. Replies are sent during business hours. [email protected] Join 40,000+ traders getting weekly prop firm",
+    "url": "https://www.thinkcapital.com/tc-faqs/bolt-program-rules/how-is-the-daily-simulated-drawdown-calculated-in-the-bolt-plan/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund-policy/ 2026-05-13T11:22:21+00:00 https://www",
+    "snippet": "//www.thinkcapital.com/nexus/ 2026-03-17T23:20:31+00:00 https://www.thinkcapital.com/refund-policy/ 2026-05-13T11:22:21+00:00 https://www.thinkcapital.com/zh-hans/%e9%80%80%e6%ac%be%e6%94%bf%e7%ad%96/ 2026-05-13T11:27:24+00:00 https://www.thinkcapital.com/zh-hant/%e9%80%80%e6%ac%be%e6%94%bf%e7%ad%96/ 2026-",
+    "url": "https://www.thinkcapital.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refund-for-the-challenge-fees-or-after-successfully-completing-the-challenge/ 2026-05-13T09:06:18+00:00 https://www",
+    "snippet": "-05T19:45:10+00:00 https://www.thinkcapital.com/tc-faqs/general-faqs/can-i-receive-a-refund-for-the-challenge-fees-or-after-successfully-completing-the-challenge/ 2026-05-13T09:06:18+00:00 https://www.thinkcapital.com/es/tc-faqs/preguntas-frecuentes-generales/puedo-recibir-un-reembolso-de-las-tarifas-del-challenge-o-despues-de-completar-e",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading? \n Our news trading policy is flexible and tailored to your program:\n Lightning and Nexus Challenges: News ",
+    "snippet": "eward successful funded traders right from the start. Does ThinkCapital allow news trading? Our news trading policy is flexible and tailored to your program: Lightning and Nexus Challenges: News trading is not allowed (add-on available). Dual Step (Intraday): News trading is not allowed. Dual Step (Swing): News trading is allowed. Do I ne",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading is not allowed",
+    "snippet": "s Challenges: News trading is not allowed (add-on available). Dual Step (Intraday): News trading is not allowed. Dual Step (Swing): News trading is allowed. Do I need prior trading experience to become a prop trader? While prior experience is helpful, it is not strictly",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading is allowed",
+    "snippet": "available). Dual Step (Intraday): News trading is not allowed. Dual Step (Swing): News trading is allowed. Do I need prior trading experience to become a prop trader? While prior experience is helpful, it is not strictly required. Our challenges are designed to eval",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Policy/Rule and Restriction? \n \n What trading platforms does ThinkCapital offer, and what instruments can I",
+    "snippet": "ted Articles How is the Maximum Simulated Drawdown calculated in the Bolt Plan? News Trading Policy/Rule and Restriction? What trading platforms does ThinkCapital offer, and what instruments can I trade there? What is the Maximum Allocation for Simulated Challenges and Funded Accounts? Client eligibility and Restricted Countries Share thi",
+    "url": "https://www.thinkcapital.com/tc-faqs/bolt-program-rules/how-is-the-daily-simulated-drawdown-calculated-in-the-bolt-plan/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn More \u2192 \u00d7 \n \n \n Skip to content \n \n \n \n Programs \n Expand child menu \n Lightning \n Dual Step \n Nexus \n Bolt \n \n How ",
+    "snippet": "rsonal Account New Instant Funding is here. Get funded without a challenge. Learn More \u2192 \u00d7 Skip to content Programs Expand child menu Lightning Dual Step Nexus Bolt How it works FAQs Blog Partners About Contact Toggle Mobile Menu Login / Register Get funded EN EN ES JP DE TW CN Programs Expand child me",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More \n \n \n \n \n Step 2 Pass\nevaluation\n Learn More \n \n \n \n \n Step 3 Get funded\nand generate profits\n Learn More",
+    "snippet": "Start Now HOW IT WORKS Step 1 Choose your program Learn More Step 2 Pass evaluation Learn More Step 3 Get funded and generate profits Learn More Step 4 Request payouts Learn More CALCULATE YOUR POTENTIAL Account Size $25,000 Expected Return 10% Profit Split 80% 9",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More \n \n \n \n \n \n \n \n \n \n CALCULATE YOUR POTENTIAL \n \n \n \n Account Size \n $25,000 \n \n \n Expected Return \n 10%\n \n \n \n",
+    "snippet": "tep 3 Get funded and generate profits Learn More Step 4 Request payouts Learn More CALCULATE YOUR POTENTIAL Account Size $25,000 Expected Return 10% Profit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHT",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAL PAYOUTS\n \n \n \n \n \n Tan\n $5,452\n Date 2026-01-13 \n Account Size $100,000 \n \n \n \n \n Cinar\n $24,047",
+    "snippet": "$1,500 METHOD ACCOUNT NUMBER Crypto 210702766 INVOICE REAL PAYOUTS Tan $5,452 Date 2026-01-13 Account Size $100,000 Cinar $24,047.55 Date 2026-01-28 Account Size $200,000 Hong $11,842.79 Date 2026-01-28 Account Size $200,000 Rafikul $3,979 Date 2026-01-06 Account Size",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eamlessly use the best trading platforms available for both your evaluation and your funded trading account",
+    "snippet": "ful and trusted platforms, including TradingView, ThinkTrader. This ensures you can seamlessly use the best trading platforms available for both your evaluation and your funded trading account. BLOG View All ThinkCapital Instant Funding Update: Lower Prices, More Flexibility 6 min read Trading Week Ahead, October 5 to Oc",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "T20:28:39+00:00 https://www.thinkcapital.com/tc-faqs/funded-accounts/is-the-usage-of-vpn-or-vps-networks-permitted/ 2025-12-20T20:54:54+00:00 https://www.thinkcapital.com/tc-faqs/funded-accounts/can-traders-merge-their-accounts/ 2025-12-20T21:03:44+00:00 https://www.thinkcapital.com/tc-faqs/funded-accounts/how-often-are-p",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "ed 3 phase Minimum Trading Days 3 Days Leverage 1:100 Profit Split Up to 90% Payout Frequency 14 days (7 days add-on) BOLT Instant Funding $2.5K $5K $10K $25K $50K $100K New BOLT Instant Funding $39 For $ 2.5K account Start Now The $ 2.5K Instant Funding includes: % $",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "All plans include: Evaluation Required 1 phase Minimum Trading Days 3 Days Leverage 1:30 Profit Split Up to 90% Payout Frequency 14 days (7 days add-on) DUAL STEP Two Step Challenge Intraday Swing $5K $10K $25K $50K $100K Most Popul",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:100",
+    "snippet": "All plans include: Evaluation Required 2 phase Minimum Trading Days 3 Days Leverage Dynamic up to 1:100 Profit Split Up to 90% Payout Frequency 14 days (7 days add-on) NEXUS Three Step Challenge $5K $10K $25K $50K $100K NEXUS Three Step Challenge",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:50",
+    "snippet": "All plans include: Evaluation Required None Minimum Profitable Days None Leverage Dynamic up to 1:50 Profit Split Up to 90% Payout Frequency 14 days + optional On-Demand Payouts Customise your Bolt Optional add-ons 90% Profit Split On-Demand Payouts Weekend",
+    "url": "https://www.thinkcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:39",
+    "snippet": "2025-12-20T21:38:06+00:00 https://www.thinkcapital.com/tc-faqs/general-faqs/dynamic-leverage-news-event-multiplier/ 2025-12-20T21:39:45+00:00 https://www.thinkcapital.com/tc-faqs/affiliate-program/what-are-the-approval-requirements-for-affiliates/ 2025-12-20T21:47:48+00:00 https://www.thinkcapital.com",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-verification/ 2025-12-20T21:32:00+00:00 https://www",
+    "snippet": "00 https://www.thinkcapital.com/tc-faqs/general-faqs/what-documents-are-required-for-kyc-verification/ 2025-12-20T21:32:00+00:00 https://www.thinkcapital.com/tc-faqs/general-faqs/guidelines-regarding-trading-strategies-contrary-to-thinkcapitals-terms-of-use-policy-2/ 2025-12-20T21:33:12+00:00 https://www.thin",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc-%e9%a9%97%e8%ad%89%e9%9c%80%e8%a6%81%e5%93%aa%e4%ba%9b%e6%96%87%e4%bb%b6%ef%bc%9f/ 2026-01-14T10:10:36+00:00",
+    "snippet": "00 https://www.thinkcapital.com/zh-hant/tc-faqs/%e5%b8%b8%e8%a6%8b%e5%95%8f%e9%a1%8c/kyc-%e9%a9%97%e8%ad%89%e9%9c%80%e8%a6%81%e5%93%aa%e4%ba%9b%e6%96%87%e4%bb%b6%ef%bc%9f/ 2026-01-14T10:10:36+00:00 https://www.thinkcapital.com/zh-hant/tc-faqs/%e5%b8%b8%e8%a6%8b%e5%95%8f%e9%a1%8c/%e5%8f%83%e8%88%87-thinkcapital-%e8%a8%88%e5%8a%83%e6%98%af%",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc%e9%aa%8c%e8%af%81%e9%9c%80%e8%a6%81%e5%93%aa%e4%ba%9b%e6%96%87%e4%bb%b6%ef%bc%9f/ 2026-01-14T12:51:39+00:00 h",
+    "snippet": "00 https://www.thinkcapital.com/zh-hans/tc-faqs/%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98/kyc%e9%aa%8c%e8%af%81%e9%9c%80%e8%a6%81%e5%93%aa%e4%ba%9b%e6%96%87%e4%bb%b6%ef%bc%9f/ 2026-01-14T12:51:39+00:00 https://www.thinkcapital.com/zh-hans/tc-faqs/%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98/%e5%8f%82%e4%b8%8e-thinkcapital-%e9%a1%b9%e7%9b%ae%e6%98%af%e",
+    "url": "https://www.thinkcapital.com/tc_faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ThinkCapital\u2122 The Only Prop Firm To Build Your Personal Account New Instant Funding is here. Get funded without a challenge. Learn More \u2192 \u00d7 Skip to content Programs Expand child menu Lightning Dual Step Nexus Bolt H",
+   "url": "https://www.thinkcapital.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "eturn 10% Profit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step",
+   "url": "https://www.thinkcapital.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "ofit Split 80% 90% Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59",
+   "url": "https://www.thinkcapital.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "Potential Payout $0 Start Challenge 1 One Step Challenge 2 Two Step Challenge 3 Three Step Challenge 4 Instant Funding LIGHTNING One Step Challenge $5K $10K $25K $50K $100K Lightning One Step Challenge $59 For $ 5K account S",
+   "url": "https://www.thinkcapital.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "EN EN ES JP DE TW CN - Think Freedom THINK CAPITAL Start Challenge Free Trial Start your funded trading challenge today with the best broker-backed prop firm. Manage up to $600K Prof",
+   "url": "https://www.thinkcapital.com/"
+  }
+ ],
+ "platforms": [
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Commodities",
+  "CFD"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "your eligibility here in FAQ Start Now Payout History Complete Sep 7, 2025 PAYOUT AMOUNT $1,500 METHOD ACCOUNT NUMBER Crypto 210702766",
+  "read Risk of Ruin in Trading: Formula and Position Sizing 11 min read Join 40,000+ traders getting weekly prop firm tips, funded trader success storie",
+  "re accepted 24 hours a day. Replies are sent during business hours. [email protected] Join 40,000+ traders getting weekly prop firm tips, funded trader success storie",
+  "re accepted 24 hours a day. Replies are sent during business hours. [email protected] Join 40,000+ traders getting weekly prop firm tips, funded trader success storie",
+  "d 24 hours a day. Replies are sent during business hours. [email protected] \u00danete a m\u00e1s de 40,000 traders que reciben consejos semanales sobre firmas de prop trading",
+  "re accepted 24 hours a day. Replies are sent during business hours. [email protected] Join 40,000+ traders getting weekly prop firm tips, funded trader success storie"
+ ],
+ "errors": []
+}

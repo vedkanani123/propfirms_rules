@@ -1,0 +1,12 @@
+{
+ "slug": "t4t-capital",
+ "name": "T4T Capital",
+ "category": "Forex/CFD",
+ "url": "https://t4tcapital.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -5] No address associated with hostname>"
+ ]
+}

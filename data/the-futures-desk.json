@@ -1,0 +1,356 @@
+{
+ "slug": "the-futures-desk",
+ "name": "The Futures Desk",
+ "category": "Futures",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://www.thefuturesdesk.com/",
+  "evidence": "name+5 prop-firm signals on homepage",
+  "tried": [
+   "https://thefuturesdesk.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://www.thefuturesdesk.com/",
+   "kind": "home",
+   "chars": 14289
+  },
+  {
+   "url": "https://www.thefuturesdesk.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 252
+  },
+  {
+   "url": "https://www.thefuturesdesk.com/pricing-static",
+   "kind": "page",
+   "chars": 93
+  },
+  {
+   "url": "https://www.thefuturesdesk.com/terms-conditions",
+   "kind": "page",
+   "chars": 166129
+  }
+ ],
+ "page_count": 4,
+ "total_chars": 180766,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "20",
+    "snippet": "t timeline Months of capped payouts \u2705 6+ days to uncapped payouts Payout requirement 20% Consistency \u2705 No consistency in funded Payout windows 5+ profitable days \u2705 Daily payouts Drawdown Most Props Trailing or EOD The Futures Desk \u2705 Static or EOD Trading rules Most Props Min Hold Times The Fut",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "0",
+    "snippet": "just funding. One-Step Test. Uncapped Payouts. One-Step Test. Uncapped Payouts. $0 Funded Fees $0 Funded Fees No activation fees. No hidden costs. We even cover your first pro data fee when live. ($140/mo value) $0 Funded Fees No activation fee",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "140",
+    "snippet": "activation fees. No hidden costs. We even cover your first pro data fee when live. ($140/mo value) $0 Funded Fees No activation fees. No hidden costs. We even cover your first pro data fee when live. ($140/mo value) Grow Huge More contracts. More d",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1.20",
+    "snippet": "bership CME Membership Maximized capital with lower institutional fees. (e.g. NQ $1.20 all-in per side). We hold a CME Rule 106.R Electronic Corporate Membership means you can feel safer and execute with ridiculously low execution fees. (NQ/ES round-trip",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2.40",
+    "snippet": "u can feel safer and execute with ridiculously low execution fees. (NQ/ES round-trip $2.40 all-in) CME Membership Maximized capital with lower institutional fees. (e.g. NQ $1.20 all-in per side). You're on a Team You're on a Team Free 1-on-1 coachin",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5.75",
+    "snippet": "rading rules Min Hold Times \u2705 Microscalping + Algos Allowed Commissions (e.g. NQ/ES) $5.75/contract all-in RT \u2705 $2.40/contract all-in RT Activation Fee $150 after passing \u2705 $0 after passing Payout timeline Months of capped payouts \u2705 6+ days to uncapped payouts",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "ions (e.g. NQ/ES) $5.75/contract all-in RT \u2705 $2.40/contract all-in RT Activation Fee $150 after passing \u2705 $0 after passing Payout timeline Months of capped payouts \u2705 6+ days to uncapped payouts Payout requirement 20% Consistency \u2705 No consistency in funded Pay",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100.00",
+    "snippet": "IN THE IMMEDIATELY PRECEDING MONTH FOR THE FUTURES DESK'S PRODUCTSOR SERVICES OR (B) $100.00. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSIONOR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVELIMITATION MAY NOT APPLY TO YO",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "payouts (Mon-Fri) Here's Why Traders Are Switching Most Props The Futures Desk Drawdown Trailing or EOD \u2705 Static or EOD Trading rules Min Hold Times \u2705 Microscalping + Algos Allowed Commissions (e.g. NQ/ES) $5.75/contract all-in RT \u2705 $2.40/contract all-in RT Activation Fee $150 afte",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "tency \u2705 No consistency in funded Payout windows 5+ profitable days \u2705 Daily payouts Drawdown Most Props Trailing or EOD The Futures Desk \u2705 Static or EOD Trading rules Most Props Min Hold Times The Futures Desk \u2705 Microscalping + Algos Allowed Commissions (e.g. NQ/ES) Most P",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules for each payout",
+    "snippet": "misleading. They usually have heavily capped payouts for at least 1 to 2 months and consistency rules for each payout. You are essentially required to do an evaluation for months at a higher price. Once you are funded with us, we have no payout caps, no consistency, no minimum days \u2014 w",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "ly Payouts Uncapped after buffer in funded. No consistency or minimum days between payouts (Mon-Fri) ')\"> Daily Payouts Uncapped after buffer in funded. No consistency or minimum days between payouts (Mon-Fri) Here's Why Traders Are Switching Most Props The Futures Desk Dr",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "the same day if requested prior to 11AM, Monday-Friday. All payouts are made using Riseworks. I see a lot of \"Direct to Funded\" competitors, is that what this is? No, we are not direct-to-funded and neither are they . The \"direct to funded\" model is m",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "WISE",
+    "snippet": "OR, ACCESSING,BROWSING, CREATING AN ACCOUNT, POSTING OR DOWNLOADING CONTENT, OR OTHERWISEUSING THE FUTURES DESK SITES OR SERVICES OR ENTERING INTO ANY OTHER AGREEMENTWITH US, YOU, ON BEHALF OF YOURSELF AND ANY ENTITY YOU REPRESENT, HEREBYACKNOWLEDGE THAT YOU",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "40/mo value) Grow Huge More contracts. More drawdown. More opportunity. As you scale, we scale with you. Grow Huge More contracts. More drawdown. More opportunity. As you scale, we scale with you. CME Membership CME Membership Maximized capital with lower institu",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "NFA",
+    "snippet": "e not a broker . But we use ONLY regulated FCMs who pass stringent compliance by the NFA and CFTC (Dorman/Plus500). Do my payouts come from simulated trading? No! We do not allow payouts from simulated funds. This keeps us on your side and allows to not have any strange payout",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "ing, or usage in trade are also disclaimed. COMMODITY FUTURES TRADING COMMISSION (CFTC) DISCLAIMER: IN COMPLIANCE WITH COMMODITY FUTURES TRADING COMMISSION(CFTC) RULE 4.41, WE EMPHASIZE THAT ANY HYPOTHETICAL OR SIMULATED PERFORMANCERESULTS PRESENTED ON OUR SITES OR SERVICES ARE INHERENTLY LIMITED. THESERESULTS DO NOT REPRESENT ACTUAL TR",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "sed for commercial purposes or in conjunction with any other offer unless explicitly authorized by The Futures Desk. Any attempt to abuse, misuse, or manipulate The Futures Desk's promotional code system is strictly prohibited. Promo Codes hold no intrinsic monetary value and are n",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "ly pre-approved in writing by The Futures Desk. This includes unsolicited electronic mass mailings. User Content must not be abusive or harassing towards any individual or entity. You are expressly prohibited from submitting any materials that contain or purport to co",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Electronic Corporate Membership means you can feel sa",
+    "snippet": "lower institutional fees. (e.g. NQ $1.20 all-in per side). We hold a CME Rule 106.R Electronic Corporate Membership means you can feel safer and execute with ridiculously low execution fees. (NQ/ES round-trip $2.40 all-in) CME Membership Maximized capital with lower institutional fees. (e.g. NQ $1.20 a",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ve helped thousa",
+    "snippet": "a Team Free 1-on-1 coaching. Expert support. Direct answers from real traders who\u2019ve helped thousands. You're on a Team Free 1-on-1 coaching. Expert support. Direct answers from real traders who\u2019ve helped thousands. ')\"> Daily Payouts Uncapped after buffer in",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Are these real brokerag",
+    "snippet": "5+ profitable days The Futures Desk \u2705 Daily payouts Frequently Asked Questions Are these real brokerage accounts? During the assessment and during the small time period in the sim-brokerage, all trading is simulated but is based on live market conditions. After that,",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "and during the small time period in the sim-brokerag",
+    "snippet": "ently Asked Questions Are these real brokerage accounts? During the assessment and during the small time period in the sim-brokerage, all trading is simulated but is based on live market conditions. After that, yes, all traders move to one of our fully regulated live brokerage accounts where all capi",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ders move to one of our fully regulated live brokerag",
+    "snippet": "trading is simulated but is based on live market conditions. After that, yes, all traders move to one of our fully regulated live brokerage accounts where all capital is real. Is The Futures Desk a broker? No, we are not a broker . But we use ONLY regulated FCMs who pass stringent compliance by the NF",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The bare minimum to get into a brokerag",
+    "snippet": "y about how much you can make. How many days until I can get uncapped payouts? The bare minimum to get into a brokerage account and start getting uncapped daily payouts is six days. Can I really request a payout daily? Yes, we can usually process payouts the same day if requested",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Yes, we can usually process payouts the sa",
+    "snippet": "ting uncapped daily payouts is six days. Can I really request a payout daily? Yes, we can usually process payouts the same day if requested prior to 11AM, Monday-Friday. All payouts are made using Riseworks. I see a lot of \"Direct to Funded\" competitors, is that what this is? No, we",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "How many accounts can I get at the sa",
+    "snippet": "sistency, no minimum days \u2014 what a modern proprietary trading company should have. How many accounts can I get at the same time? You can have a max of 2 accounts per trader. Am I risking my own capital when I'm funded? No, you are trading our capital, not yours. You will be give",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable, even if you cancel your account, request cancellation via email, discontinue using the Services before compl",
+    "snippet": "and any associated services or educational resources. Please note that fees are non-refundable, even if you cancel your account, request cancellation via email, discontinue using the Services before completion, fail to meet program conditions, or violate these Terms. If you initiate an unjustified complaint or dispute the fee with your ba",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refundable",
+    "snippet": "tion email. All fees paid to The Futures Desk are final, non-cancellable, and non-refundable. You will not be entitled to any refund of any fees or costs upon termination of your Account. While using the Intern or Assessment Desk, you are allowed to engage in",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund of any fees or costs upon termination of your Account",
+    "snippet": "Desk are final, non-cancellable, and non-refundable. You will not be entitled to any refund of any fees or costs upon termination of your Account. While using the Intern or Assessment Desk, you are allowed to engage in simulated trading except for actions defined as Prohibited Conduct. You agree to adhere to st",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunds for services already rendered",
+    "snippet": "ompassing the Account and the Sites themselves, without offering any compensation or refunds for services already rendered. The Futures Desk explicitly disclaims any responsibility for trading or other investment activities undertaken by you, whether directly or indirectly related to the Ser",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eam \n \n \n Knowledge Base \n ')\">\n \n Sign In\n \n \n \n \n \n \n \n \n Trade Our Capital",
+    "snippet": "The Futures Desk - Join Our Proprietary Trading Team Knowledge Base ')\"> Sign In Trade Our Capital. Get Paid Daily. Start earning in as few as five days in live accounts. Start earning in as few as five days in live accounts. Trustpilot The Prop You Didn't Kn",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earning in as few as five days in live accounts",
+    "snippet": "ge Base ')\"> Sign In Trade Our Capital. Get Paid Daily. Start earning in as few as five days in live accounts. Start earning in as few as five days in live accounts. Trustpilot The Prop You Didn't Know You Needed Aligned With The Traders We want professionals\u2014those wh",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eans you can feel safer and execute with ridiculously low execution fees",
+    "snippet": "Q $1.20 all-in per side). We hold a CME Rule 106.R Electronic Corporate Membership means you can feel safer and execute with ridiculously low execution fees. (NQ/ES round-trip $2.40 all-in) CME Membership Maximized capital with lower institutional fees. (e.g. NQ $1.20 all-in per side). You're on a Team You're on a T",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam \n You're on a Team \n Free 1-on-1 coaching",
+    "snippet": "ital with lower institutional fees. (e.g. NQ $1.20 all-in per side). You're on a Team You're on a Team Free 1-on-1 coaching. Expert support. Direct answers from real traders who\u2019ve helped thousands. You're on a Team Free 1-on-1 coaching. Expert support. Direct answers from real traders w",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal traders who\u2019ve helped thousands",
+    "snippet": "Team You're on a Team Free 1-on-1 coaching. Expert support. Direct answers from real traders who\u2019ve helped thousands. You're on a Team Free 1-on-1 coaching. Expert support. Direct answers from real traders who\u2019ve helped thousands. ')\"> Daily Payouts Uncapped after buffer in fu",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "o \"crawl\" or \"spider\" any web pages within the Sites or Services. \u00b7 Utilizing VPNs or VPS on Accounts, which is strictly forbidden and can lead to account termination and profit forfeiture. \u00b7 Leveraging the Sites or Services to gather competitive intelligence about The Futures Desk or to unfairly compete with The Futures Desk or its affil",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@thefuturesdesk.com",
+    "snippet": "or requests for further information regarding The Futures Desk, please contact us at support@thefuturesdesk.com or by phone at (833) 411-3375. By using our services, you acknowledge and consent to all communication from The Futures Desk or its affiliates regarding the Services bei",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "same day",
+    "snippet": "count and start getting uncapped daily payouts is six days. Can I really request a payout daily? Yes, we can usually process payouts the same day if requested prior to 11AM, Monday-Friday. All payouts are made using Riseworks. I see a lot of \"Direct to Funded\" competitors, is that what this is? No, we are n",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout caps, no consistency, no minimum days \u2014 what a modern proprietary trading company should have",
+    "snippet": "an evaluation for months at a higher price. Once you are funded with us, we have no payout caps, no consistency, no minimum days \u2014 what a modern proprietary trading company should have. How many accounts can I get at the same time? You can have a max of 2 accounts per trader. Am I risking my own capital when I'm funded? No, you are tradin",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fees",
+    "snippet": "ped Payouts. One-Step Test. Uncapped Payouts. $0 Funded Fees $0 Funded Fees No activation fees. No hidden costs. We even cover your first pro data fee when live. ($140/mo value) $0 Funded Fees No activation fees. No hidden costs. We even cover your first pro d",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee $150 after passing \u2705 $0 after passing Payout timeline Months of capped payouts \u2705 6+ days to uncapped payo",
+    "snippet": "Allowed Commissions (e.g. NQ/ES) $5.75/contract all-in RT \u2705 $2.40/contract all-in RT Activation Fee $150 after passing \u2705 $0 after passing Payout timeline Months of capped payouts \u2705 6+ days to uncapped payouts Payout requirement 20% Consistency \u2705 No consistency in funded Payout windows 5+ profitable days \u2705 Daily payouts Drawdown Most Props",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n Most Props\n $150 after passing\n The Futures Desk\n \u2705 $0 after passing\n Payout timeline\n Most Props\n Month",
+    "snippet": "Most Props $5.75/contract all-in RT The Futures Desk \u2705 $2.40/contract all-in RT Activation Fee Most Props $150 after passing The Futures Desk \u2705 $0 after passing Payout timeline Most Props Months of capped payouts The Futures Desk \u2705 6+ days to uncapped payouts Payout requirement Most Props 20% Consistency The Futures Desk \u2705 No consistency ",
+    "url": "https://www.thefuturesdesk.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscriptions or services placed through the Sites, Services, or a third party",
+    "snippet": "ce marks, slogans, logos, trade dress, and other identifiers. Orders - Requests for subscriptions or services placed through the Sites, Services, or a third party. Personal Data - Any information connected to an identified or identifiable individual or information used for behavior profiling, if that person is identified. Servic",
+    "url": "https://www.thefuturesdesk.com/terms-conditions",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "hing, and smarter support. Trading is hard. Your prop firm should offer value, not just funding. One-Step Test. Uncapped Payouts. One-Step Test. Uncapped Payouts. $0 Funded Fees $0 Funded Fees No activation fees. No hidden costs. We even cover your first pro",
+   "url": "https://www.thefuturesdesk.com/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "tures Association (NFA ID 0567079). Please review Topstep Brokerage\u2019s Risk Disclosures Statement . Futures accounts are not protected by the Securities Investor Protection Corporation (SIPC). Copyright \u00a9 TS TFD Buyer, LLC All rights reserved Terms & Conditions Pri",
+   "url": "https://www.thefuturesdesk.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "etary trading company should have. How many accounts can I get at the same time? You can have a max of 2 accounts per trader. Am I risking my own capital when I'm funded?"
+ ],
+ "errors": []
+}

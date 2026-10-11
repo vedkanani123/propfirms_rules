@@ -1,0 +1,340 @@
+{
+ "slug": "maverick-trading",
+ "name": "Maverick Trading",
+ "category": "Institutional",
+ "url": "https://www.mavericktrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.mavericktrading.com/",
+   "kind": "home",
+   "chars": 6675
+  },
+  {
+   "url": "https://www.mavericktrading.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 446129
+  },
+  {
+   "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-challenge-rules-what-most-traders-miss",
+   "kind": "page",
+   "chars": 15167
+  },
+  {
+   "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+   "kind": "page",
+   "chars": 8955
+  },
+  {
+   "url": "https://www.mavericktrading.com/free-trading-videos/articles/rivian-stock-price-prediction-2030",
+   "kind": "page",
+   "chars": 1479
+  },
+  {
+   "url": "https://www.mavericktrading.com/job/equity-options-trader-price-ut",
+   "kind": "page",
+   "chars": 3581
+  },
+  {
+   "url": "https://www.mavericktrading.com/job/equity-options-trader-plant-city-fl",
+   "kind": "page",
+   "chars": 3398
+  },
+  {
+   "url": "https://www.mavericktrading.com/job/equity-options-trader-upland-ca",
+   "kind": "page",
+   "chars": 3685
+  },
+  {
+   "url": "https://www.mavericktrading.com/job/equity-options-trader-plantation-fl",
+   "kind": "page",
+   "chars": 3406
+  },
+  {
+   "url": "https://www.mavericktrading.com/job/equity-options-trader-plano-tx",
+   "kind": "page",
+   "chars": 3689
+  },
+  {
+   "url": "https://www.mavericktrading.com/free-trading-videos/articles/how-to-prepare-a-trading-plan-for-high-impact-fed-events",
+   "kind": "page",
+   "chars": 14930
+  },
+  {
+   "url": "https://www.mavericktrading.com/blogs/how-to-develop-a-forex-trading-plan-a-step-by-step-guide",
+   "kind": "page",
+   "chars": 931
+  },
+  {
+   "url": "https://www.mavericktrading.com/blogs/what-are-the-most-common-challenges-faced-by-forex-traders",
+   "kind": "page",
+   "chars": 933
+  },
+  {
+   "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-vs-challenge-model-which-one-actually-develops-traders",
+   "kind": "page",
+   "chars": 10089
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 523060,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "gust, the math changes. Consider a trader running a standard forex challenge with a 5% daily loss limit on a $100,000 simulated account. Their normal stop distance is 20 pips, risking 1% per trade. In normal conditions, that 20-pip stop might see 2-3 pips of slippage",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-challenge-rules-what-most-traders-miss",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "versight, technology and access to other professional traders. Apply Now Learn More 90% Max Split 20+ Years Active Real Capital Strike Bid Ask IV \u0394 \u2014 SPY CALLS \u2014 570C 12.40 12.55 18% 0.72 575C 8.30 8.45 19% 0.62 580C 4.20 4.35 22% 0.48 585C 2.85 2.95 24% 0.38 590C",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "50",
+    "snippet": "ding Location Price, UT Type Remote / Contractor Profit Split 65% \u2013 90% Salary Range $50K \u2013 $200K/yr Experience Preferred, not required Markets Stocks, Options, Futures Why Maverick? 20+ years in the industry Real firm capital \u2014 not your money No challen",
+    "url": "https://www.mavericktrading.com/job/equity-options-trader-price-ut",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "cation Price, UT Type Remote / Contractor Profit Split 65% \u2013 90% Salary Range $50K \u2013 $200K/yr Experience Preferred, not required Markets Stocks, Options, Futures Why Maverick? 20+ years in the industry Real firm capital \u2014 not your money No challenge accou",
+    "url": "https://www.mavericktrading.com/job/equity-options-trader-price-ut",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100,00",
+    "snippet": "Consider a trader running a standard forex challenge with a 5% daily loss limit on a $100,000 simulated account. Their normal stop distance is 20 pips, risking 1% per trade. In normal conditions, that 20-pip stop might see 2-3 pips of slippage at most \u2014 annoying",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-challenge-rules-what-most-traders-miss",
+    "kind": "page"
+   },
+   {
+    "value": "534.54",
+    "snippet": "ple, Step by Step Here is how this plays out with a live example. A stock closed at $534.54 heading into its earnings report, and the company beat expectations, posting earnings per share of $3.50 against an estimate of $3.38. Before the announcement, the at-t",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "3.50",
+    "snippet": "ts earnings report, and the company beat expectations, posting earnings per share of $3.50 against an estimate of $3.38. Before the announcement, the at-the-money straddle at the 535 strike, in the nearest weekly expiration, was priced at $40.65 combined betw",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "3.38",
+    "snippet": "ompany beat expectations, posting earnings per share of $3.50 against an estimate of $3.38. Before the announcement, the at-the-money straddle at the 535 strike, in the nearest weekly expiration, was priced at $40.65 combined between the call and the put. Div",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "40.65",
+    "snippet": "he-money straddle at the 535 strike, in the nearest weekly expiration, was priced at $40.65 combined between the call and the put. Dividing that by the $534.54 stock price gives an implied move of about 7.6%. After the report, the stock gapped down roughly $25",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "ives an implied move of about 7.6%. After the report, the stock gapped down roughly $25 in after-hours trading, landing near $509. That works out to an actual move of about 4.7%. ATM options straddle setup just after earnings announcement. In this case",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "509",
+    "snippet": "r the report, the stock gapped down roughly $25 in after-hours trading, landing near $509. That works out to an actual move of about 4.7%. ATM options straddle setup just after earnings announcement. In this case, the options market priced in a move near",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/implied-vs-actual-earnings-moves-is-the-market-overpricing-volatility",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "ding Location Price, UT Type Remote / Contractor Profit Split 65% \u2013 90% Salary Range $50K \u2013 $200K/yr Experience Preferred, not required Markets Stocks, Options, Futures Why Maverick? 20+ years in the industry Real firm capital \u2014 not your money No challe",
+    "url": "https://www.mavericktrading.com/job/equity-options-trader-price-ut",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "cation Price, UT Type Remote / Contractor Profit Split 65% \u2013 90% Salary Range $50K \u2013 $200K/yr Experience Preferred, not required Markets Stocks, Options, Futures Why Maverick? 20+ years in the industry Real firm capital \u2014 not your money No challenge acco",
+    "url": "https://www.mavericktrading.com/job/equity-options-trader-price-ut",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "rop firm challenges operate on two key constraints: a daily loss limit and a maximum trailing drawdown. These numbers are fixed \u2014 typically 4-5% daily and 8-10% maximum \u2014 and they don't change based on market conditions. In normal liquidity environments, these limits fun",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-challenge-rules-what-most-traders-miss",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "26-03-10T09:00:00.000Z weekly 0.6 https://www.mavericktrading.com/blogs/how-to-read-crypto-market-structure 2026-02-17T14:00:00.000Z weekly 0.6 https://www.mavericktrading.com/blogs/risk-management-for-forex-traders 2026-02-10T14:00:00.000Z weekly 0.6 https:",
+    "url": "https://www.mavericktrading.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "00.000Z monthly 0.6 https://www.mavericktrading.com/job/equity-options-trader-enterprise-al 2026-09-15T00:00:00.000Z monthly 0.6 https://www.mavericktrading.com/job/equity-options-trader-opelika-al 2026-09-21T00:00:00.000Z monthly 0.6 https://www.maverickt",
+    "url": "https://www.mavericktrading.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "green, Colorado Before I joined Maverick Trading, I had studied a little bit about basic options combinations, but I had no prior experience trading. With the help of Maverick Trading I have been able to transition nicely to the world of high finance. Having a risk manager that gives guidance and support has helped g",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "ly 0.7 https://www.mavericktrading.com/free-trading-videos/articles/position-sizing-mastery 2026-08-29T15:03:04.207Z monthly 0.7 https://www.mavericktrading.com/free-trading-videos/articles/fed-speeches-currency-markets-jackson-hole 2026-08-28T14:22:08.860Z monthly 0.7 https://w",
+    "url": "https://www.mavericktrading.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "0.728Z monthly 0.7 https://www.mavericktrading.com/free-trading-videos/articles/why-scaling-trading-accounts-fails 2026-08-13T15:00:46.980Z monthly 0.7 https://www.mavericktrading.com/free-trading-videos/articles/sector-rotation-strategy 2026-08-12T23:08:04.141Z monthly 0.7 https://www.mavericktrading",
+    "url": "https://www.mavericktrading.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ills in our prop trading firm by providing risk manag",
+    "snippet": "erick Trading, we are dedicated to helping our traders develop disciplined trading skills in our prop trading firm by providing risk management oversight, technology and access to other professional traders. Apply Now Learn More 90% Max Split 20+ Years Active Real Capital Strike Bid Ask IV \u0394 \u2014 SPY CALLS",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "cess in our prop trading firm by providing risk manag",
+    "snippet": "ck Trading, we are dedicated to helping our traders achieve the highest levels of success in our prop trading firm by providing risk management oversight, technology and access to other professional traders. Learn More Diversity We invite all people, regardless of race, gender, ethnicity, and any other pr",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "respect and dignity to all of them. We don't just sa",
+    "snippet": "members. Respect We value our workers, and so we make sure to offer high levels of respect and dignity to all of them. We don't just say we care, we show it. Transparency We demonstrate our commitment to transparency by informing our workers of exactly what is expected of them and of all risks involved",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ely to the world of high finance. Having a risk manag",
+    "snippet": "erience trading. With the help of Maverick Trading I have been able to transition nicely to the world of high finance. Having a risk manager that gives guidance and support has helped greatly in my trading as well. I am looking forward to being a trader at Maverick Trading for decades to come. ARE YOU OUR",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "te that you can implement your trading plan and manag",
+    "snippet": "llection of simulators, tests & strategy courses. 3 Prove Trading Success Demonstrate that you can implement your trading plan and manage risk with discipline and consistency. 4 Trade Our Capital Trade our capital and keep 65-90% of the profits \u2013 get paid out every month. Have you read our book? Mav",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trading methodology, and our philosophy on risk manag",
+    "snippet": "a gateway many of the firm's current traders have used to get to know the firm, our trading methodology, and our philosophy on risk management. Deciding to become a professional trader is a serious undertaking. If you are looking for a way to get to know us before actively applying to the firm, we recomme",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ading firm focused on disciplined trading, risk manag",
+    "snippet": "O A TRADING CAREER Apply Now M MAVERICK TRADING Maverick Trading is a proprietary trading firm focused on disciplined trading, risk management, and trader development. Learn about our qualification program and approach to trading firm capital. Contact Info P.O. Box 900802 Salt Lake City, UT 84090 Mon -",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "how-firms-manag",
+    "snippet": "00:00.000Z monthly 0.7 https://www.mavericktrading.com/free-trading-videos/articles/how-firms-manage-risk-at-scale 2026-03-24T00:00:00.000Z monthly 0.7 https://www.mavericktrading.com/free-trading-videos/articles/trading-slumps 2026-03-19T00:00:00.000Z monthly 0.7 ht",
+    "url": "https://www.mavericktrading.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading limitations\n The goal becomes simple:\n Follow the rules long enough to complete the challenge successfully",
+    "snippet": "drawdowns Maximum overall drawdowns Time limits Position sizing restrictions News trading limitations The goal becomes simple: Follow the rules long enough to complete the challenge successfully. That sounds reasonable. However, many traders unintentionally shift their focus away from becoming consistently profitable and toward passing a ",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-vs-challenge-model-which-one-actually-develops-traders",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn More 90% Max Split 20+ Years Active Real Capital \n Strike Bid Ask IV \u0394 \u2014 SPY CALLS \u2014 570C 12",
+    "snippet": "nagement oversight, technology and access to other professional traders. Apply Now Learn More 90% Max Split 20+ Years Active Real Capital Strike Bid Ask IV \u0394 \u2014 SPY CALLS \u2014 570C 12.40 12.55 18% 0.72 575C 8.30 8.45 19% 0.62 580C 4.20 4.35 22% 0.48 585C 2.85 2.95 24% 0.38 590C 1.60 1.70 26% 0.27 595C 0.75 0.82 28% 0.17 600C 0.30 0.36 31% 0.0",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured In:\n \n Award\n Top Proprietary Trading\nServices Provider 2023\n Affiliated With:\n \n Break-even Profit Loss WHY WOR",
+    "snippet": "450P 2.95 3.05 24% \u22120.38 445P 1.55 1.65 26% \u22120.25 440P 0.70 0.78 29% \u22120.14 As Featured In: Award Top Proprietary Trading Services Provider 2023 Affiliated With: Break-even Profit Loss WHY WORK WITH US About Our Company: Maverick Trading Option Prop Firm We are so confident in our proprietary traders and our qualification program that we b",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More Diversity\n We invite all people, regardless of race, gender, ethnicity, and any other protected class to join ",
+    "snippet": "ng risk management oversight, technology and access to other professional traders. Learn More Diversity We invite all people, regardless of race, gender, ethnicity, and any other protected class to join us in building a more abundant future for Maverick Trading and all its members. Respect We value our workers, and so we make sure to offe",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatly in my trading as well",
+    "snippet": "of high finance. Having a risk manager that gives guidance and support has helped greatly in my trading as well. I am looking forward to being a trader at Maverick Trading for decades to come. ARE YOU OUR NEXT TRADER? TAKE THE FIRST STEP TO A TRADING CAREER Apply Now Maveric",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat Money-Making Techniques\n Earn additional trading capital and higher profit splits by producing consistent profits",
+    "snippet": "y Now Maverick Trading Option Prop Firm: Trade Our Capital. Keep 65-90% Great Money-Making Techniques Earn additional trading capital and higher profit splits by producing consistent profits. Proven Game Plan Every Maverick trader develops and follows a personalized, detailed trading plan using specific rule-based tactics and methodologie",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@mavericktrading.com",
+    "snippet": "Contact Info P.O. Box 900802 Salt Lake City, UT 84090 Mon - Fri: 6AM - 5PM MST support@mavericktrading.com \u00a9 2026 Maverick Trading. All rights reserved. Privacy Policy Terms of Service Insider Trading Policy",
+    "url": "https://www.mavericktrading.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "reset fees rather than from trader profits, there is no financial incentive to adjust rules for market conditions",
+    "snippet": "a fee-based prop firm model, where the firm earns primarily from challenge fees and reset fees rather than from trader profits, there is no financial incentive to adjust rules for market conditions. If anything, tighter conditions that produce more breaches serve the revenue model. The firm collects the challenge fee. The trader resets. T",
+    "url": "https://www.mavericktrading.com/free-trading-videos/articles/prop-firm-challenge-rules-what-most-traders-miss",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "ell takes the podium Friday morning. Roughly 120 central bankers, policymakers, and economists from more than 70 countries will be in the room. Every currency pair, every bond market"
+ ],
+ "errors": []
+}

@@ -1,0 +1,477 @@
+{
+ "slug": "proped-capital",
+ "name": "PropEd Capital",
+ "category": "Forex/CFD",
+ "url": "https://propedcapital.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://propedcapital.com/",
+   "kind": "home",
+   "chars": 7449
+  },
+  {
+   "url": "https://propedcapital.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6108
+  },
+  {
+   "url": "https://propedcapital.com/plans/standard-evaluation",
+   "kind": "page",
+   "chars": 1648
+  },
+  {
+   "url": "https://propedcapital.com/faq/trading-rules",
+   "kind": "page",
+   "chars": 3667
+  },
+  {
+   "url": "https://propedcapital.com/plans/one-plan",
+   "kind": "page",
+   "chars": 1511
+  },
+  {
+   "url": "https://propedcapital.com/plans/truerisk-instant-funded",
+   "kind": "page",
+   "chars": 1723
+  },
+  {
+   "url": "https://propedcapital.com/plans",
+   "kind": "page",
+   "chars": 3499
+  },
+  {
+   "url": "https://propedcapital.com/plans/truerisk-eval",
+   "kind": "page",
+   "chars": 1666
+  },
+  {
+   "url": "https://propedcapital.com/plans/instant-funded",
+   "kind": "page",
+   "chars": 1542
+  },
+  {
+   "url": "https://propedcapital.com/faq/plan-comparison",
+   "kind": "page",
+   "chars": 2930
+  },
+  {
+   "url": "https://propedcapital.com/faq/payouts-profit-splits",
+   "kind": "page",
+   "chars": 2782
+  },
+  {
+   "url": "https://propedcapital.com/blog/prop-firm-guides/prop-firm-drawdown-rules",
+   "kind": "page",
+   "chars": 5017
+  },
+  {
+   "url": "https://propedcapital.com/faq/drawdowns",
+   "kind": "page",
+   "chars": 2464
+  }
+ ],
+ "page_count": 13,
+ "total_chars": 42018,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "100",
+    "snippet": "us Connect only: 5% trailing max loss, 7% target, weekly payouts from period profit, 100% profit share, and a daily loss limit that keeps a single session from ending the account. Current pricing and plan-derived fields come from the active Nexus catalog. Your checkout summary and account",
+    "url": "https://propedcapital.com/plans/one-plan",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "7",
+    "snippet": "One Plan Futures Evaluation Accounts One rule set, Nexus Connect only: 5% trailing max loss, 7% target, weekly payouts from period profit, 100% profit share, and a daily loss limit that keeps a single session from ending the account. Current pricing and plan-deriv",
+    "url": "https://propedcapital.com/plans/one-plan",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "us Connect only: 5% trailing max loss, 7% target, weekly payouts from period profit, 100% profit share, and a daily loss limit that keeps a single session from ending the account. Current pricing and plan-derived fields come from the active Nexus catalog. Your checkout s",
+    "url": "https://propedcapital.com/plans/one-plan",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "750",
+    "snippet": "s \u2014 and for qualifying traders, the opportunity to trade live capital . Explore the $750K One Plan Compare All Plans See How It Works \u2605\u2605\u2605\u2605\u2605 Read verified reviews on Trustpilot Live average payout time 3 hr 19 min Updated with each paid payout. Trader Win",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "$10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account throu",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "$2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account through Ironbeam. Traders sign a live",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "102",
+    "snippet": "threshold = $96,900 Day 3: You close at $101,500. Threshold stays $96,900 (high was $102k) Day 4: You close at $104,000. New threshold = $98,800 Why EOD Matters Some firms use intraday trailing drawdown, which means if you spike to a new high during the da",
+    "url": "https://propedcapital.com/blog/prop-firm-guides/prop-firm-drawdown-rules",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "750",
+    "snippet": "s \u2014 and for qualifying traders, the opportunity to trade live capital . Explore the $750K One Plan Compare All Plans See How It Works \u2605\u2605\u2605\u2605\u2605 Read verified reviews on Trustpilot Live average payout time 3 hr 19 min Updated with each paid payout. Trader Wi",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "sim-funded accounts with at least 1 payout at the time of the 4th payout, capped at $10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1.25",
+    "snippet": "nts with at least 1 payout at the time of the 4th payout, capped at $10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while yo",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "t 1 payout at the time of the 4th payout, capped at $10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live ac",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "time of the 4th payout, capped at $10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "payout, capped at $10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "$10,000 . 25k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account thro",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,00",
+    "snippet": "k / $1.25k TrueRisk $2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account through Ironbeam. Tr",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "$2,000 live 50k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account through Ironbeam. Traders sign a live",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "0k / $2.5k TrueRisk $3,000 live 100k / $5k TrueRisk $4,000 live 150k / $10k TrueRisk $5,000 live \u26a0 Notes \u2022 You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account through Ironbeam. Traders sign a live agreement. \u2022 I",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,00",
+    "snippet": "on path. Live Balance Multiplier (50k example) 1 account $3,000 2 account s $6,000 3 account s $9,000 4 account s $10,000 (cap) Combined live balance is always capped at $10,000. Full details in the FAQ. Plans Choose your starting point. R",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9,00",
+    "snippet": "Multiplier (50k example) 1 account $3,000 2 account s $6,000 3 account s $9,000 4 account s $10,000 (cap) Combined live balance is always capped at $10,000. Full details in the FAQ. Plans Choose your starting point. Review each program and",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "the Nexus store Evaluation TrueRisk Eval From $249 From $124.50 4 active options Static drawdown Current rules shown in the Nexus store Funded Instant Funded From $599 From $299.50 3 active options Catalog-defined drawdown Current rules shown in the Nexus store",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trailing",
+    "snippet": "program One Plan Futures Evaluation Accounts One rule set, Nexus Connect only: 5% trailing max loss, 7% target, weekly payouts from period profit, 100% profit share, and a daily loss limit that keeps a single session from ending the account. Current pricing and p",
+    "url": "https://propedcapital.com/plans/one-plan",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule Withdrawal Buffer Sim-Funded Payouts & Splits Real-Time Passing Evaluation Queueing Accou",
+    "snippet": "One Plan Evaluation Plans at a Glance Trading Rules Blacklist & Ban Policy Drawdowns Consistency Rule Withdrawal Buffer Sim-Funded Payouts & Splits Real-Time Passing Evaluation Queueing Account Management Platform & Getting Started Restricted Countries Live Funded Accounts Plan Comparison Market Data & Subscriptions Access your accounts, ",
+    "url": "https://propedcapital.com/faq/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule \u2192 \n Home One Plan $750K Evaluation Compare All Plans Education Packages Events Indicators",
+    "snippet": "Funding - 150k $150,000 $7,500 Eod Compare current plans \u2190 Blacklist & Ban Policy Consistency Rule \u2192 Home One Plan $750K Evaluation Compare All Plans Education Packages Events Indicators Videos Blog Futures Prop Firm Guide September Showdown Platform Affiliates Payout Proof About FAQ Support Legal documents Terms Affiliate Terms Privacy W",
+    "url": "https://propedcapital.com/faq/drawdowns",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "daily",
+    "snippet": "Accounts One rule set, Nexus Connect only: 5% trailing max loss, 7% target, weekly payouts from period profit, 100% profit share, and a daily loss limit that keeps a single session from ending the account. Current pricing and plan-derived fields come from the active Nexus catalog. Your checkout summary and ac",
+    "url": "https://propedcapital.com/plans/one-plan",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "g in the store and save 15% on top of any other discount, or request a withdrawal to Rise, Wise or USDC whenever you like. Credited the moment a request is approved \u2014 clean requests are approved automatically. 15% off every account, add-on and education pack",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Wise",
+    "snippet": "he store and save 15% on top of any other discount, or request a withdrawal to Rise, Wise or USDC whenever you like. Credited the moment a request is approved \u2014 clean requests are approved automatically. 15% off every account, add-on and education package wh",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "and save 15% on top of any other discount, or request a withdrawal to Rise, Wise or USDC whenever you like. Credited the moment a request is approved \u2014 clean requests are approved automatically. 15% off every account, add-on and education package when you p",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "Currency Futures 6E, 6J, 6B, 6A, 6C, 6S, 6N, 6M Treasury Futures ZB, ZN, ZF, ZT, GE Crypto Futures BTC, MBT, ETH, MET Compare current plans \u2190 Plans at a Glance Blacklist & Ban Policy \u2192 Home One Plan $750K Evaluation Compare All Plans Education Packages Eve",
+    "url": "https://propedcapital.com/faq/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "/blog 2026-10-11T15:18:14.460Z monthly 0.80 https://propedcapital.com/blog/futures-basics 2026-10-11T15:18:14.460Z monthly 0.80 https://propedcapital.com/blog/prop-firm-guides 2026-10-11T15:18:14.460Z monthly 0.80 https://propedcapital.com/blog/platform-help 2026-10-11T15:18:1",
+    "url": "https://propedcapital.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Sca",
+    "snippet": "us. Log in to Nexus \u2192 Trading Rules What trading styles are allowed? Day Trading Scalping Swing / Overnight News Trading (NFP, FOMC, CPI) Copy Trading (built into Onyx) EAs / Bots / Automated Can I hold overnight or over the weekend? Yes. Unlike many prop firms, we do not force-close positions at end of day. You can hold overnight and swi",
+    "url": "https://propedcapital.com/faq/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Live averag",
+    "snippet": "Plan Compare All Plans See How It Works \u2605\u2605\u2605\u2605\u2605 Read verified reviews on Trustpilot Live average payout time 3 hr 19 min Updated with each paid payout. Trader Wins Recent payouts, out in the open. Certificates from approved payouts, shown here because the goal",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Two routes into the sa",
+    "snippet": "Nexus Connect. Rithmic dxFeed Nexus Connect Explore the platform \u2192 Funding Paths Two routes into the same live review path. Compare evaluation and instant-funded options using the current catalog. Availability and account rules can change, so review the selected plan befo",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "down, consistency, and position limits. The plans pag",
+    "snippet": "kout. Eval to Sim-Funded to Live Evaluation plans use catalog-defined targets, drawdown, consistency, and position limits. The plans page shows the active options and their current values. Compare active evaluation options Review current targets and drawdown Confirm account-specific status in Nexus Ins",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eview current payout and consistency terms Confirm ag",
+    "snippet": "Review the current option before purchasing. Compare active instant-funded options Review current payout and consistency terms Confirm agreements before activation The Journey Your Path From Signup to Live Capital Compare Plans Review the active catalog and choose the account rules that fit your appro",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Use your dashboard and current ag",
+    "snippet": "ailable payout actions and status appear in Nexus for each account. Track Progress Use your dashboard and current agreements as the authority for account milestones. Compare Plans Review the active catalog and choose the account rules that fit your approach. Review Rules Confir",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sub-account through Ironbeam. Traders sign a live ag",
+    "snippet": "You cannot be in sim-funded while you have a live account open. \u2022 Live account is a sub-account through Ironbeam. Traders sign a live agreement. \u2022 If not approved for live, restart at the beginning of the evaluation path. Live Balance Multiplier (50k example) 1 account $3,000 2 account s $6,000",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "dollar. Spend credits on anything in the store and sa",
+    "snippet": "are is credited to your Payout Wallet in Nexus as payout credits \u2014 one credit is one dollar. Spend credits on anything in the store and save 15% on top of any other discount, or request a withdrawal to Rise, Wise or USDC whenever you like. Credited the moment a request is approved \u2014 clean requests are appr",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "off every account, add-on and education packag",
+    "snippet": "ed the moment a request is approved \u2014 clean requests are approved automatically. 15% off every account, add-on and education package when you pay with credits, stacked on top of any code. Withdraw all or part of your balance: 3.5% fee, $250 minimum, processed by our payout team. Credits never expire,",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted-countries 2026-10-11T15:18:14",
+    "snippet": "getting-started 2026-10-11T15:18:14.460Z monthly 0.75 https://propedcapital.com/faq/restricted-countries 2026-10-11T15:18:14.460Z monthly 0.75 https://propedcapital.com/faq/live-funded-accounts 2026-10-11T15:18:14.460Z monthly 0.75 https://propedcapital.com/faq/plan-comparison 2026-10-11T15:",
+    "url": "https://propedcapital.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Restricted Countries Live Funded Accounts Plan Comparison Market Data & Subscriptions Access your accounts, agreements, ",
+    "snippet": "Real-Time Passing Evaluation Queueing Account Management Platform & Getting Started Restricted Countries Live Funded Accounts Plan Comparison Market Data & Subscriptions Access your accounts, agreements, and payout requests in Nexus. Log in to Nexus \u2192 Trading Rules What trading styles are allowed? Day Trading Scalping Swing / Overnight Ne",
+    "url": "https://propedcapital.com/faq/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund eligibility and purchase terms are governed by the current Terms & Conditions, not this summary",
+    "snippet": "al - 150k 80% $500 $5,000 Biweekly Instant Funding - 150k 80% $500 $5,000 Biweekly Refund eligibility and purchase terms are governed by the current Terms & Conditions, not this summary. Compare current plans \u2190 Withdrawal Buffer Real-Time Passing \u2192 Home One Plan $750K Evaluation Compare All Plans Education Packages Events Indicators Video",
+    "url": "https://propedcapital.com/faq/payouts-profit-splits",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading (NFP, FOMC, CPI)\n Copy Trading (built into Onyx)\n EAs / Bots / Automated\n Can I hold overnight or over the ",
+    "snippet": "g Rules What trading styles are allowed? Day Trading Scalping Swing / Overnight News Trading (NFP, FOMC, CPI) Copy Trading (built into Onyx) EAs / Bots / Automated Can I hold overnight or over the weekend? Yes. Unlike many prop firms, we do not force-close positions at end of day. You can hold overnight and swing trade freely. Swipe or us",
+    "url": "https://propedcapital.com/faq/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn Trade Earn Company Checking account\u2026 \n New: the Payout Wallet \u2014 approved payouts become credits you can spend at 15",
+    "snippet": "al | Futures Prop Firm with Transparent Rules Skip to main content Home Plans Store Learn Trade Earn Company Checking account\u2026 New: the Payout Wallet \u2014 approved payouts become credits you can spend at 15% off or withdraw The Futures Prop Firm With No Asterisks. PropEd Capital gives futures traders a transparent path from evaluation to sim",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead verified reviews on Trustpilot \n Live average payout time\n 3 hr 19 min\n Updated with each paid payout",
+    "snippet": "live capital . Explore the $750K One Plan Compare All Plans See How It Works \u2605\u2605\u2605\u2605\u2605 Read verified reviews on Trustpilot Live average payout time 3 hr 19 min Updated with each paid payout. Trader Wins Recent payouts, out in the open. Certificates from approved payouts, shown here because the goal is not just passing accounts. It is getting ",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each account",
+    "snippet": "talog. Payout visibility Nexus shows current eligibility, requests, and status for each account. Drawdown details Review the catalog-defined drawdown for each available plan before checkout. Account progress Track account state and available next actions from t",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each available plan before checkout",
+    "snippet": "status for each account. Drawdown details Review the catalog-defined drawdown for each available plan before checkout. Account progress Track account state and available next actions from the dashboard. Platforms & Data Three platforms. Three real-time data feeds. Trade on Onyx, Ne",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal-time data feeds",
+    "snippet": "vailable next actions from the dashboard. Platforms & Data Three platforms. Three real-time data feeds. Trade on Onyx, Nexus Connect, or Volumetrica \u2014 each connected to a professional real-time market-data feed: Rithmic, dxFeed, and Nexus Connect. Rithmic dxFeed Nexus C",
+    "url": "https://propedcapital.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "Plan Account Size Price Profit Target Drawdown Buffer Eval / Funded Consistency Min Payout Payout Cap TrueRisk - Instant Funded - 2.5k $2,500 $799 $399.50 $0 $2,500 (Static) 120% 20% / 20% $500 $3,000 TrueRisk - Instant Funded - 5k $5,000 $1,199 $599.50 $0 $5,000 (Static) 120% 20% / 20% $5",
+    "url": "https://propedcapital.com/plans/truerisk-instant-funded",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap Standard Eval - 25k $25,000 $109 $54",
+    "snippet": "ccount Size Price Profit Target Drawdown Buffer Eval / Funded Consistency Min Payout Payout Cap Standard Eval - 25k $25,000 $109 $54.50 $1,500 $1,000 (eod) $0 40% / 40% $500 $1,500 Standard Eval - 50k $50,000 $175 $87.50 $3,000 $2,000 (eod) $0 40% / 40% $500 $3,000 Standard Eval - 100k $100,000 $285 $",
+    "url": "https://propedcapital.com/plans/standard-evaluation",
+    "kind": "page"
+   },
+   {
+    "value": "Payout Cap One Plan - 750k $750,000 $1,095 $547",
+    "snippet": "ccount Size Price Profit Target Drawdown Buffer Eval / Funded Consistency Min Payout Payout Cap One Plan - 750k $750,000 $1,095 $547.50 $52,500 $37,500 (eod) 7% 0% / 33% $100 Not specified Home One Plan $750K Evaluation Compare All Plans Education Packages Events Indicators Videos Blog Futures Prop Fi",
+    "url": "https://propedcapital.com/plans/one-plan",
+    "kind": "page"
+   },
+   {
+    "value": "Payout Cap TrueRisk - Instant Funded - 2",
+    "snippet": "ccount Size Price Profit Target Drawdown Buffer Eval / Funded Consistency Min Payout Payout Cap TrueRisk - Instant Funded - 2.5k $2,500 $799 $399.50 $0 $2,500 (Static) 120% 20% / 20% $500 $3,000 TrueRisk - Instant Funded - 5k $5,000 $1,199 $599.50 $0 $5,000 (Static) 120% 20% / 20% $500 $4,000 T",
+    "url": "https://propedcapital.com/plans/truerisk-instant-funded",
+    "kind": "page"
+   },
+   {
+    "value": "Payout Cap TrueRisk Eval - 1",
+    "snippet": "ccount Size Price Profit Target Drawdown Buffer Eval / Funded Consistency Min Payout Payout Cap TrueRisk Eval - 1.25k $1,250 $249 $124.50 $1,875 $1,250 (Static) 0% 0% / 40% $500 $1,000 TrueRisk Eval - 2.5k $2,500 $449 $224.50 $3,750 $2,500 (Static) 0% 0% / 40% $500 $1,500 TrueRisk E",
+    "url": "https://propedcapital.com/plans/truerisk-eval",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscriptions 2026-10-11T15:18:14",
+    "snippet": "son 2026-10-11T15:18:14.460Z monthly 0.75 https://propedcapital.com/faq/market-data-subscriptions 2026-10-11T15:18:14.460Z monthly 0.75 https://propedcapital.com/blog/prop-firm-guides/best-futures-prop-firms 2026-10-11T15:18:14.460Z monthly 0.70 https://propedcapital.com/blog/prop-fir",
+    "url": "https://propedcapital.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Subscriptions Access your accounts, agreements, and payout requests in Nexus",
+    "snippet": "ting Started Restricted Countries Live Funded Accounts Plan Comparison Market Data & Subscriptions Access your accounts, agreements, and payout requests in Nexus. Log in to Nexus \u2192 Trading Rules What trading styles are allowed? Day Trading Scalping Swing / Overnight News Trading (NFP, FOMC, CPI) Copy Trading (built into On",
+    "url": "https://propedcapital.com/faq/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Subscriptions \u2192 \n Home One Plan $750K Evaluation Compare All Plans Education Packages Events Indicators Videos Blog Futu",
+    "snippet": "(Eod) 6% 20% / 20% 80% Compare current plans \u2190 Live Funded Accounts Market Data & Subscriptions \u2192 Home One Plan $750K Evaluation Compare All Plans Education Packages Events Indicators Videos Blog Futures Prop Firm Guide September Showdown Platform Affiliates Payout Proof About FAQ Support Legal documents Terms Affiliate Terms Privacy What",
+    "url": "https://propedcapital.com/faq/plan-comparison",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "catalog options Plan Account Size Price Profit Target Drawdown Eval / Funded Consistency Contracts Instant Funding - 50k $50,000 $599 $299.50 $0 $2,500 (eod) 20% / 20% 3 minis / 30 micros Instant Funding - 100k $100,000 $949 $474.50 $0 $5,000 (eod) 20% / 20% 6 minis / 60 mi",
+   "url": "https://propedcapital.com/plans"
+  },
+  {
+   "name": "Futures",
+   "snippet": "log/platform-help/onyx-copy-trading-setup 2026-10-11T15:18:14.460Z monthly 0.70 Standard Evaluation Futures Accounts | PropEd Capital Skip to main content Home Plans Store Learn Trade Earn Company Checking account\u2026 Evaluation program Standard Evaluation Futures Accounts",
+   "url": "https://propedcapital.com/plans/standard-evaluation"
+  }
+ ],
+ "platforms": [
+  "Rithmic",
+  "Volumetrica"
+ ],
+ "assets": [
+  "Metals",
+  "Crypto",
+  "Energy",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "that qualified the trader. The live balance is multiplied by the number of sim-funded accounts with at least 1 payout at the time of the 4th payout, capped at $10,000 . 25k / $",
+  "d on a tamper-evident ledger you can review in your wallet. Start an evaluation Wallet rules Payout Wallet 2,520 payout credits 1 credit = $1 Payout credited \u00b7 Account F2296945",
+  "n review in your wallet. Start an evaluation Wallet rules Payout Wallet 2,520 payout credits 1 credit = $1 Payout credited \u00b7 Account F2296945 +$2,520 Spent on order \u00b7 One Pl"
+ ],
+ "errors": [
+  "https://propedcapital.com/faq/one-plan-evaluation:404:http-404"
+ ]
+}

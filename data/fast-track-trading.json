@@ -1,0 +1,12 @@
+{
+ "slug": "fast-track-trading",
+ "name": "Fast Track Trading",
+ "category": "Forex/CFD",
+ "url": "https://fasttracktrading.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -5] No address associated with hostname>"
+ ]
+}

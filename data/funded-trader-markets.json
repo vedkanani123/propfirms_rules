@@ -1,0 +1,565 @@
+{
+ "slug": "funded-trader-markets",
+ "name": "Funded Trader Markets",
+ "category": "Forex/CFD",
+ "url": "https://fundedtradermarkets.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundedtradermarkets.com/",
+   "kind": "home",
+   "chars": 22934
+  },
+  {
+   "url": "https://fundedtradermarkets.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 298
+  },
+  {
+   "url": "https://fundedtradermarkets.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 18648
+  },
+  {
+   "url": "https://fundedtradermarkets.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 69314
+  },
+  {
+   "url": "https://fundedtradermarkets.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4764
+  },
+  {
+   "url": "https://fundedtradermarkets.com/faq-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 72582
+  },
+  {
+   "url": "https://fundedtradermarkets.com/de/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 8042
+  },
+  {
+   "url": "https://fundedtradermarkets.com/ja/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 6264
+  },
+  {
+   "url": "https://fundedtradermarkets.com/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 7247
+  },
+  {
+   "url": "https://fundedtradermarkets.com/ar/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 7181
+  },
+  {
+   "url": "https://fundedtradermarkets.com/ms/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 7821
+  },
+  {
+   "url": "https://fundedtradermarkets.com/fr/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 7787
+  },
+  {
+   "url": "https://fundedtradermarkets.com/es/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 8098
+  },
+  {
+   "url": "https://fundedtradermarkets.com/pt/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+   "kind": "page",
+   "chars": 7670
+  },
+  {
+   "url": "https://fundedtradermarkets.com/es/faq/what-impact-does-the-trailing-overall-drawdown-have-on-payouts-in-a-nitro-simulated-funded-account",
+   "kind": "page",
+   "chars": 8553
+  },
+  {
+   "url": "https://fundedtradermarkets.com/ar/faq/what-impact-does-the-trailing-overall-drawdown-have-on-payouts-in-a-nitro-simulated-funded-account",
+   "kind": "page",
+   "chars": 7675
+  },
+  {
+   "url": "https://fundedtradermarkets.com/de/faq/what-impact-does-the-trailing-overall-drawdown-have-on-payouts-in-a-nitro-simulated-funded-account",
+   "kind": "page",
+   "chars": 8522
+  },
+  {
+   "url": "https://fundedtradermarkets.com/fr/faq/what-impact-does-the-trailing-overall-drawdown-have-on-payouts-in-a-nitro-simulated-funded-account",
+   "kind": "page",
+   "chars": 8483
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 281900,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "K $480 $120 $100K $622 $249 $200K $1,096 $439 $300K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4% Profit Split Up to 90% Consistency Score Evaluation Phase Yes Simulated Funded Yes $5K $10K $25K $50K",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "0K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4% Profit Split Up to 90% Consistency Score Evaluation Phase Yes Simulated Funded Yes $5K $10K $25K $50K $100K $200K $300K Fee $236 $59 Get Started with 1",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "$622 $249 $200K $1,096 $439 $300K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4% Profit Split Up to 90% Consistency Score Evaluation Phase Yes Simulated Funded Yes $5K $10K $25K $50K $100K $200K $300K Fee $23",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "icator // The FTM Advantage Why traders choose FTM. Round-the-clock support, up to 90% profit splits, on-demand rewards, and best-in-class trading conditions. Live Rewards $8.90M Recent settlements Ghulam Abbas Pakistan $2,591 6d ago ISHAN MAHAJAN India $219 6d",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ard I got paid within 13 minutes of withdrawal request, responsive customer support, 100% profit split of upto $10k, rewards on demand at no extra charge, this is the best platform outsider. Shogo Abel \u2116 02 FTM is the most authentic and Trusted prop firm where the CEO w",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "uwa \u2116 06 Recieved my first withdrawal... Alhamdullilah received my first withdrawal 50% split. Can't believe my reward processed and received into my wallet in just 2 minutes ????. FTM is the most legit prop firm ever find. Highly recommended. Muhammad M Get F",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "funded in days 01 Pick your program Choose a challenge type and account size from $5K to $300K. Pay the one-time fee. 02 Hit the profit target Trade on MT5, cTrader, TradeLocker and MatchTrader, four of the world's most prestigious platforms. Reach you",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "in days 01 Pick your program Choose a challenge type and account size from $5K to $300K. Pay the one-time fee. 02 Hit the profit target Trade on MT5, cTrader, TradeLocker and MatchTrader, four of the world's most prestigious platforms. Reach your profit",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "inutes of withdrawal request, responsive customer support, 100% profit split of upto $10k, rewards on demand at no extra charge, this is the best platform outsider. Shogo Abel \u2116 02 FTM is the most authentic and Trusted prop firm where the CEO works like ful",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "O P * C H O I C E * Trader's Top Choice 1-Step Nitro $5K $80 $20 $10K $116 $29 $25K $236 $59 $50K $480 $120 $100K $622 $249 $200K $1,096 $439 $300K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4%",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "E * Trader's Top Choice 1-Step Nitro $5K $80 $20 $10K $116 $29 $25K $236 $59 $50K $480 $120 $100K $622 $249 $200K $1,096 $439 $300K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4% Profit Split",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Top Choice 1-Step Nitro $5K $80 $20 $10K $116 $29 $25K $236 $59 $50K $480 $120 $100K $622 $249 $200K $1,096 $439 $300K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4% Profit Split Up to 90% Cons",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Nitro $5K $80 $20 $10K $116 $29 $25K $236 $59 $50K $480 $120 $100K $622 $249 $200K $1,096 $439 $300K $1,622 $649 Plan Features Profit Target 10% Max Overall Drawdown % 6% Max Daily Drawdown % 4% Profit Split Up to 90% Consistency Score Ev",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "24",
+    "snippet": "Programs Programs 01 - 03 01 / 1S 1 Step Challenge Your strategy, your reward. FROM $24 02 / 2S 2-Step Challenge No time limits, static drawdown, and low costs. FROM $33 03 / IF Instant Funding Access simulated capital with no evaluation FROM $47 \u21b3 Cmp Comp",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "33",
+    "snippet": "OM $24 02 / 2S 2-Step Challenge No time limits, static drawdown, and low costs. FROM $33 03 / IF Instant Funding Access simulated capital with no evaluation FROM $47 \u21b3 Cmp Compare All Programs Find the perfect program for your trading style How It Works Re",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "47",
+    "snippet": "s. FROM $33 03 / IF Instant Funding Access simulated capital with no evaluation FROM $47 \u21b3 Cmp Compare All Programs Find the perfect program for your trading style How It Works Rewards Affiliates FAQ , Must Read Must Read Resources Resources 01 - 03 01 /",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8.90",
+    "snippet": "ded - Up to 75% OFF Discord X / Twitter Instagram Scroll to top // GET FUNDED 0% $8.90M Paid & Counting Long on Traders. Short on Excuses. Get Funded - Up to 75% OFF Join Discord Opens in new tab 0 + Countries Covered $ 0 M Max Allocat",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "Get Funded - Up to 75% OFF Join Discord Opens in new tab 0 + Countries Covered $ 0 M Max Allocation 0 Hour Performance Reward Guaranteed Avg. under 20 mins Up to 0 % Reward Split MetaTrader 5 Available Exceptional feefo Scroll for more Scroll",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,59",
+    "snippet": "trading conditions. Live Rewards $8.90M Recent settlements Ghulam Abbas Pakistan $2,591 6d ago ISHAN MAHAJAN India $219 6d ago Emanuel Kienast Austria $374 6d ago Baljot Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar T",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "219",
+    "snippet": "90M Recent settlements Ghulam Abbas Pakistan $2,591 6d ago ISHAN MAHAJAN India $219 6d ago Emanuel Kienast Austria $374 6d ago Baljot Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "374",
+    "snippet": "istan $2,591 6d ago ISHAN MAHAJAN India $219 6d ago Emanuel Kienast Austria $374 6d ago Baljot Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma India $535 8d ago Naveen Kumar Mamid",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "N India $219 6d ago Emanuel Kienast Austria $374 6d ago Baljot Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma India $535 8d ago Naveen Kumar Mamidi India $179 8d ago lincoln kom",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,04",
+    "snippet": "Kienast Austria $374 6d ago Baljot Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma India $535 8d ago Naveen Kumar Mamidi India $179 8d ago lincoln komape South Africa $1,184 9d ag",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "228",
+    "snippet": "t Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma India $535 8d ago Naveen Kumar Mamidi India $179 8d ago lincoln komape South Africa $1,184 9d ago Muhammad Ahmad Pakistan $3,161",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "535",
+    "snippet": "Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma India $535 8d ago Naveen Kumar Mamidi India $179 8d ago lincoln komape South Africa $1,184 9d ago Muhammad Ahmad Pakistan $3,161 9d ago Alexey Vershinin Germany $43",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "llenge Your strategy, your reward. FROM $24 02 / 2S 2-Step Challenge No time limits, static drawdown, and low costs. FROM $33 03 / IF Instant Funding Access simulated capital with no evaluation FROM $47 \u21b3 Cmp Compare All Programs Find the perfect program for your tradin",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "erzielter Gewinn) Accountgr\u00f6\u00dfe: $100.000 Aktueller simulierter Gewinn: 6 % (6.000 $) Trailing Drawdown festgelegt auf das Anfangsbilanz: $100.000 Szenario 1: Vollst\u00e4ndige Abhebung der simulierten Gewinne Abhebungsbetrag: $6.000 Verbleibendes Gesamtlimit: $100.000 (Saldo",
+    "url": "https://fundedtradermarkets.com/de/faq/what-impact-does-the-trailing-overall-drawdown-have-on-payouts-in-a-nitro-simulated-funded-account",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "biscan. Fully transparent, check any transaction yourself. Multiple reward methods Crypto and Rise Works. Choose what works for where you are in the world. // Performance Telemetry Generous Profit Split Keep up to 90% of your rewards on evaluation programs.",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "ly transparent, check any transaction yourself. Multiple reward methods Crypto and Rise Works. Choose what works for where you are in the world. // Performance Telemetry Generous Profit Split Keep up to 90% of your rewards on evaluation programs. Up to 80",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "nutes On-chain reward verification Every reward is on-chain and verifiable on Arbiscan. Fully transparent, check any transaction yourself. Multiple reward methods Crypto and Rise Works. Choose what works for where you are in the world. // Performance Te",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": ", and Risk Disclosures, or contact support@fundedtradermarkets.com . Risk Warning & CFTC Rule 4.41 Trading CFDs in a live environment of financial markets involves a substantial financial risk and may not be suitable for all individuals. In this case, you may incu",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "1 Langkah Strategi anda, ganjaran anda. FROM $24 02 / 2S Cabaran 2 Langkah Tiada had masa, drawdown statik dan kos rendah. FROM $33 03 / IF Pembiayaan Segera Akses modal simulasi tanpa penilaian FROM $47 \u21b3 Cmp Bandingkan Semua Program Cari program terbaik untuk gaya dagangan anda Cara Ia",
+    "url": "https://fundedtradermarkets.com/ms/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "00 Aktueller simulierter Gewinn: 6 % (6.000 $) Trailing Drawdown festgelegt auf das Anfangsbilanz: $100.000 Szenario 1: Vollst\u00e4ndige Abhebung der simulierten Gewinne Abhebungsbetrag: $6.000 Verbleibendes Gesamtlimit: $100.000 (Saldo zur\u00fcckgesetzt) \u2013 $100.000 (festes Limit",
+    "url": "https://fundedtradermarkets.com/de/faq/what-impact-does-the-trailing-overall-drawdown-have-on-payouts-in-a-nitro-simulated-funded-account",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Register Login Languag",
+    "snippet": "ding insights 03 / IS Instruments & Specification Symbols, market updates and more Register Login Language en Get Funded - Up to 75% OFF Discord X / Twitter Instagram Scroll to top // GET FUNDED 0% $8.90M Paid & Counting Long on Traders. Short on Excuses.",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Twitter Instag",
+    "snippet": "dates and more Register Login Language en Get Funded - Up to 75% OFF Discord X / Twitter Instagram Scroll to top // GET FUNDED 0% $8.90M Paid & Counting Long on Traders. Short on Excuses. Get Funded - Up to 75% OFF Join Discord Opens in new tab",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The FTM Advantag",
+    "snippet": "etaTrader 5 Available Exceptional feefo Scroll for more Scroll down indicator // The FTM Advantage Why traders choose FTM. Round-the-clock support, up to 90% profit splits, on-demand rewards, and best-in-class trading conditions. Live Rewards $8.90M Recent settlemen",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Raju Sa",
+    "snippet": "6d ago Emanuel Kienast Austria $374 6d ago Baljot Singh India $500 7d ago Raju Sah Nepal $2,048 7d ago Mustafa uyar Turkey $228 7d ago Jayanshu sharma India $535 8d ago Naveen Kumar Mamidi India $179 8d ago lincoln komape South Africa",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rohit Sa",
+    "snippet": "d ago YOUNES EL GHAZZALY Morocco $253 9d ago suraj sharma India $230 9d ago Rohit Sain India $4,319 9d ago Mahasin Goldar India $314 9d ago Shivam Kumar India $183 9d ago Chenghuan Ye China $4,370 9d ago Nitant Kalra India $406 9d ago",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Siva Sa",
+    "snippet": "l Yede India $971 10d ago Khawaja Waqas Ahmed Qadri Australia $3,762 10d ago Siva Sankar India $190 10d ago eren caglar Turkey $273 10d ago Roshan Zade India $1,228 10d ago Muhammad Suleman Qureshi Pakistan $4,919 10d ago Paul De Mesa Un",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eren cag",
+    "snippet": "ja Waqas Ahmed Qadri Australia $3,762 10d ago Siva Sankar India $190 10d ago eren caglar Turkey $273 10d ago Roshan Zade India $1,228 10d ago Muhammad Suleman Qureshi Pakistan $4,919 10d ago Paul De Mesa United States $1,749 10d ago Bhabes",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Paul De Mesa",
+    "snippet": "n Zade India $1,228 10d ago Muhammad Suleman Qureshi Pakistan $4,919 10d ago Paul De Mesa United States $1,749 10d ago Bhabesh Subudhi India $108 10d ago Ankit Malik Netherlands $621 10d ago Heng Gee Anne Wong Singapore $2,278 10d ago Emir Uzu",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "HE462185",
+    "snippet": "ion. Company Details FTM Funded Trader Markets LTD is incorporated in Cyprus under registration number HE462185, at 56 Alekou Konstantinou, Strovolos, 2024, Nicosia, Cyprus, and acts as a payment agent for Formed Technologies INT FZCO. Formed Technologies INT FZCO is incorporated",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "36580",
+    "snippet": "echnologies INT FZCO. Formed Technologies INT FZCO is incorporated in the UAE under registration number 36580, at Building A1, Dubai Digital Park, Dubai Silicon Oasis, Dubai, UAE, and holds the group's cTrader and TradeLocker platform arrangements. Funded Trader Markets LTD is",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2025-00239",
+    "snippet": "atform arrangements. Funded Trader Markets LTD is incorporated in Saint Lucia under registration number 2025-00239, at Unit 1, La Place Creole Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia, and holds the group's MetaTrader 5 licence. Contracting & Payment Disclosure",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available to residents of the following jurisdictions: Cuba, Syria, Iran, Lebanon, Iraq, Yemen, North Korea, Russia ",
+    "snippet": "ange the client's contracting entity. Jurisdictional Restrictions Our services are not available to residents of the following jurisdictions: Cuba, Syria, Iran, Lebanon, Iraq, Yemen, North Korea, Russia and Cyprus. CTrader and MetaTrader \"MT5\" services and related content on this site are not intended for U.S. residents or for use in juri",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy AML Policy Promo Terms Community\n Join Discord Join X Contact Us Cyprus \u00b7 HE462185\n UAE \u00b7 Reg",
+    "snippet": "Programs FAQ Help Center Policies Terms of Service Affiliates Policy Privacy Policy Refund Policy AML Policy Promo Terms Community Join Discord Join X Contact Us Cyprus \u00b7 HE462185 UAE \u00b7 Reg. 36580 Saint Lucia \u00b7 2025-00239 Important Information All content provided by FTM Funded Trader Markets LTD (\"FTM\") and its affiliates is for general ",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy 2026-10-11T15:17:51",
+    "snippet": "erms-conditions 2026-10-11T15:17:51.147Z yearly 0.5 https://fundedtradermarkets.com/refund-policy 2026-10-11T15:17:51.147Z yearly 0.5 https://fundedtradermarkets.com/de/refund-policy 2026-10-11T15:17:51.147Z yearly 0.5 https://fundedtradermarkets.com/ar/refund-policy 2026-10-11T15:17:",
+    "url": "https://fundedtradermarkets.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refund-for-my-purchase-fee-be-processed 2026-07-31T19:37:01",
+    "snippet": "6-07-31T19:35:15.145Z monthly 0.6 https://fundedtradermarkets.com/faq/when-will-the-refund-for-my-purchase-fee-be-processed 2026-07-31T19:37:01.038Z monthly 0.6 https://fundedtradermarkets.com/de/faq/when-will-the-refund-for-my-purchase-fee-be-processed 2026-07-31T19:37:01.038Z monthly 0.6 https://fundedtrader",
+    "url": "https://fundedtradermarkets.com/faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed \n Weekend Holding Allowed \n Leverage Up to 1:100 \n Swap Free All Accounts \n 02 09 // Process From c",
+    "snippet": "stant Funding - No Waiting // As Featured In // Available in every program News Trading Allowed Weekend Holding Allowed Leverage Up to 1:100 Swap Free All Accounts 02 09 // Process From challenge to funded in days 01 Pick your program Choose a challenge type and account size from $5K to $300K. Pay the one-time fee. 02 Hit the profit targe",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ead Must Read \n Resources Resources 01 - 03 01 / TL Tools Trading tools and calculators 02 / BL Blog Latest trading insi",
+    "snippet": "perfect program for your trading style How It Works Rewards Affiliates FAQ , Must Read Must Read Resources Resources 01 - 03 01 / TL Tools Trading tools and calculators 02 / BL Blog Latest trading insights 03 / IS Instruments & Specification Symbols, market updates and more Register Login Language en Get Funded - Up to 75% OFF Discord X /",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "easy method to get paid within 24 hours guaranteed\n 03 / 04 On Demand Rewards\n Need to get your performance reward insta",
+    "snippet": "to answer to all your questions. ALL day & night 02 / 04 Up to 90% Profit Split An easy method to get paid within 24 hours guaranteed 03 / 04 On Demand Rewards Need to get your performance reward instantly? No problem! Get it when you want. 04 / 04 Best Conditions Tight Spreads, No Swaps, and Fast Execution 01 / 04 24/7 Support We are her",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads, No Swaps, and Fast Execution\n \n \n 01 / 04 24/7 Support\n We are here to answer to all your questions",
+    "snippet": "ward instantly? No problem! Get it when you want. 04 / 04 Best Conditions Tight Spreads, No Swaps, and Fast Execution 01 / 04 24/7 Support We are here to answer to all your questions. ALL day & night 02 / 04 Up to 90% Profit Split An easy method to get paid within 24 hours guaranteed 03 / 04 On Demand Rewards Need to get your performance ",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads, No Swaps, and Fast Execution\n Max Allocation - Up to $1M\n 180+ Countries - Covered\n 24 Hours - Or We Pay Double\n P",
+    "snippet": "ward instantly? No problem! Get it when you want. 04 / 04 Best Conditions Tight Spreads, No Swaps, and Fast Execution Max Allocation - Up to $1M 180+ Countries - Covered 24 Hours - Or We Pay Double Profit Split - Up to 90% On-Demand - Rewards MetaTrader 5 - Available 1-Step Challenge - From $20 Instant Funding - No Waiting Max Allocation ",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured In\n \n \n \n \n // Available in every program News Trading Allowed \n Weekend Holding Allowed \n Leverage Up to 1:100",
+    "snippet": "der 5 - Available 1-Step Challenge - From $20 Instant Funding - No Waiting // As Featured In // Available in every program News Trading Allowed Weekend Holding Allowed Leverage Up to 1:100 Swap Free All Accounts 02 09 // Process From challenge to funded in days 01 Pick your program Choose a challenge type and account size from $5K to $300",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPs",
+    "snippet": "der 5 cTrader TradeLocker Match-Trade Get Funded - Up to 75% OFF 05 09 // Trading MVPs Trading Champions Celebrating our highest rewarded traders Live $ 0.00 M Total paid to traders 22 min 24 sec Avg. payout speed 6,042+ Rewards paid See every payout, live Get Funded - Up to 75% OFF 01 Shivam Swami in Reward $130,797",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@fundedtradermarkets.com",
+    "snippet": "on, please review our Terms of Use, Privacy Policy, and Risk Disclosures, or contact support@fundedtradermarkets.com . Risk Warning & CFTC Rule 4.41 Trading CFDs in a live environment of financial markets involves a substantial financial risk and may not be suitable for all individua",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 24 business hours",
+    "snippet": "payment method, and specify the amount. Minimum Payout: 1% of your starting balance Payout Frequency: On-demand Processing Time: Typically within 24 business hours The Briefing \u00b7 Weekly Stay Ahead in the Trading World Get the latest updates, trading insights, and reward announcements straight to your inbox. Enter your email Joi",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "instant",
+    "snippet": "20:03:53.397Z monthly 0.6 https://fundedtradermarkets.com/faq/how-does-requesting-a-withdrawal-influence-the-drawdown-limits-for-instant-standard-account 2026-07-31T20:05:37.798Z monthly 0.6 https://fundedtradermarkets.com/de/faq/how-does-requesting-a-withdrawal-influence-the-drawdown-limits-for-instant-",
+    "url": "https://fundedtradermarkets.com/faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "// Available in every program News Trading Allowed Weekend Holding Allowed Leverage Up to 1:100 Swap Free All Accounts 02 09 // Process From challenge to funded in days 01 Pick your program Choose a challenge type and account size from $5K to $300K. Pay the",
+    "url": "https://fundedtradermarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:36",
+    "snippet": "14:37:59.057Z monthly 0.6 https://fundedtradermarkets.com/faq/what-is-the-available-leverage-in-all-programs 2026-07-31T18:41:36.462Z monthly 0.6 https://fundedtradermarkets.com/de/faq/what-is-the-available-leverage-in-all-programs 2026-07-31T18:41:36.462Z monthly 0.6 https://fundedtradermarkets",
+    "url": "https://fundedtradermarkets.com/faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap on 1 Step Nitro X plans And How Does It Affect My Maximum Loss Limit? | FTM FAQ | Funded Trader Markets 1ST O",
+    "snippet": "Is There a Payout Cap on 1 Step Nitro X plans And How Does It Affect My Maximum Loss Limit? | FTM FAQ | Funded Trader Markets 1ST OCT \u2022 1-STEP CHALLENGE \u2014 UP TO 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 2-STEP CHALLENGE 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 INSTANT FUNDING \u2014 UP TO 50 % OFF \u2022 CODE: OCT 1ST OCT",
+    "url": "https://fundedtradermarkets.com/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-verification-at-funded-trader-markets 2026-07-31T18:49:25",
+    "snippet": "monthly 0.6 https://fundedtradermarkets.com/faq/what-are-the-documents-required-for-kyc-verification-at-funded-trader-markets 2026-07-31T18:49:25.919Z monthly 0.6 https://fundedtradermarkets.com/de/faq/what-are-the-documents-required-for-kyc-verification-at-funded-trader-markets 2026-07-31T18:49:25.919Z monthly 0",
+    "url": "https://fundedtradermarkets.com/faq-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee on Nitro X?\n Q",
+    "snippet": "eading Next chapters in 1-Step Nitro X Evaluation Browse all \u2192 Q. 01 \u2192 What Is an Activation Fee on Nitro X? Q. 02 \u2192 What is the Maximum Allocation offered in 1-Step Nitro X Evaluation Program? Q. 03 \u2192 What Is The Profit Target For 1-Step Nitro X Evaluation? Browse all chapters",
+    "url": "https://fundedtradermarkets.com/faq/is-there-a-payout-cap-on-1-step-nitro-x-plans-and-how-does-it-affect-my-maximum-loss-limit",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "LLENGE \u2014 UP TO 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 2-STEP CHALLENGE 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 INSTANT FUNDING \u2014 UP TO 50 % OFF \u2022 CODE: OCT 1ST OCT \u2022 1-STEP CHALLENGE \u2014 UP TO 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 2-STEP CHALLENGE 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 INSTANT",
+   "url": "https://fundedtradermarkets.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "The Best Prop Firm For Funded Traders | Funded Trader Markets 1ST OCT \u2022 1-STEP CHALLENGE \u2014 UP TO 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 2-STEP CHALLENGE 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 INSTANT FUNDING \u2014 UP TO 50 % OFF \u2022 CODE: OCT 1ST OCT \u2022",
+   "url": "https://fundedtradermarkets.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "ders | Funded Trader Markets 1ST OCT \u2022 1-STEP CHALLENGE \u2014 UP TO 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 2-STEP CHALLENGE 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022 INSTANT FUNDING \u2014 UP TO 50 % OFF \u2022 CODE: OCT 1ST OCT \u2022 1-STEP CHALLENGE \u2014 UP TO 75 % OFF \u2022 CODE: OCT 1ST OCT \u2022",
+   "url": "https://fundedtradermarkets.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "Long on Traders. Short on Excuses. Get Funded - Up to 75% OFF Join Discord Opens in new tab 0 + Countries Covered $ 0 M Max Allocation 0 Hour Performance Reward",
+  "you want. 04 / 04 Best Conditions Tight Spreads, No Swaps, and Fast Execution Max Allocation - Up to $1M 180+ Countries - Covered 24 Hours - Or We Pay Double Profit Split - Up t",
+  "aTrader 5 - Available 1-Step Challenge - From $20 Instant Funding - No Waiting Max Allocation - Up to $1M 180+ Countries - Covered 24 Hours - Or We Pay Double Profit Split - Up t"
+ ],
+ "errors": []
+}

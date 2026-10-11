@@ -1,0 +1,12 @@
+{
+ "slug": "fundingpips",
+ "name": "FundingPips",
+ "category": "Forex/CFD",
+ "url": "https://fundingpips.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:429:http-429"
+ ]
+}

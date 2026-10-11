@@ -1,0 +1,702 @@
+{
+ "slug": "rev-one-trading",
+ "name": "Rev One Trading",
+ "category": "Specialist",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://revonetrading.com/",
+  "evidence": "name+7 prop-firm signals on homepage",
+  "tried": [
+   "https://revonetrading.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://revonetrading.com/",
+   "kind": "home",
+   "chars": 13137
+  },
+  {
+   "url": "https://revonetrading.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4464
+  },
+  {
+   "url": "https://revonetrading.com/legal/terms",
+   "kind": "page",
+   "chars": 55960
+  },
+  {
+   "url": "https://revonetrading.com/blog/mistakes-that-fail-prop-firm-challenges",
+   "kind": "page",
+   "chars": 6938
+  },
+  {
+   "url": "https://revonetrading.com/blog/how-to-pass-futures-prop-firm-challenge-2026",
+   "kind": "page",
+   "chars": 7112
+  },
+  {
+   "url": "https://revonetrading.com/blog/micro-vs-mini-futures-prop-challenge",
+   "kind": "page",
+   "chars": 7144
+  },
+  {
+   "url": "https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges",
+   "kind": "page",
+   "chars": 7697
+  },
+  {
+   "url": "https://revonetrading.com/legal/refund-policy",
+   "kind": "page",
+   "chars": 15644
+  },
+  {
+   "url": "https://revonetrading.com/blog/tag/rules",
+   "kind": "page",
+   "chars": 4694
+  },
+  {
+   "url": "https://revonetrading.com/rules",
+   "kind": "page",
+   "chars": 4267
+  },
+  {
+   "url": "https://revonetrading.com/blog/prop-firm-payouts-explained",
+   "kind": "page",
+   "chars": 7694
+  },
+  {
+   "url": "https://revonetrading.com/blog/tag/payouts",
+   "kind": "page",
+   "chars": 3205
+  },
+  {
+   "url": "https://revonetrading.com/blog/trailing-vs-end-of-day-drawdown",
+   "kind": "page",
+   "chars": 8003
+  },
+  {
+   "url": "https://revonetrading.com/about-us",
+   "kind": "page",
+   "chars": 4017
+  },
+  {
+   "url": "https://help.revonetrading.com/",
+   "kind": "sub",
+   "chars": 557
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 150547,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "rice. No activation fee, no daily loss limit. Flex $25K Challenge $90 one-time Profit Target 5% / $1,250 Max Loss 4% / $1,000 Drawdown EOD Trailing Time to Pass 30 days, extend anytime Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $81 Account Activat",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "s your score, and your score sets your split. \u2190 Back to Pricing Challenge 5% Profit target 4% Max loss 30 Days to pass Funded 8% Max loss 90% Max profit split $0 Activation fee No daily loss limit No buffer zone 30 days to pass, extend anytime Allowed: Scalpin",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "s the whole tree. A 2-step challenge stacks two evaluations: Phase 1: hit a larger profit target (typically 8% to 10%) inside a tight rule set. Phase 2: hit a smaller target (often 4% to 5%) under similar rules. Then most firms add a verification or \"funded prep\" step before pa",
+    "url": "https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "50",
+    "snippet": "Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your scor",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "4",
+    "snippet": "d Open menu One program. Simple rules. 8% max loss , not 4%. Score, don't breach. No daily loss No buffer No consistency EAs, news & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "s & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowed Step 01 St",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "n Fee FREE Pass in as little as 2 days \u2713 Funded Rules \u2190 Funded Rules $25K Funded Max Loss 8% / $2,000 Past 4% Drawdown Lower split, no breach Drawdown EOD Trail Profitable Days 5 Daily Minimum $100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "lowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowed Step 01 Start your chal",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "en by affiliates who've never seen the back end. They quote a marketing line (\"up to 95% split!\") and skip the part traders actually need to know: what triggers a payout, how often you can withdraw, and what gets cut from the headline number. This is the working",
+    "url": "https://revonetrading.com/blog/prop-firm-payouts-explained",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "2",
+    "snippet": "Profitable days only exist on the funded side, where you need five before a payout. Minimum trading days : 2 unique days, which is what the consistency rule needs to mean anything. Consistency : your best day can't be more than 50% of your total profit when you pass. One lucky",
+    "url": "https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "uffer No consistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. S",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "No consistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "sistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03 Get fu",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "As, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03 Get funded, get",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "0",
+    "snippet": "ffer No consistency EAs, news & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consist",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "uffer No consistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit.",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "No consistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 0",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "sistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03 Get f",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "As, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03 Get funded, get",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "at the launch price. No activation fee, no daily loss limit. Flex $25K Challenge $90 one-time Profit Target 5% / $1,250 Max Loss 4% / $1,000 Drawdown EOD Trailing Time to Pass 30 days, extend anytime Daily Loss Limit None Max Size 2 Mini / 20 Micro Re",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "fee, no daily loss limit. Flex $25K Challenge $90 one-time Profit Target 5% / $1,250 Max Loss 4% / $1,000 Drawdown EOD Trailing Time to Pass 30 days, extend anytime Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $81 Account Activation Fee",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "81",
+    "snippet": "s 30 days, extend anytime Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $81 Account Activation Fee FREE Pass in as little as 2 days \u2713 Funded Rules \u2190 Funded Rules $25K Funded Max Loss 8% / $2,000 Past 4% Drawdown Lower split, no breach Draw",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "s in as little as 2 days \u2713 Funded Rules \u2190 Funded Rules $25K Funded Max Loss 8% / $2,000 Past 4% Drawdown Lower split, no breach Drawdown EOD Trail Profitable Days 5 Daily Minimum $100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdraw",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "imum $100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and ne",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "225",
+    "snippet": "% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 Back to Pricing",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "plit. \u2190 Back to Pricing Flex $50K Challenge $125 one-time Profit Target 5% / $2,500 Max Loss 4% / $2,000 Drawdown EOD Trailing Time to Pass 30 days, extend anytime Daily Loss Limit None Max Size 4 Mini / 40 Micro Reset Fee $112.50 Account Activation",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "and Rally. \"Classic\" means the Rev One Futures product variant featuring end-of-day trailing drawdown mechanics, no Activation Fee, and the baseline profit split published in the product specifications. \"Compliance Multiplier\" means the discipline scalar applied to the",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "end-of-day",
+    "snippet": "hat's $665. Hit it, walk away. For how the MLL line actually moves, see trailing vs end-of-day drawdown . Mistake 3: Trading every session A Rev One challenge runs 30 days and you can extend it whenever you want. There is no \"I have to trade today\". Yet the data shows tr",
+    "url": "https://revonetrading.com/blog/mistakes-that-fail-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule until it's in the way\n The Rev One challenge has no profitable-day requirement",
+    "snippet": "elt\", halved. Hold yourself to it for the rest of the eval. Mistake 5: Ignoring the consistency rule until it's in the way The Rev One challenge has no profitable-day requirement. It has a consistency rule: when you pass, your single best day can't be more than 50% of your total profit. Sounds easy. The data says otherwise. A trader clear",
+    "url": "https://revonetrading.com/blog/mistakes-that-fail-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule: when you pass, your single best day can't be more than 50% of your total profit",
+    "snippet": "l it's in the way The Rev One challenge has no profitable-day requirement. It has a consistency rule: when you pass, your single best day can't be more than 50% of your total profit. Sounds easy. The data says otherwise. A trader clears half the target in one session, then has to keep trading purely to dilute that day. They're already nea",
+    "url": "https://revonetrading.com/blog/mistakes-that-fail-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule out of your way)",
+    "snippet": "The largest single day you'll allow yourself (under half the profit target keeps the consistency rule out of your way). The rule for the day after a red day (size halved). Tape it to your monitor. Don't trade without reading it. For the full pass framework, see how to pass a futures p",
+    "url": "https://revonetrading.com/blog/mistakes-that-fail-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule instead: when you pass, your single best day can't be more than 50% of your total profit",
+    "snippet": "it out on purpose The Rev One challenge has no profitable-day requirement. It has a consistency rule instead: when you pass, your single best day can't be more than 50% of your total profit. That rule is easy to fail by accident. One $2,000 session on a $50K puts you 80% of the way to the target, and now every remaining day has to earn it",
+    "url": "https://revonetrading.com/blog/how-to-pass-futures-prop-firm-challenge-2026",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules the firm attaches, stay inside the max loss limit, you're funded",
+    "snippet": "ge is a single evaluation phase. Hit the profit target, clear whatever day-count and consistency rules the firm attaches, stay inside the max loss limit, you're funded. That's the whole tree. A 2-step challenge stacks two evaluations: Phase 1: hit a larger profit target (typically 8% to 10%) inside a tight rule set. Phase 2: hit a s",
+    "url": "https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule needs to mean anything",
+    "snippet": "need five before a payout. Minimum trading days : 2 unique days, which is what the consistency rule needs to mean anything. Consistency : your best day can't be more than 50% of your total profit when you pass. One lucky session doesn't fund you. Time : 30 days per attempt, extendable when",
+    "url": "https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Anytime",
+    "snippet": "Drawdown EOD Trail Profitable Days 5 Daily Minimum $100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE P",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Daily",
+    "snippet": "5 Daily Minimum $100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "on demand",
+    "snippet": "ics: max loss is 8%, crossing 4% cuts your split rather than ending the account, and payouts run on demand at up to 90%. We covered the post-funding flow in prop firm payouts explained . For sizing decisions on the contract you'll trade, see micro vs mini futures . The unse",
+    "url": "https://revonetrading.com/blog/how-to-pass-futures-prop-firm-challenge-2026",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "t on rails fintechs already trust. Available now Payout partner Funds land in your Rise wallet. Every payout hits your Rise account first. From there, withdraw to your bank when it suits you. Same payment infrastructure trusted by global payroll and contra",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "ble forever Onboarding in minutes, not days Powered by Rise riseworks.io Coming soon Crypto rails Direct crypto payouts, in the works. For traders who'd rather skip the bank step, we're integrating Columis for stablecoin payouts straight to your on-chain wall",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "mis for stablecoin payouts straight to your on-chain wallet. Stablecoin settlement (USDC, USDT) Self-custody, straight to your wallet Settles in minutes, no bank hours Rolling out next On-chain settlement Bank transfer, stablecoin, or both. Pick what fit",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "r stablecoin payouts straight to your on-chain wallet. Stablecoin settlement (USDC, USDT) Self-custody, straight to your wallet Settles in minutes, no bank hours Rolling out next On-chain settlement Bank transfer, stablecoin, or both. Pick what fits your",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Bank transfer",
+    "snippet": "ur wallet Settles in minutes, no bank hours Rolling out next On-chain settlement Bank transfer, stablecoin, or both. Pick what fits your flow. FAQ Frequently asked questions. What is the profit target? What happens if I hit the max loss? Will the rules chan",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "\"we,\" \"our,\" or \"us\"). By registering for, accessing, browsing, purchasing, or otherwise using the Services, you (\"User,\" \"you,\" or \"your\") acknowledge that you have read, understood, and agree to be bound by these Terms in their entirety. BY CREATING AN AC",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "not 4%. Score, don't breach. No daily loss No buffer No consistency EAs, news & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowed Step 01 Sta",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "diary. Rev One is not registered with the U.S. Commodity Futures Trading Commission (CFTC), the Securities and Exchange Commission (SEC), the National Futures Association (NFA), or any comparable regulatory authority. HYPOTHETICAL/SIMULATED PERFORMANCE DISCLAIMER: Hypothetical or simulated performance results have inherent limitations. No",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "t of which is to manipulate, hedge, mirror, copy, or coordinate trading results for unfair advantage; Dollar-cost averaging (DCA) into losing positions, as further described in the Trading Rules; Using any automated software, artificial intelligence, ultra-high-frequency trading systems, copy-trading services, or mass data entry tools tha",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "ficial intelligence, ultra-high-frequency trading systems, copy-trading services, or mass data entry tools that manipulate or exploit the Services, unless expressly permitted by the applicable Trading Rules; Trading in a manner that knowingly or unknowingly circumvents Trading Rules, generates profits that could not reasonably be achieved",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Phone, laptop, desktop. Sa",
+    "snippet": "nside. Can't break the rules Bad trades blocked before they fill. Trade anywhere Phone, laptop, desktop. Same login. BlackArrow: send your first order Wherever you trade Trade from any device. Open it on your phone. Open it on your laptop. Same login, same charts, same",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Open it on your phone. Open it on your laptop. Sa",
+    "snippet": ". BlackArrow: send your first order Wherever you trade Trade from any device. Open it on your phone. Open it on your laptop. Same login, same charts, same trades. Windows macOS iOS Android Open web platform Markets you trade Day trading only ES S&P 500 NQ Nasdaq 100 MES Micro S&P MNQ Micro",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "me login, same charts, sa",
+    "snippet": "you trade Trade from any device. Open it on your phone. Open it on your laptop. Same login, same charts, same trades. Windows macOS iOS Android Open web platform Markets you trade Day trading only ES S&P 500 NQ Nasdaq 100 MES Micro S&P MNQ Micro Nasdaq GC Gold CL Crude O",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "om there, withdraw to your bank when it suits you. Sa",
+    "snippet": "rtner Funds land in your Rise wallet. Every payout hits your Rise account first. From there, withdraw to your bank when it suits you. Same payment infrastructure trusted by global payroll and contractor platforms. Wallet to bank in 190+ countries KYC handled once, reusable forever Onboarding in minutes,",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "countries KYC handled once, reusa",
+    "snippet": "tructure trusted by global payroll and contractor platforms. Wallet to bank in 190+ countries KYC handled once, reusable forever Onboarding in minutes, not days Powered by Rise riseworks.io Coming soon Crypto rails Direct crypto payouts, in the works. For traders who'd rather skip the",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rev One Trading LLC",
+    "snippet": "r Terms of Service Privacy Policy Risk Disclosure Refund Policy Cookie Policy \u00a9 2026 Rev One Trading LLC. All rights reserved. DISCLAIMER: Rev One Trading LLC (\"Rev One\") is a limited liability company that provides simulated trading evaluation programs and funded account",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "is a limited",
+    "snippet": "v One Trading LLC. All rights reserved. DISCLAIMER: Rev One Trading LLC (\"Rev One\") is a limited liability company that provides simulated trading evaluation programs and funded account services. All trading activity on the Rev One platform occurs in a simulated env",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "l capital is placed at risk. No actual futures transa",
+    "snippet": "ll trading activity on the Rev One platform occurs in a simulated environment. No real capital is placed at risk. No actual futures transactions are executed on any exchange or market on your behalf. Rev One is NOT a broker, dealer, exchange, clearinghouse, investment advisor, commodity trading advisor, fu",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Jurisdictions is maintained by the Company under Section 28",
+    "snippet": "ms or such use is prohibited or conflicts with any applicable law. A current list of Restricted Jurisdictions is maintained by the Company under Section 28. 3.5. The Company complies with all applicable U.S. sanctions laws and regulations. We reserve the right to restrict, suspend, or terminate your access at any time if w",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions include, without limitation, Cuba, Iran, North Korea, Syria, the Crimea, Donetsk, and Luhansk r",
+    "snippet": "anctions or where the provision or use of the Services would violate applicable law. Restricted Jurisdictions include, without limitation, Cuba, Iran, North Korea, Syria, the Crimea, Donetsk, and Luhansk regions of Ukraine, Russia, Belarus, and Myanmar, as well as any other country, region, or sub-national area designated by OFAC or other",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions may be denied access, subject to limited simulated-only access, denied Payout eligibility, or t",
+    "snippet": "designated by OFAC or otherwise designated by the Company. 28.2. Users residing in Restricted Jurisdictions may be denied access, subject to limited simulated-only access, denied Payout eligibility, or terminated, in the Company's sole discretion. 28.3. The Company may update the list of Restricted Jurisdictions, including additional U.S.",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions, including additional U",
+    "snippet": "minated, in the Company's sole discretion. 28.3. The Company may update the list of Restricted Jurisdictions, including additional U.S. state-level restrictions, at any time. You are responsible for determining whether your jurisdiction is restricted. Injunctive Relief You agree that breach of these",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund? \n Do I need to verify my ID? \n Help Center Still have questions?\n Chat with our support team and get an answer f",
+    "snippet": "oss limit? Can I scalp or trade news? What happens at 8% drawdown? Can I get a refund? Do I need to verify my ID? Help Center Still have questions? Chat with our support team and get an answer fast. Ask our support A+ traders keep the most. Be one. Product How it works Pricing Partners Testimonials Platform Payouts Community FAQ Rules Com",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy Cookie Policy \u00a9 2026 Rev One Trading LLC",
+    "snippet": "g Press & Brand Support Help Center Terms of Service Privacy Policy Risk Disclosure Refund Policy Cookie Policy \u00a9 2026 Rev One Trading LLC. All rights reserved. DISCLAIMER: Rev One Trading LLC (\"Rev One\") is a limited liability company that provides simulated trading evaluation programs and funded account",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy 2026-08-14T03:25:02",
+    "snippet": "isk-disclosure 2026-08-14T03:25:02.983Z monthly 0.5 https://revonetrading.com/legal/refund-policy 2026-08-14T03:25:02.983Z monthly 0.5 https://revonetrading.com/legal/cookie-policy 2026-08-14T03:25:02.983Z monthly 0.4 https://revonetrading.com/blog/can-you-scalp-and-trade-news-on-a-pr",
+    "url": "https://revonetrading.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refund Policy, and any Funded Trader Agreement or supplemental agreement applicable to your Account",
+    "snippet": "These Terms incorporate by reference our Privacy Policy, Risk Disclosure Statement, Refund Policy, and any Funded Trader Agreement or supplemental agreement applicable to your Account. In the event of a conflict between these Terms and any incorporated document, these Terms shall control unless the incorporated document expressly states o",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading are allowed",
+    "snippet": "Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 Back to Pricing Flex $50K Challenge $125 one-time Profit Target 5% / $2,500 Max Loss 4% / $2,000",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading Automated systems See the full Flex rulebook \u2192 Compare Flex to LucidFlex \u2192 \n Partners & tools we use\n \n \n T",
+    "snippet": "No daily loss limit No buffer zone 30 days to pass, extend anytime Allowed: Scalping News trading Automated systems See the full Flex rulebook \u2192 Compare Flex to LucidFlex \u2192 Partners & tools we use Trader payouts Real traders. Real payouts. Funded, profitable, paid. The receipts are below. Payout $955.80 \u201c First payout received! Legit firm",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading Allowed\n Automated systems Allowed\n Commissions $0",
+    "snippet": "it None Always on Trading Trade your way. Scalping included. Scalping Allowed News trading Allowed Automated systems Allowed Commissions $0.50 to $2.40 per side Contract limits 2 to 10 full / 20 to 100 micros, by size Overnight holding Allowed Close before 4:00 PM CT, resume 6:00 PM CT Weekend holding No",
+    "url": "https://revonetrading.com/rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "each",
+    "snippet": "One program. Simple rules. 8% max loss , not 4%. Score, don't breach. No daily loss No buffer No consistency EAs, news & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAs, news & scalping allowed See how we compare to LucidFlex \u2192 \n $0 activation fee 8% funded max loss Up to 90% profit s",
+    "snippet": "% max loss , not 4%. Score, don't breach. No daily loss No buffer No consistency EAs, news & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowe",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAs, news & scalping allowed Step 01 Start your challenge\n Pick $25K, $50K, $100K, or $150K",
+    "snippet": "week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03 Get funded, get",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal money",
+    "snippet": "Five payouts to a live account . Your funded account is simulated. Rev One Live is real money. You earn your seat by getting paid, never by paying more. Where you start Funded account Simulated capital, real payouts. 5 The milestone Five payouts Get paid fi",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn your seat by getting paid, never by paying more",
+    "snippet": "a live account . Your funded account is simulated. Rev One Live is real money. You earn your seat by getting paid, never by paying more. Where you start Funded account Simulated capital, real payouts. 5 The milestone Five payouts Get paid five times. The prize Rev One Live Real capital, live mar",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "l residential address; (b) a payment method or payment-method account holder; (c) an IP address used substantially to access the Services; or (d) a familial, marital, or domestic-partnership relationship. The Company maintains active-Account caps per Household as published in the product specifications and may enforce those caps in its so",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "tting another person to trade on your Account, or sharing Account access; Using any VPN, VPS, proxy, or similar technology to mask your location, identity, or circumvent geographical restrictions; Providing false, misleading, incomplete, or fraudulent information to the Company; Engaging in any activity that violates applicable laws, rule",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@revonetrading.com",
+    "snippet": ". Rev One Trading LLC | 30A Vreeland Road, Suite 120, Florham Park, NJ 07932 | support@revonetrading.com | +1 307-201-4121 Payout certificates Every payout, verified. Each one carries a code anyone can check. Global reach Traders everywhere it matters. From c",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 \n Account Activat",
+    "snippet": "$100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 Bac",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Cap 50% of profit, up to $2,000 Daily Loss Limit None Max Size 4 Mini / 40 Micro Reset Fee $312",
+    "snippet": "$150+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $2,000 Daily Loss Limit None Max Size 4 Mini / 40 Micro Reset Fee $312.50 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 ",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Cap 50% of profit, up to $2,500 Daily Loss Limit None Max Size 6 Mini / 60 Micro Reset Fee $512",
+    "snippet": "$200+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $2,500 Daily Loss Limit None Max Size 6 Mini / 60 Micro Reset Fee $512.50 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 ",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Cap 50% of profit, up to $3,000 Daily Loss Limit None Max Size 10 Mini / 100 Micro Reset Fee $975 \n Account Activ",
+    "snippet": "$250+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $3,000 Daily Loss Limit None Max Size 10 Mini / 100 Micro Reset Fee $975 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 B",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC handled once, reusable forever Onboarding in minutes, not days Powered by Rise riseworks",
+    "snippet": "rusted by global payroll and contractor platforms. Wallet to bank in 190+ countries KYC handled once, reusable forever Onboarding in minutes, not days Powered by Rise riseworks.io Coming soon Crypto rails Direct crypto payouts, in the works. For traders who'd rather skip the bank step, we're integrating Columis for stablecoin payouts stra",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC information; or any other circumstance exists that warrants such action",
+    "snippet": "u have engaged in Prohibited Conduct; your Account contains incomplete or inaccurate KYC information; or any other circumstance exists that warrants such action. 9.5. Payout Destination. Eligible Payouts may be received as (a) cash via RiseWorks to your onboarded payout method, (b) Rev One Wallet credit (non-cash, redeemable on",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "KYC Verification\n 10",
+    "snippet": "ble for all tax obligations arising from Payouts received. Pre-Funding Gateways and KYC Verification 10.1. Before a Funded Account is activated, you must complete all three Pre-Funding Gateways: (a) execution of the Funded Trader Agreement; (b) identity verification throug",
+    "url": "https://revonetrading.com/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee 8% funded max loss Up to 90% profit split \n \n 3",
+    "snippet": "r No consistency EAs, news & scalping allowed See how we compare to LucidFlex \u2192 $0 activation fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowed Step 01 Start your challenge",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee, ever",
+    "snippet": "allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No activation fee, ever. Step 02 Pass one phase Hit 5% without dropping 4%. 30 days to do it, extend anytime. No daily loss limit. Step 03 Get funded, get paid Trade 5 profitable days with",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee, no daily loss limit",
+    "snippet": "Pricing One program. Four sizes. Rev One Flex. Pay once at the launch price. No activation fee, no daily loss limit. Flex $25K Challenge $90 one-time Profit Target 5% / $1,250 Max Loss 4% / $1,000 Drawdown EOD Trailing Time to Pass 30 days, extend anytime Daily Loss Limit None M",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Reset Fee $81 \n Account Activation Fee FREE Pass in as little as 2 days \u2713 \n Funded Rules \u2190 Funded Rules\n $25K Funded\n M",
+    "snippet": "ime to Pass 30 days, extend anytime Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $81 Account Activation Fee FREE Pass in as little as 2 days \u2713 Funded Rules \u2190 Funded Rules $25K Funded Max Loss 8% / $2,000 Past 4% Drawdown Lower split, no breach Drawdown EOD Trail Profitable Days 5 Daily Minimum $100+ each Profit Split Up to 9",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Reset Fee $225 \n Account Activation Fee FREE Payouts to Live 5 \n *Scalping and news trading are allowed",
+    "snippet": "out Cap 50% of profit, up to $1,000 Daily Loss Limit None Max Size 2 Mini / 20 Micro Reset Fee $225 Account Activation Fee FREE Payouts to Live 5 *Scalping and news trading are allowed. Heavy use lowers your score, and your score sets your split. \u2190 Back to Pricing Flex $50K Challenge $125 one-time Profit Target 5% / $2,500 Max Loss 4% / $",
+    "url": "https://revonetrading.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "p-and-trade-news-on-a-prop-firm 2026-07-15T00:00:00.000Z weekly 0.7 https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges 2026-08-05T00:00:00.000Z weekly 0.7 https://revonetrading.com/blog/how-to-pass-futures-prop-firm-challenge-2026 2026-08-05T00:0",
+   "url": "https://revonetrading.com/sitemap.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "e-news-on-a-prop-firm 2026-07-15T00:00:00.000Z weekly 0.7 https://revonetrading.com/blog/1-step-vs-2-step-prop-firm-challenges 2026-08-05T00:00:00.000Z weekly 0.7 https://revonetrading.com/blog/how-to-pass-futures-prop-firm-challenge-2026 2026-08-05T00:00:00.000Z",
+   "url": "https://revonetrading.com/sitemap.xml"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "fee 8% funded max loss Up to 90% profit split 3.3K+ members 1 active this week How it works Three steps. No tricks. No daily loss No buffer No consistency EAs, news & scalping allowed Step 01 Start your challenge Pick $25K, $50K, $100K, or $150K. Pay once. No",
+   "url": "https://revonetrading.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "treated as a violation of this Policy regardless of the underlying reason. Promotional Offers and Free Trials From time to time, Rev One may offer promotional pricing, discount codes, giveaways, or free trial access. These offers are subject to the following conditio",
+   "url": "https://revonetrading.com/legal/refund-policy"
+  },
+  {
+   "name": "Futures",
+   "snippet": "itable for everyone. Use only funds you can afford to lose. Rev One Trading LLC provides simulated futures evaluation programs. All trading occurs in a simulated environment. Rev One is not a broker or regulated financial intermediary. Simulated results do not guarantee future",
+   "url": "https://revonetrading.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "fitable Days 5 Daily Minimum $100+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $1,000 Daily Loss Limit None Max S",
+  "fitable Days 5 Daily Minimum $150+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $2,000 Daily Loss Limit None Max S",
+  "fitable Days 5 Daily Minimum $200+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $2,500 Daily Loss Limit None Max S",
+  "fitable Days 5 Daily Minimum $250+ each Profit Split Up to 90% Payouts Anytime, once eligible Min Withdrawal $500 Payout Cap 50% of profit, up to $3,000 Daily Loss Limit None Max S",
+  "suits you. Same payment infrastructure trusted by global payroll and contractor platforms. Wallet to bank in 190+ countries KYC handled once, reusable forever Onboarding in minutes, n",
+  "LLC | 30A Vreeland Road, Suite 120, Florham Park, NJ 07932 | support@revonetrading.com | +1 307-201-4121 Payout certificates Every payout, verified. Each one carries a c"
+ ],
+ "errors": []
+}

@@ -1,0 +1,434 @@
+{
+ "slug": "superfunded",
+ "name": "SuperFunded",
+ "category": "Specialist",
+ "url": "https://superfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://superfunded.com/",
+   "kind": "home",
+   "chars": 9418
+  },
+  {
+   "url": "https://superfunded.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 634
+  },
+  {
+   "url": "https://superfunded.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1343
+  },
+  {
+   "url": "https://superfunded.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1493
+  },
+  {
+   "url": "https://superfunded.com/promotion-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 2059
+  },
+  {
+   "url": "https://superfunded.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1169
+  },
+  {
+   "url": "https://superfunded.com/promotion/6k-challenge-for-just-29-first-time-buyer-offer/",
+   "kind": "page",
+   "chars": 2877
+  },
+  {
+   "url": "https://superfunded.com/promotion/20-off-all-challenges-4/",
+   "kind": "page",
+   "chars": 3092
+  },
+  {
+   "url": "https://superfunded.com/product/10000-two-phase-challenge/",
+   "kind": "page",
+   "chars": 2255
+  },
+  {
+   "url": "https://superfunded.com/product/3000-two-phase-challenge-phase-1/",
+   "kind": "page",
+   "chars": 2262
+  },
+  {
+   "url": "https://superfunded.com/product/200000-two-phase-challenge/",
+   "kind": "page",
+   "chars": 2256
+  },
+  {
+   "url": "https://superfunded.com/promotion/20-off-all-challenges-5/",
+   "kind": "page",
+   "chars": 3058
+  },
+  {
+   "url": "https://superfunded.com/product/100000-two-phase-challenge/",
+   "kind": "page",
+   "chars": 2256
+  },
+  {
+   "url": "https://superfunded.com/promotion/20-off-all-challenges-3/",
+   "kind": "page",
+   "chars": 3100
+  },
+  {
+   "url": "https://superfunded.com/product/50000-two-phase-challenge/",
+   "kind": "page",
+   "chars": 2255
+  },
+  {
+   "url": "https://superfunded.com/promotion/20-off-all-challenges-august-26/",
+   "kind": "page",
+   "chars": 3070
+  },
+  {
+   "url": "https://superfunded.com/product/6000-two-phase-challenge/",
+   "kind": "page",
+   "chars": 2254
+  },
+  {
+   "url": "https://superfunded.com/promotion/20-off-all-challenges/",
+   "kind": "page",
+   "chars": 3106
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 47974,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "e Phase Two Phase 5K 10K 25K 50K 100K 200K Get Funded $5,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Cli",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "3K 6K 10K 25K 50K 100K 200K Get Funded $3,000 Profit Target Phase 1 10% Profit Target Phase 2 5% Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% P",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "25K 50K 100K 200K Get Funded $3,000 Profit Target Phase 1 10% Profit Target Phase 2 5% Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% Price $33 BUY NOW | $33 Cl",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "Get Funded $5,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Click button to purchase challenge Get Funded",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "et Phase 1 10% Profit Target Phase 2 5% Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% Price $33 BUY NOW | $33 Click button to purchase challenge Get Funde",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": ",000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Click button to purchase challenge Get Funded $10,000 Profit Target",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Profit Target Phase 2 5% Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% Price $33 BUY NOW | $33 Click button to purchase challenge Get Funded $6,000 Profit Target Ph",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "10",
+    "snippet": "2 5% Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% Price $33 BUY NOW | $33 Click button to purchase challenge Get Funded $6,000 Profit Target Phase 1 10% Profit Target Phase 2",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "t up to 90% Add-ons \u2139 7 Withdrawal Days \u2013 Get paid in 7 days instead of 14. 90% Profit Share \u2013 Keep 90% of profits instead of 80%. 90% Profit Share 90% profit split 7 Withdrawal Days Request early payout - 7 days $ 99 Add to cart",
+    "url": "https://superfunded.com/product/10000-two-phase-challenge/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "K 10K 25K 50K 100K 200K Get Funded $5,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Click button to purchase challen",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "Get Funded $3,000 Profit Target Phase 1 10% Profit Target Phase 2 5% Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% Price $33 BUY NOW | $33 Click button to purchase challe",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "6",
+    "snippet": "$6K Challenge for Just $29 \u2013 First-Time Buyer Offer - SuperFunded Challenges Markets Affiliates Promotions News FAQs Contact Us Log In Get Fu",
+    "url": "https://superfunded.com/promotion/6k-challenge-for-just-29-first-time-buyer-offer/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5,00",
+    "snippet": "ital. One Phase Two Phase 5K 10K 25K 50K 100K 200K Get Funded $5,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "55",
+    "snippet": "ximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Click button to purchase challenge Get Funded $10,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximu",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "ice $55 BUY NOW | $55 Click button to purchase challenge Get Funded $10,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "ximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $99 BUY NOW | $99 Click button to purchase challenge Get Funded $25,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximu",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "ice $99 BUY NOW | $99 Click button to purchase challenge Get Funded $25,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "165",
+    "snippet": "ximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $165 BUY NOW | $165 Click button to purchase challenge Get Funded $50,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maxim",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "e $165 BUY NOW | $165 Click button to purchase challenge Get Funded $50,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "299",
+    "snippet": "ximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $299 BUY NOW | $299 Click button to purchase challenge Get Funded $100,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maxi",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "e $299 BUY NOW | $299 Click button to purchase challenge Get Funded $100,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "599",
+    "snippet": "ximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $599 BUY NOW | $599 Click button to purchase challenge Get Funded $200,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maxi",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "e $599 BUY NOW | $599 Click button to purchase challenge Get Funded $200,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,46",
+    "snippet": "ximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $1,469 BUY NOW | $1,469 Click button to purchase challenge 3K 6K 10K 25K 50K 100K 200K Get Funded $3,000 Profit Target Phase 1 10%",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "Qs Contact Us Log In Get Funded English \u65e5\u672c\u8a9e Portugu\u00eas Brasileiro Rise To The Challenge! Level Up And Become A Super Trader Get Funded 700+ Trading Assets Available",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "profits as a prize.\u200b Trade world class assets with SuperFunded Trade Forex, Crypto, CFD\u2019s, Oil, Indices and metals with our partner broker Eightcap. Partnered With Eightcap. We partner with Eightcap to provide you access to the very best trading plat",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "usdt",
+    "snippet": "t/uploads/2025/07/SF15.png https://superfunded.com/promotion/share-your-payout-get-5-usdt/ 2026-02-26T15:19:04+00:00 https://superfunded.com/wp-content/uploads/2025/07/TCC.png https://superfunded.com/promotion/20-off-all-challenges/ 2026-03-06T10:11:07+00:00",
+    "url": "https://superfunded.com/promotion-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ategy without requiring a large deposit at a brokerag",
+    "snippet": "roprietary Trading firm, our goal is to help traders learn and hone their trading strategy without requiring a large deposit at a brokerage. To do that we use the same platforms and partners that a broker uses, yet simulate the actual trade being placed in the evaluation and funded stages. We think that g",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "To do that we use the sa",
+    "snippet": "n and hone their trading strategy without requiring a large deposit at a brokerage. To do that we use the same platforms and partners that a broker uses, yet simulate the actual trade being placed in the evaluation and funded stages. We think that gives every trader the best c",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trade being placed in the evaluation and funded stag",
+    "snippet": "t we use the same platforms and partners that a broker uses, yet simulate the actual trade being placed in the evaluation and funded stages. We think that gives every trader the best chance to learn and share in simulated profits without creating the risk of losing capital. One Phase Two Phase 5K",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Click button to purchase challenge Get Funded $10,000 Profit Target 8% Mini",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "d take the Super Funded evaluation. Follow risk manag",
+    "snippet": "and trade with our capital in no time! Stage 1 - Evaluation\u200b Choose your tier and take the Super Funded evaluation. Follow risk management rules and achieve appropriate targets using whichever trading style you like. Stage 2 - Funding Receive access to our simulated capital on the Super Funded da",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Complaint Manag",
+    "snippet": "Conditions Privacy Policy Rules and Conditions Website Terms and Conditions Complaint Management Policy Participation Verification Policy RISK DISCLOSURE: All information provided on this site is intended solely for the educational purposes related to",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "never-blow-up-again-pro-risk-manag",
+    "snippet": "https://superfunded.com/wp-content/uploads/2025/07/TLSF3.png https://superfunded.com/never-blow-up-again-pro-risk-management-for-prop-traders/ 2025-08-01T08:44:03+00:00 https://superfunded.com/wp-content/uploads/2025/07/Risk.png https://superfunded.com/how-to-become-a-prop-trader-start-fr",
+    "url": "https://superfunded.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ChatGPT-Imag",
+    "snippet": "nges-3/ 2026-04-01T05:36:19+00:00 https://superfunded.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-12_43_37-PM.png https://superfunded.com/promotion/20-off-all-challenges-2/ 2026-05-04T08:25:46+00:00 https://superfunded.com/wp-content/uploads/2026/04/APR20",
+    "url": "https://superfunded.com/promotion-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal Time Data\n Our low latency dashboard will keep you updated with all your trading profits!\n \n \n \n \n \n \n Choose Your C",
+    "snippet": "y Experience super speed with our Super Funded Dashboard on desktop or mobile.. Real Time Data Our low latency dashboard will keep you updated with all your trading profits! Choose Your Challenge As a Proprietary Trading firm, our goal is to help traders learn and hone their trading strategy without requiring a large deposit at a brokerag",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn and hone their trading strategy without requiring a large deposit at a brokerage",
+    "snippet": "Choose Your Challenge As a Proprietary Trading firm, our goal is to help traders learn and hone their trading strategy without requiring a large deposit at a brokerage. To do that we use the same platforms and partners that a broker uses, yet simulate the actual trade being placed in the evaluation and funded stages. We think that gi",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn and share in simulated profits without creating the risk of losing capital",
+    "snippet": "evaluation and funded stages. We think that gives every trader the best chance to learn and share in simulated profits without creating the risk of losing capital. One Phase Two Phase 5K 10K 25K 50K 100K 200K Get Funded $5,000 Profit Target 8% Minimum Trading Days 3 Max Daily Loss 3% Ma",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn real money - up to 90% of your profits as a prize",
+    "snippet": "r trading discipline with a simulated balance. Trade consistently and responsibly to earn real money - up to 90% of your profits as a prize.\u200b Trade world class assets with SuperFunded Trade Forex, Crypto, CFD\u2019s, Oil, Indices and metals with our partner broker Eightcap. Partnered With Eightcap. We p",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "easy access to login",
+    "snippet": "board Our Trading Platform View our trading platform credentials and get easy access to login. Login support@superfunded.com Password V4K+=9ir~30x Server PTTSER Login Real trader payouts Payout Certificate $1,198.14 Challenge",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@superfunded.com",
+    "snippet": "latform View our trading platform credentials and get easy access to login. Login support@superfunded.com Password V4K+=9ir~30x Server PTTSER Login Real trader payouts Payout Certificate $1,198.14 Challenge passed $200,000 Two Phase Chall",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 7 days instead of 14",
+    "snippet": "imum Total Loss 10% Leverage 1:50 Profit Split up to 90% Add-ons \u2139 7 Withdrawal Days \u2013 Get paid in 7 days instead of 14. 90% Profit Share \u2013 Keep 90% of profits instead of 80%. 90% Profit Share 90% profit split 7 Withdrawal Days Request early payout - 7 days $",
+    "url": "https://superfunded.com/product/10000-two-phase-challenge/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "Minimum Trading Days 3 Max Daily Loss 3% Maximum Total Loss 5% Leverage 1:30 Profit Split up to 90% Price $55 BUY NOW | $55 Click button to purchase challenge Get Funded $10,000 Profit Target 8% Minimum Trad",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:50",
+    "snippet": "Minimum Trading Days 4 Max Daily Loss 5% Maximum Total Loss 10% Leverage 1:50 Profit Split up to 90% Price $33 BUY NOW | $33 Click button to purchase challenge Get Funded $6,000 Profit Target Phase 1 10% Prof",
+    "url": "https://superfunded.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradeLocker"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Oil",
+  "CFD"
+ ],
+ "coupon_codes": [
+  {
+   "code": "FIRST6K",
+   "context": "5, SuperFunded is offering a special coupon exclusively for first-time buyers. Enter the coupon code FIRST6K at checkout and get the $6K Challenge for just $29 (regular"
+  },
+  {
+   "code": "MAY20",
+   "context": "y 31st, 2026, SuperFunded is offering a 20% discount on all Challenges when you enter the coupon code MAY20 at checkout. There is no limit to how many times you can u"
+  },
+  {
+   "code": "JULY",
+   "context": "y 31st, 2026, SuperFunded is offering a 20% discount on all Challenges when you enter the coupon code JULY at checkout. There is no limit to how many times you can u"
+  },
+  {
+   "code": "MAR20",
+   "context": "h 31st, 2026, SuperFunded is offering a 20% discount on all Challenges when you enter the coupon code MAR20 at checkout. There is no limit to how many times you can u"
+  },
+  {
+   "code": "AUG20",
+   "context": "t 31st, 2026, SuperFunded is offering a 20% discount on all Challenges when you enter the coupon code AUG20 at checkout. There is no limit to how many times you can u"
+  },
+  {
+   "code": "FEB20",
+   "context": "ebruary 2026, SuperFunded is offering a 20% discount on all Challenges when you enter the coupon code FEB20 at checkout. There is no limit to how many times you can u"
+  }
+ ],
+ "claims": [],
+ "errors": []
+}

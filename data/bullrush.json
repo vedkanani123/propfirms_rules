@@ -1,0 +1,12 @@
+{
+ "slug": "bullrush",
+ "name": "BullRush",
+ "category": "Forex/CFD",
+ "url": "https://bullrush.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

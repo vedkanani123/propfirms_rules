@@ -1,0 +1,655 @@
+{
+ "slug": "crypto-fund-trader",
+ "name": "Crypto Fund Trader",
+ "category": "Crypto",
+ "url": "https://cryptofundtrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://cryptofundtrader.com/",
+   "kind": "home",
+   "chars": 17279
+  },
+  {
+   "url": "https://cryptofundtrader.com/wp-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 889
+  },
+  {
+   "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-1.xml",
+   "kind": "sitemap",
+   "chars": 188924
+  },
+  {
+   "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-2.xml",
+   "kind": "sitemap",
+   "chars": 190052
+  },
+  {
+   "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-3.xml",
+   "kind": "sitemap",
+   "chars": 190344
+  },
+  {
+   "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-4.xml",
+   "kind": "sitemap",
+   "chars": 190904
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-steven-plante/",
+   "kind": "page",
+   "chars": 2430
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-king-alexander-plana/",
+   "kind": "page",
+   "chars": 2437
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-steven-plante-2/",
+   "kind": "page",
+   "chars": 2430
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-huseyin-kocakaplan/",
+   "kind": "page",
+   "chars": 2435
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-murat-kaplan/",
+   "kind": "page",
+   "chars": 2429
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-king-alexander-plana-2/",
+   "kind": "page",
+   "chars": 2437
+  },
+  {
+   "url": "https://cryptofundtrader.com/choose-your-challenge/",
+   "kind": "page",
+   "chars": 3001
+  },
+  {
+   "url": "https://cryptofundtrader.com/faq/",
+   "kind": "page",
+   "chars": 36940
+  },
+  {
+   "url": "https://cryptofundtrader.com/terms-and-conditions/",
+   "kind": "page",
+   "chars": 46504
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-dorit-aboutbul-2/",
+   "kind": "page",
+   "chars": 2431
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-dorit-aboutbul-3/",
+   "kind": "page",
+   "chars": 2431
+  },
+  {
+   "url": "https://cryptofundtrader.com/certificate-of-funding-dorit-aboutbul/",
+   "kind": "page",
+   "chars": 2431
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 886745,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "4",
+    "snippet": "000 - Profit Split 50% 60% 70% 80% 90% 90% 90% 90% Phase 1 10% Profit target Maximum daily loss 4% Maximum trailing loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "- E-Books - Live Streams - Podcasts - Personal mentoring Phase 1 8% Profit target Maximum daily loss 5% Maximum overall loss 10% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "$5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "reams - Podcasts - Personal mentoring Phase 1 8% Profit target Maximum daily loss 5% Maximum overall loss 10% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "s eligibility to receive up to 90% of the performance-based scholarship reward. \u2013 Daily Drawdown 6%: This add-on costs 15% of the evaluation price and increases the daily loss limit to 6%. \u2013 Max Drawdown 12%: This add-on costs 25% of the evaluation price and increase",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "$25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books - Live Streams - Podcast",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "s - Personal mentoring Phase 1 8% Profit target Maximum daily loss 5% Maximum overall loss 10% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books - Live Streams - Podcast",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "our account balance at 12:05 AM UTC each day. For the 2-Phase Evaluation, the daily maximum loss is 5%, and the maximum overall loss is fixed at 10% of the initial account balance. For the 1-Phase Evaluation, the daily maximum loss is 4%, and the trailing drawdown rule",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "fixed at 10% of the initial account balance. For the 1-Phase Evaluation, the daily maximum loss is 4%, and the trailing drawdown rule applies instead of a fixed overall loss limit. How is the trailing drawdown calculated? The trailing drawdown applies only to th",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "d-on costs 15% of the evaluation price and increases the daily loss limit to 6%. \u2013 Max Drawdown 12%: This add-on costs 25% of the evaluation price and increases the maximum loss limit to 12%. Available add-ons for 1-Phase Evaluations: \u2013 Weekly Scholarship Request",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "es - E-Books - Live Streams - Podcasts - Personal mentoring Live Stage 80% Profit Split Maximum daily loss 4% Maximum trailing loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virt",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "0",
+    "snippet": ",000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books - Live Streams - Podcasts - Personal mentoring",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "300.00",
+    "snippet": "Crypto Fund Trader - \ufeff Best Trading Prop Firm | Up to $300.000 Join the waitlist The new terminal is coming soon [ MENU ] [ Programs ] [ How it works ] [ Affiliates ] [ Support ] Blog Faq Contact FA",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "sed on discipline, consistency, and risk management: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum ov",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "iscipline, consistency, and risk management: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall los",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": ", consistency, and risk management: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Mi",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "ency, and risk management: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum day",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "risk management: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum days traded 0",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "agement: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum days traded 0 Maximum",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "stant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for double ups Maximum daily loss 4% Maximum overall loss 6% Minimum days traded 0 Maximum days trad",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,28",
+    "snippet": "es - E-Books - Live Streams - Podcasts - Personal mentoring Scale up to $1,280,000 Level $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $320,000 $640,000 $1,280,000 Target $2,750 $5,500 $11,000 $22,000 $44,000 $88,000",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20,00",
+    "snippet": "Personal mentoring Scale up to $1,280,000 Level $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $320,000 $640,000 $1,280,000 Target $2,750 $5,500 $11,000 $22,000 $44,000 $88,000 $176,000 $352,000 $704,000 - Profit Spl",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40,00",
+    "snippet": "mentoring Scale up to $1,280,000 Level $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $320,000 $640,000 $1,280,000 Target $2,750 $5,500 $11,000 $22,000 $44,000 $88,000 $176,000 $352,000 $704,000 - Profit Split 50%",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80,00",
+    "snippet": "g Scale up to $1,280,000 Level $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $320,000 $640,000 $1,280,000 Target $2,750 $5,500 $11,000 $22,000 $44,000 $88,000 $176,000 $352,000 $704,000 - Profit Split 50% 60% 70%",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "% 90% 90% 90% Phase 1 10% Profit target Maximum daily loss 4% Maximum trailing loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books - Live Streams - Podc",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule NO \n Leverage 1:100 \n \n \n Live Stage\n Profit Split: 80% Trailing drawdown $1,000 \n Min da",
+    "snippet": "Phase 1 Profit Target: $1,250 Trailing drawdown $1,000 Min days traded 1 Consistency Rule NO Leverage 1:100 Live Stage Profit Split: 80% Trailing drawdown $1,000 Min days traded 0 Consistency Rule 40% On a BREAK funded account, the consistency rule is a 40% limit on how much of your total profits can come from a single trading day. So",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule 40% On a BREAK funded account, the consistency rule is a 40% limit on how much of your to",
+    "snippet": "0 Live Stage Profit Split: 80% Trailing drawdown $1,000 Min days traded 0 Consistency Rule 40% On a BREAK funded account, the consistency rule is a 40% limit on how much of your total profits can come from a single trading day. So, when you request a payout, we check that no one day's profit is more than 40% of your total profits to date.",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule NO \n Leverage 1:100 \n \n \n Live Stage\n Profit Split: 80% Trailing drawdown $2,000 \n Min da",
+    "snippet": "8 Phase 1 Profit Target: $3,000 Trailing drawdown $2,000 Min days traded 1 Consistency Rule NO Leverage 1:100 Live Stage Profit Split: 80% Trailing drawdown $2,000 Min days traded 0 Consistency Rule 40% On a BREAK funded account, the consistency rule is a 40% limit on how much of your total profits can come from a single trading day. So",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule NO \n Leverage 1:100 \n \n \n Live Stage\n Profit Split: 80% Trailing drawdown $3,000 \n Min da",
+    "snippet": "8 Phase 1 Profit Target: $6,000 Trailing drawdown $3,000 Min days traded 1 Consistency Rule NO Leverage 1:100 Live Stage Profit Split: 80% Trailing drawdown $3,000 Min days traded 0 Consistency Rule 40% On a BREAK funded account, the consistency rule is a 40% limit on how much of your total profits can come from a single trading day. So",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule?\n \n The Consistency Rule applies only to Break Final Stage accounts",
+    "snippet": "t may be considered to have breached the applicable trading rules. What is the Consistency Rule? The Consistency Rule applies only to Break Final Stage accounts. No single trading day may account for more than 40% of the total profits generated on the account. When you request a scholarship reward, we review the account to ens",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule is checked only when a scholarship reward request is submitted",
+    "snippet": "ntil your profits are more evenly distributed before submitting a new request. The Consistency Rule is checked only when a scholarship reward request is submitted. It does not prevent you from continuing to trade. What is the Break Activation Fee? The Break Activation Fee is paid after successfully completing the Break Ev",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "on demand",
+    "snippet": "How can I request a scholarship reward on Break accounts? Break accounts offer payouts on demand once the trader has successfully passed the Evaluation phase, paid the applicable Activation Fee, and moved to the Final Stage, provided that no program rules have been",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Crypto Fund Trader - \ufeff Best Trading Prop Firm | Up to $300.000 Join the waitlist The new terminal is coming soon [ MENU ] [ Programs ] [ How it works ]",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "t takes No shortcuts, no luck, just skill. Stay consistent, stay disciplined, and rise to the top. 04 Start earning Start earning from your skills. Once you reach this stage, you\u2019ll still trade with virtual capital, and keep 80% of the profits you g",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "deel",
+    "snippet": "wong/ 2023-07-18T07:15:05+00:00 https://cryptofundtrader.com/certificate-of-funding-adeel-mehmood/ 2023-07-19T02:55:17+00:00 https://cryptofundtrader.com/certificate-of-funding-mustafa-yavuz-2/ 2023-07-19T02:58:34+00:00 https://cryptofundtrader.com/certificat",
+    "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "4-05-13T00:12:03+00:00 https://cryptofundtrader.com/certificate-of-funding-vipada-panwised/ 2024-05-13T00:12:19+00:00 https://cryptofundtrader.com/certificate-of-funding-djalal-boumachouene-2/ 2024-05-13T00:12:53+00:00 https://cryptofundtrader.com/certificate",
+    "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-3.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "reer. What payment methods are available? We accept payments by credit card, PayPal, Apple Pay, Google Pay, and cryptocurrency through our available payment gateways. Crypto payments are currently supported in multiple cryptocurrencies. Which cou",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "Trader offers competitive spreads, with examples such as EUR/USD from 0 pips and BTC/USDT from 1 pip. You can check the available spreads at any time directly through Match-Trader, MetaTrader 5, or Bybit using the demo access below. Match-Trader Demo Cr",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "What scholarship payment methods are available? Payment methods: Directly via bank transfer in EUR or USD . Transfer directly to crypto wallet in these available currencies: USDT (ERC20) USDT (TRC20) Bitcoin (BTC) Ethereum (ETH) Do I need to complet",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "irs only Only USDT trading pairs are allowed on Bybit accounts. Trades placed on USDC pairs will not be counted toward the account\u2019s simulated profit or evaluation results. PROHIBITED EA TYPES High-Frequency Trading High-frequency trading is n",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "irtual classes - E-Books - Live Streams - Podcasts - Personal mentoring Scale up to $1,280,000 Level $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $320,000 $640,000 $1,280,000 Target $2,750 $5,500 $11,000 $22,000 $44,000 $88,000 $176,000 $352,000 $704,000 - Profit Split 50% 60% 70% 80% 90% 90% 90% 90% 90% 90",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "-07-05T03:27:30+00:00 https://cryptofundtrader.com/certificate-of-funding-daemola-thomas/ 2023-07-05T14:04:40+00:00 https://cryptofundtrader.com/certificate-of-funding-taner-kahraman/ 2023-07-05T14:47:40+00:00 https://cryptofundtrader.com/certificate-of-funding-elia-parietti-2/ 2023-07-05T15:43:46+00:00 https",
+    "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "cma",
+    "snippet": "23-12-23T00:08:43+00:00 https://cryptofundtrader.com/certificate-of-funding-ferhat-kacmaz/ 2023-12-23T00:10:16+00:00 https://cryptofundtrader.com/certificate-of-funding-zoran-pintaric/ 2023-12-23T00:10:34+00:00 https://cryptofundtrader.com/certificate-of-funding-muhammet-celik-3/ 2023-12-23T00:10:51+00:00 http",
+    "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "04-11T01:32:49+00:00 https://cryptofundtrader.com/certificate-of-funding-haris-mahalbasic/ 2024-04-11T01:33:03+00:00 https://cryptofundtrader.com/certificate-of-funding-rustem-tasin-5/ 2024-04-11T01:33:18+00:00 https://cryptofundtrader.com/certificate-of-funding-onur-luleci-6/ 2024-04-11T01:33:32+00:00 https:/",
+    "url": "https://cryptofundtrader.com/wp-sitemap-posts-post-3.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Proud partner of C.A. Osa",
+    "snippet": "ased on simulated performance. We are featured in: Proud partner of BYBIT Proud partner of C.A. Osasuna Other Partners: the first crypto prop firm in the industry We discover, evaluate, and reward traders CFT Prop trading benefits Trade w",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Our gamified ranking system lets you compete ag",
+    "snippet": "time you need to complete the phases at your own pace. Competitive Ranking Our gamified ranking system lets you compete against other traders and unlock free prizes. Up to x100 Leverage We provide leverage of 1:100 to all instruments. Traders can use appropiate lot sizes even while",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Up to x100 Leverag",
+    "snippet": "anking system lets you compete against other traders and unlock free prizes. Up to x100 Leverage We provide leverage of 1:100 to all instruments. Traders can use appropiate lot sizes even while using small stop losses. Trading News Allowed Yes, you can tr",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "We provide leverag",
+    "snippet": "u compete against other traders and unlock free prizes. Up to x100 Leverage We provide leverage of 1:100 to all instruments. Traders can use appropiate lot sizes even while using small stop losses. Trading News Allowed Yes, you can trade the news. No rest",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "manag",
+    "snippet": "ur 1-phase or 2-phase challenges, both focused on discipline, consistency, and risk management: Instant 1 Phase 2 Phases $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 10% Target for dou",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "Maximum overall loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tutorial videos - Virtual classes - E-Books - Live Streams - Podcasts - Personal mentoring Scale up to $1,280,000 Level $2,",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Live Stag",
+    "snippet": "irtual classes - E-Books - Live Streams - Podcasts - Personal mentoring Live Stage 80% Profit Split Maximum daily loss 4% Maximum trailing loss 6% Minimum days traded 0 Maximum days traded Indefinite Leverage Up to 1:100 Theory tools - Tuto",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e more evenly distributed, then request the payout ag",
+    "snippet": "(40%). If one day is over $2,000, you just need to keep trading until your profits are more evenly distributed, then request the payout again. It's only checked at payout time, and it does not stop you from trading in the meantime. Leverage 1:100 Payouts on-demand Yes Pay only when you pass $138",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy \n Proof of Scholarship \n Affiliate Partner \n Theory Tools \n Blog \n CFT x Bybit \n Choose your challenge \n F",
+    "snippet": "] [ Affiliates ] [ Support ] Blog Faq Contact FAQ Terms and Conditions Refund Policy Proof of Scholarship Affiliate Partner Theory Tools Blog CFT x Bybit Choose your challenge Free tournaments Match - Trader Platform MT5 Web Terminal BYBIT Platform Contact us Cookies \u201cKYC Audit\u201d Privacy Policy Competitive Ranking [ RANK ] [ DASHBOARD ]",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy \n Proof Of Scholarship Reserves \n Affiliate Partner \n Theory Tools \n Blog \n Competitive Ranking \n CFT x By",
+    "snippet": "Simulated Reward Estimator Real time Final Stage Traders Terms and Conditions Refund Policy Proof Of Scholarship Reserves Affiliate Partner Theory Tools Blog Competitive Ranking CFT x Bybit Programs $5,000 Challenge $10,000 Challenge $25,000 Challenge $50,000 Challenge $100,000 Challenge $200,000 Challenge Choose Your Challenge Free Tourn",
+    "url": "https://cryptofundtrader.com/certificate-of-funding-steven-plante/",
+    "kind": "page"
+   },
+   {
+    "value": "refunds or reactivations will be granted",
+    "snippet": "t any time, the evaluation account will be automatically invalidated and closed. No refunds or reactivations will be granted. 3.3.3 If the API Key expires, the evaluation account will be marked as pending activation until a new valid API Key is provided. 3.3.4 Users are allowed a maximum of",
+    "url": "https://cryptofundtrader.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refund if you do not fully complete the phases of our training process",
+    "snippet": "cess, in any of its modalities. You will not be entitled to any diploma, reward, or refund if you do not fully complete the phases of our training process. 5.2 The funds provided to you during Phase 1, Phase 2, Phase 3 or \u2018Final Stage\u2019 phase are DEMO funds. These funds are not real funds and cannot be used for real opera",
+    "url": "https://cryptofundtrader.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading is allowed",
+    "snippet": "2 lots XAGUSD: 2 \u00d7 -35.673 \u00d7 100 \u00d7 0.01 = -$71.35 Can I trade news? Yes. News trading is allowed. We want traders to have the freedom to trade using their own strategy and style. Can I trade on the weekends? Cryptocurrency markets are open 24 hours a day, 7",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "News trading rule\n \n In the Ascend Evaluation, you cannot open new trades or increase your risk during high-impact news ",
+    "snippet": "t or cancel the evaluation, or take action based on internal data and evidence. News trading rule In the Ascend Evaluation, you cannot open new trades or increase your risk during high-impact news events or market openings. This restriction applies from 2 minutes before until 2 minutes after the event. During this time, you cannot open ne",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading limits, instrument\n or symbol bans, prohibitions or limitations on VPS/VPN or remote access and anti-copy-t",
+    "snippet": "or aggregate risk caps, maximum position size or number of simultaneous positions, news trading limits, instrument or symbol bans, prohibitions or limitations on VPS/VPN or remote access and anti-copy-trading controls. Where feasible, the firm will communicate material changes in a timely manner; however, immediate action may be taken whe",
+    "url": "https://cryptofundtrader.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "EAK THE LIMITS,\n Lift your trading success to the moon",
+    "snippet": "Competitive Ranking [ RANK ] [ DASHBOARD ] You trade we boost BREAK THE LIMITS, Lift your trading success to the moon. Start the Challenge Sound OFF +$ 544061 PAID LAST MONTH 58000 TRADERS EDUCATED +$ 21814605 PAID TO CFT TRADERS Crypto Fund Trader Cla",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal capital involved",
+    "snippet": "ss up to $300,000 in demo capital and performance-based rewards. It's all demo, no real capital involved. Our goal is to identify and support talented traders through structured evaluations and a reward system based on simulated performance. We are featured in:",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured in:\n \n \n Proud partner of BYBIT \n Proud partner of C",
+    "snippet": "uctured evaluations and a reward system based on simulated performance. We are featured in: Proud partner of BYBIT Proud partner of C.A. Osasuna Other Partners: the first crypto prop firm in the industry We discover, evaluate, and reward traders CFT Prop trading benefits",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads & fees\n With spreads starting from 0 pips and lowest fees in the industry, we give traders an\n unmatched trading ex",
+    "snippet": "us forex, indices, stocks, commodities and other major asset classes. Low spreads & fees With spreads starting from 0 pips and lowest fees in the industry, we give traders an unmatched trading experience. No time limits No deadlines, no pressure. Take all the time you need to complete the phases at your own pace. Competitive Ranking Our g",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadlines, no pressure",
+    "snippet": "dustry, we give traders an unmatched trading experience. No time limits No deadlines, no pressure. Take all the time you need to complete the phases at your own pace. Competitive Ranking Our gamified ranking system lets you compete against other traders and",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "ons, news trading limits, instrument or symbol bans, prohibitions or limitations on VPS/VPN or remote access and anti-copy-trading controls. Where feasible, the firm will communicate material changes in a timely manner; however, immediate action may be taken when operationally necessary. The Crypto Fund T",
+    "url": "https://cryptofundtrader.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "other users and/or operating multiple accounts from the same household, devices, or IP address/VPS. The user is responsible for the risk of using VPNs, as these could lead to IP matches with other users. ix. The Trader declares, warrants, and agrees not to make any",
+    "url": "https://cryptofundtrader.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "ousehold, devices, or IP address/VPS. The user is responsible for the risk of using VPNs, as these could lead to IP matches with other users. ix. The Trader declares, warrants, and agrees not to make any public statement in any type of social media or public access medium disputing, challenging, disputing,",
+    "url": "https://cryptofundtrader.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@cryptofundtrader.com",
+    "snippet": "ation firm where we boost the best traders in addition to testing their qualities. support@cryptofundtrader.com FAQ Terms and Conditions Refund Policy Proof of Scholarship Affiliate Partner Theory Tools Blog CFT x Bybi",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "demo@cryptofundtrader.com",
+    "snippet": "and Android. You can try the platform using the following demo credentials: Email: demo@cryptofundtrader.com Password: DemoCFT1 MetaTrader 5 We also offer MetaTrader 5 , one of the most popular retail trading platforms in the market. Demo credentials: Account: 123456 P",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "em lets you compete against other traders and unlock free prizes. Up to x100 Leverage We provide leverage of 1:100 to all instruments. Traders can use appropiate lot sizes even while using small stop losses. Trading News Allowed Yes, you can trade the news. No restrictions d",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:30",
+    "snippet": "tocks: 1:100 leverage STUDENT ACCOUNTS (CFT Platform & MetaTrader 5): Forex: 1:30 leverage Commodities: 1:30 leverage Indices: 1:20 leverage Cryptos: 1:5 leverage Stocks: 1:5 leverage Check the account types here What are the spreads? Crypto Fund Trader offers comp",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "1:20",
+    "snippet": "DENT ACCOUNTS (CFT Platform & MetaTrader 5): Forex: 1:30 leverage Commodities: 1:30 leverage Indices: 1:20 leverage Cryptos: 1:5 leverage Stocks: 1:5 leverage Check the account types here What are the spreads? Crypto Fund Trader offers competitive spreads, with ex",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "1:5",
+    "snippet": "orm & MetaTrader 5): Forex: 1:30 leverage Commodities: 1:30 leverage Indices: 1:20 leverage Cryptos: 1:5 leverage Stocks: 1:5 leverage Check the account types here What are the spreads? Crypto Fund Trader offers competitive spreads, with examples such as EUR/USD",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Audit\u201d \n Privacy Policy \n Competitive Ranking \n [ RANK ]\n [ DASHBOARD ]\n \n \n \n \n \n You trade\n we boost\n \n BRE",
+    "snippet": "atch - Trader Platform MT5 Web Terminal BYBIT Platform Contact us Cookies \u201cKYC Audit\u201d Privacy Policy Competitive Ranking [ RANK ] [ DASHBOARD ] You trade we boost BREAK THE LIMITS, Lift your trading success to the moon. Start the Challenge Sound OFF +$ 544061 PAID LAST MONTH 58000 TRADERS EDUCATED +$ 21814605",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC Audit\u201d \n Privacy Policy \n Bahnhofstrasse 21, 6300, Zug, Switzerland\n SWISS RLCRATES AG (CHE-162",
+    "snippet": "Match-Trader Platform MT5 Web Terminal BYBIT Platform Contact us Cookies \u201cKYC Audit\u201d Privacy Policy Bahnhofstrasse 21, 6300, Zug, Switzerland SWISS RLCRATES AG (CHE-162.567.204) Crypto Fund Trader \u00a9 2026 All Rights Reserved. SWISS RLCRATES AG is a provider of educational services, all information available on our site is intended s",
+    "url": "https://cryptofundtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC Audit \n \n \n \n \n \n \n Quick Links\n \n \n FAQ \n Evaluation Process \n Specifications \n Simulated Reward Estimator",
+    "snippet": "st the best traders in addition to testing their qualities. KYC Audit Quick Links FAQ Evaluation Process Specifications Simulated Reward Estimator Real time Final Stage Traders Terms and Conditions Refund Policy Proof Of Scholarship Reserves Affiliate Partner Theory Tools Blog Competitive Ranking CF",
+    "url": "https://cryptofundtrader.com/certificate-of-funding-steven-plante/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee?\n \n The Break Activation Fee is paid after successfully completing the Break Evaluation in order to proce",
+    "snippet": "submitted. It does not prevent you from continuing to trade. What is the Break Activation Fee? The Break Activation Fee is paid after successfully completing the Break Evaluation in order to proceed to the Break Final Stage. If all applicable conditions and rules have been met, the option to pay the Activation Fee may become available thr",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fee may become available through your personal dashboard",
+    "snippet": "Stage. If all applicable conditions and rules have been met, the option to pay the Activation Fee may become available through your personal dashboard. After the option becomes available, the trader will have 30 days to pay the Activation Fee. If the Activation Fee is not paid within this period, the option may expire",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fee",
+    "snippet": "hboard. After the option becomes available, the trader will have 30 days to pay the Activation Fee. If the Activation Fee is not paid within this period, the option may expire and access to the Break Final Stage may no longer be available. The applicable Activation F",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fee is not paid within this period, the option may expire and access to the Break Final Stage may no longer b",
+    "snippet": "on becomes available, the trader will have 30 days to pay the Activation Fee. If the Activation Fee is not paid within this period, the option may expire and access to the Break Final Stage may no longer be available. The applicable Activation Fees are: $25,000 Break account: $138 $50,000 Break account: $198 $100,000 Break account: $328 H",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fees are:\n $25,000 Break account: $138\n $50,000 Break account: $198\n $100,000 Break account: $328\n \n \n How ca",
+    "snippet": "pire and access to the Break Final Stage may no longer be available. The applicable Activation Fees are: $25,000 Break account: $138 $50,000 Break account: $198 $100,000 Break account: $328 How can I request a scholarship reward on Break accounts? Break accounts offer payouts on demand once the trader has successfully passed the Evaluatio",
+    "url": "https://cryptofundtrader.com/faq/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "our trading success to the moon. Start the Challenge Sound OFF +$ 544061 PAID LAST MONTH 58000 TRADERS EDUCATED +$ 21814605 PAID TO CFT TRADERS Crypt",
+  "again. It's only checked at payout time, and it does not stop you from trading in the meantime. Leverage 1:100 Payouts on-demand Yes Pay only when you pass $138 Phase 1",
+  "again. It's only checked at payout time, and it does not stop you from trading in the meantime. Leverage 1:100 Payouts on-demand Yes Pay only when you pass $198 Phase 1",
+  "again. It's only checked at payout time, and it does not stop you from trading in the meantime. Leverage 1:100 Payouts on-demand Yes Pay only when you pass $328 Total",
+  "te talent in finance, tech and innovation. All with one mission: to support traders like you. Based in 3 countries, built for traders worldwide. +50 Dedicated Professional",
+  "United Arab Emirates office How can we help you? FAQ's Mentoring 1 to 1 Support 24/7 Join 58,000+ traders that love us I've had extensive experience with prop fi"
+ ],
+ "errors": []
+}

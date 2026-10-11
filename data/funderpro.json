@@ -1,0 +1,651 @@
+{
+ "slug": "funderpro",
+ "name": "FunderPro",
+ "category": "Forex/CFD",
+ "url": "https://funderpro.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://funderpro.com/",
+   "kind": "home",
+   "chars": 9042
+  },
+  {
+   "url": "https://funderpro.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 35726
+  },
+  {
+   "url": "https://funderpro.com/medias/funderpro-launches-new-150k-challenge-and-new-pricing/",
+   "kind": "page",
+   "chars": 3108
+  },
+  {
+   "url": "https://funderpro.com/blog/master-prop-firm-drawdown-rules-in-2025/",
+   "kind": "page",
+   "chars": 7183
+  },
+  {
+   "url": "https://funderpro.com/blog/instant-funding-vs-challenge-accounts-choosing-your-path-to-success/",
+   "kind": "page",
+   "chars": 5349
+  },
+  {
+   "url": "https://funderpro.com/blog/consistency-rule-what-it-is-and-how-it-works/",
+   "kind": "page",
+   "chars": 6890
+  },
+  {
+   "url": "https://funderpro.com/ar/trading-rules/",
+   "kind": "page",
+   "chars": 3567
+  },
+  {
+   "url": "https://funderpro.com/it/trading-rules/",
+   "kind": "page",
+   "chars": 4606
+  },
+  {
+   "url": "https://funderpro.com/trading-rules/",
+   "kind": "page",
+   "chars": 5338
+  },
+  {
+   "url": "https://funderpro.com/es/trading-rules/",
+   "kind": "page",
+   "chars": 4679
+  },
+  {
+   "url": "https://funderpro.com/market-insights/bitcoin-zig-zags-away-from-uptober-gains-as-price-slips-below-27k/",
+   "kind": "page",
+   "chars": 4554
+  },
+  {
+   "url": "https://funderpro.com/medias/funderpro-introduces-single-phase-challenges-and-new-add-ons/",
+   "kind": "page",
+   "chars": 3844
+  },
+  {
+   "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+   "kind": "page",
+   "chars": 1213
+  },
+  {
+   "url": "https://funderpro.com/medias/funderpro-enables-secure-card-payments-on-all-challenges/",
+   "kind": "page",
+   "chars": 3786
+  },
+  {
+   "url": "https://support.funderpro.com/en/",
+   "kind": "sub",
+   "chars": 2087
+  },
+  {
+   "url": "https://funderpro.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 35726
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 136713,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "sic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%) Max Overall Drawdown $10k (10%) Minimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "ample of Consistency Rule Applied Consider a $25,000 Regular Phase 2 Account with a profit target of $2,000 (8%). The daily profit should never exceed $900, or 45% of total profits. Scenario : You hit your target and make a total profit of $2,000. You make a $1,200 profit in one",
+    "url": "https://funderpro.com/blog/consistency-rule-what-it-is-and-how-it-works/",
+    "kind": "page"
+   },
+   {
+    "value": "45",
+    "snippet": "e long-term success. Plan Your Trades Take the time to plan your trades and set up profit targets below the 45% threshold (or 15% for One Phase). This will help you keep consistency and avoid impulsive decisions. Also remember that with FunderPro you have unlimited time to win you",
+    "url": "https://funderpro.com/blog/consistency-rule-what-it-is-and-how-it-works/",
+    "kind": "page"
+   },
+   {
+    "value": "14",
+    "snippet": "nt Phase 1 Funded Account Max Daily Drawdown 4% 5% Max Overall Drawdown 7% 10% Profit Target 14% n/a Time Limit Unlimited Time n/a Minimum Trading Days** \u2013 n/a Consistency Rule Yes No News Holding No No News Trading No No Weekend holding No No *With ad",
+    "url": "https://funderpro.com/medias/funderpro-introduces-single-phase-challenges-and-new-add-ons/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%) Max Overall Drawdown $10k (10%) Minimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "of the FunderPro One-Phase Challenges Swing Account Phase 1 Funded Account Max Daily Drawdown 4% 5% Max Overall Drawdown 7% 10% Profit Target 14% n/a Time Limit Unlimited Time n/a Minimum Trading Days** \u2013 n/a Consistency Rule Yes No News Holding No No",
+    "url": "https://funderpro.com/medias/funderpro-introduces-single-phase-challenges-and-new-add-ons/",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "fit Target 10% \u00b7 $110,000.00 Trading Period Unlimited Minimum Trading Days 1 Maximum Daily Loss 3% of balance Maximum Loss 6% \u00b7 $94,000.00 Leverage 1:50 Consistency Rule 40% Profit Split 80 / 20 Rewards Bi-weekly $539.00 $100K Account Get Funded \u2192 One-time 100% ref",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "rd) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%) Max Overall Drawdown $10k (10%) Minimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "ase Challenges Swing Account Phase 1 Funded Account Max Daily Drawdown 4% 5% Max Overall Drawdown 7% 10% Profit Target 14% n/a Time Limit Unlimited Time n/a Minimum Trading Days** \u2013 n/a Consistency Rule Yes No News Holding No No News Trading No No Weekend",
+    "url": "https://funderpro.com/medias/funderpro-introduces-single-phase-challenges-and-new-add-ons/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": ".00 Trading Period Unlimited Minimum Trading Days 1 Maximum Daily Loss 3% of balance Maximum Loss 6% \u00b7 $94,000.00 Leverage 1:50 Consistency Rule 40% Profit Split 80 / 20 Rewards Bi-weekly $539.00 $100K Account Get Funded \u2192 One-time 100% refundable fee VISA Masterca",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "10",
+    "snippet": "Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%) Max Overall Drawdown $10k (10%) Minimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge Leverage up t",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": ". Let's Connect! Join Our Affiliate Program Weekly automatic commissions, up to 20% revenue share, earn on every sale and earn from affiliates you bring in. Become an Affiliate Subject to approval and Affiliate T&Cs. Powered by HOW IT WORKS The Challenge Features",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "ard a week after funding +$80.85 Swing Account Hold over weekends & news +$53.90 90% Performance Reward Boost your profit split to 90% +$107.80 Platforms TradeLocker Profit Target 10% \u00b7 $110,000.00 Trading Period Unlimited Minimum Trading Days 1 Maximum Daily Loss 3% of balance Maximum Loss 6%",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "Daily Loss 3% of balance Maximum Loss 6% \u00b7 $94,000.00 Leverage 1:50 Consistency Rule 40% Profit Split 80 / 20 Rewards Bi-weekly $539.00 $100K Account Get Funded \u2192 One-time 100% refundable fee VISA Mastercard PayPal Klarna Skrill Crypto",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "4",
+    "snippet": "%) Profit Split - Max Daily Drawdown $5k (5%) Max Overall Drawdown $10k (10%) Minimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "7.80 Platforms TradeLocker Profit Target 10% \u00b7 $110,000.00 Trading Period Unlimited Minimum Trading Days 1 Maximum Daily Loss 3% of balance Maximum Loss 6% \u00b7 $94,000.00 Leverage 1:50 Consistency Rule 40% Profit Split 80 / 20 Rewards Bi-weekly $539.00 $100K Account Get Fund",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "res Login / Register EN Get Started $22,000,000 + paid to traders Funded Account $100K \u00b7 PRO Equity $104,860 +$4,860 PROFIT TARGET Profit target reached eligible for payout Claim Reward Reward approved $4,860 paid \u00b7 4h 12m after request Affiliate paym",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tant Program One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Program One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Dail",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ram One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Dra",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%)",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "e Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%) Max Ov",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "102",
+    "snippet": "r balance is $100k at the start of the day, and the next day you have an open P/L of $102k. Your daily drawdown will still be $95k, not $97k. Equity-based: Given the same situation as above, your daily drawdown would be $97k. Position Sizing to Stay Within",
+    "url": "https://funderpro.com/blog/master-prop-firm-drawdown-rules-in-2025/",
+    "kind": "page"
+   },
+   {
+    "value": "95",
+    "snippet": "y, and the next day you have an open P/L of $102k. Your daily drawdown will still be $95k, not $97k. Equity-based: Given the same situation as above, your daily drawdown would be $97k. Position Sizing to Stay Within Limits Knowing your drawdown number is",
+    "url": "https://funderpro.com/blog/master-prop-firm-drawdown-rules-in-2025/",
+    "kind": "page"
+   },
+   {
+    "value": "97",
+    "snippet": "next day you have an open P/L of $102k. Your daily drawdown will still be $95k, not $97k. Equity-based: Given the same situation as above, your daily drawdown would be $97k. Position Sizing to Stay Within Limits Knowing your drawdown number is one thing",
+    "url": "https://funderpro.com/blog/master-prop-firm-drawdown-rules-in-2025/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "22,00",
+    "snippet": "Works FAQs Trading Affiliates About CFD Futures Login / Register EN Get Started $22,000,000 + paid to traders Funded Account $100K \u00b7 PRO Equity $104,860 +$4,860 PROFIT TARGET Profit target reached eligible for payout Claim Reward Reward approved $4,860",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "res Login / Register EN Get Started $22,000,000 + paid to traders Funded Account $100K \u00b7 PRO Equity $104,860 +$4,860 PROFIT TARGET Profit target reached eligible for payout Claim Reward Reward approved $4,860 paid \u00b7 4h 12m after request Affiliate pay",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "104,86",
+    "snippet": "EN Get Started $22,000,000 + paid to traders Funded Account $100K \u00b7 PRO Equity $104,860 +$4,860 PROFIT TARGET Profit target reached eligible for payout Claim Reward Reward approved $4,860 paid \u00b7 4h 12m after request Affiliate payment sent $15M+ total",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,86",
+    "snippet": "tarted $22,000,000 + paid to traders Funded Account $100K \u00b7 PRO Equity $104,860 +$4,860 PROFIT TARGET Profit target reached eligible for payout Claim Reward Reward approved $4,860 paid \u00b7 4h 12m after request Affiliate payment sent $15M+ total CFD Futu",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "Reward Reward approved $4,860 paid \u00b7 4h 12m after request Affiliate payment sent $15M+ total CFD Futures $22M+ paid to traders \u00b7 $15M+ to affiliates \u2014 and counting The Prop Firm That Pays. Pass the challenge, trade our capital, and keep up to 90% of",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "22",
+    "snippet": "$4,860 paid \u00b7 4h 12m after request Affiliate payment sent $15M+ total CFD Futures $22M+ paid to traders \u00b7 $15M+ to affiliates \u2014 and counting The Prop Firm That Pays. Pass the challenge, trade our capital, and keep up to 90% of every win \u2014 rewards paid i",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": ". MT5, cTrader & TradeLocker Up to 90% Performance Reward Your EAs Allowed Up to $200,000 No Trailing Drawdown News Trading Allowed Start Your Challenge Go Instant All trading activity takes place in a simulated trading environment. Funds allocated are",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tant Program One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Ma",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Program One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Dai",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ram One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Dr",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "One Phase 1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdow",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "1-Phase Classic 2-Phase Pro 2-Phase Daily or Weekly Rewards $5k $10k $25k $50k $100k $150k $200k Classic 2-Phase Phase 1 Phase 2 Funded Price (will be processed with 1st reward) $539 Profit Target $10k (10%) Profit Split - Max Daily Drawdown $5k (5%)",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "er & TradeLocker Up to 90% Performance Reward Your EAs Allowed Up to $200,000 No Trailing Drawdown News Trading Allowed Start Your Challenge Go Instant All trading activity takes place in a simulated trading environment. Funds allocated are fictitious. Paid to tr",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule\n No\n Hold Over Weekend\n Yes (with Add-On)\n News Trading & Holding\n Yes\n Scroll to see mor",
+    "snippet": "Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading activity takes place in a simulated trading environment. Funds allocated are fictitious. One Phase 1-Phase Forex 1:50; Metals, Oil, Ind",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule, cheaper than Pro, lower Phase 2 target",
+    "snippet": "her leverage Fewer restrictions Best for intra-day traders Classic 2-Phase No Consistency Rule, cheaper than Pro, lower Phase 2 target. No Consistency Rule 5% Profit Target for Phase 2 Ideal for beginners All trading activity takes place in a simulated trading environment. Funds allocated are fict",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule\n 5% Profit Target for Phase 2\n Ideal for beginners\n \n All trading activity takes place in",
+    "snippet": "Classic 2-Phase No Consistency Rule, cheaper than Pro, lower Phase 2 target. No Consistency Rule 5% Profit Target for Phase 2 Ideal for beginners All trading activity takes place in a simulated trading environment. Funds allocated are fictitious. Instant Program Skip Evaluation and trade up to 100K News Trading Allowed Starts from $79.00 ",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule: What It Is and How It Works How It Works FAQs Trading Affiliates About CFD Futures Login",
+    "snippet": "Consistency Rule: What It Is and How It Works How It Works FAQs Trading Affiliates About CFD Futures Login / Register EN Get Started Blog November 28, 2022 Consistency Rule: What It Is and How It Works FunderPro\u2019s Consistency Rule aims to help you achieve stable and sust",
+    "url": "https://funderpro.com/blog/consistency-rule-what-it-is-and-how-it-works/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule: What It Is and How It Works\n FunderPro\u2019s Consistency Rule aims to help you achieve stabl",
+    "snippet": "iliates About CFD Futures Login / Register EN Get Started Blog November 28, 2022 Consistency Rule: What It Is and How It Works FunderPro\u2019s Consistency Rule aims to help you achieve stable and sustainable profits while effectively managing risk. The rule states that the profits of your best trading day should be no more than 45% of your to",
+    "url": "https://funderpro.com/blog/consistency-rule-what-it-is-and-how-it-works/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule is enforced during all Phases of every FunderPro Funded Challenge",
+    "snippet": "s for Regular and Swing Challenge and no more than 15% for One Phase Challenges. The Consistency Rule is enforced during all Phases of every FunderPro Funded Challenge . It does not apply to live Funded Accounts. Let\u2019s dive deeper into the Consistency Rule, with concrete examples and tips on how to leverage it to become a more profitabl",
+    "url": "https://funderpro.com/blog/consistency-rule-what-it-is-and-how-it-works/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading activity takes p",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "3-04T14:21:11.000Z monthly 0.5 https://funderpro.com/medias/funderpro-partners-with-rise-for-flexible-rewards-direct-bank-transfers-now-available/ 2025-05-15T12:58:39.000Z monthly 0.5 https://funderpro.com/market-insights/gold-inches-past-2030-on-looming-ec",
+    "url": "https://funderpro.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "$539.00 $100K Account Get Funded \u2192 One-time 100% refundable fee VISA Mastercard PayPal Klarna Skrill Crypto",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   },
+   {
+    "value": "Skrill",
+    "snippet": "K Account Get Funded \u2192 One-time 100% refundable fee VISA Mastercard PayPal Klarna Skrill Crypto",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ly or Bi-weekly Rewards Up to 90% Performance Reward Swing Option for all Challenges Scale up to $5 million No delayed rewards EAs and Bots allowed Instant Accounts One phase 1-Phase Daily Rewards 2-Phase Classic 2-Phase One phase 1-Phase For expert traders who want a faster route to the funded stage. For expert traders Can be completed i",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Regulated by",
+    "snippet": "you trade and redeem for rewards Open a NextTrade Account or start on a free demo Regulated by the FSC (Mauritius) Risk Warning: Contracts for Differences (CFDs) are complex instruments and come with a high risk of losing money rapidly due to leverage. Please ensure you fully understand the risks involved before trading. NextTrade is a tr",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "25-a-traders-guide/ 2025-09-16T13:44:34.000Z monthly 0.5 https://funderpro.com/blog/master-prop-firm-drawdown-rules-in-2025/ 2025-11-27T07:30:46.000Z monthly 0.5 https://funderpro.com/blog/real-mt5-setups-funded-traders-use/ 2025-10-29T11:54:03.000Z monthly 0.5 https://funderpro.com/blog/why-more-uk-traders-are",
+    "url": "https://funderpro.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Challenge Leverag",
+    "snippet": "(10%) Minimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Tradin",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Forex leverag",
+    "snippet": "Challenge Duration Unlimited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to s",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Metals, Oil & Indices Leverag",
+    "snippet": "imited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading a",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto Leverag",
+    "snippet": "Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading activity takes place in",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Challenge Duration Unlimited",
+    "snippet": "x Overall Drawdown $10k (10%) $10k (10%) $10k (10%) Minimum Trading Days 4 4 - Challenge Duration Unlimited Unlimited Unlimited Reward Frequency - - Bi-Weekly Show More Conditions Buy $100K Classic Challenge All trading activity takes place in a simulated environment. T",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rt traders who want a faster route to the funded stag",
+    "snippet": "hase 1-Phase Daily Rewards 2-Phase Classic 2-Phase One phase 1-Phase For expert traders who want a faster route to the funded stage. For expert traders Can be completed in 3 days Cheapest base price Pro 2-Phase Daily and weekly reward options. Higher leverage Fewer restrictions Best for i",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Higher leverag",
+    "snippet": "ed in 3 days Cheapest base price Pro 2-Phase Daily and weekly reward options. Higher leverage Fewer restrictions Best for intra-day traders Classic 2-Phase No Consistency Rule, cheaper than Pro, lower Phase 2 target. No Consistency Rule 5% Profit Target",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "th a high risk of losing money rapidly due to leverag",
+    "snippet": "Risk Warning: Contracts for Differences (CFDs) are complex instruments and come with a high risk of losing money rapidly due to leverage. Please ensure you fully understand the risks involved before trading. NextTrade is a trade name of NextTrade Ltd, an investment dealer licensed and regulated by the Fi",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "223260",
+    "snippet": "d regulated by the Financial Services Commission (FSC) of the Republic of Mauritius, registration number 223260, licence number GB25204563. NextTrade does not accept clients from the EU, UK, USA, Canada or Australia. Loyalty rewards are subject to programme terms and conditions.",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2025-00393",
+    "snippet": "round Floor, Rodney Bay, Gros-Islet, Saint Lucia P.O. Box 838, Castries with company registration number. 2025-00393, provides the simulated trading services advertised on www.funderpro.com. For more information on the simulated trading services provided by FunderPro please contact [em",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries",
+    "snippet": "ns where such use would violate applicable laws or regulations. See the full list of restricted countries. FunderPro Ltd. is a company registered under the laws of the Republic of Malta with registration number C 104558 and registered address at Cali House, Level 3, Vjal ir-",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable fee \n VISA Mastercard PayPal Klarna Skrill Crypto",
+    "snippet": "Split 80 / 20 Rewards Bi-weekly $539.00 $100K Account Get Funded \u2192 One-time 100% refundable fee VISA Mastercard PayPal Klarna Skrill Crypto",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   },
+   {
+    "value": "refunds, and payment methods",
+    "snippet": "related to cTrader 3 articles Payments & Transactions Questions about billing, refunds, and payment methods. 5 articles Trading Questions Clarifications around trading rules, risk limits, and permitted strategies. 16 articles Challenge & Progress Understand challen",
+    "url": "https://support.funderpro.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed\n Start Your Challenge Go Instant \n All trading activity takes place in a simulated trading environm",
+    "snippet": "p to 90% Performance Reward Your EAs Allowed Up to $200,000 No Trailing Drawdown News Trading Allowed Start Your Challenge Go Instant All trading activity takes place in a simulated trading environment. Funds allocated are fictitious. Paid to traders $22M + + $15M to affiliates Choose Your Account Challenge Instant Program One Phase 1-Pha",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading & Holding\n Yes\n Scroll to see more \n Buy Challenge \n All trading activity takes place in a simulated tradin",
+    "snippet": "0 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading activity takes place in a simulated trading environment. Funds allocated are fictitious. One Phase 1-Phase Forex 1:50; Metals, Oil, Indices 1:10; Crypto 1:2 Classic 2-Phase Forex 1:100; Meta",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed Starts from $79",
+    "snippet": "ds allocated are fictitious. Instant Program Skip Evaluation and trade up to 100K News Trading Allowed Starts from $79.00 First Reward after only $100 Rewards processed after 1 working day Hold Trades Overnight & Weekends Top-tier Simulated Trading Conditions Go Instant Prefer to tra",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading? Il trading ad alta frequenza \u00e8 consentito? Quanto margine posso utilizzare per ciascuna classe di asset? \u00c8",
+    "snippet": "r completare? Sono consentite posizioni overnight o durante il weekend? \u00c8 ammesso il News Trading? Il trading ad alta frequenza \u00e8 consentito? Quanto margine posso utilizzare per ciascuna classe di asset? \u00c8 ammesso il copytrading? Cosa costituisce una violazione delle regole di trading? Come funziona la Consistency Rule? Posso gestire mult",
+    "url": "https://funderpro.com/it/trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eached eligible for payout Claim Reward\n Reward approved\n $4,860 paid \u00b7 4h 12m after request\n Affiliate payment sent $15",
+    "snippet": "rs Funded Account $100K \u00b7 PRO Equity $104,860 +$4,860 PROFIT TARGET Profit target reached eligible for payout Claim Reward Reward approved $4,860 paid \u00b7 4h 12m after request Affiliate payment sent $15M+ total CFD Futures $22M+ paid to traders \u00b7 $15M+ to affiliates \u2014 and counting The Prop Firm That Pays. Pass the challenge, trade our capit",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAs Allowed\n Up to $200,000\n No Trailing Drawdown\n News Trading Allowed\n Start Your Challenge Go Instant \n All trading a",
+    "snippet": "in hours, not weeks. MT5, cTrader & TradeLocker Up to 90% Performance Reward Your EAs Allowed Up to $200,000 No Trailing Drawdown News Trading Allowed Start Your Challenge Go Instant All trading activity takes place in a simulated trading environment. Funds allocated are fictitious. Paid to traders $22M + + $15M to affiliates Choose Your ",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured here, too!\n Load more Two paths",
+    "snippet": "ighlights Take a peek at the latest achievement of FunderPro Traders, you could be featured here, too! Load more Two paths. One Pro Trading Experience Prove your skills or go Instant to access FunderPro's elite prop trading conditions. Daily, Weekly or Bi-weekly Rewards Up to 90% Performan",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EAs and Bots allowed \n Instant Accounts\n One phase\n 1-Phase\n Daily Rewards\n 2-Phase\n Classic\n 2-Phase\n One phase\n 1-Phas",
+    "snippet": "nce Reward Swing Option for all Challenges Scale up to $5 million No delayed rewards EAs and Bots allowed Instant Accounts One phase 1-Phase Daily Rewards 2-Phase Classic 2-Phase One phase 1-Phase For expert traders who want a faster route to the funded stage. For expert traders Can be completed in 3 days Cheapest base price Pro 2-Phase D",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eapest base price\n \n Pro\n 2-Phase\n Daily and weekly reward options",
+    "snippet": "faster route to the funded stage. For expert traders Can be completed in 3 days Cheapest base price Pro 2-Phase Daily and weekly reward options. Higher leverage Fewer restrictions Best for intra-day traders Classic 2-Phase No Consistency Rule, cheaper than Pro, lower Phase 2 target. No Consistency Rule",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vps",
+    "snippet": "derpro.com/trading-rules/ 2026-03-03T09:38:03.000Z weekly 0.7 https://funderpro.com/vps-approval-request/ 2026-03-03T09:38:03.000Z weekly 0.7 https://funderpro.com/webmt5/ 2026-03-03T09:38:03.000Z weekly 0.7 https://funderpro.com/es/ 2026-03-03T09:38:03.000Z weekly 0.9 https://funderpro.com/",
+    "url": "https://funderpro.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "nimum Trading Days 4 Challenge Duration Unlimited Reward Frequency - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Y",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:30",
+    "snippet": "cy - Challenge Leverage up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading activity",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:2",
+    "snippet": "ge up to 1:100 Forex leverage 1:100 Metals, Oil & Indices Leverage 1:30 Crypto Leverage 1:2 Consistency Rule No Hold Over Weekend Yes (with Add-On) News Trading & Holding Yes Scroll to see more Buy Challenge All trading activity takes place in a simu",
+    "url": "https://funderpro.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:50",
+    "snippet": "Minimum Trading Days 1 Maximum Daily Loss 3% of balance Maximum Loss 6% \u00b7 $94,000.00 Leverage 1:50 Consistency Rule 40% Profit Split 80 / 20 Rewards Bi-weekly $539.00 $100K Account Get Funded \u2192 One-time 100% refundable fee VISA Mastercard PayPal Klarna Skrill Cry",
+    "url": "https://funderpro.com/checkout/?mode=challenge&id=dbe7a329-0585-4aa0-a9cd-cc3af91c6f58&type=classic&size=100000",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC)\n Support for completing your KYC and verifying your identity quickly",
+    "snippet": "g your account, or updating personal details. 6 articles Identity Verification (KYC) Support for completing your KYC and verifying your identity quickly. 1 article Legal Inquiries Questions about terms, compliance, privacy rights, or trading jurisdictions. 1 article MT5 Guides, tutorials and FAQs related to M",
+    "url": "https://support.funderpro.com/en/",
+    "kind": "sub"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "t future outcomes. Read the full Risk Disclaimer. \u00a9 2023 \u2013 2026 FunderPro Ltd. All Rights Reserved. Instant Funding vs Challenge Accounts | FunderPro Guide How It Works FAQs Trading Affiliates About CFD Futures Login / Register EN Get Started Blog January 13, 2026 Instan",
+   "url": "https://funderpro.com/blog/instant-funding-vs-challenge-accounts-choosing-your-path-to-success/"
+  },
+  {
+   "name": "Swing",
+   "snippet": "o you in full within 7 days of your first reward. Rules of the FunderPro One-Phase Challenges Swing Account Phase 1 Funded Account Max Daily Drawdown 4% 5% Max Overall Drawdown 7% 10% Profit Target 14% n/a Time Limit Unlimited Time n/a Minimum Trading Days*",
+   "url": "https://funderpro.com/medias/funderpro-introduces-single-phase-challenges-and-new-add-ons/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

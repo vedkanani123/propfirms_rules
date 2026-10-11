@@ -1,0 +1,252 @@
+{
+ "slug": "lark-funding",
+ "name": "Lark Funding",
+ "category": "Forex/CFD",
+ "url": "https://larkfunding.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://larkfunding.com/",
+   "kind": "home",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1182
+  },
+  {
+   "url": "https://larkfunding.com/blog/no-consistency-rules-prop-firms",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/blog/how-to-pass-prop-firm-challenge",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/help",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/terms-of-use",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/blog/fastest-payout-prop-firms-2026",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/blog/static-vs-dynamic-drawdown",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/how-it-works",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/contact",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/refundable-fee",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/refund-policy",
+   "kind": "page",
+   "chars": 2806
+  },
+  {
+   "url": "https://larkfunding.com/blog/best-funded-trader-programs-2026",
+   "kind": "page",
+   "chars": 2806
+  }
+ ],
+ "page_count": 13,
+ "total_chars": 34866,
+ "findings": {
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": "tion A lower-cost route to larger simulated accounts from $10,000 to $100,000, with 5% maximum drawdown, 50:1 leverage and three progressive phases. Instant Simulated Funding Skip the evaluation entirely. Instant accounts start trading immediately with a 90% profit split",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "One clean evaluation phase from $10,000 up to $200,000 in simulated capital, with an 80% profit share, static drawdown and no minimum trading days. Pass a single target and move straight to a simulated funded account. 3-Step Evaluation A lower-cost route to larger simu",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "ing Skip the evaluation entirely. Instant accounts start trading immediately with a 90% profit split and streamlined reward processing on approved requests. 100K Road Start with a $10,000 account for $99. Pass it and unlock a discounted price on the next account, all",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "10,00",
+    "snippet": "uration. Our trading programs 1-Step Evaluation One clean evaluation phase from $10,000 up to $200,000 in simulated capital, with an 80% profit share, static drawdown and no minimum trading days. Pass a single target and move straight to a simulated funded",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "r trading programs 1-Step Evaluation One clean evaluation phase from $10,000 up to $200,000 in simulated capital, with an 80% profit share, static drawdown and no minimum trading days. Pass a single target and move straight to a simulated funded account. 3-St",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "3-Step Evaluation A lower-cost route to larger simulated accounts from $10,000 to $100,000, with 5% maximum drawdown, 50:1 leverage and three progressive phases. Instant Simulated Funding Skip the evaluation entirely. Instant accounts start trading immediat",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "reward processing on approved requests. 100K Road Start with a $10,000 account for $99. Pass it and unlock a discounted price on the next account, all the way to a $100,000 account for $399. Rewards and processing Instant accounts have streamlined reward",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "399",
+    "snippet": "unlock a discounted price on the next account, all the way to a $100,000 account for $399. Rewards and processing Instant accounts have streamlined reward processing on approved requests, while evaluation-funded accounts follow a 14-day reward cycle. Once f",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "s. No minimum trading days \u2014 pass your evaluation as fast as your strategy allows. Static drawdown \u2014 your maximum drawdown never trails your balance upward. Smart Reset Guarantee \u2014 up to 3 free retries when you keep drawdown under 5% and risk no more than 1% on a sin",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules, no news restrictions and no minimum trading days",
+    "snippet": "simulated performance. The programs are designed with trader-friendly conditions: no consistency rules, no news restrictions and no minimum trading days. Why traders choose Lark Funding No consistency rules \u2014 trade your own way, with no hidden profit-distribution requirements. No news restrictions \u2014 hold through econo",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rules \u2014 trade your own way, with no hidden profit-distribution requirements",
+    "snippet": "news restrictions and no minimum trading days. Why traders choose Lark Funding No consistency rules \u2014 trade your own way, with no hidden profit-distribution requirements. No news restrictions \u2014 hold through economic releases and earnings events. No minimum trading days \u2014 pass your evaluation as fast as your strategy allows. Static dra",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "ading firm offering simulated funded trading programs for forex, indices, metals and crypto CFDs. Traders buy a one-time evaluation, trade a simulated account under clear published rules, and are rewarded based on their simulated performance. The programs are d",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "leverag",
+    "snippet": "o larger simulated accounts from $10,000 to $100,000, with 5% maximum drawdown, 50:1 leverage and three progressive phases. Instant Simulated Funding Skip the evaluation entirely. Instant accounts start trading immediately with a 90% profit split and streamlin",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "prop-trading-best-side-inc",
+    "snippet": "ps://larkfunding.com/blog/best-cfd-prop-firms-2026 0.6 https://larkfunding.com/blog/prop-trading-best-side-income-2026 0.6 https://larkfunding.com/blog/fastest-payout-prop-firms-2026 0.6 https://larkfunding.com/blog/how-to-pass-prop-firm-challenge 0.6 https://larkfunding.com/b",
+    "url": "https://larkfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund policy \u00b7 AML policy \n \n All evaluation and funded accounts at Lark Funding are simulated",
+    "snippet": "prop firm guides, drawdown explainers and comparisons. Contact us Terms of use \u00b7 Refund policy \u00b7 AML policy All evaluation and funded accounts at Lark Funding are simulated. Nothing on this website is financial advice. Free retries (Smart Resets) are subject to eligibility conditions.",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable-fee 0",
+    "snippet": "g.com/1-step-fast 0.8 https://larkfunding.com/1stepmax 0.9 https://larkfunding.com/refundable-fee 0.9 https://larkfunding.com/100k-road 0.8 https://larkfunding.com/help 0.7 https://larkfunding.com/contact 0.6 https://larkfunding.com/terms-of-use 0.4 https://larkfu",
+    "url": "https://larkfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refund-policy 0",
+    "snippet": "g.com/contact 0.6 https://larkfunding.com/terms-of-use 0.4 https://larkfunding.com/refund-policy 0.4 https://larkfunding.com/aml-policy 0.4 https://larkfunding.com/blog 0.7 https://larkfunding.com/blog/best-prop-firms-2026 0.6 https://larkfunding.com/blog/no-consi",
+    "url": "https://larkfunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ear published rules, and are rewarded based on their simulated performance",
+    "snippet": "nd crypto CFDs. Traders buy a one-time evaluation, trade a simulated account under clear published rules, and are rewarded based on their simulated performance. The programs are designed with trader-friendly conditions: no consistency rules, no news restrictions and no minimum trading days. Why traders choose Lark Funding No",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eases and earnings events",
+    "snippet": "n profit-distribution requirements. No news restrictions \u2014 hold through economic releases and earnings events. No minimum trading days \u2014 pass your evaluation as fast as your strategy allows. Static drawdown \u2014 your maximum drawdown never trails your balance upward. Smart Reset",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ean evaluation phase from $10,000 up to $200,000 in simulated capital, with an 80% profit share, static drawdown and no ",
+    "snippet": "drawdown, with no fixed duration. Our trading programs 1-Step Evaluation One clean evaluation phase from $10,000 up to $200,000 in simulated capital, with an 80% profit share, static drawdown and no minimum trading days. Pass a single target and move straight to a simulated funded account. 3-Step Evaluation A lower-cost route to larger si",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eamlined reward processing on approved requests",
+    "snippet": "entirely. Instant accounts start trading immediately with a 90% profit split and streamlined reward processing on approved requests. 100K Road Start with a $10,000 account for $99. Pass it and unlock a discounted price on the next account, all the way to a $100,000 account for $399. Rewards and pr",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eamlined reward processing on approved requests, while evaluation-funded accounts follow a 14-day reward cycle",
+    "snippet": "ay to a $100,000 account for $399. Rewards and processing Instant accounts have streamlined reward processing on approved requests, while evaluation-funded accounts follow a 14-day reward cycle. Once funded, there is no cap on simulated gains \u2014 traders keep winning without an artificial ceiling. Explore Lark Funding How it works \u2014 the ful",
+    "url": "https://larkfunding.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "eligible traders even while they are in drawdown, with no fixed duration. Our trading programs 1-Step Evaluation One clean evaluation phase from $10,000 up to $200,000 in simulated capital, with an 80% profit share, static drawdown and no minimum trading days.",
+   "url": "https://larkfunding.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "and no minimum trading days. Pass a single target and move straight to a simulated funded account. 3-Step Evaluation A lower-cost route to larger simulated accounts from $10,000 to $100,000, with 5% maximum drawdown, 50:1 leverage and three progressive phases. In",
+   "url": "https://larkfunding.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "CFD"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

@@ -1,0 +1,640 @@
+{
+ "slug": "forexive",
+ "name": "Forexive",
+ "category": "Forex/CFD",
+ "url": "https://forexive.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://forexive.com/",
+   "kind": "home",
+   "chars": 17651
+  },
+  {
+   "url": "https://forexive.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 679
+  },
+  {
+   "url": "https://forexive.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4124
+  },
+  {
+   "url": "https://forexive.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 8087
+  },
+  {
+   "url": "https://forexive.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 2413
+  },
+  {
+   "url": "https://forexive.com/traders_videos-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 343
+  },
+  {
+   "url": "https://forexive.com/prop-firm-scaling-plans/",
+   "kind": "page",
+   "chars": 9486
+  },
+  {
+   "url": "https://forexive.com/prop-firm-ea-copy-trading-rules/",
+   "kind": "page",
+   "chars": 9720
+  },
+  {
+   "url": "https://forexive.com/prop-firm-news-trading-rules/",
+   "kind": "page",
+   "chars": 10646
+  },
+  {
+   "url": "https://forexive.com/product/1-step-200000-challenge/",
+   "kind": "page",
+   "chars": 3202
+  },
+  {
+   "url": "https://forexive.com/product/apex-access-1-step-10000-challenge/",
+   "kind": "page",
+   "chars": 3106
+  },
+  {
+   "url": "https://forexive.com/product/apex-access-1-step-100000-challenge/",
+   "kind": "page",
+   "chars": 3089
+  },
+  {
+   "url": "https://forexive.com/product/instant-5000-challenge/",
+   "kind": "page",
+   "chars": 3126
+  },
+  {
+   "url": "https://forexive.com/product/apex-access-1-step-25000-challenge/",
+   "kind": "page",
+   "chars": 3089
+  },
+  {
+   "url": "https://forexive.com/why-traders-fail-prop-firm-challenges/",
+   "kind": "page",
+   "chars": 9879
+  },
+  {
+   "url": "https://forexive.com/product/apex-access-2-step-25000-challenge/",
+   "kind": "page",
+   "chars": 3061
+  },
+  {
+   "url": "https://forexive.com/low-upfront-fee-prop-firm-challenge/",
+   "kind": "page",
+   "chars": 9930
+  },
+  {
+   "url": "https://forexive.com/product/2-step-200000-challenge/",
+   "kind": "page",
+   "chars": 3188
+  },
+  {
+   "url": "https://help.forexive.com/",
+   "kind": "sub",
+   "chars": 862
+  }
+ ],
+ "page_count": 19,
+ "total_chars": 105699,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "ycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1 Funded Profit Target 10% - Daily Drawdown 3% 3% Max Loss 6% 6% Minimum Trading Days 3 3 Account size 5k Price $39 Buy Challenge Profit Target Phase 1 10% Funded - Daily Drawdown",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "t 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1 Phase 2 Funded Profit Target 8% 4% - Daily Drawdown 5% 5% 5% Max Drawdown 12% 12% 12% Minimum Trading Days 3 3 3 Account size 5k Price $29 Buy Challenge Profit Target Phase 1 8% Phase",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "Reward Cycles First 70% 2nd Onwards 80% On-Demand (Evaluation Stage) Funded Profit Target - Daily Drawdown 2% Max Drawdown 3% Minimum Trading Days 7 Account size 1k Price $15 Buy Challenge Profit Target Funded - Daily Drawdown Funded 2% Max Drawdown Funded 3% Minim",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "ycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1 Funded Profit Target i 3% - Daily Drawdown 5% 3% Max Loss 10% 6% Minimum Trading Days 1 - After Passing - $89 Account size 5k Price $10 Buy Challenge Profit Target i Phase 1 3% Fund",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "ekly 85% Weekly 95% (Evaluation Stage) Phase 1 Funded Profit Target 10% - Daily Drawdown 3% 3% Max Loss 6% 6% Minimum Trading Days 3 3 Account size 5k Price $39 Buy Challenge Profit Target Phase 1 10% Funded - Daily Drawdown Phase 1 3% Funded 3",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "y 95% (Evaluation Stage) Phase 1 Phase 2 Funded Profit Target 8% 4% - Daily Drawdown 5% 5% 5% Max Drawdown 12% 12% 12% Minimum Trading Days 3 3 3 Account size 5k Price $29 Buy Challenge Profit Target Phase 1 8% Phase 2 4% Funded - Daily Dr",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "First 70% 2nd Onwards 80% On-Demand (Evaluation Stage) Funded Profit Target - Daily Drawdown 2% Max Drawdown 3% Minimum Trading Days 7 Account size 1k Price $15 Buy Challenge Profit Target Funded - Daily Drawdown Funded 2% Max Drawdown Funded 3% Minim",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "Evaluation Stage) Phase 1 Funded Profit Target 10% - Daily Drawdown 3% 3% Max Loss 6% 6% Minimum Trading Days 3 3 Account size 5k Price $39 Buy Challenge Profit Target Phase 1 10% Funded - Daily Drawdown Phase 1 3% Funded 3% Max Loss Phas",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12",
+    "snippet": "Phase 1 Phase 2 Funded Profit Target 8% 4% - Daily Drawdown 5% 5% 5% Max Drawdown 12% 12% 12% Minimum Trading Days 3 3 3 Account size 5k Price $29 Buy Challenge Profit Target Phase 1 8% Phase 2 4% Funded - Daily Drawdown Phase 1 5% Phase",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "ds 80% On-Demand (Evaluation Stage) Funded Profit Target - Daily Drawdown 2% Max Drawdown 3% Minimum Trading Days 7 Account size 1k Price $15 Buy Challenge Profit Target Funded - Daily Drawdown Funded 2% Max Drawdown Funded 3% Minimum Trading Days",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "valuation Stage) Phase 1 Funded Profit Target i 3% - Daily Drawdown 5% 3% Max Loss 10% 6% Minimum Trading Days 1 - After Passing - $89 Account size 5k Price $10 Buy Challenge Profit Target i Phase 1 3% Funded - Daily Drawdown Phase 1 5% Fund",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "95",
+    "snippet": "e the capital, risk management tools, and freedom you need to succeed. Profit Split 95% Payouts Within 24H On-Demand Payout Start Challenge 12K+ members Join Our Discord. Trade, learn, and grow your skills while connecting with others to succeed together. Join The Chat 500+ Subscriber",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "Phase 1 Funded Profit Target 10% - Daily Drawdown 3% 3% Max Loss 6% 6% Minimum Trading Days 3 3 Account size 5k Price $39 Buy Challenge Profit Target Phase 1 10% Funded - Daily Drawdown Phase 1 3% Funded 3% Max Loss Phase 1 6% Funded 6% Minimum",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "nded - Daily Drawdown Phase 1 3% Funded 3% Max Loss Phase 1 6% Funded 6% Minimum Trading Days Phase 1 3 Funded 3 Account size: 5k Price: $39 Buy Challenge Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1 Phase 2 Funded Pr",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "(Evaluation Stage) Funded Profit Target - Daily Drawdown 2% Max Drawdown 3% Minimum Trading Days 7 Account size 1k Price $15 Buy Challenge Profit Target Funded - Daily Drawdown Funded 2% Max Drawdown Funded 3% Minimum Trading Days Funded 7 Account size:",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "ode: JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pa",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one day. Settle the rest after you pass. From $10 Special Get 20% off your first purchase Use code JOIN20 at checkout. B",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one day. Settle the rest after you pass. From $10 Special Get 20% off your first purchase Use code JOIN20 at checkout. Buy Ch",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "\u2014 start for $10 and pay the rest only after passing. Get It Here Learn More Up to $400K simulated capital Trade Bigger. Risk Smarter Rewards Quick and seamless reward withdrawals in 24 hours Technology Advanced In-House Dashboard Technology Raw spread",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "om over 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "er 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Ph",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "5 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "ode: JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. P",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "39",
+    "snippet": "rt Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "29",
+    "snippet": "Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one day. Settle the rest after you pass. From $10 Special Get 2",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one day. Settle the rest after you pass. From $10 Special Get 20% off your first purchase Use code JOIN20 at checkout.",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one day. Settle the rest after you pass. From $10 Special Get 20% off your first purchase Use code JOIN20 at checkout. Buy C",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in one day. Settle the rest after you pass. From $10 Special Get 20% off your first purchase Use code JOIN20 at checkout. Buy Challenge",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "T\u00fcrk\u00e7e Sign in Buy Challenge Your Skills Our Capital Trade With Trust Get up to $2M SIMULATED CAPITAL and receive up to a 95% reward. G e t S t a r t e d New Now Live Access Model | Start With $10 Trade with lower upfront costs \u2014 start for $10 and p",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "\u2014 start for $10 and pay the rest only after passing. Get It Here Learn More Up to $400K simulated capital Trade Bigger. Risk Smarter Rewards Quick and seamless reward withdrawals in 24 hours Technology Advanced In-House Dashboard Technology Raw sprea",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "om over 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stag",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "er 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) P",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "5 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "ads Spreads starting from 0.0 pips and a leverage of up to 1:100 Awesome Features Static Drawdown Gear Up, Your Journey Starts Here! Your style, your challenge. Traders from over 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trailing",
+    "snippet": "ld rather not spend weeks proving it. The trade is cost against time. See static vs trailing drawdown , how payouts work , and the rules glossary . Reviews There are no reviews yet. Be the first to review \u201cInstant \u2013 $5,000 Challenge\u201d Cancel reply Your email addre",
+    "url": "https://forexive.com/product/instant-5000-challenge/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules and news trading restrictions",
+    "snippet": "le areas that decide whether a firm fits your method. The others are drawdown type , consistency rules and news trading restrictions . Our guide to why traders fail evaluations covers what actually ends most attempts, and our 1-Step , 2-Step and Instant accounts list our sizes and pricing. FAQs Can I",
+    "url": "https://forexive.com/prop-firm-ea-copy-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules , both with arithmetic worth understanding before you buy",
+    "snippet": "aints that decide whether a firm suits your method. The others are drawdown type and consistency rules , both with arithmetic worth understanding before you buy. Our seven-question framework covers the rest, and our 1-Step , 2-Step and Instant accounts list our sizes and pricing. FAQs Can I trade news with a prop firm? Someti",
+    "url": "https://forexive.com/prop-firm-news-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule caps how much of your total profit a single day may represent",
+    "snippet": "count through day by day in static vs trailing drawdown . 3. One Exceptional Day A consistency rule caps how much of your total profit a single day may represent. Make $5,000 on Monday under a 20% rule and you now need $25,000 in total profit before that Monday stops being a violation. The day was good. The day is now the proble",
+    "url": "https://forexive.com/why-traders-fail-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules",
+    "snippet": "be non-compliant for weeks without any indication. The arithmetic is in our guide to consistency rules . 4. A Stop Triggering in a News Window Most news-rule breaches are not from trading the news. A position opened hours earlier for unrelated reasons has its stop hit in",
+    "url": "https://forexive.com/why-traders-fail-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement that did not previously exist",
+    "snippet": "d is a common, legal and fully disclosed combination. So is a tighter drawdown, or a consistency requirement that did not previously exist. Ask for both rulebooks before purchase. If only one is published, that tells you something. Our payout guide covers what gets checked when you finally request money.",
+    "url": "https://forexive.com/why-traders-fail-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules, news windows, and rule differences between evaluation and funded stages",
+    "snippet": "it accounts for a large share. The rest cluster around misreading the drawdown type, consistency rules, news windows, and rule differences between evaluation and funded stages. What risk per trade should I use in an evaluation? We cannot advise on your trading. What the arithmetic shows is that the number of consecutive losses your risk a",
+    "url": "https://forexive.com/why-traders-fail-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "on demand",
+    "snippet": "drawdown I've ever seen from any prop firm. 12%, that's impressive. They also offer payout on demands. Definitely going to exploit that. Moses Ogbebor Dec 27, 2025 5/5 Use Forexive to become a disciplined trader. Discipline is the foundation of this company. It feel",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "once you are funded. Entirely legal, disclosed in the terms, and consistently a surprise \u2014 because you have spent weeks building a method the funded account will not allow. The Mechanism Behind Most Breaches Read the wording of a typical window rule carefu",
+    "url": "https://forexive.com/prop-firm-news-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "nts do not make the percentages easier, and they encourage sizing you would not otherwise choose. Use the absence of a time limit. Where there is no deadline, patience is free and speed is expensive. FOREXIVE publishes both rulebooks at help.forexive.com be",
+    "url": "https://forexive.com/why-traders-fail-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Mas",
+    "snippet": "m and get an account from them to see how it goes. Overall it's been good so far Fx Masdean Nov 18, 2025 5/5 Good service, good trading conditions. I haven\u2019t have any problems with this prop firm everything is good. I highly recommend it for everyone who wants to be funded Shah Nisar 2 days ago 5/5 One of the b",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "evel with FOREXIVE, a fast-growing prop firm empowering traders to grow, profit, and scale. We provide the capital, risk management tools, and freedom you need to succeed. Profit Split 95% Payouts Within 24H On-Demand Payout Start Challenge 12K+ member",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Spreads starting from 0.0 pips and a leverag",
+    "snippet": "rawals in 24 hours Technology Advanced In-House Dashboard Technology Raw spreads Spreads starting from 0.0 pips and a leverage of up to 1:100 Awesome Features Static Drawdown Gear Up, Your Journey Starts Here! Your style, your challenge. Traders from over 195 countries choose FOREXIVE. 1-S",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Evaluation Stag",
+    "snippet": "5K $10K $25K $50K $100K $200K Reward Cycles First 80% Bi-weekly 85% Weekly 95% (Evaluation Stage) Phase 1 Funded Profit Target 10% - Daily Drawdown 3% 3% Max Loss 6% 6% Minimum Trading Days 3 3 Account size 5k Price $39 Buy Challenge Profit Target",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trusted by thousa",
+    "snippet": "er Passing Phase 1 - Funded $89 Account size: 5k Price: $10 Buy Challenge Trusted by thousands of Traders Prove your strategy in our brand-new 1-Step. Designed to give you Our Traders Say Your browser does not support the video tag. 5/5 Good service, g",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Our Traders Sa",
+    "snippet": "nds of Traders Prove your strategy in our brand-new 1-Step. Designed to give you Our Traders Say Your browser does not support the video tag. 5/5 Good service, good trading conditions. I haven\u2019t have any problems with this prop firm everything is good. I highl",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Your browser does not support the video tag",
+    "snippet": "rove your strategy in our brand-new 1-Step. Designed to give you Our Traders Say Your browser does not support the video tag. 5/5 Good service, good trading conditions. I haven\u2019t have any problems with this prop firm everything is good. I highly recommend it for everyone who wants to be fu",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Shah Nisa",
+    "snippet": "firm everything is good. I highly recommend it for everyone who wants to be funded Shah Nisar 2 days ago 5/5 One of the best props in the prop trading industry Well, in my opinion, it has affordable prices and many events for free accounts, so you can easily",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "days ag",
+    "snippet": "ng is good. I highly recommend it for everyone who wants to be funded Shah Nisar 2 days ago 5/5 One of the best props in the prop trading industry Well, in my opinion, it has affordable prices and many events for free accounts, so you can easily get one. SM",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Super fast transa",
+    "snippet": "many events for free accounts, so you can easily get one. SMH H Feb 9, 2026 5/5 Super fast transaction speed and also reliable and responsive support team Acheamfour Benjamin Feb 7, 2026 5/5 Reliable firm The smooth server interface as well as interactive communi",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "15746920",
+    "snippet": "mme Testimonials Careers Address FOREXIVE LTD 86 - 90 Paul Street London EC2A 4NE Company no: 15746920 Get Exclusive Insights Expert Trading Insights Latest Updates Special Offers SUBSCRIBE All information provided on this site is intended solely for educationa",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund",
+    "snippet": "irms and it resets to zero, along with your split tier and any progress toward a fee refund. That does not mean never move \u2014 it means the cost of moving grows the longer you have been scaling, and a small price difference elsewhere rarely covers it. The practi",
+    "url": "https://forexive.com/prop-firm-scaling-plans/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading restrictions",
+    "snippet": "hether a firm fits your method. The others are drawdown type , consistency rules and news trading restrictions . Our guide to why traders fail evaluations covers what actually ends most attempts, and our 1-Step , 2-Step and Instant accounts list our sizes and pricing. FAQs Can I",
+    "url": "https://forexive.com/prop-firm-ea-copy-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Rules Explained | FOREXIVE \n \n \n \n \n \n \n \n Skip to main content \n Skip to footer Opens in a new tab Special",
+    "snippet": "Prop Firm News Trading Rules Explained | FOREXIVE Skip to main content Skip to footer Opens in a new tab Special Get 20% OFF now on your first purchase! Use code: JOIN20 Get 20% OFF! Use code: JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluatio",
+    "url": "https://forexive.com/prop-firm-news-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Rules: What Is Actually Restricted\n Most news trading breaches are not from trading the news",
+    "snippet": "\u0629 Fran\u00e7ais Deutsch Italiano \u0641\u0627\u0631\u0633\u06cc Espa\u00f1ol T\u00fcrk\u00e7e Sign in Buy Challenge Prop Firm News Trading Rules: What Is Actually Restricted Most news trading breaches are not from trading the news. They come from a position opened well beforehand that happened to close inside the restricted window. September 1, 2026 10:09 pm Categories: Trading Rule",
+    "url": "https://forexive.com/prop-firm-news-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "News trading restrictions catch more traders than almost any other rule, and usually not the ones deliberately trading r",
+    "snippet": "de the restricted window. September 1, 2026 10:09 pm Categories: Trading Rules News trading restrictions catch more traders than almost any other rule, and usually not the ones deliberately trading releases. The breaches come from positions opened long before the event that happen to be touched inside the window. This guide sets out the f",
+    "url": "https://forexive.com/prop-firm-news-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn More \n Up to $400K simulated capital\n Trade Bigger",
+    "snippet": "wer upfront costs \u2014 start for $10 and pay the rest only after passing. Get It Here Learn More Up to $400K simulated capital Trade Bigger. Risk Smarter Rewards Quick and seamless reward withdrawals in 24 hours Technology Advanced In-House Dashboard Technology Raw spreads Spreads starting from 0.0 pip",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eamless reward withdrawals in 24 hours\n Technology\n Advanced In-House Dashboard Technology\n Raw spreads\n Spreads startin",
+    "snippet": "ore Up to $400K simulated capital Trade Bigger. Risk Smarter Rewards Quick and seamless reward withdrawals in 24 hours Technology Advanced In-House Dashboard Technology Raw spreads Spreads starting from 0.0 pips and a leverage of up to 1:100 Awesome Features Static Drawdown Gear Up, Your Journey Starts Here! Your style, your challenge. Tr",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatures\n Static Drawdown\n Gear Up, Your Journey Starts Here!\n Your style, your challenge",
+    "snippet": "Raw spreads Spreads starting from 0.0 pips and a leverage of up to 1:100 Awesome Features Static Drawdown Gear Up, Your Journey Starts Here! Your style, your challenge. Traders from over 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K $1K $2.5K $5K $10K $",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "easily get one",
+    "snippet": "n my opinion, it has affordable prices and many events for free accounts, so you can easily get one. SMH H Feb 9, 2026 5/5 Super fast transaction speed and also reliable and responsive support team Acheamfour Benjamin Feb 7, 2026 5/5 Reliable firm The smooth se",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam\n Acheamfour Benjamin\n Feb 7, 2026\n 5/5\n Reliable firm\nThe smooth server interface as well as interactive community, ",
+    "snippet": "9, 2026 5/5 Super fast transaction speed and also reliable and responsive support team Acheamfour Benjamin Feb 7, 2026 5/5 Reliable firm The smooth server interface as well as interactive community, helpful moderators and support staff, and all round customer friendly rules and regulations Sunday Edochie Jan 10, 2026 5/5 The moderators an",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@forexive.com",
+    "snippet": "ompt and dependable assistance at all times. Chat with us Start the chat Email support@forexive.com More Frequently Asked Questions What is a prop trading firm? A proprietary trading firm is a financial institution that allocates its own capital to prop trade",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 24 hours\n Technology",
+    "snippet": "0K simulated capital Trade Bigger. Risk Smarter Rewards Quick and seamless reward withdrawals in 24 hours Technology Advanced In-House Dashboard Technology Raw spreads Spreads starting from 0.0 pips and a leverage of up to 1:100 Awesome Features Static Drawdown Gear Up, Your Journe",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Within 24H\n On-Demand Payout",
+    "snippet": "capital, risk management tools, and freedom you need to succeed. Profit Split 95% Payouts Within 24H On-Demand Payout Start Challenge 12K+ members Join Our Discord. Trade, learn, and grow your skills while connecting with others to succeed together. Join The Chat 500+ Subscribers",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "ced In-House Dashboard Technology Raw spreads Spreads starting from 0.0 pips and a leverage of up to 1:100 Awesome Features Static Drawdown Gear Up, Your Journey Starts Here! Your style, your challenge. Traders from over 195 countries choose FOREXIVE. 1-Step 2-Step Insta",
+    "url": "https://forexive.com/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plans: How the Arithmetic Works | FOREXIVE \n \n \n \n \n \n \n \n Skip to main content \n Skip to footer Opens in a new ",
+    "snippet": "Prop Firm Scaling Plans: How the Arithmetic Works | FOREXIVE Skip to main content Skip to footer Opens in a new tab Special Get 20% OFF now on your first purchase! Use code: JOIN20 Get 20% OFF! Use code: JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39",
+    "url": "https://forexive.com/prop-firm-scaling-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans: How the Arithmetic Actually Works\n Scaling plans are marketed as upside and structured as a set of condit",
+    "snippet": "\u0629 Fran\u00e7ais Deutsch Italiano \u0641\u0627\u0631\u0633\u06cc Espa\u00f1ol T\u00fcrk\u00e7e Sign in Buy Challenge Prop Firm Scaling Plans: How the Arithmetic Actually Works Scaling plans are marketed as upside and structured as a set of conditions. Here is how to read the trigger, the increment and the reset \u2014 and how to work out what a plan is worth before you commit to one. Sept",
+    "url": "https://forexive.com/prop-firm-scaling-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling plans are the part of a prop firm offer that sounds like pure upside",
+    "snippet": "efore you commit to one. September 28, 2026 2:41 pm Categories: Funding Models Scaling plans are the part of a prop firm offer that sounds like pure upside. Perform well, and the account grows. In practice a scaling plan is a set of conditions, and the conditions decide whether the upside is reachable at all. This article i",
+    "url": "https://forexive.com/prop-firm-scaling-plans/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "F now on your first purchase! Use code: JOIN20 Get 20% OFF! Use code: JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and star",
+   "url": "https://forexive.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "JOIN20 Start Now Products 1-Step One evaluation phase, then funded. Accounts $5K\u2013$200K. From $39 2-Step Two evaluation phases. Accounts $5K\u2013$200K. From $29 Instant Skip the evaluation and start funded. Accounts $1K\u2013$10K. From $15 Access Pay $10. Hit 3%. Pass in o",
+   "url": "https://forexive.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "ploads/2026/05/2-Step-atlas-funded-alternatives.jpg https://forexive.com/wp-content/uploads/2026/05/3-Step-atlas-funded-alternatives.jpg https://forexive.com/pay-as-you-go-prop-firm/ 2026-10-01T20:32:54+00:00 https://forexive.com/wp-content/uploads/2026/04/kanchanar",
+   "url": "https://forexive.com/post-sitemap.xml"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "unt by 25% per step from a $50,000 start. Percentage of original balance: every step adds $12,500. Four steps take you to $100,000. Growth is linear. Percentage of current balance: step one adds $12,500 to reach $62,500, step two adds $15,625 to reach $78,125, step t",
+   "url": "https://forexive.com/prop-firm-scaling-plans/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "rexive.com/wp-content/uploads/2026/05/best-pay-after-you-pass-prop-firms-4.jpg https://forexive.com/pay-later-prop-trading-challenge/ 2026-10-01T20:34:26+00:00 https://forexive.com/wp-content/uploads/2026/05/pay-later-prop-trading-challenge-1.png https://forexive.com/w",
+   "url": "https://forexive.com/post-sitemap.xml"
+  }
+ ],
+ "platforms": [
+  "cTrader"
+ ],
+ "assets": [
+  "FX",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "JOIN20",
+   "context": "t Skip to footer Opens in a new tab Special Get 20% OFF now on your first purchase! Use code: JOIN20 Get 20% OFF! Use code: JOIN20 Start Now Products 1-Step"
+  }
+ ],
+ "claims": [
+  "Features Static Drawdown Gear Up, Your Journey Starts Here! Your style, your challenge. Traders from over 195 countries choose FOREXIVE. 1-Step 2-Step Instant Access 1-Step $5K $",
+  "ading psychology and stay connected for more trading content! Show More 0 K+ Traders $ 0 M+ Capital Funded 0 + Countries Covered Since 2024 Proven Track Record Available 24/7 C"
+ ],
+ "errors": []
+}

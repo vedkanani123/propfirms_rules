@@ -1,0 +1,792 @@
+{
+ "slug": "fundednext",
+ "name": "FundedNext",
+ "category": "Forex/CFD",
+ "url": "https://fundednext.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundednext.com/",
+   "kind": "home",
+   "chars": 6250
+  },
+  {
+   "url": "https://fundednext.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 344
+  },
+  {
+   "url": "https://fundednext.com/sitemap_pages.xml",
+   "kind": "sitemap",
+   "chars": 6389
+  },
+  {
+   "url": "https://fundednext.com/sitemap_posts.xml",
+   "kind": "sitemap",
+   "chars": 17850
+  },
+  {
+   "url": "https://fundednext.com/sitemap_categories.xml",
+   "kind": "sitemap",
+   "chars": 1229
+  },
+  {
+   "url": "https://fundednext.com/sitemap_authors.xml",
+   "kind": "sitemap",
+   "chars": 90
+  },
+  {
+   "url": "https://fundednext.com/cfd-challenge-terms",
+   "kind": "page",
+   "chars": 480014
+  },
+  {
+   "url": "https://fundednext.com/futures-challenge-terms",
+   "kind": "page",
+   "chars": 479413
+  },
+  {
+   "url": "https://fundednext.com/blog/instant-funding-vs-challenge-models",
+   "kind": "page",
+   "chars": 441779
+  },
+  {
+   "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+   "kind": "page",
+   "chars": 441058
+  },
+  {
+   "url": "https://fundednext.com/blog/gold-price-rallies-as-federal-reserve-looms",
+   "kind": "page",
+   "chars": 452338
+  },
+  {
+   "url": "https://fundednext.com/blog/spot-market-trends-using-price-action",
+   "kind": "page",
+   "chars": 451197
+  },
+  {
+   "url": "https://fundednext.com/blog/gold-price-approaches-2000-as-xau-usd-eye-best-week-in-years",
+   "kind": "page",
+   "chars": 452372
+  },
+  {
+   "url": "https://fundednext.com/blog/gold-price-coils-tightly",
+   "kind": "page",
+   "chars": 452953
+  },
+  {
+   "url": "https://fundednext.com/blog/fundednext-futures-plan",
+   "kind": "page",
+   "chars": 446031
+  },
+  {
+   "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+   "kind": "page",
+   "chars": 445917
+  },
+  {
+   "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+   "kind": "page",
+   "chars": 443470
+  },
+  {
+   "url": "https://fundednext.com/blog/passed-challenge-got-paid-40000",
+   "kind": "page",
+   "chars": 455127
+  },
+  {
+   "url": "https://help.fundednext.com/en/",
+   "kind": "sub",
+   "chars": 1274
+  },
+  {
+   "url": "https://fundednext.com/sitemap_index.xml",
+   "kind": "subsitemap",
+   "chars": 344
+  }
+ ],
+ "page_count": 20,
+ "total_chars": 5475458,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "\u2014 5 days; Stellar Lite Model \u2014 5 days. 5.4. The Customer must achieve the following Profit Targets: Evaluation Model \u2014 Phase 1: 10%, Phase 2: 5%; Express Model \u2014 25%; Stellar 1-Step Model \u2014 10%; Stellar 2-Step Model \u2014 Phase 1: 8%, Phase 2: 5%; Stellar Lite Model \u2014 Phase 1: 8%, Phase 2: 4%. 5.5. Wher",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "and failing, even when your strategy is strong. Typical Prop Firm Challenge Rules Profit Target: Usually 8%\u201312% Daily Loss Limit: Often 3%\u20135% Maximum Loss Limit: Commonly 6%\u201310% Minimum Trading Days: 5\u201310 days Allowed Instruments: Forex, indices, commodities, crypto Platf",
+    "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "80",
+    "snippet": "lore All FNL:001 NO DLL 1-Step Lowest entry price with best trading environment No Daily Loss Limit News Trading Allowed 80% Reward Share Upcoming FundedNext Labs Be the first to know. Join the waitlist for upcoming beta plans and exclusive early-access releases. Get Notified Choose your",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "why they matter for your trading journey. TL;DR Risk controls are the foundation: daily loss limits, maximum loss limits (6\u201310% for CFDs, fixed dollar thresholds for Futures), and proper risk-to-reward ratio must be maintained. Trading behavior rules vary: some firms enforce consistency, news, o",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "m amount you can lose in a single day to prevent overexposure. Example: Assume your daily loss limit is 5% of your initial balance. So, if your initial balance is 100K. You are not allowed to lose more than $5000 on a single day. FundedNext: For CFDs , FundedNext follows a t",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "ategy is strong. Typical Prop Firm Challenge Rules Profit Target: Usually 8%\u201312% Daily Loss Limit: Often 3%\u20135% Maximum Loss Limit: Commonly 6%\u201310% Minimum Trading Days: 5\u201310 days Allowed Instruments: Forex, indices, commodities, crypto Platforms: MT4, MT5, cTrader, and Mat",
+    "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "etric Phase 1 Phase 2 Account Size $25,000 Price $149.99 Profit Target 8% 6% Daily Loss Limit (DLL) 4% Maximum Loss Limit (MLL) 12% Drawdown Type Static Minimum Profitable Days 2 days (1% Profit/$250 per day) Risk Rule None News Trading Not allowed Weekend Hol",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "your trading journey. TL;DR Risk controls are the foundation: daily loss limits, maximum loss limits (6\u201310% for CFDs, fixed dollar thresholds for Futures), and proper risk-to-reward ratio must be maintained. Trading behavior rules vary: some firms enforce consistency, news, o",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "Firm Challenge Rules Profit Target: Usually 8%\u201312% Daily Loss Limit: Often 3%\u20135% Maximum Loss Limit: Commonly 6%\u201310% Minimum Trading Days: 5\u201310 days Allowed Instruments: Forex, indices, commodities, crypto Platforms: MT4, MT5, cTrader, and Match-Trader (FundedNext offers all fou",
+    "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "85",
+    "snippet": "on FNL:002? Is there a risk rule on FNL:002? How long is FNL:002 available? A 12% Maximum Loss Limit, a payout cycle counted in 3 profitable days, and an 85% reward share. Those are the three numbers behind the \u201cFNL:002 12% MLL, 3-Day Payout 2-Step CFDs 25K Challenge\u201d, the second release from FundedNext Labs. It is a two-pha",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "unt Size $25,000 Price $149.99 Profit Target 8% 6% Daily Loss Limit (DLL) 4% Maximum Loss Limit (MLL) 12% Drawdown Type Static Minimum Profitable Days 2 days (1% Profit/$250 per day) Risk Rule None News Trading Not allowed Weekend Holding Allowed Overnight Holdin",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "either phase. Start FNL:002 Challenge FNL:002 gives a $25,000 account a 12% static Maximum Loss Limit, a 4% Daily Loss Limit, a payout cycle of 3 profitable days, and an 85% reward share, for $149.99. It runs on MT5 and Match-Trader. Review the full specification on FundedNex",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "15",
+    "snippet": "unded) and $700K (Futures challenge). Trader benefits: FundedNext stands out with a 15% profit share from the Challenge and a guaranteed 24-hour payout processing promise. Why Prop Firm Rules Matter Many traders blame luck when they fail a challenge or lose a funded a",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "it Target: 8% in Phase 1, 5% in Phase 2 Maximum Daily Loss: 5% Maximum Loss Limit: 10% Payouts: As fast as 24 hours after becoming funded Profit Split: Up to 95% These exact numbers can vary depending on the selected Stellar account type. Step 3: Trade to Hit",
+    "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "95",
+    "snippet": "pproval after completion FundedNext Phase Start earning performance rewards Up to 95% split Access to user-friendly dashboards Multiple payment methods available Scaling When you maintain profitability, FundedNext increases your capital in stages. Pros & C",
+    "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "FNL:002 2-Step CFDs 25K Challenge - 12% MLL & 3-Day Payout CFDs Futures Labs Rewards More EN Login FundedNext Blog FNL:002: Three Profitable Days Close the Cycle FNL:002: Three Profitable Days Close the Cycle 2 months ago Au",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "85",
+    "snippet": "ut Cycle Works Metric FundedNext Account Rule Account Size $25,000 Reward Share 85% Payout Cycle 3 minimum profitable days ($250 per day) Daily Loss Limit 4% Maximum Loss Limit 12% Drawdown Type Static Risk Rule Maximum of 3% at a time News Trading N",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "5",
+    "snippet": "0%; Stellar Lite Model \u2014 8%. 5.3. The Customer must complete at least the following minimum Trading Days: Evaluation Model \u2014 5 days; Express Model \u2014 10 days; Stellar 1-Step Model \u2014 2 days; Stellar 2-Step Model \u2014 5 days; Stellar Lite Model \u2014 5 days. 5.4. The Customer must achieve the following P",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "300",
+    "snippet": "p to $4M, while Futures doesn\u2019t have scale up options. It comes with account caps of $300K (CFDs funded) and $700K (Futures challenge). Trader benefits: FundedNext stands out with a 15% profit share from the Challenge and a guaranteed 24-hour payout processin",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "700",
+    "snippet": "doesn\u2019t have scale up options. It comes with account caps of $300K (CFDs funded) and $700K (Futures challenge). Trader benefits: FundedNext stands out with a 15% profit share from the Challenge and a guaranteed 24-hour payout processing promise. Why Prop Fir",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "ntrolled risk throughout their entire account lifecycle. Example: A 10% max loss on $100K means the balance/equity must never fall below $90,000. FundedNext CFDs: Max loss range 6\u201310% by model (applies to closed + floating). FundedNext Futures (Challenge):",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "Loss Limit varies by account size, for example, in Legacy model, MLL is $1,250 for a $25 K account, $2,500 for $50 K, and $3,000 for $100 K. 3) Profit Target Requirement To pass most challenges, you must reach a defined target (often 5\u201310% industry-wide). F",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "nt size, for example, in Legacy model, MLL is $1,250 for a $25 K account, $2,500 for $50 K, and $3,000 for $100 K. 3) Profit Target Requirement To pass most challenges, you must reach a defined target (often 5\u201310% industry-wide). FundedNext Stellar models (",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "400",
+    "snippet": "$4M Yes Limited Yes Yes Yes Max Account Size CFDs $300K; Futures $700K (Challenge) $400K ~$250K ~$300K ~$200K ~$300K Payout Cycle After Challenge: Rapid: Every 3 days (with consistency rule) Legacy: Every 5 days (after 5 benchmark days & consistency rule);",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "250",
+    "snippet": "Limited Yes Yes Yes Max Account Size CFDs $300K; Futures $700K (Challenge) $400K ~$250K ~$300K ~$200K ~$300K Payout Cycle After Challenge: Rapid: Every 3 days (with consistency rule) Legacy: Every 5 days (after 5 benchmark days & consistency rule); no wit",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "es Yes Max Account Size CFDs $300K; Futures $700K (Challenge) $400K ~$250K ~$300K ~$200K ~$300K Payout Cycle After Challenge: Rapid: Every 3 days (with consistency rule) Legacy: Every 5 days (after 5 benchmark days & consistency rule); no withdrawals durin",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,00",
+    "snippet": "t 79k+ reviews loved by 82k+ We sponsor your trading journey Rewards in 24h or get $1,000 extra One-time fee No recurring costs 24/7 support in 44 languages Get Started How It Works $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "306",
+    "snippet": "fee No recurring costs 24/7 support in 44 languages Get Started How It Works $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards Recognized globally From winning awards to 25+ global meetups, millions of traders choo",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "recurring costs 24/7 support in 44 languages Get Started How It Works $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards Recognized globally From winning awards to 25+ global meetups, millions of traders choose Fun",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "316",
+    "snippet": "arly-access releases. Get Notified Choose your next challenge Explore Labs $ 316.1 $ 0.0 M + Rewards sent to thousands of traders in 170+ countries. 99.99% processed within 24 hours, no delays. 4 0 hrs Avg. processing time 451.7 0.0 K+ FundedNext",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "},\\\"$undefined\\\",\\\"$undefined\\\",4112]},\\\"$undefined\\\",\\\"$undefined\\\",4112],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "edence\\\":\\\"next\\\",\\\"href\\\":\\\"/_next/static/chunks/394-xr0t352m0.css\\\",\\\"children\\\":\\\"$4\\\"}],\\\"$L5\\\",\\\"$L6\\\",\\\"$L7\\\",\\\"$L8\\\",\\\"$L9\\\",\\\"$La\\\",\\\"$Lb\\\",\\\"$Lc\\\",\\\"$Ld\\\",\\\"$Le\\\"],\\\"$Lf\\\"]}],{\\\"children\\\":[\\\"$L10\\\",{\\\"children\\\":[\\\"$L11\\\",{\\\"children\\\":[\\\"$L12\\\",{",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "13",
+    "snippet": "\\\",{\\\"children\\\":[\\\"$L11\\\",{\\\"children\\\":[\\\"$L12\\\",{},null,false,null]},null,false,\\\"$13\\\"]},null,false,null]},null,false,null]},null,false,\\\"$13\\\"],\\\"$L14\\\",false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$15\\\",[]],\\\"S\\\":false,\\\"h\\\":null,\\\"r\\\":\\\"$undefined\\\",\\\"s\\\":\\\"",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "15",
+    "snippet": "null,false,null]},null,false,\\\"$13\\\"],\\\"$L14\\\",false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$15\\\",[]],\\\"S\\\":false,\\\"h\\\":null,\\\"r\\\":\\\"$undefined\\\",\\\"s\\\":\\\"$undefined\\\",\\\"a\\\":\\\"$undefined\\\",\\\"l\\\":\\\"$undefined\\\",\\\"p\\\":\\\"$undefined\\\",\\\"d\\\":\\\"$undefined\\\",\\\"b\\\":\\\"SZJ11i",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "16",
+    "snippet": "edence\\\":\\\"next\\\",\\\"href\\\":\\\"/_next/static/chunks/116zvc195o-pc.css\\\",\\\"children\\\":\\\"$16\\\"}]\\n6:[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/1fi01b97dt9ib.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]\\n7:[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"s",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "-bucket.s3.ap-northeast-1.amazonaws.com\\\"}],[\\\"$\\\",\\\"noscript\\\",null,{\\\"children\\\":\\\"$2e\\\"}],[[\\\"$\\\",\\\"$L2f\\\",null,{\\\"id\\\":\\\"gtm-script\\\",\\\"strategy\\\":\\\"afterInteractive\\\",\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"\\\\n (function(w,d,i){\\\\n if(w.__gtmQueued)r",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "32",
+    "snippet": ".com/embed.js\\\"}],[[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"$32\\\"}}],\\\"$L33\\\",\\\"$L34\\\"]],\\\"$L35\\\",\\\"$L36\\\",\\\"$L37\\\",\\\"$L38\\\",\\\"$L39\\\",\\\"$L3a\\\",\\\"$L3b\\\"]}]]}]\\n3d:I[495027,[\\\"/_next/static/chunks/1fi01b97dt9ib.js\\\",\\\"/_next/static/chu",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "ameNode);\\n }\\n 33:[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"$3c\\\"}}]\\n34:[\\\"$\\\",\\\"script\\\",null,{\\\"async\\\":true,\\\"src\\\":\\\"https://eba18flkps.kameleoon.io/engine.js\\\",\\\"fetchPriority\\\":\\\"high\\\"}]\\n35:[\\\"$\\\",\\\"$L3d\\\",null,{}]\\n36:[\\\"$",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "2-Step CFDs 25K Challenge? FNL:002 Challenge Rules: Phase 1 and Phase 2 How the 12% Static Maximum Loss Limit Works What Counts as a Minimum Profitable Day FundedNext Account Rules: How the 3-Day Payout Cycle Works How FNL:002 Differs From Other FundedNext CFD Mod",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency requirements applicable to that Express Model, which are intended to ensure that trading performance",
+    "snippet": "ased with a \"Consistency\" designation, the Customer shall comply with the Provider's consistency requirements applicable to that Express Model, which are intended to ensure that trading performance is not generated through irregular, one-off, or disproportionately concentrated activity and is broadly consistent with the trading approach r",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirements shall not apply to that Express Model participation",
+    "snippet": "ion. Where the Express Model is purchased with a \"Non-Consistency\" designation, such consistency requirements shall not apply to that Express Model participation. Any additional operational guidance, examples, and parameters relating to consistency may be described in the applicable FAQ/Rules, as updated from time to time, provid",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirements applicable to that {{EXPRESS}} Model, which are intended to ensure that trading performa",
+    "snippet": "ed with a \\\"Consistency\\\" designation, the Customer shall comply with the Provider's consistency requirements applicable to that {{EXPRESS}} Model, which are intended to ensure that trading performance is not generated through irregular, one-off, or disproportionately concentrated activity and is broadly consistent with the trading approa",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule will be considered as successful completion of the challenge",
+    "snippet": "der to successfully pass the challenge phase. Meeting both the profit target and the consistency rule will be considered as successful completion of the challenge. 25K: $1,250 50K: $3,000 100K: $6,000 1.2.14.1. Consistency Rule: During the Challenge, the Customer's simulated profit on any single trading day must not exceed 40%",
+    "url": "https://fundednext.com/futures-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule: During the Challenge, the Customer's simulated profit on any single trading day must not",
+    "snippet": "sful completion of the challenge. 25K: $1,250 50K: $3,000 100K: $6,000 1.2.14.1. Consistency Rule: During the Challenge, the Customer's simulated profit on any single trading day must not exceed 40% of the total profit target for the applicable account size (Daily Profit Threshold = 40% \u00d7 Profit Target). If the simulated profit on any sin",
+    "url": "https://fundednext.com/futures-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule vs No Consistency Rule 6) News Trading 7) Weekend & Overnight Holding 8) Use of EAs, Bots",
+    "snippet": "Limit Rule 2) Maximum Loss Limit 3) Profit Target Requirement 4) Time Limit Rule 5) Consistency Rule vs No Consistency Rule 6) News Trading 7) Weekend & Overnight Holding 8) Use of EAs, Bots, or Copy Trading 9) Scaling Plans & Reward Splits 10) Maximum Account Size Quick Comparison of Common Rules (2025) How to Build a Rule-Friendly Tradi",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Every 3 days",
+    "snippet": "count Size CFDs $300K; Futures $700K (Challenge) $400K ~$250K ~$300K ~$200K ~$300K Payout Cycle After Challenge: Rapid: Every 3 days (with consistency rule) Legacy: Every 5 days (after 5 benchmark days & consistency rule); no withdrawals during the Challenge phase. Bi-weekly Monthly Weekly Bi-weekly",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Daily",
+    "snippet": "le Works Metric FundedNext Account Rule Account Size $25,000 Reward Share 85% Payout Cycle 3 minimum profitable days ($250 per day) Daily Loss Limit 4% Maximum Loss Limit 12% Drawdown Type Static Risk Rule Maximum of 3% at a time News Trading Not allowed Weekend Holding Allowed Overnight Holdin",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "s investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this prog",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "-03T05:02:06.000Z weekly 0.8 https://fundednext.com/blog/gold-plummets-as-us-dollar-rises 2023-03-27T09:22:15.000Z weekly 0.8 https://fundednext.com/blog/gold-price-approaches-2000-as-xau-usd-eye-best-week-in-years 2023-03-20T04:55:48.000Z weekly 0.8 https",
+    "url": "https://fundednext.com/sitemap_posts.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "the dashboard. Such modifications apply only as expressly described and do not otherwise amend these Challenge Terms. 5.6. Where the Express Model is purchased with a \"Consistency\" designation, the Customer shall comply with the Provider's consistency requi",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "yprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business. Legal Disclosure: Fun",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "any trading activity outside of this program. Hypothetical Performance Disclosure \u2013 CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be design",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "https://fundednext.com/blog/how-one-trader-moved-from-scalping-to-swing-trading 2026-10-08T07:02:01.000Z weekly 0.8 https://fundednext.com/blog/stellar-1-step-vs-2-step-challenge 2026-10-02T11:24:50.000Z weekly 0.8 https://fundednext.com/blog/fundednext-new-payout-st",
+    "url": "https://fundednext.com/sitemap_posts.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "how-to-get-started 2025-08-28T08:37:16.000Z weekly 0.8 https://fundednext.com/blog/basics-of-supply-demand-in-forex-trading 2025-08-28T08:33:22.000Z weekly 0.8 https://fundednext.com/blog/forex-trading-tips-to-start-using-now 2025-08-28T08:28:21.000Z weekly 0.8 https://fundednext.com/blog/basics-of-risk-manage",
+    "url": "https://fundednext.com/sitemap_posts.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "uction-in-2023 2026-04-20T05:08:21.000Z weekly 0.8 https://fundednext.com/blog/us-nonfarm-payrolls-rise-by-263000-in-november-vs-200000-expected 2022-12-07T04:34:45.000Z weekly 0.8 https://fundednext.com/blog/words-in-the-air-fed-to-hike-another-100-bps 2026-04-20T05:10:32.000Z weekly 0.8 https://fundednext.com/blog/yellow-metal-t",
+    "url": "https://fundednext.com/sitemap_posts.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "authorised by",
+    "snippet": "e bots, scripts, algorithms, software, AI agents, or automated methods not expressly authorised by the Provider. Even where certain tools may be permitted under programme rules, the Customer must not use automation, high-frequency execution, mass-order behaviour, or mass data entr",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "in 44 languag",
+    "snippet": "Rewards in 24h or get $1,000 extra One-time fee No recurring costs 24/7 support in 44 languages Get Started How It Works $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards Recognized globally From winning awards to 25+ gl",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rewards sent to thousa",
+    "snippet": ". Get Notified Choose your next challenge Explore Labs $ 316.1 $ 0.0 M + Rewards sent to thousands of traders in 170+ countries. 99.99% processed within 24 hours, no delays. 4 0 hrs Avg. processing time 451.7 0.0 K+ FundedNext Accounts 55 0 % Repeat Rewards Dis",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "support ag",
+    "snippet": "s 170 0 + Countries Served 24 0 /7 Operations Support that never clocks out 120+ support agents operate from five global hubs, 24 hours a day, 7 days a week. Day or night, the first response to your question arrives in under 25 seconds. Languages spoken Unite",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Languag",
+    "snippet": "eek. Day or night, the first response to your question arrives in under 25 seconds. Languages spoken United Kingdom Spain Japan China Saudi Arabia France Netherlands Portugal + more Get Support Get Support Get Support Read FAQs Read FAQs Read FAQs 95 0 % c",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "United Kingdom Spain Japan China Sa",
+    "snippet": "the first response to your question arrives in under 25 seconds. Languages spoken United Kingdom Spain Japan China Saudi Arabia France Netherlands Portugal + more Get Support Get Support Get Support Read FAQs Read FAQs Read FAQs 95 0 % customer satisfaction score 60 0 sec avg. resp",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "customer sa",
+    "snippet": "+ more Get Support Get Support Get Support Read FAQs Read FAQs Read FAQs 95 0 % customer satisfaction score 60 0 sec avg. response time Start your FundedNext challenge Thousands of traders are already getting rewarded by FundedNext. The only one missing from",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Start your FundedNext challenge Thousa",
+    "snippet": "ad FAQs Read FAQs 95 0 % customer satisfaction score 60 0 sec avg. response time Start your FundedNext challenge Thousands of traders are already getting rewarded by FundedNext. The only one missing from that list is you. Your challenge is open now. Start Challenge Product and Offeri",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "How Prop Trading Works Calculator Blog CFDs Glossa",
+    "snippet": "FDs FundedNext Futures FNmarkets General Rules Help Centre (FAQ) Partners Resources How Prop Trading Works Calculator Blog CFDs Glossary Trading Platforms Economic Calendar Symbols Market Overview Company Company News & Media Achievements & Awards Events Contact Public Announcements Privacy & Policy T",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "HY01023052",
+    "snippet": "ext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "28831",
+    "snippet": "t Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext\u2122 \u00a9 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agi",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services",
+    "snippet": "tial risk of loss. Past performance is not indicative of future results. Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services. Not a Deposit | Not FDIC Insured | May Lose Value FundedNext-Copyright \u00a9 2026 Trust and Security | Subscribe to newsletter",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy 11",
+    "snippet": "ractices 9. Enforcement; Investigations; Cross-Account Actions 10. Fees; Activation; Refund Policy 11. Chargebacks and Payment Disputes (No Parallel Policy) 12. Programme Verification 13. Passing, Verification and Progression 14. Costs 15. Contact 16. General Legal Terms",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "refunds, credits, or other sums), to the maximum extent permitted by applicable law",
+    "snippet": "nst any amounts otherwise payable to the Customer (including any Performance Reward, refunds, credits, or other sums), to the maximum extent permitted by applicable law. The Customer shall indemnify the Provider for reasonable costs incurred in enforcing this Clause 9, including administrative, investigation, legal, expert, forensic, an",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy\n 10",
+    "snippet": "d by applicable law, from the due date until payment in full. 10. Fees; Activation; Refund Policy 10.1. The Customer pays a programme fee for access to the CFDs Challenge and the Challenge Account. Fees and payment methods are disclosed at checkout. 10.2. The service i",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed 80% Reward Share \n Upcoming FundedNext Labs\n Be the first to know",
+    "snippet": "NO DLL 1-Step Lowest entry price with best trading environment No Daily Loss Limit News Trading Allowed 80% Reward Share Upcoming FundedNext Labs Be the first to know. Join the waitlist for upcoming beta plans and exclusive early-access releases. Get Notified Choose your next challenge Explore Labs $ 316.1 $ 0.0 M + Reward",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading 7) Weekend & Overnight Holding 8) Use of EAs, Bots, or Copy Trading 9) Scaling Plans & Reward Splits 10) Ma",
+    "snippet": "Target Requirement 4) Time Limit Rule 5) Consistency Rule vs No Consistency Rule 6) News Trading 7) Weekend & Overnight Holding 8) Use of EAs, Bots, or Copy Trading 9) Scaling Plans & Reward Splits 10) Maximum Account Size Quick Comparison of Common Rules (2025) How to Build a Rule-Friendly Trading Routine FundedNext Prop Firm Rules at a ",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading\n Some firms restrict trading around high-impact events (e",
+    "snippet": "exceed 40% of total profits; if it does, trade more to balance before rewards). 6) News Trading Some firms restrict trading around high-impact events (e.g., Non-Farm Payrolls). FundedNext: News trading is allowed, giving more flexibility. 7) Weekend & Overnight Holding Rules vary; some firms force flat before Friday\u2019s",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News trading is allowed, giving more flexibility",
+    "snippet": "s restrict trading around high-impact events (e.g., Non-Farm Payrolls). FundedNext: News trading is allowed, giving more flexibility. 7) Weekend & Overnight Holding Rules vary; some firms force flat before Friday\u2019s close. FundedNext: Overnight and weekend holding allowed, ideal for swing approaches",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eat Rewards \n Recognized globally\n From winning awards to 25+ global meetups, millions of traders choose FundedNext dail",
+    "snippet": "t Works $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards Recognized globally From winning awards to 25+ global meetups, millions of traders choose FundedNext daily. One community. Growing every day. $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards $ 306.9 $ 0.0 M+ Tot",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat Rewards \n \n $ 306",
+    "snippet": "ery day. $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards Explore Labs Plan The launchpad for FundedNext's boldest trading innovations. Expl",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat Rewards \n \n \n Explore\nLabs Plan\n The launchpad for FundedNext's boldest trading innovations",
+    "snippet": "Rewards $ 306.9 $ 0.0 M+ Total Rewarded 4 0 hours Avg. Processing Time 55 0 % Repeat Rewards Explore Labs Plan The launchpad for FundedNext's boldest trading innovations. Explore All FNL:001 NO DLL 1-Step Lowest entry price with best trading environment No Daily Loss Limit News Trading Allowed 80% Reward Share Upcoming FundedNext La",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "early-access releases",
+    "snippet": "Labs Be the first to know. Join the waitlist for upcoming beta plans and exclusive early-access releases. Get Notified Choose your next challenge Explore Labs $ 316.1 $ 0.0 M + Rewards sent to thousands of traders in 170+ countries. 99.99% processed within 24 ho",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat Rewards\n Discover Rewards \n \n \n \n \n \n \n \n \n \n A community that adds value\n Join FundedNext traders discussing market",
+    "snippet": "o delays. 4 0 hrs Avg. processing time 451.7 0.0 K+ FundedNext Accounts 55 0 % Repeat Rewards Discover Rewards A community that adds value Join FundedNext traders discussing markets, reviewing trades, and learning from real prop trading experience every day Discord community Real-time discussion with traders worldwide. Ask questions, shar",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "ontrols, or any technical restrictions imposed by the Provider. This includes use of VPNs, proxies, emulators, device spoofing, automation intended to circumvent controls, or any similar method. 8.14. Unauthorised Automation; HFT; Mass-Order Behaviour; Platform Overload. The Customer must not use bots, scripts, algorithms, software, AI ag",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "ace account restrictions or termination. 2.1.7. The Customer must not use different IP addresses to access the dashboard and execute trades on the trading platform without prior approval. Such discrepancies may indicate account sharing or unauthorized access and are strictly prohibited. The Provider actively monitors such activities and m",
+    "url": "https://fundednext.com/futures-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "24 hours",
+    "snippet": "rget: 8% in Phase 1, 5% in Phase 2 Maximum Daily Loss: 5% Maximum Loss Limit: 10% Payouts: As fast as 24 hours after becoming funded Profit Split: Up to 95% These exact numbers can vary depending on the selected Stellar account type. Step 3: Trade to Hit the Target While Manag",
+    "url": "https://fundednext.com/blog/beginner-guide-to-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "in 3 profitable days, an",
+    "snippet": "a risk rule on FNL:002? How long is FNL:002 available? A 12% Maximum Loss Limit, a payout cycle counted in 3 profitable days, and an 85% reward share. Those are the three numbers behind the \u201cFNL:002 12% MLL, 3-Day Payout 2-Step CFDs 25K Challenge\u201d, the second release from FundedNext Labs. It is a",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "t Holding Allowed Commission FX and Energy $5 per lot, Metals 0.0016%, Indices 0 Leverage FX 1:100, Metals, Energy and Indices 1:25 Add-Ons and Resets are not applicable to this challenge. KYC follows the same process as other FundedNext CFDs models , and a single u",
+    "url": "https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Profit Cap Unlimited Unlimited Unlimited Unlimited Unlimited Unlimited \n Daily Loss Limit 3-5% (based on model) 5% 5% 3\u2013",
+    "snippet": "ndedNext FTMO The 5%ers E8 Funding City Traders Imperium (CTI) Apex Trader Funding Profit Cap Unlimited Unlimited Unlimited Unlimited Unlimited Unlimited Daily Loss Limit 3-5% (based on model) 5% 5% 3\u20134% 5% 3\u20135% typical Maximum Loss Limit 6\u201310% 10% 6\u201310% 8% / trailing on some plans 10% / 5\u201310% mix 6% stop-out ranges Stop-Loss Rule Recomme",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plans & Reward Splits 10) Maximum Account Size Quick Comparison of Common Rules (2025) How to Build a Rule-Frien",
+    "snippet": "News Trading 7) Weekend & Overnight Holding 8) Use of EAs, Bots, or Copy Trading 9) Scaling Plans & Reward Splits 10) Maximum Account Size Quick Comparison of Common Rules (2025) How to Build a Rule-Friendly Trading Routine FundedNext Prop Firm Rules at a Glance (2025) Final Thoughts Frequently Asked Questions 1. What are the most common ",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans & Reward Splits\n Many firms scale accounts after milestones",
+    "snippet": ", bots, and copy trading are allowed when used responsibly (no abusive methods). 9) Scaling Plans & Reward Splits Many firms scale accounts after milestones. FundedNext CFDs: Scale-Up Plan increases the account balance by 40% every four consecutive profitable months, up to $4M. Performance Reward splits can reach up to 95%",
+    "url": "https://fundednext.com/blog/prop-firm-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-verification 2026-06-12T05:58:00",
+    "snippet": "on 2026-06-12T05:58:00.414Z monthly 0.3 https://fundednext.com/affiliate-onboarding/kyc-verification 2026-06-12T05:58:00.414Z monthly 0.3 https://fundednext.com/affiliate-onboarding/platform 2026-06-12T05:58:00.414Z monthly 0.3 https://fundednext.com/affiliate-onboarding/thank-you 2026-0",
+    "url": "https://fundednext.com/sitemap_pages.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC/AML Bypass",
+    "snippet": "on exposure is prohibited. 8.13. Circumvention of Controls; Technical Restrictions; KYC/AML Bypass. The Customer must not attempt to bypass or defeat geographical blocks, KYC/AML verifications, eligibility requirements, antifraud controls, monitoring systems, device f",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "KYC/AML verifications, eligibility requirements, antifraud controls, monitoring systems, device fingerprinting, I",
+    "snippet": "C/AML Bypass. The Customer must not attempt to bypass or defeat geographical blocks, KYC/AML verifications, eligibility requirements, antifraud controls, monitoring systems, device fingerprinting, IP/geo controls, or any technical restrictions imposed by the Provider. This includes use of VPNs, proxies, emulators, device spoofing, automat",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services",
+    "snippet": "loss. Past performance is not indicative of future results. Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services. Not a Deposit | Not FDIC Insured | May Lose Value FundedNext-Copyright \u00a9 2026 Trust and Security | Subscribe to newsletter",
+    "url": "https://fundednext.com/",
+    "kind": "home"
+   },
+   {
+    "value": "platform fees are purchased, their refundability (if any) is governed by the applicable checkout disclosure and the Gene",
+    "snippet": "ls KYC/verification, or is terminated for cause. 10.6. Where add-ons or third-party platform fees are purchased, their refundability (if any) is governed by the applicable checkout disclosure and the General Terms, except where expressly stated otherwise. 10.7. If the Customer does not activate the Challenge Account and/or does not commen",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "platform fees, add-ons, payment processing fees, FX conversion fees, taxes, or similar charges",
+    "snippet": "ble for fees disclosed at checkout or under the General Terms, including third-party platform fees, add-ons, payment processing fees, FX conversion fees, taxes, or similar charges. 15. Contact Support: [email protected] Registered Office: Office No. 7, AI Robotics HUB, C1 Building, Ajman Free Zone, Ajman, UAE 16. General Legal Terms (Inco",
+    "url": "https://fundednext.com/cfd-challenge-terms",
+    "kind": "page"
+   },
+   {
+    "value": "subscription fees paid are strictly for {{EVALUATION}} purposes and for access to our {{EVALUATION_S}} services",
+    "snippet": "\\\":\\\"Other Operational Entity Information:\\\"},\\\"paymentsAndRefunds\\\":{\\\"body\\\":\\\"All subscription fees paid are strictly for {{EVALUATION}} purposes and for access to our {{EVALUATION_S}} services.\\\",\\\"label\\\":\\\"Payments \\u0026 Refunds:\\\"},\\\"riskWarning\\\":{\\\"body\\\":\\\"Trading in {{FUTURES}}, derivatives, and digital assets markets involves",
+    "url": "https://fundednext.com/blog/instant-funding-vs-challenge-models",
+    "kind": "page"
+   },
+   {
+    "value": "Reset Fee & Discounts Final Thoughts Ready to Get Started? Frequently Asked Questions (FAQs) What happens after I compl",
+    "snippet": "o Know 15% Performance Reward Explained Daily & Maximum Loss Limits Consistency Rule Reset Fee & Discounts Final Thoughts Ready to Get Started? Frequently Asked Questions (FAQs) What happens after I complete the Challenge Phase? Can I scale up my account later? Can I switch plans after I\u2019ve started? Is there an activation fee? Do I get a ",
+    "url": "https://fundednext.com/blog/fundednext-futures-plan",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "\\\"disclaimer\\\":{\\\"intro\\\":\\\"Trading activities on this platform are executed solely by {{FUNDEDNEXT Instant Funding vs Challenge Models: Pros and Cons Explained CFDs Futures Labs Rewards More EN Login FundedNext Blog Instant Funding vs Challenge Models: Pros and Cons Expla",
+   "url": "https://fundednext.com/blog/instant-funding-vs-challenge-models"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "Labs Plan The launchpad for FundedNext's boldest trading innovations. Explore All FNL:001 NO DLL 1-Step Lowest entry price with best trading environment No Daily Loss Limit News Trading Allowed 80% Reward Share Upcoming FundedNext Labs Be the first to know.",
+   "url": "https://fundednext.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "xt.com/cfds/stellar-1-step 2026-06-12T05:58:00.414Z weekly 0.8 https://fundednext.com/cfds/stellar-2-step 2026-06-12T05:58:00.414Z weekly 0.8 https://fundednext.com/cfds/stellar-instant 2026-06-12T05:58:00.414Z weekly 0.8 https://fundednext.com/cfds/stellar-lite",
+   "url": "https://fundednext.com/sitemap_pages.xml"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "dices\\\",\\\"imageAlt\\\":\\\"{{FUNDEDNEXT}} trading programme\\\",\\\"label\\\":\\\"{{CFDS}}\\\",\\\"secondaryCta\\\":\\\"Free Trial\\\",\\\"secondaryCtaAriaLabel\\\":\\\"Start a free {{CFDS}} trial\\\"},\\\"futures\\\":{\\\"cta\\\":\\\"Discover {{FUTURES}}\\\",\\\"ctaAriaLabel\\\":\\\"Discover {{FUTURES}}\\\",\\\"descript",
+   "url": "https://fundednext.com/cfd-challenge-terms"
+  },
+  {
+   "name": "Futures",
+   "snippet": "Awards Events Contact Public Announcements Privacy & Policy Terms of Service CFDs Challenge Terms Futures Challenge Terms Instant Account Terms Privacy Policy Cookie Policy AML Policy Risk Disclosure Partners T&C Trading activities on this platform are executed sol",
+   "url": "https://fundednext.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "Match-Trader",
+  "Tradovate"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "Choose your next challenge Explore Labs $ 316.1 $ 0.0 M + Rewards sent to thousands of traders in 170+ countries. 99.99% processed within 24 hours, no delays. 4 0 hrs Avg.",
+  "ple hubs, focused on one thing: FundedNext traders Company 600 0 + Team Members 5 0 Global Offices 170 0 + Countries Served 24 0 /7 Operations Support that never clocks out",
+  "Yes Limited Yes Yes Yes Max Account Size CFDs $300K; Futures $700K (Challenge) $400K ~$250K ~$300K ~$200K ~$300K Payout Cycle After Challenge: Rapid: Every 3 days (with consistenc",
+  "e. KYC follows the same process as other FundedNext CFDs models , and a single user can purchase a maximum of 5 accounts. How the 12% Static Maximum Loss Limit Works The Maximum",
+  "buy an Add-On? No. Add-Ons and Resets are not applicable to this challenge. A user can purchase a maximum of 5 accounts. Is news trading allowed on FNL:002? No. News trading is"
+ ],
+ "errors": []
+}

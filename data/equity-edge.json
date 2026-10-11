@@ -1,0 +1,663 @@
+{
+ "slug": "equity-edge",
+ "name": "Equity Edge",
+ "category": "Forex/CFD",
+ "url": "https://equityedge.io/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://equityedge.io/",
+   "kind": "home",
+   "chars": 26902
+  },
+  {
+   "url": "https://equityedge.io/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6649
+  },
+  {
+   "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+   "kind": "page",
+   "chars": 15348
+  },
+  {
+   "url": "https://equityedge.io/faq/trading-rules",
+   "kind": "page",
+   "chars": 16222
+  },
+  {
+   "url": "https://equityedge.io/instant-accounts/scaling-plan",
+   "kind": "page",
+   "chars": 12671
+  },
+  {
+   "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+   "kind": "page",
+   "chars": 13745
+  },
+  {
+   "url": "https://equityedge.io/evaluation-questions/objectives-for-the-1-step-evaluation-challenge",
+   "kind": "page",
+   "chars": 13655
+  },
+  {
+   "url": "https://equityedge.io/faq/instant-accounts",
+   "kind": "page",
+   "chars": 16651
+  },
+  {
+   "url": "https://equityedge.io/faq/evaluation-questions",
+   "kind": "page",
+   "chars": 16642
+  },
+  {
+   "url": "https://equityedge.io/instant-accounts/minimum-profit-target-and-payout-process",
+   "kind": "page",
+   "chars": 13449
+  },
+  {
+   "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+   "kind": "page",
+   "chars": 66294
+  },
+  {
+   "url": "https://equityedge.io/trading-rules/news-trading",
+   "kind": "page",
+   "chars": 23344
+  },
+  {
+   "url": "https://equityedge.io/evaluation-questions/daily-maximum-loss-limit-on-2-step-accounts",
+   "kind": "page",
+   "chars": 14410
+  },
+  {
+   "url": "https://equityedge.io/instant-accounts/refunds",
+   "kind": "page",
+   "chars": 12502
+  },
+  {
+   "url": "https://equityedge.io/faq",
+   "kind": "sub",
+   "chars": 16767
+  },
+  {
+   "url": "https://equityedge.io/faq",
+   "kind": "subsitemap",
+   "chars": 16767
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 302033,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "2-Step Legacy Evaluation Challenge Phase 1 - Duration: Unlimited calendar days - Profit Target: 10% - Maximum Daily Loss: 5% - Maximum Total Loss: 10% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 5% - Maximum Total Loss:",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "Loss: 5% - Maximum Total Loss: 10% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 5% - Maximum Total Loss: 10% \u200b Please note: if your floating loss or closed balance or equity exceeds the daily loss or max loss limit, the accou",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "2-Step Swift Evaluation Challenge Phase 1 - Duration: Unlimited calendar days - Profit Target: 8% - Maximum Daily Loss: 4% - Maximum Total Loss: 8% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 4% - Maximum Total Loss: 8",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "lenge Phase 1 - Duration: Unlimited calendar days - Profit Target: 10% - Maximum Daily Loss: 5% - Maximum Total Loss: 10% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 5% - Maximum Total Loss: 10% \u200b Please note: if your",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "llenge Phase 1 - Duration: Unlimited calendar days - Profit Target: 8% - Maximum Daily Loss: 4% - Maximum Total Loss: 8% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 4% - Maximum Total Loss: 8% \u200b Please note: if your f",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "Evaluation Challenge Duration: Unlimited calendar days Profit Target: 8% Maximum Daily Loss: 3% Maximum Total Loss: 5% (Trailing) Please note: To pass a challenge, both your balance and equity must be equal to or above the profit target. If your floating loss or",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-1-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "wn increased to 4% (1-Step Swift) Daily drawdown increased to 5% (1-Step Flagship) Daily drawdown increased to 6% (2-Step Legacy) Daily drawdown increased to 5% (2-Step Swift) Daily drawdown increased to 5% (2-Step Flagship) Level 3 Upon attaining Level 3 with twelve payouts and",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "Duration: Unlimited calendar days - Profit Target: 10% - Maximum Daily Loss: 5% - Maximum Total Loss: 10% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 5% - Maximum Total Loss: 10% \u200b Please note: if your floating loss or closed ba",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "Duration: Unlimited calendar days - Profit Target: 8% - Maximum Daily Loss: 4% - Maximum Total Loss: 8% Phase 2 - Duration: Unlimited calendar days - Profit Target: 5% - Maximum Daily Loss: 4% - Maximum Total Loss: 8% \u200b Please note: if your floating loss or closed bal",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-2-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "enge Duration: Unlimited calendar days Profit Target: 10% Maximum Daily Loss: 4% Maximum Total Loss: 6% (Trailing) Please note: To pass a challenge, both your balance and equity must be equal to or above the profit target. If your floating loss or closed balance or equit",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-1-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "lenge Duration: Unlimited calendar days Profit Target: 8% Maximum Daily Loss: 3% Maximum Total Loss: 5% (Trailing) Please note: To pass a challenge, both your balance and equity must be equal to or above the profit target. If your floating loss or closed balance or equit",
+    "url": "https://equityedge.io/evaluation-questions/objectives-for-the-1-step-evaluation-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "7",
+    "snippet": "a 10% total profit share qualifies you for a 20% increase in your trading capital. Maximum drawdown increased to 7% (1-Step Legacy) Maximum drawdown increased to 6% (1-Step Swift) Maximum drawdown increased to 7% (1-Step Flagship) Maximum drawdown increased to 11% (2-Step Legacy)",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   },
+   {
+    "value": "11",
+    "snippet": "increased to 6% (1-Step Swift) Maximum drawdown increased to 7% (1-Step Flagship) Maximum drawdown increased to 11% (2-Step Legacy) Maximum drawdown increased to 9% (2-Step Swift) Maximum drawdown increased to 11% (2-Step Flagship) Level 2 As a Level 2 Trader, achieved after eight",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge ')\"> Challenges Affiliate About Contact FAQ Client Ar",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "Equity Edge Payouts Equity Edge Payouts Generous Profit Split Start at an 80% profit split and scale up to 90% as you show consistency in your trading, empowering you to keep more of your hard\u2014earned gains. Generous Profit Split Start at an 80% profit split",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "ULES What are the performance and consistency rules that apply to Instant accounts? 15% Consistency Score To request a payout, traders must meet a consistency score of 15%. This means the largest winning day cannot exceed 15% of the total net profits generated on the account. If a payout has a",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "your total balance upon payout. If the total deductions made on your account total 25% or more of your requested profit share, your payout will be rejected and your profit share forfeited. Inactivity There is no inactivity rule for accounts that have not yet been traded on. If any Instant tra",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "rting as a Level 1 Trader, successfully finishing this stage with four payouts and a 10% total profit share qualifies you for a 20% increase in your trading capital. Maximum drawdown increased to 7% (1-Step Legacy) Maximum drawdown increased to 6% (1-Step Swift) Maximum dra",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "2",
+    "snippet": "end. 12 \u2013 Evaluation Stage 1-Step Legacy Challenge Trading Period Unlimited Minimum Trading Days 2 Days Maximum Daily Loss 4% Maximum Loss (Trailing) Maximum Loss is calculated by measuring the difference between your highest recorded balance from closed trades an",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "% 2-Step Flagship Challenge Phase 1 Phase 2 Trading Period Unlimited Unlimited Minimum Trading Days 3 Days 3 Days Maximum Daily Loss 4% 4% Maximum Loss 10% 10% Profit Target 8% 5% 2-Step Legacy Funded Trader Trading Period Unlimited Maximum Daily Loss 5% Maxim",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "300",
+    "snippet": "Earn Up to $300K in Funding Earn Up to $300K in Funding At Equity Edge, we offer flexible paths to funding when trading CFDs. Choose from our 1-step and 2-step evaluation challenges to",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "r accounts being terminated and any pending payouts forfeited. Example You buy 4 x $100k accounts which comes to a total of $400k. You may trade 3 of these accounts which is within the max $300k allocation allowance. If you breach one of those 3 accounts you",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   },
+   {
+    "value": "400",
+    "snippet": "ng payouts forfeited. Example You buy 4 x $100k accounts which comes to a total of $400k. You may trade 3 of these accounts which is within the max $300k allocation allowance. If you breach one of those 3 accounts you were trading, then only may you begin tr",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1",
+    "snippet": "et Paid. 3 Simple Steps Join. Trade. Get Paid. Start Challenge Start Challenge $ 1 M+ Proven payouts delivered to global traders Proven payouts delivered to global traders Proven payouts delivered to global traders 1 % Keep up to 90% of your gains",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "Earn Up to $300K in Funding Earn Up to $300K in Funding At Equity Edge, we offer flexible paths to funding when trading CFDs. Choose from our 1-step and 2-step evaluation challenges t",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "kest to Payout Flagship Highest Leverage 1 Step 2 Step Buy Now \u2013 $0 \"> challenge Plan \u2013 EE Legacy Most Popular Swift Most Affordable Instant Quickest to Payout Flagship Highest Leverage 1 Step 2 Step Buy Now",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "0.00",
+    "snippet": "kest to Payout Flagship Highest Leverage 1 Step 2 Step Buy Now \u2013 $0.00 \"> challenge Plan \u2013 EE (fixed active, 8px radius, white text, thousands separator) Most Popular Legacy Most Affordable Swift Quickest to Payout Instant Highe",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "f the total net profits generated on your account since you started trading on it is $5,000 then your biggest winning day should not be greater than $750 ($5,000 x 15%). Example 2 Similarly, if the total net profits generated on your account since your last",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "750",
+    "snippet": "ted trading on it is $5,000 then your biggest winning day should not be greater than $750 ($5,000 x 15%). Example 2 Similarly, if the total net profits generated on your account since your last payout is $5,000 then your biggest winning day should not be gr",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "1,00",
+    "snippet": "not be greater than $750 ($5,000 x 15%). Example 3 If your biggest winning day is $1,000, then you will have to make a total profit of $6,667 ($1,000 / 15%) on your account before you are eligible to request a payout. Example 4 If your biggest winning day",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "6,66",
+    "snippet": "If your biggest winning day is $1,000, then you will have to make a total profit of $6,667 ($1,000 / 15%) on your account before you are eligible to request a payout. Example 4 If your biggest winning day is $2,250, then you will have to make a total profit",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "2,25",
+    "snippet": "ore you are eligible to request a payout. Example 4 If your biggest winning day is $2,250, then you will have to make a total profit of $15,000 ($2,250 / 15%) on your account before you are eligible to request a payout. 3% Safety Buffer The first 3% of pro",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "15,00",
+    "snippet": "If your biggest winning day is $2,250, then you will have to make a total profit of $15,000 ($2,250 / 15%) on your account before you are eligible to request a payout. 3% Safety Buffer The first 3% of profits generated on the Instant account, over and above",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "125",
+    "snippet": "rofit Target In order to qualify for a payout, you need to have profits of at least $125 on top of the 3% safety buffer , while still complying with the performance and consistency rules. Payout requests can be made via the Equity Edge dashboard. Biweekly P",
+    "url": "https://equityedge.io/instant-accounts/minimum-profit-target-and-payout-process",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "imulated balance or equity achieved at all times. Example Consider starting with a $100,000 demo account, a daily simulated drawdown level of $96,000, and a max trailing simulated drawdown of $94,000. If you realize a simulated profit of $5,000, elevating your",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "vel for the next day becomes $100,800 (computed as $105,000 - 4%). The max simulated trailing drawdown will be $98,700 (computed as $105,000 - 6%) as it trails from the highest recorded simulated balance of $105,000. Similarly, if you attain a simulated profit of $9,000 a",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules - Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge",
+    "snippet": "Performance & Consistency Rules - Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge ')\"> ')\"> Challenges Affiliate About Contact FAQ Client Area St",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "CONSISTENCY RULES What are the performance and consistency rules that apply to Instant accounts?\n 15% Cons",
+    "snippet": "Affiliate About Contact FAQ Client Area Start Challenge PERFORMANCE & CONSISTENCY RULES What are the performance and consistency rules that apply to Instant accounts? 15% Consistency Score To request a payout, traders must meet a consistency score of 15%. This means the largest winning day cannot exceed 15% of the total net profits genera",
+    "url": "https://equityedge.io/instant-accounts/performance-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules \n Maximum Daily Loss and Total Loss for Instant Accounts \n Holding Trades Over the Weeke",
+    "snippet": "ment for Instant Accounts Minimum Profit Target and Payout Process Performance & Consistency Rules Maximum Daily Loss and Total Loss for Instant Accounts Holding Trades Over the Weekend News Trading Prohibited Strategies on Instant Accounts Rule Breach Consequences 1% Max Risk Rule Tradable Instruments, Leverage and Commissions on Instant",
+    "url": "https://equityedge.io/faq/instant-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules",
+    "snippet": "$125 on top of the 3% safety buffer , while still complying with the performance and consistency rules. Payout requests can be made via the Equity Edge dashboard. Biweekly Payouts + 90% Profit Split: Traders can request a payout every 14th calendar day following the ini",
+    "url": "https://equityedge.io/instant-accounts/minimum-profit-target-and-payout-process",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Biweekly",
+    "snippet": "e and consistency rules. Payout requests can be made via the Equity Edge dashboard. Biweekly Payouts + 90% Profit Split: Traders can request a payout every 14th calendar day following the initiation of the first trade on the Instant account. A profit split of 90% will",
+    "url": "https://equityedge.io/instant-accounts/minimum-profit-target-and-payout-process",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "bank transfer",
+    "snippet": "ayouts Choose the payout method that suits you best. Whether you prefer traditional bank transfers or the convenience of cryptocurrencies, we've got you covered. Generous Profit Split Start at an 80% profit split and scale up to 90% as you show consistency in you",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "suits you best. Whether you prefer traditional bank transfers or the convenience of cryptocurrencies, we've got you covered. Generous Profit Split Start at an 80% profit split and scale up to 90% as you show consistency in your trading, empowering you to k",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "funding. Become Funded Trader Trade with funded capital, earn profit splits, and scale your account consistently. Become Funded Trader Trade with funded capital, earn profit splits, and scale your account consistently. Get Funded Today! Get Funded Today! Why Should You J",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Flagship Highest Leverag",
+    "snippet": "an lines) Legacy Most Popular Swift Most Affordable Instant Quickest to Payout Flagship Highest Leverage 1 Step 2 Step Buy Now \u2013 $0 \"> challenge Plan \u2013 EE Legacy Most Popular Swift Most Affordable Instant Quickest to Payout Flagship Highest Le",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "fixed active, 8px radius, white text, thousa",
+    "snippet": "verage 1 Step 2 Step Buy Now \u2013 $0.00 \"> challenge Plan \u2013 EE (fixed active, 8px radius, white text, thousands separator) Most Popular Legacy Most Affordable Swift Quickest to Payout Instant Highest Leverage Flagship 1 Step 2 Step Buy Now \u2013 $0",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Highest Leverage Flag",
+    "snippet": "eparator) Most Popular Legacy Most Affordable Swift Quickest to Payout Instant Highest Leverage Flagship 1 Step 2 Step Buy Now \u2013 $0 \"> Get Funded In 3 Easy Steps Get Funded In 3 Easy Steps Take the Challenge Take the Challenge Prove you",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "your journey to prop trading success. Drop us a messa",
+    "snippet": "at Equity Edge? We\u2019re here to connect. Our dedicated team is ready to assist you on your journey to prop trading success. Drop us a message, and we\u2019ll get back to you promptly. Your success is our priority, and we look forward to hearing from you soon. Email support@equityedge.io Location Ground Floor,",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Ground Floor, The Sotheby Building, Rodney Villag",
+    "snippet": "d we look forward to hearing from you soon. Email support@equityedge.io Location Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia Name Email Contact Number Company Name What is your inquiry about? Send Message Get In Touch Have questions or ready to e",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "e, Rodney Bay, Gros-Islet, Sa",
+    "snippet": "l support@equityedge.io Location Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia Name Email Contact Number Company Name What is your inquiry about? Send Message Get In Touch Have questions or ready to explore the opportunities at E",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Send Messag",
+    "snippet": "Saint Lucia Name Email Contact Number Company Name What is your inquiry about? Send Message Get In Touch Have questions or ready to explore the opportunities at Equity Edge? We\u2019re here to connect. Our dedicated team is ready to assist you on your journey t",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Equity Edge Ltd",
+    "snippet": "Affiliate Contact FAQ About Subscribe to our newsletter Send \u00a9 2025 Equity Edge Ltd All rights reserved. Terms Privacy Cookies Refund Equity Edge Ltd is registered in Saint Lucia, Company Number 2025-00306. Registered Office: Ground Floor, The",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00306",
+    "snippet": "Terms Privacy Cookies Refund Equity Edge Ltd is registered in Saint Lucia, Company Number 2025-00306. Registered Office: Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia Disclaimer Jurisdictional Disclaimer Equity Edge Ltd do",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available in jurisdictions where such offerings would violate local regulations",
+    "snippet": "ional resources for traders to develop and showcase their skills. These services are not available in jurisdictions where such offerings would violate local regulations. Payments made to access any trading evaluations are not treated as client funds and represent a participation fee for the use of our proprietary evaluation systems. R",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "restricted-countries https://equityedge",
+    "snippet": "rification-work https://equityedge.io/general/slippage https://equityedge.io/general/restricted-countries https://equityedge.io/general/policy-against-gambling-in-trading https://equityedge.io/general/giveaway-accounts-bogo-offers https://equityedge.io/instant-accounts/max-allocation-multiple-",
+    "url": "https://equityedge.io/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Restricted Countries \n Policy Against Gambling in Trading \n Giveaway Accounts & BOGO Offers",
+    "snippet": "Crypto Trading over the weekend How does the KYC verification work? Slippage Restricted Countries Policy Against Gambling in Trading Giveaway Accounts & BOGO Offers",
+    "url": "https://equityedge.io/faq/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Countries \n Policy Against Gambling in Trading \n Giveaway Accounts & BOGO Offers \n \n Get In Touch\n Have quest",
+    "snippet": "Crypto Trading over the weekend How does the KYC verification work? Slippage Restricted Countries Policy Against Gambling in Trading Giveaway Accounts & BOGO Offers Get In Touch Have questions or ready to explore the opportunities at Equity Edge Ltd? We\u2019re here to connect. Our dedicated team is ready to assist you on your journey to prop ",
+    "url": "https://equityedge.io/faq",
+    "kind": "sub"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund \n Equity Edge Ltd is registered in Saint Lucia, Company Number 2025-00306",
+    "snippet": "Send \u00a9 2025 Equity Edge Ltd All rights reserved. Terms Privacy Cookies Refund Equity Edge Ltd is registered in Saint Lucia, Company Number 2025-00306. Registered Office: Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia Disclaimer Jurisdictional Disclaimer Equity Edge Ltd do",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable",
+    "snippet": "Any fees paid to participate in our programs are not considered deposits and are non-refundable. These fees are used to cover operational costs including staffing, technology infrastructure, and ongoing development. Proprietary Trading Services All information rel",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "refunds https://equityedge",
+    "snippet": "uityedge.io/cookie-policy https://equityedge.io/privacy-policy https://equityedge.io/refunds https://equityedge.io/instant-account-contract https://equityedge.io/instant-account-policy https://equityedge.io/checkout/106 https://equityedge.io/checkout/107 https://equityedge.io/chec",
+    "url": "https://equityedge.io/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refunds \n Copy Trading Policy \n \n Get In Touch\n Have questions or ready to explore the opportunities at Equity Edge Ltd?",
+    "snippet": "Max Risk Rule Tradable Instruments, Leverage and Commissions on Instant Accounts Refunds Copy Trading Policy Get In Touch Have questions or ready to explore the opportunities at Equity Edge Ltd? We\u2019re here to connect. Our dedicated team is ready to assist you on your journey to prop trading success. Drop us a message below, and we\u2019ll get ",
+    "url": "https://equityedge.io/faq/instant-accounts",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading \n \n Get In Touch\n Have questions or ready to explore the opportunities at Equity Edge Ltd? We\u2019re here to co",
+    "snippet": "aluation Questions Funded Traders Instant Accounts Trading Rules and Guidelines News Trading Get In Touch Have questions or ready to explore the opportunities at Equity Edge Ltd? We\u2019re here to connect. Our dedicated team is ready to assist you on your journey to prop trading success. Drop us a message below, and we\u2019ll get back to you prom",
+    "url": "https://equityedge.io/faq/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading \n Prohibited Strategies on Instant Accounts \n Rule Breach Consequences \n 1% Max Risk Rule \n Tradable Instru",
+    "snippet": "m Daily Loss and Total Loss for Instant Accounts Holding Trades Over the Weekend News Trading Prohibited Strategies on Instant Accounts Rule Breach Consequences 1% Max Risk Rule Tradable Instruments, Leverage and Commissions on Instant Accounts Refunds Copy Trading Policy Get In Touch Have questions or ready to explore the opportunities a",
+    "url": "https://equityedge.io/faq/instant-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading - Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge \n \n ')\">\n Challenges \n",
+    "snippet": "News Trading - Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge ')\"> ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge NEWS TRADING Can I trade High Im",
+    "url": "https://equityedge.io/trading-rules/news-trading",
+    "kind": "page"
+   },
+   {
+    "value": "NEWS TRADING Can I trade High Impact/red folder news?\n Legacy / Swift Evaluation Challenges\n You are allowed to hold tra",
+    "snippet": "Challenges Affiliate About Contact FAQ Client Area Start Challenge NEWS TRADING Can I trade High Impact/red folder news? Legacy / Swift Evaluation Challenges You are allowed to hold trades during news events and over the weekend. However, you are not allowed to open or close a trade 2 minutes before and 2 minutes after high-impact news ev",
+    "url": "https://equityedge.io/trading-rules/news-trading",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ea\n Start Challenge\n \n ')\">\n Challenges \n Affiliate \n About \n Contact \n FAQ \n Client Area\n Start Challenge\n \n ')\">",
+    "snippet": "it | Equity Edge ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge ')\"> ')\"> 3 Simple Steps Join. Trade. Get Paid. 3 Simple Steps Join. Trade. Get Paid. Start Challenge Start Challenge $ 1 M+ Proven payouts delivered to global tr",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn Up to $300K in Funding\n Earn Up to $300K in Funding\n At Equity Edge, we offer flexible paths to funding when tradin",
+    "snippet": "Earn Up to $300K in Funding Earn Up to $300K in Funding At Equity Edge, we offer flexible paths to funding when trading CFDs. Choose from our 1-step and 2-step evaluation challenges to prove your skills, or go straight to an Instant account for immediate access to funded trading. At Equit",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "ean lines) Legacy Most Popular \n Swift Most Affordable \n Instant Quickest to Payout \n Flagship Highest Leverage \n \n 1 St",
+    "snippet": "o an Instant account for immediate access to funded trading. challenge Plan \u2013 EE (clean lines) Legacy Most Popular Swift Most Affordable Instant Quickest to Payout Flagship Highest Leverage 1 Step 2 Step Buy Now \u2013 $0 \"> challenge Plan \u2013 EE Legacy Most Popular Swift Most Affordable Instant Quickest to Payout Flagship Highest Leverage 1",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Easy Steps\n Get Funded In 3 Easy Steps\n Take the Challenge\n Take the Challenge\n Prove your trading skills by hitting pro",
+    "snippet": "Flagship 1 Step 2 Step Buy Now \u2013 $0 \"> Get Funded In 3 Easy Steps Get Funded In 3 Easy Steps Take the Challenge Take the Challenge Prove your trading skills by hitting profit targets while following clear rules. Prove your trading skills by hitting profit targets while following clear rules. Get Verified Pass a quick verification step t",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "ear rules",
+    "snippet": "the Challenge Prove your trading skills by hitting profit targets while following clear rules. Prove your trading skills by hitting profit targets while following clear rules. Get Verified Pass a quick verification step to confirm your identity and unlock fu",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "s/consequences-for-rule-violations https://equityedge.io/evaluation-questions/use-of-vpns-and-vps https://equityedge.io/funded-traders/copy-trading-policy https://equityedge.io/funded-traders/payout-process https://equityedge.io/funded-traders/multiple-accounts-policy https://equityedg",
+    "url": "https://equityedge.io/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "IP Address",
+    "snippet": "t trade has been placed on the account, then the account will be terminated. 11 \u2013 IP Address IP Address Matching The region of your IP address(es) utilized for the purchase of the Evaluation, login to our https://app.equityedge.io , the Legacy / Swift / Flagship Evaluation account, the Funded trading account and Instant account should ali",
+    "url": "https://equityedge.io/trading-rules/trading-rules-and-guidelines",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@equityedge.io",
+    "snippet": "Your success is our priority, and we look forward to hearing from you soon. Email support@equityedge.io Location Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia Name Email Contact Number Company Name What is your inquiry about",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "text, thousands separator) Most Popular Legacy Most Affordable Swift Quickest to Payout Instant Highest Leverage Flagship 1 Step 2 Step Buy Now \u2013 $0 \"> Get Funded In 3 Easy Steps Get Funded In 3 Easy Steps Take the Challenge Take",
+    "url": "https://equityedge.io/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 hours (2 business d",
+    "snippet": "time. For any payout requests made on a Sunday, the processing will start on Monday. Payouts will be processed within 48 hours (2 business days) provided all the rules and T&Cs have been complied with, the correct payment details have been provided and no additional information is required. Home Pricing",
+    "url": "https://equityedge.io/instant-accounts/minimum-profit-target-and-payout-process",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan - Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge \n \n ')\">\n Challenges \n",
+    "snippet": "Scaling Plan - Affordable Prop Trading Firm With 48-Hour Payouts & 90% Profit Split | Equity Edge ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge ')\"> ')\"> Challenges Affiliate About Contact FAQ Client Area Start Challenge SCALING PLAN Account S",
+    "url": "https://equityedge.io/instant-accounts/scaling-plan",
+    "kind": "page"
+   },
+   {
+    "value": "SCALING PLAN Account Scaling for Instant Accounts\n We do not offer any account scaling on our Instant accounts",
+    "snippet": "Challenges Affiliate About Contact FAQ Client Area Start Challenge SCALING PLAN Account Scaling for Instant Accounts We do not offer any account scaling on our Instant accounts. If you are interested in taking part in a scaling plan, we do offer this as part of our 1-Step and 2-Step Funded Accounts offering. Home Pricing Affiliate Contac",
+    "url": "https://equityedge.io/instant-accounts/scaling-plan",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan, we do offer this as part of our 1-Step and 2-Step Funded Accounts offering",
+    "snippet": "y account scaling on our Instant accounts. If you are interested in taking part in a scaling plan, we do offer this as part of our 1-Step and 2-Step Funded Accounts offering. Home Pricing Affiliate Contact FAQ About Subscribe to our newsletter Send \u00a9 2025 Equity Edge Ltd All rights reserved. Terms Privacy Cookies",
+    "url": "https://equityedge.io/instant-accounts/scaling-plan",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-verification-work https://equityedge",
+    "snippet": "o/general/crypto-trading-over-the-weekend https://equityedge.io/general/how-does-the-kyc-verification-work https://equityedge.io/general/slippage https://equityedge.io/general/restricted-countries https://equityedge.io/general/policy-against-gambling-in-trading https://equityedge.io/general/giv",
+    "url": "https://equityedge.io/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC verification work? \n Slippage \n Restricted Countries \n Policy Against Gambling in Trading \n Giveaway Accounts",
+    "snippet": "from Equity Edge Evaluation Phase Crypto Trading over the weekend How does the KYC verification work? Slippage Restricted Countries Policy Against Gambling in Trading Giveaway Accounts & BOGO Offers",
+    "url": "https://equityedge.io/faq/trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "KYC is required in order to obtain a payout",
+    "snippet": "If you miss the 14th calendar day, you will need to wait another 14 calendar days). KYC is required in order to obtain a payout. \u200b Payout requests must be submitted before 17:00 UK time. For any payout requests made on a Sunday, the processing will start on Monday. Payouts will be processed withi",
+    "url": "https://equityedge.io/instant-accounts/minimum-profit-target-and-payout-process",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "K in Funding At Equity Edge, we offer flexible paths to funding when trading CFDs. Choose from our 1-step and 2-step evaluation challenges to prove your skills, or go straight to an Instant account for immediate access to funded trading. At Equity Edge, we offer f",
+   "url": "https://equityedge.io/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "g At Equity Edge, we offer flexible paths to funding when trading CFDs. Choose from our 1-step and 2-step evaluation challenges to prove your skills, or go straight to an Instant account for immediate access to funded trading. At Equity Edge, we offer flexible pat",
+   "url": "https://equityedge.io/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "Environment Commission Fees Technical Support Handling Taxes Free Retakes Loss Payment Free Trial How to Secure Funding from Equity Edge Evaluation Phase Crypto Trading over the weekend How does the KYC verification work? Slippage Restricted Cou",
+   "url": "https://equityedge.io/faq/trading-rules"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "ep up to 90% of your gains Keep up to 90% of your gains Keep up to 90% of your gains 1 K+ Trusted by over 280,000 traders worldwide Trusted by traders countries worldwide markets",
+  "rule will result in your accounts being terminated and any pending payouts forfeited. Example You buy 4 x $100k accounts which comes to a total of $400k. You may trade 3 of these a",
+  "may trade 3 of these accounts which is within the max $300k allocation allowance. If you breach one of those 3 accounts you were trading, then only may you begin trading another $",
+  "rule will result in your accounts being terminated and any pending payouts forfeited. Example You buy 4 x $100k accounts which comes to a total of $400k. You may trade 3 of these a",
+  "may trade 3 of these accounts which is within the max $300k allocation allowance. If you breach one of those 3 accounts you were trading, then only may you begin trading another $"
+ ],
+ "errors": []
+}

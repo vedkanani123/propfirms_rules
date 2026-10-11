@@ -1,0 +1,12 @@
+{
+ "slug": "nexgen-protrader",
+ "name": "Nexgen ProTrader",
+ "category": "Futures",
+ "url": "https://nexgenprotrader.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -2] Name or service not known>"
+ ]
+}

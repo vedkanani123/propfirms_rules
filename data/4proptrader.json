@@ -1,0 +1,466 @@
+{
+ "slug": "4proptrader",
+ "name": "4PropTrader",
+ "category": "Unverified",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://4proptrader.com/en",
+  "evidence": "name+6 prop-firm signals on homepage",
+  "tried": [
+   "https://4proptrader.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://4proptrader.com/en",
+   "kind": "home",
+   "chars": 12935
+  },
+  {
+   "url": "https://4proptrader.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 58925
+  },
+  {
+   "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+   "kind": "page",
+   "chars": 23851
+  },
+  {
+   "url": "https://4proptrader.com/es/cfd/evaluation-rules-parameters-cfd",
+   "kind": "page",
+   "chars": 5036
+  },
+  {
+   "url": "https://4proptrader.com/fr/cfd/evaluation-rules-parameters-cfd",
+   "kind": "page",
+   "chars": 5211
+  },
+  {
+   "url": "https://4proptrader.com/en/cfd/evaluation-rules-parameters-cfd",
+   "kind": "page",
+   "chars": 4672
+  },
+  {
+   "url": "https://4proptrader.com/fr/futures/evaluation-rules-parameters",
+   "kind": "page",
+   "chars": 4325
+  },
+  {
+   "url": "https://4proptrader.com/de/cfd/evaluation-rules-parameters-cfd",
+   "kind": "page",
+   "chars": 4903
+  },
+  {
+   "url": "https://4proptrader.com/it/futures/evaluation-rules-parameters",
+   "kind": "page",
+   "chars": 4810
+  },
+  {
+   "url": "https://4proptrader.com/it/cfd/evaluation-rules-parameters-cfd",
+   "kind": "page",
+   "chars": 5158
+  },
+  {
+   "url": "https://4proptrader.com/ru/cfd/evaluation-rules-parameters-cfd",
+   "kind": "page",
+   "chars": 5065
+  },
+  {
+   "url": "https://4proptrader.com/ru/futures/evaluation-rules-parameters",
+   "kind": "page",
+   "chars": 4189
+  },
+  {
+   "url": "https://4proptrader.com/de/futures/evaluation-rules-parameters",
+   "kind": "page",
+   "chars": 4216
+  },
+  {
+   "url": "https://4proptrader.com/es/futures/evaluation-rules-parameters",
+   "kind": "page",
+   "chars": 4691
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 148000,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "50K Account Example) In the 1-Step Evaluation, the maximum drawdown is 6%, and the profit target is 10%. This means: Starting Account Balance: $50,000 Max Drawdown (6%): $3,000 (Account is breached if balance drops to $47,000) Profit Target (10%): $55,000 How the Drawdow",
+    "url": "https://4proptrader.com/en/cfd/evaluation-rules-parameters-cfd",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "etivo de ganancia es del 10%. Esto significa: Balance de la cuenta inicial: $50,000 Max Drawdown (6%): $3,000 (La cuenta se viola si el saldo disminuye a 47.000 d\u00f3lares) Objetivo de beneficio (10%): 55.000 d\u00f3lares C\u00f3mo se ajusta el drenaje: 1 Trader gana $500. Nuevo e",
+    "url": "https://4proptrader.com/es/cfd/evaluation-rules-parameters-cfd",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "95",
+    "snippet": "and real price action. Get Your Rewards in 48 Hours Trade From Everywhere 95% Reward-Split (8K free) All Markets Available Get Funded FREE SOFTWARE WITH EVERY ACCOUNT Futures Pick Your Starting Plan From newcome",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "10,00",
+    "snippet": "r options and carve your route to success. CFDs Plan THE BEGINNER PROGRAM $10,000 OCT66 \u20ac37.06 \u20ac109.00 30-Day Access Get Funded Includes Target: $600 Drawdown: $500 Reward Split: 95% Contracts: 1 Min. Trading Days: 5 * App-Trading",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "37.06",
+    "snippet": "ve your route to success. CFDs Plan THE BEGINNER PROGRAM $10,000 OCT66 \u20ac37.06 \u20ac109.00 30-Day Access Get Funded Includes Target: $600 Drawdown: $500 Reward Split: 95% Contracts: 1 Min. Trading Days: 5 * App-Trading, Web-Trader & 3r",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "109.00",
+    "snippet": "route to success. CFDs Plan THE BEGINNER PROGRAM $10,000 OCT66 \u20ac37.06 \u20ac109.00 30-Day Access Get Funded Includes Target: $600 Drawdown: $500 Reward Split: 95% Contracts: 1 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Party",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "600",
+    "snippet": "AM $10,000 OCT66 \u20ac37.06 \u20ac109.00 30-Day Access Get Funded Includes Target: $600 Drawdown: $500 Reward Split: 95% Contracts: 1 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Party Softwares THE BASIC PROGRAM $25,000 OCT66 \u20ac40",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "T66 \u20ac37.06 \u20ac109.00 30-Day Access Get Funded Includes Target: $600 Drawdown: $500 Reward Split: 95% Contracts: 1 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Party Softwares THE BASIC PROGRAM $25,000 OCT66 \u20ac40.46 \u20ac119.00 30-",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "ng Days: 5 * App-Trading, Web-Trader & 3rd Party Softwares THE BASIC PROGRAM $25,000 OCT66 \u20ac40.46 \u20ac119.00 30-Day Access Get Funded Includes Target: $1,500 Drawdown: $1,500 Reward Split: 95% Contracts: 3 Min. Trading Days: 5 * App-Tra",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "40.46",
+    "snippet": "p-Trading, Web-Trader & 3rd Party Softwares THE BASIC PROGRAM $25,000 OCT66 \u20ac40.46 \u20ac119.00 30-Day Access Get Funded Includes Target: $1,500 Drawdown: $1,500 Reward Split: 95% Contracts: 3 Min. Trading Days: 5 * App-Trading, Web-Trader",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "119.00",
+    "snippet": "ng, Web-Trader & 3rd Party Softwares THE BASIC PROGRAM $25,000 OCT66 \u20ac40.46 \u20ac119.00 30-Day Access Get Funded Includes Target: $1,500 Drawdown: $1,500 Reward Split: 95% Contracts: 3 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Pa",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "AM $25,000 OCT66 \u20ac40.46 \u20ac119.00 30-Day Access Get Funded Includes Target: $1,500 Drawdown: $1,500 Reward Split: 95% Contracts: 3 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Party Softwares Most Popular THE ADVANCED PROGRAM $",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "pp-Trading, Web-Trader & 3rd Party Softwares Most Popular THE ADVANCED PROGRAM $50,000 OCT66 \u20ac50.66 \u20ac149.00 30-Day Access Get Funded Includes Target: $3,000 Drawdown: $2,500 Reward Split: 95% Contracts: 5 Min. Trading Days: 5 * App-Tra",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "50.66",
+    "snippet": "rader & 3rd Party Softwares Most Popular THE ADVANCED PROGRAM $50,000 OCT66 \u20ac50.66 \u20ac149.00 30-Day Access Get Funded Includes Target: $3,000 Drawdown: $2,500 Reward Split: 95% Contracts: 5 Min. Trading Days: 5 * App-Trading, Web-Trader",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "149.00",
+    "snippet": "3rd Party Softwares Most Popular THE ADVANCED PROGRAM $50,000 OCT66 \u20ac50.66 \u20ac149.00 30-Day Access Get Funded Includes Target: $3,000 Drawdown: $2,500 Reward Split: 95% Contracts: 5 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Pa",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "t traders must pass to prove long-term viability. There are two common types: a) Static Drawdown Fixed amount below starting balance Example: $100,000 account \u2192 $95,000 minimum b) Trailing Drawdown Moves up as your balance grows Locks in profits but tigh",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "d amount below starting balance Example: $100,000 account \u2192 $95,000 minimum b) Trailing Drawdown Moves up as your balance grows Locks in profits but tightens risk Common mistake: Not adjusting position size as the drawdown trails upward. How to pass: T",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "End-of-Day",
+    "snippet": "r current drawdown threshold daily and reduce risk as your balance increases. 4. End-of-Day Drawdown (If Applicable) Some evaluations require your balance to remain above a set level at session close. This ensures traders can manage risk not just intraday, but across",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "EOD",
+    "snippet": "LES & PARAMETERS Permitted Products Authorized Trading Hours Target Pro Drawdown EOD Maximum Evaluation Accounts Permitted Products Indices : GER40, FTSE100, NQ100, WS30, S&P500, ASX200, FRA40, Nikkei225, HK50 Forex : AUD/CAD, AUD/CHF, AUD/JPY, AUD/NZD,",
+    "url": "https://4proptrader.com/en/cfd/evaluation-rules-parameters-cfd",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules (If Applied) \n Consistency rules ensure profits are not generated from one outsized day",
+    "snippet": "n play out. Consistency matters more than speed when passing a prop evaluation. 6. Consistency Rules (If Applied) Consistency rules ensure profits are not generated from one outsized day. They reinforce that the challenge is a test of repeatable execution. Purpose: To prevent \u201call-in\u201d trading behavior. Common mistake: One aggressive day s",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule in Prop Trading? How It Works and Why It Matters\n Read >> \n \n How Do Prop Firm Payouts Wo",
+    "snippet": "s. Prop Trading Taxes in Germany: How Payouts Are Taxed Read >> What Is the Consistency Rule in Prop Trading? How It Works and Why It Matters Read >> How Do Prop Firm Payouts Work? Withdrawal Rules, Speed & Requirements Explained Read >> What Is Trailing Drawdown? How It Works and How to Avoid Violations Read >> Enjoy this article?",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule in Prop Trading? How It Works and Why It Matters\n The consistency rule in prop trading is",
+    "snippet": "informational purposes James B. Read >> September 16, 2026 54 0 What Is the Consistency Rule in Prop Trading? How It Works and Why It Matters The consistency rule in prop trading is a payout eligibility requirement that James B. Read >> September 01, 2026 75 0 How Do Prop Firm Payouts Work? Withdrawal Rules, Speed & Requirements Explained",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "monthly",
+    "snippet": "les 2026-10-10T11:20:35+02:00 monthly 0.7 https://4proptrader.com/en/blog/prop-firm-payout 2026-10-10T20:08:47+02:00 monthly 0.7 https://4proptrader.com/en/blog/prop-trading-taxes-germany 2026-10-09T09:36:35+02:00 monthly 0.7 https://4proptrader.com/en/blog/risk-management-on-trading 2026-10",
+    "url": "https://4proptrader.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "PayPal",
+    "snippet": "pat on the back. $2 RT - Zero fees in evaluation Access rapid futures rewards with PayPal No limit to the number of futures trading evaluation accounts Enjoy a 95% reward split. You retain 100% of the first $8,000 in rewards. We work with the best futures",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "First Payout Secured! Fast, Smooth, No Stress Smooth payouts, great support, and crypto options? I\u2019m sold. Time to get your 4Prop account! Honestly, I wasn\u2019t expecting it to be this quick. Hey there, my name is Dawar \u2014 and look what just came",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "usdc",
+    "snippet": "med-money 2026-08-27T12:37:32+02:00 monthly 0.6 https://4proptrader.com/de/glossary/usdc 2026-08-27T12:37:32+02:00 monthly 0.6 https://4proptrader.com/de/glossary/utility 2026-08-27T12:37:32+02:00 monthly 0.6 https://4proptrader.com/de/glossary/value-propo",
+    "url": "https://4proptrader.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "onthly 0.6 https://4proptrader.com/fr/glossary/qsbs-actions-qualifiees-petite-entreprise 2026-09-11T13:20:31+02:00 monthly 0.6 https://4proptrader.com/fr/glossary/range-moyenne-vraie-atr 2026-09-11T13:20:31+02:00 monthly 0.6 https://4proptrader.com/fr/glos",
+    "url": "https://4proptrader.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "ASIC",
+    "snippet": "1 Min. Trading Days: 5 * App-Trading, Web-Trader & 3rd Party Softwares THE BASIC PROGRAM $25,000 OCT66 \u20ac40.46 \u20ac119.00 30-Day Access Get Funded Includes Target: $1,500 Drawdown: $1,500 Reward Split: 95% Contracts: 3 Min. Trading Days: 5 * App-Trading, Web-Trad",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "ving the barrier of needing large personal funds upfront. Plans start at $10,000 and scale up to $250,000, with a 95% profit split and payouts within 48 hours. Achievements You Trade. We Fund Our platform in numbers \u2014 built for traders, powered by results. 0 Funded Accounts 0 Funded amount 0 Rec",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "des executed Why Choose Us? Built for Traders. Designed for Results. Master the markets in a virtual environment and access rapid rewards with a transparent reward split. Because great simulated futures trading deserves more than just a pat on the back. $2 RT - Zero fees in evaluation Access rapid futures rewards with PayPal No limit",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "y paid to participate. Unlike personal trading, challenges often place traders in unfamiliar mental territory. You are trading under observation, following rules you must respect at all times, knowing that one mistake can end the evaluation instantly. Why Pressure Feels Higher",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Trading Glossa",
+    "snippet": "CFDs Learn FAQ FAQ Futures FAQ CFDs FAQ Futures FAQ CFDs Blog Trading Glossary Position Size Calculator Contact EN English Deutsch Espa\u00f1ol Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Italiano Login Join Now EN English Deutsch Espa\u00f1ol",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Risk percentag",
+    "snippet": "ator Account balance \u24d8 Your current trading account balance. e.g. $10,000 Risk percentage \u24d8 Most traders risk between 0.5% - 2% per trade Stop loss (pips) \u24d8 Distance between your entry price and stop loss in pips. This defines your trade risk. Pi",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Get Your Profits Quickly and Sa",
+    "snippet": "k professional advice before making any trading decisions. Proudly Rewarded Get Your Profits Quickly and Safely Futures Basics Is Futures Trading Profitable? Futures trading can be highly profitable, but it demands discipline, a proven strategy, and",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "s discipline, a proven strategy, and solid risk manag",
+    "snippet": "Futures Trading Profitable? Futures trading can be highly profitable, but it demands discipline, a proven strategy, and solid risk management. The leverage inherent in futures amplifies both gains and losses, meaning undercapitalized or underprepared traders can blow accounts quickly. Consistently profita",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "ement. The leverag",
+    "snippet": "highly profitable, but it demands discipline, a proven strategy, and solid risk management. The leverage inherent in futures amplifies both gains and losses, meaning undercapitalized or underprepared traders can blow accounts quickly. Consistently profitable futures trader",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "When you buy a futures contract, you ag",
+    "snippet": "hievable, but it's earned, not guaranteed. How does Futures Trading Work? When you buy a futures contract, you agree to purchase an asset at a fixed price on a specific date. When you sell, you agree to deliver it. In practice, most retail traders never hold contracts to expiration",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "fixed price on a specific date. When you sell, you ag",
+    "snippet": "Trading Work? When you buy a futures contract, you agree to purchase an asset at a fixed price on a specific date. When you sell, you agree to deliver it. In practice, most retail traders never hold contracts to expiration \u2014 they close positions before settlement to capture the price difference. Profits a",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "losses are calculated in ticks, the smallest price inc",
+    "snippet": "they close positions before settlement to capture the price difference. Profits and losses are calculated in ticks, the smallest price increment of a contract, and your account is marked to market daily. How to Start Futures Trading? Start by learning the fundamentals: how contracts work, what tick v",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policies \n AML Policies \n Cookie Policy \n Disclaimer \n \n \n \n \n 2026 All rights reserved - 4PropTrader\n \n \n \n 4Pro",
+    "snippet": "s and Conditions Partner Terms Imprint Risk Disclosure Privacy Policy Refund Policies AML Policies Cookie Policy Disclaimer 2026 All rights reserved - 4PropTrader 4PropTrader provides demo accounts with fictitious funds for simulated trading only. Clients may earn monetary rewards based on their performance through such demo account. Read",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policies yearly 0",
+    "snippet": "early 0.3 https://4proptrader.com/en/privacy yearly 0.3 https://4proptrader.com/en/refund-policies yearly 0.3 https://4proptrader.com/en/risk-disclosure yearly 0.3 https://4proptrader.com/en/terms yearly 0.3 https://4proptrader.com/en/trading-affiliate-program monthly 0.8",
+    "url": "https://4proptrader.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refund Policies \n AML Policies \n Cookie Policy \n Disclaimer \n \n \n \n \n 2026 Todos los derechos reservados \u00b7 4PropTrader\n ",
+    "snippet": "s and Conditions Partner Terms Imprint Risk Disclosure Privacy Policy Refund Policies AML Policies Cookie Policy Disclaimer 2026 Todos los derechos reservados \u00b7 4PropTrader 4PropTrader ofrece cuentas demo con fondos ficticios exclusivamente para trading simulado. Los clientes pueden recibir recompensas monetarias basadas en su rendimiento",
+    "url": "https://4proptrader.com/es/cfd/evaluation-rules-parameters-cfd",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policies \n AML Policies \n Cookie Policy \n Disclaimer \n \n \n \n \n 2026 Tous droits r\u00e9serv\u00e9s - 4PropTrader\n \n \n \n 4Pr",
+    "snippet": "s and Conditions Partner Terms Imprint Risk Disclosure Privacy Policy Refund Policies AML Policies Cookie Policy Disclaimer 2026 Tous droits r\u00e9serv\u00e9s - 4PropTrader 4PropTrader fournit des comptes de d\u00e9monstration avec des fonds fictifs pour le trading simul\u00e9 uniquement. Les clients peuvent recevoir des r\u00e9compenses mon\u00e9taires en fonction d",
+    "url": "https://4proptrader.com/fr/cfd/evaluation-rules-parameters-cfd",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading limitations or execution timing rules",
+    "snippet": "6. Avoid Rule-Based Traps Many traders fail by overlooking restrictions such as news trading limitations or execution timing rules. These are part of the core rules that firms require traders to follow. Ignoring them \u2014 even unintentionally \u2014 can end a challenge instantly, regardless of profitabili",
+    "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn\n FAQ\n FAQ Futures\n \n FAQ CFDs\n \n FAQ Futures\n FAQ CFDs\n \n \n Blog\n \n Trading Glossary\n \n Position Size Calculator",
+    "snippet": "Futures CFDs Partner Program How It Works Futures CFDs Learn FAQ FAQ Futures FAQ CFDs FAQ Futures FAQ CFDs Blog Trading Glossary Position Size Calculator Contact EN English Deutsch Espa\u00f1ol Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Italiano Login Join Now EN English Deutsch Espa\u00f1ol Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Italiano",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eal price action",
+    "snippet": ", or currencies at a future date. No ownership, no fluff. Just you, the market, and real price action. Get Your Rewards in 48 Hours Trade From Everywhere 95% Reward-Split (8K free) All Markets Available Get Funded FREE SOFTWARE WITH EVERY ACCOUN",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "easoned traders, we offer an account that fits your level",
+    "snippet": "Futures Pick Your Starting Plan From newcomers to seasoned traders, we offer an account that fits your level. Discover your options and carve your route to success. CFDs Plan THE BEGINNER PROGRAM $10,000 OCT66 \u20ac37.06 \u20ac109.00 30-Day Access Get Funded Include",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "ease seek professional advice before making any trading decisions",
+    "snippet": "t $0.00 Risk per contract $0.00 Disclaimer Actual results may vary. Please seek professional advice before making any trading decisions. Proudly Rewarded Get Your Profits Quickly and Safely Futures Basics Is Futures Trading Profitable? Futures trading can be highly pro",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "both gains and losses, meaning undercapitalized or underprepared traders can blow accounts quickly",
+    "snippet": "oven strategy, and solid risk management. The leverage inherent in futures amplifies both gains and losses, meaning undercapitalized or underprepared traders can blow accounts quickly. Consistently profitable futures traders treat it as a business \u2014 they define risk per trade, follow a structured plan, and review performance regularly. Pr",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "T13:20:31+02:00 monthly 0.6 https://4proptrader.com/es/glossary/valor-presente-neto-vpn-npv 2026-09-11T13:20:31+02:00 monthly 0.6 https://4proptrader.com/es/glossary/vela-japonesa-candlestick 2026-09-11T13:20:31+02:00 monthly 0.6 https://4proptrader.com/es/glossary/volatilidad 2026-09-11T13:20:",
+    "url": "https://4proptrader.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 48 hours",
+    "snippet": "pfront. Plans start at $10,000 and scale up to $250,000, with a 95% profit split and payouts within 48 hours. Achievements You Trade. We Fund Our platform in numbers \u2014 built for traders, powered by results. 0 Funded Accounts 0 Funded amount 0 Rec",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 hours it was approv",
+    "snippet": "Fast, Smooth, Zero Stress The speed shocked me, in a good way. I requested my first payout, and within 48 hours it was approved and the cash hit my account.",
+    "url": "https://4proptrader.com/en",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "trade manually unless the firm explicitly allows automation. If you pass the evaluation, you move one step closer to a funded account. Passing these rules shows the firm that traders can operate professionally. Ultimately, the goal is not just to pass a test, but to",
+   "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "vs Paid Challenges: Mental Trade-Offs The mindset differs between evaluations. While firms offer free challenges as a low-risk entry point, traders often take them less seriously. On the other hand, paid challenges introduce emotional attachment because real money is inv",
+   "url": "https://4proptrader.com/en/blog/prop-firm-challenge-rules"
+  }
+ ],
+ "platforms": [
+  "Quantower",
+  "Rithmic",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Silver",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

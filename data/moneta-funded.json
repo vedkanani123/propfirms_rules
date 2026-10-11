@@ -1,0 +1,12 @@
+{
+ "slug": "moneta-funded",
+ "name": "Moneta Funded",
+ "category": "Forex/CFD",
+ "url": "https://monetafunded.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

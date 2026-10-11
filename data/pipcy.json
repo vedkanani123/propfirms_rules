@@ -1,0 +1,581 @@
+{
+ "slug": "pipcy",
+ "name": "Pipcy",
+ "category": "Specialist",
+ "url": "https://pipcy.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://pipcy.com/",
+   "kind": "home",
+   "chars": 13707
+  },
+  {
+   "url": "https://pipcy.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 9764
+  },
+  {
+   "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+   "kind": "page",
+   "chars": 22066
+  },
+  {
+   "url": "https://pipcy.com/de/challenges/pips-mastery",
+   "kind": "page",
+   "chars": 9763
+  },
+  {
+   "url": "https://pipcy.com/ru/challenges/pips-mastery",
+   "kind": "page",
+   "chars": 9814
+  },
+  {
+   "url": "https://pipcy.com/tr/challenges/growth",
+   "kind": "page",
+   "chars": 8965
+  },
+  {
+   "url": "https://pipcy.com/id/challenges/pips-mastery",
+   "kind": "page",
+   "chars": 9070
+  },
+  {
+   "url": "https://pipcy.com/pt/challenges/classic",
+   "kind": "page",
+   "chars": 9099
+  },
+  {
+   "url": "https://pipcy.com/hi/challenges/pips-mastery",
+   "kind": "page",
+   "chars": 8672
+  },
+  {
+   "url": "https://pipcy.com/ar/challenges/classic",
+   "kind": "page",
+   "chars": 7834
+  },
+  {
+   "url": "https://pipcy.com/pt/challenges/growth",
+   "kind": "page",
+   "chars": 9231
+  },
+  {
+   "url": "https://pipcy.com/tr/challenges/classic",
+   "kind": "page",
+   "chars": 8942
+  },
+  {
+   "url": "https://pipcy.com/en/client/checkoutlogin?challengeId=83&promoCode=SPOOKY47",
+   "kind": "page",
+   "chars": 13
+  },
+  {
+   "url": "https://pipcy.com/en/client/new-challenge?challenge_scope=freetrial",
+   "kind": "page",
+   "chars": 13
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 126966,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "18",
+    "snippet": "CLASSIC PIPS MASTERY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get P",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "itions you must satisfy to pass a challenge and receive funding. The core five are a profit target (commonly 5% to 10%), a maximum drawdown (5% to 12%), a daily loss limit (3% to 5%), a minimum of trading days, and a consistency rule. All apply at once; breaching one usually ends",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "Step vs Two-Step Evaluation Rules A one-step evaluation has a single phase with one profit target, typically 8% to 10%, and gets you funded faster. A two-step evaluation splits the process into two phases with a lower second target, usually 4% to 5%, to confirm the result was repe",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "FTMO Funding Pips The5ers Feature Max Overall Loss 12% (Absolute) 10% (Relative) Daily Drawdown None 5% (Strict) Profit Share Up to 100% Up to 90% Entry Price From $23 From ~$165 Unique Advantage PIPs-Based Mastery Institutional Model Scaling Potential Up to $3,000",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "ore five are a profit target (commonly 5% to 10%), a maximum drawdown (5% to 12%), a daily loss limit (3% to 5%), a minimum of trading days, and a consistency rule. All apply at once; breaching one usually ends the attempt. Almost every failed evaluation I have reviewed come",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "12",
+    "snippet": "enges PIPCY CLASSIC PIPS MASTERY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Tradi",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "lenge and receive funding. The core five are a profit target (commonly 5% to 10%), a maximum drawdown (5% to 12%), a daily loss limit (3% to 5%), a minimum of trading days, and a consistency rule. All apply at once; breaching one usually ends the attempt. Almost every failed",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "ne goal: helping traders succeed and rewarding them for that. High Returns Up to 100% Performance Split Keep more of what you earn. PIPCY rewards disciplined traders with higher performance splits as you grow and scale. Fast Payouts Fast Rewards Receive your trading rew",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12",
+    "snippet": "PCY CLASSIC PIPS MASTERY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $3",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "RY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "75",
+    "snippet": "2% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18%",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "2% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily DrawDown No News Trading Allowed Get Plan Best Value Account Size $ 10K $119 $63.07 Max Loss 12% Pro",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "t $317 Daily DrawDown No News Trading Allowed Get Plan Best Value Account Size $ 10K $119 $63.07 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $300K Payout Process Within 48 Hours Avg. First Payout $709",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "2% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $300K Payout Process Within 48 Hours Avg. First Payout $709 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 25K $229 $121.37 Max Loss 12% Profit Target",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "First Payout $709 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 25K $229 $121.37 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $750K Payout Process Within 48 Hours Avg. First Payout $1,",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "750",
+    "snippet": "2% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $750K Payout Process Within 48 Hours Avg. First Payout $1,512 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 50K $369 $195.57 Max Loss 12% Profit Targe",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "irst Payout $1,512 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 50K $369 $195.57 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $1.5M Payout Process Within 48 Hours Avg. First Payout $2,",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "irst Payout $2,226 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 100K $675 $357.75 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $3M Payout Process Within 48 Hours Avg. First Payout $3,82",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "3",
+    "snippet": "Pipcy | Prop Trading Firm | Scale Funded Accounts up to $3M 47% OFF Spooky Offer \u00b7 SPOOKY47 Click to copy Claim offer \u203a Home Academy NEW Challenges Pips Mastery Challenge Pip-based evaluation Pipcy Classic Percentage-base",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "st PIP-based evaluation, backed by a 12% maximum loss limit. 1264 + Active Traders $5.3 M+ Total Rewards 47 Countries up to 100 % Reward Share Get Pipcy Challenge Free Trial Get Pipcy Challenge Free Trial 24/7 Live Support 1264 + Active Traders $5.3",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "ustry \u2014 up to 12%. Choose between 1-Step or 2-Step Challenges Scale accounts up to $3,000,000 12% Maximum Loss No Daily Drawdown Limit Available assets: Forex, indices, commodities, and crypto Start a Challenge Mastery Pips Mastery Turn your trading p",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "ormance rather than account balance. Choose between X2 or X3 Challenges Earn up to $400 per PIP No Over-Leverage Risk Track performance in PIPs, not dollars Available assets: 28 Forex pairs only Start a Challenge Classic PIPCY Classic Trade with fl",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "KY47 All Pipcy Challenges PIPCY CLASSIC PIPS MASTERY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $14",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "l Pipcy Challenges PIPCY CLASSIC PIPS MASTERY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "21.20",
+    "snippet": "pcy Challenges PIPCY CLASSIC PIPS MASTERY 1-STEP 2-STEP Account Size $ 2.5K $40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDow",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "2% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "149",
+    "snippet": "p to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Acc",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "71",
+    "snippet": "Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "37.63",
+    "snippet": "out $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily DrawDo",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "2% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily DrawDown No News Trading Allowed Get Plan Best Value Account Size $ 10K $119 $63.07 Max Loss 12% Pr",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "s is where most evaluations are actually lost, so the detail matters. Static versus trailing maximum drawdown. A static limit sits a fixed distance below your starting balance and never moves, so your breach level is one number you can calculate on day one. A traili",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "static",
+    "snippet": "you can state from memory before your first trade. Pipcy's are short by design: one static loss limit, a 3-day minimum, no daily or trailing drawdown, news trading allowed, a split that scales to 100%, and payout requests processed within 48 hours of approval. Star",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule Time Limits Restricted Strategies and Trading Conditions One-Step vs Two-Step Evaluation",
+    "snippet": "Evaluation Rules? Profit Targets Drawdown Limits Minimum Trading Days The Prop Firm Consistency Rule Time Limits Restricted Strategies and Trading Conditions One-Step vs Two-Step Evaluation Rules What Happens If You Break a Rule Pipcy's Evaluation Rules Trade an Evaluation With Rules You Can Actually Read Frequently Asked Questions Prop f",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "rawdown (5% to 12%), a daily loss limit (3% to 5%), a minimum of trading days, and a consistency rule. All apply at once; breaching one usually ends the attempt. Almost every failed evaluation I have reviewed comes down to the same thing. The trader understood the profit",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule: how evenly your profit must be spread\n On top of those sit restricted-strategy clauses,",
+    "snippet": "ingle-day loss you cannot exceed Minimum trading days: how long you must be active Consistency rule: how evenly your profit must be spread On top of those sit restricted-strategy clauses, which vary the most between firms. Profit Targets The profit target is the percentage gain you must reach to pass. Single-phase evaluations typically re",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule , often capping single-day profit at 20% to 30% of the total, or applying tighter conditi",
+    "snippet": "miss. Firms advertising zero minimum trading days usually compensate with a stricter consistency rule , often capping single-day profit at 20% to 30% of the total, or applying tighter conditions after funding. You rarely escape the \"prove it is repeatable\" requirement, you just meet it through a different rule. When comparing firms, read ",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule\n A consistency rule caps how much of your total profit may come from a single trading day",
+    "snippet": "least one position; a few require a closed trade or a minimum volume. The Prop Firm Consistency Rule A consistency rule caps how much of your total profit may come from a single trading day, most commonly 30%, with some firms using 40% or 45% and stricter firms 20%. It prevents a trader from passing on one oversized winner. Breaching it c",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, if you need $10,000 in profit to pass, no single day may contribute more than $3,000 of",
+    "snippet": "ng even if the profit target was reached. Here is how it works in practice. On a 30% consistency rule, if you need $10,000 in profit to pass, no single day may contribute more than $3,000 of it. Make $5,000 on one day and you must keep trading until your total profit is large enough that the big day falls under 30%, which in that example ",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account U",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Monthly",
+    "snippet": "and Deductions Oct 09, 2026 How Prop Firm Payouts Work: Profit Splits, Timing, and Withdrawals Oct 08, 2026 Prop Trader Earnings: Realistic Monthly Income, the Math Behind It, and How Long a Living Takes Oct 07, 2026 Prop Firm Evaluation Rules: Profit Targets, Drawdown Limits, Trading Days, and Consistency Oct 06",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "um Loss No Daily Drawdown Limit Available assets: Forex, indices, commodities, and crypto Start a Challenge Mastery Pips Mastery Turn your trading performance into rewards based on PIPs. This unique program rewards consistent traders who focus on performa",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "ing in other jurisdictions will contract with Conquest Services Limited, unless otherwise specified. Payments may be processed and settled by Rogano Limited, either as a paying agent on behalf of Conquest Services Limited or as the service provider, dependin",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Pipcy | Prop Trading Firm | Scale Funded Accounts up to $3M 47% OFF Spooky Offer \u00b7 SPOOKY47 Click to copy Claim offer \u203a Home Academy NEW Challenges Pips Mastery Challenge Pip-based evaluation Pipcy Classic Percentage-based challenge Growth Plan Scale your funded account Education Pipcy Academy Fre",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "ooky Offer \u00b7 SPOOKY47 Click to copy Claim offer \u203a Home Academy NEW Challenges Pips Mastery Challenge Pip-based evaluation Pipcy Classic Percentage-based challenge Growth Plan Scale your funded account Education Pipcy Academy Free trading education Pipcy Video Hub Weekly market analysis & forecasts Blog Trading insights & news Resources Tr",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "bei allen Trades. Zwei klare Optionen: Mastery X2 (500 Pips) oder X3 (750 Pips). Einfache, strukturierte Regeln ohne t\u00e4glichen Drawdown. Skalierbare Lotgr\u00f6\u00dfen bei Fortschritt durch gef\u00f6rderte Level. Leistung basierend auf Netto-Pips \u2014 keine dollarbasierten Kennzahlen. Feste Lotgr\u00f6\u00dfen gew\u00e4hrleisten kon",
+    "url": "https://pipcy.com/de/challenges/pips-mastery",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Percentag",
+    "snippet": "Academy NEW Challenges Pips Mastery Challenge Pip-based evaluation Pipcy Classic Percentage-based challenge Growth Plan Scale your funded account Education Pipcy Academy Free trading education Pipcy Video Hub Weekly market analysis & forecasts Blog T",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "NEW INC",
+    "snippet": "traders to focus on strategy, execution, and skill rather than account size. NEW INCLUDED WITH EVERY ACCOUNT Pipcy Academy: learn to trade, free A complete trading education comes free with every Pipcy account: video courses, e-books, a glossary and calc",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "video courses, e-books, a glossa",
+    "snippet": "arn to trade, free A complete trading education comes free with every Pipcy account: video courses, e-books, a glossary and calculators, ready the moment you sign up. Video Courses 18 courses \u00b7 130+ lessons E-Books 10 books Trading Glossary 290+ terms Calculators 5 tools What'",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trading Glossa",
+    "snippet": "e moment you sign up. Video Courses 18 courses \u00b7 130+ lessons E-Books 10 books Trading Glossary 290+ terms Calculators 5 tools What's inside Start Learning for Free Free with every Pipcy account. Nothing expires. Choose One of Our Programs Select one of",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "No Over-Leverag",
+    "snippet": "than account balance. Choose between X2 or X3 Challenges Earn up to $400 per PIP No Over-Leverage Risk Track performance in PIPs, not dollars Available assets: 28 Forex pairs only Start a Challenge Classic PIPCY Classic Trade with flexible rules and scale yo",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Every challenge inc",
+    "snippet": "First Payout $3,820 Daily DrawDown No News Trading Allowed Get Plan Show More Every challenge includes the full Pipcy Academy : courses, e-books, glossary and calculators, free. Trade With MetaTrader 5 From advanced charting with 21 timeframes to multi-asset acce",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "courses, e-books, glossa",
+    "snippet": "g Allowed Get Plan Show More Every challenge includes the full Pipcy Academy : courses, e-books, glossary and calculators, free. Trade With MetaTrader 5 From advanced charting with 21 timeframes to multi-asset access, and depth of market, MT5 gives you complete control",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ules, and demonstrate the consistency needed to manag",
+    "snippet": "ket conditions. Step 2 Pass the Challenge Hit the profit targets, stay within the rules, and demonstrate the consistency needed to manage professional capital. Step 3 Get Rewarded Once verified, trade with confidence and earn up to 100% of your trading performance. Rewards are processed within 48 hours.",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2026-00145",
+    "snippet": "Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia, with company registration number 2026-00145, provides the simulated trading services and the MT5 simulated trading environment made available through this website. Office location: Ground Floor, 10 Spyridonos Lamp",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Jurisdictions: Pipcy does not offer services to residents of jurisdictions where such services would be unlaw",
+    "snippet": "simulated performance and do not represent profits generated through real trading. Restricted Jurisdictions: Pipcy does not offer services to residents of jurisdictions where such services would be unlawful or would expose Pipcy or its service providers to legal or regulatory risk, including, without limitation, Russia, Myanmar, North Kor",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund",
+    "snippet": "assing until the condition is satisfied. Most firms offer a paid reset rather than a refund. The distinction is worth internalising: Hard breaches (account ends): maximum drawdown, daily loss limit, prohibited strategies. Soft breaches (passing is delayed): m",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "refunded, though many firms offer a discounted reset",
+    "snippet": "not yet satisfied, time limit still running. If you fail, the evaluation fee is not refunded, though many firms offer a discounted reset. Treat a first failed attempt as tuition rather than a verdict, and diagnose which rule ended it before buying another. For the pattern behind most failures, see why mos",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed \n Get Plan \n Account Size\n $ 5K\n $71 $37",
+    "snippet": "t Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily Dra",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed \n Get Plan \n Best Value\n Account Size\n $ 10K\n $119 $63",
+    "snippet": "Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily DrawDown No News Trading Allowed Get Plan Best Value Account Size $ 10K $119 $63.07 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $300K Payout Process Within 48 Hours Avg. First Payout $709 Daily Dra",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed \n Get Plan \n Account Size\n $ 25K\n $229 $121",
+    "snippet": "Up to $300K Payout Process Within 48 Hours Avg. First Payout $709 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 25K $229 $121.37 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $750K Payout Process Within 48 Hours Avg. First Payout $1,512 Daily D",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed \n Get Plan \n Account Size\n $ 50K\n $369 $195",
+    "snippet": "p to $750K Payout Process Within 48 Hours Avg. First Payout $1,512 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 50K $369 $195.57 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $1.5M Payout Process Within 48 Hours Avg. First Payout $2,226 Daily D",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Earn commissions\n \n About Us Register Client area EN \n 24/7 Live Support Where Great Traders Are Made Great Traders Dese",
+    "snippet": "dar Economic Calendar Live forex events FAQ Common questions Affiliate Program Earn commissions About Us Register Client area EN 24/7 Live Support Where Great Traders Are Made Great Traders Deserve To Be Rewarded Pips Mastery: the first PIP-based evaluation, with a 12% max loss limit. Start your journey with Pips Mastery, the industry's f",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured In \n \n \n Why Choose PIPCY We built Pipcy around one goal: helping traders succeed and rewarding them for that",
+    "snippet": "4 + Active Traders $5.3 M+ Total Rewards 47 Countries up to 100 % Reward Share As Featured In Why Choose PIPCY We built Pipcy around one goal: helping traders succeed and rewarding them for that. High Returns Up to 100% Performance Split Keep more of what you earn. PIPCY rewards disciplined traders with higher performance splits as you gr",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn",
+    "snippet": "g them for that. High Returns Up to 100% Performance Split Keep more of what you earn. PIPCY rewards disciplined traders with higher performance splits as you grow and scale. Fast Payouts Fast Rewards Receive your trading rewards quickly and reliably.",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "easures performance in PIPs, allowing traders to focus on strategy, execution, and skill rather than account size",
+    "snippet": "focus on trading. Multi-Currency The Pips Mastery Challenge Our unique challenge measures performance in PIPs, allowing traders to focus on strategy, execution, and skill rather than account size. NEW INCLUDED WITH EVERY ACCOUNT Pipcy Academy: learn to trade, free A complete trading education comes free with every Pipcy account: video cou",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn to trade, free A complete trading education comes free with every Pipcy account: video courses, e-books, a glossary",
+    "snippet": "ill rather than account size. NEW INCLUDED WITH EVERY ACCOUNT Pipcy Academy: learn to trade, free A complete trading education comes free with every Pipcy account: video courses, e-books, a glossary and calculators, ready the moment you sign up. Video Courses 18 courses \u00b7 130+ lessons E-Books 10 books Trading Glossary 290+ terms Calculato",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Within 48 Hours Avg",
+    "snippet": "ofit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDown No News Trading Allowed Get Plan Account Size $ 5K $71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up",
+    "url": "https://pipcy.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 hours of approval R",
+    "snippet": "mum trading days 3 3 News trading Allowed Allowed Profit split Up to 100% Up to 100% Payout Requests processed within 48 hours of approval Requests processed within 48 hours of approval Removing the daily drawdown and the trailing drawdown takes away the two rules that most commonly end otherwise-successful e",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "within 48 hours of approval",
+    "snippet": "o daily or trailing drawdown, news trading allowed, a split that scales to 100%, and payout requests processed within 48 hours of approval. Start with Pipcy Classic or Pips Mastery , both with free Pipcy Academy access. Frequently Asked Questions What are the main prop firm evaluation rules? The five cor",
+    "url": "https://pipcy.com/blog/proprietary-trading/prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "count faster. Enjoy one of the highest drawdown limits in the industry \u2014 up to 12%. Choose between 1-Step or 2-Step Challenges Scale accounts up to $3,000,000 12% Maximum Loss No Daily Drawdown Limit Available assets: Forex, indices, commodities, and crypto St",
+   "url": "https://pipcy.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "er. Enjoy one of the highest drawdown limits in the industry \u2014 up to 12%. Choose between 1-Step or 2-Step Challenges Scale accounts up to $3,000,000 12% Maximum Loss No Daily Drawdown Limit Available assets: Forex, indices, commodities, and crypto Start a Chal",
+   "url": "https://pipcy.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "+ Active Traders $5.3 M+ Total Rewards 47 Countries up to 100 % Reward Share Get Pipcy Challenge Free Trial Get Pipcy Challenge Free Trial 24/7 Live Support 1264 + Active Traders $5.3 M+ Total Rewards 47 Countries up to 100 % Reward Share As Featured In W",
+   "url": "https://pipcy.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "first PIP-based evaluation, backed by a 12% maximum loss limit. 1264 + Active Traders $5.3 M+ Total Rewards 47 Countries up to 100 % Reward Share Get Pipcy Challenge Free Trial",
+  "e Free Trial Get Pipcy Challenge Free Trial 24/7 Live Support 1264 + Active Traders $5.3 M+ Total Rewards 47 Countries up to 100 % Reward Share As Featured In Why Choose",
+  "$40 $21.20 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $75K Payout Process Within 48 Hours Avg. First Payout $149 Daily DrawDo",
+  "$71 $37.63 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $150K Payout Process Within 48 Hours Avg. First Payout $317 Daily DrawDo",
+  "$119 $63.07 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $300K Payout Process Within 48 Hours Avg. First Payout $709 Daily DrawDo",
+  "229 $121.37 Max Loss 12% Profit Target 18% Min Trading Days 3 Profit Split Up to 100% Funded Account Up to $750K Payout Process Within 48 Hours Avg. First Payout $1,512 Daily Draw"
+ ],
+ "errors": []
+}

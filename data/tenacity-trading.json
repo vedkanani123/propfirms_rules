@@ -1,0 +1,26 @@
+{
+ "slug": "tenacity-trading",
+ "name": "Tenacity Trading",
+ "category": "Futures",
+ "url": "https://tenacitytrading.co/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tenacitytrading.co/",
+   "kind": "home",
+   "chars": 46
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 46,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

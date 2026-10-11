@@ -1,0 +1,12 @@
+{
+ "slug": "vision-trade-forex",
+ "name": "Vision Trade Forex",
+ "category": "Forex/CFD",
+ "url": "https://visiontradeforex.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:404:http-404"
+ ]
+}

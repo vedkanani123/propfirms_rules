@@ -1,0 +1,680 @@
+{
+ "slug": "funding-traders",
+ "name": "Funding Traders",
+ "category": "Forex/CFD",
+ "url": "https://fundingtraders.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundingtraders.com/",
+   "kind": "home",
+   "chars": 20188
+  },
+  {
+   "url": "https://fundingtraders.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1512
+  },
+  {
+   "url": "https://fundingtraders.com/help/en/articles/13224028-payout-guarantee",
+   "kind": "page",
+   "chars": 1678
+  },
+  {
+   "url": "https://fundingtraders.com/help/en/",
+   "kind": "page",
+   "chars": 1198
+  },
+  {
+   "url": "https://fundingtraders.com/help/en/collections/4864125-account-types-and-important-trading-guidelines",
+   "kind": "page",
+   "chars": 1225
+  },
+  {
+   "url": "https://fundingtraders.com/partners-terms-of-service",
+   "kind": "page",
+   "chars": 30170
+  },
+  {
+   "url": "https://fundingtraders.com/terms-of-service",
+   "kind": "page",
+   "chars": 50522
+  },
+  {
+   "url": "https://fundingtraders.com/prop-trading-payouts",
+   "kind": "page",
+   "chars": 8500
+  },
+  {
+   "url": "https://fundingtraders.com/contact-us",
+   "kind": "page",
+   "chars": 3918
+  },
+  {
+   "url": "https://fundingtraders.com/refund-policy",
+   "kind": "page",
+   "chars": 5696
+  },
+  {
+   "url": "https://fundingtraders.com/help/en/",
+   "kind": "sub",
+   "chars": 1198
+  },
+  {
+   "url": "https://fundingtraders.com/help/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 6970
+  }
+ ],
+ "page_count": 12,
+ "total_chars": 132786,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "3",
+    "snippet": "Schedule One-Time Fee $400,000 Account Start Trading $2,349 $ 1,175 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trad",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "One-Time Fee $200,000 Account Start Challenge $1,250 $625 One-time Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Loss 10% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $8,041 Avg. Reward $100,000",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "e One-Time Fee $200,000 Account Start Challenge $799 $400 One-time Refundable Fee Profit Target Phase 1: 6% Phase 2: 6% Daily Loss 3% Max Loss 6% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $5,893 Avg. Reward $100,000",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "Fee $400,000 Account Start Trading $2,349 $ 1,175 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trad",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "Challenge $1,250 $625 One-time Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Loss 10% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $8,041 Avg. Reward $100,000 Account Start Challenge",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "Account Start Trading $2,349 $ 1,175 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "50 $625 One-time Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Loss 10% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $8,041 Avg. Reward $100,000 Account Start Challenge $750 $375 One",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "81",
+    "snippet": "Traders \ud83c\udfaeChallenge Mode or Cheat Code. | Use Code CHALLENGE or INSTANT | Claim Up To 81% OFF! \u00d7 Home Payouts Partners Prop Firm Prop Trading Trader Funding Prop Firm Tools Clarity FT Intel Economic Calendar Calculators CEO Brief FAQ Rules Log in Sign Up 53,000+ Accounts Fund",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $675 One-time Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days N",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "oss 5% Max Loss 10% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $8,041 Avg. Reward $100,000 Account Start Challenge $750 $375 One-time Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Los",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ules \u2014 including news trading with restrictions, no consistency score on PRO6/PRO10 (50% on 1-Step PRO), and a default payout schedule of every 21 days (14-day available as add-on). Instant Account gives you immediate access to capital with no challenge and a higher default Reward Share (90%),",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "O: Challenge Phase - 10% 2-STEP: PRO6: Phase 1 \u2013 6%, Phase 2 \u2013 6% PRO10: Phase 1 \u2013 10%, Phase 2 \u2013 5% IF: Not Applicable; payout tied to profitable days and compliance. 4.2 Leverage All Programs (2-STEP PRO6 / 2-STEP PRO10 / 1-STEP PRO / IF): FX Majors: 1:50, FX Exotics: 1:30, Indices: 1:15, Met",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "60",
+    "snippet": "of comparable setups carrying a planned reward below 0.9x Planned Risk, or more than 60% of Payout Period profit derived from such setups. The first detection on a user profile is a warning only, carrying no strike and no status placement. A second detection places a",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "2",
+    "snippet": "e on Challenge Phase) IF: $6/lot roundtrip for all instruments, except Indices 4.5 Minimum Trading Days 2-STEP PRO6 / 2-STEP PRO10 Phase 1: 4 days Phase 2: 4 days Funded: 2 days 1-STEP PRO: Phase1: 2 days Funded: 2 days 4.6 Minimum Trades Requirement All Programs: None",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "10",
+    "snippet": "t target to see how the numbers could work. Explore Accounts Account Size $100,000 $10K $25K $50K $100K $200K Profit Rate 4.8% 0 30% Potential Profit $4,800.00 Adal Basharat Being able to scale up to 2 million worth of funding is every trader's dream.",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "get to see how the numbers could work. Explore Accounts Account Size $100,000 $10K $25K $50K $100K $200K Profit Rate 4.8% 0 30% Potential Profit $4,800.00 Adal Basharat Being able to scale up to 2 million worth of funding is every trader's dream. The",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "o see how the numbers could work. Explore Accounts Account Size $100,000 $10K $25K $50K $100K $200K Profit Rate 4.8% 0 30% Potential Profit $4,800.00 Adal Basharat Being able to scale up to 2 million worth of funding is every trader's dream. The more",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "how the numbers could work. Explore Accounts Account Size $100,000 $10K $25K $50K $100K $200K Profit Rate 4.8% 0 30% Potential Profit $4,800.00 Adal Basharat Being able to scale up to 2 million worth of funding is every trader's dream. The more capita",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "he numbers could work. Explore Accounts Account Size $100,000 $10K $25K $50K $100K $200K Profit Rate 4.8% 0 30% Potential Profit $4,800.00 Adal Basharat Being able to scale up to 2 million worth of funding is every trader's dream. The more capital, the",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "heck the Terms of Use to learn more about the rules before You start trading. Up-To $400K In Funding Reward Protection Bonus Reset and Revive Accounts Get Funded Now Funding Successful Traders world wide Company Home Payouts Partners CEO Brief FAQs & Ru",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,00",
+    "snippet": "scord Rules Reward Protection Avg. Payout Time Instant Support Instant Funded $1,000 <24 Hours <1 Minute Available Others Not Available 3-5 Days 6 Hours Not Available Transparent and Verified By Verified Partner 4.9 4.6 4.9 Why Traders L",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "tional benefits when eligible payouts take longer than the stated processing window. $500 in cash, $500 in credits. View Reward Terms Payout Tracker. In Real Time. Every Payout Verifiable. 48 Hours or Less - with Reward Protection. View Latest Payouts 2",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400,00",
+    "snippet": "ays Risk Per Trade Reward Share Consistency Score Payout Schedule One-Time Fee $400,000 Account Start Trading $2,349 $ 1,175 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consiste",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,34",
+    "snippet": "Consistency Score Payout Schedule One-Time Fee $400,000 Account Start Trading $2,349 $ 1,175 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,17",
+    "snippet": "stency Score Payout Schedule One-Time Fee $400,000 Account Start Trading $2,349 $ 1,175 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9,83",
+    "snippet": "Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $675 One-time Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1%",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "ward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $675 One-time Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100%",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,34",
+    "snippet": "core 15% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $675 One-time Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Sc",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "675",
+    "snippet": "% Payout Schedule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $675 One-time Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,62",
+    "snippet": "Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $5,621 Avg. Reward $100,000 Account Start Trading $749 $375 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "ward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $5,621 Avg. Reward $100,000 Account Start Trading $749 $375 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency S",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "749",
+    "snippet": "core 15% Payout Schedule 7 Days $5,621 Avg. Reward $100,000 Account Start Trading $749 $375 One-time Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Day",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "ial account balance 1-STEP PRO: 10% fixed from the highest recorded balance IF: 6% trailing drawdown until 3% profit is reached, then locked 5.3 Maximum Risk: 2-STEP PRO6 / 2-STEP PRO10 / 1-STEP PRO: Planned Risk on a single Trade Idea equal to or exceeding 50% of the",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency requirements (Section 6",
+    "snippet": "y status, including maximum drawdown (Section 5.2), daily loss limits (Section 5.1), consistency requirements (Section 6.1), and the news trading conditions (Section 5.4). 6.3.13 Discretion and appeals. The Company determines at its reasonable discretion whether conduct falls within this",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "anytime",
+    "snippet": "me. Every Payout Verifiable. 48 Hours or Less - with Reward Protection. View Latest Payouts 24/7 Trading Now Available Trade anytime, anywhere, on your clock. Start Trading US100 SILVER GOLD US500 WTI Real Human Support < 30 Seconds Fast Replies, Whatever You Ask, Everywhere Contact Support View",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 21 days",
+    "snippet": "o 100% available. On 1-Step PRO, 2-Step PRO6, and 2-Step PRO10 accounts, the default payout schedule is every 21 days, with a 14-day payout schedule available as an add-on. On Instant Accounts, payouts can be requested every 14 days. Withdraw via Crypto (USDT, min $50) or bank transfer",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": "21 days, with a 14-day payout schedule available as an add-on. On Instant Accounts, payouts can be requested every 14 days. Withdraw via Crypto (USDT, min $50) or bank transfer via Rise (min $200). Your evaluation fee is refunded with your first payout. What is the difference between Instan",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "nstitutional Grade Prop Firm Clear and Simple Rules. Fast 48-Hour Payouts. Zero Surprises Instant Funded 2-Step 1-Step Get Funded Now Join Our Discord Rules Reward Protection Avg. Payout Time Instant Support Instant Funded $1,000 <24 Hours <1 Minut",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "dashboard, select your account, and choose how you want to receive your funds \u2014 via Crypto or Rise. Once approved, we\u2019ll process your payout! How to contact customer support? To contact our customer support, please either email us on help@fundingtraders.com",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "n. On Instant Accounts, payouts can be requested every 14 days. Withdraw via Crypto (USDT, min $50) or bank transfer via Rise (min $200). Your evaluation fee is refunded with your first payout. What is the difference between Instant Account and Evaluation Ac",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "unts, payouts can be requested every 14 days. Withdraw via Crypto (USDT, min $50) or bank transfer via Rise (min $200). Your evaluation fee is refunded with your first payout. What is the difference between Instant Account and Evaluation Accounts? Evaluation account",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "ution Removal If a qualifying purchase is refunded, charged back, reversed, or otherwise canceled, FundingTraders may: cancel the related commission reverse previously approved commission deduct the amount from future payouts remove the trader\u2019s attribut",
+    "url": "https://fundingtraders.com/partners-terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "Profit Rate 4.8% 0 30% Potential Profit $4,800.00 Adal Basharat Being able to scale up to 2 million worth of funding is every trader's dream. The more capital, the better return with less percentages. Yunes Guerinal Even if I have difficulties with my language, they helped me a lot as much as they could.",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "e 3-5 Days 3 Hours None $450 None The Blueprint 50,000+ Funded Traders Used Master Prop Trading How to Pass Your Challenge First Time Most traders fail the same way. This guide shows you exactly how - so you don't. What's Inside Risk Management Plan for Prop Trading Why retail traders fail and how to think like an institution",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "limit order execution parameters provided by liquidity providers and market makers. CFTC Rules 4.41 Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also,",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "e more capital, the better return with less percentag",
+    "snippet": "arat Being able to scale up to 2 million worth of funding is every trader's dream. The more capital, the better return with less percentages. Yunes Guerinal Even if I have difficulties with my language, they helped me a lot as much as they could. CJ Clarke Shoutout to FundingTraders to being the m",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Guerinal Even if I have difficulties with my languag",
+    "snippet": "rader's dream. The more capital, the better return with less percentages. Yunes Guerinal Even if I have difficulties with my language, they helped me a lot as much as they could. CJ Clarke Shoutout to FundingTraders to being the most influential, accessible and lifechanging prop firms out there.",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "t helped me is their strong clear focus on risk manag",
+    "snippet": "influential, accessible and lifechanging prop firms out there. Bhuwan Ghole What helped me is their strong clear focus on risk management and consistency. Gerad Gomez I started with 50K and I scaled it up to 150K account. Thanks for the program and support. Get Funded Now < > Pie",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "the sa",
+    "snippet": "-time access to institutional order positioning, COT bias, and smart money reports \u2014 the same intelligence that moves markets, delivered directly to your dashboard. Get FT Intel Access The Difference Is Obvious Not All Prop Firms Are Created Equal - Some Ar",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The Difference Is Obv",
+    "snippet": "nce that moves markets, delivered directly to your dashboard. Get FT Intel Access The Difference Is Obvious Not All Prop Firms Are Created Equal - Some Are Just Better Features Reward Protection Avg. Payout Time Support Response Instant Account $100k Account Tradin",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Most traders fail the sa",
+    "snippet": "00+ Funded Traders Used Master Prop Trading How to Pass Your Challenge First Time Most traders fail the same way. This guide shows you exactly how - so you don't. What's Inside Risk Management Plan for Prop Trading Why retail traders fail and how to think like an insti",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Risk Manag",
+    "snippet": "l the same way. This guide shows you exactly how - so you don't. What's Inside Risk Management Plan for Prop Trading Why retail traders fail and how to think like an institutional trader Bonus: Done-for-you Trading Plan Template Built On Real Data Over 10",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Human Support Live Chat, WhatsA",
+    "snippet": "50K+ Members Join Our Discord 30K+ Subscribers Subscribe on YouTube Online 24/7 Human Support Live Chat, WhatsApp or Email - our 24/7 in-house team is here to help so you can focus on trading and not worry about anything else. Chat With Us Start WhatsApp Chat E-mail help@funding",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00298",
+    "snippet": "ach, FL 33139, United States. Funding Traders Group Ltd., a Saint Lucia corporation (Company No. 2025-00298), is located at The Sotheby Building, Ground Floor, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia. FT US Inc and Funding Traders Group Ltd. provide the simulated t",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted-countries-for-fundingtraders-services 2026-07-14T03:27:37Z https://fundingtraders",
+    "snippet": "5-09-09T08:41:45Z https://fundingtraders.com/help/en/articles/10505376-are-there-any-restricted-countries-for-fundingtraders-services 2026-07-14T03:27:37Z https://fundingtraders.com/help/en/articles/10695893-is-news-trading-allowed-old 2025-04-29T05:48:28Z https://fundingtraders.com/help/en/articles/11383098-instant-funding-old-v1 2026-10",
+    "url": "https://fundingtraders.com/help/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min",
+    "snippet": "ule 7 Days $9,834 Avg. Reward $200,000 Account Start Trading $1,349 $675 One-time Refundable Fee Profit Target None Daily Loss 3% Max Loss 6% Min. Trading Days None Risk Per Trade 1% Reward Share 90%-100% Consistency Score 15% Payout Schedule 7 Days $5,621 Avg. Reward $100,000 Account Start Trading $749 $375 On",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable One-Time Fee\n $200,000\n Account\n Start Challenge $1,250 $625 One-time Refundable Fee Profit Target Phase 1: 1",
+    "snippet": "ly Loss Max Loss Min. Trading Days Risk Per Trade Reward Share Payout Schedule Refundable One-Time Fee $200,000 Account Start Challenge $1,250 $625 One-time Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Loss 10% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Loss 10% Min",
+    "snippet": "14-21 Days $8,041 Avg. Reward $100,000 Account Start Challenge $750 $375 One-time Refundable Fee Profit Target Phase 1: 10% Phase 2: 5% Daily Loss 5% Max Loss 10% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $4,681 Avg. Reward $50,000 Account Start Challenge $430 $215 One-time",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable One-Time Fee\n $200,000\n Account\n Start Challenge $799 $400 One-time Refundable Fee Profit Target Phase 1: 6% ",
+    "snippet": "ly Loss Max Loss Min. Trading Days Risk Per Trade Reward Share Payout Schedule Refundable One-Time Fee $200,000 Account Start Challenge $799 $400 One-time Refundable Fee Profit Target Phase 1: 6% Phase 2: 6% Daily Loss 3% Max Loss 6% Min. Trading Days 4 Risk Per Trade 2% (Funded Only) Reward Share 80%-100% Payout Schedule 14-21 Days $5,89",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading with restrictions, no consistency score on PRO6/PRO10 (50% on 1-Step PRO), and a default payout schedule of",
+    "snippet": "e you to pass a challenge first but come with more flexible funded rules \u2014 including news trading with restrictions, no consistency score on PRO6/PRO10 (50% on 1-Step PRO), and a default payout schedule of every 21 days (14-day available as add-on). Instant Account gives you immediate access to capital with no challenge and a higher defau",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "news trading, a 15% consistency score, a 3% non-withdrawable safety cushion, and payouts every 14 days",
+    "snippet": "challenge and a higher default Reward Share (90%), but tighter rules \u2014 including no news trading, a 15% consistency score, a 3% non-withdrawable safety cushion, and payouts every 14 days. What are the news trading rules? News trading rules depend on your account type. On Instant Funded accounts, news trading is not allowed \u2014 opening, clos",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "news trading rules?\n News trading rules depend on your account type",
+    "snippet": "core, a 3% non-withdrawable safety cushion, and payouts every 14 days. What are the news trading rules? News trading rules depend on your account type. On Instant Funded accounts, news trading is not allowed \u2014 opening, closing, or holding positions within the restricted window around high-impact news events is a Hard B",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "news trading is not allowed \u2014 opening, closing, or holding positions within the restricted window around high-impact new",
+    "snippet": "rules? News trading rules depend on your account type. On Instant Funded accounts, news trading is not allowed \u2014 opening, closing, or holding positions within the restricted window around high-impact news events is a Hard Breach. On 1-Step, 2-Step PRO6, and 2-Step PRO10 accounts, news trading is unrestricted during the challenge phase. On",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eat Code",
+    "snippet": "Forex Funded Trading Prop Firm | FundingTraders \ud83c\udfaeChallenge Mode or Cheat Code. | Use Code CHALLENGE or INSTANT | Claim Up To 81% OFF! \u00d7 Home Payouts Partners Prop Firm Prop Trading Trader Funding Prop Firm Tools Clarity FT Intel Economic Calendar",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear and Simple Rules",
+    "snippet": "FAQ Rules Log in Sign Up 53,000+ Accounts Funded Institutional Grade Prop Firm Clear and Simple Rules. Fast 48-Hour Payouts. Zero Surprises Instant Funded 2-Step 1-Step Get Funded Now Join Our Discord Rules Reward Protection Avg. Payout Time Instant Support Instan",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn About Reset \n Institutional Feed - Live FT Intel Trade Like Smart Money - Powered by AI \n Get FT Intel Access Learn",
+    "snippet": "allenge? Keep Grinding with 60% Off Reset Phase 1 for 60% Reset Phase 2 for 130% Learn About Reset Institutional Feed - Live FT Intel Trade Like Smart Money - Powered by AI Get FT Intel Access Learn more \u2192 Reward Protection Your payout. With added protection. Our Reward Protection program provides additional benefits when eligible payouts",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Time",
+    "snippet": "sing window. $500 in cash, $500 in credits. View Reward Terms Payout Tracker. In Real Time. Every Payout Verifiable. 48 Hours or Less - with Reward Protection. View Latest Payouts 24/7 Trading Now Available Trade anytime, anywhere, on your clock. Start Tra",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Human Support < 30 Seconds\n Fast Replies, Whatever You Ask, Everywhere\n Contact Support View help center \u2192 \n Real Li",
+    "snippet": "rade anytime, anywhere, on your clock. Start Trading US100 SILVER GOLD US500 WTI Real Human Support < 30 Seconds Fast Replies, Whatever You Ask, Everywhere Contact Support View help center \u2192 Real Live Payouts Date/Time Name Amount Country Account Type Account Size View Payout Live Tracker 3 Steps to Get Started 1. Sign Up Choose your fund",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "not limited to: IP similarity device fingerprint matches payment method overlap VPN or proxy usage referral traffic source paid ads referrer detection abnormal referral patterns unusual conversion behavior account clustering suspicious purchase patterns coordinated payout behavior from attributed traders These checks are used to protect t",
+    "url": "https://fundingtraders.com/partners-terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "allow others to use their account and may not use any other FundingTraders account. IP addresses, device IDs, and behavioral data maps will be used by the automated risk system as a basis for determining unauthorized trading activity. All users must be contactable on the telephone number and email provided during verification at any time ",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "help@fundingtraders.com",
+    "snippet": "trading and not worry about anything else. Chat With Us Start WhatsApp Chat E-mail help@fundingtraders.com 50+ Support Team Members Frequently Asked Questions What account types do you offer? Traders can choose between 2-step PRO6/PRO10, 1-step, and Instant Account. Head",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "partners@fundingtraders.com",
+    "snippet": "page, or traffic source is permitted, they must contact FundingTraders in advance at partners@fundingtraders.com to request written clarification or authorization. Paid advertising violations may result in: frozen commissions revoked commissions suspension of partner access pe",
+    "url": "https://fundingtraders.com/partners-terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "accounts@fundingtraders.com",
+    "snippet": "ation has been issued in error may appeal by replying to the notice or by contacting accounts@fundingtraders.com . The Company aims to review appeals within forty-eight (48) hours of receipt. Submission of an appeal does not suspend the payout schedule in Section 7.1 or any other p",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "support@fundingtraders.com",
+    "snippet": "he specified cancellation period, the user must contact our customer support team at support@fundingtraders.com and provide the following information: Full name Account Number Date of purchase Reason for requesting the refund Refund Process Upon receiving a valid refund requ",
+    "url": "https://fundingtraders.com/refund-policy",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "unded 2-Step 1-Step Get Funded Now Join Our Discord Rules Reward Protection Avg. Payout Time Instant Support Instant Funded $1,000 <24 Hours <1 Minute Available Others Not Available 3-5 Days 6 Hours Not Available Transparent and Verified By Verified Partne",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 2 business days\n Janu",
+    "snippet": "lections Additional Account, Profile, and Trading Guidelines Payout Guarantee Payout Guarantee Get $1,000 when your payout is not processed within 2 business days January 30, 2026 Table of contents *Applies to payout requests requested on December 24, 2025 and onwards The payout guarantee to is ensure that funded traders rec",
+    "url": "https://fundingtraders.com/help/en/articles/13224028-payout-guarantee",
+    "kind": "page"
+   },
+   {
+    "value": "within 2 business days (not",
+    "snippet": "ers, we understand the importance of receiving timely payouts with no hassle. The Payout Guarantee Payout requests will be processed within 2 business days (not including holidays and weekends) \u200b If not, you will receive $1,000: $500 cash to be processed through the same payout request method $500 in account credits that can b",
+    "url": "https://fundingtraders.com/help/en/articles/13224028-payout-guarantee",
+    "kind": "page"
+   },
+   {
+    "value": "within 3 business days of su",
+    "snippet": "reached the minimum payout threshold and met all verification requirements. Approved payout requests are processed within 3 business days of submission. 8.3 KYC Requirement Partner identity verification may be required before any payout request is processed. FundingTraders may request KYC, identification, or",
+    "url": "https://fundingtraders.com/partners-terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "within 48 hours of a payout r",
+    "snippet": "Only) First 3% profit serves as drawdown buffer Not withdrawable 7.5 Breach During Payout Processing If an account fails within 48 hours of a payout request, the payout will be denied. The account will then be reinstated, and the payout amount will be credited back to the account balance. 8. General Compliance Replic",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:1",
+    "snippet": "Majors: 1:50, FX Exotics: 1:30, Indices: 1:15, Metals: 1:20, Oil: 1:10, Commodities: 1:1, Crypto: 1:1 Leverage on accounts placed on a Discipline Program status is capped as set out in Section 6.3.7, which overrides this clause for as long as that status is in force. 4.3 Lot Siz",
+    "url": "https://fundingtraders.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC verification and receive your funded account",
+    "snippet": "tting a profit target without breaching drawdown limits. Once you pass, you complete KYC verification and receive your funded account. At FundingTraders, you can choose a 1-Step, 2-Step PRO6, or 2-Step PRO10 evaluation, or skip the challenge entirely with Instant Funded. How do prop firm payouts work?",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC) \n Margin trading involves a high level of risk and is not suitable for everyone",
+    "snippet": "ms Partners ToS Privacy Refunds Withdrawal Anti-Money Laundering Know Your Customer (KYC) Margin trading involves a high level of risk and is not suitable for everyone. You should carefully consider your objectives, financial situation, needs, and level of experience before entering into any margined transactions with FT US Inc and Fun",
+    "url": "https://fundingtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC and Identity mismatch\n Additional information requested by the team regarding trading activities\n Additional",
+    "snippet": "Tuesday Ineligibility for payout guarantee Delays due to wrong payout method KYC and Identity mismatch Additional information requested by the team regarding trading activities Additional assessment needed to be performed by the team due to KYC and Risk flags Third-party payout processor down times Related Articles 2-Step Pro 8 (No longer",
+    "url": "https://fundingtraders.com/help/en/articles/13224028-payout-guarantee",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ndingTraders Clarity Desk Discipline Program Main Challenges 2-Step Pro 1-Step Pro Try Out Account Instant Funding Reset Reset Account Feature Revive Revive account feature Payment Types Standard Payment Program Add-Ons All Add-Ons Archives 1-Step PRO6, PRO8, PRO10 (No",
+   "url": "https://fundingtraders.com/help/en/collections/4864125-account-types-and-important-trading-guidelines"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "rade Prop Firm Clear and Simple Rules. Fast 48-Hour Payouts. Zero Surprises Instant Funded 2-Step 1-Step Get Funded Now Join Our Discord Rules Reward Protection Avg. Payout Time Instant Support Instant Funded $1,000 <24 Hours <1 Minute Available Others",
+   "url": "https://fundingtraders.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "ional Grade Prop Firm Clear and Simple Rules. Fast 48-Hour Payouts. Zero Surprises Instant Funded 2-Step 1-Step Get Funded Now Join Our Discord Rules Reward Protection Avg. Payout Time Instant Support Instant Funded $1,000 <24 Hours <1 Minute Available",
+   "url": "https://fundingtraders.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "ive Payouts Date/Time Name Amount Country Account Type Account Size View Payout Live Tracker 3 Steps to Get Started 1. Sign Up Choose your funded challenge and take the first step toward trading independence. 2. Start Trading Pass the objectives, prove yo",
+   "url": "https://fundingtraders.com/"
+  },
+  {
+   "name": "Swing",
+   "snippet": "v1) Elite and Apex Funded Trader Program (Invite-Only) Legacy Accounts (No longer available) 1-Step Swing Account (No longer available) Access Accounts (No longer available) 2-Step Swing Account (No longer available) 2-Step Pro 8 (No longer available) 30% Profit News Tradi",
+   "url": "https://fundingtraders.com/help/en/collections/4864125-account-types-and-important-trading-guidelines"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "TradeLocker"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "TRYFT",
+   "context": "yout Schedule 14 Days $236 Avg. Reward Your First Challenge Half the Price - 50% OFF Use code TRYFT at checkout 50% off your first funded challenge TRYFT Copy"
+  },
+  {
+   "code": "PRO10",
+   "context": "ble funded rules \u2014 including news trading with restrictions, no consistency score on PRO6/PRO10 (50% on 1-Step PRO), and a default payout schedule of every 21 days (14-day available as"
+  }
+ ],
+ "claims": [
+  "r Funding Prop Firm Tools Clarity FT Intel Economic Calendar Calculators CEO Brief FAQ Rules Log in Sign Up 53,000+ Accounts Funded Institutional Grade Prop Firm Clear and Simple Rule",
+  "rops Reset Intel Protection Payouts 24/7 Trading Ft DroPs Drop #001: Infinity \u221e Limited time challenge where 100 traders get Infinite Resets and no Minimum Trading Days. Join the",
+  "\u201390% by default at FundingTraders, with upgrades to 100% available. On 1-Step PRO, 2-Step PRO6, and 2-Step PRO10 accounts, the default payout schedule is every 21 days, with a 14-da",
+  "the restricted window around high-impact news events is a Hard Breach. On 1-Step, 2-Step PRO6, and 2-Step PRO10 accounts, news trading is unrestricted during the challenge phase. O",
+  "counts, news trading is unrestricted during the challenge phase. On funded 1-Step, 2-Step PRO6, and 2-Step PRO10 accounts, you may not open or close trades within 2 minutes of high-",
+  "your total profits \u2014 15% on Instant Accounts and 50% on 1-Step PRO funded accounts. 2-Step PRO6 and 2-Step PRO10 accounts do not have a consistency score requirement. Exceeding the"
+ ],
+ "errors": []
+}

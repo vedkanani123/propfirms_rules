@@ -1,0 +1,571 @@
+{
+ "slug": "top-one-futures",
+ "name": "Top One Futures",
+ "category": "Futures",
+ "url": "https://toponefutures.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.toponefutures.com/",
+   "kind": "home",
+   "chars": 23860
+  },
+  {
+   "url": "https://www.toponefutures.com/coupon-code-pricing",
+   "kind": "page",
+   "chars": 7492
+  },
+  {
+   "url": "https://www.toponefutures.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 10430
+  },
+  {
+   "url": "https://www.toponefutures.com/contact-us",
+   "kind": "page",
+   "chars": 3221
+  },
+  {
+   "url": "https://help.toponefutures.com/en/",
+   "kind": "sub",
+   "chars": 1272
+  },
+  {
+   "url": "https://help.toponefutures.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 14702
+  },
+  {
+   "url": "https://faq.toponefutures.com/",
+   "kind": "sub",
+   "chars": 6263
+  },
+  {
+   "url": "https://faq.toponefutures.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 11799
+  }
+ ],
+ "page_count": 8,
+ "total_chars": 79046,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "60",
+    "snippet": "nts 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD) $1,000 Daily Loss Limit $500 Start with 25K 60% OFF w. Code: WC One Time Fee MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $87 60% OFF Evaluation rules Funded rules Profit Target $",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "get 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD) $1,000 Daily Loss Limit $500 Start with 25K 50% OFF w. Code: MYSTERY Monthly payment MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $109 50% OFF Evaluation rules Funded rules Profit",
+    "url": "https://www.toponefutures.com/coupon-code-pricing",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "60",
+    "snippet": "mini (10 micros) Max Accounts 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD) $1,000 Daily Loss Limit $500 Start with 25K 60% OFF w. Code: WC One Time Fee MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $87 60% OFF Evaluation rules Funded rules Profit Target $",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "mini (10 micros) Profit Target 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD) $1,000 Daily Loss Limit $500 Start with 25K 50% OFF w. Code: MYSTERY Monthly payment MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $109 50% OFF Evaluation rules Funded rules Profit",
+    "url": "https://www.toponefutures.com/coupon-code-pricing",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "50",
+    "snippet": "e and Elite Daily w. WC LIVE NOW ON THE LAUNCHPAD LIVE NOW \u00b7 LAUNCHPAD 50% OFF LAUNCHPAD X-ULTRA has launched 5x Payout Cap, No Buffers, No Consistency on Funded 1,500 of 1,500 accounts left 50% OFF with code LAUNCHPAD Explore Launchpad \u2192 Choose Your Account Choose the perfect",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "60",
+    "snippet": "lite Daily 60% Off Elite Access INSTANT Sim Funded IGNITE Instant Funding 60% Off Average Payout for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawd",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "cles \u2192 Ignite Accounts In This Category Ignite Accounts Overview Ignite Accounts: 15% Consistency Rule Ignite Accounts: Payout Requirements View all 3 articles \u2192 Trading Rules In This Category Path to Trading Live Daily Drawdown: What You Need to Know Prohibited Trading Practices Maximum Cont",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "d IGNITE Instant Funding 60% Off Average Payout for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "oss Limit $500 Start with 25K 60% OFF w. Code: WC One Time Fee MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $87 60% OFF Evaluation rules Funded rules Profit Target $3,000 Max Drawdown (EOD) $2,000 Daily loss limit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "0 Daily Loss Limit $1,000 Start with 50K 60% OFF w. Code: WC One Time Fee $100K Evaluation Daily Payouts No Activation Fee $398 $159 60% OFF Evaluation rules Funded rules Profit Target $6,000 Max Drawdown (EOD) $3,000 Daily loss limit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "00 Daily Loss Limit $1,250 Start with 100K 60% OFF w. Code: WC One Time Fee $150K Evaluation Daily Payouts No Activation Fee $549 $220 60% OFF Evaluation rules Funded rules Profit Target $9,000 Max Drawdown (EOD) $4,500 Daily loss limit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "450",
+    "snippet": "One Futures. Top Rated Futures Firm on Amount of capital $ 200,000 $25K $450K Monthly profit rate 4.8 % 0% 20% Monthly profit $36,000 Annual profit $432,000 Thank you! Your submission has been received! Oops! Something went wron",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "39",
+    "snippet": "Current) Japanese (Current) Log in Start trading now NEW Elite Access Just $39 each Pass in One Day Lowest cost when buying 2+ Unlimited $35 resets Limited time offer Copy trade up to 20 accounts 20% off Activation Fees Pay after pass",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "35",
+    "snippet": "ccess Just $39 each Pass in One Day Lowest cost when buying 2+ Unlimited $35 resets Limited time offer Copy trade up to 20 accounts 20% off Activation Fees Pay after passing - activation fee only No Consistency on Evaluation Lowest all-in c",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "4/7 Support < 60 second support times < 12 Hour average payout times Trade up to $3M in simulated funds. Daily Payouts, 20 Account Copy Trading 2.0 , and the lowest price Instant Funding all available at Top One Futures. ELITE ACCESS EXCLUSIVE ELIT",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "948",
+    "snippet": "m Funded IGNITE Instant Funding 60% Off Average Payout for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "d IGNITE Instant Funding 60% Off Average Payout for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "178",
+    "snippet": "for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activ",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "71",
+    "snippet": "ite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "o Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3 5 Payout Frequency Daily",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3 5 Payout Frequency Daily! Consistency None! Ma",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "66",
+    "snippet": "rofit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD)",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "oss Limit $500 Start with 25K 60% OFF w. Code: WC One Time Fee MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $87 60% OFF Evaluation rules Funded rules Profit Target $3,000 Max Drawdown (EOD) $2,000 Daily loss limit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "ayouts $419 $230 45% OFF Funded rules Evaluation rules Daily Loss Limit $625 Trailing max drawdown $1,000 Drawdown mode End of day Max contracts 1 mini (10 micros) Consistency 20% Max Accounts 3 5 Daily Loss Limit $625 Trailing max drawdown $1,0",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "End of day",
+    "snippet": "luation rules Daily Loss Limit $625 Trailing max drawdown $1,000 Drawdown mode End of day Max contracts 1 mini (10 micros) Consistency 20% Max Accounts 3 5 Daily Loss Limit $625 Trailing max drawdown $1,000 Drawdown mode End of day Max contracts 1 m",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule, reset after each payout",
+    "snippet": "asked questions What Are The Payout Requirements? Payout targets, just like the consistency rule, reset after each payout. \u200d 1st Payout: Achieve 6% profit of your starting balance \u200d 2nd Payout: Achieve 5% profit of your starting balance \u200d 3rd Payout and beyond : Achieve 4% profit of your",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule and create a profit on your account of $6,000 (6%)",
+    "snippet": "unded account, in order to qualify for your first payout, you'll need to achieve the consistency rule and create a profit on your account of $6,000 (6%). In order to request your second payout, you'll need to create another $5,000 in profit (5%). In order to request your third payout, you'll need to create another $4,000",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule in Elite Sim Funded Accounts Explained View all 10 articles \u2192 \n Instant Sim Funded Accoun",
+    "snippet": "lite Sim Funded Account Reset Explained Understanding the Drawdown in Elite Accounts Consistency Rule in Elite Sim Funded Accounts Explained View all 10 articles \u2192 Instant Sim Funded Accounts In This Category Overview of the Instant Sim Funded Program Trailing Drawdown on Instant Sim Funded Accounts: How It Works Instant Sim Funded Accoun",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   },
+   {
+    "value": "Consistency Rule in Instant Sim Funded Accounts Explained Are There Contract Scaling Requirements in the I",
+    "snippet": "nt Sim Funded Accounts: How It Works Instant Sim Funded Account: Payout Requirements Consistency Rule in Instant Sim Funded Accounts Explained Are There Contract Scaling Requirements in the Instant Sim Funded Program? View all 5 articles \u2192 Ignite Accounts In This Category Ignite Accounts Overview Ignite Accounts: 15% Consistency Rule Igni",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   },
+   {
+    "value": "Consistency Rule Ignite Accounts: Payout Requirements View all 3 articles \u2192 \n Trading Rules In This Catego",
+    "snippet": "\u2192 Ignite Accounts In This Category Ignite Accounts Overview Ignite Accounts: 15% Consistency Rule Ignite Accounts: Payout Requirements View all 3 articles \u2192 Trading Rules In This Category Path to Trading Live Daily Drawdown: What You Need to Know Prohibited Trading Practices Maximum Contracts Explained Minimum Trade Time Rule Explained Vi",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "ff Elite Access INSTANT Sim Funded IGNITE Instant Funding 60% Off Average Payout for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,00",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Anytime",
+    "snippet": "option Simple with no hidden rules End of day Allowed Included Afer 3 payouts Anytime option Less than 12 hours on average 24/7 live chat or email Less than 60 seconds average Other prop firms Evaluation required Vague and hard to find Of",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "weekly",
+    "snippet": "ries/account-billing-and-eligibility weekly https://faq.toponefutures.com/categories/payouts weekly https://faq.toponefutures.com/categories/trading-platforms weekly https://faq.toponefutures.com/categories/affiliates weekly https://faq.toponefutures.com/categories/dis",
+    "url": "https://faq.toponefutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "tps://help.toponefutures.com/en/articles/15472196-important-payout-update-a-verified-rise-account-is-now-required 2026-10-02T14:44:00Z https://help.toponefutures.com/en/articles/16150794-elite-access-activation-fees-explained 2026-10-01T20:33:06Z https://help",
+    "url": "https://help.toponefutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "ount size to match your trading goals . Whether you're starting small or aiming big, scale your funds with flexibility and confidence. Elite Daily 60% Off Elite Access INSTANT Sim Funded IGNITE Instant Funding 60% Off Average Payout for Elite Daily account: $948 $25K Evaluation Daily",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "tart trading now Best coaches in the industry Learn and become the best Master psychology Advanced risk management Futures 101 Algorithmic trading insights Entry & exit strategies Day trading techniques Join 11,000+ traders in our discord community Join Discord Server Join Discord Server Frequently asked questions What Are The Pa",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Select your preferred languag",
+    "snippet": "ll platforms w. CFDs FAQs EN EN PT JA Log in EN Start trading now Select your preferred language English (Current) Portuguese (Current) Japanese (Current) Log in Start trading now NEW Elite Access Just $39 each Pass in One Day Lowest cost wh",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "averag",
+    "snippet": "morrow. 5,000+ 5-Star Reviews 24/7 Support < 60 second support times < 12 Hour average payout times Trade up to $3M in simulated funds. Daily Payouts, 20 Account Copy Trading 2.0 , and the lowest price Instant Funding all available at Top One Futures.",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Less than 12 hours on averag",
+    "snippet": "en rules End of day Allowed Included Afer 3 payouts Anytime option Less than 12 hours on average 24/7 live chat or email Less than 60 seconds average Other prop firms Evaluation required Vague and hard to find Often intraday Mostly prohibited Figure",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Less than 60 seconds averag",
+    "snippet": "s Anytime option Less than 12 hours on average 24/7 live chat or email Less than 60 seconds average Other prop firms Evaluation required Vague and hard to find Often intraday Mostly prohibited Figure it out on your own Vague or not available Bi-weekly or mon",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Advanced risk manag",
+    "snippet": "Best coaches in the industry Learn and become the best Master psychology Advanced risk management Futures 101 Algorithmic trading insights Entry & exit strategies Day trading techniques Join 11,000+ traders in our discord community Join Discord S",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ng you to diversify your trading strategies and manag",
+    "snippet": "imum Number of Accounts I Can Trade? You may hold multiple funded accounts, allowing you to diversify your trading strategies and manage different account sizes. However, each funded account category has its own maximum limit on the number of active accounts an individual trader can maintain. For a compl",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "plete breakdown of account limits by account type, inc",
+    "snippet": "m limit on the number of active accounts an individual trader can maintain. For a complete breakdown of account limits by account type, including specific examples and restrictions, please visit our Help Center article. Excellent on More than 5,000+ trustworthy reviews from our traders worldwide! Q",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s is the one that helps me and have nothing bad to sa",
+    "snippet": "support team is always quick to respond , and wanna give a shout to @ash , many times is the one that helps me and have nothing bad to say. Jo\u00e3o Janeiro Portugal Getting help was easier than I thought\u2026 Getting help was easier than I thought it would be. Alves helped me restore my funded account tha",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted or prohibited jurisdictions are not permitted to access or use our services, and we reserve the right to susp",
+    "snippet": "completion of an evaluation or where suspicious activity is identified. Users from restricted or prohibited jurisdictions are not permitted to access or use our services, and we reserve the right to suspend or terminate any account, withhold or forfeit payouts where permitted by our Terms, and report suspicious activity to the appropriate",
+    "url": "https://www.toponefutures.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund",
+    "snippet": "account termination, forfeiture of profits, and removal from our platform without a refund. 5. Withdrawals & Profit Sharing Withdrawals are processed through the available payment options, which may change over time. Profit splits and withdrawal limits ar",
+    "url": "https://www.toponefutures.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Refund & Cancellation Policy\n You pay a fee for an attempt at the Trading Challenge",
+    "snippet": "he right to adjust pricing, subscription plans, and payment terms at any time. 8. Refund & Cancellation Policy You pay a fee for an attempt at the Trading Challenge. The provision of this Challenge is a service. Since services are being rendered instantaneously upon purchase, there are no refunds. All transactions made are final. If",
+    "url": "https://www.toponefutures.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunds",
+    "snippet": "rvice. Since services are being rendered instantaneously upon purchase, there are no refunds. All transactions made are final. If you are purchasing a challenge through Top One Futures, LLC you are doing so in acknowledgement that you will not be refunded. 9.",
+    "url": "https://www.toponefutures.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refunded",
+    "snippet": "hrough Top One Futures, LLC you are doing so in acknowledgement that you will not be refunded. 9. Code of Conduct & Professionalism Traders must communicate respectfully with Top One Futures staff and community members. Disparaging, false, or misleading stat",
+    "url": "https://www.toponefutures.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading\n Trading Course\n Path to Live\n Payouts\n Payouts processing time\n Support\n Support response time\n SMARTEST\u00a0C",
+    "snippet": "ders are switching to Top One Futures. Time to funding Rules Drawdown mode News Trading Trading Course Path to Live Payouts Payouts processing time Support Support response time SMARTEST CHOICE Instant funding option Simple with no hidden rules End of day Allowed Included Afer 3 payouts Anytime option Less than 12 hours on average 24/7 li",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Rule Elite Access Activation Fees Explained Elite ACCESS - Reset Fees Elite ACCESS \u2013 Maximum Loss Limit (ML",
+    "snippet": "te ACCESS Accounts In This Category Elite ACCESS Accounts \u2013 Overview Elite ACCESS \u2013 News Trading Rule Elite Access Activation Fees Explained Elite ACCESS - Reset Fees Elite ACCESS \u2013 Maximum Loss Limit (MLL) (EOD) View all 13 articles \u2192 Elite DAILY Accounts In This Category Elite DAILY V2 - Overview Elite Daily V2 - Reset Fees Elite Daily ",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   },
+   {
+    "value": "News Trading Rule (funded only) Elite Daily V2 \u2013 Contract Scaling Plan Elite Daily V2 \u2013 Profit Target (Evaluation) View ",
+    "snippet": "his Category Elite DAILY V2 - Overview Elite Daily V2 - Reset Fees Elite Daily V2 \u2013 News Trading Rule (funded only) Elite Daily V2 \u2013 Contract Scaling Plan Elite Daily V2 \u2013 Profit Target (Evaluation) View all 12 articles \u2192 Elite Accounts In This Category Overview of the Elite Evaluation Are There Contract Scaling Requirements on Elite Acco",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ealthCharts Available Now! Get up to 60% off all platforms w",
+    "snippet": "Top One Futures \u00d7 WealthCharts Available Now! Get up to 60% off all platforms w. WC WealthCharts Available Now! Get up to 60% off all platforms w. WealthCharts Available Now! Get up to 60% off all platforms w. WealthCharts Available Now! Get u",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each\n \n Pass in One Day\n \n Lowest cost when buying 2+\n \n Unlimited $35 resets\n Limited time offer\n Copy trade up to\u00a0 20 ",
+    "snippet": "nt) Japanese (Current) Log in Start trading now NEW Elite Access Just $39 each Pass in One Day Lowest cost when buying 2+ Unlimited $35 resets Limited time offer Copy trade up to 20 accounts 20% off Activation Fees Pay after passing - activation fee only No Consistency on Evaluation Lowest all-in cost for a prop evaluation - Industry wide",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earning potential\n Receive up to $1",
+    "snippet": "+ Payouts to date 28,000+ Total customers 122 Countries Calculate your earning potential Receive up to $1.5M in simulated funds and keep 90% of your sim profits with Top One Futures. Top Rated Futures Firm on Amount of capital $ 200,000 $25K $450K Monthly profit",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat results\n Over $29,000,000+ in payouts to our traders",
+    "snippet": "the best experiences I\u2019ve ever had with any prop firm! -Zachary 28,000+ traders, great results Over $29,000,000+ in payouts to our traders. Three-hour payouts and real 24/7 support. No other prop firm comes close! -Joshua Three payouts approved in under 2 hours each - the fastest I've ever seen! -",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal 24/7 support",
+    "snippet": "great results Over $29,000,000+ in payouts to our traders. Three-hour payouts and real 24/7 support. No other prop firm comes close! -Joshua Three payouts approved in under 2 hours each - the fastest I've ever seen! -Micah Smooth process, fast payout -",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP Address",
+    "snippet": "umber of Accounts I Can Trade? Account Ownership and Registration Policies Are There IP Address Restrictions? How Do Subscriptions Work on Top One Futures? What is the Limit for Funded Accounts Per Household? View all 10 articles \u2192 Payouts In This Category Maximum Payout Until Live Explained Important Payout Update: A Verified Rise Accoun",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Support@TopOneFutures.com",
+    "snippet": "nstagram Youtube Discord Listed on \u00a9 2026, Top One Futures. All Rights Reserved. Support@TopOneFutures.com Terms and conditions Privacy policy 1621 Central Ave, Suite 8433 Cheyenne WY 82001 Terms and conditions Privacy policy Disclaimer: All content and information prov",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "EOD Intraday Start with 150K Discounted w. Code: BOGO One Time Fee Average Payout for Instant Funding account: $2,714 $25K Account No Eval 5 Day Payouts $419 $230 45% OFF Funded rules Evaluation rules Daily Loss Limit $625 Trailing max drawdown $1,",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "same day",
+    "snippet": "rading with TopOneFutures, and within about 2 weeks generated $3000. Then received a payout same day as the request. Contacted support when I had questions, and remember Ash responding quickly and professionally. I have had a great experience trading with TopOneFutures.",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap, No Buffers, No Consistency on Funded\n \n 1,500 of 1,500 accounts left\n 50% OFF with code LAUNCHPAD Explore La",
+    "snippet": "W ON THE LAUNCHPAD LIVE NOW \u00b7 LAUNCHPAD 50% OFF LAUNCHPAD X-ULTRA has launched 5x Payout Cap, No Buffers, No Consistency on Funded 1,500 of 1,500 accounts left 50% OFF with code LAUNCHPAD Explore Launchpad \u2192 Choose Your Account Choose the perfect account size to match your trading goals . Whether you're starting small or aiming big, scale",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Maximum Payout Until Live Explained Important Payout Update: A Verified Rise Account Is Now Required What are the requir",
+    "snippet": "or Funded Accounts Per Household? View all 10 articles \u2192 Payouts In This Category Maximum Payout Until Live Explained Important Payout Update: A Verified Rise Account Is Now Required What are the requirements to request a payout? Understanding the Profit Split on Sim Funded Accounts What are the Payout Platforms? View all 6 articles \u2192 Tra",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan Elite Daily V2 \u2013 Profit Target (Evaluation) View all 12 articles \u2192 \n Elite Accounts In This Category\n Overv",
+    "snippet": "eset Fees Elite Daily V2 \u2013 News Trading Rule (funded only) Elite Daily V2 \u2013 Contract Scaling Plan Elite Daily V2 \u2013 Profit Target (Evaluation) View all 12 articles \u2192 Elite Accounts In This Category Overview of the Elite Evaluation Are There Contract Scaling Requirements on Elite Accounts? Elite Sim Funded Account Reset Explained Understand",
+    "url": "https://faq.toponefutures.com/",
+    "kind": "sub"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-verification 2026-10-02T13:36:11Z https://help",
+    "snippet": "2T14:31:38Z https://help.toponefutures.com/en/articles/11028418-how-to-complete-your-kyc-verification 2026-10-02T13:36:11Z https://help.toponefutures.com/en/articles/11165893-trading-hours-at-top-one-futures 2026-10-01T23:21:20Z https://help.toponefutures.com/en/articles/11187841-are-there-ip-address-res",
+    "url": "https://help.toponefutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "kyc-verification 2026-07-24T02:50:47",
+    "snippet": "14T13:43:48.000Z monthly https://faq.toponefutures.com/articles/how-to-complete-your-kyc-verification 2026-07-24T02:50:47.000Z monthly https://faq.toponefutures.com/articles/how-to-connect-your-tradovate-account-to-ninjatrader-8 2026-08-12T14:55:50.000Z monthly https://faq.toponefutures.com",
+    "url": "https://faq.toponefutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fees\n Pay after passing - activation fee only\n No Consistency on Evaluation\n Lowest all-in cost for a prop ev",
+    "snippet": "+ Unlimited $35 resets Limited time offer Copy trade up to 20 accounts 20% off Activation Fees Pay after passing - activation fee only No Consistency on Evaluation Lowest all-in cost for a prop evaluation - Industry wide Get started for only $39 Buy 1, Get 1 FREE with Code: BOGO Excellent (5,000+ reviews) on Top Rated Futures Firm Trade T",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fees\n Copy trade up to\u00a0 20 accounts \n \n Get 20% off Activation Fees\n Copy trade up to\u00a0 20 accounts \n \ud83d\udd2560% off",
+    "snippet": "E ELITE ACCESS EXCLUSIVE Start trading now Buy 1, get 1 FREE BOGO Get 20% off Activation Fees Copy trade up to 20 accounts Get 20% off Activation Fees Copy trade up to 20 accounts \ud83d\udd2560% off Ignite and Elite Daily w. WC LIVE NOW ON THE LAUNCHPAD LIVE NOW \u00b7 LAUNCHPAD 50% OFF LAUNCHPAD X-ULTRA has launched 5x Payout Cap, No Buffers, No Consis",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n $178\n $71\n 60% OFF\n Evaluation rules\n Funded rules\n Profit Target\n $1,500\n Max Drawdown (EOD)\n $1,000\n D",
+    "snippet": "Average Payout for Elite Daily account: $948 $25K Evaluation Daily Payouts No Activation Fee $178 $71 60% OFF Evaluation rules Funded rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3 5 Payout Frequency Daily",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Reset Fee\n $66\n Consistency on Eval\n 40%\n Activation Fee\n None!\n Max Contracts\n 1 mini (10 micros)\n Max Accounts\n 3\n 5",
+    "snippet": "ed rules Profit Target $1,500 Max Drawdown (EOD) $1,000 Daily loss limit $500 Reset Fee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD) $1,000 Daily Loss Limit $500 Start with 25K 60% OFF w. Code: WC One Time Fee MOST POPULAR $5",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n $218\n $87\n 60% OFF\n Evaluation rules\n Funded rules\n Profit Target\n $3,000\n Max Drawdown (EOD)\n $2,000\n D",
+    "snippet": "OFF w. Code: WC One Time Fee MOST POPULAR $50K Evaluation Daily Payouts No Activation Fee $218 $87 60% OFF Evaluation rules Funded rules Profit Target $3,000 Max Drawdown (EOD) $2,000 Daily loss limit $1,000 Reset Fee $82 Consistency on Eval 40% Activation Fee None! Max Contracts 3 minis (30 micros) Max Accounts 3 5 Payout Frequency Daily",
+    "url": "https://www.toponefutures.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ade up to $3M in simulated funds. Daily Payouts, 20 Account Copy Trading 2.0 , and the lowest price Instant Funding all available at Top One Futures. ELITE ACCESS EXCLUSIVE ELITE ACCESS EXCLUSIVE Start trading now Buy 1, get 1 FREE BOGO Get 20% off Activation Fees",
+   "url": "https://www.toponefutures.com/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "tart trading now Frequently Asked Questions Everything you need to know about trading your Top One Futures accounts: funding, rules, payouts and your dashboard, all in one place. Search the FAQ Account Types Overview In This Category Top One Futures Account Comparison:",
+   "url": "https://faq.toponefutures.com/"
+  }
+ ],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "WealthCharts"
+ ],
+ "assets": [
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "LAUNCHPAD",
+   "context": "t Cap, No Buffers, No Consistency on Funded 1,500 of 1,500 accounts left 50% OFF with code LAUNCHPAD Explore Launchpad \u2192 Choose Your Account Choose the p"
+  },
+  {
+   "code": "MYSTERY",
+   "context": "ry Coupon | Top One Futures \u00d7 \ud83c\udf81 UNLOCK UP TO 55% OFF Use code MYSTERY at checkout to unlock up to 55% off. Discount varies by pac"
+  }
+ ],
+ "claims": [
+  "Pass in One Day Lowest cost when buying 2+ Unlimited $35 resets Limited time offer Copy trade up to 20 accounts 20% off Activation Fees Pay after passing - activation fee",
+  "CCESS EXCLUSIVE Start trading now Buy 1, get 1 FREE BOGO Get 20% off Activation Fees Copy trade up to 20 accounts Get 20% off Activation Fees Copy trade up to 20 accou",
+  "Get 20% off Activation Fees Copy trade up to 20 accounts Get 20% off Activation Fees Copy trade up to 20 accounts \ud83d\udd2560% off Ignite and Elite Daily w. WC LIVE NO",
+  "CHPAD 50% OFF LAUNCHPAD X-ULTRA has launched 5x Payout Cap, No Buffers, No Consistency on Funded 1,500 of 1,500 accounts left 50% OFF with code LAUNCHPAD Explore Launchpad \u2192",
+  "ee $66 Consistency on Eval 40% Activation Fee None! Max Contracts 1 mini (10 micros) Max Accounts 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD)",
+  "e $82 Consistency on Eval 40% Activation Fee None! Max Contracts 3 minis (30 micros) Max Accounts 3 5 Payout Frequency Daily! Consistency None! Max Drawdown (EOD)"
+ ],
+ "errors": []
+}

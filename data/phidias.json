@@ -1,0 +1,700 @@
+{
+ "slug": "phidias",
+ "name": "Phidias",
+ "category": "Futures",
+ "url": "https://phidiaspropfirm.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://phidiaspropfirm.com/",
+   "kind": "home",
+   "chars": 17383
+  },
+  {
+   "url": "https://phidiaspropfirm.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 438
+  },
+  {
+   "url": "https://phidiaspropfirm.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 72417
+  },
+  {
+   "url": "https://phidiaspropfirm.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 74111
+  },
+  {
+   "url": "https://phidiaspropfirm.com/articles-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 189395
+  },
+  {
+   "url": "https://phidiaspropfirm.com/landing-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 713
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+   "kind": "page",
+   "chars": 19432
+  },
+  {
+   "url": "https://phidiaspropfirm.com/fr/formations/myfundedfutures-comparatif-plans",
+   "kind": "page",
+   "chars": 21163
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/take-profit-trader-payout-rules",
+   "kind": "page",
+   "chars": 23169
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+   "kind": "page",
+   "chars": 21567
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/myfundedfutures-payout-rules",
+   "kind": "page",
+   "chars": 17083
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/apex-payout-rules",
+   "kind": "page",
+   "chars": 20744
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/lucid-trading-payout-rules",
+   "kind": "page",
+   "chars": 19684
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/tradeify-payout-rules",
+   "kind": "page",
+   "chars": 18392
+  },
+  {
+   "url": "https://phidiaspropfirm.com/education/topstep-payout-rules",
+   "kind": "page",
+   "chars": 14310
+  },
+  {
+   "url": "https://phidiaspropfirm.com/es/cursos/myfundedfutures-comparativa-planes",
+   "kind": "page",
+   "chars": 20702
+  },
+  {
+   "url": "https://phidiaspropfirm.com/fr/formations/myfundedfutures-plan-de-scaling",
+   "kind": "page",
+   "chars": 21211
+  },
+  {
+   "url": "https://phidiaspropfirm.com/fr/formations/myfundedfutures-plan-rapid",
+   "kind": "page",
+   "chars": 18566
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 590497,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "beside Pro below and the differences stop being marketing and start being rows. Size Profit target Maximum loss Same on 25K $1,500 , 6% $1,000 , 4% Builder, Rapid, Rapid EOD 50K $3,000 , 6% $2,000 , 4% All four plans 100K $6,000 , 6% $3,000 , 3% Rapid, Pro 150K $9,000 , 6% $4,500 , 3% Rapid, Pro",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "20",
+    "snippet": "luation Drawdown $1,000, end of day, locks at $25,100 $500, static, never trails Daily loss limit None on the 25K None Consistency rule 20% None Minimum days 5 None First payout Up to $1,000, $900 after the 90/10 split $1,000 bonus at 80/20, so $800 to you Live account Discretionary review (Payout 5, l",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "ow and the differences stop being marketing and start being rows. Size Profit target Maximum loss Same on 25K $1,500 , 6% $1,000 , 4% Builder, Rapid, Rapid EOD 50K $3,000 , 6% $2,000 , 4% All four plans 100K $6,000 , 6% $3,000 , 3% Rapid, Pro 150K $9,000 , 6% $4,500 , 3% Rapid, Pro",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "h no consistency rule and no daily loss limit. Published separately Builder Add-On Maximum loss tightens to $1,500 instead of $2,000, so 3% not 4%, and the buffer drops to $1,600. $125 instead of $153 The Builder one is worth knowing about because the plan card on their site advertises it rather than the",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "to Live Processing often under 1 hour LIVE account: daily uncapped payouts 100% Payout approval rate. 3 years running. Objective Rules. One Page. No Surprises. Static and EOD drawdown. Your floor never chases intraday profits. No buffer trapping your mo",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "eep More. Go LIVE. Premium accounts use a progressive profit split that climbs from 75% to 100% as you stack payouts. Most firms cap you at 80 or 90%. After your 5th payout on a Premium account, you keep every dollar. Progressive split: 75% \u2192 100% over 5 payouts (Premium) Reinvest v",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "d Swing Trading Overnight + weekend Based on our trader data Profit Split 80% or 90% capped Profit Split Up to 100% on Premium Progressive 75% \u2192 100% Rules Hidden across sub-pages Rules One page. All rules. Visible before you buy Payout Denials Subjective",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "hough you were net positive. 03 How fast does Phidias actually process payouts? 90% of payouts processed under 30 minutes. Always within 24 hours. With the 25K Express to Live (no minimum trading days), the entire path from signup to first payout can happen in 48",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "calendar days Minimum payout, 50K $500 $500 $500 $1,000 Consistency once funded 50%, every payout None None None Daily loss limit $1,000 soft pause on 50K None None None Buffer, 50K $2,100 $2,100 $2,100 $2,100 T1 news once funded Allowed Barred Barred Barred",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "500, static, never trails Daily loss limit None on the 25K None Consistency rule 20% None Minimum days 5 None First payout Up to $1,000, $900 after the 90/10 split $1,000 bonus at 80/20, so $800 to you Live account Discretionary review (Payout 5, large payout total or exceptional results)",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "2",
+    "snippet": "nis Contracts, 50K 5 minis 3 minis Consistency in evaluation 50% 30%, stricter Minimum trading days 2 4 Drawdown once funded Intraday trailing End of day Identical price. Forty per cent fewer contracts on the 50K , two minis instead of five, a consistency rule near",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": ", never trails Daily loss limit None on the 25K None Consistency rule 20% None Minimum days 5 None First payout Up to $1,000, $900 after the 90/10 split $1,000 bonus at 80/20, so $800 to you Live account Discretionary review (Payout 5, large payout total or e",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "it 90/10 80/20 Consistency rule 40% (Pro), 20% (Direct), none (Flex, Daily) None Minimum days 3 to 5 on the cards, none listed on Daily None Buffer On Pro and Daily None First payout $500 to $1,000, or all profit above the buffer on Daily $1,000 bonus at 80/20,",
+    "url": "https://phidiaspropfirm.com/education/lucid-trading-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "1",
+    "snippet": "ile responding, and there payout speed was super fast . SH Shashank India $1K Bonus I successfully passed my Express to Live account. I received the $1,000 bonus , and the live account was activated the same day, almost simultaneously. The supp",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "amount you can withdraw . \u201cYour Profit Goal (for example, $9,000 for Payout 1 on a $150K account) is the profit you must earn to unlock a payout request. It is not the amount you can withdraw\u2026 on a $150K account you reach the $9,000 Payout 1 Profit Goal but",
+    "url": "https://phidiaspropfirm.com/education/tradeify-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "15",
+    "snippet": "tion and get paid within 48 hours. Start Your Evaluation Join Discord $15M+ Paid to Traders Every dollar verified. 30min Avg Payout Speed 90% processed under 30 minutes. <15min Support Response EN / FR / ES 3 Yrs Zero Denied Pa",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,60",
+    "snippet": "raday trailing Drawdown Static + EOD 2x higher success rate Profit Buffer $2,600+ locked Profit Buffer Nothing locked. Ever. Withdraw into threshold Swing Trading Banned Swing Trading Overnight + weekend Based on our trader data",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "55",
+    "snippet": "unts. One-time payment available on all accounts. Configure everything on one page. $55 Starting at 02 Pass Your Eval Hit the profit target with static or EOD drawdown. No minimum days on Express to Live. No consistency rule. Trade your way. 0 Mi",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "277",
+    "snippet": "ees. Done. 25K Express to Live Fastest Path to Funded $55 one-time $277 without code Save 80% Rithmic Activation Fee $149 $0 Rules change once you pass. Compare both phases: Evaluation After You Pass The rules you trade with n",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "149",
+    "snippet": "o Funded $55 one-time $277 without code Save 80% Rithmic Activation Fee $149 $0 Rules change once you pass. Compare both phases: Evaluation After You Pass The rules you trade with now $500 Drawdown $1,500 Profit Target 0 Min. Days",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "ded $55 one-time $277 without code Save 80% Rithmic Activation Fee $149 $0 Rules change once you pass. Compare both phases: Evaluation After You Pass The rules you trade with now $500 Drawdown $1,500 Profit Target 0 Min. Days 2",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "Compare both phases: Evaluation After You Pass The rules you trade with now $500 Drawdown $1,500 Profit Target 0 Min. Days 2 / 20 Max Minis / Micros Get Funded Now Discount code this.classList.remove('copied'),1800)\" data-code=\"PHIDIAS8",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "ases: Evaluation After You Pass The rules you trade with now $500 Drawdown $1,500 Profit Target 0 Min. Days 2 / 20 Max Minis / Micros Get Funded Now Discount code this.classList.remove('copied'),1800)\" data-code=\"PHIDIAS80\" data-cf-modifi",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "ile responding, and there payout speed was super fast . SH Shashank India $1K Bonus I successfully passed my Express to Live account. I received the $1,000 bonus , and the live account was activated the same day, almost simultaneously. The sup",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "$1K Bonus I successfully passed my Express to Live account. I received the $1,000 bonus , and the live account was activated the same day, almost simultaneously. The support is very fast, and the system is attractive. I'm definitely staying here! AD",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "wn (Fundamental and Premium accounts) is calculated at market close \u2014 you can profit $2,000 during the session and your floor stays the same until the day ends. Trailing drawdown (used by most competitors) moves up with every dollar of unrealized profit. A $50",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "600",
+    "snippet": "mpetitors) moves up with every dollar of unrealized profit. A $500 win followed by a $600 pullback can breach your account even though you were net positive. 03 How fast does Phidias actually process payouts? 90% of payouts processed under 30 minutes. Al",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "EOD",
+    "snippet": "proval rate. 3 years running. Objective Rules. One Page. No Surprises. Static and EOD drawdown. Your floor never chases intraday profits. No buffer trapping your money. No subjective judgment calls. Static + EOD drawdown: your floor never trails intraday profits",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trailing",
+    "snippet": "ceiling Most Prop Firms Phidias Drawdown Intraday trailing Drawdown Static + EOD 2x higher success rate Profit Buffer $2,600+ locked Profit Buffer Nothing locked. Ever. Withdraw into threshold Swing Trading Banned S",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "static",
+    "snippet": "ount at Phidias. Express to Live is available in 25K, 50K, 100K, and 150K sizes with static drawdown that never trails, zero minimum trading days, and your very first payout converts the Cash account straight to LIVE with Dorman Trading. The 25K Express to Live can pass",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "intraday",
+    "snippet": "It is also sold across the full range from 25K to 150K. The price of all that is the intraday drawdown once funded, and a contract allowance that Pro overtakes at the two largest sizes. Rapid EOD exists for one reason, covered above. It is the right answer for a specific",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "end of day",
+    "snippet": "our and four against, at the same price. Both list at $145 and $209. Rapid EOD keeps end of day drawdown once funded, where standard Rapid switches to intraday trailing. In exchange it gives fewer contracts, 2 instead of 3 on the 25K and 3 instead of 5 on the 50K, a stricte",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule",
+    "snippet": "he profit target with static or EOD drawdown. No minimum days on Express to Live. No consistency rule. Trade your way. 0 Min. Days 03 Get Paid Fast Request your payout after passing. 90% processed under 30 minutes. Always under 24 hours. Every payout approved",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule and no daily loss limit",
+    "snippet": "o $4,000 instead of $3,000, so 8% not 6%. In exchange it passes in one day , with no consistency rule and no daily loss limit. Published separately Builder Add-On Maximum loss tightens to $1,500 instead of $2,000, so 3% not 4%, and the buffer drops to $1,600. $125 instead of $153 The Buil",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule at that stage",
+    "snippet": "the only one where you can trade news once funded , and also the only one carrying a consistency rule at that stage. The contract picture reverses at the larger sizes. Once funded, Pro gives 10 minis on the 100K and 15 on the 150K , against 8 and 10 on Rapid. Pro is the only plan who",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule nearly twice as strict, and twice the minimum days",
+    "snippet": "ical price. Forty per cent fewer contracts on the 50K , two minis instead of five, a consistency rule nearly twice as strict, and twice the minimum days. In exchange for exactly one thing: the drawdown stays end of day when you get funded instead of turning into an intraday trail. That single difference is not small, wh",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, and then everything that happens after you pass: contracts, split, payout frequency and",
+    "snippet": "tightens the drawdown to 3% on a 50K. What differs is the minimum trading days, the consistency rule, and then everything that happens after you pass: contracts, split, payout frequency and drawdown type. Which MyFundedFutures plan is cheapest? Builder, at $105 for the 25K and $153 for the 50K before any code, or $125 for the tighter Buil",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule instead of 50%, and a 4 day minimum instead of 2",
+    "snippet": "r contracts, 2 instead of 3 on the 25K and 3 instead of 5 on the 50K, a stricter 30% consistency rule instead of 50%, and a 4 day minimum instead of 2. Which MyFundedFutures plan pays the best split? Rapid and Rapid EOD, both at 90/10, a change dated 12 January 2026. Builder and Pro pay 80/20. That difference is wort",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "daily",
+    "snippet": "st-payout-table.png https://phidiaspropfirm.com/wp-content/uploads/2026/09/lucidflex-payout-minimum-daily-profit-scaled.png https://phidiaspropfirm.com/wp-content/uploads/2026/09/lucidflex-payout-maximum-scaled.png https://phidiaspropfirm.com/wp-content/uploads/2026/09/lucid",
+    "url": "https://phidiaspropfirm.com/articles-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "100% Payout approval rate. 3 years running. Objective Rules. One Page. No Surprises. Static and EOD drawdown. Your floor never chases intraday profits. No buffer trapping your money. No subjective judgment calls. Static + EOD drawdown: your floor nev",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "ent/uploads/2026/07/a013-halal.webp https://phidiaspropfirm.com/how-to-start-trading-crypto 2026-07-30T20:00:00+00:00 https://phidiaspropfirm.com/wp-content/uploads/2026/07/a014-hero.webp https://phidiaspropfirm.com/wp-content/uploads/2026/07/a014-secure.webp h",
+    "url": "https://phidiaspropfirm.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "cy rule? Builder has none to pass, and the Pro One Day Add-On has none at all. Otherwise they apply it at opposite ends: Rapid, Rapid EOD and standard Pro check consistency during the evaluation only, at 50%, 30% and 50%, and drop it once funded. Builder is",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "me-matching rule Three routes out: Plaid for US bank accounts, typically real time; PayPal ; and Wise for international transfers across 160 countries. The fee that catches small withdrawals. Anything above $250 is free. A request of $250 or less costs $50 ,",
+    "url": "https://phidiaspropfirm.com/education/take-profit-trader-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "payout methods , per their help center: Method For How Plaid U.S. traders Instant bank transfers, connected from the dashboard under Payouts, Add Bank Account WorkMarket by ADP U.S. and international traders Bank transfer or PayPal, typically as early as the next",
+    "url": "https://phidiaspropfirm.com/education/lucid-trading-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "ally as early as the next business day Crypto International traders BTC, ETH, LTC, USDT or USDC Lucid\u2019s payout providers. Funds leave the account within minutes of approval and arrive within two business days. When do Lucid payouts lead to a live accoun",
+    "url": "https://phidiaspropfirm.com/education/lucid-trading-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "early as the next business day Crypto International traders BTC, ETH, LTC, USDT or USDC Lucid\u2019s payout providers. Funds leave the account within minutes of approval and arrive within two business days. When do Lucid payouts lead to a live account? At L",
+    "url": "https://phidiaspropfirm.com/education/lucid-trading-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Weeks 03 Rules That Let You Trade 04 Your Platform, Your Style 05 Scale to Real Capital Institutional Infrastructure. Not a Black Box. LIVE traders execute real capital through Dorman Trading, a registered FCM. Data flows through Tradovate and Rithmic. This is not simulated. Dorman T",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "in Gibraltar. \u00a9 2026 All rights reserved. Privacy Terms Of Usage Disclosures CFTC Required Disclaimer: Trading futures and options presents great potential rewards, but also great potential risk. You need to be aware of the risks and be willing to accept them to invest in the futures markets. Don't trade with money you can't afford to los",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "nt/uploads/2026/07/a027-practice.webp https://phidiaspropfirm.com/es/mejores-plataformas-paper-trading-futuros 2026-07-31T09:00:00+00:00 https://phidiaspropfirm.com/wp-content/uploads/2026/07/a027-hero.webp https://phidiaspropfirm.com/wp-content/uploads/2026/07/a027-compare.webp https://phidiaspropfirm.com/wp-content/uploads/202",
+    "url": "https://phidiaspropfirm.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "rm-table.png https://phidiaspropfirm.com/wp-content/uploads/2026/08/tpt-tradingview-basic.png https://phidiaspropfirm.com/es/cursos/take-profit-trader-plataformas 2026-08-21T07:00:00+00:00 https://phidiaspropfirm.com/wp-content/uploads/2026/08/take-profit-tra",
+    "url": "https://phidiaspropfirm.com/articles-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "NFA",
+    "snippet": "verview : the rules for accounts bought before 1 March 2026. \u2022 Dorman Trading : the NFA-registered broker behind Phidias LIVE accounts. \u2022 Phidias accounts : Express to Live payout terms and LIVE account conversion. About the author William G. is CMO at Phidias Propfirm. He tests prop firms hands-on,",
+    "url": "https://phidiaspropfirm.com/education/apex-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "off evaluations Limited",
+    "snippet": "Propfirm : N\u00b01 Live Futures Prop firm Skip to content Up to 60% off evaluations Limited time PHIDIAS How It Works Accounts Rules Resources FAQ Contact Support Blog Discord Sign In Get Funded How It Works Accounts Rules FAQ Contact Suppor",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Objective Rules. One Pag",
+    "snippet": "account: daily uncapped payouts 100% Payout approval rate. 3 years running. Objective Rules. One Page. No Surprises. Static and EOD drawdown. Your floor never chases intraday profits. No buffer trapping your money. No subjective judgment calls. Static + EOD drawdown:",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Hidden across sub-pag",
+    "snippet": "0% capped Profit Split Up to 100% on Premium Progressive 75% \u2192 100% Rules Hidden across sub-pages Rules One page. All rules. Visible before you buy Payout Denials Subjective, denials reported Payout Denials Zero denied. Ever. Objective criteria only",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "One pag",
+    "snippet": "00% on Premium Progressive 75% \u2192 100% Rules Hidden across sub-pages Rules One page. All rules. Visible before you buy Payout Denials Subjective, denials reported Payout Denials Zero denied. Ever. Objective criteria only The Indu",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "They fail from prop firm drawdown rules designed ag",
+    "snippet": "Failure. We Built the Opposite. Most futures traders don't fail from bad trades. They fail from prop firm drawdown rules designed against them. Every rule at Phidias exists to help traders succeed. $15M+ Paid to traders. Every dollar verified. How It Works Signup to Payout in 48 Hours",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "able on all accounts. Configure everything on one pag",
+    "snippet": "ur Account Express to Live, Fundamental, or Premium accounts. One-time payment available on all accounts. Configure everything on one page. $55 Starting at 02 Pass Your Eval Hit the profit target with static or EOD drawdown. No minimum days on Express to Live. No consistency rule. Trade your way",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "tes. Always under 24 hours. Every payout approved sinc",
+    "snippet": "03 Get Paid Fast Request your payout after passing. 90% processed under 30 minutes. Always under 24 hours. Every payout approved since day one. 30min Avg Payout 04 Scale Up Reinvest via the Phidias Wallet. Fund up to 15 accounts. Express to Live takes you straight to LIVE on the first payout",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "What they sa",
+    "snippet": "72932-=\"\"> PHIDIAS80 Trader Stories Real Traders. Real Payouts. What they say after they get paid. I had the possibility to try many prop firms in the last 2 years, I can state that Phidias is one of the best : reliable, quick support, keeps i",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunded, and only if at least 50% of its drawdown is left",
+    "snippet": "ons kept in reserve; only a funded account that never received a payout has its cost refunded, and only if at least 50% of its drawdown is left. Do not buy LucidDirect for the Live Bonus. The live structure page offers a one time bonus to first time live traders. The LucidDirect legacy page states that LucidDir",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading allowed on all account types\n \n Tradovate\n NinjaTrader\n TradingView\n Rithmic\n DeepCharts\n \n \n \n 100% Profit",
+    "snippet": "rules. No platform lock-in. Hold overnight + over the weekend on Premium accounts News trading allowed on all account types Tradovate NinjaTrader TradingView Rithmic DeepCharts 100% Profit split (up to, on Premium) Scale Up. Keep More. Go LIVE. Premium accounts use a progressive profit split that climbs from 75% to 100% as you stack payou",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal Capital\n \n \n \n Institutional Infrastructure",
+    "snippet": "03 Rules That Let You Trade 04 Your Platform, Your Style 05 Scale to Real Capital Institutional Infrastructure. Not a Black Box. LIVE traders execute real capital through Dorman Trading, a registered FCM. Data flows through Tradovate and Rithmic. This is not simulated. Dorman T",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal capital through Dorman Trading, a registered FCM",
+    "snippet": "Capital Institutional Infrastructure. Not a Black Box. LIVE traders execute real capital through Dorman Trading, a registered FCM. Data flows through Tradovate and Rithmic. This is not simulated. Dorman Trading (registered FCM) clears all LIVE trades Tradovate + Rithmic execution, not proprietary",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears all LIVE trades\n Tradovate + Rithmic execution, not proprietary feeds\n 3 years operating",
+    "snippet": "ugh Tradovate and Rithmic. This is not simulated. Dorman Trading (registered FCM) clears all LIVE trades Tradovate + Rithmic execution, not proprietary feeds 3 years operating. $15M+ paid. Fully auditable. DORMAN TRADOVATE RITHMIC NINJATRADER DEEPCHARTS 30min Avg payout processing Signup to Payout in 48 Hours. No minimum tradi",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears running",
+    "snippet": "er 1 hour LIVE account: daily uncapped payouts 100% Payout approval rate. 3 years running. Objective Rules. One Page. No Surprises. Static and EOD drawdown. Your floor never chases intraday profits. No buffer trapping your money. No subjective judgment cal",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal capital, daily uncapped, no ceiling\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Most Prop Firms\n Phidias\n \n Drawdown\n Intraday trai",
+    "snippet": "(Premium) Reinvest via the Phidias Wallet, up to 15 funded accounts LIVE account: real capital, daily uncapped, no ceiling Most Prop Firms Phidias Drawdown Intraday trailing Drawdown Static + EOD 2x higher success rate Profit Buffer $2,600+ locked Profit Buffer Nothing locked. Ever. Withdraw into threshold Swing Tradin",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 48 Hours",
+    "snippet": "y auditable. DORMAN TRADOVATE RITHMIC NINJATRADER DEEPCHARTS 30min Avg payout processing Signup to Payout in 48 Hours. No minimum trading days on Express to Live accounts. Pass in one session, request payout. Most firms need 6 to 10 days before you even qualify. Zero minimum trading d",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 48 Hours \n No multi-ph",
+    "snippet": ". $15M+ Paid to traders. Every dollar verified. How It Works Signup to Payout in 48 Hours No multi-phase evaluations. No 5-day minimums. No waiting periods. 01 Pick Your Account Express to Live, Fundamental, or Premium accounts. One-time payment available on all",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 24 hours ! Customer se",
+    "snippet": "ader Trustpilot 5.0 / 5 Payout Speed Received my second payout today! Both were processed and in my wallet in 24 hours ! Customer service response is almost instant! Thanks much Phidias! DB Donnie B. United States Support One of the best prop firms I've ever seen, with an excellent onlin",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "24 hours",
+    "snippet": "setup. I appreciate the Discord support. BM BME Great Britain DB \"2nd payout processed in under 24 hours.\" Donnie B. \u2022 SH \"One of the best futures with static DD.\" Shashank \u2022 NB \"No rules. Just hit the target and get paid.\" Ntobeko B. \u2022 JH \"Live account active by e",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 hours from signup",
+    "snippet": "ng. The 25K Express to Live can pass in a single trading session and reach the first payout within 48 hours from signup. 02 What is the difference between static, EOD, and trailing drawdown? Static never moves. EOD updates at close. Trailing moves in real time \u2014 and it's the #1 reaso",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "maximum payout on Take Profit Trader?\n There is no maximum",
+    "snippet": "anything can be withdrawn. PRO+ accounts pay 90/10 and carry no buffer. What is the maximum payout on Take Profit Trader? There is no maximum. Above the buffer zone, Take Profit Trader places no cap on the size of a withdrawal request and runs no scaling plan. If you are up $12,000 above the buffer on a 50K, y",
+    "url": "https://phidiaspropfirm.com/education/take-profit-trader-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Max payouts 1 to 3 Max payouts 4 and 5 \n 25K $1,500 $1,250 $1,000 $1,000 \n 50K $3,000 $2,500 $2,000 $2,500 \n 100K $6,000",
+    "snippet": "0. Here are the published numbers for every size. Size Profit Goal 1 Profit Goal 2+ Max payouts 1 to 3 Max payouts 4 and 5 25K $1,500 $1,250 $1,000 $1,000 50K $3,000 $2,500 $2,000 $2,500 100K $6,000 $3,500 $2,500 $3,000 150K $9,000 $4,500 $3,000 $3,500 Lucid\u2019s help center: the profit goal resets to $0 after each approved payout. The rest ",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "payout caps\u201d among its benefits",
+    "snippet": "ction in their own help center. The LucidDirect account overview lists \u201cNo simulated payout caps\u201d among its benefits. The LucidDirect payout page, the very next article in the same collection, publishes the caps in the table above. We have used the payout page, because it is the one th",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "maximum payout level, not a guaranteed minimum for live eligibility",
+    "snippet": "account, or having been live before. Then, in their words: \u201cPayout 5 represents the maximum payout level, not a guaranteed minimum for live eligibility.\u201d When it happens, every funded account with at least one payout moves live together, each with a $0 starting balance , daily payouts, an end of day drawdown ($1,000 f",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan : why only Pro grows, and why Rapid shrinks at live",
+    "snippet": "MyFundedFutures \u00b7 The Rapid plan explained : the intraday switch in detail. \u00b7 The scaling plan : why only Pro grows, and why Rapid shrinks at live. \u00b7 The consistency rule : four different answers, with a calculator. \u00b7 What MyFundedFutures really costs : the fees that start once you succeed. \u00b7 MyFundedFutures rev",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan",
+    "snippet": "ove the line is yours. Everything below it is theirs to hold. No withdrawal cap. No scaling plan. No consistency rule once funded. Money on day one, in your wallet in 5 to 10 seconds . On that, Take Profit Trader leads the market. And your first $1,500 to $4,500 si",
+    "url": "https://phidiaspropfirm.com/education/take-profit-trader-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling plan None None \n Buffer before withdrawing Yes, equal to the drawdown None \n Account to wallet 5 to 10 seconds, ",
+    "snippet": "fitable days None None Consistency rule None None Maximum withdrawal None None Scaling plan None None Buffer before withdrawing Yes, equal to the drawdown None Account to wallet 5 to 10 seconds, automated Manual review Compiled from Take Profit Trader\u2019s help center, read in August 2026. Our verdict (William G.) That column of \u201cNone\u201d is no",
+    "url": "https://phidiaspropfirm.com/education/take-profit-trader-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation fee on pass",
+    "snippet": "Account Type Account Size Platform How You Pay Monthly Lower upfront. Activation fee on pass. One-Time Payment Best Value One payment. No fees. Done. 25K Express to Live Fastest Path to Funded $55 one-time $277 without code Save 80% Rithm",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee $149 $0 \n Rules change once you pass",
+    "snippet": "Fastest Path to Funded $55 one-time $277 without code Save 80% Rithmic Activation Fee $149 $0 Rules change once you pass. Compare both phases: Evaluation After You Pass The rules you trade with now $500 Drawdown $1,500 Profit Target 0 Min. Days 2 / 20 Max Minis / Micros",
+    "url": "https://phidiaspropfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription-keeps-billing",
+    "snippet": "tpt-activation-credit.png https://phidiaspropfirm.com/wp-content/uploads/2026/08/tpt-subscription-keeps-billing.png https://phidiaspropfirm.com/wp-content/uploads/2026/08/tpt-overdue-blocks-pro.png https://phidiaspropfirm.com/es/cursos/take-profit-trader-tasa-activacion 2026-08-20",
+    "url": "https://phidiaspropfirm.com/articles-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "activation fees on any plan , which they state plainly and which matters more than it sounds: a discount here is a disco",
+    "snippet": "es, read from the configuration behind MyFundedFutures\u2019 own plan pages. There are no activation fees on any plan , which they state plainly and which matters more than it sounds: a discount here is a discount on the entire path to a funded account, not on one step of it. On the discount, two numbers rather than one. A bar across every MyF",
+    "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, and a limit of five LucidDirect accounts",
+    "snippet": "e: a 20% consistency rule , five minimum days to payout , a one time payment with no subscription, and a limit of five LucidDirect accounts . The full contract size is available from day one, with no scaling plan on the funded account. The LucidDirect cards on lucidtrading.com. Note the green LucidScale line",
+    "url": "https://phidiaspropfirm.com/education/luciddirect-payout-rules",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "s more than it sounds: a discount here is a discount on the entire path to a funded account, not on one step of it. On the discount, two numbers rather than one. A bar across every MyFundedFutures page reads \u201cSave 40% On Any Plan With Code CLUB\u201d , followed by \u201cNew to",
+   "url": "https://phidiaspropfirm.com/education/myfundedfutures-plans-compared"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "The clock counts trading days, not calendar days. How long does a Take Profit Trader payout take? Two steps. Account to wallet is now 5 to 10 seconds , fully automated with no manual review, provided you are flat at the moment you submit. Wallet to bank is a separat",
+   "url": "https://phidiaspropfirm.com/education/take-profit-trader-payout-rules"
+  },
+  {
+   "name": "Futures",
+   "snippet": "0, fixed. From that point the floor no longer trails your equity at all. So the shape of a MyFundedFutures account is: grind through a trailing floor to build the buffer, take one payout, and the floor freezes. Everything before the first payout is harder than everything af",
+   "url": "https://phidiaspropfirm.com/education/myfundedfutures-payout-rules"
+  }
+ ],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Rithmic"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "PHIDIAS80",
+   "context": "win the free account. In the meantime, here is your 80 % off code to use right now. Your discount code PHIDIAS80 Copy Copied Up to 80 % off, applied at checkout. Browse"
+  },
+  {
+   "code": "CLUB",
+   "context": "$209, and Pro starts at $265 for the 50K. Their site bar offers 40% off any plan with the code CLUB, and separately 50% off a first evaluation for new accounts"
+  },
+  {
+   "code": "PHIDIAS",
+   "context": "on the 25K. 25K LucidDirect Phidias Express to Live Price $230.30 with VAULT $69 with code PHIDIAS, evaluation and CASH account together Evaluation None Yes"
+  }
+ ],
+ "claims": [
+  "nts Rules FAQ Contact Support Blog Discord Sign In Get Funded 4.6 50,000+ traders funded Get Daily Uncapped Payouts. The futures prop fir",
+  "r 90%. After your 5th payout on a Premium account, you keep every dollar. Progressive split: 75% \u2192 100% over 5 payouts (Premium) Reinvest via the Phidias Wallet, up to 15 funded",
+  "t approved since day one. 30min Avg Payout 04 Scale Up Reinvest via the Phidias Wallet. Fund up to 15 accounts. Express to Live takes you straight to LIVE on the first pa",
+  "tepped in to help traders where necessary. NB Ntobeko B. Australia Verified Trader Trustpilot 5.0 / 5 Payout Speed Received my second payout today! Both were process",
+  "remium accounts (50K, 100K, 150K) let you hold overnight and over the weekend. This is based on our data from 50,000+ traders \u2014 swing strategies consistently outperform when given room",
+  "s: 75% on payout 1, 80% on payout 2, 85% on payout 3, 90% on payout 4, and 100% from payout 5 onwards . After 5 payouts on a Premium account, you keep every dollar of profit you g"
+ ],
+ "errors": []
+}

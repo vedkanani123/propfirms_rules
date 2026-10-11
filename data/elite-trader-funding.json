@@ -1,0 +1,545 @@
+{
+ "slug": "elite-trader-funding",
+ "name": "Elite Trader Funding",
+ "category": "Futures",
+ "url": "https://elitetraderfunding.app/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://elitetraderfunding.app/",
+   "kind": "home",
+   "chars": 15280
+  },
+  {
+   "url": "https://elitetraderfunding.app/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 32293
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/plan-information-and-faq",
+   "kind": "page",
+   "chars": 11720
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/payout-audit-faq",
+   "kind": "page",
+   "chars": 15445
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/beat-the-beast-challenge-how-it-works",
+   "kind": "page",
+   "chars": 14539
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/rithmic-data-feed-pricing-update",
+   "kind": "page",
+   "chars": 12499
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/evaluation-billing-policy-overview-qualified-accounts",
+   "kind": "page",
+   "chars": 13221
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/add-on-priceslash",
+   "kind": "page",
+   "chars": 12673
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+   "kind": "page",
+   "chars": 209432
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/how-the-1-step-plan-works",
+   "kind": "page",
+   "chars": 148850
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/how-the-dtf-plan-works",
+   "kind": "page",
+   "chars": 185136
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/tradingviewtradovate-login-sessions-the-issues-the-explanation-and-the-fix",
+   "kind": "page",
+   "chars": 13256
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/how-the-legacy-end-of-day-plan-works",
+   "kind": "page",
+   "chars": 199354
+  },
+  {
+   "url": "https://elitetraderfunding.app/help/how-the-revamped-fast-track-plan-works",
+   "kind": "page",
+   "chars": 190997
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 1074708,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "Split Keep up to 100% Keep up to 100% Keep up to 100% Keep up to 100% Keep up to 100% Keep up to 100% Same Day Payout Approval Yes Yes Yes Yes Yes Yes Max Withdrawal Per Payout Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Lo",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "rs to LIVE ELITE at any time. Trades real capital on CME with an 80/20 profit split (80% to trader), uncapped, with daily payout eligibility on business days and a 48-hour payout approval guarantee.\\\"}}]}}16:o60,5:[\\\"$\\\",\\\"script\\\",null,{\\\"type\\\":\\\"application/ld+json\\\",\\\"dangerouslySetInnerHTML\\\"",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "150",
+    "snippet": "$$ in payouts last week Check Now Get Funded to Trade Futures with Accounts up to $150K Pass one evaluation, trade with no time limits, and build toward LIVE ELITE where qualified traders can receive same-day payouts on real capital. $13M+ Paid Out 13,000",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "95,000 at any time, the account fails. 3. ATD Requirements & Minimums (by DTF size) $10K DTF Account (Mini Inferno) ATDs per cycle: 5 Drawdown Type: End of Day Minimum realized profit per ATD: $150 50% Rule: Each ATD must be at least 50% of your best day\u2019",
+    "url": "https://elitetraderfunding.app/help/how-the-dtf-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "your best day\u2019s realized profit to count. Safety Net: $1,600 (max drawdown + $100) $25K DTF Account (no longer offered, applies to existing 25K DTF accounts) ATDs per cycle: 10 Drawdown Type: End of Day Minimum realized profit per ATD: $300 38% Rule: Ea",
+    "url": "https://elitetraderfunding.app/help/how-the-dtf-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "your best day\u2019s realized profit to count. Safety Net: $2,600 (max drawdown + $100) $50K DTF Account ATDs per cycle: 15 Drawdown Type: End of Day Minimum realized profit per ATD: $600 62% Rule: Each ATD must be at least 62% of your best day\u2019s realized pro",
+    "url": "https://elitetraderfunding.app/help/how-the-dtf-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "your best day\u2019s realized profit to count. Safety Net: $5,100 (max drawdown + $100) $100K DTF Account ATDs per cycle: 20 Drawdown Type: Static Minimum realized profit per ATD: $500 50% Rule: Each ATD must be at least 50% of your best day\u2019s realized profit",
+    "url": "https://elitetraderfunding.app/help/how-the-dtf-plan-works",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "13",
+    "snippet": "Elite Trader Funding: Best Futures Prop Firm | $13M+ Paid Out | Elite Trader Funding Plans Resources Rewards Testimonials Blog About Contact $$$ in payouts last week Check Now Get Funded to Trade Futures with Acco",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "$$ in payouts last week Check Now Get Funded to Trade Futures with Accounts up to $150K Pass one evaluation, trade with no time limits, and build toward LIVE ELITE where qualified traders can receive same-day payouts on real capital. $13M+ Paid Out 13,00",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "tions, prove your strategy, and earn a funded trading account with real capital from $10,000 to $150,000. There are no time limits, and payout requests are approved daily. More than $13M has been paid out to over 13,000 funded traders. 59,000+ Happy Customers",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "e your strategy, and earn a funded trading account with real capital from $10,000 to $150,000. There are no time limits, and payout requests are approved daily. More than $13M has been paid out to over 13,000 funded traders. 59,000+ Happy Customers $13M+ Tot",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ded traders. 59,000+ Happy Customers $13M+ Total Payouts 4+ Years in business $5M+ Invested in Live Traders 13,000+ Elite Sim-Funded Traders Why Traders Choose Us Choose the Right Plan for Your Trading Style Ready to start? Step 1 Ch",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "2,25",
+    "snippet": "me Day Payout Approval Yes Yes Yes Yes Yes Yes Max Withdrawal Per Payout Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "Approval Yes Yes Yes Yes Yes Yes Max Withdrawal Per Payout Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $4",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "Yes Yes Yes Yes Yes Max Withdrawal Per Payout Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once,",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "Yes Yes Max Withdrawal Per Payout Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly A",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "Withdrawal Per Payout Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly As Low As $47 P",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "47",
+    "snippet": "00 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly Free for 1st Month,",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "87",
+    "snippet": "Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly Free for 1st Month, Then $87 Monthly",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "elp Center About Us Contact Us Purchase Guarantee Plans & Products All Plans 1 Step Static Drawdown End of Day Diamond Hands Fast Track Direct to Funded Elite Sim-Funded LIVE ELITE Payouts Tools ATD Calculator Consistency Calculator Drawdown Calculator Position Size",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "Target Each Diamond Hands Evaluation has its own Profit Target and End-of-Day (EOD) Trailing Drawdown. The goal is to reach the Profit Target without hitting the EOD Drawdown. 2. Diamond Hands Trailing Drawdown \u2013 Evaluation Q: How does the End of Day trailing drawdown w",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "EOD",
+    "snippet": "(EOD) Trailing Drawdown. The goal is to reach the Profit Target without hitting the EOD Drawdown. 2. Diamond Hands Trailing Drawdown \u2013 Evaluation Q: How does the End of Day trailing drawdown work? In your Evaluation & Elite account, the drawdown trails your highest",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "end-of-day",
+    "snippet": "e\\\":\\\"Service\\\",\\\"name\\\":\\\"End of Day Evaluation\\\",\\\"description\\\":\\\"Evaluation with end-of-day drawdown rules designed for new traders, focusing on daily risk management to assess trading performance.\\\"}},{\\\"@type\\\":\\\"Offer\\\",\\\"itemOffered\\\":{\\\"@type\\\":\\\"Service\\\",\\\"name\\\"",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule?\n \n How much profit do traders keep?\n \n How do payouts work at Elite Trader Funding?\n \n I",
+    "snippet": "What are Elite Trader Funding's drawdown rules? Does Elite Trader Funding have a consistency rule? How much profit do traders keep? How do payouts work at Elite Trader Funding? Is Elite Trader Funding good for beginners? What makes Elite Trader Funding different from other prop firms? What happens if I fail my evaluation or hit my drawdow",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule and Active Trade Days (ATD) Explained Contract Limits How the Revamped EOD Plan Works How",
+    "snippet": "Market Depth a One-Time Payment or a Monthly Subscription? Plan Information & FAQ Consistency Rule and Active Trade Days (ATD) Explained Contract Limits How the Revamped EOD Plan Works How the Revamped Diamond Hands Plan Works How the Revamped Fast-Track Plan Works How the Legacy Fast-Track Plan Works How the Legacy Diamond Hands Plan Wor",
+    "url": "https://elitetraderfunding.app/help/plan-information-and-faq",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule and Active Trade Days (ATD) Explained\\\",\\\"featured\\\":false,\\\"category\\\":4,\\\"excerpt\\\":\\\"W",
+    "snippet": "6-06-11T20:28:15.175Z\\\",\\\"_status\\\":\\\"draft\\\"},\\\"articles\\\":[{\\\"id\\\":128,\\\"title\\\":\\\"Consistency Rule and Active Trade Days (ATD) Explained\\\",\\\"featured\\\":false,\\\"category\\\":4,\\\"excerpt\\\":\\\"What the consistency rule and Active Trade Day (ATD) requirements are, and the exact minimums and percentages for each ETF plan and account size.\\\",\\\"",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule and Active Trade Day (ATD) requirements are, and the exact minimums and percentages for e",
+    "snippet": "rade Days (ATD) Explained\\\",\\\"featured\\\":false,\\\"category\\\":4,\\\"excerpt\\\":\\\"What the consistency rule and Active Trade Day (ATD) requirements are, and the exact minimums and percentages for each ETF plan and account size.\\\",\\\"publishedAt\\\":\\\"2026-07-31T18:16:13.849Z\\\",\\\"slug\\\":\\\"consistency-rule-and-active-trade-days-atd-explained\\\"},{\\\"i",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirements",
+    "snippet": "The Request Reward button will not appear until you have satisfied both the ATD and consistency requirements . Reward Steps Meet Requirements: Ensure you\u2019ve met the safety net, required number of ATDs, and 30% consistency. Request a Reward: Visit your Trader Dashboard and requ",
+    "url": "https://elitetraderfunding.app/help/how-the-revamped-fast-track-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule on a Revamped Fast Track account? \n Share Article\n \n \n Previous How the Revamped Diamond",
+    "snippet": "y asked questions How long do I have to pass a Fast Track evaluation? What is the consistency rule on a Revamped Fast Track account? Share Article Previous How the Revamped Diamond Hands Plan Works Next How the Legacy Fast-Track Plan Works Getting Started! Connection Guide: Getting Connected to Your ETF Account Add-ons How to Install the ",
+    "url": "https://elitetraderfunding.app/help/how-the-revamped-fast-track-plan-works",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "daily",
+    "snippet": "ng account with real capital from $10,000 to $150,000. There are no time limits, and payout requests are approved daily. More than $13M has been paid out to over 13,000 funded traders. 59,000+ Happy Customers $13M+ Total Payouts 4+ Years in business $5M+ Invested in Live Traders",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "radeshield 2026-09-11T20:12:17.207Z monthly 0.6 https://elitetraderfunding.app/help/rise-sign-up-procedure 2026-08-14T22:32:22.511Z monthly 0.6 https://elitetraderfunding.app/help/overnight-margin-responsibilities-and-charges 2026-07-27T16:23:38.363Z monthl",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "crypto",
+    "snippet": "lse,\\\"category\\\":7,\\\"excerpt\\\":\\\"Learn how ETF rewards move through Rise, your bank, crypto wallet, and exchange withdrawal options, and what to do before requesting a reward.\\\",\\\"publishedAt\\\":\\\"2026-07-28T17:44:03.850Z\\\",\\\"slug\\\":\\\"payout-withdrawal-options\\\"",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": ". For Intermediate (Fast Track) plans, you must pass within 10 calendar days . Otherwise, the evaluation automatically fails. There are no renewals for Intermediate (Fast Track) accounts. Holidays and news: You may trade, but volatility can be very low or v",
+    "url": "https://elitetraderfunding.app/help/how-the-revamped-fast-track-plan-works",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "CFTC",
+    "snippet": "any trading system or methodology is not necessarily indicative of future results. CFTC RULE 4.41 - Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "limited resets (limited time) Unlimited resets (limited time) Trader Level Expert Master Beginner Standard+ Standard Intermediate Choose this plan : 1 Step Choose this plan : Direct To Funded Choose this plan : Static Choose this plan : Diamond Hands Choose this plan : End of Day Choose this plan : Fast Track Choose your plan Swipe to see",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Sca",
+    "snippet": "irst. Drawdown Type: End of Day Realized Profit Daily Loss Limit: Hard Breach Micro Scaling: 1 mini = 10 micros Pros Fresh start each day Encourages daily discipline More forgiving during volatile days Simpler to track and monitor Supports recovery after losses Aligns with real-world trading Flexibility for growing account Cons Strict dai",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Nfa",
+    "snippet": "e9fbcj2.public.blob.vercel-storage.com/Featured_Option2_DivergenceLine_08172026-bm3GONfabtOp3gGTHA9a3h7OM5U43P.png 2026-10-04T20:35:28.160Z weekly 0.65 https://elitetraderfunding.app/blog/a-prop-firm-challenge-returns-beat-the-beast-after-dark https://4bqxjnchle9fbcj2.public.blo",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "fsc",
+    "snippet": "started.\\\",\\\"section\\\":\\\"general\\\",\\\"order\\\":0,\\\"icon\\\":null,\\\"externalId\\\":\\\"cmi5skfsc0003j53msxt01to0\\\",\\\"slug\\\":\\\"getting-started\\\",\\\"slugLock\\\":false,\\\"updatedAt\\\":\\\"2026-07-27T16:22:38.220Z\\\",\\\"createdAt\\\":\\\"2026-06-11T20:28:12.138Z\\\",\\\"_status\\\":\\\"draft\\\"},\\\"articles\\\":[{\\\"id\\\":130,\\\"title\\\":\\\"Connection Guide: Getting Connected to ",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "Minimum Trade Day Requirement You must trade for a minimum of 3 days. Trading Day Basics What qualifies as a trading day? Any day you place a trade. Does Sunday count? Sunday evening and Monday count as the same trading day. Is there a maximum number of days? Yes. For Intermediate (Fast Track) plans, you must pass",
+    "url": "https://elitetraderfunding.app/help/how-the-revamped-fast-track-plan-works",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ard LIVE ELITE where qualified traders can receive sa",
+    "snippet": "h Accounts up to $150K Pass one evaluation, trade with no time limits, and build toward LIVE ELITE where qualified traders can receive same-day payouts on real capital. $13M+ Paid Out 13,000+ Funded Traders $150K Max Account Start Earning Now Start Earning Now Compare Plans Trading platforms we su",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Prove your edge in a simulated environment by manag",
+    "snippet": "oose account plans ranging from $10,000 to $150,000. Step 2 Pass your evaluation Prove your edge in a simulated environment by managing risk and reaching a profit target. Once you pass an evaluation, you move to an Elite Sim-Funded account where you can get paid. Step 3 Earn with our funds Trade you",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "of sa",
+    "snippet": "ply. Affiliates Keep up to 15% of sales you refer! View More 1 Step Evaluations 15% for the first 45 days Diamond Hands (DH) Evaluations 15% for the first 45 days End Of Day (EOD) Evaluations 15% for",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Yes. We have been operating sinc",
+    "snippet": "ttom right. Help Center Is Elite Trader Funding legit? Do they actually pay out? Yes. We have been operating since February 2022 and have paid out over $13 million to traders worldwide . That said, ETF is not built for people who want to stay in sim forever. Our mission is to find",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "That sa",
+    "snippet": "ating since February 2022 and have paid out over $13 million to traders worldwide . That said, ETF is not built for people who want to stay in sim forever. Our mission is to find skilled traders and move them into live accounts with real capital . Sim is a tool",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Discord X Instag",
+    "snippet": "e Copier Disclaimer Terms of Service Data Disclaimer Beat the Beast Rules Socials Discord X Instagram Facebook YouTube TikTok Plans & Products All Plans 1 Step Static Drawdown End of Day Diamond Hands Fast Track Direct to Funded Elite Sim-Funded LIVE ELITE Payouts",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Elite Trader Funding, LLC",
+    "snippet": "r Beat the Beast Rules Socials Discord X Instagram Facebook YouTube TikTok \u00a9 2026 Elite Trader Funding, LLC. Light Dark Developed by Quick14 Disclosures: Commodity Futures Trading Commission Futures required disclaimer. Commodity Futures Trading Commission: Futures and Opt",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Sell futures, stocks or options on the sa",
+    "snippet": "h money you can't afford to lose. This is neither a solicitation nor an offer to Buy/Sell futures, stocks or options on the same. No representation is being made that any account will or is likely to achieve profits or losses similar to those discussed on this web site. The past performance of a",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries are not eligible",
+    "snippet": "ise Onboarding: Complete KYC and onboard with Rise to receive payments. Residents of restricted countries are not eligible. Use this table to see the reward ranges for each funding amount and how they increase across cycles until reaching the $25,000 cap and Live account eligibility. Diamon",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund-policy 2026-07-27T16:26:09",
+    "snippet": "ocol_error 2026-08-14T22:32:44.524Z monthly 0.6 https://elitetraderfunding.app/help/refund-policy 2026-07-27T16:26:09.533Z monthly 0.6 https://elitetraderfunding.app/help/why-we-use-sumsub-for-customer-verification 2026-07-27T16:26:07.982Z monthly 0.6 https://elitetraderfunding.app/he",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refund Policy Why We Use SumSub for Customer Verification Phone Number Opt-In: Simple & Secure Our Bug Bounty Program: R",
+    "snippet": "ral Questions Can I Update My Email Address? Troubleshooting: ERR_SSL_PROTOCOL_ERROR Refund Policy Why We Use SumSub for Customer Verification Phone Number Opt-In: Simple & Secure Our Bug Bounty Program: Responsible Disclosure Policy Routine Maintenance Every Weekday Between 4-5 PM CST Forex and Futures Symbol Guide: Currency Pairs, Metal",
+    "url": "https://elitetraderfunding.app/help/plan-information-and-faq",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy\\\",\\\"featured\\\":false,\\\"category\\\":3,\\\"excerpt\\\":\\\"All sales are final",
+    "snippet": ".514Z\\\",\\\"slug\\\":\\\"troubleshooting-err_ssl_protocol_error\\\"},{\\\"id\\\":118,\\\"title\\\":\\\"Refund Policy\\\",\\\"featured\\\":false,\\\"category\\\":3,\\\"excerpt\\\":\\\"All sales are final. The one exception is our 100% Satisfaction Guarantee, conditions apply.\\\",\\\"publishedAt\\\":\\\"2025-11-19T16:26:23.547Z\\\",\\\"slug\\\":\\\"refund-policy\\\"},{\\\"id\\\":117,\\\"title\\\"",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   },
+   {
+    "value": "refund-policy\\\"},{\\\"id\\\":117,\\\"title\\\":\\\"Why We Use SumSub for Customer Verification\\\",\\\"featured\\\":false,\\\"category\\\":3",
+    "snippet": "arantee, conditions apply.\\\",\\\"publishedAt\\\":\\\"2025-11-19T16:26:23.547Z\\\",\\\"slug\\\":\\\"refund-policy\\\"},{\\\"id\\\":117,\\\"title\\\":\\\"Why We Use SumSub for Customer Verification\\\",\\\"featured\\\":false,\\\"category\\\":3,\\\"excerpt\\\":\\\"At ETF, we\u2019re committed to providing you with a safe, secure, and seamless experience. That\u2019s why we\u2019ve partnered with S",
+    "url": "https://elitetraderfunding.app/help/how-the-legacy-diamond-hands-plan-works",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal capital",
+    "snippet": "and build toward LIVE ELITE where qualified traders can receive same-day payouts on real capital. $13M+ Paid Out 13,000+ Funded Traders $150K Max Account Start Earning Now Start Earning Now Compare Plans Trading platforms we support Elite Trader Fundin",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Earning Now Start Earning Now Compare Plans \n \n \n Trading platforms we support\n \n \n Elite Trader Funding is a futures pr",
+    "snippet": "ts on real capital. $13M+ Paid Out 13,000+ Funded Traders $150K Max Account Start Earning Now Start Earning Now Compare Plans Trading platforms we support Elite Trader Funding is a futures prop firm that helps traders get funded to trade. Choose from six trading evaluations, prove your strategy, and earn a funded trading account with real",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "earn a funded trading account with real capital from $10,000 to $150,000",
+    "snippet": "s get funded to trade. Choose from six trading evaluations, prove your strategy, and earn a funded trading account with real capital from $10,000 to $150,000. There are no time limits, and payout requests are approved daily. More than $13M has been paid out to over 13,000 funded traders. 59,000+ Happy Customers $13M+ Tota",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "ears in business\n $5M+\n Invested in Live Traders\n 13,000+\n Elite Sim-Funded Traders\n Why Traders Choose Us\n \n \n Choose t",
+    "snippet": "to over 13,000 funded traders. 59,000+ Happy Customers $13M+ Total Payouts 4+ Years in business $5M+ Invested in Live Traders 13,000+ Elite Sim-Funded Traders Why Traders Choose Us Choose the Right Plan for Your Trading Style Ready to start? Step 1 Choose a Product Select the evaluation plan that matches your trading goals. Choose account",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "eady to start?\n \n Step 1 Choose a Product\n Select the evaluation plan that matches your trading goals",
+    "snippet": "aders Why Traders Choose Us Choose the Right Plan for Your Trading Style Ready to start? Step 1 Choose a Product Select the evaluation plan that matches your trading goals. Choose account plans ranging from $10,000 to $150,000. Step 2 Pass your evaluation Prove your edge in a simulated environment by managing risk and reaching a profit",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "al-options 2026-08-26T20:22:13.593Z monthly 0.6 https://elitetraderfunding.app/help/vpn-and-ip-masking-policy 2026-08-26T19:02:06.951Z monthly 0.6 https://elitetraderfunding.app/help/correlated-and-substantially-similar-instruments 2026-08-14T22:32:45.472Z monthly 0.6 https://elitetraderfunding.a",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC could be easier as the website times out too fast",
+    "snippet": "ent and helpful customer service! Csaba J The approval process is good and fast. The KYC could be easier as the website times out too fast... Paul in Texas Love you guys Edgar Gil Trading with ETF has been such a great experience. I really can't think of a problem, any problem at all with them. Their 50k st",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "kyc-policy-and-registering-as-a-business 2026-09-30T18:45:07",
+    "snippet": "-advantage 2026-07-27T16:24:37.216Z monthly 0.6 https://elitetraderfunding.app/help/kyc-policy-and-registering-as-a-business 2026-09-30T18:45:07.396Z monthly 0.6 https://elitetraderfunding.app/help/trading-disclaimer 2026-08-18T20:01:56.939Z monthly 0.6 https://elitetraderfunding.app/help/rithmic-account-not-sh",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC Policy and Registering as a Business How Do Rewards Work? Rise Sign-up Procedure Reward Audit FAQ \n Add-ons A",
+    "snippet": "lan (LIVE ELITE Legacy) Rewards Reward Withdrawal Options 48-Hour Reward Guarantee KYC Policy and Registering as a Business How Do Rewards Work? Rise Sign-up Procedure Reward Audit FAQ Add-ons Add-on: Double Down Deal (3D) Add-on: PriceSlash Add-on: Billing Model Add-on: TradeShield Add-on: One Day to Pass Trade Competition Trade Competit",
+    "url": "https://elitetraderfunding.app/help/plan-information-and-faq",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee As Low As $47 Paid Once,\n $87 Monthly\n None\n As Low As $47 Paid Once,\n $87 Monthly\n As Low As $47 Paid On",
+    "snippet": "Up to $2,250 Up to $5,000 Up to $2,000 Up to $2,500 Up to $3,000 Up to $1,500 Activation Fee As Low As $47 Paid Once, $87 Monthly None As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly As Low As $47 Paid Once, $87 Monthly Free for 1st Month, Then $87 Monthly One-Time Activation Fee As Low as $157 None $177 $307 As ",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee As Low as $157\n None\n $177\n $307\n As Low as $177\n Ineligible\n Eval Reset Fee $47\n Ineligible\n $47\n $47\n $",
+    "snippet": "Low As $47 Paid Once, $87 Monthly Free for 1st Month, Then $87 Monthly One-Time Activation Fee As Low as $157 None $177 $307 As Low as $177 Ineligible Eval Reset Fee $47 Ineligible $47 $47 $47 Ineligible Funded Reset Unlimited resets (limited time) Unlimited resets (limited time) Unlimited resets (limited time) Unlimited resets (limited t",
+    "url": "https://elitetraderfunding.app/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription 2026-09-30T18:45:06",
+    "snippet": "14T22:32:40.719Z monthly 0.6 https://elitetraderfunding.app/help/how-do-i-cancel-my-subscription 2026-09-30T18:45:06.615Z monthly 0.6 https://elitetraderfunding.app/help/how-the-revamped-diamond-hands-plan-works 2026-10-08T21:34:15.450Z monthly 0.6 https://elitetraderfunding.app/help",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscription-renewal 2026-07-27T16:25:21",
+    "snippet": "08T15:23:58.073Z monthly 0.6 https://elitetraderfunding.app/help/automatic-reset-on-subscription-renewal 2026-07-27T16:25:21.175Z monthly 0.6 https://elitetraderfunding.app/help/data-technology-platform-disclaimer 2026-07-27T16:25:19.625Z monthly 0.6 https://elitetraderfunding.app/help/routi",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscription 2026-07-27T16:23:04",
+    "snippet": "ps://elitetraderfunding.app/help/is-cme-market-depth-a-one-time-payment-or-a-monthly-subscription 2026-07-27T16:23:04.030Z monthly 0.6 https://elitetraderfunding.app/help/troubleshooting-rithmic-login-issues 2026-08-14T22:32:20.992Z monthly 0.6 https://elitetraderfunding.app/help/acco",
+    "url": "https://elitetraderfunding.app/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "Affiliates Keep up to 15% of sales you refer! View More 1 Step Evaluations 15% for the first 45 days Diamond Hands (DH) Evaluations 15% for the first 45 days End Of Day (EOD) Evaluations 15% for the first 45 days Sta",
+   "url": "https://elitetraderfunding.app/"
+  }
+ ],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Rithmic"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "One-time payment, no further charges) $75 (One-time payment, no further charges) Key Takeaways Post-Oct 1, 2024 Accounts: Billing continues for passed evaluations qualified on or a",
+  "sed evaluations qualified on or after October 1, 2024, ensuring account validity for activation. Pre-Oct 1, 2024 Accounts: Evaluations qualified before October 1 are grandfathered,",
+  "ting your Evaluation does not change your monthly subscription renewal. Billing Policy Overview Post-Oct 1, 2024 Accounts: Billing continues for passed evaluations qualified on or a",
+  "sed evaluations qualified on or after October 1, 2024, ensuring account validity for activation. Pre-Oct 1, 2024 Accounts: Evaluations qualified before October 1 are grandfathered,",
+  "e Elite Sim-Funded accounts. Fast Track Account Restriction: Under the grandfathered 20-account limit, only 5 accounts can be from passed Fast Track evaluations. This limit is de",
+  ",\\\"description\\\":\\\"Real-capital funded tier for qualified Elite Sim-Funded traders. Qualification milestones: 5 payouts, 50 active trading days, or $25,000 in total payouts; ETF m"
+ ],
+ "errors": []
+}

@@ -1,0 +1,12 @@
+{
+ "slug": "bulenox",
+ "name": "Bulenox",
+ "category": "Futures",
+ "url": "https://bulenox.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:521:http-521"
+ ]
+}

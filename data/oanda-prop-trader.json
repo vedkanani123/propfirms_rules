@@ -1,0 +1,353 @@
+{
+ "slug": "oanda-prop-trader",
+ "name": "OANDA Prop Trader",
+ "category": "Historical/Uncertain",
+ "url": "https://www.oanda.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.oanda.com/us-en/",
+   "kind": "home",
+   "chars": 12873
+  },
+  {
+   "url": "https://www.oanda.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 1966
+  },
+  {
+   "url": "https://www.oanda.com/sitemap_other-pages.xml",
+   "kind": "sitemap",
+   "chars": 17992
+  },
+  {
+   "url": "https://www.oanda.com/au-cn/sitemap_au-cn.xml",
+   "kind": "sitemap",
+   "chars": 12035
+  },
+  {
+   "url": "https://www.oanda.com/au-en/sitemap_au-en.xml",
+   "kind": "sitemap",
+   "chars": 47784
+  },
+  {
+   "url": "https://www.oanda.com/bvi-cn/sitemap_bvi-cn.xml",
+   "kind": "sitemap",
+   "chars": 7939
+  },
+  {
+   "url": "https://www.oanda.com/au-cn/trading/our-pricing/",
+   "kind": "page",
+   "chars": 7342
+  },
+  {
+   "url": "https://www.oanda.com/au-en/trading/our-pricing/",
+   "kind": "page",
+   "chars": 13013
+  },
+  {
+   "url": "https://www.oanda.com/group/press-release/spreads-from-01-and-aud350100k-commission-with-oandas-core-pricing-model/",
+   "kind": "page",
+   "chars": 18501
+  },
+  {
+   "url": "https://www.oanda.com/bvi-cn/cfds/our-pricing/",
+   "kind": "page",
+   "chars": 7970
+  },
+  {
+   "url": "https://www.oanda.com/us-en/trading/our-pricing/",
+   "kind": "page",
+   "chars": 13080
+  },
+  {
+   "url": "https://www.oanda.com/group/press-release/spreads-01-and-usd50million-commission-oandas-core-pricing-model/",
+   "kind": "page",
+   "chars": 18369
+  },
+  {
+   "url": "https://www.oanda.com/au-en/skills-and-insights/education/technical-analysis/price-charts-and-candlesticks/heikin-ashi-candles-explained/",
+   "kind": "page",
+   "chars": 18049
+  },
+  {
+   "url": "https://www.oanda.com/au-en/skills-and-insights/education/fundamental-analysis/macroeconomics/what-is-the-consumer-price-index/",
+   "kind": "page",
+   "chars": 17265
+  },
+  {
+   "url": "https://www.oanda.com/au-en/trading/tools/day-trading-and-price-action/",
+   "kind": "page",
+   "chars": 7994
+  },
+  {
+   "url": "https://www.oanda.com/au-en/skills-and-insights/education/trading-asset-classes/forex/understanding-and-trading-price-gaps-in-forex/",
+   "kind": "page",
+   "chars": 19418
+  },
+  {
+   "url": "https://www.oanda.com/au-en/skills-and-insights/education/trading-asset-classes/commodities/opec-role-crude-oil-prices/",
+   "kind": "page",
+   "chars": 15049
+  },
+  {
+   "url": "https://www.oanda.com/au-en/skills-and-insights/education/technical-analysis/price-charts-and-candlesticks/chart-patterns-in-technical-analysis-a-comprehensive-guide/",
+   "kind": "page",
+   "chars": 23568
+  },
+  {
+   "url": "https://help.oanda.com/us/en/home.htm",
+   "kind": "sub",
+   "chars": 5368
+  },
+  {
+   "url": "https://help.oanda.com/secure/0/alert?type=PageNotFound",
+   "kind": "subsitemap",
+   "chars": 135
+  },
+  {
+   "url": "https://www.oanda.com/us-en/",
+   "kind": "sub",
+   "chars": 12873
+  }
+ ],
+ "page_count": 21,
+ "total_chars": 298603,
+ "findings": {
+  "prices": [
+   {
+    "value": "3.50",
+    "snippet": "with commission. Our raw spreads pricing starts from 0.0 on major FX CFD pairs, with $3.50 commissions per 100,000 volume. Spread only vs raw spreads with commission View our pricing on our most popular FX CFD pairs. See our commission pri",
+    "url": "https://www.oanda.com/au-en/trading/our-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "10,00",
+    "snippet": "outh Africa 16th July, 2024 OANDA Prop Trader Enables Crypto Payments and Launches $10,000 Giveaway Sweepstakes 15th April, 2024 OANDA Prop Trader Highlights Enhanced Trading Conditions 7th March, 2024 OANDA takes home major TradingView prize \u2014 Broker of",
+    "url": "https://www.oanda.com/group/press-release/spreads-from-01-and-aud350100k-commission-with-oandas-core-pricing-model/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ead is the only cost you pay. Elite Trader program Earn cash rebates from US$5 to US$17 per million with our Elite Trader program. Designed exclusively for our high volume traders, this is the program that gives you more, the more you trade.",
+    "url": "https://www.oanda.com/us-en/trading/our-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "17",
+    "snippet": "he only cost you pay. Elite Trader program Earn cash rebates from US$5 to US$17 per million with our Elite Trader program. Designed exclusively for our high volume traders, this is the program that gives you more, the more you trade. Explore",
+    "url": "https://www.oanda.com/us-en/trading/our-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "0.01",
+    "snippet": "aller than 100,000 will be charged on a pro-rata basis. The minimum commission of is $0.01 per trade. Commission charges will be converted to the account home currency using our prevailing rate in effect at the time of the trade. Other account maintenance cha",
+    "url": "https://www.oanda.com/us-en/trading/our-pricing/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Online Forex Broker & Crypto Trading | OANDA | US Help Account su",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "egistered office at Dashwood House, 69 Old Broad Street, London EC2M 1QS. It is authorised and regulated by the Financial Conduct Authority, No: 542574. OANDA Asia Pacific Pte Ltd (Co. Reg. No 200704926K) holds a Capital Markets Services Licence issued by th",
+    "url": "https://www.oanda.com/group/press-release/spreads-from-01-and-aud350100k-commission-with-oandas-core-pricing-model/",
+    "kind": "page"
+   },
+   {
+    "value": "Wire transfer",
+    "snippet": "bates A dedicated relationship manager who prioritises your requests Wire transfer fee reimbursements Professional market analysis reports (English) Discover Premium Trader \u51c6\u5907\u597d\u4e86\u5417\uff1f \u5f00\u8bbe\u8d26\u6237\u53ea\u9700\u51e0\u5206\u949f\u3002 \u521b\u5efa\u8d26\u6237",
+    "url": "https://www.oanda.com/bvi-cn/cfds/our-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "rt. Other - a \u2018catch-all\u2019 category covering a wide range of goods and services otherwise not covered in other groups. It should be noted, however, that each category is not weighted equally as part of the calculation and is instead aimed at being repr",
+    "url": "https://www.oanda.com/au-en/skills-and-insights/education/fundamental-analysis/macroeconomics/what-is-the-consumer-price-index/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "CFTC",
+    "snippet": "o they receive a preference in any bankruptcy proceeding pursuant to Part 190 of the CFTC's regulations. The CFTC has issued a customer advisory to inform the public of possible risks associated with investing or speculating in virtual currencies. Before investing, please",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "NFA",
+    "snippet": "ual currency transactions occur on the Paxos Trust Company exchange. Paxos is not an NFA member and is not subject to the NFA's regulatory oversight and examinations. OANDA Corporation is not party to any transactions in virtual currencies and does not custody virtual currencies on your behalf. OANDA Corporation is a registered Futu",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "-08 https://www.oanda.com/group/press-release/what-is-shaping-the-retail-trading-landscape/ 2026-07-08 https://www.oanda.com/group/press-release/australia-wins-multiple-awards-in-investment-trends-2024-report/ 2026-07-08 https://www.oanda.com/group/press-release/cvc-agree-sale-of-oan",
+    "url": "https://www.oanda.com/sitemap_other-pages.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "dership/otakar-suffner/ 2026-09-29 https://www.oanda.com/group/our-leadership/marek-vasicek/ 2026-09-29 https://www.oanda.com/group/our-leadership/philip-holemans/ 2026-09-29 https://www.oanda.com/group/our-leadership/lisa-shemie/ 2026-09-29 https://www.oanda.com/group/our-leadership/",
+    "url": "https://www.oanda.com/sitemap_other-pages.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "oanda.com/au-en/skills-and-insights/education/trading-strategies/building-strategies/mastering-rsi-trading-strategies/ 2026-06-08 https://www.oanda.com/au-en/skills-and-insights/education/trading-strategies/building-strategies/navigating-news-trading-strategies-and-considerations/ 2026-06-10 https://www.oanda.",
+    "url": "https://www.oanda.com/au-en/sitemap_au-en.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "his website are the property of their respective owners. OANDA Australia Pty Ltd is regulated by the Australian Securities and Investments Commission ASIC (ABN 26 152 088 349, AFSL No. 412981) and is the issuer of the products and/or services on this website. It's important for you to consider the current Financial Service Guide (FSG) , P",
+    "url": "https://www.oanda.com/au-en/trading/our-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "FCA",
+    "snippet": "jor TradingView prize \u2014 Broker of the Year 2023 26th February, 2024 OANDA launches FCA-registered crypto trading platform in the UK 26th February, 2024 OANDA Corporation financial statements 22nd January, 2024 OANDA unveils Prop Trader program 11th January, 2024 OANDA Launches integration with TradingView in the EU 2023 9th October, 2023 ",
+    "url": "https://www.oanda.com/group/press-release/spreads-from-01-and-aud350100k-commission-with-oandas-core-pricing-model/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "tween our account types and the range of benefits, inc",
+    "snippet": "s Account types Account types Discover the difference between our account types and the range of benefits, including institution-grade execution. Elite Trader Sub-account differences Core spread plus commission pricing plan Corporat",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "first-place-usa",
+    "snippet": "ork Red Bulls Log in img]:mt-5\" href=\"https://join.oanda.com/us-en/first-place-usa-bonus/\" rel=\"\"> Oanda Choose America\u2019s first place broker ^ New clients who opt in to our welcome offer will get a bonus when they meet our",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "Best Forex Broker In USA",
+    "snippet": "Join us p]:my-0\"> * See the full terms and conditions of this offer. ^ 'Best Forex Broker In USA' (Compare Forex Brokers\u2019 2026 Awards). Our TradingView score Trade with confidence when you trade with OANDA, knowing we\u2019re t",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "clients who open an account after January 1, 2026. Limited",
+    "snippet": "p]:my-0\"> \u00b1 Terms apply . Minimum deposit and conditions to be met. New clients who open an account after January 1, 2026. Limited to one per household. Offer ends December 31, 2026. Our latest wins Trade with confidence when you trade with OANDA, an award-winning global broker",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "ore our platforms, learn how to use our app and manag",
+    "snippet": "Trade smarter with our how-to videos Explore our platforms, learn how to use our app and manage risk with our range of educational content. div]:h-[99%] [&>div]:mx-0 md:[&>div]:mx-4 xl:[&>div]:mx-6\"> Explore OANDA\u2019s Elite Trader",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "How to create & manag",
+    "snippet": "md:[&>div]:mx-4 xl:[&>div]:mx-6\"> OANDA Hub explained: How to create & manage your trading accounts div]:h-[99%] [&>div]:mx-0 md:[&>div]:mx-4 xl:[&>div]:mx-6\"> OANDA Order book explained: How to track client ord",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "A dedicated relationship manag",
+    "snippet": "on third-party platforms, such as TradingView VIP content and events A dedicated relationship manager See if you qualify p]:my-0\"> ** Subject to meeting the criteria set out in the account package offering. Fully automated forex",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "to meeting the criteria set out in the account packag",
+    "snippet": "d relationship manager See if you qualify p]:my-0\"> ** Subject to meeting the criteria set out in the account package offering. Fully automated forex trading platform, mobile and tablet apps The OANDA platform can be accessed from your browser, mobile and tablet",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "200704926K",
+    "snippet": "ted by the Financial Conduct Authority, No: 542574. OANDA Asia Pacific Pte Ltd (Co. Reg. No 200704926K) holds a Capital Markets Services Licence issued by the Monetary Authority of Singapore. OANDA Asia Pacific Pte Ltd has its office at 1 Raffles Place #26-02, One Raffles",
+    "url": "https://www.oanda.com/group/press-release/spreads-from-01-and-aud350100k-commission-with-oandas-core-pricing-model/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eads & margins\n \n \n \n \n \n \n \n Calculating margin\n \n \n \n \n \n \n Calculating profit & loss\n \n \n \n \n \n \n Our pricing",
+    "snippet": "Instruments Forex Cryptocurrencies Spreads & margins Calculating margin Calculating profit & loss Our pricing Our charges Financing fees Hours of operation Holiday trading hours Trading FAQs Platforms",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "eads calculator\n \n \n \n \n \n \n Partner tools\n \n \n \n \n \n \n VPS partners\n \n \n \n \n \n \n OANDA Labs\n \n \n \n \n \n \n Skills & insig",
+    "snippet": "MT4 open order indicator Technical analysis Spreads calculator Partner tools VPS partners OANDA Labs Skills & insights News & views Tools FAQs Account types Account types Discover the difference between our account types and the ran",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "ead plus commission pricing plan\n \n \n \n \n \n \n Corporate account\n \n \n \n \n \n \n \n \n \n \n \n Offers\n \n \n Offers\n Explore our o",
+    "snippet": "ion. Elite Trader Sub-account differences Core spread plus commission pricing plan Corporate account Offers Offers Explore our offers and make the most of trading with us. Elite Trader TradingView plan Spreads from 0.0 pips a]:text-sm md:",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "eads from 0",
+    "snippet": "trading with us. Elite Trader TradingView plan Spreads from 0.0 pips a]:text-sm md:[&>a]:text-base 2xl:[&>a]:text-lg [&>a]:py-[10px] [&>a]:px-4 md:[&>a]:py-3 md:[&>a]:px-6 2xl:[&>a]:px-10\"> Log in",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   },
+   {
+    "value": "eads & margins\n \n \n Calculating margin\n \n \n Calculating profit & loss\n \n \n Our pricing\n \n \n Our charges\n \n \n Financing f",
+    "snippet": "Trading Trading Instruments Forex Cryptocurrencies Spreads & margins Calculating margin Calculating profit & loss Our pricing Our charges Financing fees Hours of operation Holiday trading hours Trading FAQs Trading Platforms OANDA Mobile for Forex OANDA Paxos for Crypto OANDA Web",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "cal analysis Spreads calculator Partner tools VPS partners OANDA Labs Skills & insights News & views Tools FAQs Account types Account types Discover the difference between our account types and the range of benefits, including institution-grade exe",
+    "url": "https://www.oanda.com/us-en/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "pr@oanda.com",
+    "snippet": "ia relations contact Melinda Earsdon Global Head of Public Relations +65 6579 8288 pr@oanda.com Archive 2025 18th December, 2025 OANDA adds ETF CFD trading and fractional CFD trading on metals to its offering in the UK 2nd December, 2025 FT",
+    "url": "https://www.oanda.com/group/press-release/spreads-from-01-and-aud350100k-commission-with-oandas-core-pricing-model/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

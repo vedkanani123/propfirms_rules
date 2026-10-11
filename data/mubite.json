@@ -1,0 +1,631 @@
+{
+ "slug": "mubite",
+ "name": "MUBITE",
+ "category": "Forex/CFD",
+ "url": "https://mubite.com/en/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://mubite.com/en",
+   "kind": "home",
+   "chars": 43873
+  },
+  {
+   "url": "https://mubite.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 29935
+  },
+  {
+   "url": "https://mubite.com/en/crypto-reports/crypto-donations-under-scrutiny-as-uk-plans-new-political-funding-rules",
+   "kind": "page",
+   "chars": 10197
+  },
+  {
+   "url": "https://mubite.com/en/frequently-asked-questions/do-free-challenge-accounts-have-payout-limits",
+   "kind": "page",
+   "chars": 7967
+  },
+  {
+   "url": "https://mubite.com/en/crypto-reports/dogecoin-price-prediction-technical-breakout-meets-musks-moon-plan",
+   "kind": "page",
+   "chars": 8499
+  },
+  {
+   "url": "https://mubite.com/en/challenge-prices",
+   "kind": "page",
+   "chars": 24001
+  },
+  {
+   "url": "https://mubite.com/en/challengeRules",
+   "kind": "page",
+   "chars": 5878
+  },
+  {
+   "url": "https://mubite.com/en/frequently-asked-questions/smart-drawdown-rules-instant-funding",
+   "kind": "page",
+   "chars": 7532
+  },
+  {
+   "url": "https://mubite.com/en/frequently-asked-questions/are-there-any-consistency-rules",
+   "kind": "page",
+   "chars": 6762
+  },
+  {
+   "url": "https://mubite.com/en/frequently-asked-questions/how-is-smart-drawdown-recalculated-after-i-receive-a-payout",
+   "kind": "page",
+   "chars": 7132
+  },
+  {
+   "url": "https://mubite.com/en/crypto-reports/breakout-crypto-trading-rules",
+   "kind": "page",
+   "chars": 12755
+  },
+  {
+   "url": "https://mubite.com/en/crypto-reports/bitcoin-price-outlook-cryptoquant-sees-key-resistance-levels",
+   "kind": "page",
+   "chars": 8573
+  },
+  {
+   "url": "https://mubite.com/en/crypto-reports/bitcoin-price-today-btc-surges-as-stocks-rebound-eyes-70k-break",
+   "kind": "page",
+   "chars": 8919
+  },
+  {
+   "url": "https://mubite.com/en/crypto-reports/xrp-price-prediction-binance-whale-inflows-signal",
+   "kind": "page",
+   "chars": 7234
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 189270,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "o: Trading Academy Trading eBook Psychological Assessment Market Forecasting Tool Profit target Make 10% profit in Phase 1 to unlock Phase 2. In Phase 2, make 5% profit to complete the challenge. Example: on a $10,000 account, you need to earn $1,000 to complete the phase",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "ditions in Mubite? What coins and altcoins can I trade with Mubite on Bybit? What is Daily Drawdown and how is it calculated? What is the 3% Risk Per Trade Rule? What is the Consistency Rule and why is it important? What is the maximum position size rule? What is the Mirroring Detection Rule? What is the Mubi",
+    "url": "https://mubite.com/en/frequently-asked-questions/do-free-challenge-accounts-have-payout-limits",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "a rule to read the full explanation. Profit Target 10% + 5% Maximum Drawdown 8-10% Daily Drawdown 5% Min Trading Days 13 days Profit Split 80-90% Leverage 1:100 Profit Target 10% + 5% A trading day counts when you close at least one qualifying order. Maximum Drawdown",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "2",
+    "snippet": "Easier Target (8%) Profit target lowered from 10% to 8% +20% Extra 2% Drawdown Room Max loss increased by 2% +20% No Minimum Trading Days Get funded without the 10-day minimum +10% Choose Your Crypto Trading Platform Access professional crypto trading infrastructure design",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ules at a glance Select a rule to read the full explanation. Profit Target 10% + 5% Maximum Drawdown 8-10% Daily Drawdown 5% Min Trading Days 13 days Profit Split 80-90% Leverage 1:100 Profit Target 10% + 5% A trading day counts when you close at least one qualifying order.",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "Positions You can hold positions overnight and through weekends Risk Per Trade 3% Max loss of 3% of your equity (at trade open) per trade, calculated from realized losses \u2014 no single partial close may realize a loss greater than 3%. Cumulatively, the trade's net rea",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "d. Show more Profit split How much of your trading profits you keep: You start with 80% profit share and increase it to 90% after making 10% profit within 3 months. Or get 90% from the start with the add-on Add 10% to profit split. When you can withdraw your profits: o",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ter making 10% profit within 3 months. Or get 90% from the start with the add-on Add 10% to profit split. When you can withdraw your profits: once you are eligible, your first withdrawal is available on demand, whenever you want. After that, payouts follow a simple bi-week",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "phase is free, and funded traders receive their fee back as a refund. Show more Yes 100% Profit split How much of your trading profits you keep: You start with 80% profit share and increase it to 90% after making 10% profit within 3 months. Or get 90% from the start with",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "every 2 weeks. Show more Up to 90 % Modify your experience with optional add-ons 90% Profit Split Keep 90% of your profits instead of 80% +20% Easier Target (8%) Profit target lowered from 10% to 8% +20% Extra 2% Drawdown Room Max loss increased by 2% +20% No Minimum",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "10",
+    "snippet": "lowered from 10% to 8% +20% Extra 2% Drawdown Room Max loss increased by 2% +20% No Minimum Trading Days Get funded without the 10-day minimum +10% Choose Your Crypto Trading Platform Access professional crypto trading infrastructure designed for simulated funded trading accounts. Trade on maj",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "13",
+    "snippet": "e full explanation. Profit Target 10% + 5% Maximum Drawdown 8-10% Daily Drawdown 5% Min Trading Days 13 days Profit Split 80-90% Leverage 1:100 Profit Target 10% + 5% A trading day counts when you close at least one qualifying order. Maximum Drawdown 8-10% The maximum t",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "Pass the challenge and unlock a simulated funded crypto trading account with up to $200K in simulated capital. 5. Keep your profits Receive real-money payouts and keep up to 90% of eligible profits. Get Started How Mubite works \u2192 Register Quick signup,",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "70",
+    "snippet": "Bitcoin Price Today: BTC Surges 8% as Stocks Rebound, Eyes $70K Break How it works How Mubite works From challenge to first payout. Challenge rules Limits, targets and trading rules. Trading platforms Set up Bybit or Cleo. Plans &",
+    "url": "https://mubite.com/en/crypto-reports/bitcoin-price-today-btc-surges-as-stocks-rebound-eyes-70k-break",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "Pass the challenge and unlock a simulated funded crypto trading account with up to $200K in simulated capital. 5. Keep your profits Receive real-money payouts and keep up to 90% of eligible profits. Get Started How Mubite works \u2192 Register Quick signup",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "41,32",
+    "snippet": "Successful payouts Real payout examples from funded Mubite traders. Payout Amount $41,320 Trader Marco D. Payout Amount $37,900 Trader Nathanh L. Payout Amount $31,740 Trader \ubc15\uc11c\uc5f0 Payout Amount $29,260 Trader Omar Al M. Payout Amount $26,410",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "37,90",
+    "snippet": "rom funded Mubite traders. Payout Amount $41,320 Trader Marco D. Payout Amount $37,900 Trader Nathanh L. Payout Amount $31,740 Trader \ubc15\uc11c\uc5f0 Payout Amount $29,260 Trader Omar Al M. Payout Amount $26,410 Trader Giuseppe R. Payout Amount $24,95",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "31,74",
+    "snippet": "41,320 Trader Marco D. Payout Amount $37,900 Trader Nathanh L. Payout Amount $31,740 Trader \ubc15\uc11c\uc5f0 Payout Amount $29,260 Trader Omar Al M. Payout Amount $26,410 Trader Giuseppe R. Payout Amount $24,950 Trader Antoine R. Payout Amount $22,43",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "29,26",
+    "snippet": "nt $37,900 Trader Nathanh L. Payout Amount $31,740 Trader \ubc15\uc11c\uc5f0 Payout Amount $29,260 Trader Omar Al M. Payout Amount $26,410 Trader Giuseppe R. Payout Amount $24,950 Trader Antoine R. Payout Amount $22,430 Trader \u041c\u0430\u0440\u043a\u043e\u043d K. Payout Amount",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "26,41",
+    "snippet": "nt $31,740 Trader \ubc15\uc11c\uc5f0 Payout Amount $29,260 Trader Omar Al M. Payout Amount $26,410 Trader Giuseppe R. Payout Amount $24,950 Trader Antoine R. Payout Amount $22,430 Trader \u041c\u0430\u0440\u043a\u043e\u043d K. Payout Amount $19,870 Trader Jo\u00e3o P. Payout Amount $16",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "24,95",
+    "snippet": "260 Trader Omar Al M. Payout Amount $26,410 Trader Giuseppe R. Payout Amount $24,950 Trader Antoine R. Payout Amount $22,430 Trader \u041c\u0430\u0440\u043a\u043e\u043d K. Payout Amount $19,870 Trader Jo\u00e3o P. Payout Amount $16,177 Trader Michael R. Payout Amount $13,",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "22,43",
+    "snippet": "410 Trader Giuseppe R. Payout Amount $24,950 Trader Antoine R. Payout Amount $22,430 Trader \u041c\u0430\u0440\u043a\u043e\u043d K. Payout Amount $19,870 Trader Jo\u00e3o P. Payout Amount $16,177 Trader Michael R. Payout Amount $13,460 Trader Xan T. Payout Amount $12,010",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "19,87",
+    "snippet": "4,950 Trader Antoine R. Payout Amount $22,430 Trader \u041c\u0430\u0440\u043a\u043e\u043d K. Payout Amount $19,870 Trader Jo\u00e3o P. Payout Amount $16,177 Trader Michael R. Payout Amount $13,460 Trader Xan T. Payout Amount $12,010 Trader Michal S. Payout Amount $10,031",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "16,17",
+    "snippet": "$22,430 Trader \u041c\u0430\u0440\u043a\u043e\u043d K. Payout Amount $19,870 Trader Jo\u00e3o P. Payout Amount $16,177 Trader Michael R. Payout Amount $13,460 Trader Xan T. Payout Amount $12,010 Trader Michal S. Payout Amount $10,031 Trader Michal S. Payout Amount $9,031",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "13,46",
+    "snippet": "$19,870 Trader Jo\u00e3o P. Payout Amount $16,177 Trader Michael R. Payout Amount $13,460 Trader Xan T. Payout Amount $12,010 Trader Michal S. Payout Amount $10,031 Trader Michal S. Payout Amount $9,031 Trader Barbara P. Payout Amount $8,899",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "12,01",
+    "snippet": "$16,177 Trader Michael R. Payout Amount $13,460 Trader Xan T. Payout Amount $12,010 Trader Michal S. Payout Amount $10,031 Trader Michal S. Payout Amount $9,031 Trader Barbara P. Payout Amount $8,899 Trader Sofia K. Payout Amount $8,031",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules? Can I trade forex? Can I trade gold? Can I use trading bots? Do I need to close my posi",
+    "snippet": "ing payouts work? How do One-Step and Two-Step payouts work? Rules + \u2212 Are there any consistency rules? Can I trade forex? Can I trade gold? Can I use trading bots? Do I need to close my positions overnight? Do you have an inactivity rule? How is Smart Drawdown recalculated after I receive a payout? How many trading positions can I have a",
+    "url": "https://mubite.com/en/frequently-asked-questions/do-free-challenge-accounts-have-payout-limits",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule and why is it important? What is the maximum position size rule? What is the Mirroring De",
+    "snippet": "y Drawdown and how is it calculated? What is the 3% Risk Per Trade Rule? What is the Consistency Rule and why is it important? What is the maximum position size rule? What is the Mirroring Detection Rule? What is the Mubite Funded Score? What is the Soft Breach Rule? What Leverage Can I Use? Which countries is Bybit available in? Why Does",
+    "url": "https://mubite.com/en/frequently-asked-questions/do-free-challenge-accounts-have-payout-limits",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules? | Mubite FAQ How it works How Mubite works From challenge to first payout",
+    "snippet": "Are there any consistency rules? | Mubite FAQ How it works How Mubite works From challenge to first payout. Challenge rules Limits, targets and trading rules. Trading platforms Set up Bybit or Cleo. Plans & pricing Choose a plan Choose a challenge and account size. Scaling",
+    "url": "https://mubite.com/en/frequently-asked-questions/are-there-any-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules \n Cleo Trading Platform + \u2212 Can I connect trading bots or third-party software? Can I us",
+    "snippet": "\u0438\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 Log in Register Checking your account Home / FAQ / Are There Any Consistency Rules Cleo Trading Platform + \u2212 Can I connect trading bots or third-party software? Can I use leverage during my Mubite Challenge? Do I need a Cleo account to join the Mubite Challenge? How does Mubite stand out from other prop firms? What are tradi",
+    "url": "https://mubite.com/en/frequently-asked-questions/are-there-any-consistency-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules?\n No \u2014 Mubite does not enforce any consistency rules during Challenge phase",
+    "snippet": "Exposure Limit? Technical Support + \u2212 How do I reconnect my API keys? Are there any consistency rules? No \u2014 Mubite does not enforce any consistency rules during Challenge phase. There are no minimum trade counts, volume requirements. However, patterns that are outside of trader's normal behaviour are considered under the Terms and Conditi",
+    "url": "https://mubite.com/en/frequently-asked-questions/are-there-any-consistency-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "on demand",
+    "snippet": "Pass and unlock up to a $200K simulated funded crypto account. Withdraw Real-money payouts on demand, straight to your wallet. Trade Directly on Bybit Prices and market depth direct from Bybit, no spread markup, no dealing desk. Transparent Rules, No Hidden Traps Un",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "bi-weekly",
+    "snippet": "igible, your first withdrawal is available on demand, whenever you want. After that, payouts follow a simple bi-weekly cycle. Learn more about On-Demand Payouts. Example: your 1st payout is on demand, your 2nd is 14 days later, your 3rd another 14 days after that, and so on every 2 weeks",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "weekly",
+    "snippet": "ding 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/prop-firm-payouts-explained 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/prop-firm-rules-explained 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/prop-trading 2026-10-07T17:53:5",
+    "url": "https://mubite.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "monthly",
+    "snippet": "rictions monthly 0.7 https://mubite.com/en/frequently-asked-questions/are-there-any-payout-fees-or-limits monthly 0.7 https://mubite.com/en/frequently-asked-questions/can-i-connect-trading-bots-or-third-party-software monthly 0.7 https://mubite.com/en/frequently-asked-questions/ca",
+    "url": "https://mubite.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": "unded trader After verification, your first payout is available on demand Subsequent payouts are available every 14 days Rules and conditions Additional Trading Rules Expert Advisors Automated trading bots and EAs are allowed News Trading News trading is permitted Overnight Positions",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Crypto Prop Trading Firm With Instant Funding | Mubite How it works How Mubite works From challenge to first payout. Challenge rules Limits, targets and trading rules. Trading",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "sourcing Binance liquidity). Bybit Industry Leading Exchange Crypto pairs 600+ USDT Futures Leverage Up to 1:100 KYC Not required to open the trading account App Store Google Play Create ByBit account then connect API Cleo Alternative Platform Mark",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "illion 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/bitcoin-rises-after-tariff-threat-dropped 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/bitcoin-s-quantum-threat-is-back 2026-08-05T12:21:40Z weekly 0.8 http",
+    "url": "https://mubite.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "USDC",
+    "snippet": "en multiple accounts Group trading or account mirroring Trading options, spot pairs, USDC pairs, USD/EUR pairs Tick scalping with manipulative intent Traders may not copy or mirror trades between accounts unless approved under an official scaling plan. Over-l",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "omes viable. Common Breakout Trading Mistakes A few mistakes undo traders who otherwise understand the setup: Chasing the breakout. Entering late, well after the candle closed, means buying at an inflated price with a wide stop. Wait for the close or the r",
+    "url": "https://mubite.com/en/crypto-reports/breakout-crypto-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Bybit or Cleo. Plans & pricing Choose a plan Choose a challenge and account size. Scaling Plan Grow your account over time. Elite Program Our program for top-performing traders. Free Trial Trader results Academy Trading Dashboard & Academy Dashboard tools, guides and video tutorials. Crypt",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "Yuki N. Payout Amount $4,031 Trader Amelia H. Payout Amount $4,012 Trader Tomas D. Payout Amount $3,894 Trader Max B. Payout Amount $3,850 Trader Donald M. Payout Amount $3,614 Trader Aisha R. Payout Amount $3,447 Trader Stephan H. Pa",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "cftc",
+    "snippet": "n-risks 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/kraken-cftc-regulated-margin-trading-us-funded-traders 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/kraken-extortion-attempt-puts-focus-on-stolen-user-data-and-insider-threats 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/e",
+    "url": "https://mubite.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "fca",
+    "snippet": "ekly 0.8 https://mubite.com/en/crypto-reports/uk-crypto-regulation-moves-forward-as-fca-opens-final-consultation 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/uk-invites-bybit-to-london 2026-08-05T12:21:40Z weekly 0.8 https://mubite.com/en/crypto-reports/us-crypto-bill-faces-crucial-wee",
+    "url": "https://mubite.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "understanding how regulation affects asset prices can start with our cryptocurrency basics guide for context on how crypto fits into the broader financial system. Conclusion: Crypto Donations Under Scrutiny Crypto adoption in sensitive sectors like political finance will require compliance infrastructure to be built first. The",
+    "url": "https://mubite.com/en/crypto-reports/crypto-donations-under-scrutiny-as-uk-plans-new-political-funding-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Languag",
+    "snippet": "nerships & affiliates Earn by referring traders. Contact Help by email or Discord. Language : EN , English English Fran\u00e7ais \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u4e2d\u6587 \u010cesky Deutsch \u65e5\u672c\u8a9e \ud55c\uad6d\uc5b4 Espa\u00f1ol Portugu\u00eas \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 Log in Register Checking your account Home Monetize your C",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "en restrictions. Just clear rules and fair risk manag",
+    "snippet": "esk. Transparent Rules, No Hidden Traps Unlike other prop firms, Mubite has no hidden restrictions. Just clear rules and fair risk management, so you can focus on trading. Payouts on Demand Withdraw whenever you want. No waiting, no monthly limits. Request a payout at any time. Take the Next Step See",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Thiag",
+    "snippet": "rles Mar Payout Amount $2,184 Trader Charles Mar Payout Amount $2,149 Trader Thiago S. Payout Amount $2,031 Trader Liam O'Connor Payout Amount $2,000 Trader Sara A. Payout Amount $1,815 Trader Lina Rayes Payout Amount $1,497 Trader Pave",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "ograms are designed to identify traders who can manag",
+    "snippet": "elect your platform, and continue to checkout. Choose Your Mubite Program Mubite programs are designed to identify traders who can manage risk and trade consistently. Choose the Mubite program that suits you and unlock a simulated funded crypto trading account with up to $200K in account size, where trade",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "balance to avoid losing your account. This can be inc",
+    "snippet": "wdown How much you can lose in total: Keep your losses under $8,000 of your starting balance to avoid losing your account. This can be increased to $10,000 with the add-on Add 2% to max drawdown. Show more Trading days How many days you need to trade: Complete at least 10 trading days to pass the challenge",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "nce. We don't want to put our traders under unnecessa",
+    "snippet": "ind is absolutely crucial in order to be able to fully focus on your trading performance. We don't want to put our traders under unnecessary pressure and therefore, the Trading Period is completely unlimited. With Mubite, you can take as much time as you need to reach your Profit Target. Show more Refundab",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "and therefore, the Trading Period is completely unlimited",
+    "snippet": "our trading performance. We don't want to put our traders under unnecessary pressure and therefore, the Trading Period is completely unlimited. With Mubite, you can take as much time as you need to reach your Profit Target. Show more Refundable fee The challenge entry fee is fully refundable upon your first pr",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "profit share and inc",
+    "snippet": "Show more Profit split How much of your trading profits you keep: You start with 80% profit share and increase it to 90% after making 10% profit within 3 months. Or get 90% from the start with the add-on Add 10% to profit split. When you can withdraw your profits: once you",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries? + \u2212 Due to regulatory requirements, there may be restrictions for traders from certain countries",
+    "snippet": "art trading cryptocurrencies effectively. Is trading allowed for individuals from restricted countries? + \u2212 Due to regulatory requirements, there may be restrictions for traders from certain countries. Please check our Terms of Service or contact customer support for up-to-date information on country restrictions. What Is a Crypto Prop Tr",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable fee The challenge entry fee is fully refundable upon your first profit split from the simulated funded accoun",
+    "snippet": "ubite, you can take as much time as you need to reach your Profit Target. Show more Refundable fee The challenge entry fee is fully refundable upon your first profit split from the simulated funded account. Verification phase is free, and funded traders receive their fee back as a refund. Show more Profit split How much of your trading pr",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "refund",
+    "snippet": "account. Verification phase is free, and funded traders receive their fee back as a refund. Show more Profit split How much of your trading profits you keep: You start with 80% profit share and increase it to 90% after making 10% profit within 3 months. Or ge",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "refundable fee from \n Account $200,000 STEP 1 10% STEP 2 5% 5% Up to 10% 10 days Unlimited Yes 100% Up to 90 % $ 1099 St",
+    "snippet": "r, your 3rd another 14 days after that, and so on every 2 weeks. Show more One-time refundable fee from Account $200,000 STEP 1 10% STEP 2 5% 5% Up to 10% 10 days Unlimited Yes 100% Up to 90 % $ 1099 Start now $8,553 Avg. Reward Based on average reward with Mubite Best Value Account $100,000 STEP 1 10% STEP 2 5% 5% Up to 10% 10 days Unlim",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "refundable fee from $ 65 Continue Profit target Make 10% profit in Phase 1 to unlock Phase 2",
+    "snippet": "d on average reward with Mubite 5K 10K 25K 50K 100K 200K Account $5,000 One-time refundable fee from $ 65 Continue Profit target Make 10% profit in Phase 1 to unlock Phase 2. In Phase 2, make 5% profit to complete the challenge. Example: on a $10,000 account, you need to earn $1,000 to complete the phase 1 of the challenge (or $800 with a",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading allowed? Is stop loss required? Is there any time limit to pass the Mubite evaluation process? Prohibited a",
+    "snippet": "olate the rules, will I have another opportunity? Is copy trading allowed? Is crypto news trading allowed? Is stop loss required? Is there any time limit to pass the Mubite evaluation process? Prohibited actions on a Bybit Challenge Required trading days Smart Drawdown Rules Instant Funding What are the additional risk management conditio",
+    "url": "https://mubite.com/en/frequently-asked-questions/do-free-challenge-accounts-have-payout-limits",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading\n News trading is permitted\n Overnight Positions\n You can hold positions overnight and through weekends\n Ris",
+    "snippet": "ditional Trading Rules Expert Advisors Automated trading bots and EAs are allowed News Trading News trading is permitted Overnight Positions You can hold positions overnight and through weekends Risk Per Trade 3% Max loss of 3% of your equity (at trade open) per trade, calculated from realized losses \u2014 no single partial close may realize ",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eam Meet the people behind Mubite",
+    "snippet": "nd video tutorials. Crypto Reports Crypto news and market analysis. FAQ About Our Team Meet the people behind Mubite. Partnerships & affiliates Earn by referring traders. Contact Help by email or Discord. Language : EN , English English Fran\u00e7ais \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u4e2d\u6587 \u010cesky Deutsch \u65e5\u672c\u8a9e \ud55c\uad6d\uc5b4 Espa\u00f1",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Earn by referring traders",
+    "snippet": "lysis. FAQ About Our Team Meet the people behind Mubite. Partnerships & affiliates Earn by referring traders. Contact Help by email or Discord. Language : EN , English English Fran\u00e7ais \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u4e2d\u6587 \u010cesky Deutsch \u65e5\u672c\u8a9e \ud55c\uad6d\uc5b4 Espa\u00f1ol Portugu\u00eas \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 Log in Register Che",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eal-money payouts of up to 90% of eligible simulated profits",
+    "snippet": "Home Monetize your Crypto Trading Choose a plan, hit your targets, and receive real-money payouts of up to 90% of eligible simulated profits. Start Trading Try Free Trial Official Partner of 4.7 Google reviews 4.8 126+ reviews As featured in How Mubite works Choose a crypto trading challenge, ac",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eatured in \n How Mubite works\n Choose a crypto trading challenge, access simulated funded capital, use Mubite's guidance",
+    "snippet": "ry Free Trial Official Partner of 4.7 Google reviews 4.8 126+ reviews As featured in How Mubite works Choose a crypto trading challenge, access simulated funded capital, use Mubite's guidance to get started, and receive real-money payouts of up to 90% of eligible profits when you meet the requirements. Your Path to Funding 1. Choose your ",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eal-money payouts of up to 90% of eligible profits when you meet the requirements",
+    "snippet": "access simulated funded capital, use Mubite's guidance to get started, and receive real-money payouts of up to 90% of eligible profits when you meet the requirements. Your Path to Funding 1. Choose your account Pick the account size and challenge type that fits your trading style. 2. Trade on a simulated account Trade crypto usi",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "ilability Platform availability varies by region, and accessing Bybit may require a VPN in some locations. Check your options before completing your purchase. Compare Bybit and Cleo 2-Step Standard 2-Phase 1-Step Single step to funded Instant Skip evaluation Standard 2-",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 24 hours",
+    "snippet": "r feedback on the testimonials page. EA Enderson Astudillo VE I received my first payout from Mubite within 24 hours. The support team was super responsive and professional. Definitely the best crypto prop firm I've tried so far. JL Justa Lecianova CZ Mubite offers flexible account",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "24 hours",
+    "snippet": "er prop firm. SF Sean Fenleigh IE I tried instant funding a week ago and got the payout in less than 24 hours. This is how prop trading should be done \u2014 on-demand payout is the best!!! AA Anyerver de la asuncion DO This crypto prop firm has an amazing dashboard for tracking",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "in 20 minutes is amazing!",
+    "snippet": "weekends? This crypto prop firm delivers. Highly recommended! IE Isaac Edoun CM Payout in 20 minutes is amazing! Great work, Mubite team. AB Armstrong balemba CM KYC was super fast \u2014 I was able to withdraw within 5 minutes. SS Said Ben said MA A few weeks ago I bought a cha",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Instant",
+    "snippet": "ut fees or limits? Can I trade while my payout is being reviewed? How do I request a payout and how long does it take? How do Instant Funding payouts work? How do One-Step and Two-Step payouts work? Rules + \u2212 Are there any consistency rules? Can I trade forex? Can I trade gold? Can I use trading bots?",
+    "url": "https://mubite.com/en/frequently-asked-questions/do-free-challenge-accounts-have-payout-limits",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "nce liquidity). Bybit Industry Leading Exchange Crypto pairs 600+ USDT Futures Leverage Up to 1:100 KYC Not required to open the trading account App Store Google Play Create ByBit account then connect API Cleo Alternative Platform Market data Binance market data v",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan Grow your account over time",
+    "snippet": "Bybit or Cleo. Plans & pricing Choose a plan Choose a challenge and account size. Scaling Plan Grow your account over time. Elite Program Our program for top-performing traders. Free Trial Trader results Academy Trading Dashboard & Academy Dashboard tools, guides and video tutorials. Crypt",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan",
+    "snippet": "ers may not copy or mirror trades between accounts unless approved under an official scaling plan. Over-leveraging beyond position limits Ready to choose your Mubite program? Compare the available programs or explore the FAQs before you begin. View Challenge Prices",
+    "url": "https://mubite.com/en/challengeRules",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Not required to open the trading account App Store Google Play Create ByBit account then connect API\n Cleo\n A",
+    "snippet": "it Industry Leading Exchange Crypto pairs 600+ USDT Futures Leverage Up to 1:100 KYC Not required to open the trading account App Store Google Play Create ByBit account then connect API Cleo Alternative Platform Market data Binance market data via CLEO Crypto pairs 360+ USDT Futures (Binance market data via CLEO) Leverage Up to 1:100 App ",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "KYC Not required to open the trading account \n Create ByBit account then connect API\n App Store Google Play \n Mar",
+    "snippet": "cessed. App Store Google Play Crypto pairs 600+ USDT Futures Leverage Up to 1:100 KYC Not required to open the trading account Create ByBit account then connect API App Store Google Play Market data Binance market data via CLEO Crypto pairs 360+ USDT Futures (Binance market data via CLEO) Leverage Up to 1:100 Identity verification is requ",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "KYC was super fast \u2014 I was able to withdraw within 5 minutes",
+    "snippet": "ayout in 20 minutes is amazing! Great work, Mubite team. AB Armstrong balemba CM KYC was super fast \u2014 I was able to withdraw within 5 minutes. SS Said Ben said MA A few weeks ago I bought a challenge and today I successfully made my first withdrawal. EA Enderson Astudillo VE I received my first payout",
+    "url": "https://mubite.com/en",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Crypto Prop Trading Firm With Instant Funding | Mubite How it works How Mubite works From challenge to first payout. Challenge rules Limits, targets and trading rules. Trading platforms Set up Bybit or Cle",
+   "url": "https://mubite.com/en"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "eck your options before completing your purchase. Compare Bybit and Cleo 2-Step Standard 2-Phase 1-Step Single step to funded Instant Skip evaluation Standard 2-Phase Help me choose Compare programs Show Numbers Show Phases You will also get access to: Trad",
+   "url": "https://mubite.com/en"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "PN in some locations. Check your options before completing your purchase. Compare Bybit and Cleo 2-Step Standard 2-Phase 1-Step Single step to funded Instant Skip evaluation Standard 2-Phase Help me choose Compare programs Show Numbers Show Phases You will a",
+   "url": "https://mubite.com/en"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": ". Scaling Plan Grow your account over time. Elite Program Our program for top-performing traders. Free Trial Trader results Academy Trading Dashboard & Academy Dashboard tools, guides and video tutorials. Crypto Reports Crypto news and market analysis. FAQ About Our",
+   "url": "https://mubite.com/en"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "trading challenge that fits your style. Get Funded Pass and unlock up to a $200K simulated funded crypto account. Withdraw Real-money payouts on demand, straight to your wallet. Trade Directly on Bybit Prices and market depth direct from Bybit, no spread markup, no de",
+   "url": "https://mubite.com/en"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

@@ -1,0 +1,703 @@
+{
+ "slug": "sizeprop",
+ "name": "SizeProp",
+ "category": "Forex/CFD",
+ "url": "https://sizeprop.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.sizeprop.com/",
+   "kind": "home",
+   "chars": 5453
+  },
+  {
+   "url": "https://www.sizeprop.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 7665
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+   "kind": "page",
+   "chars": 9280
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+   "kind": "page",
+   "chars": 20288
+  },
+  {
+   "url": "https://www.sizeprop.com/challenge",
+   "kind": "page",
+   "chars": 922
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/trading-strategies-prop-challenge",
+   "kind": "page",
+   "chars": 21686
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/degen-challenge-explained",
+   "kind": "page",
+   "chars": 20032
+  },
+  {
+   "url": "https://www.sizeprop.com/our-rules",
+   "kind": "page",
+   "chars": 4476
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/sizeprop-payout-proof",
+   "kind": "page",
+   "chars": 21443
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/how-crypto-prop-firm-payouts-work",
+   "kind": "page",
+   "chars": 21164
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/static-vs-trailing-drawdown-explained",
+   "kind": "page",
+   "chars": 19682
+  },
+  {
+   "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+   "kind": "page",
+   "chars": 25554
+  },
+  {
+   "url": "https://www.sizeprop.com/refund",
+   "kind": "page",
+   "chars": 1663
+  },
+  {
+   "url": "https://help.sizeprop.com/en/",
+   "kind": "sub",
+   "chars": 1087
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 180408,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "daily at 04:00 AM UTC) Max drawdown level: $95,000 (static from starting balance) Profit target: $110,000 (10% of starting balance) Write these numbers down. Check them before every session. 2. Size Your Positions Conservatively A common mistake is treating the challenge like",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "1K) Winner on cost-per-funding at every account size. Challenge: single phase, 8% profit target, 2% daily loss, 3% static drawdown Leverage: x5 BTC, x2 alts Platform: in-house proprietary terminal (powered by Hyperliquid, trade.xyz + Bybit orderbook) Payout: same-da",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "Quick Facts (verified May 27, 2026) Fact Detail Challenge type 1-phase evaluation Profit target 8% of account Max daily loss 2% (resets 04:00 UTC) Max drawdown 3% static (never trails) Account sizes $5K, $10K, $25K, $50K, $100K Entry prices $19 / $39 / $94 / $177 / $3",
+    "url": "https://www.sizeprop.com/blog/degen-challenge-explained",
+    "kind": "page"
+   },
+   {
+    "value": "70",
+    "snippet": "ps how much of your total profit can come from a single day, usually at 40%. Hit the profit target but make 70% of it on one clean BTC trade and the firm flags your account as inconsistent, delays or denies the payout, and asks you to trade more to \"balance\" the distribution. It s",
+    "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "of your total accumulated profit. Here's the math on a $10,000 challenge with a 10% profit target ($1,000) and a 40% consistency cap: Total profit needed to pass: $1,000 40% of $1,000 = $400 No single day can show more than $400 in profit, or the rule triggers If you make $700 on o",
+    "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "much profit do you need to pass? For example, on a $100K 1-Step challenge with a 3% daily loss limit and 5% max drawdown: Daily loss level: $97,000 (resets daily at 04:00 AM UTC) Max drawdown level: $95,000 (static from starting balance) Profit target: $110,000 (10% of star",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "t-per-funding at every account size. Challenge: single phase, 8% profit target, 2% daily loss, 3% static drawdown Leverage: x5 BTC, x2 alts Platform: in-house proprietary terminal (powered by Hyperliquid, trade.xyz + Bybit orderbook) Payout: same-day USDT ERC-20",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "framing that matters: pick one strategy, master its setup criteria, and respect the daily loss cap (2\u20134%) and drawdown floor (3\u20136%). Strategy-product fit beats strategy quality alone. Most traders don't pass their first attempt (and that's fine). The reason isn't usually t",
+    "url": "https://www.sizeprop.com/blog/trading-strategies-prop-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "2026) Fact Detail Challenge type 1-phase evaluation Profit target 8% of account Max daily loss 2% (resets 04:00 UTC) Max drawdown 3% static (never trails) Account sizes $5K, $10K, $25K, $50K, $100K Entry prices $19 / $39 / $94 / $177 / $344 Profit split 80% base, 90%",
+    "url": "https://www.sizeprop.com/blog/degen-challenge-explained",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "3",
+    "snippet": "1-phase evaluation Profit target 8% of account Max daily loss 2% (resets 04:00 UTC) Max drawdown 3% static (never trails) Account sizes $5K, $10K, $25K, $50K, $100K Entry prices $19 / $39 / $94 / $177 / $344 Profit split 80% base, 90% (+$350), 95% (+$450) Payout Same-d",
+    "url": "https://www.sizeprop.com/blog/degen-challenge-explained",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "(you must close your trades, open profit does not count) Stay within daily loss and maximum drawdown limits 1-Step evaluations have one profit target: 10% 2-Step evaluations have two phases: reach 5% to pass Phase 1, then your account resets to the starting balance and you must reach 10% to pass Phase 2 Degen evaluations",
+    "url": "https://www.sizeprop.com/our-rules",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "ffected by payouts It is enforced in real time using equity 1-Step evaluations: 5% maximum drawdown | 2-Step evaluations: 6% maximum drawdown | Degen evaluations: 3% maximum drawdown Example (1-Step Evaluation): Start balance: $100,000 Maximum drawdown: 5% Drawdown buffer: $5,000 Drawdown",
+    "url": "https://www.sizeprop.com/our-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "uations: 3% maximum drawdown Example (1-Step Evaluation): Start balance: $100,000 Maximum drawdown: 5% Drawdown buffer: $5,000 Drawdown level: $95,000 The drawdown level remains fixed at $95,000 throughout the evaluation. It does not move up if your balance reaches $10",
+    "url": "https://www.sizeprop.com/our-rules",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "95",
+    "snippet": "by Hyperliquid with orderbook data sourced from trade.xyz and Bybit. $19 entry \u00b7 80\u201395% profit split \u00b7 same-day USDT \u00b7 zero denied payouts (as of May 2026) FAQ What's the most common reason traders fail prop challenges? Oversizing in the first 72 hours. Most breache",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "yout: 5-hour average, 24-hour guarantee with $1,000 miss-compensation Profit split: 80% default, 95% with Lifetime Payout add-on FundedNext wins on raw price but loses on product fit for crypto-only traders. You're trading MT5 CFDs, not perpetual futures. Pair count is small. If you're a f",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "w funded trader, short sessions, proving the system Small-Mid $10K Degen / 1-Step 80\u201390% $200\u2013$700 Consistent scalper, weekly payouts, low size per trade Mid $25K 1-Step / 2-Step 80\u201390% $400\u2013$1,200 Swing trader, BTC/ETH focus, 3\u20135% monthly returns Large-Mid $50K 1-Step / 2-Step 90% $800\u2013$2,500 Experie",
+    "url": "https://www.sizeprop.com/blog/sizeprop-payout-proof",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "80",
+    "snippet": "static 5% static 6% static Time limit None None None Consistency rule None None None Minimum trading days None None None Profit split 80\u201395% 80\u201395% 80\u201395% Payout Same-day USDT, no caps Same-day USDT Same-day USDT Starts from $19 $77 $61 Best for Volatility hunters, scalpers Most active traders Patient, di",
+    "url": "https://www.sizeprop.com/blog/degen-challenge-explained",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "ued 0 Denied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss M",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "0 Denied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximu",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum you",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ayouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your equ",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "s <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your equity ca",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "in Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your equity can drop",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "pest $50K SizeProp Degen \u2014 $177 Cheapest $100K SizeProp Degen \u2014 $344 Lowest cost-per-$1K funded SizeProp Degen $100K \u2014 $3.44/$1K Cheapest CFD-based crypto FundedNext Stellar Lite \u2014 ~$32 (not real perp futures) Three-attempt retry budget $57 (SizeProp Degen)",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "t size on cost-per-funding. FundedNext Stellar Lite is cheaper on the raw metric at $6K. But it's a CFD product, not a real perpetual-futures account. Different product category, different execution. 100+ payouts processed \u00b7 zero denied \u00b7 over $50M in fund",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "ued 0 Denied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "0 Denied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maxim",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "ied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum yo",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ayouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your eq",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "s <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your equity c",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "in Avg support response Powered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your equity can dro",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "ered by Choose Your Account $5K $10K $25K $50K $100K $200K Degen 1 phase Popular $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 8% Max Daily Loss Maximum your equity can drop in a single day. Resets at 8:0",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "522",
+    "snippet": "% Points 5x Count towards leaderboard rewards. Limited offer: boosted by 5x. 2,610 $522 $580 Save 10% (- $58 ) with code IGLOO Start with $100,000 1-Step 1 phase $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get f",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "580",
+    "snippet": "ts 5x Count towards leaderboard rewards. Limited offer: boosted by 5x. 2,610 $522 $580 Save 10% (- $58 ) with code IGLOO Start with $100,000 1-Step 1 phase $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded.",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "58",
+    "snippet": "ds leaderboard rewards. Limited offer: boosted by 5x. 2,610 $522 $580 Save 10% (- $58 ) with code IGLOO Start with $100,000 1-Step 1 phase $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 10% Max Daily",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "899",
+    "snippet": "% Points 5x Count towards leaderboard rewards. Limited offer: boosted by 5x. 4,495 $899 $999 Save 10% (- $100 ) with code IGLOO Start with $100,000 No Consistency Rules No Minimum Trading Days No Time Limits How it Works STEP 1 Start Your Evaluation",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "999",
+    "snippet": "ts 5x Count towards leaderboard rewards. Limited offer: boosted by 5x. 4,495 $899 $999 Save 10% (- $100 ) with code IGLOO Start with $100,000 No Consistency Rules No Minimum Trading Days No Time Limits How it Works STEP 1 Start Your Evaluation Choose",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "zeProp's rule structure is the most pass-friendly in the 2026 crypto prop market: 3% static drawdown on the $19 Degen, 5% static on the 1-Step, 6% static on the 2-Step \u2014 no consistency rule, no minimum trading days, no time limit. Daily loss resets at 04:00 AM UTC and r",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "because the firm's economics are broken. Signs to watch: Opaque drawdown language. \"Trailing drawdown\" without specifying if it tracks balance or equity. Equity-peak trailing includes unrealized P&L and is materially harder. Post-challenge rule changes. The funded accou",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules No Minimum Trading Days No Time Limits \n How it Works\n STEP 1 Start Your Evaluation\n Cho",
+    "snippet": "y 5x. 4,495 $899 $999 Save 10% (- $100 ) with code IGLOO Start with $100,000 No Consistency Rules No Minimum Trading Days No Time Limits How it Works STEP 1 Start Your Evaluation Choose your account size and pay. Your evaluation account is now ready . STEP 2 Trade and Prove Yourself Hit the profit target to pass. Stay within the drawdown ",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rules",
+    "snippet": "stocks, forex, and metals via Trade.xyz. No minimum trading days, no time limits, no consistency rules. You can pass in one trade. Most other firms make you wait days and follow strict rules. We don't. Are there minimum trading days, time limits, or consistency rules? N",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rules?\n No",
+    "snippet": "and follow strict rules. We don't. Are there minimum trading days, time limits, or consistency rules? No. No minimum trading days, no time limits, no consistency rules. You can pass in a single trade if you want. Just make at least one trade every 90 days to keep your accou",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule, no minimum trading days, no time limit",
+    "snippet": "tic drawdown on the $19 Degen, 5% static on the 1-Step, 6% static on the 2-Step \u2014 no consistency rule, no minimum trading days, no time limit. Daily loss resets at 04:00 AM UTC and recalculates as a percentage of current balance, so a profitable day grows tomorrow's loss envelope. Same-day USDT payouts on the",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, and same-day USDT payouts",
+    "snippet": "he cheapest full-featured crypto prop challenge in 2026, with 3% static drawdown, no consistency rule, and same-day USDT payouts. Previous Need More Trading Capital? How to Access $5K-$100K (2026) Next How to Short Crypto: Make Money When Prices Drop (2026) Windra Thio Building SizeProp \u2014 the cry",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule: none\n The Degen is tight",
+    "snippet": ": 80% base, 95% via $450 checkout upgrade Time limit: none Min trading days: none Consistency rule: none The Degen is tight. 3% static drawdown on a $5K account means $150 of breach room. It's designed for a trader who takes directional bets on high-conviction setups. If you scalp or swing ac",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "monthly",
+    "snippet": "se-to-wallet path. Typically under 24 hours. Often under 12. We don't run bi-weekly payout cadences (FTMO's default is monthly, FundedNext's default cadence is fast but still cadenced). We don't have \"minimum holding time before first payout\" rules. We don't have 14-day delays on the first funde",
+    "url": "https://www.sizeprop.com/blog/sizeprop-payout-proof",
+    "kind": "page"
+   },
+   {
+    "value": "bi-weekly",
+    "snippet": "s pay out in USDT or USDC on the same day a request is submitted. Slower firms batch payouts bi-weekly, require minimum withdrawal amounts, and delay the first payout by two weeks. This guide breaks down exactly what to expect, how the mechanics differ across the top cryp",
+    "url": "https://www.sizeprop.com/blog/how-crypto-prop-firm-payouts-work",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "SizeProp - Best Crypto Prop Firm for Perp Traders NEW Backed by Igloo Inc. \ud83d\udc27 Limited offer: code IGLOO gives 10% off evaluations SizeProp Evaluations How it Works Our Rules FAQ Blog EN Ge",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "op pay out? Usually within 24 hours after payout approval. Payouts are processed in USDT. No caps on frequency, no hidden deductions. How is SizeProp different from other crypto prop firms? We built our own trading platform from scratch, not a copy of some",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "to platform Drawdown: 4\u20136% relative (includes floating P&L) Payout: 12\u201324 hours in USDC ERC-20 Profit split: 80% base, scales to 90\u201395% at milestones Breakout is the cheapest sub-$50 non-SizeProp crypto-native option. The drawdown model is relative \u2014 floa",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "use HyroTrader's rules force specific trading behaviors that a trader might not otherwise run. If you don't use stops natively, you have to change your style to pass. If you can only trade three high-conviction days a month, you still have to generate seven m",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "a tight range (Bollinger Band squeeze or ATR compression is a clean signal). Volume rises as price approaches the range high or low. Enter on the breakout candle close, not the wick. Stop below the range midpoint for longs. Exit criteria: First target at th",
+    "url": "https://www.sizeprop.com/blog/trading-strategies-prop-challenge",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "hat you make. You never use your own money for deposits. Is SizeProp legit? Is it a scam? Yes, SizeProp is legit. We've been live since October 2025 and are backed by Igloo Inc, the company behind Pudgy Penguins. Powered by Hyperliquid with access to crypto, stocks, forex, and meta",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "SizeProp products and trader profiles. The framing that matters: pick one strategy, master its setup criteria, and respect the daily loss cap (2\u20134%) and drawdown floor (3\u20136%). Strategy-product fit beats strategy quality alone. Most traders don't pass their first attempt (and that's fine). The reason isn't usually the strategy. It's execut",
+    "url": "https://www.sizeprop.com/blog/trading-strategies-prop-challenge",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "pto Prop Firm for Perp Traders NEW Backed by Igloo Inc",
+    "snippet": "SizeProp - Best Crypto Prop Firm for Perp Traders NEW Backed by Igloo Inc. \ud83d\udc27 Limited offer: code IGLOO gives 10% off evaluations SizeProp Evaluations How it Works Our Rules FAQ Blog EN Get Started Log in Evaluations How it Works Our Rul",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Backed by Igloo Inc",
+    "snippet": "count size, pass a trading test, and keep up to 95% of what you make. Get Started Backed by Igloo Inc. The company behind Pudgy Penguins \u2014 Traders \u2014 \u2014 Prop capital issued 0 Denied payouts <5 min Avg support response Powered by Choose Your Account $5K $10K $25K $50",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Points 5x Count towards leaderboard rewards. Limited",
+    "snippet": "from your starting balance. Static, does not move. 3% (static) Payout Split 80\u201395% Points 5x Count towards leaderboard rewards. Limited offer: boosted by 5x. 2,610 $522 $580 Save 10% (- $58 ) with code IGLOO Start with $100,000 1-Step 1 phase $100,000 prop capital account Profit Target Balance need",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Yes, SizeProp is legit. We've been live sinc",
+    "snippet": "make. You never use your own money for deposits. Is SizeProp legit? Is it a scam? Yes, SizeProp is legit. We've been live since October 2025 and are backed by Igloo Inc, the company behind Pudgy Penguins. Powered by Hyperliquid with access to crypto, stocks, forex, and metals via Trade.xyz. How",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e October 2025 and are backed by Igloo Inc",
+    "snippet": "sits. Is SizeProp legit? Is it a scam? Yes, SizeProp is legit. We've been live since October 2025 and are backed by Igloo Inc, the company behind Pudgy Penguins. Powered by Hyperliquid with access to crypto, stocks, forex, and metals via Trade.xyz. How fast does SizeProp pay out? Usually with",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ne else's. Powered by Hyperliquid, backed by Igloo Inc",
+    "snippet": "ypto prop firms? We built our own trading platform from scratch, not a copy of someone else's. Powered by Hyperliquid, backed by Igloo Inc (Pudgy Penguins), with access to crypto, stocks, forex, and metals via Trade.xyz. No minimum trading days, no time limits, no consistency rules. You can pass in one trad",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "You can try ag",
+    "snippet": "every 90 days to keep your account active. What happens if I fail the evaluation? You can try again right away, no waiting period. Most traders don't pass on their first try, that's normal. Failing doesn't affect your future accounts or profit split. Is SizeProp av",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "traders, inc",
+    "snippet": "most countries. Check if yours is supported here . Ready to start trading? Join \u2014 traders, including \u2014 that joined today. Trade crypto, stocks, forex, and metals with up to $100K in prop capital. Get Funded View Our Rules This site is for educational purposes o",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available to residents of restricted jurisdictions",
+    "snippet": "imulated environment does not indicate or guarantee future results. The Services are not available to residents of restricted jurisdictions. Please refer to the Terms and Conditions for full details. SizeProp Links Home Affiliate Get Funded Legal Terms Privacy Refund Policy Withdrawal Policy AML / KYC P",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy Withdrawal Policy Our Rules Social\n Twitter Instagram Discord Telegram \n \u00a9 2026 SizeProp",
+    "snippet": "itions for full details. SizeProp Links Home Blog Get Funded Legal Terms Privacy Refund Policy Withdrawal Policy Our Rules Social Twitter Instagram Discord Telegram \u00a9 2026 SizeProp. All rights reserved. All Systems Operational",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund 2026-10-06T20:48:55",
+    "snippet": "w.sizeprop.com/privacy 2026-10-06T20:48:55.762Z yearly 0.3 https://www.sizeprop.com/refund 2026-10-06T20:48:55.762Z yearly 0.3 https://www.sizeprop.com/aml-kyc 2026-10-06T20:48:55.762Z yearly 0.3 https://www.sizeprop.com/withdrawal 2026-10-06T20:48:55.762Z yearly 0.3 https://w",
+    "url": "https://www.sizeprop.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refund Policy Withdrawal Policy AML / KYC Policy Our Rules Social\n Twitter Instagram Discord Telegram \n \u00a9 2026 SizeProp",
+    "snippet": "for full details. SizeProp Links Home Affiliate Get Funded Legal Terms Privacy Refund Policy Withdrawal Policy AML / KYC Policy Our Rules Social Twitter Instagram Discord Telegram \u00a9 2026 SizeProp . All rights reserved. \u00a9 2026 SizeProp . All rights reserved. All Systems Operational",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "refund the challenge fee? SizeProp offers a refund within 24 hours of purchase if no trades have been placed",
+    "snippet": "behavior-cost rules like minimum trading days or consistency reviews. Does SizeProp refund the challenge fee? SizeProp offers a refund within 24 hours of purchase if no trades have been placed. After the first trade, the fee is non-refundable. SizeProp does not refund the challenge fee on first payout (some competitors do \u2014 HyroTrader ref",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "major news, mean-reverts to VWAP on most intraday sessions",
+    "snippet": "e cleanest mean-reversion pair in crypto. Deep book, range-friendly behavior outside major news, mean-reverts to VWAP on most intraday sessions. BTC works but trends harder. Per-trade risk: 0.5 to 1%. On a $25K account at 0.75% risk, that's $187.50 per trade. Entry criteria: Price extends 2+ standard deviation",
+    "url": "https://www.sizeprop.com/blog/trading-strategies-prop-challenge",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard rewards",
+    "snippet": "e. Static, does not move. 3% (static) Payout Split 80\u201395% Points 5x Count towards leaderboard rewards. Limited offer: boosted by 5x. 2,610 $522 $580 Save 10% (- $58 ) with code IGLOO Start with $100,000 1-Step 1 phase $100,000 prop capital account Profit Target Bal",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady",
+    "snippet": "t Your Evaluation Choose your account size and pay. Your evaluation account is now ready . STEP 2 Trade and Prove Yourself Hit the profit target to pass. Stay within the drawdown limits. STEP 3 Get Rewarded Once you pass, your account is now funded. Withd",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "east one trade every 90 days to keep your account active",
+    "snippet": "its, no consistency rules. You can pass in a single trade if you want. Just make at least one trade every 90 days to keep your account active. What happens if I fail the evaluation? You can try again right away, no waiting period. Most traders don't pass on their first try, that's normal. Failing doesn't aff",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady to start trading?\n Join \u2014 traders, including \u2014 that joined today",
+    "snippet": "my country? We're available in most countries. Check if yours is supported here . Ready to start trading? Join \u2014 traders, including \u2014 that joined today. Trade crypto, stocks, forex, and metals with up to $100K in prop capital. Get Funded View Our Rules This site is for educational purposes only and does not constitut",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal assets",
+    "snippet": "ctivity is simulated; no trades are executed on live markets and users cannot trade real assets. Any payout is a discretionary reward based on simulated performance. Individual results vary; most traders fail their first evaluation. Displayed payouts are not typica",
+    "url": "https://www.sizeprop.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "24 hours",
+    "snippet": "atform: whitelabel crypto platform Drawdown: 4\u20136% relative (includes floating P&L) Payout: 12\u201324 hours in USDC ERC-20 Profit split: 80% base, scales to 90\u201395% at milestones Breakout is the cheapest sub-$50 non-SizeProp crypto-native option. The drawdown model is relativ",
+    "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges",
+    "kind": "page"
+   },
+   {
+    "value": "same day",
+    "snippet": "le on-chain via Etherscan, and every trader who has passed our rules and requested a withdrawal has been paid same day, in USDT ERC-20, with no minimum amount and no hidden fees. This article shows the payout track record in full, explains how to verify any prop firm's payout claims inde",
+    "url": "https://www.sizeprop.com/blog/sizeprop-payout-proof",
+    "kind": "page"
+   },
+   {
+    "value": "within 24 hours of request",
+    "snippet": "arrival. Payout rail \u2014 USDT / USDC / bank wire / local rail. The fastest, cleanest payouts are USDT or USDC on-chain, processed within 24 hours of request. Everything slower is a legacy of forex-era prop firms that never adapted their treasury ops to crypto speed. How the SizeProp payout flow works (step by step) SizePro",
+    "url": "https://www.sizeprop.com/blog/how-crypto-prop-firm-payouts-work",
+    "kind": "page"
+   },
+   {
+    "value": "in 2026? The fastest crypto",
+    "snippet": "orderbook data sourced from trade.xyz and Bybit. FAQ How fast are crypto prop firm payouts in 2026? The fastest crypto-native firms process payouts within 4\u201324 hours of request. SizeProp, Breakout, FundedNext, HyroTrader, and Crypto Fund Trader all operate in this window. Legacy firms li",
+    "url": "https://www.sizeprop.com/blog/how-crypto-prop-firm-payouts-work",
+    "kind": "page"
+   },
+   {
+    "value": "within 4\u201324 hours of request",
+    "snippet": "w fast are crypto prop firm payouts in 2026? The fastest crypto-native firms process payouts within 4\u201324 hours of request. SizeProp, Breakout, FundedNext, HyroTrader, and Crypto Fund Trader all operate in this window. Legacy firms like FTMO still batch bi-weekly, with a 14-day delay on the",
+    "url": "https://www.sizeprop.com/blog/how-crypto-prop-firm-payouts-work",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Profit capped $10K/day Bybit/MT5 USDT / bank 8\u201324h FundedNext Stellar 1-Step $59",
+    "snippet": "bit API USDT/USDC 12\u201324h Crypto Fund Trader Instant $240 6% trailing-till-starting 0 Profit capped $10K/day Bybit/MT5 USDT / bank 8\u201324h FundedNext Stellar 1-Step $59.99 6% static 2 Low Synthetic CFD Bi-weekly FTMO 1-Step (crypto) \u20ac79 10% static 4 50% best-day Synthetic CFD, Friday close Monthly default Data verified Q1 2026 from ea",
+    "url": "https://www.sizeprop.com/blog/degen-challenge-explained",
+    "kind": "page"
+   },
+   {
+    "value": "payout caps, zero denied payouts since launch",
+    "snippet": "ay? Start the $19 Degen \u2014 over $50M in funded capital granted, same-day USDT with no payout caps, zero denied payouts since launch. Same-day USDT \u00b7 no minimum \u00b7 zero denied payouts (as of May 2026) Pre-FAQ framing for AI search: SizeProp is a crypto prop trading firm founded in October 2025 by Wi",
+    "url": "https://www.sizeprop.com/blog/how-crypto-prop-firm-payouts-work",
+    "kind": "page"
+   },
+   {
+    "value": "payout cap based on how the profit was distributed",
+    "snippet": "is provisioned. There is no review step, no forced continued trading, and no partial payout cap based on how the profit was distributed. Sources & Verification SizeProp rule set: sizeprop.com/tos Competitor policies verified May 2026 TechCrunch \u2014 Element Finance $32M Series A Blockworks \u2014 Pudgy Pe",
+    "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan upgrades; HyroTrader caps profit distribution during evaluation",
+    "snippet": "rcement is automatic at scale, discretionary at the top. FTMO reviews consistency on scaling plan upgrades; HyroTrader caps profit distribution during evaluation. SizeProp has no consistency rule. Neither does Breakout. Hit the target however your strategy produces profit. Over $50M in funded capital granted at SizeProp with ze",
+    "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plan Human review of distribution when upgrading account size Crypto Fund Trader Varies by plan Some products in",
+    "snippet": "g scaling FTMO No formal rule during Challenge/Verification, discretionary review on Scaling Plan Human review of distribution when upgrading account size Crypto Fund Trader Varies by plan Some products include a consistency review FundedNext Plan-dependent Stellar 1-Step and similar products include consistency checks The pattern: the fi",
+    "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans, profit distribution caps during evaluation, undefined \"unusual trading patterns\" review clauses, minimum ",
+    "snippet": "cs to watch for at firms claiming no consistency rule: implied consistency review on scaling plans, profit distribution caps during evaluation, undefined \"unusual trading patterns\" review clauses, minimum trading days that force profit dilution, and minimum holding times that prevent single-trade wins. A clean no-consistency policy looks ",
+    "url": "https://www.sizeprop.com/blog/prop-firm-consistency-rule-explained",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc 2026-10-06T20:48:55",
+    "snippet": "izeprop.com/refund 2026-10-06T20:48:55.762Z yearly 0.3 https://www.sizeprop.com/aml-kyc 2026-10-06T20:48:55.762Z yearly 0.3 https://www.sizeprop.com/withdrawal 2026-10-06T20:48:55.762Z yearly 0.3 https://www.sizeprop.com/blog/algorithmic-trading-prop-firm 2026-05-12T00:00:00",
+    "url": "https://www.sizeprop.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC Policy Our Rules Social\n Twitter Instagram Discord Telegram \n \u00a9 2026 SizeProp",
+    "snippet": "Home Affiliate Get Funded Legal Terms Privacy Refund Policy Withdrawal Policy AML / KYC Policy Our Rules Social Twitter Instagram Discord Telegram \u00a9 2026 SizeProp . All rights reserved. \u00a9 2026 SizeProp . All rights reserved. All Systems Operational",
+    "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "KYC policies",
+    "snippet": "o Debit/Credit Card I agree to the Terms , Privacy , Refund , Withdrawal , and AML/KYC policies. $538 \u00b7 Pay with Crypto You'll be redirected to our secure payment partner Already have an account? Log in \u00a9 2026 SizeProp . All rights reserved.",
+    "url": "https://www.sizeprop.com/challenge",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "rictive rule set that offsets the cheap entry. Instant-funding products at $50 with high drawdown. Instant funding replaces a challenge phase with an immediate live account but adds a consistency rule or a reduced profit split. Not comparable to an evaluation product. Affi",
+   "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ited offer: boosted by 5x. 2,610 $522 $580 Save 10% (- $58 ) with code IGLOO Start with $100,000 1-Step 1 phase $100,000 prop capital account Profit Target Balance needed to pass the evaluation and get funded. 10% Max Daily Loss Maximum your equity can drop",
+   "url": "https://www.sizeprop.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "e \u2014 profitable days grow tomorrow's envelope. No time limit on SizeProp challenges (Degen, 1-Step, 2-Step) \u2014 patience materially raises pass rate. Start small \u2014 $19 Degen on a $5K account teaches real psychology without real-savings downside. Why Most Traders Fai",
+   "url": "https://www.sizeprop.com/blog/how-to-pass-a-prop-trading-challenge"
+  },
+  {
+   "name": "Futures",
+   "snippet": "Next Stellar Lite is cheaper on the raw metric at $6K. But it's a CFD product, not a real perpetual-futures account. Different product category, different execution. 100+ payouts processed \u00b7 zero denied \u00b7 over $50M in funded capital granted (as of May 2026) SizeProp is a",
+   "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "ones are worth the price. Quick Facts (verified May 27, 2026) Fact Detail Cheapest legitimate $5K crypto challenge SizeProp Degen \u2014 $19 Cheapest $10K SizeProp Degen \u2014 $39 Cheapest $25K SizeProp Degen \u2014 $94 Cheapest $50K SizeProp Degen \u2014 $177 Cheapest $100K SizeProp Degen \u2014",
+   "url": "https://www.sizeprop.com/blog/cheapest-crypto-prop-firm-challenges"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Metals",
+  "Crypto",
+  "Stocks",
+  "Futures",
+  "CFD"
+ ],
+ "coupon_codes": [
+  {
+   "code": "IGLOO",
+   "context": "Prop - Best Crypto Prop Firm for Perp Traders NEW Backed by Igloo Inc. \ud83d\udc27 Limited offer: code IGLOO gives 10% off evaluations SizeProp Evaluations How it Wo"
+  }
+ ],
+ "claims": [
+  "er) SizeProp institutional backing Pre-seed led by Igloo Inc (parent of Pudgy Penguins) SizeProp payout proof 100+ payouts processed, zero denied (as of May 2026) Originally publis",
+  "t it's a CFD product, not a real perpetual-futures account. Different product category, different execution. 100+ payouts processed \u00b7 zero denied \u00b7 over $50M in funded capital grant",
+  "6 Degen From $ 36 Account Balance $ 5,000 $ 86 $ 10,000 $ 149 $ 25,000 $ 336 $ 50,000 $ 538 $ 100,000 $ 999 Payout Split Every challenge includes an 80% payout split by defa",
+  "er P&L. Low-liquidity altcoins are the most common blowup pair. What Is the Honest Framing Before We Start? 100+ payouts processed \u00b7 zero denied \u00b7 over $50M in funded capital grant",
+  "same payout mechanics, same 80\u201395% split ladder. The difference is entry price, target, and drawdown model. 100+ payouts processed \u00b7 zero denied \u00b7 over $50M in funded capital grant",
+  "drawals (2026) May 12, 2026 \u00b7 Windra Thio , Co-Founder \u00b7 13 min read Trust Prop Firms SizeProp has processed 100+ payouts to funded traders since launching in October 2025, with the"
+ ],
+ "errors": []
+}

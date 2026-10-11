@@ -1,0 +1,317 @@
+{
+ "slug": "t3-trading-group",
+ "name": "T3 Trading Group",
+ "category": "Institutional",
+ "url": "https://t3trading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://t3trading.com/",
+   "kind": "home",
+   "chars": 6730
+  },
+  {
+   "url": "https://t3trading.com/wp-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 158
+  },
+  {
+   "url": "https://t3trading.com/wp-sitemap-posts-post-1.xml",
+   "kind": "sitemap",
+   "chars": 13398
+  },
+  {
+   "url": "https://t3trading.com/wp-sitemap-posts-page-1.xml",
+   "kind": "sitemap",
+   "chars": 8491
+  },
+  {
+   "url": "https://t3trading.com/wp-sitemap-taxonomies-category-1.xml",
+   "kind": "sitemap",
+   "chars": 155
+  },
+  {
+   "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+   "kind": "page",
+   "chars": 4193
+  },
+  {
+   "url": "https://t3trading.com/weekly-wisdom-powell-bullish-on-economy-fed-funds-price-cuts/",
+   "kind": "page",
+   "chars": 11317
+  },
+  {
+   "url": "https://t3trading.com/business-continuity-plan/",
+   "kind": "page",
+   "chars": 5992
+  },
+  {
+   "url": "https://t3trading.com/about-us/",
+   "kind": "page",
+   "chars": 4514
+  },
+  {
+   "url": "https://t3trading.com/how-to-think-about-moving-averages/",
+   "kind": "page",
+   "chars": 6929
+  },
+  {
+   "url": "https://t3trading.com/contact-us/",
+   "kind": "page",
+   "chars": 2611
+  },
+  {
+   "url": "https://t3trading.com/compliance-legal/",
+   "kind": "page",
+   "chars": 2757
+  },
+  {
+   "url": "https://t3trading.com/trader-referral-program/",
+   "kind": "page",
+   "chars": 4580
+  }
+ ],
+ "page_count": 13,
+ "total_chars": 71837,
+ "findings": {
+  "account_sizes": [
+   {
+    "value": "500",
+    "snippet": "at Overnight Bank Funding Rate +350 bps annualized. * Accounts with a balance over $500k may be eligible for Portfolio Margin subject to compliance and clearing firm approval. Potential Market Data Fees Customers will be provided with a link to select Ste",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "500",
+    "snippet": "at Overnight Bank Funding Rate +350 bps annualized. * Accounts with a balance over $500k may be eligible for Portfolio Margin subject to compliance and clearing firm approval. Potential Market Data Fees Customers will be provided with a link to select St",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "7.00",
+    "snippet": "e account per month if selected: Description Fee NON-PRO NSDQ, AMEX, NYSE Level 1 $7.00 each AMEX PRO $42.00 ARCA PRO $80.00 ARCA NON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CB",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "42.00",
+    "snippet": "selected: Description Fee NON-PRO NSDQ, AMEX, NYSE Level 1 $7.00 each AMEX PRO $42.00 ARCA PRO $80.00 ARCA NON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "80.00",
+    "snippet": "ption Fee NON-PRO NSDQ, AMEX, NYSE Level 1 $7.00 each AMEX PRO $42.00 ARCA PRO $80.00 ARCA NON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $9",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "17.00",
+    "snippet": "DQ, AMEX, NYSE Level 1 $7.00 each AMEX PRO $42.00 ARCA PRO $80.00 ARCA NON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.0",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "165.00",
+    "snippet": "el 1 $7.00 each AMEX PRO $42.00 ARCA PRO $80.00 ARCA NON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.0",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "65.00",
+    "snippet": "MEX PRO $42.00 ARCA PRO $80.00 ARCA NON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.00 EDGX Book $60.",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "30.00",
+    "snippet": "ON-PRO $17.00 NSDQ PRO $165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.00 EDGX Book $60.00 NASDAQ GIDS $12.00 NYMEX Futures $",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "70.00",
+    "snippet": "$165.00 NYSE PRO $65.00 Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.00 EDGX Book $60.00 NASDAQ GIDS $12.00 NYMEX Futures $100.00 OPRA $60.00 B",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "15.00",
+    "snippet": "Imbalance Data ARCA, NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.00 EDGX Book $60.00 NASDAQ GIDS $12.00 NYMEX Futures $100.00 OPRA $60.00 Basic News $55.00 Platf",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "95.00",
+    "snippet": "NSDQ, NYSE $30.00 each BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.00 EDGX Book $60.00 NASDAQ GIDS $12.00 NYMEX Futures $100.00 OPRA $60.00 Basic News $55.00 Platform Fees Description Fe",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "40.00",
+    "snippet": "ach BATS Book $70.00 CBOE MDX Indices $15.00 CME Access Fee $95.00 Dow Jones $40.00 EDGA Book $28.00 EDGX Book $60.00 NASDAQ GIDS $12.00 NYMEX Futures $100.00 OPRA $60.00 Basic News $55.00 Platform Fees Description Fee Sterling Trader",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "wise",
+    "snippet": "iated (e.g., short selling, option exercise or assignment, account transfer, or otherwise). Margin Information T3 offers 4x intraday and 2x overnight buying power with a margin account.* Margin rates begin at Overnight Bank Funding Rate +350 bps annualize",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "Wire Transfer",
+    "snippet": "Trader Pro Desktop. Other Relevant Fees Description Fee Charged By Withdraw via Wire Transfer $25 per Withdrawal Velocity (Clearing Firm) DISCLOSURES T3 Trading Group, LLC is a registered broker-dealer and member of FINRA and SIPC.",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": ".00 EDGX Book $60.00 NASDAQ GIDS $12.00 NYMEX Futures $100.00 OPRA $60.00 Basic News $55.00 Platform Fees Description Fee Sterling Trader Pro Desktop $250.00 Sterling Trader Pro Web/Mobile* $110.00 Sterling Trader Options Module* $110.00 * Avail",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "Investment Adviser, or any other type of business subject to regulation by the SEC, CFTC, state securities regulators or any \u201cself-regulatory organization\u201d (such as FINRA). Although T3 Live and T3TG are affiliated companies by virtue of common ownership, the companies are managed separately and engage in different businesses. The programs",
+    "url": "https://t3trading.com/weekly-wisdom-powell-bullish-on-economy-fed-funds-price-cuts/",
+    "kind": "page"
+   },
+   {
+    "value": "MAs",
+    "snippet": "charts, such as daily and weekly charts. For me, the most important part about the SMAs is the slope of the moving averages. Are they pointed higher, sideways, or lower? Are they crossing over each other? Or are they all telling me the exact same story, such as a rising 20 SMA above a rising",
+    "url": "https://t3trading.com/how-to-think-about-moving-averages/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "T3 Trading Group, LLC",
+    "snippet": "ed today. Not sure? Contact us to find out more. Why Trade with T3? T3 Trading Group, LLC, an SEC-registered Broker-Dealer & Member of FINRA/SIPC, strives to be a complete destination for traders looking to maximize their performance in today\u2019s financial mark",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "tiple Training Tools Designed to Teach Skills Necessa",
+    "snippet": "tiple Asset Classes: Equities, Options and Futures Learn more TRAINING Multiple Training Tools Designed to Teach Skills Necessary to Pass the SIE & Series 57 Licensing Examination and Become Successful and Consistently Profitable Traders Learn more TECHNOLOGY Market Leading Technology",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ffer a variety of cost effective execution options inc",
+    "snippet": "ional-grade trading software designed with active traders in mind. Additionally, we offer a variety of cost effective execution options including lit market venues, dark pools, market making routes, floor brokers and customizable smart order routing technology. Routing & Clearing T3 Tradi",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "T3 Live, LLC, T3 Global Group, LLC",
+    "snippet": "T3 Trading Group, LLC is a registered broker-dealer and member of FINRA and SIPC. *T3 Live, LLC, T3 Global Group, LLC and T3 Trading Group, LLC are separate, but affiliated companies through common ownership. Trading involves significant risk and can result in the loss of your invested",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "and T3 Trading Group, LLC",
+    "snippet": "ed broker-dealer and member of FINRA and SIPC. *T3 Live, LLC, T3 Global Group, LLC and T3 Trading Group, LLC are separate, but affiliated companies through common ownership. Trading involves significant risk and can result in the loss of your invested capital. Past performance",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "der routing and execution services, it does not engag",
+    "snippet": "decisions are the sole responsibility of the individual. While T3 Trading offers order routing and execution services, it does not engage in soliciting, recommending, or advising on any security, financial product, or investment strategy. Furthermore, although information on the T3 Trading website is beli",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Copyright 2019 - T3 Trading Group, LLC",
+    "snippet": "y Stock Disclosure Statement Risk Disclosure Privacy Policy Contact Us \u00a9 Copyright 2019 - T3 Trading Group, LLC | All Rights Reserved",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wp-sitemap-posts-pag",
+    "snippet": "https://t3trading.com/wp-sitemap-posts-post-1.xml https://t3trading.com/wp-sitemap-posts-page-1.xml https://t3trading.com/wp-sitemap-taxonomies-category-1.xml",
+    "url": "https://t3trading.com/wp-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ealer & Member of FINRA/SIPC, strives to be a complete destination for traders looking to maximize their performance in ",
+    "snippet": "Why Trade with T3? T3 Trading Group, LLC, an SEC-registered Broker-Dealer & Member of FINRA/SIPC, strives to be a complete destination for traders looking to maximize their performance in today\u2019s financial markets. Our proprietary traders focus primarily on technical analysis to develop their trading strategies. By utilizing multiple time",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n \n TRAINING \n \n \n Multiple Training Tools Designed to Teach Skills Necessary to Pass the SIE & Series 57 Lice",
+    "snippet": "nterest in our Traders using Multiple Asset Classes: Equities, Options and Futures Learn more TRAINING Multiple Training Tools Designed to Teach Skills Necessary to Pass the SIE & Series 57 Licensing Examination and Become Successful and Consistently Profitable Traders Learn more TECHNOLOGY Market Leading Technology with Efficient, Reliab",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n \n TECHNOLOGY \n \n \n Market Leading Technology with Efficient, Reliable, Low Latency Connections and Support f",
+    "snippet": "57 Licensing Examination and Become Successful and Consistently Profitable Traders Learn more TECHNOLOGY Market Leading Technology with Efficient, Reliable, Low Latency Connections and Support for Developing and Executing Dynamic Trading Strategies Learn more Trading We currently trade equities, options and futures. We offer remote tradin",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more \n Trading\n \n We currently trade equities, options and futures",
+    "snippet": "cy Connections and Support for Developing and Executing Dynamic Trading Strategies Learn more Trading We currently trade equities, options and futures. We offer remote trading services. Either you would be required to make a first loss capital contribution to begin trading or, with a profitable track record, may be con",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "both Hedging Strategies and Speculation, We Allow Multiple Legs and Spread Trading (with Compliance and Risk Approval) \n",
+    "snippet": "titive Fees and Cost Structures Become an Equity Trader OPTIONS TRADING For both Hedging Strategies and Speculation, We Allow Multiple Legs and Spread Trading (with Compliance and Risk Approval) Become an Options Trader ALGORITHMIC TRADING API Access to Multiple Platforms, Co-Location in Various Data Centers. Decades of Black Box Trading ",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "info@t3trading.com",
+    "snippet": "T3 Trading Group \u2013 T3 Trading Solutions 646.346.1700 info@t3trading.com PropReports About Us Trading Training Technology Blog Contact Us Elite Solutions for the Active Trader Prop F",
+    "url": "https://t3trading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "compliance@t3trading.com",
+    "snippet": ": Chief Compliance Officer 88 Pine Street, 23rd Floor New York, NY, 10005-1801 OR: compliance@t3trading.com Contact Us with any of your questions Contact Us Today DISCLOSURES T3 Trading Group, LLC is a registered broker-dealer and member of FIN",
+    "url": "https://t3trading.com/compliance-legal/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Platform Fees\n Description Fee \n Sterling Trader Pro Desktop $250",
+    "snippet": "0 NASDAQ GIDS $12.00 NYMEX Futures $100.00 OPRA $60.00 Basic News $55.00 Platform Fees Description Fee Sterling Trader Pro Desktop $250.00 Sterling Trader Pro Web/Mobile* $110.00 Sterling Trader Options Module* $110.00 * Available as add-ons to Sterling Trader Pro Desktop. Other Relevant Fees De",
+    "url": "https://t3trading.com/pricing-guide-for-retail-customers/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "l. We will sponsor qualified candidates to take the exam(s). Through a partnership with Knopman Marks , all T3 Traders that need the SIE and Series 57 will receive favorable pric",
+  "rs know us best and who better to recommend new traders than you, the trader. We are pleased to announce the T3 Traders Referral Program (TRP). Earn cash based on the successful i",
+  "introduction of new traders to our community. Copy Shareable Link or Refer Now What is the T3 Traders Referral Program (TRP)? Ability for current, active, and i",
+  "Now What is the T3 Traders Referral Program (TRP)? Ability for current, active, and in good standing 1 traders to refer new traders into our community. What is the Cash"
+ ],
+ "errors": []
+}

@@ -1,0 +1,730 @@
+{
+ "slug": "aifo",
+ "name": "AIFO",
+ "category": "Forex/CFD",
+ "url": "https://aifo.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://aifo.com/",
+   "kind": "home",
+   "chars": 23057
+  },
+  {
+   "url": "https://aifo.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 306
+  },
+  {
+   "url": "https://aifo.com/post-sitemap1.xml",
+   "kind": "sitemap",
+   "chars": 21293
+  },
+  {
+   "url": "https://aifo.com/post-sitemap2.xml",
+   "kind": "sitemap",
+   "chars": 26430
+  },
+  {
+   "url": "https://aifo.com/post-sitemap3.xml",
+   "kind": "sitemap",
+   "chars": 8443
+  },
+  {
+   "url": "https://aifo.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1991
+  },
+  {
+   "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/",
+   "kind": "page",
+   "chars": 20722
+  },
+  {
+   "url": "https://aifo.com/programs/payout-rules/",
+   "kind": "page",
+   "chars": 7276
+  },
+  {
+   "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+   "kind": "page",
+   "chars": 29761
+  },
+  {
+   "url": "https://aifo.com/faq/what-is-the-aifo-scaling-plan/",
+   "kind": "page",
+   "chars": 8299
+  },
+  {
+   "url": "https://aifo.com/vi/faq/what-is-the-aifo-scaling-plan/",
+   "kind": "page",
+   "chars": 8379
+  },
+  {
+   "url": "https://aifo.com/vi/faq/what-add-ons-are-available-for-aifo-challenges/",
+   "kind": "page",
+   "chars": 6318
+  },
+  {
+   "url": "https://aifo.com/fr/faq/what-is-the-aifo-2-step-challenge/",
+   "kind": "page",
+   "chars": 10007
+  },
+  {
+   "url": "https://aifo.com/vi/faq/what-is-the-aifo-2-step-challenge/",
+   "kind": "page",
+   "chars": 9997
+  },
+  {
+   "url": "https://aifo.com/fr/faq/aifo-1-step-challenge/",
+   "kind": "page",
+   "chars": 9879
+  },
+  {
+   "url": "https://aifo.com/pt/faq/what-add-ons-are-available-for-aifo-challenges/",
+   "kind": "page",
+   "chars": 6356
+  },
+  {
+   "url": "https://aifo.com/es/faq/what-add-ons-are-available-for-aifo-challenges/",
+   "kind": "page",
+   "chars": 6569
+  },
+  {
+   "url": "https://aifo.com/vi/faq/aifo-1-step-challenge/",
+   "kind": "page",
+   "chars": 9869
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 214969,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "3",
+    "snippet": "istency or concentration Payout points in the FAQ 1-Step One evaluation phase; 10% Profit Target 3% Daily Loss; 6% Static Maximum Loss At least 2 trading days before progression No Consistency Score requirement $100 minimum; standard 14-day cycle; default 80% split, wi",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "eir trading strategy. Profit Target Step 1 Trading Objectives Achieve an 8% profit target Daily Loss Limit: 5% | Maximum Loss Limit: 10% Adhere to trading rules and stop-loss limits. Upon successful completion, you will automatically advance to Step 2. Step 2 Trading Objec",
+    "url": "https://aifo.com/fr/faq/what-is-the-aifo-2-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "6",
+    "snippet": "tration Payout points in the FAQ 1-Step One evaluation phase; 10% Profit Target 3% Daily Loss; 6% Static Maximum Loss At least 2 trading days before progression No Consistency Score requirement $100 minimum; standard 14-day cycle; default 80% split, with up to 95% th",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "0% split, with up to 95% through the Scaling Plan 2-Step Step 1: 8%; Step 2: 5% 5% Daily Loss; 10% Static Maximum Loss At least 3 trading days before progression No Consistency Score requirement $100 minimum; standard 14-day cycle; default 80% split, with up to 95% th",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "he Scaling Plan Instant Immediate access without a traditional evaluation phase 3% Daily Loss; 5% high-water-mark Maximum Loss capped at initial balance; open-position floating loss must not exceed 2% of initial balance Immediate access without a traditional evaluati",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "rofit share as a reward for consistent and sustained trading performance. Both your Daily Loss Limit and Maximum Loss Limit will increase by 1% , providing more trading flexibility. Important Notes Advancement is permanent , but violations may result in losing Level status. Continued compliance is requir",
+    "url": "https://aifo.com/faq/what-is-the-aifo-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "ty. Profit Target Step 1 Trading Objectives Achieve a 10 % profit target Daily Loss Limit: 3% | Maximum Loss Limit: 6 % Adhere to trading rules and stop-loss limits. After successfully completing the evaluation, your entire evaluation period will be reviewed",
+    "url": "https://aifo.com/fr/faq/aifo-1-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "1",
+    "snippet": "ose the account Sprint 3% target in a 24-hour challenge; one payout only 2% Static Maximum Loss; total floating loss must not exceed 1% of initial balance First trade within 48 hours of purchase; that trade starts the continuous 24-hour window and selects the only permitted instrument; one open position",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "a traditional evaluation phase. Its FAQ states a 3% Daily Loss, a 5% high-water-mark Maximum Loss capped at the initial balance, a 2% open-position floating-loss limit and a highest-profit-day requirement below 20% of payout-period profit. What are the main AIFO Sprint rules? + The AIFO Sprint FAQ s",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "et Step 1 Trading Objectives Achieve an 8% profit target Daily Loss Limit: 5% | Maximum Loss Limit: 10% Adhere to trading rules and stop-loss limits. Upon successful completion, you will automatically advance to Step 2. Step 2 Trading Objectives Achieve a 5% profi",
+    "url": "https://aifo.com/fr/faq/what-is-the-aifo-2-step-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "Step 1 Trading Objectives Achieve a 10 % profit target Daily Loss Limit: 3% | Maximum Loss Limit: 6 % Adhere to trading rules and stop-loss limits. After successfully completing the evaluation, your entire evaluation period will be reviewed. Congratulations! Once t",
+    "url": "https://aifo.com/fr/faq/aifo-1-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "95",
+    "snippet": "AIFO\u2122 | #1 Trusted Prop Firm | Get Funded & Keep 95% Profits Program Account Models Payout Scaling Plan Academy Academy Live Sessions Platform Ai-Coach MetaTrader 5 About About us Partnership Contact Us Help Center EN EN FR VN PT ES Log",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "me available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Visa MasterCard American Express Apple Pay Google Pay",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "the end of its 24-hour trading window, the user may request a one-time payout with a 90% Profit Split. The payout request must be submitted within 30 days after settlement; otherwise, it is forfeited and the account is closed. What Is the AIFO Sprint Enhanced Payo",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "ession No Consistency Score requirement $100 minimum; standard 14-day cycle; default 80% split, with up to 95% through the Scaling Plan 2-Step Step 1: 8%; Step 2: 5% 5% Daily Loss; 10% Static Maximum Loss At least 3 trading days before progression No Consistency",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "e access without a traditional evaluation phase Highest-profit day must be less than 20% of total profit in the payout period $100 minimum; payout on demand when eligible; default 70% split, with up to 95% through the Scaling Plan; retain a 2% buffer to continue or take a full payout and",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "70",
+    "snippet": "al profit in the payout period $100 minimum; payout on demand when eligible; default 70% split, with up to 95% through the Scaling Plan; retain a 2% buffer to continue or take a full payout and close the account Sprint 3% target in a 24-hour challenge; one payou",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "12",
+    "snippet": "Once you receive your funded account, you are entitled to up to a 95% profit split $12K $160K $3m Our Qualified Trader Payouts Start your trading journey with AIFO and work toward your first prop trading payout Start A Challenge Our P",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "160",
+    "snippet": "ceive your funded account, you are entitled to up to a 95% profit split $12K $160K $3m Our Qualified Trader Payouts Start your trading journey with AIFO and work toward your first prop trading payout Start A Challenge Our Payouts Hub",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "and your consistency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "our consistency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Vi",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "onsistency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Visa",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "tency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Visa Master",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Visa MasterCard",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "2,00",
+    "snippet": "ing Journey Starts With AIFO Become a qualified AIFO trader and trade with up to $2,000,000 Get Started Start Free Trial Nominated by: Our Trader Reviews Hear directly from our funded traders Trustpilot Absolutely wonderful",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12",
+    "snippet": "Once you receive your funded account, you are entitled to up to a 95% profit split $12K $160K $3m Our Qualified Trader Payouts Start your trading journey with AIFO and work toward your first prop trading payout Start A Challenge Our",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "160",
+    "snippet": "ceive your funded account, you are entitled to up to a 95% profit split $12K $160K $3m Our Qualified Trader Payouts Start your trading journey with AIFO and work toward your first prop trading payout Start A Challenge Our Payouts Hub",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "funded account, you are entitled to up to a 95% profit split $12K $160K $3m Our Qualified Trader Payouts Start your trading journey with AIFO and work toward your first prop trading payout Start A Challenge Our Payouts Hub",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "equest a Payout on Demand after meeting the Instant payout conditions, including the $100 minimum payout, the highest-profit-day requirement, KYC and compliance review, and the applicable 2% buffer or full-payout account-closure choice. Sprint Account: Sprin",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "average processing times to profit-share percentages, all at a single glance. $1 MILLION+ Paid to Traders Worldwide. 4,300 Traders. MODEL-SPECIFIC Payout Review Varies by Account Model. 1,392 Successful Payouts. W",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "and your consistency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "our consistency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods V",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "onsistency is proven, larger accounts become available. Account Size $10K $25K $50K $100K $200K $50K Profit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Visa",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "0",
+    "snippet": "ofit 0% 50% 100% 20% Profit Split 70% 80% 90% 95% 70% Take Home $0 Payment Methods Visa MasterCard American Express Apple Pay Google Pay Bitcoin Ethereum Tether USDC",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "ofit Target Amount = Initial Account Balance \u00d7 Target Percentage On a hypothetical $100,000 account, a 10% target represents $10,000. That calculation identifies the objective, but it does not answer whether the account is compliant. The loss limits, minimum t",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10,00",
+    "snippet": "ce \u00d7 Target Percentage On a hypothetical $100,000 account, a 10% target represents $10,000. That calculation identifies the objective, but it does not answer whether the account is compliant. The loss limits, minimum trading days, trading conduct and review s",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "lot View on Trustpilot K Known_Succotash_5000 Reddit AIFO, for example, uses a static maximum loss on its 2-Step model, which is what got me thinking about whether this structure is actually more practical for certain trading styles. View on Reddit Really",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trailing",
+    "snippet": "commission or swap pushes equity through the daily boundary Account risk Static or trailing Maximum Loss boundary How far can the account fall over its full lifecycle? The trader sizes from nominal account value instead of remaining headroom Trading conduct EA el",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules and first-payout requirements",
+    "snippet": "g decision. For deeper explanations, compare Daily Loss and Maximum Loss , prop firm consistency rules and first-payout requirements . Rules at a Glance The easiest way to understand trading challenge rules is to place them in the order in which they affect the account. The prop firm rule stack Rule",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule tests the distribution of profit",
+    "snippet": "imum trading days versus profitable days . Consistency and Strategy Restrictions A consistency rule tests the distribution of profit. A strategy restriction tests how the result was produced. Both can matter even when the account balance is positive. Consistency and concentration must be model-specif",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules and payout eligibility are separate account conditions",
+    "snippet": "at Counts in Prop Firm Challenges? Minimum trading days, profitable or valid days, consistency rules and payout eligibility are separate account conditions. A minimum... Email support@aifo.com Academy & Programs Academy Program Payout Partnership Company Contact Us Help Center",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "on Demand",
+    "snippet": "Accounts: Instant has no traditional evaluation Profit Target. Traders may request a Payout on Demand after meeting the Instant payout conditions, including the $100 minimum payout, the highest-profit-day requirement, KYC and compliance review, and the applicable 2% buff",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Daily",
+    "snippet": "ails Check whether the firm\u2019s written refund trigger actually depends on an approved payout AIFO KYC guide Rule breach Daily loss, max loss, prohibited trading and conduct rules can close the account Fee refund can be voided under a firm\u2019s written milestone-refund policy Read the rules before",
+    "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": "What Is AIFO\u2019s Payout Frequency? + 1-Step and 2-Step Accounts: Traders may request a payout every 14 days once all applicable payout requirements are met. Instant Accounts: Traders can request a payout on demand once all payout requirements are satisfied. Sprint Accounts:",
+    "url": "https://aifo.com/programs/payout-rules/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "USDT",
+    "snippet": "Technical Analysis AI Insights Trade Your Favorite Symbols USD/XAU USD/XAG BTC/USDT ETH/USDT SOL/USDT USD/XAU USD/XAG BTC/USDT ETH/USDT SOL/USDT EUR/USD GBP/USD USD/JPY USD/CAD AUD/NZD USD/CHF EUR/USD GBP/USD USD/JPY USD/CAD AUD/NZD USD/CHF",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "were easy to follow, and I always knew how close I was to the profit target. No surprise conditions along the way. View on Facebook H Hiro Tanaka Japan The challenge experience has been smooth and the account information is presented clearly. View on Fa",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "? Bank Cards Visa Mastercard American Express Mobile Payments Apple Pay Google Pay Cryptocurrency BTC ETH USDT USDC Local Bank Transfer Available in selected countries and regions. See more How do AIFO payouts work? 1\u20132 Step Accounts: Every two week",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "American Express Mobile Payments Apple Pay Google Pay Cryptocurrency BTC ETH USDT USDC Local Bank Transfer Available in selected countries and regions. See more How do AIFO payouts work? 1\u20132 Step Accounts: Every two weeks. Traders with a Funded A",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "press Mobile Payments Apple Pay Google Pay Cryptocurrency BTC ETH USDT USDC Local Bank Transfer Available in selected countries and regions. See more How do AIFO payouts work? 1\u20132 Step Accounts: Every two weeks. Traders with a Funded Account can request a",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "t window. The payout request must be submitted within 30 days after settlement; otherwise, it will be deemed forfeited, and the account will be closed. See more When will the KYC verification process be triggered? Challenge accounts: after the trad",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "sted Prop Firm | Get Funded & Keep 95% Profits Program Account Models Payout Scaling Plan Academy Academy Live Sessions Platform Ai-Coach MetaTrader 5 About About us Partnership Contact Us Help Center EN EN FR VN PT ES Login Start Challenge Start Challenge Program Account Models Payout Scaling Plan Academy Academy Live Sessi",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "rmance (P&L) January 8.20% Growth A Premium Trading Academy Introduction Basics of Trading Module 1 Technical Analysis Module 2 Risk Management Module 3 Technical Indicators Module 4 Trading Psychology Prop Industry's First AI Coach Risk Analysis Potential Entry Forex Market Breakdown Technical Analysis AI Insights Trade Your",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "challenge. See more What Payment Methods Does AIFO Accept? Bank Cards Visa Mastercard American Express Mobile Payments Apple Pay Google Pay Cryptocurrency BTC ETH USDT USDC Local Bank Transfer Available in selected countries and regions. See more How do AIFO payouts work? 1\u20132 Step Accounts: Every two weeks. Traders with a Funded Account c",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Join Thousa",
+    "snippet": "bout About us Partnership Contact Us Help Center Start Challenge Login Join Thousands of Funded Traders Your Trading Journey Starts With AIFO Become a qualified AIFO trader and trade with up to $2,000,000 Get Started Start Free Trial Nominate",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Module 2 Risk Manag",
+    "snippet": "Trading Academy Introduction Basics of Trading Module 1 Technical Analysis Module 2 Risk Management Module 3 Technical Indicators Module 4 Trading Psychology Prop Industry's First AI Coach Risk Analysis Potential Entry Forex Market Breakdown Tec",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "I Isa",
+    "snippet": "y to be part of the community and can't wait to get my third payout. Thank you AIFO I Isaac Oladipupo Ayomide Trustpilot View on Trustpilot K Known_Succotash_5000 Reddit AIFO, for example, uses a static maximum loss on its 2-Step model, which is what go",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Slippag",
+    "snippet": "ng it here L Luso Trustpilot View on Trustpilot A Accomplished_Rub2753 Reddit Slippage is worth looking at alongside the spread, especially if you trade around volatile sessions. I would also read the payout conditions carefully because a low spread does",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "View on Trustpilot J Jamal Hassa",
+    "snippet": "mpetitive in the prop firm industry. High quality platform. J JadeJMA Trustpilot View on Trustpilot J Jamal Hassan United Arab Emirates Onboarding was quick \u2014 I started the challenge the same day. The platform loaded cleanly and I didn\u2019t need extra tools to get going. Read on X",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "I started the challenge the sa",
+    "snippet": "View on Trustpilot J Jamal Hassan United Arab Emirates Onboarding was quick \u2014 I started the challenge the same day. The platform loaded cleanly and I didn\u2019t need extra tools to get going. Read on X S Specialist-Roll5819 Reddit \u00b7 r/PropFirmTester A lot of traders focus on pr",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "y remaining buffer at a glance. That makes risk manag",
+    "snippet": "on Reddit A Ava Bergstr\u00f6m Sweden Drawdown limits are shown clearly, so I can see my remaining buffer at a glance. That makes risk management much calmer during the session. View on Facebook Absolutely wonderful experience trading here. The trading academy helps a lot. What I also love is the AI coach",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "was simple, and I could see the status without messag",
+    "snippet": "xperience much better. Read on X O Omar Farouk Egypt Submitting a payout request was simple, and I could see the status without messaging support every few hours. Read on X I Intelligent-Wheel732 Reddit I\u2019ll break the comparison down into execution, drawdown mechanics, payout rules and restric",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund-rules/ 2026-09-04T03:09:19+00:00 https://aifo",
+    "snippet": "-09-04T03:17:46+00:00 https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/ 2026-09-04T03:09:19+00:00 https://aifo.com/blog/guide/prop-firm-terms-and-conditions/ 2026-09-04T02:59:44+00:00 https://aifo.com/blog/guide/direct-funding-prop-firm-rules/ 2026-09-04T02:49:41+00:00 https://ai",
+    "url": "https://aifo.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refunds/ 2026-09-03T02:53:30+00:00 https://aifo",
+    "snippet": "n-process-at-aifo/ 2026-09-03T02:54:40+00:00 https://aifo.com/fr/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:30+00:00 https://aifo.com/pt/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:25+00:00 https://aifo.com/es/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:14+00:00 https://aifo.com/vi/faq/does-aif",
+    "url": "https://aifo.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refunds/ 2026-09-03T02:53:25+00:00 https://aifo",
+    "snippet": "ifo-offer-refunds/ 2026-09-03T02:53:30+00:00 https://aifo.com/pt/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:25+00:00 https://aifo.com/es/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:14+00:00 https://aifo.com/vi/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:09+00:00 https://aifo.com/faq/does-aifo-o",
+    "url": "https://aifo.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refunds/ 2026-09-03T02:53:14+00:00 https://aifo",
+    "snippet": "ifo-offer-refunds/ 2026-09-03T02:53:25+00:00 https://aifo.com/es/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:14+00:00 https://aifo.com/vi/faq/does-aifo-offer-refunds/ 2026-09-03T02:53:09+00:00 https://aifo.com/faq/does-aifo-offer-refunds/ 2026-09-03T02:52:49+00:00 https://aifo.com/vi/faq/what-is-the",
+    "url": "https://aifo.com/post-sitemap1.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading during high-impact events and overnight and weekend holding",
+    "snippet": "liday closure condition and the continuous countdown. Read the detailed guides to news trading during high-impact events and overnight and weekend holding . Passing a Challenge vs Payout Eligibility Passing and payout are not synonyms. They occur at different points and answer different questions. Evaluation, funded-stag",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ear directly from our funded traders\n \n Trustpilot\n \n Absolutely wonderful experience trading here",
+    "snippet": "et Started Start Free Trial Nominated by: Our Trader Reviews Hear directly from our funded traders Trustpilot Absolutely wonderful experience trading here. The trading academy helps a lot. What I also love is the AI coach that helps me improve my trading! Their rules are good and their pricing is competitive in the prop fi",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears",
+    "snippet": "t structure is very fast and impressive. I think this might be the best prop in few years. Happy to be part of the community and can't wait to get my third payout. Thank you AIFO Isaac Oladipupo Ayomide Jul 2026 Trustpilot Really amazing and swift exper",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eally amazing and swift experience",
+    "snippet": "t my third payout. Thank you AIFO Isaac Oladipupo Ayomide Jul 2026 Trustpilot Really amazing and swift experience. In no time Aifo is going to be the leading firm. Baby steps to the top yes but I'm absolutely loving it here Luso Jul 2026 Trustpilot Reliable Firm. They have too",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading firm",
+    "snippet": "ustpilot Really amazing and swift experience. In no time Aifo is going to be the leading firm. Baby steps to the top yes but I'm absolutely loving it here Luso Jul 2026 Trustpilot Reliable Firm. They have too many options for trading symbols. Fast payouts.",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear answers",
+    "snippet": "mer care. I asked a few questions about my account and they came back quickly with clear answers. Support like that makes the whole process much easier. BOAZ Aug 2026 Trustpilot With the MT5 platform here my trading becomes easier. Execution feels smooth and I",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "g-behaviors-are-prohibited/ 2026-06-12T06:14:39+00:00 https://aifo.com/faq/can-i-use-vpn-or-vps-at-aifo/ 2026-06-12T06:01:39+00:00 https://aifo.com/fr/faq/how-does-aifo-handle-extreme-market-conditions/ 2026-06-12T03:24:38+00:00 https://aifo.com/fr/faq/who-can-join-aifo/ 2026-06-12T03:17:31+00:00 https://aifo.co",
+    "url": "https://aifo.com/post-sitemap3.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@aifo.com",
+    "snippet": "Start A Challenge Start A Free Trial AIFO FUNDING Email support@aifo.com Academy & Programs Academy Program Payout Partnership Company Contact Us Help Center Resources Discord Stay updated with our newsletter!",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "Accounts: Instant has no traditional evaluation Profit Target. Traders may request a Payout on Demand after meeting the Instant payout conditions, including the $100 minimum payout, the highest-profit-day requirement, KYC and compliance review, and the applicable 2% buffer or full-payout account-",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 30 days after settleme",
+    "snippet": "ge. After achieving the Profit Target, traders will have a 30-day payout window. The payout request must be submitted within 30 days after settlement; otherwise, it will be deemed forfeited, and the account will be closed. See more When will the KYC verification process be triggered? Challenge accounts: a",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 hours of purchase;",
+    "snippet": "without a traditional evaluation phase Plan around the active risk, consistency and payout conditions Sprint First trade within 48 hours of purchase; first trade starts a continuous 24-hour challenge Check market hours and holidays before purchase because the countdown does not pause during closures A trading day i",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "for further details. See more Products & Leverage Available Instruments & Leverage Forex: up to 1:30 Precious Metals & Indices: up to 1:10 Stocks: up to 1:5 See more Overnight & Weekend Positions Traders are allowed to hold overnight and weekend positions. Open",
+    "url": "https://aifo.com/faq/what-is-the-aifo-scaling-plan/",
+    "kind": "page"
+   },
+   {
+    "value": "1:100",
+    "snippet": "d on market characteristics and risk considerations. For 2-Step Challenge Accounts , leverage of up to 1:100 is available, providing traders with greater trading flexibility and more room for position management. Forex: Up to 1:100 Indices: Up to 1:50 Commodities & Metals:",
+    "url": "https://aifo.com/fr/faq/what-is-the-aifo-2-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan \n \n Academy Academy Live Sessions \n \n Platform Ai-Coach MetaTrader 5 \n \n About About us Partnership Contact",
+    "snippet": "sted Prop Firm | Get Funded & Keep 95% Profits Program Account Models Payout Scaling Plan Academy Academy Live Sessions Platform Ai-Coach MetaTrader 5 About About us Partnership Contact Us Help Center EN EN FR VN PT ES Login Start Challenge Start Challenge Program Account Models Payout Scaling Plan Academy Academy Live Sessions Platform A",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan \n 2-Step Step 1: 8%; Step 2: 5% 5% Daily Loss; 10% Static Maximum Loss At least 3 trading days before progr",
+    "snippet": "t $100 minimum; standard 14-day cycle; default 80% split, with up to 95% through the Scaling Plan 2-Step Step 1: 8%; Step 2: 5% 5% Daily Loss; 10% Static Maximum Loss At least 3 trading days before progression No Consistency Score requirement $100 minimum; standard 14-day cycle; default 80% split, with up to 95% through the Scaling Plan I",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plan \n Instant Immediate access without a traditional evaluation phase 3% Daily Loss; 5% high-water-mark Maximum",
+    "snippet": "t $100 minimum; standard 14-day cycle; default 80% split, with up to 95% through the Scaling Plan Instant Immediate access without a traditional evaluation phase 3% Daily Loss; 5% high-water-mark Maximum Loss capped at initial balance; open-position floating loss must not exceed 2% of initial balance Immediate access without a traditional",
+    "url": "https://aifo.com/blog/guide/prop-firm-challenge-rules/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC and compliance review, and the applicable 2% buffer or full-payout account-closure choice",
+    "snippet": "t conditions, including the $100 minimum payout, the highest-profit-day requirement, KYC and compliance review, and the applicable 2% buffer or full-payout account-closure choice. Sprint Account: Sprint is a 24-hour time-limited trading challenge. After achieving the Profit Target, traders will have a 30-day payout window. The payout requ",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC verification process be triggered? Challenge accounts: after the trader passes the challenge and the account",
+    "snippet": "deemed forfeited, and the account will be closed. See more When will the KYC verification process be triggered? Challenge accounts: after the trader passes the challenge and the account clears the manual Live Verification review, it moves into KYC Verification. Instant accounts and Sprint accounts: KYC is not triggered at account issuance",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC Verification",
+    "snippet": "challenge and the account clears the manual Live Verification review, it moves into KYC Verification. Instant accounts and Sprint accounts: KYC is not triggered at account issuance. It\u2019s triggered only when the trader initiates their first payout request. See more",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription, you should carefully assess your trading objectives, experience level, and risk appetite",
+    "snippet": "for traders. We do not act as a broker nor accept any deposits. Before purchasing a subscription, you should carefully assess your trading objectives, experience level, and risk appetite. We strongly advise against investing more than you can afford to lose. We encourage you to fully understand the risks involved and to take necessary pre",
+    "url": "https://aifo.com/",
+    "kind": "home"
+   },
+   {
+    "value": "reset fee or selected base fee under written conditions Every related cost is refunded Add-ons, discounts, reset rules",
+    "snippet": "cy and review conditions Refundable fee The firm may reimburse the original fee, a reset fee or selected base fee under written conditions Every related cost is refunded Add-ons, discounts, reset rules or account model exclusions change the amount Base fee, add-ons, reset fee, discounts and payment charges Credit or hub credit Credit that",
+    "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "reset fee, discounts and payment charges \n Credit or hub credit Credit that may be used toward another challenge or pla",
+    "snippet": "counts, reset rules or account model exclusions change the amount Base fee, add-ons, reset fee, discounts and payment charges Credit or hub credit Credit that may be used toward another challenge or platform purchase Withdrawable cash Trader treats non-withdrawable credit as money back Whether the refund is cash, payout balance, payment-m",
+    "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "reset fee, original fee or only a reduced amount Ask how resets change refundable amount and eligibility \n Credit-based",
+    "snippet": "efund After a reset or repurchase path under selected conditions Refund may apply to reset fee, original fee or only a reduced amount Ask how resets change refundable amount and eligibility Credit-based refund As dashboard, hub, wallet or platform credit Credit may not be withdrawable cash Check whether credit can be cashed out, transferr",
+    "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fee Some firms change the refundable amount after resets The refund amount can change Ask support how resets affe",
+    "snippet": "ase fee, add-ons, discount and payment charges in your calculation Challenge costs Reset fee Some firms change the refundable amount after resets The refund amount can change Ask support how resets affect refundable fee before using one Why traders fail prop firm challenges Credit instead of cash Credits may only be used for another purch",
+    "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "l is normally a practice account, while a genuine free prop firm challenge should... 2026-07-07 Instant Funding Prop Firm List: Direct Access Accounts Comparison 2026 An instant funding prop firm list is useful only when it shows how direct access rules behave after...",
+   "url": "https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "xplore and choose a wide range of account challenges tailored to your tolerance and trading style 1-Step 2-Step Sprint Instant Pass the challenge Trade & Pass Your Account Challenge Begin trading your selected account and pass the challenge while staying withi",
+   "url": "https://aifo.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "and choose a wide range of account challenges tailored to your tolerance and trading style 1-Step 2-Step Sprint Instant Pass the challenge Trade & Pass Your Account Challenge Begin trading your selected account and pass the challenge while staying within our t",
+   "url": "https://aifo.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "prop-firms-for-beginners/ 2026-09-04T03:41:23+00:00 https://aifo.com/blog/guide/1-step-vs-2-step-vs-3-step-prop-firm-challenges/ 2026-09-04T03:17:46+00:00 https://aifo.com/blog/guide/blog-guide-prop-firm-challenge-fee-refund-rules/ 2026-09-04T03:09:19+00:00 https://",
+   "url": "https://aifo.com/post-sitemap1.xml"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "s With AIFO Become a qualified AIFO trader and trade with up to $2,000,000 Get Started Start Free Trial Nominated by: Our Trader Reviews Hear directly from our funded traders Trustpilot Absolutely wonderful experience trading here. Th",
+   "url": "https://aifo.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "USD GBP/USD USD/JPY USD/CAD AUD/NZD USD/CHF EUR/USD GBP/USD USD/JPY USD/CAD AUD/NZD USD/CHF Serving 160+ Countries Your Path To Funded Trading To get start",
+  "times to profit-share percentages, all at a single glance. $1 MILLION+ Paid to Traders Worldwide. 4,300 Traders. MODEL-SPECIFIC Payout Review Varies by Account Mode"
+ ],
+ "errors": []
+}

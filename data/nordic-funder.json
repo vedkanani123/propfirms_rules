@@ -1,0 +1,649 @@
+{
+ "slug": "nordic-funder",
+ "name": "Nordic Funder",
+ "category": "Forex/CFD",
+ "url": "https://nordicfunder.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://nordicfunder.com/",
+   "kind": "home",
+   "chars": 15825
+  },
+  {
+   "url": "https://nordicfunder.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1673
+  },
+  {
+   "url": "https://nordicfunder.com/legal/terms/",
+   "kind": "page",
+   "chars": 5455
+  },
+  {
+   "url": "https://nordicfunder.com/blog/how-to-pass-a-prop-firm-challenge/",
+   "kind": "page",
+   "chars": 14888
+  },
+  {
+   "url": "https://nordicfunder.com/faq/",
+   "kind": "page",
+   "chars": 6646
+  },
+  {
+   "url": "https://nordicfunder.com/payouts/",
+   "kind": "page",
+   "chars": 4356
+  },
+  {
+   "url": "https://nordicfunder.com/blog/how-prop-firm-payouts-work/",
+   "kind": "page",
+   "chars": 14342
+  },
+  {
+   "url": "https://nordicfunder.com/blog/trailing-vs-static-drawdown/",
+   "kind": "page",
+   "chars": 14503
+  },
+  {
+   "url": "https://nordicfunder.com/how-it-works/",
+   "kind": "page",
+   "chars": 4969
+  },
+  {
+   "url": "https://nordicfunder.com/about/",
+   "kind": "page",
+   "chars": 4315
+  },
+  {
+   "url": "https://nordicfunder.com/blog/crypto-prop-trading-funded-accounts/",
+   "kind": "page",
+   "chars": 14874
+  },
+  {
+   "url": "https://nordicfunder.com/blog/ea-algo-trading-funded-accounts/",
+   "kind": "page",
+   "chars": 14436
+  },
+  {
+   "url": "https://nordicfunder.com/blog/cheapest-prop-firm-accounts-2026/",
+   "kind": "page",
+   "chars": 13666
+  },
+  {
+   "url": "https://nordicfunder.com/legal/privacy/",
+   "kind": "page",
+   "chars": 4031
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 133992,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": ".00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Static Static Max daily loss 5% 4% 5% 2.5% 3% Da",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "algo trading Allowed Three-Step FX & CFDs Fee from $42.00 Account sizes $5K\u2013$500K Profit target P1 5% \u00b7 P2 5% \u00b7 P3 5% Max drawdown 5% Drawdown type Static Max daily loss 5% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 2",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12",
+    "snippet": "trading Allowed Two-Step Lite FX & CFDs Fee from $25.00 Account sizes $2.5K\u2013$100K Profit target P1 12% \u00b7 P2 6% Max drawdown 6% Drawdown type Static Max daily loss 3% Daily loss type Intraday trailing Consistency 0% evaluation / 50% funded Min trading days 3 profitable day",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Static Static Max daily loss 5% 4% 5% 2.5% 3% Daily loss type EOD balance EOD balance EOD balance Intraday trailing Intraday trailing Consistency \u2014 \u2014 \u2014 0% evaluation / 50% funded 0% evaluation / 50% fu",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "$5K\u2013$500K Profit target 10% Max drawdown 6% Drawdown type Trailing Max daily loss 5% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indic",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "izes $5K\u2013$500K Profit target P1 10% \u00b7 P2 5% Max drawdown 8% Drawdown type Static Max daily loss 4% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto Commissi",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2.5",
+    "snippet": "Account sizes $2.5K\u2013$100K Profit target 10% Max drawdown 5% Drawdown type Static Max daily loss 2.5% Daily loss type Intraday trailing Consistency 0% evaluation / 50% funded Min trading days 3 profitable days of 1% Profit split 80% Refundable fee No Payouts First withdr",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": ".5K\u2013$100K Profit target 10% Max drawdown 5% Drawdown type Static Max daily loss 2.5% Daily loss type Intraday trailing Consistency 0% evaluation / 50% funded Min trading days 3 profitable days of 1% Profit split 80% Refundable fee No Payouts First withdrawal with no delay, then every 14 days Leverage 3",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "es $2.5K\u2013$100K Profit target P1 12% \u00b7 P2 6% Max drawdown 6% Drawdown type Static Max daily loss 3% Daily loss type Intraday trailing Consistency 0% evaluation / 50% funded Min trading days 3 profitable days of 1% Profit split 80% Refundable fee No Payouts First withdr",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Static Static Max daily loss 5% 4% 5% 2.5% 3% Daily loss type EOD balance EOD balance EOD balance Intraday trailing Intr",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "tep FX & CFDs Fee from $60.00 Account sizes $5K\u2013$500K Profit target P1 10% \u00b7 P2 5% Max drawdown 8% Drawdown type Static Max daily loss 4% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indice",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "& CFDs Fee from $42.00 Account sizes $5K\u2013$500K Profit target P1 5% \u00b7 P2 5% \u00b7 P3 5% Max drawdown 5% Drawdown type Static Max daily loss 5% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indice",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "son One-Step Daily Fee from $25.00 Account sizes $2.5K\u2013$100K Rules Profit target 10% Max drawdown 3% Drawdown type Static Max daily loss 1.5% Daily loss type Intraday trailing Consistency 40% evaluation / 20% funded Min trading days 3 profitable days of 1% Terms Profit",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "83",
+    "snippet": "it 30 days 30 days 30 days Derived from the two rows above Daily limit as a share of max drawdown 83% 50% 100% Largest phase target \u00f7 max drawdown 1.67x 1.25x 1.00x One-time fee $10,000 account $85 $110 $77 $50,000 account $425 $345 $241.50 $100,000 account $850 $525 $36",
+    "url": "https://nordicfunder.com/blog/how-to-pass-a-prop-firm-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "he account balance. Set that alongside the tightest limits on the site \u2014 a 3% static max drawdown and a 1% intraday trailing daily loss \u2014 and the product suits a trader who can sit on a small edge without touching it. The percentages are published; the arithmetic combining th",
+    "url": "https://nordicfunder.com/blog/how-prop-firm-payouts-work/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "88",
+    "snippet": "Account equity $104,880.00 +4.88% Target 10% Drawdown 6% Split 80% First payout with no delay, then every 14 days One-time fee, no recurring costs EA trading allowed \u00b7 raw spreads $500,000 Maximum funded account 90% Pr",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "Account equity $104,880.00 +4.88% Target 10% Drawdown 6% Split 80% First payout with no delay, then every 14 days One-time fee, no recurring costs EA trading allowed \u00b7 raw spreads $500,000 Maximum funded account 90% Profit share with add-on 4 As",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "recurring costs EA trading allowed \u00b7 raw spreads $500,000 Maximum funded account 90% Profit share with add-on 4 Asset classes 3 Trading platforms Build your challenge One configurator. Every program. Pick an asset class, a track and an account size. You get one",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "Drawdown type Static Max daily loss 1% Daily loss type Intraday trailing Consistency 20% funded Terms Profit split 80% Inactivity limit 14 days Refundable fee No Payouts First withdrawal with no delay, then every 14 days Trading conditions Leverage 30:1 (60:1 with Double Leverage add",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "What the split is worth Your share of a 10% target Arithmetic on the published 10% One-Step target and the 80% / 90% splits. Not a projection or a guarantee of results. Profit split on a 10% target Account 10% target Your 80% share Your 90% share $5K $500 $400 $450 $10K $1,000 $800 $900 $",
+    "url": "https://nordicfunder.com/payouts/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "day trailing Consistency \u2014 \u2014 \u2014 0% evaluation / 50% funded 0% evaluation / 50% funded Min trading days \u2014 \u2014 \u2014 3 profitable days of 1% 3 profitable days of 1% Terms Profit split 80% 80% 80% 80% 80% Inactivity limit 30 days 30 days 30 days \u2014 \u2014 Refundable fee No No No No No Payouts \u2014",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "500",
+    "snippet": "Nordic Funder \u2014 Funded Trading Accounts up to $500K | 1-Step, 2-Step & Instant Funding Skip to content N RDIC F U N D E R Programs FX & CFDs 5 tracks \u00b7 up to $500K Crypto 1-Step \u00b7 2-Step Equities One-Step Daily Instant F",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ne-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown ty",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "$42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Static Stati",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "on a 10% target Account 10% target Your 80% share Your 90% share $5K $500 $400 $450 $10K $1,000 $800 $900 $25K $2,500 $2,000 $2,250 $50K $5,000 $4,000 $4,500 $100K $10,000 $8,000 $9,000 $200K $20,000 $16,000 $18,000 $250K $25,000 $20,000 $22,500 $500K $50,00",
+    "url": "https://nordicfunder.com/payouts/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "nt 10% target Your 80% share Your 90% share $5K $500 $400 $450 $10K $1,000 $800 $900 $25K $2,500 $2,000 $2,250 $50K $5,000 $4,000 $4,500 $100K $10,000 $8,000 $9,000 $200K $20,000 $16,000 $18,000 $250K $25,000 $20,000 $22,500 $500K $50,000 $40,000 $45,000",
+    "url": "https://nordicfunder.com/payouts/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "re Your 90% share $5K $500 $400 $450 $10K $1,000 $800 $900 $25K $2,500 $2,000 $2,250 $50K $5,000 $4,000 $4,500 $100K $10,000 $8,000 $9,000 $200K $20,000 $16,000 $18,000 $250K $25,000 $20,000 $22,500 $500K $50,000 $40,000 $45,000 FAQ Payout questions H",
+    "url": "https://nordicfunder.com/payouts/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "$900 $25K $2,500 $2,000 $2,250 $50K $5,000 $4,000 $4,500 $100K $10,000 $8,000 $9,000 $200K $20,000 $16,000 $18,000 $250K $25,000 $20,000 $22,500 $500K $50,000 $40,000 $45,000 FAQ Payout questions How soon can I withdraw? Your first withdrawal has no wa",
+    "url": "https://nordicfunder.com/payouts/",
+    "kind": "page"
+   },
+   {
+    "value": "250",
+    "snippet": "$50K $5,000 $4,000 $4,500 $100K $10,000 $8,000 $9,000 $200K $20,000 $16,000 $18,000 $250K $25,000 $20,000 $22,500 $500K $50,000 $40,000 $45,000 FAQ Payout questions How soon can I withdraw? Your first withdrawal has no waiting period \u2014 you can request",
+    "url": "https://nordicfunder.com/payouts/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "500",
+    "snippet": "Nordic Funder \u2014 Funded Trading Accounts up to $500K | 1-Step, 2-Step & Instant Funding Skip to content N RDIC F U N D E R Programs FX & CFDs 5 tracks \u00b7 up to $500K Crypto 1-Step \u00b7 2-Step Equities One-Step Daily Instant",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "500,00",
+    "snippet": "inavia's funded trader programme Scandinavia's Funded Trader Programme. Trade up to $500,000 . Pass once, pay once, keep up to 90% of profits. Accounts from $25. Choose your challenge How it works 4.3 Excellent on Trustpilot Listed on PropFirmMatch A",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "rade up to $500,000 . Pass once, pay once, keep up to 90% of profits. Accounts from $25. Choose your challenge How it works 4.3 Excellent on Trustpilot Listed on PropFirmMatch A Viking watching the aurora over a Nordic fjord A helmeted Norse figure",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "104,88",
+    "snippet": "Account equity $104,880.00 +4.88% Target 10% Drawdown 6% Split 80% First payout with no delay, then every 14 days One-time fee, no recurring costs EA trading allowed \u00b7 raw sp",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "42.50",
+    "snippet": "program comparison One-Step Two-Step Three-Step One-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "60.00",
+    "snippet": "comparison One-Step Two-Step Three-Step One-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6%",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "42.00",
+    "snippet": "ison One-Step Two-Step Three-Step One-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max dra",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25.00",
+    "snippet": "e-Step Two-Step Three-Step One-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ne-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown t",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Sta",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "$42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target 10% P1 10% \u00b7 P2 5% P1 5% \u00b7 P2 5% \u00b7 P3 5% 10% P1 12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Static Stat",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "e Leverage add-on) 100:1 (200:1 with Double Leverage add-on) Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto \u2014 \u2014 Spreads Raw Raw Raw Raw Raw EA",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "12% \u00b7 P2 6% Max drawdown 6% 8% 5% 5% 6% Drawdown type Trailing Static Static Static Static Max daily loss 5% 4% 5% 2.5% 3% Daily loss type EOD balance EOD balance EOD balance Intraday trailing Intraday trailing Consistency \u2014 \u2014 \u2014 0% evaluation / 50% funded 0% evalu",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "from $42.50 Account sizes $5K\u2013$500K Profit target 10% Max drawdown 6% Drawdown type Trailing Max daily loss 5% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 C",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency requirement or a minimum\n number of profitable trading days, those must also be satisfied before a fu",
+    "snippet": "o your track closes the account and ends that assessment. Where a track publishes a consistency requirement or a minimum number of profitable trading days, those must also be satisfied before a funded account or a payout is granted. The applicable figures for every track are published on the relevant program page and summarised in the com",
+    "url": "https://nordicfunder.com/legal/terms/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule on Lite, crypto and equities\n Consistency figures limit how much of your total profit a s",
+    "snippet": "-on). Higher targets, tighter daily basis, far more rope to hang yourself with. The consistency rule on Lite, crypto and equities Consistency figures limit how much of your total profit a single day is allowed to represent, and a lower percentage is the tighter constraint. One-Step Lite and Two-Step Lite publish 0% for the evaluation and ",
+    "url": "https://nordicfunder.com/blog/how-to-pass-a-prop-firm-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule apply while I am still in the evaluation? It depends on the track",
+    "snippet": "tic losing streak inside the limit, then choose the account size to match. Does the consistency rule apply while I am still in the evaluation? It depends on the track. One-Step Lite and Two-Step Lite publish 0% during the evaluation and 50% once funded, so the rule is not applied until you have passed. Equities One-Step Daily publishe",
+    "url": "https://nordicfunder.com/blog/how-to-pass-a-prop-firm-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule? It caps how much of your total profit can come from a single day, so a funded account re",
+    "snippet": "raday trailing figure, so it is assessed live rather than at the close. What is the consistency rule? It caps how much of your total profit can come from a single day, so a funded account reflects a repeatable strategy rather than one outsized trade. It is 25% on crypto, 20% on equities and instant funding, and 50% on funded Lite accounts",
+    "url": "https://nordicfunder.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement during the evaluation itself",
+    "snippet": "equities and instant funding, and 50% on funded Lite accounts. Lite accounts have no consistency requirement during the evaluation itself. How much leverage do I get? On staged FX accounts: up to 20:1 on forex and metals, 10:1 on indices, 5:1 on oil and up to 2:1 on crypto. One-Step Lite runs at 30:1 and",
+    "url": "https://nordicfunder.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule and 14-day inactivity limit work, and $0 commission",
+    "snippet": "s Work Funded crypto accounts explained: why leverage is capped at 2:1, how the 25% consistency rule and 14-day inactivity limit work, and $0 commission. By Nordic Funder Research Published 21 May 2026 Updated 20 July 2026 7 min read In short: a crypto prop firm account at Nordic Funder is a separate asset class wit",
+    "url": "https://nordicfunder.com/blog/crypto-prop-trading-funded-accounts/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "every 14 days",
+    "snippet": "t equity $104,880.00 +4.88% Target 10% Drawdown 6% Split 80% First payout with no delay, then every 14 days One-time fee, no recurring costs EA trading allowed \u00b7 raw spreads $500,000 Maximum funded account 90% Profit share with add-on 4 Asset classes 3 Trading platforms",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "monthly",
+    "snippet": "with no delay, then every 14 days. Keep up to 90%. Read the full walkthrough Payouts How and when you actually get paid No monthly cycle to wait for. Your first withdrawal has no delay, and every payout after that is on a 14-day rhythm. Payout terms Payout term What it means First withdrawal No",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "daily",
+    "snippet": "the assessment end to end How it works walks through every stage from fee to first withdrawal, with the target, drawdown and daily loss figures for each track set out side by side. How it works Build your challenge Frequently asked Which prop firm challenge structure is easiest to pass? Stru",
+    "url": "https://nordicfunder.com/blog/how-to-pass-a-prop-firm-challenge/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "unding Skip to content N RDIC F U N D E R Programs FX & CFDs 5 tracks \u00b7 up to $500K Crypto 1-Step \u00b7 2-Step Equities One-Step Daily Instant Funding Lite \u00b7 no assessment How it works Payouts Blog FAQ Log in Get funded Programs FX & CFDs Crypto Equities I",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "heckout. Payout details Why Nordic Funder What you get that you would otherwise pay extra for Raw spreads, $7 round turn Raw pricing with a $7 round-turn commission on FX and metals, and no commission at all on indices,",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "g drawdown follows your account's high-water mark upward, so as you profit the floor rises with you. FX One-Step uses a trailing drawdown; Two-Step, Three-Step, crypto, equities and instant funding are all static. Read the full answer \u2192 Is there a time li",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "& CFDs Crypto Equities Instant Funding How it works Payouts Blog FAQ Log in Scandinavia's funded trader programme Scandinavia's Funded Trader Programme. Trade up to $500,000 . Pass once, pay once, keep up to 90% of profits. Accounts from $25. Choose your challenge How it works 4.3 Excellent on Trustpilot Listed on",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "The sa",
+    "snippet": "t exact product, not a generic order form. Compare Every rule, side by side The same records that drive the configurator \u2014 one source of truth, so these can never disagree. FX & CFDs Crypto Equities Instant Funding Pick an asset class to see its f",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "one source of truth, so these can never disag",
+    "snippet": "Compare Every rule, side by side The same records that drive the configurator \u2014 one source of truth, so these can never disagree. FX & CFDs Crypto Equities Instant Funding Pick an asset class to see its full rule set. FX & CFDs program comparison One-Step Two-Step Three-Step One-Step Lite",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "delay, then every 14 days Trading conditions Leverag",
+    "snippet": "ts \u2014 \u2014 \u2014 First withdrawal with no delay, then every 14 days First withdrawal with no delay, then every 14 days Trading conditions Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "with Double Leverag",
+    "snippet": ":1 Crypto 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto 30:1 (60:1 with Double Leverage add-on) 100:1 (200:1 with Double Leverage add-on) Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto $7",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Inactivity limit 30 days Refundable fee No Leverag",
+    "snippet": "rawdown type Trailing Max daily loss 5% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto Spreads Raw EA / algo trading Allo",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "withdrawal with no delay, then every 14 days Leverag",
+    "snippet": "rading days 3 profitable days of 1% Profit split 80% Refundable fee No Payouts First withdrawal with no delay, then every 14 days Leverage 30:1 (60:1 with Double Leverage add-on) Spreads Raw EA / algo trading Allowed Two-Step Lite FX & CFDs Fee from $25.00 Account sizes $2.5K\u2013$100K Profit target P1 12% \u00b7",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Customisa",
+    "snippet": "rt advisors and algorithms on any account. No approval process, no surcharge. Customisable add-ons Raise your split to 90%, hold positions over the weekend, or double your leverage \u2014 priced at checkout. Aggregated tier-1 liquidity Pricing is aggr",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ld positions over the weekend, or double your leverag",
+    "snippet": "roval process, no surcharge. Customisable add-ons Raise your split to 90%, hold positions over the weekend, or double your leverage \u2014 priced at checkout. Aggregated tier-1 liquidity Pricing is aggregated from multiple tier-1 banks, prime brokers and market makers, so no single provider set",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable fee No No No No No Payouts \u2014 \u2014 \u2014 First withdrawal with no delay, then every 14 days First withdrawal with no ",
+    "snippet": "Terms Profit split 80% 80% 80% 80% 80% Inactivity limit 30 days 30 days 30 days \u2014 \u2014 Refundable fee No No No No No Payouts \u2014 \u2014 \u2014 First withdrawal with no delay, then every 14 days First withdrawal with no delay, then every 14 days Trading conditions Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto 20:1 Forex & Metal",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto Commission (round turn) $7/lo",
+    "snippet": "daily loss 5% Daily loss type EOD balance Profit split 80% Inactivity limit 30 days Refundable fee No Leverage 20:1 Forex & Metals \u00b7 10:1 Indices \u00b7 5:1 Oil \u00b7 up to 2:1 Crypto Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto Spreads Raw EA / algo trading Allowed Two-Step FX & CFDs Fee from $60.00 Account sizes $5K\u2013$500",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable fee No Payouts First withdrawal with no delay, then every 14 days Leverage 30:1 (60:1 with Double Leverage ad",
+    "snippet": "0% evaluation / 50% funded Min trading days 3 profitable days of 1% Profit split 80% Refundable fee No Payouts First withdrawal with no delay, then every 14 days Leverage 30:1 (60:1 with Double Leverage add-on) Spreads Raw EA / algo trading Allowed Two-Step Lite FX & CFDs Fee from $25.00 Account sizes $2.5K\u2013$100K Profit target P1 12% \u00b7 P2",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable fee No Payouts First withdrawal with no delay, then every 14 days Leverage 100:1 (200:1 with Double Leverage ",
+    "snippet": "0% evaluation / 50% funded Min trading days 3 profitable days of 1% Profit split 80% Refundable fee No Payouts First withdrawal with no delay, then every 14 days Leverage 100:1 (200:1 with Double Leverage add-on) Spreads Raw EA / algo trading Allowed Swipe to compare tracks \u2192 Crypto program comparison One-Step Two-Step Fee from $25.00 $25",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ear stands on a rock\n outcrop above still water, looking out at green and violet aurora light over layered\n mountains, w",
+    "snippet": "ing the aurora over a Nordic fjord A helmeted Norse figure with a round shield and spear stands on a rock outcrop above still water, looking out at green and violet aurora light over layered mountains, with a longship on the fjord below.",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EA trading allowed \u00b7 raw spreads \n \n $500,000 Maximum funded account 90% Profit share with add-on 4 Asset classes 3 Trad",
+    "snippet": "First payout with no delay, then every 14 days One-time fee, no recurring costs EA trading allowed \u00b7 raw spreads $500,000 Maximum funded account 90% Profit share with add-on 4 Asset classes 3 Trading platforms Build your challenge One configurator. Every program. Pick an asset class, a track and an account size. You get one price and one ",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads Raw Raw Raw Raw Raw EA / algo trading Allowed Allowed Allowed Allowed Allowed \n One-Step\n FX & CFDs\n Fee from $42",
+    "snippet": "tals \u00b7 $0 Indices, Oil & Crypto $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto \u2014 \u2014 Spreads Raw Raw Raw Raw Raw EA / algo trading Allowed Allowed Allowed Allowed Allowed One-Step FX & CFDs Fee from $42.50 Account sizes $5K\u2013$500K Profit target 10% Max drawdown 6% Drawdown type Trailing Max daily loss 5% Daily loss type EOD balance Profit spl",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads Raw EA / algo trading Allowed Two-Step\n FX & CFDs\n Fee from $60",
+    "snippet": "2:1 Crypto Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto Spreads Raw EA / algo trading Allowed Two-Step FX & CFDs Fee from $60.00 Account sizes $5K\u2013$500K Profit target P1 10% \u00b7 P2 5% Max drawdown 8% Drawdown type Static Max daily loss 4% Daily loss type EOD balance Profit split 80% Inactivity li",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads Raw EA / algo trading Allowed Three-Step\n FX & CFDs\n Fee from $42",
+    "snippet": "2:1 Crypto Commission (round turn) $7/lot FX & Metals \u00b7 $0 Indices, Oil & Crypto Spreads Raw EA / algo trading Allowed Three-Step FX & CFDs Fee from $42.00 Account sizes $5K\u2013$500K Profit target P1 5% \u00b7 P2 5% \u00b7 P3 5% Max drawdown 5% Drawdown type Static Max daily loss 5% Daily loss type EOD balance Profit split 80% Inacti",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "lify Then every 14 days Profit split 80% standard \u00b7 90% with the profit-share add-on Payout on breach No Lock on payout Yes Minimum payout 1% (Instant Funding Lite) Withdraw on your own schedule Payouts run on a rolling 14-day cycle from your first withdrawal, not a fixed calendar date, so the clock starts when you",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription",
+    "snippet": "Choose your challenge Pick an asset class, track and account size. One fee, no subscription. 02 Pass the assessment Hit the profit target inside the drawdown limits. No time limit. 03 Trade funded Trade our capital on raw spreads, with your own EAs",
+    "url": "https://nordicfunder.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscriptions or renewal fees",
+    "snippet": "Assessment fees are one-time and non-refundable . There are no recurring charges, subscriptions or renewal fees. A fee purchases one assessment attempt on the account size and track selected at checkout. Add-ons selected at checkout are priced as a percentage of the assessment fe",
+    "url": "https://nordicfunder.com/legal/terms/",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions or hidden costs on top of it",
+    "snippet": "No. The fee is one-time and non-refundable. There are no recurring charges, monthly subscriptions or hidden costs on top of it. What is the cheapest way to start? A One-Step Lite $2,500 account at $25.00. That is a genuine funded route rather than a time-limited free trial. See the FX & CFD tra",
+    "url": "https://nordicfunder.com/faq/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, so the add-on is never billed again",
+    "snippet": "an the raw comparison suggests. The fee is one-time and non-refundable \u2014 there is no subscription, so the add-on is never billed again. And the break-even is a lifetime figure rather than a per-payout one: past it, every subsequent payout carries the full extra ten points. A trader who expects one modes",
+    "url": "https://nordicfunder.com/blog/how-prop-firm-payouts-work/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription and no time limit on the assessment itself, though inactivity limits apply \u2014 30 days on the staged FX track",
+    "snippet": "one-time and non-refundable, so a breach costs the fee and the account. There is no subscription and no time limit on the assessment itself, though inactivity limits apply \u2014 30 days on the staged FX tracks, 14 days on Crypto, Equities and Instant Funding. See the FAQ for the full terms. Read next Guides EA & Algo Trading on Funded Account",
+    "url": "https://nordicfunder.com/blog/trailing-vs-static-drawdown/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Nordic Funder \u2014 Funded Trading Accounts up to $500K | 1-Step, 2-Step & Instant Funding Skip to content N RDIC F U N D E R Programs FX & CFDs 5 tracks \u00b7 up to $500K Crypto 1-Step \u00b7 2-Step Equities One-Step Daily Instant Funding Lite \u00b7 no assessme",
+   "url": "https://nordicfunder.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "Nordic Funder \u2014 Funded Trading Accounts up to $500K | 1-Step, 2-Step & Instant Funding Skip to content N RDIC F U N D E R Programs FX & CFDs 5 tracks \u00b7 up to $500K Crypto 1-Step \u00b7 2-Step Equities One-Step Daily Instant",
+   "url": "https://nordicfunder.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "Nordic Funder \u2014 Funded Trading Accounts up to $500K | 1-Step, 2-Step & Instant Funding Skip to content N RDIC F U N D E R Programs FX & CFDs 5 tracks \u00b7 up to $500K Crypto 1-Step \u00b7 2-Step Equities One-Step Daily Instant Funding",
+   "url": "https://nordicfunder.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "ing Pick an asset class to see its full rule set. FX & CFDs program comparison One-Step Two-Step Three-Step One-Step Lite Two-Step Lite Fee from $42.50 $60.00 $42.00 $25.00 $25.00 Account sizes $5K\u2013$500K $5K\u2013$500K $5K\u2013$500K $2.5K\u2013$100K $2.5K\u2013$100K Rules Profit target",
+   "url": "https://nordicfunder.com/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "Full rules for each program: FX & CFDs \u00b7 Crypto \u00b7 Equities \u00b7 Instant Funding How it works Four steps from fee to payout 01 Choose your challenge Pick an asset class, track and account size. One fee, no subscription. 02 Pass the assess",
+   "url": "https://nordicfunder.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "Start from $25 A One-Step Lite $2,500 account costs $25 \u2014 a real funded route, not a time-limited free trial. No time limit Take as long as you need to hit the target. The only clock is the inactivity limit on your account. Platforms & instruments Trade wher",
+   "url": "https://nordicfunder.com/"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "FX tracks publish no consistency figure at all. Practically, one outsized day on a funded Lite or crypto account can leave otherwise valid profit sitting undrawable until later sessions even it out. The Lite, crypto and equities tracks also require a minimum of three prof",
+   "url": "https://nordicfunder.com/blog/how-to-pass-a-prop-firm-challenge/"
+  }
+ ],
+ "platforms": [
+  "cTrader",
+  "DXtrade",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Oil",
+  "Equities",
+  "CFD"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "h of those two failure modes suits you, read trailing versus static drawdown before you pay for either. The $25 accounts carry their own tighter constraints. One-Step Lite runs a 5"
+ ],
+ "errors": []
+}

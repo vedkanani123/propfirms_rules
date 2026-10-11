@@ -1,0 +1,12 @@
+{
+ "slug": "apex-trader-funding",
+ "name": "Apex Trader Funding",
+ "category": "Futures",
+ "url": "https://apextraderfunding.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

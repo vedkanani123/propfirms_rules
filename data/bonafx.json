@@ -1,0 +1,469 @@
+{
+ "slug": "bonafx",
+ "name": "BonaFX",
+ "category": "Forex/CFD",
+ "url": "https://bonafx.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://bonafx.com/migration/",
+   "kind": "home",
+   "chars": 3843
+  },
+  {
+   "url": "https://bonafx.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 254
+  },
+  {
+   "url": "https://bonafx.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 9219
+  },
+  {
+   "url": "https://bonafx.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1516
+  },
+  {
+   "url": "https://bonafx.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 563
+  },
+  {
+   "url": "https://bonafx.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 68
+  },
+  {
+   "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+   "kind": "page",
+   "chars": 13129
+  },
+  {
+   "url": "https://bonafx.com/trading-challenge-rules-guide/",
+   "kind": "page",
+   "chars": 12864
+  },
+  {
+   "url": "https://bonafx.com/how-to-read-challenge-rules-like-a-trader/",
+   "kind": "page",
+   "chars": 13634
+  },
+  {
+   "url": "https://bonafx.com/prop-trading-firms-nigeria-complete-2026-guide-challenges-payouts-and-how-to-get-funded-without-personal-risk/",
+   "kind": "page",
+   "chars": 13524
+  },
+  {
+   "url": "https://bonafx.com/best-trading-challenges-for-consistency/",
+   "kind": "page",
+   "chars": 12873
+  },
+  {
+   "url": "https://bonafx.com/fair-drawdown-rules-for-traders/",
+   "kind": "page",
+   "chars": 13385
+  },
+  {
+   "url": "https://bonafx.com/prepare-forex-evaluation-plan/",
+   "kind": "page",
+   "chars": 13119
+  },
+  {
+   "url": "https://bonafx.com/evaluation-challenge-versus-instant-funding/",
+   "kind": "page",
+   "chars": 12816
+  },
+  {
+   "url": "https://bonafx.com/drawdown-management-for-prop-accounts/",
+   "kind": "page",
+   "chars": 13586
+  },
+  {
+   "url": "https://bonafx.com/trading-rules/",
+   "kind": "page",
+   "chars": 7525
+  },
+  {
+   "url": "https://bonafx.com/manage-evaluation-drawdown-safely/",
+   "kind": "page",
+   "chars": 12953
+  },
+  {
+   "url": "https://bonafx.com/affiliate-program-terms/",
+   "kind": "page",
+   "chars": 3128
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 158016,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "10",
+    "snippet": "lenge design. Look closely at profit target versus drawdown. A 10% target with a 5% daily loss limit and a 10% overall drawdown can be workable, but only if execution conditions are stable and the evaluation timeline makes sense. If the same model adds strict consistency caps, ba",
+    "url": "https://bonafx.com/best-trading-challenges-for-consistency/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "profit target. It is your usable risk budget. For example, if your account has a 10% maximum drawdown, your plan should not treat all 10% as available. A disciplined trader creates a buffer below the hard limit. That buffer accounts for spread changes, slippage, correlated positions, and normal losing stre",
+    "url": "https://bonafx.com/prepare-forex-evaluation-plan/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "your hard-earned gains you actually take home. Look for firms offering at least a 70\u201380% split to traders. Some firms, including BonaFx , offer even more competitive splits as you grow. Challenge Fees and Value Most Prop-Firms in Nigeria charge a one-time",
+    "url": "https://bonafx.com/prop-trading-firms-nigeria-complete-2026-guide-challenges-payouts-and-how-to-get-funded-without-personal-risk/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "tal, Your Edge Everything you need to go pro. Get evaluated today and access up to $200k in virtual capital. Start Challenge \u2192 The premium prop firm connecting talented traders worldwide with massive capital. Your strategy, our capital. Navigation",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "tal, Your Edge Everything you need to go pro. Get evaluated today and access up to $200k in virtual capital. Start Challenge \u2192 The premium prop firm connecting talented traders worldwide with massive capital. Your strategy, our capital. Navigation",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "49",
+    "snippet": "fees, activation fees, and excessive standards on withdrawals add up, which means a $49 account can cost $147 before cashing out a profit if it resets three times The emotional aspects of instant funding accounts are also often overlooked. Getting a funde",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "147",
+    "snippet": "s, and excessive standards on withdrawals add up, which means a $49 account can cost $147 before cashing out a profit if it resets three times The emotional aspects of instant funding accounts are also often overlooked. Getting a funded account after tradin",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "the process and turns risk management into an afterthought. If your planned risk is $100 and your stop distance means one standard lot would risk $250, the answer is not to hope the setup works. Reduce the size. If the minimum available size still risks too",
+    "url": "https://bonafx.com/manage-evaluation-drawdown-safely/",
+    "kind": "page"
+   },
+   {
+    "value": "250",
+    "snippet": "f your planned risk is $100 and your stop distance means one standard lot would risk $250, the answer is not to hope the setup works. Reduce the size. If the minimum available size still risks too much, skip the trade. No single position is worth compromising",
+    "url": "https://bonafx.com/manage-evaluation-drawdown-safely/",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "lly close accounts quicker than expected by trading businesses. There are two types: static drawdown, which remains constant from the account\u2019s starting balance, and trailing drawdown, which adjusts upwards along with profits. Trailing drawdown rules are especially unpr",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "trailing",
+    "snippet": "es: static drawdown, which remains constant from the account\u2019s starting balance, and trailing drawdown, which adjusts upwards along with profits. Trailing drawdown rules are especially unpredictable. Once you reach a higher profit, your drawdown allowance increases along",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency rules are often unclear, but are almost always in effect",
+    "snippet": "an actually leave you with less drawdown allowance for the rest of the trading day. Consistency rules are often unclear, but are almost always in effect. Many trading firms do not wish to have traders who are highly profitable in only one trading session and then end up being completely inactive for the rest of the month",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule \n See how a trader passed evaluation without consistency rule pressure by managing risk,",
+    "snippet": "ng a prop firm and how disciplined ... Read More Trader Passed Evaluation Without Consistency Rule See how a trader passed evaluation without consistency rule pressure by managing risk, protecting drawdown, and building a repeatable trading ... Read More How to Scale Your Simulated Trading Account Learn how to scale a simulated trading ac",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule itself",
+    "snippet": "t is a major advantage for consistency. Patience is part of edge. Then there is the consistency rule itself. Some firms market discipline, but their version of consistency is restrictive enough to block normal trading variance. If one strong day makes you ineligible for payout",
+    "url": "https://bonafx.com/best-trading-challenges-for-consistency/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement made one good day a problem",
+    "snippet": "hem. Maybe the drawdown was calculated in a way that punished open profit. Maybe the consistency requirement made one good day a problem. Maybe the payout terms shifted once they became eligible. That is why the evaluation challenge versus instant funding decision should start with rule clarity, not mark",
+    "url": "https://bonafx.com/evaluation-challenge-versus-instant-funding/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule Prop Firm Explained \n \n Recent Blogs Clean Prop Rules Benefits for Serious Traders \n Clea",
+    "snippet": "ext post: Prop Firm vs Personal Capital: Which Wins? Previous Post Previous post: No Consistency Rule Prop Firm Explained Recent Blogs Clean Prop Rules Benefits for Serious Traders Clean prop rules benefits: trade with clearer limits, less rule friction, and a more direct path from evaluation performance to ... Read More Select Evaluation",
+    "url": "https://bonafx.com/evaluation-challenge-versus-instant-funding/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule Prop Firm Explained Previous Post Previous post: Why Are Overnight Shutdowns Suddenly So",
+    "snippet": "6 August 12, 2026 Posted in Uncategorized Post navigation Next Post Next post: No Consistency Rule Prop Firm Explained Previous Post Previous post: Why Are Overnight Shutdowns Suddenly So Common With Prop Firms? Recent Blogs Clean Prop Rules Benefits for Serious Traders Clean prop rules benefits: trade with clearer limits, less rule frict",
+    "url": "https://bonafx.com/drawdown-management-for-prop-accounts/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "A static drawdown is easier to manage because the line does not move as your balance rises. A trailing drawdown can tighten the account behind you as you make profits, which changes how aggressively you can scale. If the rule set uses trailing logic, you need",
+    "url": "https://bonafx.com/how-to-read-challenge-rules-like-a-trader/",
+    "kind": "page"
+   },
+   {
+    "value": "crypto",
+    "snippet": "leverage by asset class, and contract specifications. If you trade indices, gold, or crypto alongside forex, those details can affect both risk and holding cost. Also check whether there are time limits , inactivity rules, or minimum active trading requirement",
+    "url": "https://bonafx.com/how-to-read-challenge-rules-like-a-trader/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "gives you more control. A compressed timeline can force bad trades and distort otherwise solid performance. That trade-off should be clear before you buy the challenge, not after a slow week of disciplined patience. Treat vague language as a decision point",
+    "url": "https://bonafx.com/how-to-read-challenge-rules-like-a-trader/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "Start Challenge \u2192 The premium prop firm connecting talented traders worldwide with massive capital. Your strategy, our capital. Navigation Home Pricing Affiliates Trading Calculator Economic Calendar FAQ Blogs Contact Application Login Register Legal Ter",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": ".com/calculate-challenge-position-size/ 2026-10-03T08:00:27+00:00 https://bonafx.com/scale-simulated-trading-account/ 2026-10-03T03:22:49+00:00 https://bonafx.com/why-payout-requests-fail/ 2026-09-30T11:19:15+00:00 https://bonafx.com/are-no-time-limit-challenges-better/ 2026-09-30T11:18:13+00:00 https://bonafx.com/how-profit-s",
+    "url": "https://bonafx.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "ins its rules in plain language. If you need to read multiple pages to understand a basic violation , that is a warning sign. Transparent firms know traders value speed and clarity. The trade-off between strict structure and trader freedom Not every trader needs the loosest challenge. Some p",
+    "url": "https://bonafx.com/best-trading-challenges-for-consistency/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Select Languag",
+    "snippet": "\u2192 We're moving to a new environment \u2192 Explore the transition \u2192 50)\"> Select Language English Arabic Chinese French German Hindi Indonesian Japanese Korean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "English Arabic Chinese French German Hindi Indonesia",
+    "snippet": "a new environment \u2192 Explore the transition \u2192 50)\"> Select Language English Arabic Chinese French German Hindi Indonesian Japanese Korean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam Home Pricing Affiliates Contact More FAQs Trading Calcu",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "n Japanese Korean Malay Portuguese Russia",
+    "snippet": "\"> Select Language English Arabic Chinese French German Hindi Indonesian Japanese Korean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam Home Pricing Affiliates Contact More FAQs Trading Calculator Blogs Economic Calendar",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "n Spanish Turkish Urdu Persia",
+    "snippet": "Arabic Chinese French German Hindi Indonesian Japanese Korean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam Home Pricing Affiliates Contact More FAQs Trading Calculator Blogs Economic Calendar Select Language English A",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "Office Rodney Bay, Sa",
+    "snippet": "ow official updates X Facebook Discord YouTube Email support@bonafx.com Office Rodney Bay, Saint Lucia Contact Contact page \u2605 \u2605 \u2605 \u2605 \u2605 Used by traders worldwide Our Capital, Your Edge Everything you need to go pro. Get evaluated today and",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "Contact Contact pag",
+    "snippet": "Discord YouTube Email support@bonafx.com Office Rodney Bay, Saint Lucia Contact Contact page \u2605 \u2605 \u2605 \u2605 \u2605 Used by traders worldwide Our Capital, Your Edge Everything you need to go pro. Get evaluated today and access up to $200k in virtual c",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "s. Bonafx has its registered office at Rodney Bay, Sa",
+    "snippet": "ment and do not involve real financial risk or trading with real financial instruments. Bonafx has its registered office at Rodney Bay, Saint Lucia, Registration No. 2025-00869. Legal Disclosure: Bonafx provides access to simulated trading programs designed solely for the evaluation of trading proficiency",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "the evaluation of trading proficiency and risk-manag",
+    "snippet": "Disclosure: Bonafx provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital. No Client Funds / No Live Trading: Bonafx is not a broker, dealer, exchange, or investment",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00869",
+    "snippet": "financial instruments. Bonafx has its registered office at Rodney Bay, Saint Lucia, Registration No. 2025-00869. Legal Disclosure: Bonafx provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All tradi",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund:\n Latency, reverse, or statistical arbitrage exploitation\n High-Frequency Trading (HFT) and malicious tick scalpi",
+    "snippet": "ent, the following activities will result in immediate account termination without a refund: Latency, reverse, or statistical arbitrage exploitation High-Frequency Trading (HFT) and malicious tick scalping Trade manipulation, toxic trading flow, or system abuse Account sharing or third-party account management Copy trading from external s",
+    "url": "https://bonafx.com/trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading activities",
+    "snippet": "unts. This means that many of these accounts will have a total ban or restriction of news trading activities. Limitations on holding a trading position overnight will also be present, along with restrictions on copy trading. Latency arbitrage will be classified as a rules viola",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, or other types of arbitrage",
+    "snippet": "s why they regulate or outright ban trading strategies like high-frequency scalping, news trading, or other types of arbitrage. These types of strategies create exposure for the firm that is totally unpredictable. Who Should Actually Use Instant Funded Accounts Experienced traders with a so",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading is always wrong",
+    "snippet": "ting drawdowns can turn a controlled trade into a rule violation. This does not mean news trading is always wrong. It means you need rules designed for that environment, including reduced size and a clear understanding of any program restrictions. Keep a brief daily record of entri",
+    "url": "https://bonafx.com/trading-challenge-rules-guide/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading is allowed",
+    "snippet": "ot enough. You need strategy-level reading. If you hold through news, check whether news trading is allowed. If you use expert advisors, read the automation policy carefully. If you copy trades between accounts, check whether copy trading is permitted and under what conditions",
+    "url": "https://bonafx.com/how-to-read-challenge-rules-like-a-trader/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam \n \n Home Pricing Affiliat",
+    "snippet": "Select Language English Arabic Chinese French German Hindi Indonesian Japanese Korean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam Home Pricing Affiliates Contact More FAQs Trading Calculator Blogs Economic Calendar Select Language English Arabic Chinese French German Hindi Indonesian Japanese",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "ean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam \n \n \n Login Register",
+    "snippet": "Select Language English Arabic Chinese French German Hindi Indonesian Japanese Korean Malay Portuguese Russian Spanish Turkish Urdu Persian Dutch Polish Italian Uzbek Malayalam Login Register Home Pricing Affiliates Trading Calculator Economic Calendar FAQs Blogs Contact Login Register Get Funded BonaFX We're moving. We\u2019re",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "ead\n \n New Environment\n An upgraded service environment for the trading community",
+    "snippet": "Current Old Environment The experience in place today. Transition \u2726 Ahead New Environment An upgraded service environment for the trading community. The old experience is being replaced by the new one. What\u2019s happening 01 Preparing 02 Migrating 03 Testing 04 Resuming Service status Currently trans",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "eal financial risk or trading with real financial instruments",
+    "snippet": "solely by Bonafx using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. Bonafx has its registered office at Rodney Bay, Saint Lucia, Registration No. 2025-00869. Legal Disclosure: Bonafx provides access to simulated trading programs desig",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "ealer, exchange, or investment advisor, and does not accept or manage client deposits",
+    "snippet": "using virtual capital. No Client Funds / No Live Trading: Bonafx is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only. Evaluation Use Only: Al",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@bonafx.com",
+    "snippet": "confirmed. Follow official updates X Facebook Discord YouTube Email support@bonafx.com Office Rodney Bay, Saint Lucia Contact Contact page \u2605 \u2605 \u2605 \u2605 \u2605 Used by traders worldwide Our Capital, Your Edge Everything you need to go pro.",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription fees paid are strictly for evaluation purposes and for access to our evaluation services",
+    "snippet": "substantial risk of loss. Past performance is not indicative of future results. All subscription fees paid are strictly for evaluation purposes and for access to our evaluation services. Not a Deposit | Not FDIC Insured | May Lose Value All Rights Reserved. Bonafx \u00a9 2026. This week our Instant Account is live \ud83d\ude80",
+    "url": "https://bonafx.com/migration/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription/ 2026-08-12T10:30:25+00:00 https://bonafx",
+    "snippet": "evaluations/ 2026-08-12T10:30:25+00:00 https://bonafx.com/evaluation-account-monthly-subscription/ 2026-08-12T10:30:25+00:00 https://bonafx.com/pass-prop-challenge-faster/ 2026-08-12T10:30:24+00:00 https://bonafx.com/best-prop-challenge-metrics/ 2026-08-12T10:30:23+00:00 https://bonafx.com/challenge-account-",
+    "url": "https://bonafx.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Reset fees, activation fees, and excessive standards on withdrawals add up, which means a $49 account can cost $147 bef",
+    "snippet": "ing an affordable option, fast-funded accounts can actually prove to be a money pit. Reset fees, activation fees, and excessive standards on withdrawals add up, which means a $49 account can cost $147 before cashing out a profit if it resets three times The emotional aspects of instant funding accounts are also often overlooked. Getting a",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription fees, account buy fees, and reset fees",
+    "snippet": "ear of analyzing this part. Prop firms make money as most businesses do; they charge subscription fees, account buy fees, and reset fees. They do not require all of their traders to be profitable. They do require traders to be profitable enough to buy accounts and follow the rules for enough time to creat",
+    "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/",
+    "kind": "page"
+   },
+   {
+    "value": "platform feels unreliable",
+    "snippet": "ok great on paper and still be a bad fit if spreads are wide, fills are poor, or the platform feels unreliable. Serious traders need stable access, clean order handling, and conditions that let strategy performance show up without platform friction. Best trading challenges for c",
+    "url": "https://bonafx.com/best-trading-challenges-for-consistency/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "und, after your money is already in. If you are still deciding which model suits you, reading about instant funding vs evaluation will help you see exactly where the trade-offs fall. Demo-funded models work the same way. The label changes, but the risk system does not disap",
+   "url": "https://bonafx.com/instant-funded-accounts-what-no-evaluation-really-means-hidden-rules-exposed/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "0 https://bonafx.com/funded-trading-account-cape-town/ 2026-08-12T10:30:51+00:00 https://bonafx.com/one-step-vs-two-step-challenge/ 2026-08-12T10:30:50+00:00 https://bonafx.com/prop-firm-evaluation-guide-serious-traders/ 2026-08-12T10:30:50+00:00 https://bonafx.com/ho",
+   "url": "https://bonafx.com/post-sitemap.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "nafx.com/funded-trading-account-cape-town/ 2026-08-12T10:30:51+00:00 https://bonafx.com/one-step-vs-two-step-challenge/ 2026-08-12T10:30:50+00:00 https://bonafx.com/prop-firm-evaluation-guide-serious-traders/ 2026-08-12T10:30:50+00:00 https://bonafx.com/how-to-pass-a-",
+   "url": "https://bonafx.com/post-sitemap.xml"
+  },
+  {
+   "name": "Swing",
+   "snippet": "ment all need to respect equity swings, not just final outcomes. A strategy that works in a private swing account may need adjustment inside a prop framework. There is a difference between patience and tolerance for pain Patience means letting the planned trade develop.",
+   "url": "https://bonafx.com/drawdown-management-for-prop-accounts/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "ttps://bonafx.com/product/uno-challenge/ 2026-08-03T13:17:33+00:00 https://bonafx.com/product/retro-pay-later-activation/ 2026-04-12T16:26:48+00:00 https://bonafx.com/product/retro-challenge/ 2026-04-06T08:21:44+00:00 https://bonafx.com/product/bonafx-challenge/ 2026-0",
+   "url": "https://bonafx.com/product-sitemap.xml"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Stocks",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

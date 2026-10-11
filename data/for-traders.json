@@ -1,0 +1,944 @@
+{
+ "slug": "for-traders",
+ "name": "For Traders",
+ "category": "Futures",
+ "url": "https://fortraders.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fortraders.com/",
+   "kind": "home",
+   "chars": 12789
+  },
+  {
+   "url": "https://fortraders.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 139703
+  },
+  {
+   "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+   "kind": "page",
+   "chars": 48747
+  },
+  {
+   "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+   "kind": "page",
+   "chars": 16576
+  },
+  {
+   "url": "https://fortraders.com/blog/scaling-plans-simulated-trading",
+   "kind": "page",
+   "chars": 18727
+  },
+  {
+   "url": "https://fortraders.com/blog/the-ultimate-30-day-challenge-pass-plan",
+   "kind": "page",
+   "chars": 36968
+  },
+  {
+   "url": "https://fortraders.com/blog/the-best-risk-management-plan-to-pass-any-funded-account-challenge",
+   "kind": "page",
+   "chars": 26821
+  },
+  {
+   "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+   "kind": "page",
+   "chars": 54294
+  },
+  {
+   "url": "https://fortraders.com/blog/10-ultimate-risk-management-rules-to-pass-prop-trading-challenge",
+   "kind": "page",
+   "chars": 22042
+  },
+  {
+   "url": "https://fortraders.com/blog/what-happens-if-you-break-the-rules-in-a-prop-challenge",
+   "kind": "page",
+   "chars": 18301
+  },
+  {
+   "url": "https://fortraders.com/blog/swing-trading-rules-beginners-demo-accounts",
+   "kind": "page",
+   "chars": 26327
+  },
+  {
+   "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+   "kind": "page",
+   "chars": 43232
+  },
+  {
+   "url": "https://fortraders.com/blog/daily-drawdown-rules-how-to-stay-within-limits",
+   "kind": "page",
+   "chars": 36752
+  },
+  {
+   "url": "https://fortraders.com/blog/prop-firms-low-drawdown-rules",
+   "kind": "page",
+   "chars": 55565
+  },
+  {
+   "url": "https://help.fortraders.com/en/",
+   "kind": "sub",
+   "chars": 1013
+  },
+  {
+   "url": "https://help.fortraders.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 35567
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 593439,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "y a human, usually at payout. As of August 2026, typical numbers sit around an 8\u201310% profit target in Phase 1, 4\u20136% daily loss and 6\u201312% maximum drawdown. Key takeaways Five rules decide almost every evaluation: profit target, maximum drawdown, daily loss limit, minimum trading days",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "hese five levers set to different positions. Rule Typical 2026 Range Where It Bites Profit target 8\u201310% (Phase 1), 4\u20135% (Phase 2) Two-Step Challenge, Three-Step Challenge Maximum drawdown 6\u201312% (static or trailing) All phases + Funded Account Daily loss limit 4\u20136% Resets d",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "15",
+    "snippet": "ders begin with a base account (e.g., $50,000) and earn capital increases by meeting profit targets (typically 10\u201315%) while adhering to strict drawdown limits (usually 5\u201310%). Performance Over Time : Firms evaluate traders over set periods (e.g., 30\u201390 days) to ensure consistent retur",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "u\u2019ll need to hit specific profit targets while staying within tight drawdown limits. Profit targets generally range from 5% to 20% of your account balance, depending on your tier. For example, FTMO requires traders to achieve a 10% net profit over four months, with at least two of those month",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "0.4",
+    "snippet": "ek protecting the number instead of chasing it. Key takeaways Hitting a typical 8% profit target inside 30 calendar days means roughly 0.4% per trading day \u2014 one good 2R trade every second or third session, not five trades a day. At 0.5% risk per trade, a 5% daily loss limit gives you ten losing trades befo",
+    "url": "https://fortraders.com/blog/the-ultimate-30-day-challenge-pass-plan",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "on account sizes: Metric (0.5% risk/trade) $25,000 account $100,000 account Phase 1 profit target (8%) $2,000 $8,000 Average daily target (~20 days) ~$100/day ~$400/day Daily loss limit (5%) $1,250 $5,000 Maximum drawdown (10%) $2,500 $10,000 Risk per trade (0.5%) $125 $",
+    "url": "https://fortraders.com/blog/the-ultimate-30-day-challenge-pass-plan",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "12",
+    "snippet": "s of August 2026, typical numbers sit around an 8\u201310% profit target in Phase 1, 4\u20136% daily loss and 6\u201312% maximum drawdown. Key takeaways Five rules decide almost every evaluation: profit target, maximum drawdown, daily loss limit, minimum trading days and banned strategie",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "eal. This is hard breach territory: mechanical, unemotional, non-negotiable. If your daily loss limit is 5% and you touch 5.01%, the account is done \u2014 it doesn't care that you were about to hit your target the next candle. Behavioural clauses: breaches a human reviews The se",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "ep Challenge Maximum drawdown 6\u201312% (static or trailing) All phases + Funded Account Daily loss limit 4\u20136% Resets daily on server time Minimum trading days 0\u201310 days 0 on Instant Funding, up to 10 on multi-step Banned strategies Firm-specific list Arbitrage, latency exploits,",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "ge uses before sizing trades. How strict are daily loss limits across prop firms? + Daily loss limits typically run between 3% and 5% of account balance in forex-focused challenges, though the exact structure \u2014 balance-based vs. equity-based \u2014 changes how much real room you have. A limit measure",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "ount grows, your approach to managing risk evolves alongside it. On For Traders, the daily drawdown limit is set at 3\u20134% of the initial account balance. This limit is recalculated daily at 10:00 PM UTC, based on the higher value between the current balance or equity. During evaluation phas",
+    "url": "https://fortraders.com/blog/scaling-plans-simulated-trading",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "lign your trading approach with the platform's rules, including limits like the 3\u20134% daily drawdown and the 40% Margin Rule. A good starting point is risking only 1\u20132% of your account equity per trade. This approach allows for compounding growth while minimizing the chance of brea",
+    "url": "https://fortraders.com/blog/scaling-plans-simulated-trading",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "12",
+    "snippet": "ofit target 8\u201310% (Phase 1), 4\u20135% (Phase 2) Two-Step Challenge, Three-Step Challenge Maximum drawdown 6\u201312% (static or trailing) All phases + Funded Account Daily loss limit 4\u20136% Resets daily on server time Minimum trading days 0\u201310 days 0 on Instant Funding, up to 10 on multi",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "y reading the drawdown clause matters more than reading the percentage. A 10% static max drawdown can be more forgiving than a 6% unrealised-peak trailing rule, because the static floor never chases you higher. Before you risk a challenge fee on any evaluation, confirm which of the four mechanics y",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": ": FTMO, The 5%ers, FundedNext, Smart Prop Trader, OFP FTMO rules center on a static max drawdown and a tight news-trading restriction window; The 5%ers leans toward static drawdown with looser daily limits on some plans, better suited to traders who take fewer, larger swings. FundedNext and Smart Prop Trader sit clos",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "arget of 8\u201310% in Phase 1 and 5% in Phase 2 , a daily drawdown limit of 3\u20134% , and a maximum drawdown of 6\u201310% . Scaling happens through the Max Allocation system , which allows standard traders to manage up to $200,000 in total virtual capital across active Master Accounts. Thi",
+    "url": "https://fortraders.com/blog/scaling-plans-simulated-trading",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "rously. Daily loss limits typically range from 2% to 5% of your account value, while maximum drawdowns are capped between 8% and 12%. Exceeding these limits can result in immediate disqualification. These evaluations demand precise execution to safeguard your capital. Violating these paramete",
+    "url": "https://fortraders.com/blog/the-best-risk-management-plan-to-pass-any-funded-account-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "e 1-Step (Fast) challenge, traders aim for a 9% profit target while adhering to a 6% maximum drawdown and a 3% daily limit. Meanwhile, the 2-Step (Popular) challenge requires an 8% profit target for Phase 1 and 5% for Phase 2, with an 8% maximum drawdown and a 4% daily limit. Da",
+    "url": "https://fortraders.com/blog/swing-trading-rules-beginners-demo-accounts",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "to USDC (ERC20) 48-Hour Reward Guarantee Get paid within 48 hours, or we pay you a 100% profit split Get Started $10M+ Overall paid out 14h Avg. payout time Up to 90% Profit split Crypto, Rise Payout methods Best Payout Process by Paid-Out Traders Rewards & Succe",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "a 100% profit split Get Started $10M+ Overall paid out 14h Avg. payout time Up to 90% Profit split Crypto, Rise Payout methods Best Payout Process by Paid-Out Traders Rewards & Success Stories $41,104 Daniel Czechia \ud83c\udde8\ud83c\uddff $42,428 Anthony Canada \ud83c\udde8\ud83c\udde6 $19,779 Jan Czechia \ud83c\udde8\ud83c\uddff $38,995",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "sk control. Rewards for Success : Hitting milestones leads to account boosts (e.g., 25%\u2013100%), higher profit splits (up to 90%), or increased trading limits. Focus Shifts as You Scale : Smaller accounts test basic skills, while larger accounts emphasize long-term stability and disci",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "fit target , and a 5% maximum drawdown . Once you hit these targets, you\u2019ll enjoy an 80% profit split , and some plans even go up to 90% . Payouts are bi-weekly, and to date, the platform has distributed over $9 million globally , with traders earning an average reward o",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "limit, one finish line. The trade-off is usually a slightly higher profit target (8\u201310% vs the typical 8%/5% split across two phases) and sometimes a higher fee. But the math often favours the one-step structure for traders who are consistent but not immune to a rough week. Fewer rul",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "60",
+    "snippet": "ofit can come from a single trading day \u2014 commonly 30\u201350%. If your best day supplied 60% of the gains that got you to payout, the firm either scales the payout down to the allowed share or asks you to trade more balanced days before releasing anything. This exists to filter out one lucky NFP s",
+    "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "0",
+    "snippet": "iling) All phases + Funded Account Daily loss limit 4\u20136% Resets daily on server time Minimum trading days 0\u201310 days 0 on Instant Funding, up to 10 on multi-step Banned strategies Firm-specific list Arbitrage, latency exploits, tick scalping under X seconds Profit target: Phase",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "ending on plan Consistency Rule None None on Bootcamp 30% rule on some accounts None Minimum Trading Days 3 days None stated on Bootcamp 5 days (Stellar Lite) 3\u20135 days depending on plan News / Algo Policy News trading allowed; EAs allowed News trading allowed; EAs allowed News",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ak equity is significantly harder than a static one measured from opening balance. \"minimum trading days\" \u2014 some firms require 5, 10, even 30 days per phase. If you're a momentum trader who catches one clean trend and exits, this rule kills you. \"prohibited strategies\" or \"restricted\" \u2014 check whe",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "For Traders | Prop Trading Firm | Funded Accounts up to $200K Products Trading Learn Tournaments Company EN Log In Get Started Monetize Your Trading Skill No risk On your capital 48h payouts Guaranteed Up to $300K Virtual",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "Monetize Your Trading Skill No risk On your capital 48h payouts Guaranteed Up to $300K Virtual capital No Personal Capital at Risk 48-Hour Reward Guarantee Up to $300K Virtual Capital Raw Spreads, Low Commissions Learn to trade Forex, Crypto, and",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "e. See our profit target guide for phase-by-phase breakdowns by challenge type. The $100k, 1% risk, 1:2 R:R maths Here's the number that changes how you should actually trade: on a $100k account risking 1% per trade ($1,000) at 1:2 R:R, an 8% profit target r",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "same as breaching a loss limit \u2014 instant fail, no grace period, on most platforms. A $50K evaluation account might cap you at 3 micro contracts (MES/MNQ/MGC) or a fraction of a mini (ES/NQ/GC) equivalent; a $150K account scales that up, but the ratio between",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "at 3 micro contracts (MES/MNQ/MGC) or a fraction of a mini (ES/NQ/GC) equivalent; a $150K account scales that up, but the ratio between account size and buying power stays tight because CME margin requirements don't disappear just because it's a simulated acc",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "mulated account. Account Size Typical Micro Cap Typical Mini Cap Breach Consequence $25K\u2013$50K 2\u20133 contracts (MES/MNQ/MGC) Not permitted Instant fail (most firms) $100K 5\u20136 contracts 1 contract (ES/NQ/GC) Instant fail or forced flatten + warning $150K+ 10+ co",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "break-even threshold. First payouts within 7 days and fees under $100 for a standard $10k account score highest. Rubric Axis Best-Case Score Worst-Case Score Weight Profit Target \u22645% (one phase) \u226510% (two phases) High Drawdown Type Static max drawdown Intrad",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "110",
+    "snippet": "ld breakout into your whole target. Daily, trailing and total drawdown (the $100k \u2192 $110k example) Three drawdown types govern most accounts, and mixing them up is the fastest way to breach without realizing it: Daily loss limit \u2014 a fixed ceiling on how muc",
+    "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "98",
+    "snippet": "y high) $90,000 $90,000 $90,000 / $91,000 Tuesday +$1,000 $98,000 $88,000 (high was ~$98k intraday) $90,000 $88,000 (trails EOD high) $90,000 / $91,000 Wednesday \u2212$2,100 $95,900 $88,000 \u2705 Safe $90,000 \u2705 Safe $88,000 \u2705 Safe $90,000 \u2705 / $91,000 \u26a0\ufe0f Soft breach R",
+    "url": "https://fortraders.com/blog/prop-firms-low-drawdown-rules",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "For Traders | Prop Trading Firm | Funded Accounts up to $200K Products Trading Learn Tournaments Company EN Log In Get Started Monetize Your Trading Skill No risk On your capital 48h payouts Guaranteed Up to $300K Virtual",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "Monetize Your Trading Skill No risk On your capital 48h payouts Guaranteed Up to $300K Virtual capital No Personal Capital at Risk 48-Hour Reward Guarantee Up to $300K Virtual Capital Raw Spreads, Low Commissions Learn to trade Forex, Crypto, an",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Futures on a demo account and earn real cash rewards. Get Started How it works? $10M+ Paid to traders 150K+ Customers 130+ Countries served 2023 Established Most Innovative Prop Firm Benzinga Global Fintech Awards \u00b7 2024 Best Payout Proc",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "41,10",
+    "snippet": "ss Prop Firm Match \u00b7 2024 Real trader payouts View all rewards \ud83c\udde8\ud83c\uddff Daniel M. Paid $41,104 Czechia View certificate \ud83c\udde8\ud83c\udde6 Anthony T. Paid $42,428 Canada View certificate \ud83c\udde8\ud83c\uddff Jan S. Paid $19,779 Czechia View certificate \ud83c\udde8\ud83c\uddff Daniel K. Paid $38,995 Czechia View c",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "42,42",
+    "snippet": "all rewards \ud83c\udde8\ud83c\uddff Daniel M. Paid $41,104 Czechia View certificate \ud83c\udde8\ud83c\udde6 Anthony T. Paid $42,428 Canada View certificate \ud83c\udde8\ud83c\uddff Jan S. Paid $19,779 Czechia View certificate \ud83c\udde8\ud83c\uddff Daniel K. Paid $38,995 Czechia View certificate \ud83c\udde7\ud83c\udde9 Rony K. Paid $27,144 Bangladesh View c",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "19,77",
+    "snippet": "View certificate \ud83c\udde8\ud83c\udde6 Anthony T. Paid $42,428 Canada View certificate \ud83c\udde8\ud83c\uddff Jan S. Paid $19,779 Czechia View certificate \ud83c\udde8\ud83c\uddff Daniel K. Paid $38,995 Czechia View certificate \ud83c\udde7\ud83c\udde9 Rony K. Paid $27,144 Bangladesh View certificate \ud83c\udde8\ud83c\uddf3 Fuchao C. Paid $18,127 China View",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "38,99",
+    "snippet": "View certificate \ud83c\udde8\ud83c\uddff Jan S. Paid $19,779 Czechia View certificate \ud83c\udde8\ud83c\uddff Daniel K. Paid $38,995 Czechia View certificate \ud83c\udde7\ud83c\udde9 Rony K. Paid $27,144 Bangladesh View certificate \ud83c\udde8\ud83c\uddf3 Fuchao C. Paid $18,127 China View certificate \ud83c\uddfa\ud83c\uddf8 Andres Q. Paid $14,705 United State",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "27,14",
+    "snippet": "View certificate \ud83c\udde8\ud83c\uddff Daniel K. Paid $38,995 Czechia View certificate \ud83c\udde7\ud83c\udde9 Rony K. Paid $27,144 Bangladesh View certificate \ud83c\udde8\ud83c\uddf3 Fuchao C. Paid $18,127 China View certificate \ud83c\uddfa\ud83c\uddf8 Andres Q. Paid $14,705 United States View certificate \ud83c\uddec\ud83c\udde7 Austin O. Paid $26,637 Unit",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "18,12",
+    "snippet": "w certificate \ud83c\udde7\ud83c\udde9 Rony K. Paid $27,144 Bangladesh View certificate \ud83c\udde8\ud83c\uddf3 Fuchao C. Paid $18,127 China View certificate \ud83c\uddfa\ud83c\uddf8 Andres Q. Paid $14,705 United States View certificate \ud83c\uddec\ud83c\udde7 Austin O. Paid $26,637 United Kingdom View certificate \ud83c\udde8\ud83c\udde6 Daniel W. Paid $13,758",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "14,70",
+    "snippet": "View certificate \ud83c\udde8\ud83c\uddf3 Fuchao C. Paid $18,127 China View certificate \ud83c\uddfa\ud83c\uddf8 Andres Q. Paid $14,705 United States View certificate \ud83c\uddec\ud83c\udde7 Austin O. Paid $26,637 United Kingdom View certificate \ud83c\udde8\ud83c\udde6 Daniel W. Paid $13,758 Canada View certificate \ud83c\udde8\ud83c\udde6 Guillaume D. Paid $10,9",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "26,63",
+    "snippet": "tificate \ud83c\uddfa\ud83c\uddf8 Andres Q. Paid $14,705 United States View certificate \ud83c\uddec\ud83c\udde7 Austin O. Paid $26,637 United Kingdom View certificate \ud83c\udde8\ud83c\udde6 Daniel W. Paid $13,758 Canada View certificate \ud83c\udde8\ud83c\udde6 Guillaume D. Paid $10,905 Canada View certificate \ud83c\udde6\ud83c\uddfa Dinesh K. Paid $16,111 Aus",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "13,75",
+    "snippet": "ificate \ud83c\uddec\ud83c\udde7 Austin O. Paid $26,637 United Kingdom View certificate \ud83c\udde8\ud83c\udde6 Daniel W. Paid $13,758 Canada View certificate \ud83c\udde8\ud83c\udde6 Guillaume D. Paid $10,905 Canada View certificate \ud83c\udde6\ud83c\uddfa Dinesh K. Paid $16,111 Australia View certificate \ud83c\uddf3\ud83c\uddec Joseph H. Paid $17,707 Nigeria",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "uman-reviewed and usually surface at payout. The same trade sequence can pass under static drawdown and fail under unrealised-peak trailing drawdown \u2014 the drawdown type matters more than the headline percentage. Daily loss limits are usually measured on floating equit",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "trailing",
+    "snippet": "he same trade sequence can pass under static drawdown and fail under unrealised-peak trailing drawdown \u2014 the drawdown type matters more than the headline percentage. Daily loss limits are usually measured on floating equity and reset at the firm's server time, not your l",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "end-of-day",
+    "snippet": "and MyFundedFutures Topstep rules and MyFundedFutures rules both favor trailing or end-of-day drawdown calculated in contract points rather than percentage \u2014 a structurally different risk model than the forex-first firms above, and one CME futures traders often find more",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "intraday",
+    "snippet": "rs' futures challenge uses a static end-of-day drawdown model rather than a trailing intraday drawdown \u2014 which is a meaningful structural advantage. Your maximum drawdown threshold doesn't shrink as your account equity grows during the evaluation. That single rule change",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "EOD",
+    "snippet": "ater-mark model scores the lowest here regardless of the headline percentage. Static EOD drawdown scores highest. Breach handling (20%) \u2014 Does a first daily-loss breach trigger instant termination, a soft warning, or a fee-free reset? Firms that treat a single bad d",
+    "url": "https://fortraders.com/blog/prop-firms-low-drawdown-rules",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency rules, copy-trading bans, \"gambling\"-style conduct (one giant lot on NFP after weeks of micro-",
+    "snippet": "y the platform but reviewed by a compliance team, usually when you request a payout. Consistency rules, copy-trading bans, \"gambling\"-style conduct (one giant lot on NFP after weeks of micro-lots), or opening a position seconds before a major news release without a stated strategy \u2014 these get flagged by a human looking at your trade histo",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule Soft breach No single trading day can represent an outsized share of total profit Copy-tr",
+    "snippet": "lose Hard breach Requirement to close all positions before the daily server rollover Consistency rule Soft breach No single trading day can represent an outsized share of total profit Copy-trading clause Soft breach Ban on mirroring trades across multiple challenge accounts Gambling/high-risk clause Soft breach Ban on reckless, unexplaina",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules\n Minimum trading days is the number of separate calendar days on which you must place at",
+    "snippet": "ment tactics. risk management strategies for day trading \u2192 Minimum Trading Days and Consistency Rules Minimum trading days is the number of separate calendar days on which you must place at least one qualifying trade before a challenge phase can be marked passed \u2014 even if you hit the profit target sooner. Most firms in 2026 set this betwe",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule caps how much of your total profit can come from a single day or single trade \u2014 commonly",
+    "snippet": "a legitimate trade. Consistency score: the rule most traders discover too late The consistency rule caps how much of your total profit can come from a single day or single trade \u2014 commonly 25% to 50% of the overall gain \u2014 and it's usually calculated after the phase closes, not enforced live like a daily loss limit. Blow past the cap and t",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule on select plans The 5%ers Static 6\u201310% None fixed on some plans Varies by product Allowed",
+    "snippet": "ons Varies None on some plans 1\u20135 depending on plan Allowed Restricted Not permitted Consistency rule on select plans The 5%ers Static 6\u201310% None fixed on some plans Varies by product Allowed, caution near news Restricted Not permitted Human-reviewed FundedNext Static/Trailing option 10% 5% 5 Restricted on some accounts Restricted Not per",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule on select accounts Smart Prop Trader Static 8\u201310% 4\u20135% Varies Allowed Restricted Not perm",
+    "snippet": "Static/Trailing option 10% 5% 5 Restricted on some accounts Restricted Not permitted Consistency rule on select accounts Smart Prop Trader Static 8\u201310% 4\u20135% Varies Allowed Restricted Not permitted Human-reviewed OFP Static 8\u201310% 4\u20135% Varies Restricted near red-folder Restricted Not permitted Human-reviewed For Traders: Challenge, Two-Step",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "/best-prop-firms/cheapest weekly 0.7 https://fortraders.com/best-prop-firms/fastest-payouts weekly 0.7 https://fortraders.com/best-prop-firms/no-upfront-fee weekly 0.7 https://fortraders.com/compare/for-traders-vs-fintokei weekly 0.7 https://fortraders.com/compare/",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "bi-weekly",
+    "snippet": "these targets, you\u2019ll enjoy an 80% profit split , and some plans even go up to 90% . Payouts are bi-weekly, and to date, the platform has distributed over $9 million globally , with traders earning an average reward of approximately $4,043 on a $100,000 account. A standout f",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "Monthly",
+    "snippet": "EAs allowed News trading restricted on some plans News trading allowed; EAs allowed Payout Cadence From day 1 of funded account Monthly Every 14 days (Stellar) Every 14 days Performance Reward Split Up to 90% Up to 100% (scaling) Up to 90% Up to 90% Rules change \u2014 always verify current terms directly wit",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Daily",
+    "snippet": "ongest of the group; that's the trade-off for its unusually accessible entry point. Payout Frequency: Daily, Bi-Weekly, Monthly Frequency matters more than most traders admit before they're funded. A bi-weekly schedule sounds fine until you're sitting on a strong week's P&L a",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Up to $300K Virtual Capital Raw Spreads, Low Commissions Learn to trade Forex, Crypto, and Futures on a demo account and earn real cash rewards. Get Started How it works? $10M+ Paid to traders 150K+ Customers 130+ Countries served 2023 Esta",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "as a reward for your simulated trading. Because you shouldn't wait for your money. Rise Bank transfer, local payments Crypto USDC (ERC20) 48-Hour Reward Guarantee Get paid within 48 hours, or we pay you a 100% profit split Get Started $10M+ Overall paid",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Bank transfer",
+    "snippet": "reward for your simulated trading. Because you shouldn't wait for your money. Rise Bank transfer, local payments Crypto USDC (ERC20) 48-Hour Reward Guarantee Get paid within 48 hours, or we pay you a 100% profit split Get Started $10M+ Overall paid out 14h Avg.",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "cause you shouldn't wait for your money. Rise Bank transfer, local payments Crypto USDC (ERC20) 48-Hour Reward Guarantee Get paid within 48 hours, or we pay you a 100% profit split Get Started $10M+ Overall paid out 14h Avg. payout time Up to 90% Profi",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "xperiences a 3% drawdown, reduce your position sizes by half. At a 5% drawdown, it\u2019s wise to stop trading for the day altogether. This approach helps to safeguard your account from further losses. Firms that successfully scale often prioritize steady monthly",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "Deel",
+    "snippet": "by compliance after KYC, then sent over a payment rail such as bank transfer, Rise, Deel, Wise or USDT. Across major firms in August 2026 the split runs 80\u2013100%, and the realistic gap between clicking request and money settling is one to five business days.",
+    "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "after KYC, then sent over a payment rail such as bank transfer, Rise, Deel, Wise or USDT. Across major firms in August 2026 the split runs 80\u2013100%, and the realistic gap between clicking request and money settling is one to five business days. Key takeaways",
+    "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "(first $25k) Twice monthly ~8 trading days $500 Trading day minimums Bank transfer, PayPal Take Profit Trader Up to 100% (first $10k) Twice monthly ~8 trading days $200 Trading day minimums Bank transfer, PayPal Verified from public firm documentation, August",
+    "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Mas",
+    "snippet": "ry competitive rates, allowing you to start for as low as $50 ($3,000 Crypto Instant Master) High Buying Power : A small fee grants you access to substantial trading power. For example, for just $399 you get $100,000 (Forex One-Step) virtual capital to trade with. Capped Risk : Your financial risk is strictly limited to the initial fee. Y",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "026-09-25T14:23:16.000Z monthly 0.6 https://fortraders.com/cs/blog/swing-trading-vs-scalping-pro-financovane-ucty 2026-09-25T14:10:11.000Z monthly 0.6 https://fortraders.com/cs/blog/proc-jsou-pomery-rizika-a-odmeny-dulezite-v-prop-tradingu 2026-09-25T13:56:48.000Z monthly 0.6 https://fortraders.com/c",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "guro 2026-09-07T11:57:11.000Z monthly 0.6 https://fortraders.com/es/blog/conceptos-basicos-de-trading-de-criptomonedas-como-empezar-con-activos-digitales 2026-09-07T11:35:07.000Z monthly 0.6 https://fortraders.com/es/blog/mejores-torneos-de-trading-con-estructuras-de-premios-unicas 2026-09-07T11:23:12.000Z monthly 0.6 https://fortraders.c",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ps://fortraders.com/es/blog/como-los-traders-prop-utilizan-la-visualizacion-para-triunfar 2026-08-02T19:26:05.000Z monthly 0.6 https://fortraders.com/blog/overtrading-vs-discipline-key-to-evaluation-success 2026-08-02T19:25:42.000Z monthly 0.6 https://fortraders.com/cs/blog/pr",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "H can hit your limit even while you're away from the screen. Are prop trading firms regulated by financial authorities? + Prop trading firms operating challenge-based evaluations are generally not regulated as brokers or financial institutions, because no real client money is traded \u2014 challenges run on simulated capital and payouts come f",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "FCA",
+    "snippet": "lmost entirely from the rulebook and terms of service, not from a regulator like the FCA or SEC. Your real safeguards are transparency and enforceability: choose firms that publish clear, specific rules, disclose payout track records, and avoid vague catch-all clau",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "International Business Mag",
+    "snippet": "4 Best Payout Process Prop Firm Match \u00b7 2024 Best Trading Evaluation Company International Business Magazine \u00b7 2025 $10M+ Paid out 150K+ Customers 130+ Countries 2023 Founded Most Innovative Prop Firm Benzinga \u00b7 2024 Best Payout Process Prop Firm Match \u00b7 2024",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Marina Bay Sa",
+    "snippet": "around the world. Come see for yourself. Past Events 1 / 23 TOKEN2049 Singapore Marina Bay Sands, Singapore \ud83c\uddf8\ud83c\uddec 7\u20138 Oct 2026 Event Detail Upcoming Events 23\u201324 Oct 2026 The London Prop Trading Expo Old Billingsgate, London \ud83c\uddec\ud83c\udde7 29\u201330 Jan 2027 The Miami Pro",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "More About Us Prag",
+    "snippet": "l around the world. Transparency and professionalism are at the core of our values. More About Us Prague Office Events Founding Team Run-Through Most Advanced Dashboard User-friendly interface with professional trading features. Trading Journal Take down comprehens",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "isking your own capital. Based on our data, an averag",
+    "snippet": "h Australia How Much Can You Make? Make your living by trading full-time. Without risking your own capital. Based on our data, an average full-time trader has a monthly profit rate of 4.3%. Estimate Your Profits! Account size \u2212 $50,000 + Profit Rate 4.3 % Take Home (On 90% Profit Split) $1,935 /mon",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Languag",
+    "snippet": "it's not our official support channel. Open Discord \u2192 24/7 Live chat support 3 Languages spoken Frequently Asked Questions Something left unanswered? Check out the full FAQs. More FAQs What is a modern Prop (Proprietary) Trading Firm? + Proprietary tr",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instead of risking your own sa",
+    "snippet": "ocess that helps traders to monetize their skills in a virtual trading environment. Instead of risking your own savings in a personal brokerage account, you trade with real market conditions in a safe virtual environment. The Deal : You provide the skill; we provide the virtual capi",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "vings in a personal brokerag",
+    "snippet": "netize their skills in a virtual trading environment. Instead of risking your own savings in a personal brokerage account, you trade with real market conditions in a safe virtual environment. The Deal : You provide the skill; we provide the virtual capital. The Reward : You keep",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ccount, you trade with real market conditions in a sa",
+    "snippet": "l trading environment. Instead of risking your own savings in a personal brokerage account, you trade with real market conditions in a safe virtual environment. The Deal : You provide the skill; we provide the virtual capital. The Reward : You keep the majority of the profits (up to 90% at For Traders),",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "DMCC196633",
+    "snippet": "st Executive Building, Office No. 1210, JLT, Cluster C, Dubai, United Arab Emirates. Registration No. DMCC196633. For Traders is a SaaS educational trading simulation and evaluation company that does not collect customer deposits or offer financial services to customers. There is",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted countries: Pakistan, Iran, Syria, Myanmar, Bangladesh, North Korea, the Russian Federation, the Republic of B",
+    "snippet": "guaranteed, and require For Traders' acceptance and licensing of your trading data. Restricted countries: Pakistan, Iran, Syria, Myanmar, Bangladesh, North Korea, the Russian Federation, the Republic of Belarus, Cuba, Lebanon, Libya, Sudan, South Sudan, Crimea, Donetsk and Luhansk regions of Ukraine.",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "restricted-countries 2026-06-01T09:24:39Z https://help",
+    "snippet": "ne-zeme 2026-06-01T09:25:04Z https://help.fortraders.com/en/articles/9259446-list-of-restricted-countries 2026-06-01T09:24:39Z https://help.fortraders.com/es/articles/9259446-lista-de-paises-restringidos 2026-06-01T09:25:27Z https://help.fortraders.com/cs/articles/9259647-co-znamena-daily-drawdown-a-jak-se-v",
+    "url": "https://help.fortraders.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Activation Fee For Traders From day 1 of funded account On-demand (daily eligible) 80% Yes \u2014 on first payout None",
+    "snippet": "llet. Firm First Payout Window Payout Frequency Starting Profit Split Challenge Fee Refund Activation Fee For Traders From day 1 of funded account On-demand (daily eligible) 80% Yes \u2014 on first payout None FundedNext (Stellar Lite) Day 1 after passing Bi-weekly 80% (up to 95% with scaling) Yes None The 5%ers (Bootcamp) After 1 month tradin",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "refundable None Apex Trader Funding Day 8 of funded account Every two weeks 90% (first $25K per account) Varies by promo",
+    "snippet": "(Bootcamp) After 1 month trading Monthly 50% (scales to 100%) No \u2014 entry fee is non-refundable None Apex Trader Funding Day 8 of funded account Every two weeks 90% (first $25K per account) Varies by promotion None Fastest Payout Prop Firm: 24-Hour and Same-Day Options On-demand payout capability is the clearest signal that a firm trusts i",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policies\n None of the four firms above charge a separate activation fee on top of the challenge fee \u2014 that's a me",
+    "snippet": "en't tempted to overtrade to \"justify\" waiting another 28 days. Activation Fees and Refund Policies None of the four firms above charge a separate activation fee on top of the challenge fee \u2014 that's a meaningful filter in itself. Some firms in the wider prop space charge $100\u2013$250 to \"activate\" a funded account after passing, which quietl",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "refund question is equally important: if your challenge fee isn't returned on first payout, your effective profit split ",
+    "snippet": "ount after passing, which quietly inflates the real cost of entry. The challenge fee refund question is equally important: if your challenge fee isn't returned on first payout, your effective profit split is lower than advertised until you've earned it back. Factor that into any headline number you're comparing. Profit Split Progression a",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading restrictions, HFT bans, copy trading rules and the high-risk clause get enforced by a human reading your tr",
+    "snippet": "come from. Drawdown and daily loss limits get enforced by the platform in real time; news trading restrictions, HFT bans, copy trading rules and the high-risk clause get enforced by a human reading your trade log after you've already asked for a payout. News trading windows: NFP, FOMC and CPI A typical news trading restriction blocks you ",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "News trading windows: NFP, FOMC and CPI\n A typical news trading restriction blocks you from opening, closing or holding ",
+    "snippet": "enforced by a human reading your trade log after you've already asked for a payout. News trading windows: NFP, FOMC and CPI A typical news trading restriction blocks you from opening, closing or holding a position within roughly \u00b12 minutes of a high-impact release \u2014 Non-Farm Payrolls, FOMC rate decisions and CPI prints being the usual nam",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "News trading restriction Trade opened/held within ~\u00b12 min of NFP, FOMC, CPI Manual, mostly at payout HFT / tick scalping",
+    "snippet": "trade log before releasing performance rewards. Clause What triggers it Enforcement News trading restriction Trade opened/held within ~\u00b12 min of NFP, FOMC, CPI Manual, mostly at payout HFT / tick scalping ban Below minimum hold time or above max trade count Manual review of trade log Copy trading / correlation Same trades mirrored across ",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "news trading or copy trading",
+    "snippet": "s, daily loss caps, minimum trading days, position sizing, and behavior clauses like news trading or copy trading. Some are hard-coded into the platform and trigger an instant breach the moment you touch them \u2014 a static max drawdown, for example. Others are judgment calls a risk tea",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn Tournaments Company EN Log In Get Started \n \n Monetize Your Trading Skill No risk\n On your capital\n 48h payouts\n Gu",
+    "snippet": "For Traders | Prop Trading Firm | Funded Accounts up to $200K Products Trading Learn Tournaments Company EN Log In Get Started Monetize Your Trading Skill No risk On your capital 48h payouts Guaranteed Up to $300K Virtual capital No Personal Capital at Risk 48-Hour Reward Guarantee Up to $300K Virtual Capital Raw Spreads, Low Commissions ",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads,\n Low Commissions\n Learn to trade Forex, Crypto, and Futures on a demo account and earn real cash rewards",
+    "snippet": "al Capital at Risk 48-Hour Reward Guarantee Up to $300K Virtual Capital Raw Spreads, Low Commissions Learn to trade Forex, Crypto, and Futures on a demo account and earn real cash rewards. Get Started How it works? $10M+ Paid to traders 150K+ Customers 130+ Countries served 2023 Established Most Innovative Prop Firm Benzinga Global Finte",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal trader payouts View all rewards \n \ud83c\udde8\ud83c\uddff Daniel M",
+    "snippet": "Innovative Prop Firm Benzinga \u00b7 2024 Best Payout Process Prop Firm Match \u00b7 2024 Real trader payouts View all rewards \ud83c\udde8\ud83c\uddff Daniel M. Paid $41,104 Czechia View certificate \ud83c\udde8\ud83c\udde6 Anthony T. Paid $42,428 Canada View certificate \ud83c\udde8\ud83c\uddff Jan S. Paid $19,779 Czechia View certificate \ud83c\udde8\ud83c\uddff Daniel K. Paid $38,995 C",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatures, Pricing, and More\n February 2026 \u00b7 Read the review \n Investing",
+    "snippet": "Reviewed by Benzinga \u2605 5/5 For Traders Overview: Features, Pricing, and More February 2026 \u00b7 Read the review Investing.com \u2605 4.5/5 For Traders Review 2026 Read the review # 3 prop firm in the world \u2605 4.5 \u00b7 261 real trader reviews Ranked by verified trader reviews 1 E8 Markets \u2605 4.8",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead the review \n \n # 3 prop firm in the world \u2605 4",
+    "snippet": "e February 2026 \u00b7 Read the review Investing.com \u2605 4.5/5 For Traders Review 2026 Read the review # 3 prop firm in the world \u2605 4.5 \u00b7 261 real trader reviews Ranked by verified trader reviews 1 E8 Markets \u2605 4.8 2 The5ers \u2605 4.7 3 For Traders \u2605 4.5 4 FTMO \u2605 4.5 5 Alpha Capital \u2605 4.4 See the live rank",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vps",
+    "snippet": "-02T19:26:09.000Z monthly 0.6 https://fortraders.com/es/blog/mejores-proveedores-de-vps-para-traders-de-forex-y-prop-trading 2026-08-02T19:29:39.000Z monthly 0.6 https://fortraders.com/cs/blog/nejlepsi-poskytovatele-vps-pro-forexove-a-prop-tradery 2026-08-02T19:29:48.000Z monthly 0.6 https://fortraders.com/blog",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "IP address",
+    "snippet": "breach, no matter the relationship or intent. For Traders monitors login activity, IP addresses, and trading patterns to detect account sharing. Red flags include logins from different locations, sudden changes in trading style, or patterns suggesting multiple users. Even sharing devices at trading centers can t",
+    "url": "https://fortraders.com/blog/what-happens-if-you-break-the-rules-in-a-prop-challenge",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 48 hours, or we pay yo",
+    "snippet": "our trading journals to help you pass. 48-Hour Reward Guarantee : We guarantee your withdrawal is processed within 48 hours, or we pay you 100% of your profits. Multi-Asset Trading : Trade Forex, Futures, and Crypto (even on weekends) using professional platforms like MT5, TradeLocker, and cTrader. *$300",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 2 days, or we pay you",
+    "snippet": "d from these instruments are backed by our 48-Hour Reward Guarantee. We process your payout within 2 days, or we pay you 100% of your generated profits. Does For Traders have good trading conditions? + Yes. We offer institutional-grade execution designed to help you succeed. We are transp",
+    "url": "https://fortraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instant",
+    "snippet": "red-folder events Not permitted Not permitted between own accounts Human-reviewed at payout For Traders (Instant Funding) Static 6\u20138% 4% None (min. active days for payout) Allowed with caution Not permitted Not permitted Human-reviewed at payout FTMO Static (typically) 10% 5% 4 (Ph",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "within 7 days and fees under",
+    "snippet": "tempt more than one pass, a lower fee reduces your total break-even threshold. First payouts within 7 days and fees under $100 for a standard $10k account score highest. Rubric Axis Best-Case Score Worst-Case Score Weight Profit Target \u22645% (one phase) \u226510% (two phases) High Drawdown Type S",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "48 hours",
+    "snippet": "ntity. Upload your ID and proof of address the day you get funded \u2014 don't wait until payout day and discover compliance needs 48 hours to review documents. Confirm your minimum trading days are logged. Most firms require 3\u20135 active trading days minimum before your first payout window opens. Check your",
+    "url": "https://fortraders.com/blog/prop-firm-payout-rules-comparison",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:57",
+    "snippet": "12:07:50.000Z monthly 0.6 https://fortraders.com/es/blog/usan-los-traders-propiedad-leverage-cual-es-un-nivel-seguro 2026-09-07T11:57:11.000Z monthly 0.6 https://fortraders.com/es/blog/conceptos-basicos-de-trading-de-criptomonedas-como-empezar-con-activos-digitales 2026-09-07T11:35:07.000Z monthly 0.6",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "1:00",
+    "snippet": "r-5-guia-fondeo 2026-08-31T11:21:36.000Z monthly 0.6 https://fortraders.com/es/blog/leverage-significado 2026-08-31T11:00:57.000Z monthly 0.6 https://fortraders.com/es/blog/scripts-de-tradingview-que-todo-trader-financiado-debe-conocer 2026-08-31T10:51:45.000Z monthly 0.6 https://fortrade",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout capability is the clearest signal that a firm trusts its own rules",
+    "snippet": "by promotion None Fastest Payout Prop Firm: 24-Hour and Same-Day Options On-demand payout capability is the clearest signal that a firm trusts its own rules. For Traders processes performance reward requests without a mandatory waiting period tied to calendar dates \u2014 once you're funded and in profit, you can request. Apex im",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan\" style MyFundedFutures Trailing / EOD options Varies None on some plans 1\u20135 depending on plan Allowed Restr",
+    "snippet": ") None fixed, min. days for Funded Allowed Restricted Not permitted Human-reviewed, \"scaling plan\" style MyFundedFutures Trailing / EOD options Varies None on some plans 1\u20135 depending on plan Allowed Restricted Not permitted Consistency rule on select plans The 5%ers Static 6\u201310% None fixed on some plans Varies by product Allowed, caution",
+    "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans in Prop Trading Firms Explained | For Traders Products Trading Learn Tournaments Company EN Log In Get Sta",
+    "snippet": "Scaling Plans in Prop Trading Firms Explained | For Traders Products Trading Learn Tournaments Company EN Log In Get Started April 15, 2026 Scaling Plans in Prop Trading Firms Explained How prop firms scale traders: profit targets, drawdown limits, evaluation periods, and staged capital increases. Scali",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans in Prop Trading Firms Explained\n How prop firms scale traders: profit targets, drawdown limits, evaluation",
+    "snippet": "Products Trading Learn Tournaments Company EN Log In Get Started April 15, 2026 Scaling Plans in Prop Trading Firms Explained How prop firms scale traders: profit targets, drawdown limits, evaluation periods, and staged capital increases. Scaling plans in prop trading firms are structured programs that allow traders to manage increasingly",
+    "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kych-dat 2026-08-02T19:30:19",
+    "snippet": "https://fortraders.com/cs/blog/velikost-pozice-na-zaklade-volatility-vyuziti-historickych-dat 2026-08-02T19:30:19.000Z monthly 0.6 https://fortraders.com/es/blog/mt5-vs-tradingview-para-trading-con-cuentas-financiadas 2026-08-02T19:29:42.000Z monthly 0.6 https://fortraders.com/es/",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kych-zprav 2026-08-02T19:29:51",
+    "snippet": "000Z monthly 0.6 https://fortraders.com/cs/blog/obchodovani-s-futures-behem-ekonomickych-zprav 2026-08-02T19:29:51.000Z monthly 0.6 https://fortraders.com/es/blog/trading-de-futuros-durante-eventos-economicos 2026-08-02T19:30:15.000Z monthly 0.6 https://fortraders.com/es/blog/tradi",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kych-kalendaru-pruvodce-klicovymi-udalostmi-pro-tradery 2026-08-02T19:29:55",
+    "snippet": "2026-08-02T19:29:51.000Z monthly 0.6 https://fortraders.com/cs/blog/pouziti-ekonomickych-kalendaru-pruvodce-klicovymi-udalostmi-pro-tradery 2026-08-02T19:29:55.000Z monthly 0.6 https://fortraders.com/blog/using-economic-calendars-a-traders-guide-to-key-events 2026-08-02T19:30:31.000Z monthly 0.6 https://fortraders.com/blog/bu",
+    "url": "https://fortraders.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation fees on Stellar Lite are on the lower end of the market, which matters if you're sizing up your challenge cap",
+    "snippet": "ther layer of friction. The 14-day payout cycle is reasonable but not class-leading. Activation fees on Stellar Lite are on the lower end of the market, which matters if you're sizing up your challenge capital carefully. FXIFY: one/two/three-phase flexibility FXIFY's strongest card is structural flexibility. You choose one, two, or three ",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fees: The Ease-of-Exit Question\n Passing a challenge means nothing if getting paid is a bureaucratic obstacle",
+    "snippet": "ecution plan. how to pass a prop firm challenge on the first try \u2192 Payout Speed and Activation Fees: The Ease-of-Exit Question Passing a challenge means nothing if getting paid is a bureaucratic obstacle course. The easiest prop firm challenge isn't just the one with the lowest profit target \u2014 it's the one where the path from simulated pr",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fee For Traders From day 1 of funded account On-demand (daily eligible) 80% Yes \u2014 on first payout None Funded",
+    "snippet": "Firm First Payout Window Payout Frequency Starting Profit Split Challenge Fee Refund Activation Fee For Traders From day 1 of funded account On-demand (daily eligible) 80% Yes \u2014 on first payout None FundedNext (Stellar Lite) Day 1 after passing Bi-weekly 80% (up to 95% with scaling) Yes None The 5%ers (Bootcamp) After 1 month trading Mont",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fees and Refund Policies\n None of the four firms above charge a separate activation fee on top of the challen",
+    "snippet": "longer cycles and aren't tempted to overtrade to \"justify\" waiting another 28 days. Activation Fees and Refund Policies None of the four firms above charge a separate activation fee on top of the challenge fee \u2014 that's a meaningful filter in itself. Some firms in the wider prop space charge $100\u2013$250 to \"activate\" a funded account after p",
+    "url": "https://fortraders.com/blog/which-prop-firm-has-the-easiest-challenge-rules",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "out the full FAQs. More FAQs Learn to trade. Earn real rewards. Products Trading Challenges Instant Funding Pay After Pass How It Works Trading Our Rules Pricing & Plans Rewards & Testimonials Forex Futures Crypto Prediction Markets Trading Instruments Trading Platf",
+   "url": "https://fortraders.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "grants you access to substantial trading power. For example, for just $399 you get $100,000 (Forex One-Step) virtual capital to trade with. Capped Risk : Your financial risk is strictly limited to the initial fee. You are never liable for losses incurred on the fund",
+   "url": "https://fortraders.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "kly 0.3 https://fortraders.com/cs/press-kit weekly 0.4 https://fortraders.com/cs/blog/one-step-vs-two-step-obchodni-vyzvy 2026-09-26T14:59:39.000Z monthly 0.6 https://fortraders.com/cs/blog/co-by-chteli-financovani-traderi-vedet-pred-zacatkem 2026-09-26T14:49:31.00",
+   "url": "https://fortraders.com/sitemap.xml"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "Typical 2026 Range Where It Bites Profit target 8\u201310% (Phase 1), 4\u20135% (Phase 2) Two-Step Challenge, Three-Step Challenge Maximum drawdown 6\u201312% (static or trailing) All phases + Funded Account Daily loss limit 4\u20136% Resets daily on server time Minimum trading days 0\u201310 d",
+   "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "sk. These systems ensure that scaling is tied to both performance and disciplined trading habits. 4 Step Plan To Scale Your Prop Trading (Safely) Scaling Requirements by Account Size Prop Trading Scaling Requirements by Account Size As your account size grows,",
+   "url": "https://fortraders.com/blog/scaling-plans-prop-trading-firms-explained"
+  },
+  {
+   "name": "Futures",
+   "snippet": "forex or CFD challenges, and the single biggest thing traders miss is this: the drawdown line in a futures evaluation moves \u2014 until you make it stop. Understanding futures prop firm rules starts with the buffer, because that's the number that decides whether your trailing thre",
+   "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "in spread or commission on other assets \u2014 it's a real cost, not a rounding error. Leverage caps on crypto challenges run tighter than on forex or indices \u2014 usually capped well below what retail crypto exchanges offer \u2014 and most firms whitelist a limited set of coins (majors",
+   "url": "https://fortraders.com/blog/prop-trading-rules-you-must-know-before-taking-a-challenge"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "DXtrade",
+  "TradeLocker",
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "ProjectX"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "ccount and earn real cash rewards. Get Started How it works? $10M+ Paid to traders 150K+ Customers 130+ Countries served 2023 Established Most Innovative Prop Firm Ben",
+  "Best Trading Evaluation Company International Business Magazine \u00b7 2025 $10M+ Paid out 150K+ Customers 130+ Countries 2023 Founded Most Innovative Prop Firm Benzinga \u00b7 2024",
+  "oose your challenge Related Blog Posts 5 Must-Have Indicators for Forex Traders 10 Must-Have Add-ons for MT5 Traders How to Read Prop Firm Terms Before You Join What Funded Tra",
+  "long-term success. As of May 2026, For Traders has paid out over $9,000,000 to more than 80,000 customers in 130+ countries. On average, traders earn approximately $4,043 in performan",
+  "needed for consistent success. Since 2023, For Traders has paid out over $9,000,000 to traders in more than 130 countries, proving that structured practice on demo accounts can tran",
+  "risk-free setting. The platform\u2019s impact is clear - it has paid out over $9,000,000 to traders from more than 130 countries, showing that disciplined practice on demo accounts can lea"
+ ],
+ "errors": []
+}

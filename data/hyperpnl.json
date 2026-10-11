@@ -1,0 +1,286 @@
+{
+ "slug": "hyperpnl",
+ "name": "HyperPNL",
+ "category": "Unverified",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://hyperpnl.com/",
+  "evidence": "name+6 prop-firm signals on homepage",
+  "tried": [
+   "https://hyperpnl.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://hyperpnl.com/",
+   "kind": "home",
+   "chars": 3453
+  },
+  {
+   "url": "https://hyperpnl.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 43
+  }
+ ],
+ "page_count": 2,
+ "total_chars": 3497,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "$10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee Start $10K Challenge Account type Coming soon Account type Coming soon Universal rules",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "ow Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee Start $10K Challenge Account type Coming soon Account type Coming soon Universal rules The same advantages for every account Ident",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": "on $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee Start $10K Challenge Account type Coming soon Account type Coming soon Universal rules The same advant",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "are executed by smart contracts, directly to your wallet in USDC. Potential Profit 80% PROFIT SPLIT MIN. WITHDRAWAL AMOUNT: 1% Start Now Start Challenge 1-step 2-step 01 Choose account size Choose your 1-step Flex evaluation and pay a one-time entry fee. Size $",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "-step 2-step Select account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "p 2-step Select account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-t",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "tep Select account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time f",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "elect account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee St",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "unt size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee Start $10K Ch",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5,00",
+    "snippet": "account size Choose your 1-step Flex evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "42",
+    "snippet": "Choose your 1-step Flex evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation hit 10% pro",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "our 1-step Flex evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation hit 10% profit don't lo",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "86",
+    "snippet": "x evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation hit 10% profit don't lose 3% in a",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "ion and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation hit 10% profit don't lose 3% in a day don't lo",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "215",
+    "snippet": "one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation hit 10% profit don't lose 3% in a day don't lose 5% overal",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "-step 2-step Select account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "p 2-step Select account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "tep Select account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "elect account size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee S",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "unt size Choose the capital you want to trade with $10,000 $5K $10K $25K $50K Soon $100K Soon Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee Start $10K C",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "Available now Account type Flex Widest risk band Profit Target 10% Max Drawdown 5% Static Max Daily Drawdown 3% $10,000 account $86 One-time fee Start $10K Challenge Account type Coming soon Account type Coming soon Universal rules The same advantages for ev",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules\n News trading allowed\n No max risk per trade rule\n 02 How you get paid\n Smart-contract e",
+    "snippet": "Profit split, on every payout \u221e No time limit on any phase 01 How you trade No consistency rules News trading allowed No max risk per trade rule 02 How you get paid Smart-contract enforced payouts No trading restrictions Payout reserve is public on-chain 03 Where you trade FX, crypto, commodities, indices, stocks, and ETFs One dashboard, ",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "The same advantages for every account Identical across every type and size Instant Daily payouts, no approval queue 80% Profit split, on every payout \u221e No time limit on any phase 01 How you trade No consistency rules News trading allowed No max risk per trad",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "USDC",
+    "snippet": "of your profits. Payouts are executed by smart contracts, directly to your wallet in USDC. Potential Profit 80% PROFIT SPLIT MIN. WITHDRAWAL AMOUNT: 1% Start Now Start Challenge 1-step 2-step 01 Choose account size Choose your 1-step Flex evaluation",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "ect your payouts. No restrictions Anyone can participate freely. Multiple assets Crypto, FX, commodities, stocks and indices, all on one. This brings Transparency Everyone can see everything on-chain. Pricing 1-step 2-step Select account size Choos",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Universa",
+    "snippet": "ne-time fee Start $10K Challenge Account type Coming soon Account type Coming soon Universal rules The same advantages for every account Identical across every type and size Instant Daily payouts, no approval queue 80% Profit split, on every payout \u221e No",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The same advantag",
+    "snippet": "$10K Challenge Account type Coming soon Account type Coming soon Universal rules The same advantages for every account Identical across every type and size Instant Daily payouts, no approval queue 80% Profit split, on every payout \u221e No time limit on any phase 0",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading allowed\n No max risk per trade rule\n 02 How you get paid\n Smart-contract enforced payouts\n No trading restr",
+    "snippet": "every payout \u221e No time limit on any phase 01 How you trade No consistency rules News trading allowed No max risk per trade rule 02 How you get paid Smart-contract enforced payouts No trading restrictions Payout reserve is public on-chain 03 Where you trade FX, crypto, commodities, indices, stocks, and ETFs One dashboard, every market 24/7",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eading Onchain Prop Firm \n \n \n \n \n \n Home How It Works Why Us Features Pricing Docs FAQ Enter App Join Discord \u2726 \n Join ",
+    "snippet": "HyperPNL | Leading Onchain Prop Firm Home How It Works Why Us Features Pricing Docs FAQ Enter App Join Discord \u2726 Join Discord \u2726 Home How It Works Why Us Features Pricing Docs FAQ Enter App Even we can't reject your payout A new funded trading model. Instant, onchain payouts. Everything enf",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatures Pricing Docs FAQ Enter App Even we can't reject your payout A new funded trading model",
+    "snippet": "Pricing Docs FAQ Enter App Join Discord \u2726 Join Discord \u2726 Home How It Works Why Us Features Pricing Docs FAQ Enter App Even we can't reject your payout A new funded trading model. Instant, onchain payouts. Everything enforced by code, not companies. Enter App Read the Docs Powered by Hyperliquid How It Works 1-step 2-step 01 Choose accou",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead the Docs \n Powered by Hyperliquid\n \n How It Works\n 1-step 2-step \n 01 Choose account size\n Choose your 1-step Flex e",
+    "snippet": "l. Instant, onchain payouts. Everything enforced by code, not companies. Enter App Read the Docs Powered by Hyperliquid How It Works 1-step 2-step 01 Choose account size Choose your 1-step Flex evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $215 Start Now 02 Prove yourself Hit the ",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaching the drawdown rules",
+    "snippet": "000 Price $215 Start Now 02 Prove yourself Hit the profit target once without breaching the drawdown rules. Evaluation hit 10% profit don't lose 3% in a day don't lose 5% overall 03 Start earning Keep 80% of your profits. Payouts are executed by smart contracts, direct",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earning\n Keep 80% of your profits",
+    "snippet": "Evaluation hit 10% profit don't lose 3% in a day don't lose 5% overall 03 Start earning Keep 80% of your profits. Payouts are executed by smart contracts, directly to your wallet in USDC. Potential Profit 80% PROFIT SPLIT MIN. WITHDRAWAL AMOUNT: 1% Start Now Start Challenge",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "contracts, directly to your wallet in USDC. Potential Profit 80% PROFIT SPLIT MIN. WITHDRAWAL AMOUNT: 1% Start Now Why Instant Sustainable Payouts All funds are collected in a public pool, and payouts are executed automatically by the smart contracts. Fully Code-Controlled System The enti",
+    "url": "https://hyperpnl.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "enforced by code, not companies. Enter App Read the Docs Powered by Hyperliquid How It Works 1-step 2-step 01 Choose account size Choose your 1-step Flex evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Pr",
+   "url": "https://hyperpnl.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "d by code, not companies. Enter App Read the Docs Powered by Hyperliquid How It Works 1-step 2-step 01 Choose account size Choose your 1-step Flex evaluation and pay a one-time entry fee. Size $5,000 Price $42 Size $10,000 Price $86 Size $25,000 Price $21",
+   "url": "https://hyperpnl.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

@@ -1,0 +1,524 @@
+{
+ "slug": "w-funded",
+ "name": "W Funded",
+ "category": "Forex/CFD",
+ "url": "https://www.wfunded.io/en",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.wfunded.io/en",
+   "kind": "home",
+   "chars": 5321
+  },
+  {
+   "url": "https://www.wfunded.io/en/faq",
+   "kind": "page",
+   "chars": 21068
+  },
+  {
+   "url": "https://www.wfunded.io/en/terms-and-conditions",
+   "kind": "page",
+   "chars": 37314
+  },
+  {
+   "url": "https://www.wfunded.io/en/terms-and-conditions",
+   "kind": "page",
+   "chars": 37314
+  },
+  {
+   "url": "https://www.wfunded.io/en/about",
+   "kind": "page",
+   "chars": 8886
+  },
+  {
+   "url": "https://www.wfunded.io/en/contact",
+   "kind": "page",
+   "chars": 4266
+  },
+  {
+   "url": "https://www.wfunded.io/en/programs/standard",
+   "kind": "page",
+   "chars": 8660
+  },
+  {
+   "url": "https://www.wfunded.io/en/programs/expedited",
+   "kind": "page",
+   "chars": 5043
+  }
+ ],
+ "page_count": 8,
+ "total_chars": 127879,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "ly results can tell us that. For the Standard program, the Process stage gives you a profit target of 5%. Once you hit that target, the Authentication stage has a profit target of 10% after which you get the chance to be live funded with no profit targets at all. WEEKEND H",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "you a profit target of 5%. Once you hit that target, the Authentication stage has a profit target of 10% after which you get the chance to be live funded with no profit targets at all. WEEKEND HOLDING PROTOCOL Traders who intend to hold positions, both open and pending, b",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "wdown balance-based or equity-based? Drawdown is balance-based , not equity-based. Daily Drawdown The daily drawdown is calculated as 5% of your starting balance for the day . If your balance increases during the day, your daily drawdown resets and is recalculated based on the new balance. Example: Star",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "Minimum Trading Days 5 day(s) X More Info Leverage 1:100 1:100 More Info Daily Drawdown 4% 4% More Info Max Drawdown 6% 6% More Info Time Limit Unlimited Unlimited More Info Stimulus Addon 70% drawdown X More Info Refundable Enrollment Fee",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "3.5",
+    "snippet": "verall drawdown. Illustration 1: Program account size - $10,000 Process Phase - 5% maximum drawdown Scenario: A trader loses 3.5% of his 5% maximum drawdown, he can then activate stimulus add-on which will give an added 2.5% of the overall drawdown. This will increase the trader\u2019s overall drawdown",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "7",
+    "snippet": "account. Illustration 2: Program account size - $10,000 Authentication Phase - 10% maximum drawdown Scenario: A trader loses 7% of his 10% maximum drawdown, he can then activate stimulus add-on which will give an added 5% of the overall drawdown. This will increase the trader\u2019s overall drawdown b",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ure you can manage our funds, hence, your risk is controlled. At Process stage, your maximum drawdown is 5% but it increases to 10% if you pass into the Authentication stage. Latency Rule Maintaining account vitality is essential to us. Traders are encouraged to place a trad",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "More Info Leverage 1:100 1:100 More Info Daily Drawdown 4% 4% More Info Max Drawdown 6% 6% More Info Time Limit Unlimited Unlimited More Info Stimulus Addon 70% drawdown X More Info Refundable Enrollment Fee $ 0 Enroll Join Our Community",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "'ll unlock the door to trading on a WFunded-funded account, enjoying an advantageous 80% profit split. As you maintain profitability, see your enrolled account to as high as $1,000,000. Get Started Now Trading Objectives Successful trading begins with a clear vision.",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "ose Your Funding Program Phase 1 Process Live Fund Manager Profit Target 0(10%) X More Info Profit Split X 80/20 More Info Minimum Trading Days 5 day(s) X More Info Leverage 1:100 1:100 More Info Daily Drawdown 4% 4% More Info Max Drawdown 6% 6% More",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "5",
+    "snippet": "Manager Profit Target 0(10%) X More Info Profit Split X 80/20 More Info Minimum Trading Days 5 day(s) X More Info Leverage 1:100 1:100 More Info Daily Drawdown 4% 4% More Info Max Drawdown 6% 6% More Info Time Limit Unlimited Unlimited More I",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "50,00",
+    "snippet": "All traders enrolled in the SkillCheck program are allowed a max account size of $50,000. Only profitable traders (those who have passed the SkillCheck Program) have the opportunity to scale up to $250,000 in funding. However, a trader will only be allowed",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "250,00",
+    "snippet": "s (those who have passed the SkillCheck Program) have the opportunity to scale up to $250,000 in funding. However, a trader will only be allowed to enrol for another SkillCheck program after breaching/having received a live-funded trading account. Illustration:",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "10,00",
+    "snippet": "$50,000 * 5) funded live. Scenario 2: A trader enrolled for a SkillCheck Program of $10,000 account size. NB: He cannot enrol for more than ($50,000 max i.e. he can enrol for 5 * $10,000 to max $50,000). Until he passes/breaches all phases and gets funded live",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "25,00",
+    "snippet": "live. This can be repeated up until a trader has a total of $250,000 (($10,000 * 25/ $25,000 * 10) funded live. Can I hedge positions across multiple accounts? No! We do not allow hedging. Can I share my login information with other traders? For the sake",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "500,00",
+    "snippet": "e traders can scale their live-funded enrolled $250,000 ($50,000 * 5) accounts up to $500,000. For every 20% realised quarterly profit a trader makes on an enrolled account, we scale you by 20% of the enrolled account. Illustration: A trader made 20% realised",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "300,00",
+    "snippet": "count by 20% of the account's initial balance of $250,000 ($50,000) which will total $300,000. If the trader does another 20% realised profits between 3 months (April - June) of a $300,000 account. In July, we will scale your enrolled account by 20% of the accou",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "350,00",
+    "snippet": "count by 20% of the account's initial balance of $250,000 ($50,000) which will total $350,000. If the trader does another 20% realised profits between 3 months (July - Sep) of a $350,000 account. In October, we will scale your enrolled account by 20% of the acc",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "400,00",
+    "snippet": "unt by 20% of the account's initial balance of( $250,000; ($50,000) which will total $400,000. NB:At WFunded, a trader can only be scaled to $500,000 max. This is because we provide live funding to traders in our programs, and this funding is capped at $10,000,",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "al a trader can process on WFunded? The minimum withdrawal a trader can request is $100 How credible is WFunded? Our founder Dapo Willis is a well-renowned profitable trader, whose fame reverberates across the industry. He is recognised as one of the mo",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "500",
+    "snippet": "recalculated based on the new balance. Example: Start with $10,000 \u2192 Daily limit = $500 Balance grows to $10,500 \u2192 New daily limit = $525 Overall Drawdown The overall drawdown is also calculated using your account balance . The concept is the same as da",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "10,50",
+    "snippet": "the new balance. Example: Start with $10,000 \u2192 Daily limit = $500 Balance grows to $10,500 \u2192 New daily limit = $525 Overall Drawdown The overall drawdown is also calculated using your account balance . The concept is the same as daily drawdown, but it is n",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "525",
+    "snippet": "tart with $10,000 \u2192 Daily limit = $500 Balance grows to $10,500 \u2192 New daily limit = $525 Overall Drawdown The overall drawdown is also calculated using your account balance . The concept is the same as daily drawdown, but it is not limited to a single day",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule?\n \n The inconsistency rule at WFunded stipulates that program participants, especially fu",
+    "snippet": "pt the fairness and integrity of the platform for all participants. What is the inconsistency rule? The inconsistency rule at WFunded stipulates that program participants, especially fund managers should do their utmost to adhere to a well-defined trading strategy across trades. This helps them manage risk effectively and aligns with indu",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "consistency Rule The inconsistency rule at WFunded is essentially a requirement we have created to help us",
+    "snippet": "tled to. The distribution of profits occurs according to an agreed-upon schedule. Inconsistency Rule The inconsistency rule at WFunded is essentially a requirement we have created to help us ensure that program participants are maintaining a well-defined trading strategy with consistent position sizing (lot size) across all trades. It doe",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "consistency Rule:\n Consistent Trader A: Uses a lot size of 0",
+    "snippet": "Here are some examples of consistent and inconsistent position sizing under the Inconsistency Rule: Consistent Trader A: Uses a lot size of 0.1 in Trade 1, 0.2 in Trade 2, and 0.3 in Trade 3. This shows a gradual increase in position size, potentially reflecting growing confidence in the strategy. Inconsisten",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "consistency Rule, we not only encourage responsible trading practices but also safeguard our real capital",
+    "snippet": "ear risk management and potentially emotional trading decisions. By enforcing the Inconsistency Rule, we not only encourage responsible trading practices but also safeguard our real capital entrusted to our Fund Managers. Our aim with this rule is simple: weed out potential gamblers who might engage in high-risk, volatile strategies while",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "monthly",
+    "snippet": "ncy? Yes! We accept payment in USDT TRC 20, BTC, and ETH. How often will I get my payout? The first withdrawal payment is processed monthly after which all subsequent withdrawal payments are processed on a biweekly basis. Are there any hidden/recurring fees? There are no hidden/ recurring fees Is there a",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "biweekly",
+    "snippet": "out? The first withdrawal payment is processed monthly after which all subsequent withdrawal payments are processed on a biweekly basis. Are there any hidden/recurring fees? There are no hidden/ recurring fees Is there a refund option for reset? No! There is no refund for reset. Who will pa",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "Very Transparent Process Rules are straightforward. Our Traders Come First. No surprises. \u25cf\u25cf\u25cf 60,000+ Registered Traders Join our global community of traders. \u2197 Two Phase, One Phase and Zero Phase Programs Choose the evaluation program that fits your",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "ncy pairs, can I trade other instruments on WFunded? Yes! You can trade all major cryptocurrencies, Indices, metals, and commodities Can I change my trading account password? No! And that is why you should not share your trading password/details with a t",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "Bank transfer",
+    "snippet": "nable, we will be using a 70/30 profit split. What payment methods do you accept? Bank transfer, Card payments, PayPal, and Cryptocurrencies. Can I make a payment through Cryptocurrency? Yes! We accept payment in USDT TRC 20, BTC, and ETH. How often will I get",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "0 profit split. What payment methods do you accept? Bank transfer, Card payments, PayPal, and Cryptocurrencies. Can I make a payment through Cryptocurrency? Yes! We accept payment in USDT TRC 20, BTC, and ETH. How often will I get my payout? The first",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "urrencies. Can I make a payment through Cryptocurrency? Yes! We accept payment in USDT TRC 20, BTC, and ETH. How often will I get my payout? The first withdrawal payment is processed monthly after which all subsequent withdrawal payments are processed",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "bjection to the laying of venue based on the grounds of forum non-conveniens or otherwise. Force Majeure The Company shall not be liable to Trader for any claims, losses, damages, costs or expenses, including attorneys\u2019 fees, caused, directly or indirectly",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "table traders (those who have passed the SkillCheck Program) have the opportunity to scale up to $250,000 in funding. However, a trader will only be allowed to enrol for another SkillCheck program after breaching/having received a live-funded trading account. Illustration: A trader en",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "precaution is in place to prevent excessive market volatility and the potential for unfair advantages. 2. Grid / Martingale Strategies: EAs that implement grid or martingale trading strategies, which involve progressively increasing trade sizes after losses, are sanctio",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "licensed by",
+    "snippet": "gns, logos, and any other marks, are the property of the Platform, owned directly or licensed by WSWS, and are protected as either common law or registered trademarks. 4. PROGRAM DESCRIPTION The WFunded team requires traders to demonstrate both their skills and commitment to effective risk management if they are to secure funding f",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "MAS",
+    "snippet": "d Connect With Us Want to chat? We'd love to hear from you! Get in touch with us XMASFUND5K. support@wfunded.io Business hours: 24/7 for emails, live chat 9 am \u2013 5 pm GMT+1 Monday to Friday Contact us Send Message Join Our Community At WFunded, we",
+    "url": "https://www.wfunded.io/en/contact",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Email Address Phone Number Code Country Country I ag",
+    "snippet": "our account to explore our programs, community and educational resources. Full Name Email Address Phone Number Code Country Country I agree to the Terms & Conditions and Privacy Policy JOIN WFUNDED \ud83d\udd12 We respect your privacy. Unsubscribe at any time. \ud83c\udf93 Free Educational Resources Access high-quality trad",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "Ikorodu Road, Obanikoro, Lag",
+    "snippet": "sults. Where trading knowledge meets opportunity. Contact support@wfunded.io 256 Ikorodu Road, Obanikoro, Lagos, Nigeria 0913 459 6449 Quick Links About Us FAQ Affiliate Partner AML Policy Risk Disclosure Terms & Conditions Contact Us Privacy Policy Programs SkillCheck (St",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "SkillC",
+    "snippet": "er AML Policy Risk Disclosure Terms & Conditions Contact Us Privacy Policy Programs SkillCheck (Standard) SkillCheck (Expedited) Stay Updated Subscribe to get all the exclusive updates about the trading industry Subscribe WFunded operates under the manag",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "WFunded operates under the management of Western Sa",
+    "snippet": "Subscribe to get all the exclusive updates about the trading industry Subscribe WFunded operates under the management of Western Sahara Worldwide Services (WSWS). The content on this website is presented solely for analytical purposes and should not be interpreted as financial, investment, tax, or an",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "or any other financial instruments by WFunded, its ag",
+    "snippet": "itute a solicitation, recommendation, endorsement, or an offer to buy or sell stocks or any other financial instruments by WFunded, its agents, employees, contractors, or any affiliated entities. It is your responsibility to assess the advantages and risks associated with utilizing any information or conten",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "ies. It is your responsibility to assess the advantag",
+    "snippet": "l instruments by WFunded, its agents, employees, contractors, or any affiliated entities. It is your responsibility to assess the advantages and risks associated with utilizing any information or content on the website. All investments involve significant risks, and individual investment decisions are solel",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "WFunded, its partners, employees, or ag",
+    "snippet": "obtained from using this information, and without any warranty, express or implied. WFunded, its partners, employees, or agents shall not be held liable to you or anyone else for any decisions made or actions taken based on the information on the website, or for any consequential, special, or",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "or for any consequential, special, or similar damag",
+    "snippet": "lse for any decisions made or actions taken based on the information on the website, or for any consequential, special, or similar damages, even if warned of the potential for such damages. Enrollment should not be considered as deposits. All program charges are utilized for operational expenses, includin",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund upon passing the trading program?\n \n Yes! All traders who successfully complete the SkillCheck program have the o",
+    "snippet": "is prohibited in WFunded and it can lead to a breach of the program. Do you offer a refund upon passing the trading program? Yes! All traders who successfully complete the SkillCheck program have the opportunity to get a refund upon first withdrawal. When will I get the account credentials after payment? As soon as payment is confirmed, p",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "refund upon first withdrawal",
+    "snippet": "aders who successfully complete the SkillCheck program have the opportunity to get a refund upon first withdrawal. When will I get the account credentials after payment? As soon as payment is confirmed, potential traders will receive account credentials within 2 hours of confirma",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "refund option for reset?\n \n No! There is no refund for reset",
+    "snippet": "e there any hidden/recurring fees? There are no hidden/ recurring fees Is there a refund option for reset? No! There is no refund for reset. Who will pay tax on my profits? WFunded expects Traders to pay tax on profits made. Who will pay the transaction commission? Traders will be in charge of transac",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "refund, crediting the original payment card/crypto wallet used for the payment, unless an alternative method is agreed u",
+    "snippet": "withdraw its corresponding Profit Share. WFunded will disburse the Profit Share as a refund, crediting the original payment card/crypto wallet used for the payment, unless an alternative method is agreed upon by WFunded.\u200e The Profit share is the net of all trading costs, spreads, commissions, and overnight swaps.\u200e Profit Sharing Profit-sh",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "major news events and for positions they intend to hold over the weekend",
+    "snippet": "for their trades. However, we advise all traders to use stop loss 15 minutes before major news events and for positions they intend to hold over the weekend. What is the copy trading rule at WFunded? Copy trading is prohibited in WFunded and it can lead to a breach of the program. Do you offer a refund upon passing the t",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn, grow and access evaluation programs\u2014on their terms",
+    "snippet": "on, Evaluation & Community Come Together. WFunded is built for traders who want to learn, grow and access evaluation programs\u2014on their terms. \u2713 Very Transparent Process Rules are straightforward. Our Traders Come First. No surprises. \u25cf\u25cf\u25cf 60,000+ Registered Traders Join our global community of traders.",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "eate your account to explore our programs, community and educational resources",
+    "snippet": "Choose the evaluation program that fits your trading journey. Join WFunded Create your account to explore our programs, community and educational resources. Full Name Email Address Phone Number Code Country Country I agree to the Terms & Conditions and Privacy Policy JOIN WFUNDED \ud83d\udd12 We respect your privacy. Unsubscribe at a",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "each with clear rules and transparent conditions",
+    "snippet": "se Programs Choose from our two-phase, one-phase and zero-phase evaluation programs\u2014each with clear rules and transparent conditions. \u25c9 Global Community of Traders Join our active Discord community of traders around the world. Learn, share and grow together. \u2713 WFunded is an educational company th",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "earn, share and grow together",
+    "snippet": "ommunity of Traders Join our active Discord community of traders around the world. Learn, share and grow together. \u2713 WFunded is an educational company that provides learning resources and offers simulated trading environments. All accounts are simulated and operate under WFunded's",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "earning resources and offers simulated trading environments",
+    "snippet": "Learn, share and grow together. \u2713 WFunded is an educational company that provides learning resources and offers simulated trading environments. All accounts are simulated and operate under WFunded's published rules. Trading involves a significant risk of loss and is not suitable for everyone. Performance in sim",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP Address",
+    "snippet": "tate, provincial, national, or international. These include, but are not limited to: IP Address Rule: WFunded enforces a strict IP address usage policy to maintain security and prevent fraudulent activities. Traders are allowed to access their accounts from a maximum of two different IP addresses . If an account is accessed from more than",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "ed from more than two IPs, it will be automatically flagged and breached. The use of VPNs, proxies, or shared networks to manipulate IP addresses is strictly prohibited and may lead to account termination. If you anticipate frequent location changes, please reach out to Customer Support to avoid unnecessary breaches. If a trader plans to ",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@wfunded.io",
+    "snippet": "indicative of future results. Where trading knowledge meets opportunity. Contact support@wfunded.io 256 Ikorodu Road, Obanikoro, Lagos, Nigeria 0913 459 6449 Quick Links About Us FAQ Affiliate Partner AML Policy Risk Disclosure Terms & Conditions Contact Us Priva",
+    "url": "https://www.wfunded.io/en",
+    "kind": "home"
+   },
+   {
+    "value": "hello@wfunded.io",
+    "snippet": "cerns should be directed to our official support channels: Email: support@wfunded.io hello@wfunded.io Exploiting errors or latency in the pricing and/or platform(s) provided by the Broker Wash trading: Placing opposing orders to create a false impression of trading a",
+    "url": "https://www.wfunded.io/en/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "Profit Split X 80/20 More Info Minimum Trading Days 5 day(s) X More Info Leverage 1:100 1:100 More Info Daily Drawdown 4% 4% More Info Max Drawdown 6% 6% More Info Time Limit Unlimited Unlimited More Info Stimulus Addon 70% drawdown X",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan where profitable traders can scale their live-funded enrolled $250,000 ($50,000 * 5) accounts up to $500,00",
+    "snippet": "certificates that mirror your excellence. Is scaling allowed? Yes! WFunded has a scaling plan where profitable traders can scale their live-funded enrolled $250,000 ($50,000 * 5) accounts up to $500,000. For every 20% realised quarterly profit a trader makes on an enrolled account, we scale you by 20% of the enrolled account. Illustration",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "SCALING PLAN\n Your success is our priority",
+    "snippet": ",000. With strong performance, you can scale your account to as high as $1,000,000. SCALING PLAN Your success is our priority. All Live-Funded traders enjoy upto 80/20 profit split (Note first withdrawal is 70/30). With every milestone achieved, you\u2019re positioned for sustainable growth and long",
+    "url": "https://www.wfunded.io/en/programs/standard",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC documents?\n \n Traders will be expected to submit the KYC document when they have proven themselves by complet",
+    "snippet": "ow traders to share their login details with others. When will I have to submit the KYC documents? Traders will be expected to submit the KYC document when they have proven themselves by completing the SkillCheck program. I need help verifying my KYC details, how do I go about it? To verify your KYC details, kindly go to the profile secti",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "KYC details, how do I go about it? \n To verify your KYC details, kindly go to the profile section of your dashboa",
+    "snippet": "e proven themselves by completing the SkillCheck program. I need help verifying my KYC details, how do I go about it? To verify your KYC details, kindly go to the profile section of your dashboard and upload all the necessary documents. How do I share my metrics with customer support Agents? To share your metric with a customer support ag",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   },
+   {
+    "value": "KYC documents",
+    "snippet": "sked to complete your profile, by signing the independent contract and uploading the KYC documents. Only after this will you receive your live-funded accounts. Can I add my WFunded trading account to Myfxbook? Definitely! Live-funded traders have the opportunity t",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "reset fee discount",
+    "snippet": "late any rules? Yes, we have got you covered. For SkillCheck programs, we offer a reset fee discount. It's our way of rewarding your commitment to your trading journey. Is it mandatory to use stop loss (SL) for all trades? Only live-funded traders are mandated to use",
+    "url": "https://www.wfunded.io/en/faq",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "3-Step",
+   "snippet": "hat should I do to become a funded trader? What should I do to become a funded trader? There are 3 steps to becoming a funded trader with WFunded: 1.Enroll for any one of WFunded\u2019s proprietary trading programs. 2.Stick to the rules stipulated for the particular",
+   "url": "https://www.wfunded.io/en/faq"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Stocks",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

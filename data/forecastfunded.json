@@ -1,0 +1,73 @@
+{
+ "slug": "forecastfunded",
+ "name": "ForecastFunded",
+ "category": "Specialist",
+ "url": "https://www.forecastfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.forecastfunded.com/",
+   "kind": "home",
+   "chars": 1017
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 1017,
+ "findings": {
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "Keep 80% of Profits Funded forecasters keep 80% of their prediction market returns. Scale up over time. Forecast Funded Prove your forecasting edge. Get funded. Keep the upside. Product Markets How It Works Pricing Leaderboard Company About Blog Careers Contact Legal",
+    "url": "https://www.forecastfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ForecastFunded Ltd",
+    "snippet": "t Blog Careers Contact Legal Terms of Service Privacy Policy Risk Disclosure 2026 ForecastFunded Ltd. All rights reserved. Based in New Zealand - Powered by Brier Score calibration",
+    "url": "https://www.forecastfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn real capital",
+    "snippet": "market prop firm. Prove your calibration with Brier Score evaluation - not P&L - and earn real capital. Start Free Challenge How It Works Calibration-First Evaluation Scored by Brier Score, not luck. Consistent, well-calibrated forecasters get funded. Risk-Free Challen",
+    "url": "https://www.forecastfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaderboard Company\n About Blog Careers Contact Legal\n Terms of Service Privacy Policy Risk Disclosure \n 2026 ForecastFun",
+    "snippet": "recasting edge. Get funded. Keep the upside. Product Markets How It Works Pricing Leaderboard Company About Blog Careers Contact Legal Terms of Service Privacy Policy Risk Disclosure 2026 ForecastFunded Ltd. All rights reserved. Based in New Zealand - Powered by Brier Score calibration",
+    "url": "https://www.forecastfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ealand - Powered by Brier Score calibration",
+    "snippet": "olicy Risk Disclosure 2026 ForecastFunded Ltd. All rights reserved. Based in New Zealand - Powered by Brier Score calibration",
+    "url": "https://www.forecastfunded.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Free trial / demo",
+   "snippet": "firm. Prove your calibration with Brier Score evaluation - not P&L - and earn real capital. Start Free Challenge How It Works Calibration-First Evaluation Scored by Brier Score, not luck. Consistent, well-calibrated forecasters get funded. Risk-Free Challenge No capita",
+   "url": "https://www.forecastfunded.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": [
+  "https://www.forecastfunded.com/pricing:404:http-404",
+  "https://www.forecastfunded.com/terms:404:http-404",
+  "https://www.forecastfunded.com/how-it-works:404:http-404",
+  "https://www.forecastfunded.com/about:404:http-404",
+  "https://www.forecastfunded.com/contact:404:http-404"
+ ]
+}

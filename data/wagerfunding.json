@@ -1,0 +1,522 @@
+{
+ "slug": "wagerfunding",
+ "name": "WagerFunding",
+ "category": "Specialist",
+ "url": "https://wagerfunding.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://wagerfunding.com/",
+   "kind": "home",
+   "chars": 31636
+  },
+  {
+   "url": "https://wagerfunding.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 345
+  },
+  {
+   "url": "https://wagerfunding.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 166
+  },
+  {
+   "url": "https://wagerfunding.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4772
+  },
+  {
+   "url": "https://wagerfunding.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 302
+  },
+  {
+   "url": "https://wagerfunding.com/faq-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1191
+  },
+  {
+   "url": "https://wagerfunding.com/faq/general-challenge-rules/",
+   "kind": "page",
+   "chars": 3538
+  },
+  {
+   "url": "https://wagerfunding.com/faq/how-do-i-purchase-another-challenge-can-i-have-multiple-challenges/",
+   "kind": "page",
+   "chars": 1608
+  },
+  {
+   "url": "https://wagerfunding.com/faq/what-are-the-platform-rules/",
+   "kind": "page",
+   "chars": 1511
+  },
+  {
+   "url": "https://wagerfunding.com/faq/payout-audit-processing-policy/",
+   "kind": "page",
+   "chars": 2786
+  },
+  {
+   "url": "https://wagerfunding.com/start-a-challenge/",
+   "kind": "page",
+   "chars": 1711
+  },
+  {
+   "url": "https://wagerfunding.com/faq/why-use-wagerfunding/",
+   "kind": "page",
+   "chars": 1560
+  },
+  {
+   "url": "https://wagerfunding.com/faq/if-a-funded-account-is-violated-can-i-get-a-new-one/",
+   "kind": "page",
+   "chars": 1428
+  },
+  {
+   "url": "https://wagerfunding.com/faq/what-are-the-available-sports-leagues/",
+   "kind": "page",
+   "chars": 1528
+  },
+  {
+   "url": "https://wagerfunding.com/faq/monthly-rewards-cap/",
+   "kind": "page",
+   "chars": 5033
+  },
+  {
+   "url": "https://wagerfunding.com/faq/phases-passed-withdrawal-review-process/",
+   "kind": "page",
+   "chars": 7580
+  },
+  {
+   "url": "https://wagerfunding.com/faq/is-wagerfunding-available-in-my-country/",
+   "kind": "page",
+   "chars": 5561
+  },
+  {
+   "url": "https://wagerfunding.com/faq/guidelines-for-community-engagement/",
+   "kind": "page",
+   "chars": 1409
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 73682,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "10",
+    "snippet": "h $1,200. Daily Drawdown This is the maximum you can lose in a single day. If the daily drawdown is 10%, you cannot lose more than $100 from a $1,000 account in one day. Max Trailing Drawdown The drawdown is the maximum amount your account is allowed to lose based on yo",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "m inactivity timer: 5 days 2 Step Phase 1: 20 picks Phase 2: 20 picks 1 Step Daily Drawdown: 8% Minimum Picks: 25 What are the available sports/leagues? WagerFunding supports a wide range of sports and leagues, including: Basketball (NBA, EuroLeague, NCAA) F",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "30",
+    "snippet": "not your total balance. Instant Funded Challenge Monthly Rewards Cap First payout: 30% Second payout: 60% Third and future payouts: 80% Example ($100,000 account) If account is up 5000$ of profit you\u2019re eligible 30% on first withdrawal = 5000x30%=1,500 If account is up 5000$ of profit you\u2019re eligi",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "unt is up 5000$ of profit you\u2019re eligible 80% on third and future withdrawals = 5000x80%=4,000 Payout Timing First withdrawal: 30 days after your first funded pick. After first payout: withdrawals are available within your applicable cap. One Step Challenge Monthly Rew",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "le within your applicable cap. One Step Challenge Monthly Rewards Cap First payout: 50% Second payout: 60% Third and future payouts: 90% Example ($100,000 account) If account is up 5000$ of profit you\u2019re eligible 50% on first withdrawal = 5000x50%=2,500 If account is up 5000$ of profit you\u2019re eligi",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "unt is up 5000$ of profit you\u2019re eligible 90% on third and future withdrawals = 5000x90%=4,500 Payout Timing First withdrawal: 30 days after your first funded pick. After first payout: withdrawals are available within your applicable cap. Two Step Challenge Monthly Rew",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "nt is up 5000$ of profit you\u2019re eligible 100% on third and future withdrawals = 5000x100%=5,000 Payout Timing First withdrawal: 30 days after your first funded pick. After first payout: withdrawals are available within your applicable cap. Payout Split You receive a per",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "1",
+    "snippet": "nd profit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIR",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "rofit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST P",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "t like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOU",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ke a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHAS",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "orm well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1 P",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ell, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1 PHASE 2",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5,00",
+    "snippet": "Us Become an Affiliate Blog YOU CALL THE $HOT$ WE COVER THE CO$T Unlock $5,000 bankroll for $69 $149 New Users Get 55% Off On Their First Account. CODE: FIRSTTIMER HOW IT WORKS 01. PICK 02. BET 03. CASHOUT CHALLENGE Pick",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "69",
+    "snippet": "liate Blog YOU CALL THE $HOT$ WE COVER THE CO$T Unlock $5,000 bankroll for $69 $149 New Users Get 55% Off On Their First Account. CODE: FIRSTTIMER HOW IT WORKS 01. PICK 02. BET 03. CASHOUT CHALLENGE Pick your level, trust",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "149",
+    "snippet": "e Blog YOU CALL THE $HOT$ WE COVER THE CO$T Unlock $5,000 bankroll for $69 $149 New Users Get 55% Off On Their First Account. CODE: FIRSTTIMER HOW IT WORKS 01. PICK 02. BET 03. CASHOUT CHALLENGE Pick your level, trust your",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "nd profit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FI",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "rofit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "t like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYO",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ke a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHA",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "orm well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ell, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1 PHASE",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "29",
+    "snippet": "FIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1 PHASE 2 FUNDED $29 Plan Price Buy Now JOIN OUR DISCORD \u00d7 Apply for Instant Funding Fill this out and we\u2019ll get you set up. Full Name Email Phone Submit Inquir",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "awdown is 10%, you cannot lose more than $100 from a $1,000 account in one day. Max Trailing Drawdown The drawdown is the maximum amount your account is allowed to lose based on your starting balance. Example: If you start with a $10,000 account and the drawdown is 1",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "access to real bankrolls. PROFIT Bet, play, and profit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT INACTIVITY TIMER FIRST PAYOUT PHASE 1 PHASE 2 FUNDED $29 Pla",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "thod intended to manipulate outcomes or guarantee profits Automation, Software & Unfair Tools The use of any automated or unfair tools is strictly prohibited, including but not limited to: Bots, scripts, APIs, or automated betting software Edge programs, sharp software, line-shopping tools, or syndicate systems Third-party programs design",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "or credential sharing Use of VPNs, proxies, emulators, remote desktops, or identity-masking tools Providing false or misleading information during registration or audits Enforcement & Consequences Violation of any of the above rules may result in one or more of the following actions, at WagerFunding\u2019s sole discretion: Immediate voiding of",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "WHAT OTHERS HAVE BEEN SA",
+    "snippet": "t and we\u2019ll get you set up. Full Name Email Phone Submit Inquiry WHAT OTHERS HAVE BEEN SAYING... Start Your Challenge Jump in instantly with a funded account and start scaling your results today. Start Now \u2192 \u2605\u2605\u2605\u2605\u2605 \u201cGreat!!!\u201d Got the chance to ha",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "was impressed at the concept and love that I'm not limited",
+    "snippet": "Now \u2192 \u2605\u2605\u2605\u2605\u2605 \u201cGreat!!!\u201d Got the chance to handle one of their accounts hands on, was impressed at the concept and love that I'm not limited to my own funds. \u2013 Jeremiah S. \u2605\u2605\u2605\u2605\u2605 \u201cWas a beta tester\u201d Was a beta tester, definitely an amazing concept that I haven\u2019t seen executed this well in the sports be",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ts betting community so far. Excited to see where Wag",
+    "snippet": "ter, definitely an amazing concept that I haven\u2019t seen executed this well in the sports betting community so far. Excited to see where WagerFunding takes this and how they tweak it for optimal performance. \u2013 Karissa E. \u2605\u2605\u2605\u2605\u2605 \u201cReliable platform that allows\u2026\u201d Finally a reliable platform that allows me",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Karissa",
+    "snippet": "ee where WagerFunding takes this and how they tweak it for optimal performance. \u2013 Karissa E. \u2605\u2605\u2605\u2605\u2605 \u201cReliable platform that allows\u2026\u201d Finally a reliable platform that allows me to play on my fave sports without needing to risk the bank \ud83d\ude4f\ud83c\udffb \u2013 Emilio C.",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "h WF for about a month now and have been extremely sa",
+    "snippet": "process is fast... \u2013 Anthony C. \u2605\u2605\u2605\u2605\u2605 \u201cA Different Funding Firm\u201d I have been with WF for about a month now and have been extremely satisfied with the level of customer service given to me thus far. This is not my first funding firm experience... \u2013 Ryan V. \u2605\u2605\u2605\u2605\u2605 \u201cGreat Experience!\u201d WagerFunding opera",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "I saw an ad and joined Wag",
+    "snippet": "quick, clear, and professional whenever I\u2019ve reached out... \u2013 Cameron H. \u2605\u2605\u2605\u2605\u2605 \u201cI saw an ad and joined Wagerfunding\u2026\u201d I saw an ad and joined Wagerfunding discord. Great community and was the thought how to use funded accounts. I have now an instant funded and a one-step acco",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "have had a great experience with this platform. I sa",
+    "snippet": "efinitely legitimate \u2013 Drake \u2605\u2605\u2605\u2605\u2605 \u201cI have had a great experience with this\u2026\u201d I have had a great experience with this platform. I saw multiple ads and never understood what sports funded accounts were. I spoke to there team and they helped get me started with an account... \u2013 Zuhair B. \u2605\u2605\u2605\u2605\u2605 \u201cGrea",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e right track to becoming one of my top places to wag",
+    "snippet": "to use\u201d I've tried a bunch of sports betting sites, and this one is definitely on the right track to becoming one of my top places to wager. The site is clean and easy to use, lines are competitive, and I love how smooth everything feels overall... \u2013 Michael W. \u2605\u2605\u2605\u2605\u2605 \u201cI absolutely LOVE wagerfunded\u201d I",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable, and have no cash value outside of the explicitly permitted payout limits",
+    "snippet": ". Non-Transferable & No Cash Value Promotional Accounts are non-transferable, non-refundable, and have no cash value outside of the explicitly permitted payout limits. Parlay & Odds Limits / Bet Integrity Policy Parlay Limits Maximum parlay multiplier allowed: 5x Odds Limits Maximum odds allowed per selection: -999 Tennis Ma",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refunds on any purchases\n \n In cases involving fraud, abuse, or intentional manipulation, WagerFunding reserves the righ",
+    "snippet": "ial of withdrawals Permanent account termination IP, device, and identity bans No refunds on any purchases In cases involving fraud, abuse, or intentional manipulation, WagerFunding reserves the right to pursue additional enforcement actions as deemed necessary and to make final determinations based on internal audit results and rule enfo",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refunds, reversals, or chargebacks will be permitted or processed",
+    "snippet": "tory, legal, business, or operational decisions, all sales shall be deemed final. No refunds, reversals, or chargebacks will be permitted or processed. By using the platform and purchasing any products or services, users acknowledge and agree that they will not initiate or pursue any chargeback, dispute, or refund requ",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund request under such circumstances",
+    "snippet": "nowledge and agree that they will not initiate or pursue any chargeback, dispute, or refund request under such circumstances. Any attempt to do so may be considered a violation of these Terms and may result in further action as permitted by law. Payout Audit & Platform Policies How long",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn access to real bankrolls",
+    "snippet": "level, trust your skills, and go for the win. PASS & WIN Crush the challenge and earn access to real bankrolls. PROFIT Bet, play, and profit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAIL",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat!!!\u201d\n Got the chance to handle one of their accounts hands on, was impressed at the concept and love that I'm not lim",
+    "snippet": "h a funded account and start scaling your results today. Start Now \u2192 \u2605\u2605\u2605\u2605\u2605 \u201cGreat!!!\u201d Got the chance to handle one of their accounts hands on, was impressed at the concept and love that I'm not limited to my own funds. \u2013 Jeremiah S. \u2605\u2605\u2605\u2605\u2605 \u201cWas a beta tester\u201d Was a beta tester, definitely an amazing concept that I haven\u2019t seen executed thi",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eak it for optimal performance",
+    "snippet": "etting community so far. Excited to see where WagerFunding takes this and how they tweak it for optimal performance. \u2013 Karissa E. \u2605\u2605\u2605\u2605\u2605 \u201cReliable platform that allows\u2026\u201d Finally a reliable platform that allows me to play on my fave sports without needing to risk the bank \ud83d\ude4f\ud83c\udffb",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam gave me a lot of their time to explain everything and they even gave me a bonus",
+    "snippet": "C. \u2605\u2605\u2605\u2605\u2605 \u201c10/10 experience\u201d 10/10 experience, I had a lot of questions and the team gave me a lot of their time to explain everything and they even gave me a bonus. Looking forward to continue with them, so far so good \u2013 Anthony F. \u2605\u2605\u2605\u2605\u2605 \u201cFriendly User\u201d Friendly user, good customer service I love it \u2013 Alexandra L. \u2605\u2605\u2605\u2605\u2605",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear, the account setup is straightforward, and the approval process is fast",
+    "snippet": "moothest experiences I\u2019ve had with a funded sports betting platform. The rules are clear, the account setup is straightforward, and the approval process is fast... \u2013 Anthony C. \u2605\u2605\u2605\u2605\u2605 \u201cA Different Funding Firm\u201d I have been with WF for about a month now and have been extremely satisfied with the level of customer service give",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "Creating multiple accounts or using alternate identities, devices, payment methods, IP addresses, or any other method to bypass the promotional payout cap is strictly prohibited. Violations may result in payout denial, account termination, and permanent bans. Company Discretion We reserve the right, at our sole discretion, to classify any",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "VPN",
+    "snippet": "Multiple account ownership or control Account sharing or credential sharing Use of VPNs, proxies, emulators, remote desktops, or identity-masking tools Providing false or misleading information during registration or audits Enforcement & Consequences Violation of any of the above rules may result in one or more of the following actions, a",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@wagerfunding.com",
+    "snippet": "to 90 minutes for grading. If a pick remains unsettled after that window, contact support@wagerfunding.com for assistance. How do I purchase another challenge? Can I have multiple challenges? Yes, you can purchase multiple challenges at the same time. Each challenge oper",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "ypically processed within one to two business days. Applies to All Accounts These payout rules apply to every step account as well as Instant Funding accounts. When is my pick settled? All picks are automatically graded using our simulated odds data system. Results typically appear within 15 minutes after",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout caps based on the challenge type you complete",
+    "snippet": "Monthly Rewards Cap Monthly Rewards Cap & Payout Rules Your rewards are limited by payout caps based on the challenge type you complete. These caps define the maximum profit that can be withdrawn per payout cycle. Important: The rewards cap percentage refers to the maximum profit (as a percentage of you",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "payout cap",
+    "snippet": "percentage of the eligible profit based on your specific challenge rules, up to your payout cap. Example: If your split is 80% and your eligible payout is $50,000 , you receive $40,000 . Balance Reset After Payout After each payout, your funded account balance is",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "payout cap allows $50,000 profit",
+    "snippet": "You start with a $100,000 account. You grow it to $160,000 ($60,000 profit). Your payout cap allows $50,000 profit. You receive the payout on the eligible amount. Your account is reset to $100,000 . The remaining $10,000 profit does not carry over. Each payout cycle starts fresh.",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Maximum Payout Cap \n The maximum total payout per user from all Promotional Accounts combined is capped at $500 USD , re",
+    "snippet": "are subject to standard platform rules, plus the additional limits outlined below . Maximum Payout Cap The maximum total payout per user from all Promotional Accounts combined is capped at $500 USD , regardless of account size, number of rounds passed, or number of withdrawal requests. Anti-Circumvention Policy Creating multiple accounts ",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC, and Fair Play Policy to maintain account eligibility",
+    "snippet": "s perform successfully. All users must comply with WagerFunding\u2019s Terms of Service, KYC, and Fair Play Policy to maintain account eligibility. Am I playing on a demo account or live account? All accounts on WagerFunding are live accounts with simulated cash. You\u2019re trading on real odds data in real time,",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC Requirement \n All withdrawals require a completed KYC before payouts can be released",
+    "snippet": "opens on July 31. If you begin on June 8, your first split window opens on July 8. KYC Requirement All withdrawals require a completed KYC before payouts can be released. Notifications You will receive email and SMS notifications when your withdrawal window opens. After your request is submitted and approved, payouts are typically pro",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC checks are required and must be successfully completed upon account creation and/or before any cash out is ap",
+    "snippet": "ates must be at least 21 years of age to use the platform. Identity verification and KYC checks are required and must be successfully completed upon account creation and/or before any cash out is approved. Canada Users located in Canada must be at least 18 years of age to use the platform. Identity verification and KYC checks may be requi",
+    "url": "https://wagerfunding.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "PHASE 2 FUNDED $29 Plan Price Buy Now JOIN OUR DISCORD \u00d7 Apply for Instant Funding Fill this out and we\u2019ll get you set up. Full Name Email Phone Submit Inquiry WHAT OTHERS HAVE BEEN SAYING... Start Your Challenge Ju",
+   "url": "https://wagerfunding.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "krolls. PROFIT Bet, play, and profit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFIT SPLIT",
+   "url": "https://wagerfunding.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "eal bankrolls. PROFIT Bet, play, and profit like a pro. Perform well, scale up, CHALLENGES 2 STEP 1 STEP FUNDED $1K $2K $3K $5K $10K $25K $50K $100K PROFIT TARGET DAILY DRAWDOWN MAX DRAWDOWN MIN PICKS MIN PICKS % MAX PICK % MAX EXPOSURE % PROFI",
+   "url": "https://wagerfunding.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Gold"
+ ],
+ "coupon_codes": [
+  {
+   "code": "MONDAY15",
+   "context": "Price Buy Now JOIN OUR DISCORD Ends in 00:00:00 MONDAY ONLY SALE Use code MONDAY15 for 15 % off! Jump to Checkout \u2192 WagerFunding oper"
+  }
+ ],
+ "claims": [
+  "00x60%=3,000 If account is up 5000$ of profit you\u2019re eligible 80% on third and future withdrawals = 5000x80%=4,000 Payout Timing First withdrawal: 30 days after your first funded pi",
+  "00x60%=3,000 If account is up 5000$ of profit you\u2019re eligible 90% on third and future withdrawals = 5000x90%=4,500 Payout Timing First withdrawal: 30 days after your first funded pi",
+  "x75%=3,750 If account is up 5000$ of profit you\u2019re eligible 100% on third and future withdrawals = 5000x100%=5,000 Payout Timing First withdrawal: 30 days after your first funded pi",
+  "allenges Contact FAQs Blog COMPANY Terms & Condition Refund Policy Privacy Code Snippet ma-customfonts 3.4.2 Payout Audit & Platform Policies - Wager Funding Chall",
+  "00x60%=3,000 If account is up 5000$ of profit you\u2019re eligible 80% on third and future withdrawals = 5000x80%=4,000 Payout Timing First withdrawal: 30 days after your first funded pi",
+  "00x60%=3,000 If account is up 5000$ of profit you\u2019re eligible 90% on third and future withdrawals = 5000x90%=4,500 Payout Timing First withdrawal: 30 days after your first funded pi"
+ ],
+ "errors": []
+}

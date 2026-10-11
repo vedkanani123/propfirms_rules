@@ -1,0 +1,33 @@
+{
+ "slug": "fundedseat",
+ "name": "FundedSeat",
+ "category": "Futures",
+ "url": "https://fundedseat.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundedseat.com/",
+   "kind": "home",
+   "chars": 218
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 218,
+ "findings": {
+  "automation": [
+   {
+    "value": "eat - Trading Platform \n Discord community\n Join our Discord community to get the latest news and updates and discounts",
+    "snippet": "FundedSeat - Trading Platform Discord community Join our Discord community to get the latest news and updates and discounts. Join community Help center Do you have questions? Help center is at your service!",
+    "url": "https://fundedseat.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

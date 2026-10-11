@@ -1,0 +1,12 @@
+{
+ "slug": "citadel-securities",
+ "name": "Citadel Securities",
+ "category": "Institutional",
+ "url": "https://www.citadelsecurities.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

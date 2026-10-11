@@ -1,0 +1,800 @@
+{
+ "slug": "blue-guardian",
+ "name": "Blue Guardian",
+ "category": "Forex/CFD",
+ "url": "https://blueguardian.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://blueguardian.com/",
+   "kind": "home",
+   "chars": 19106
+  },
+  {
+   "url": "https://blueguardian.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 18094
+  },
+  {
+   "url": "https://blueguardian.com/blogs/blue-guardian-launches-four-new-futures-funding-plans-for-traders",
+   "kind": "page",
+   "chars": 25301
+  },
+  {
+   "url": "https://blueguardian.com/blogs/the-one-thing-no-one-tells-you-about-passing-a-prop-firm-challenge",
+   "kind": "page",
+   "chars": 17122
+  },
+  {
+   "url": "https://blueguardian.com/blogs/funded-account-trading-rules-2025",
+   "kind": "page",
+   "chars": 20853
+  },
+  {
+   "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+   "kind": "page",
+   "chars": 19818
+  },
+  {
+   "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+   "kind": "page",
+   "chars": 37048
+  },
+  {
+   "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+   "kind": "page",
+   "chars": 9281
+  },
+  {
+   "url": "https://blueguardian.com/blogs/propfirm-challenge-vs-instant-funding",
+   "kind": "page",
+   "chars": 22610
+  },
+  {
+   "url": "https://blueguardian.com/blogs/how-to-pass-a-prop-firm-challenge-2025",
+   "kind": "page",
+   "chars": 16036
+  },
+  {
+   "url": "https://blueguardian.com/blogs/instant-funding-or-challenge-route",
+   "kind": "page",
+   "chars": 16104
+  },
+  {
+   "url": "https://blueguardian.com/blogs/guardian-x-challenge",
+   "kind": "page",
+   "chars": 7607
+  },
+  {
+   "url": "https://blueguardian.com/blogs/blue-guardian-prop-firm-rules-explained-from-beginner-to-pro-traders-2026",
+   "kind": "page",
+   "chars": 22759
+  },
+  {
+   "url": "https://blueguardian.com/blogs/blue-guardian-instant-funding-prop-firm-rules",
+   "kind": "page",
+   "chars": 20826
+  },
+  {
+   "url": "https://help.blueguardian.com/en/",
+   "kind": "sub",
+   "chars": 702
+  },
+  {
+   "url": "https://help.blueguardian.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 2325
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 275607,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "ature Reserve Plan Evaluation One phase Account sizes $25K, $50K, $100K, $150K Profit target 6% Drawdown EOD trailing Daily loss limit None by default Optional DLL Available Consistency 40% or 50% challenge option Funded consistency None Profit split 90",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "daily loss limit. The current structure includes $25K to $150K account sizes, a 6% profit target, 90% profit split, five winning days for payout eligibility, funded scaling, and no funded consistency requirement . The current checkout also provides a choice between 40% a",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "rmined price levels where you exit profitable positions. Most prop trading firms set profit targets between 5% and 10% per challenge phase. Your goals should be arranged with these measures to keep expectations grounded in reality rather than hope. Risk-reward ratios guide targe",
+    "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "rdian is a pivotal moment in proprietary trading. Key program features include a 10% profit target, a 4% daily drawdown limit, a 6% max relative drawdown, and an 85% profit split. Traders receive payouts every 14 days, and there is no time limit, offering flexibility and op",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "ses. Take Blue Guardian's challenge models as examples: 1-Step Challenge: Hit a 10% profit target with 8% max drawdown and 4% daily limits. Straightforward and direct for confident traders who want to prove their skills quickly. 2-Step Challenge: Phase 1 requires 8% profit,",
+    "url": "https://blueguardian.com/blogs/propfirm-challenge-vs-instant-funding",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "in 7 days if you choose the payout acceleration option. Key Challenge Details A 3% profit target A 3% daily drawdown limit A maximum drawdown of 5% Up to a 90% profit split Up to 7 day payouts These simple rules are designed to help you focus on trading effectively w",
+    "url": "https://blueguardian.com/blogs/guardian-x-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "73",
+    "snippet": "d Traders Fail (And It's Not What You Think) Research reveals that exceeding maximum daily drawdown accounts for over 73% of all account breaches. Not hitting profit targets. Not violating consistency rules. Simply losing too much money in a single trading session destroys more funded accou",
+    "url": "https://blueguardian.com/blogs/funded-account-trading-rules-2025",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "gned for traders who want a funded futures account with an EOD trailing drawdown, no daily loss limit by default, and a 90% profit split after funding. Unlike some traditional futures evaluations, Reserve gives traders more flexibility around daily losses. It also provides an optional Daily",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "ay, while maximum drawdown tracks the largest drop from your highest account value. Daily loss limits cap losses at 3% to 5% of your account balance. Say a USD 100,000 account has a 5% daily limit. You cannot lose more than USD 5,000 in one day. The firm closes your account the moment yo",
+    "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "to allow multiple opportunities without sudden elimination. Stop trading after 2-3% daily loss, even when the firm permits 5%. This self-imposed circuit breaker prevents revenge trading and overtrading that follow frustrating losses. Many traders lose their morning gains by continuing to trade",
+    "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "oment in proprietary trading. Key program features include a 10% profit target, a 4% daily drawdown limit, a 6% max relative drawdown, and an 85% profit split. Traders receive payouts every 14 days, and there is no time limit, offering flexibility and opportunity for success. Blue",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "must adhere to specific trading objectives, including a maximum loss limit of 8%, a daily loss cap of 4%, and a leverage of 1:100. Traders have the freedom to trade across 28 currency pairs, gold, and silver, employing their preferred trading styles, strategies, and platfor",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "re Available? Reserve currently offers four account sizes: Account Profit Target Maximum Drawdown $25,000 6% $1,000 $50,000 6% $2,000 $100,000 6% $3,000 $150,000 6% $4,500 The profit target is 6% for each Reserve account size. Understanding the Reserve Profit Target",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "tions, and prohibited trading strategies. Most firms have daily loss limits of 3-5%, maximum drawdown caps of 8-10%, and specific rules about trading during news events or holding positions overnight. Breaking even one rule typically results in immediate disqualification. Q3. How muc",
+    "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "om $10,000 to $200,000. They must adhere to specific trading objectives, including a maximum loss limit of 8%, a daily loss cap of 4%, and a leverage of 1:100. Traders have the freedom to trade across 28 currency pairs, gold, and silver, employing their preferred trading styles,",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "n's challenge models as examples: 1-Step Challenge: Hit a 10% profit target with 8% max drawdown and 4% daily limits. Straightforward and direct for confident traders who want to prove their skills quickly. 2-Step Challenge: Phase 1 requires 8% profit, Phase 2 needs 4% pr",
+    "url": "https://blueguardian.com/blogs/propfirm-challenge-vs-instant-funding",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ion option. Key Challenge Details A 3% profit target A 3% daily drawdown limit A maximum drawdown of 5% Up to a 90% profit split Up to 7 day payouts These simple rules are designed to help you focus on trading effectively without any extra steps. Pricing Information T",
+    "url": "https://blueguardian.com/blogs/guardian-x-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "ost Popular Instant No waiting. Get funded instantly and get paid on demand. Up to 90% profit split No evaluation, ever On-demand payouts 1 Step One target. One step. The fastest way to a funded account. Up to 90% profit split Payouts in 7 days Lowest fee for a singl",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "tyle EOD drawdown Yes No Similar scaling structure No Funded consistency None 40% Plan-specific Plan-specific Profit split 90% 90% 90% 90% Main focus Flexible evaluation Traditional evaluation Faster payouts Immediate funding The exact rules vary by plan, so traders should review t",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "85",
+    "snippet": "e a 10% profit target, a 4% daily drawdown limit, a 6% max relative drawdown, and an 85% profit split. Traders receive payouts every 14 days, and there is no time limit, offering flexibility and opportunity for success. Blue Guardian's commitment is reflected in these fe",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "Accounts ranging from $10,000 to $200,000 with immediate access to live capital and 80% profit splits. Now with instant payouts for a limited time. The immediate access changes everything about your trading timeline. Day one becomes profit day one. Your first successfu",
+    "url": "https://blueguardian.com/blogs/propfirm-challenge-vs-instant-funding",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "ded trader program - payment reliability. Miss their processing window, and you keep 100% of profits instead of your normal split. Choosing Your Optimal Funding Path The decision framework comes down to matching your trader profile with the funding model that maximizes your specific advantages. I",
+    "url": "https://blueguardian.com/blogs/propfirm-challenge-vs-instant-funding",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "y rule along with the day requirement. Your profit from any single day cannot exceed 20% of total profits within a payout period. Pro accounts tighten this to 35%. Violating consistency rules prevents payout requests but doesn't terminate your account. Profit Split Structure and Payout Tim",
+    "url": "https://blueguardian.com/blogs/blue-guardian-prop-firm-rules-explained-from-beginner-to-pro-traders-2026",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "n-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss Limit Reserve Most flexible option. With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business day, p",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "L. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business day, processed in un",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "ram, what is next? Get Funded With Blue Guardian Today Get funded instantly up to $400k Keep up to 90% of the profits Get paid fast with 24hr payout guarantee Get Funded Now Prove Your Skills with a Trusted Firm We've been empowering traders for",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "750",
+    "snippet": "odel Highlights Reserve Flexible funded trading Evaluation Permanent 90/10 \u2022 Up to $750K \u2022 Every 5 winning days \u2022 No consistency rule on funded \u2022 Buy 4, Get the 5th FREE Standard Traditional evaluation Evaluation Permanent 90/10 \u2022 Up to $750K \u2022 Path to Li",
+    "url": "https://blueguardian.com/blogs/blue-guardian-launches-four-new-futures-funding-plans-for-traders",
+    "kind": "page"
+   },
+   {
+    "value": "576",
+    "snippet": "improving payout efficiency across its Futures ecosystem. The company reports that $576K+ paid to traders in one week , reflecting the scale of payouts processed during a recent period. Alongside overall payout volume, many eligible requests are approved in",
+    "url": "https://blueguardian.com/blogs/blue-guardian-launches-four-new-futures-funding-plans-for-traders",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "al Secret Traditional Brokers Are Hiding From You How Instant Funding Traders Access $200K Trading Capital in Under 24 Hours what is funded trading account how does its work? 7 proven strategies to pass prop firm challenge 2026 Prop Trading vs Retail Trading:",
+    "url": "https://blueguardian.com/blogs/funded-account-trading-rules-2025",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "Plan at a Glance Feature Reserve Plan Evaluation One phase Account sizes $25K, $50K, $100K, $150K Profit target 6% Drawdown EOD trailing Daily loss limit None by default Optional DLL Available Consistency 40% or 50% challenge option Funded co",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "t a Glance Feature Reserve Plan Evaluation One phase Account sizes $25K, $50K, $100K, $150K Profit target 6% Drawdown EOD trailing Daily loss limit None by default Optional DLL Available Consistency 40% or 50% challenge option Funded consisten",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "0",
+    "snippet": "d How it Works 4.6/5 on Prop Firm Match 4.9/5 on Google app.blueguardian.com $ 0 M+ Total Payouts 0 hour Avg. Process Time 0 K+ Active Traders $ 0 M+ Total Payouts 0 hour Avg. Process Time 0 K+ Active Traders 7 + Trading platforms Backed b",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,50",
+    "snippet": "ys, the fastest non-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss Limit Reserve Most flexible option. With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "n-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss Limit Reserve Most flexible option. With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K /",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business day,",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "L. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business day, processed in u",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,10",
+    "snippet": "$3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business day, processed in under an hour News trading allowed Direct Skip the eval. No shortcuts after. Instant f",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,65",
+    "snippet": "rove your skills. 2 Step Nano The most affordable 2-phase model. Account 400K $1,650.00 $2,200.00 Account 300K $1,284.00 $1,712.00 Account 200K $716.00 $954.00 Account 100K $467.00 $623.00 Popular Most Popular Account 50K $243.00 $324",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,20",
+    "snippet": "kills. 2 Step Nano The most affordable 2-phase model. Account 400K $1,650.00 $2,200.00 Account 300K $1,284.00 $1,712.00 Account 200K $716.00 $954.00 Account 100K $467.00 $623.00 Popular Most Popular Account 50K $243.00 $324.00 Accoun",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,28",
+    "snippet": "ost affordable 2-phase model. Account 400K $1,650.00 $2,200.00 Account 300K $1,284.00 $1,712.00 Account 200K $716.00 $954.00 Account 100K $467.00 $623.00 Popular Most Popular Account 50K $243.00 $324.00 Account 25K $156.00 $208.00",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,71",
+    "snippet": "ble 2-phase model. Account 400K $1,650.00 $2,200.00 Account 300K $1,284.00 $1,712.00 Account 200K $716.00 $954.00 Account 100K $467.00 $623.00 Popular Most Popular Account 50K $243.00 $324.00 Account 25K $156.00 $208.00 Account 10",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "716.00",
+    "snippet": "unt 400K $1,650.00 $2,200.00 Account 300K $1,284.00 $1,712.00 Account 200K $716.00 $954.00 Account 100K $467.00 $623.00 Popular Most Popular Account 50K $243.00 $324.00 Account 25K $156.00 $208.00 Account 10K $75.00 $100.00 Account",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "ss limit follows your highest balance, so profits raise the floor and lock in gains. Trailing Drawdown $6,000 The maximum number of days you have to complete this phase. Max Trading Days Indefinite Your share of the profits on a payout \u2014 the first number is the percentage",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EOD",
+    "snippet": "Reserve: $3,000 $150K Reserve: $4,500 These limits apply to the Reserve account's EOD drawdown structure. Does the Reserve Plan Have a Daily Loss Limit? No Daily Loss Limit by Default One of the main features of Reserve is that there is no daily loss limit by d",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "End-of-day",
+    "snippet": "nce. This method is nowhere near as forgiving and requires smaller position sizing. End-of-day drawdown allows you to ride out pullbacks as long as you finish the day above your max drawdown limit. Intraday trailing drawdown can fail you even while you're up in a trade, tr",
+    "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule on funded \u2022 Buy 4, Get the 5th FREE\n Standard Traditional evaluation\n Evaluation\n Permane",
+    "snippet": "unded trading Evaluation Permanent 90/10 \u2022 Up to $750K \u2022 Every 5 winning days \u2022 No consistency rule on funded \u2022 Buy 4, Get the 5th FREE Standard Traditional evaluation Evaluation Permanent 90/10 \u2022 Up to $750K \u2022 Path to Live \u2022 Buy 4, Get the 5th FREE Express Faster cash flow Evaluation Permanent 90/10 \u2022 Up to $750K \u2022 Daily payouts \u2022 Path t",
+    "url": "https://blueguardian.com/blogs/blue-guardian-launches-four-new-futures-funding-plans-for-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule on funded Reserve , allowing traders greater freedom in how they manage winning trading s",
+    "snippet": "exibility once they reach the funded stage. A standout feature of Reserve is its No consistency rule on funded Reserve , allowing traders greater freedom in how they manage winning trading sessions after successfully completing the evaluation process. Rather than requiring traders to maintain a particular consistency metric once funded, t",
+    "url": "https://blueguardian.com/blogs/blue-guardian-launches-four-new-futures-funding-plans-for-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirements, tradi\n \n 07 October 2026\n Best Instant Funding Prop Firms for Pakistani Traders 2026 Wi",
+    "snippet": "es not mean trading without restrictions. Daily drawdown limits, maximum loss rules, consistency requirements, tradi 07 October 2026 Best Instant Funding Prop Firms for Pakistani Traders 2026 With Discounts For Pakistani traders, choosing an instant funding prop firm involves more than comparing account prices or advertised profit splits.",
+    "url": "https://blueguardian.com/blogs/blue-guardian-launches-four-new-futures-funding-plans-for-traders",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules",
+    "snippet": "unts for over 73% of all account breaches. Not hitting profit targets. Not violating consistency rules. Simply losing too much money in a single trading session destroys more funded accounts than every other rule violation combined. Consider what happens during typical a",
+    "url": "https://blueguardian.com/blogs/funded-account-trading-rules-2025",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule?\n 40% or 50% Consistency Options\n The current Blue Guardian Reserve checkout provides a c",
+    "snippet": "e option can be selected when purchasing the Reserve challenge. What Is the Reserve Consistency Rule? 40% or 50% Consistency Options The current Blue Guardian Reserve checkout provides a choice between 40% and 50% consistency for the challenge. The checkout currently displays: 40% Consistency \u2014 3 Day Pass 50% Consistency \u2014 2 Day Pass This",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement applies to the challenge stage",
+    "snippet": "that fits the challenge they are purchasing. The important distinction is that the consistency requirement applies to the challenge stage . Once the trader becomes funded on Reserve, there is no consistency rule . The current Reserve documentation also confirms that funded Reserve accounts do not have a con",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "every 3 days",
+    "snippet": "7 days Easier targets, more breathing room Standard Premium caps. Fast cadence. Payouts every 3 days, the fastest non-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss Limit Reserve Most flexible option.",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Daily",
+    "snippet": "test non-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss Limit Reserve Most flexible option. With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": "drawdown limit, a 6% max relative drawdown, and an 85% profit split. Traders receive payouts every 14 days, and there is no time limit, offering flexibility and opportunity for success. Blue Guardian's commitment is reflected in these features, emphasizing trader empowerment,",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   },
+   {
+    "value": "On demand",
+    "snippet": "days 5 Consistency requirement Generally 20%; account-specific terms may differ Payout cycle On demand after eligibility requirements are met Source: Blue Guardian's official Instant Standard account rules and payout policy. Daily and Overall Drawdown Instant Standard a",
+    "url": "https://blueguardian.com/blogs/blue-guardian-instant-funding-prop-firm-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "Get Funded & Paid Once funded, access your profits with fast, reliable payouts via Rise or Crypto. Get Funded How it Works 01 Pass The Evaluation Trade on your platform and meet the objectives outlined in your dashboard with clear, structured rules. Ch",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "ded & Paid Once funded, access your profits with fast, reliable payouts via Rise or Crypto. Get Funded How it Works 01 Pass The Evaluation Trade on your platform and meet the objectives outlined in your dashboard with clear, structured rules. Choose Your",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "t cadence. Payouts every 3 days, the fastest non-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss Limit Reserve Most flexible option. With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to L",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "al Rewards \u201c \"Prop firm just gave me capital that I needed to make the money\" \u201d Tomas \ud83c\udde8\ud83c\uddff $200,000 Total Rewards \u201c \u201cWhat got me into the prop firm space was lack of my own capital\u201d \u201d Booker \ud83c\uddfa\ud83c\uddf8 $52,431 Total Rewards \u201c \u201cBlue Guardian gave me the structure and confidence to scale consistently\u201d \u201d Jonathan \ud83c\uddfa\ud83c\uddf8 $24,186 Total Rewards \u201c \u201cThe rule a",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ed strategy. Common signs include opening multiple positions faster, trading during unfavorable conditions, increasing sizes after losses, entering without clear signals, and trading outside designated timeframes. Set daily trade limits of 3-5 trades maximum to curb this behavior. Create a mandatory waiting period of 15 minutes between tr",
+    "url": "https://blueguardian.com/blogs/7-proven-strategies-to-pass-prop-firm-challenge-2026",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "your market Two markets. Sa",
+    "snippet": "able capital deployment daily. 0 /7 always live Real-time Customer Support Choose your market Two markets. Same Commitment. CFD Trade currencies, commodities, indices & more Discover Futures Trade CME listed active contracts Discover CFD Futures Trade CME listed active contra",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Show percentage The averag",
+    "snippet": "25K $156.00 $208.00 Account 10K $75.00 $100.00 Account 5K $54.00 $72.00 Show percentage The average reward funded traders have earned on this account size. Avg. Reward: $3,860.00 Save 25% with code BG25 Funded & Reward Rules The most your balance can fall in a si",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "the first number is the percentag",
+    "snippet": "lete this phase. Max Trading Days Indefinite Your share of the profits on a payout \u2014 the first number is the percentage you keep. Profit Split Up to 90% How often you can request a withdrawal of your profits. Payout Cycle Instant Payouts The maximum leverage available on your trades. Lev",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "its. Payout Cycle Instant Payouts The maximum leverag",
+    "snippet": "you keep. Profit Split Up to 90% How often you can request a withdrawal of your profits. Payout Cycle Instant Payouts The maximum leverage available on your trades. Leverage 1:30 Max Whether trading through major news releases is permitted. News Trading No Whether positions can be held open over the weeken",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e available on your trades. Leverag",
+    "snippet": "equest a withdrawal of your profits. Payout Cycle Instant Payouts The maximum leverage available on your trades. Leverage 1:30 Max Whether trading through major news releases is permitted. News Trading No Whether positions can be held open over the weekend. Weekend Holding Yes Whether auto",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Approved payouts are processed in 1 hour on averag",
+    "snippet": "Get Funded How it Works Why Us Why Traders Love Blue Guardian Fast Payouts Approved payouts are processed in 1 hour on average. Dedicated 24/7 Support Our expert team is always available to assist you, ensuring smooth trading at any time. Clarity in Execution Objective, simple rules des",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "No hidden rules. No unnecessa",
+    "snippet": "simple rules designed to keep you focused on performance. Absolute Transparency No hidden rules. No unnecessary restrictions. Total clarity. Institutional Trading Prime execution. tight spreads, and low slippage across all assets. Powered by major platforms Trade on MT5,",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Prime execution. tight spreads, and low slippag",
+    "snippet": "hidden rules. No unnecessary restrictions. Total clarity. Institutional Trading Prime execution. tight spreads, and low slippage across all assets. Powered by major platforms Trade on MT5, Match-Trader, NinjaTrader, TradeLocker, TradingView, Tradovate and DeepCharts Payouts Payouts Built",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries for Blue Guardian Futures , so traders based in Pakistan should not assume they can purchase or use",
+    "snippet": "lue Guardian Futures is not available in every country. Pakistan is listed among the restricted countries for Blue Guardian Futures , so traders based in Pakistan should not assume they can purchase or use Futures Direct. Country eligibility can differ between Forex/CFD and Futures products. Check the current restrictions for the specific",
+    "url": "https://blueguardian.com/blogs/blue-guardian-instant-funding-prop-firm-rules",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy Receive exclusive discounts, giveaways and news\n Email address Join Now Website \n VISA Pay Pay \u039e \u20bf \u20ae \n Blu",
+    "snippet": "t Starter Buy Now Pay Later Blogs Terms & Service Terms & Conditions Privacy Policy Refund Policy Receive exclusive discounts, giveaways and news Email address Join Now Website VISA Pay Pay \u039e \u20bf \u20ae Blue Guardian Limited - The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia Iconic Exchange FZCO - Premises NO. 001 - 3213",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Cookie settings \u00a92026 All Rights Reserved - Blue Guardian\n We value your privacy\n We use cookies to run the site,",
+    "snippet": "ary. Please read and ensure you fully understand our Risk Disclosure. Terms Privacy Refund Cookie settings \u00a92026 All Rights Reserved - Blue Guardian We value your privacy We use cookies to run the site, analyse traffic, and support our marketing. You can accept all, reject non-essential cookies, or choose which categories to allow. Manage",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy 2026-07-17T11:50:29",
+    "snippet": "://blueguardian.com/privacy-policy 2026-07-17T11:50:33.862Z https://blueguardian.com/refund-policy 2026-07-17T11:50:29.833Z https://blueguardian.com/fast-track 2026-09-21T07:41:42.246Z https://blueguardian.com/how-it-works 2026-09-28T11:41:08.268Z https://blueguardian.com/blogs/5-best-fr",
+    "url": "https://blueguardian.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refunds after your fourth payout, reducing long-term participation costs",
+    "snippet": "to scale their capital through consistent performance. Challenge fees receive full refunds after your fourth payout, reducing long-term participation costs. The firm offers both instant funding and evaluation paths, with similar trading conditions once funded. Account merging creates compounding effects where two $100,000 a",
+    "url": "https://blueguardian.com/blogs/blue-guardian-prop-firm-rules-explained-from-beginner-to-pro-traders-2026",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading allowed Direct\n Skip the eval",
+    "snippet": ", the highest in the industry Payouts every business day, processed in under an hour News trading allowed Direct Skip the eval. No shortcuts after. Instant funded, no evaluation, no demo Instant payout Consistency scales: 20% \u2192 25% \u2192 30% Standard Premium caps. Fast cadence. Payouts every 3",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading No Whether positions can be held open over the weekend",
+    "snippet": "trades. Leverage 1:30 Max Whether trading through major news releases is permitted. News Trading No Whether positions can be held open over the weekend. Weekend Holding Yes Whether automated trading systems (EAs) are permitted. Expert Advisors Yes Whether copying trades between accounts is permitted. Trade Copier Yes Wh",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading\n Allowed\n Winning days for payout\n 5\n Funded scaling\n Yes\n Maximum allocation\n Up to $750K across accounts\n",
+    "snippet": "nsistency 40% or 50% challenge option Funded consistency None Profit split 90% News trading Allowed Winning days for payout 5 Funded scaling Yes Maximum allocation Up to $750K across accounts The Reserve model is part of Blue Guardian's current Futures lineup, which also includes Standard, Express, and Direct. How Does the Blue Guardian R",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Is Allowed\n News trading is allowed on Reserve accounts during both the evaluation and funded stages",
+    "snippet": "of $500 through Rise and $100 through Crypto. What Trading Rules Apply to Reserve? News Trading Is Allowed News trading is allowed on Reserve accounts during both the evaluation and funded stages. Traders should still account for the increased volatility, slippage, and rapid price movements that can occur around major economic announcemen",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal-time Customer Support\n Choose\n your market Two markets",
+    "snippet": "tency execution corridors, and reliable capital deployment daily. 0 /7 always live Real-time Customer Support Choose your market Two markets. Same Commitment. CFD Trade currencies, commodities, indices & more Discover Futures Trade CME listed active contracts Discover CFD Futures Trade CME listed active co",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Easier targets, more breathing room \n Standard\n Premium caps",
+    "snippet": "for traders who want room to prove skills. Up to 90% profit split Payouts in 7 days Easier targets, more breathing room Standard Premium caps. Fast cadence. Payouts every 3 days, the fastest non-daily cadence in futures prop Caps scale with consistency, up to $4,500 per payout $25K size carries no Daily Loss",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earned on this account size",
+    "snippet": "ccount 5K $54.00 $72.00 Show percentage The average reward funded traders have earned on this account size. Avg. Reward: $3,860.00 Save 25% with code BG25 Funded & Reward Rules The most your balance can fall in a single trading day before the account breaches, measured f",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaches, measured from the day's starting balance",
+    "snippet": "d Rules The most your balance can fall in a single trading day before the account breaches, measured from the day's starting balance. Max Daily Loss $3,000 Your loss limit follows your highest balance, so profits raise the floor and lock in gains. Trailing Drawdown $6,000 The maximum number of days yo",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eases is permitted",
+    "snippet": "ge available on your trades. Leverage 1:30 Max Whether trading through major news releases is permitted. News Trading No Whether positions can be held open over the weekend. Weekend Holding Yes Whether automated trading systems (EAs) are permitted. Expert Advisors Yes Whet",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 7 days Lowest fee for",
+    "snippet": "One target. One step. The fastest way to a funded account. Up to 90% profit split Payouts in 7 days Lowest fee for a single-phase challenge 2 Step Two phases, your pace. Built for traders who want room to prove skills. Up to 90% profit split Payouts in 7 days Easier targets, more b",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 7 days Easier targets",
+    "snippet": "your pace. Built for traders who want room to prove skills. Up to 90% profit split Payouts in 7 days Easier targets, more breathing room Standard Premium caps. Fast cadence. Payouts every 3 days, the fastest non-daily cadence in futures prop Caps scale with consistency, up to $4,5",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instant",
+    "snippet": "keep. Profit Split Up to 90% How often you can request a withdrawal of your profits. Payout Cycle Instant Payouts The maximum leverage available on your trades. Leverage 1:30 Max Whether trading through major news releases is permitted. News Trading No Whether positions can",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 1 hour on average",
+    "snippet": "Crypto. Get Funded How it Works Why Us Why Traders Love Blue Guardian Fast Payouts Approved payouts are processed in 1 hour on average. Dedicated 24/7 Support Our expert team is always available to assist you, ensuring smooth trading at any time. Clarity in Execution Objective, simple rules desi",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 business hours",
+    "snippet": "cable eligibility requirements are met. Blue Guardian currently states that Reserve payouts are processed within 24 business hours . Available withdrawal methods include Rise and Crypto , with minimum withdrawal amounts of $500 through Rise and $100 through Crypto. What Trading Rules Apply to Reserv",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "profits. Payout Cycle Instant Payouts The maximum leverage available on your trades. Leverage 1:30 Max Whether trading through major news releases is permitted. News Trading No Whether positions can be held open over the weekend. Weekend Holding Yes Whether automated",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:100",
+    "snippet": "ding objectives, including a maximum loss limit of 8%, a daily loss cap of 4%, and a leverage of 1:100. Traders have the freedom to trade across 28 currency pairs, gold, and silver, employing their preferred trading styles, strategies, and platforms.",
+    "url": "https://blueguardian.com/blogs/rapid-guardian-one-step-challenge-for-aspiring-traders",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "payout caps: $1K / $2K / $2",
+    "snippet": "xible option. With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flow on tap. $1,100 daily cap, the highest in the industry Payouts every business day, proces",
+    "url": "https://blueguardian.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Cap\n $25K\n $100\n $500\n $1,000\n $50K\n $150\n $750\n $2,000\n $100K\n $200\n $1,000\n $2,500\n $150K\n $250\n $1,250\n $3,000",
+    "snippet": "ce the previous approved payout. Account Winning-Day Minimum Net Profit Required Payout Cap $25K $100 $500 $1,000 $50K $150 $750 $2,000 $100K $200 $1,000 $2,500 $150K $250 $1,250 $3,000 Reserve accounts purchased before July 27, 2026 retain their original payout rules for the life of the account. What Does Net Profit Mean? Net profit cons",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "payout caps, and funded scaling rules",
+    "snippet": "erstand are the EOD drawdown, selected consistency option, winning-day requirements, payout caps, and funded scaling rules. Explore the Blue Guardian Futures plans Frequently Asked Questions What is the Blue Guardian Futures Reserve Plan? The Reserve Plan is a one-phase Futures evaluation",
+    "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan",
+    "kind": "page"
+   },
+   {
+    "value": "Maximum payout\n $250\n Number of payouts\n One, before permanent account closure\n Source: Blue Guardian's official Instant",
+    "snippet": "r rules Profit split Fixed 90% Minimum profitable days 5 Consistency rule 15% Maximum payout $250 Number of payouts One, before permanent account closure Source: Blue Guardian's official Instant Starter rules. Confirm the current terms before purchasing. Daily Drawdown The maximum daily drawdown is 3% of the account's initial balance. The",
+    "url": "https://blueguardian.com/blogs/blue-guardian-instant-funding-prop-firm-rules",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC process, you can receive your funded account within 1\u20132 business days",
+    "snippet": "o your own schedule. Quick funding - After passing the challenge and completing the KYC process, you can receive your funded account within 1\u20132 business days. Early payouts available - Payouts start 14 days after your first trade, or in 7 days if you choose the payout acceleration option. Key Challenge Details A 3% profit",
+    "url": "https://blueguardian.com/blogs/guardian-x-challenge",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee",
+    "snippet": "first payout after just 3 days of trading with a soft breach daily loss limit and no activation fee. Futures accounts cap at $450,000 total allocation. Consistency Score Calculations The consistency formula divides your highest net profit day by total account profit.",
+    "url": "https://blueguardian.com/blogs/blue-guardian-prop-firm-rules-explained-from-beginner-to-pro-traders-2026",
+    "kind": "page"
+   },
+   {
+    "value": "activation fees under the published account introduction",
+    "snippet": "accounts as one-time purchases, without monthly or recurring renewal fees or hidden activation fees under the published account introduction. Identity verification is required for payouts. Traders should review the purchase page carefully to confirm the account size, platform, current price, and rules attach",
+    "url": "https://blueguardian.com/blogs/blue-guardian-instant-funding-prop-firm-rules",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Blue Guardian | Best Instant Funding Prop Firm - Fast Funded Accounts 25% OFF all accounts | CFDs & Futures Code: BG25 25% OFF all accounts | CFDs & Futures Code: BG25 Markets How It Works A",
+   "url": "https://blueguardian.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ded instantly and get paid on demand. Up to 90% profit split No evaluation, ever On-demand payouts 1 Step One target. One step. The fastest way to a funded account. Up to 90% profit split Payouts in 7 days Lowest fee for a single-phase challenge 2 Step Two phase",
+   "url": "https://blueguardian.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "a funded account. Up to 90% profit split Payouts in 7 days Lowest fee for a single-phase challenge 2 Step Two phases, your pace. Built for traders who want room to prove skills. Up to 90% profit split Payouts in 7 days Easier targets, more breathing room Standa",
+   "url": "https://blueguardian.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "ding accounts - 1% threshold activation for maximum protection Challenge accounts (1-Step, 2-Step, 3-Step) - 2% threshold allowing strategic flexibility Guardian X accounts - 1% threshold for limited-time programs Consequences are designed to encourage learning w",
+   "url": "https://blueguardian.com/blogs/funded-account-trading-rules-2025"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "utures Company About How It Works Payout FAQs Brand Kit Growth Affiliates Instant Starter Buy Now Pay Later Blogs Terms & Service Terms & Conditions Privacy Policy Refund Policy Receive exclusive discounts, giveaways and news Email address Join Now Website VISA P",
+   "url": "https://blueguardian.com/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "Blue Guardian Futures Reserve Plan is a one-phase evaluation designed for traders who want a funded futures account with an EOD trailing drawdown, no daily loss limit by default, and a 90% profit split after funding. Unlike some traditional futures evaluations, Reserve give",
+   "url": "https://blueguardian.com/blogs/blue-guardian-futures-reserve-plan"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "BG25",
+   "context": "d funded traders have earned on this account size. Avg. Reward: $3,860.00 Save 25% with code BG25 Funded & Reward Rules The most your balance can fall in"
+  }
+ ],
+ "claims": [
+  "Avg. Process Time 0 K+ Active Traders 7 + Trading platforms Backed by a global network Operating across 170+ countries , providing synchronized data feeds, ultra-low latency exec",
+  ". With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flo",
+  ". With and without DLL. Choose No DLL or a lower-priced DLL option Flat payout caps: $1K / $2K / $2.5K / $3K 5 payouts moves you straight to Live Express Daily payouts. Cash flo",
+  "night. Overnight Holding Yes Instant 100K $623.00 $467.00 Bundle Discount Standard Rate Standard Rate 2 Accounts 30 % OFF Extra (Save $ 187 ) 3 Accounts 35 % OFF Extra (S",
+  "K $623.00 $467.00 Bundle Discount Standard Rate Standard Rate 2 Accounts 30 % OFF Extra (Save $ 187 ) 3 Accounts 35 % OFF Extra (Save $ 405 ) 4 Accounts 40 % OFF Extra (S",
+  "dard Rate Standard Rate 2 Accounts 30 % OFF Extra (Save $ 187 ) 3 Accounts 35 % OFF Extra (Save $ 405 ) 4 Accounts 40 % OFF Extra (Save $ 654 ) Quantity 1 Total amount $"
+ ],
+ "errors": []
+}

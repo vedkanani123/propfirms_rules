@@ -1,0 +1,481 @@
+{
+ "slug": "funded-friday",
+ "name": "Funded Friday",
+ "category": "Forex/CFD",
+ "url": "https://www.fundedfriday.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.fundedfriday.com/",
+   "kind": "home",
+   "chars": 8790
+  },
+  {
+   "url": "https://www.fundedfriday.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 103
+  },
+  {
+   "url": "https://www.fundedfriday.com/sitemap-pages.xml",
+   "kind": "sitemap",
+   "chars": 566
+  },
+  {
+   "url": "https://www.fundedfriday.com/sitemap-blog.xml",
+   "kind": "sitemap",
+   "chars": 493
+  },
+  {
+   "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+   "kind": "page",
+   "chars": 13991
+  },
+  {
+   "url": "https://www.fundedfriday.com/trading-rules",
+   "kind": "page",
+   "chars": 7014
+  },
+  {
+   "url": "https://www.fundedfriday.com/faq",
+   "kind": "page",
+   "chars": 3186
+  },
+  {
+   "url": "https://www.fundedfriday.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 10865
+  },
+  {
+   "url": "https://www.fundedfriday.com/about",
+   "kind": "page",
+   "chars": 4727
+  },
+  {
+   "url": "https://www.fundedfriday.com/contact",
+   "kind": "page",
+   "chars": 4668
+  },
+  {
+   "url": "https://www.fundedfriday.com/refund-policy",
+   "kind": "page",
+   "chars": 2855
+  }
+ ],
+ "page_count": 11,
+ "total_chars": 57268,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "lenge One Step Challenge - Hit a 10% profit target. Two Step Challenge - Hit a 10% profit target in Phase 1 and an 8% target in Phase 2. Trader-Friendly Rules - No complicated restrictions. Step 3 Funded Capital Keep up to 90% of your profits. Withdraw your earnings every Friday.",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for detailed info. Your Pa",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "Hedging 5 Weekend Trading 6 Instant Accounts We Offer Others 7 Upto 90% Profit Split 8 Bank/UPI and Crypto Payouts 9 High Leverage (Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "that actually counts. We are Featured in Pick. Trade. Profit. Get funded up to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Levera",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "p to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500)",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "$200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trai",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200,00",
+    "snippet": "llenge Trusted by Thousands. Rated #1 Prop-firm. Zero Payout Denials. Get up to $200,000 funding. Including up to $50,000 instant funding Buy Challenge Talk To Us Upto $2M in Funding Guaranteed every Friday Weekly Payout Keep 90% of your Profit",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "Rated #1 Prop-firm. Zero Payout Denials. Get up to $200,000 funding. Including up to $50,000 instant funding Buy Challenge Talk To Us Upto $2M in Funding Guaranteed every Friday Weekly Payout Keep 90% of your Profits Putting Traders Ahead in Every",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "funding. Including up to $50,000 instant funding Buy Challenge Talk To Us Upto $2M in Funding Guaranteed every Friday Weekly Payout Keep 90% of your Profits Putting Traders Ahead in Every Step Support, Payout, and Beyond. Now, FundedFriday b",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "that actually counts. We are Featured in Pick. Trade. Profit. Get funded up to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Lever",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "p to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "$200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Tra",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "ion Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for detailed info. Your Payout is",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for detailed info. Your Payout is Our Medals Loading certificates...",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "499.00",
+    "snippet": "1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for detailed info. Your Payout is Our Medals Loading certificates... We listened. We understood. We delivered what ot",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "t profit that the trader keeps after a successful withdrawal ). This means for every $1,000 in profit generated on a funded account, the trader retains up to $900. The profit split structure is designed to reward consistent performance. As traders build a tra",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "900",
+    "snippet": "s for every $1,000 in profit generated on a funded account, the trader retains up to $900. The profit split structure is designed to reward consistent performance. As traders build a track record on their funded account, the split remains highly competitive",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "ount Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for detailed info. Your Payout is Our Medals Loa",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "static",
+    "snippet": "rces a maximum drawdown limit on all funded accounts. This is calculated either as a static drawdown ( measured from the initial account balance ) or a trailing drawdown ( which moves upward as the account equity increases, locking in gains ). Traders must never allow t",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules Two rules in particular deserve close attention because they directly influence payout e",
+    "snippet": "are one of the most common causes of rule violations near payout time. Drawdown and Consistency Rules Two rules in particular deserve close attention because they directly influence payout eligibility: Drawdown rule: FundedFriday enforces a maximum drawdown limit on all funded accounts. This is calculated either as a static drawdown ( mea",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule: Many prop firms, including FundedFriday, apply a consistency requirement ( a rule that p",
+    "snippet": "ains ). Traders must never allow their account equity to fall below this threshold. Consistency rule: Many prop firms, including FundedFriday, apply a consistency requirement ( a rule that prevents any single trading day from making up too large a percentage of the trader's total profits ). This discourages high-risk, all-in behaviour and",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule violation - one trading day accounting for too large a share of total profit\n Open trades",
+    "snippet": "lude: Drawdown or daily loss limit breached at any point during the trading period Consistency rule violation - one trading day accounting for too large a share of total profit Open trades at the time of the request - all positions must be closed before a payout is processed Unverified payment details - payment account name does not match",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule\n FundedFriday Payout Guarantee Explained FundedFriday markets itself as a zero-payout den",
+    "snippet": "helps you demonstrate consistency and quickly identify any days that may trigger the consistency rule FundedFriday Payout Guarantee Explained FundedFriday markets itself as a zero-payout denial platform for traders who follow the rules. This means that any trader who meets the stated payout conditions will receive their withdrawal without",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule\n Applied\n Varies by firm\n While no two prop firms operate identically, FundedFriday's wee",
+    "snippet": "Discretionary in many firms Withdrawal methods Bank, Crypto Typically bank only Consistency rule Applied Varies by firm While no two prop firms operate identically, FundedFriday's weekly payouts and zero-denial policy place it among the more trader-friendly options currently available. Final Thoughts for Funded Traders FundedFriday's payo",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "thly cycles. Key timing details to be aware of: Payouts are processed on Fridays Withdrawal requests should be submitted before the weekly cut-off Processing time ( the period between a withdrawal request being approved and funds arriving in the trader's account ) varies depending on the payment method sel",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "6 Instant Accounts We Offer Others 7 Upto 90% Profit Split 8 Bank/UPI and Crypto Payouts 9 High Leverage (Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support 12 Multiple Trading Platfo",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "vailable? You can withdraw your profits through: \u2022 UPI (for Indian traders) \u2022 Direct bank transfer \u2022 Cryptocurrency \u2013 including Binance Pay, Bitcoin (BTC), and USDT (TRC20/BEP20/ERC20) Simply select your preferred method when submitting the request. Can I hold trades",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "\u2022 Direct bank transfer \u2022 Cryptocurrency \u2013 including Binance Pay, Bitcoin (BTC), and USDT (TRC20/BEP20/ERC20) Simply select your preferred method when submitting the request. Can I hold trades over the weekend? To protect your account from unexpected weekend",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wire transfer",
+    "snippet": "ccommodate traders across different regions: Bank transfer - Standard international wire transfer to a verified bank account Cryptocurrency - Available for eligible accounts, offering faster processing in some regions Ensure your payment details are verified and ma",
+    "url": "https://www.fundedfriday.com/blog/fundedfriday-payout-rules",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "thers left out. We Offer Others 1 Weekly Friday Payouts 2 News Trading 3 Scalping 4 Hedging 5 Weekend Trading 6 Instant Accounts We Offer Others 7 Upto 90% Profit Split 8 Bank/UPI and Crypto Payouts 9 High Leverage (Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Trusted by Thousa",
+    "snippet": "Friday Home About Us Trading Rules FAQ Blog Contact Us Login Buy Challenge Trusted by Thousands. Rated #1 Prop-firm. Zero Payout Denials. Get up to $200,000 funding. Including up to $50,000 instant funding Buy Challenge Talk To Us Upto $2M in Funding Gu",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "funding. Inc",
+    "snippet": "Trusted by Thousands. Rated #1 Prop-firm. Zero Payout Denials. Get up to $200,000 funding. Including up to $50,000 instant funding Buy Challenge Talk To Us Upto $2M in Funding Guaranteed every Friday Weekly Payout Keep 90% of your Profits Putting Tra",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "$25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "High Leverag",
+    "snippet": "We Offer Others 7 Upto 90% Profit Split 8 Bank/UPI and Crypto Payouts 9 High Leverage (Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support 12 Multiple Trading Platforms We Offer Others 1",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Multi Languag",
+    "snippet": "Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support 12 Multiple Trading Platforms We Offer Others 1 Weekly Friday Payouts 2 News Trading 3 Scalping 4 Hedging 5 Weekend Trading",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Choose Your Leag",
+    "snippet": "e Trading Platforms Get Funded in 3 Easy Steps Simple. Fast. Funded. Step 1 Choose Your League Pick an account size that fits your strategy\u2014up to $200K in funding available. Step 2 Pass the Challenge One Step Challenge - Hit a 10% profit target. Two Step C",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Real traders got Real payout See what people are sa",
+    "snippet": "upport Easy Payout. Local payment options. Multi-Asset trading made easy Real traders got Real payout See what people are saying about Funded Friday. Finally found a real prop who gave me a payout, i have dreams to become the highest payout-taking trader at fundedfriday Krish Mehta Professio",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The support team is inc",
+    "snippet": "t-taking trader at fundedfriday Krish Mehta Professional Trader Amazing platform! The support team is incredible and the payouts are lightning fast. Made my first 10k in just 2 weeks. Highly recommend! Sarah M. Professional Trader After trying almost 7 prop firms, I final",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2026-00063",
+    "snippet": "ound Floor, Rodney Bay, Gros-Islet, Saint Lucia P.O. Box 838, Castries, with company registration number. 2026-00063, provides simulated trading challenges for educational and evaluation purposes. All trading is carried out in a simulated environment and does not involve live market ex",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund-policy https://www",
+    "snippet": "okie-policy https://www.fundedfriday.com/privacy-policy https://www.fundedfriday.com/refund-policy https://www.fundedfriday.com/reward-policies https://www.fundedfriday.com/terms-and-conditions",
+    "url": "https://www.fundedfriday.com/sitemap-pages.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "refundable fee",
+    "snippet": "luation Fees To participate in certain challenges, you may be required to pay a non-refundable fee. Currency All fees are quoted and payable in USD or another designated currency. Payment Processing Payments are processed through third-party providers. By making p",
+    "url": "https://www.fundedfriday.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy\n Except as required by law, all fees paid are non-refundable",
+    "snippet": "ird-party providers. By making payment, you agree to their terms and conditions. No Refund Policy Except as required by law, all fees paid are non-refundable. Intellectual Ownership All intellectual property rights in the Services, including software, trademarks, logos, and content, are owned by FundedFriday or its licenso",
+    "url": "https://www.fundedfriday.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refundable",
+    "snippet": ", your rights under this Agreement will immediately cease. Fees already paid are non-refundable. Survival Certain provisions, such as intellectual property rights, disclaimers, limitations of liability, and dispute resolution, shall survive termination. Liabilit",
+    "url": "https://www.fundedfriday.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading \n \n 3\n Scalping \n \n 4\n Hedging \n \n 5\n Weekend Trading \n \n 6\n Instant Accounts \n \n We Offer Others 7\n Upto 9",
+    "snippet": "We delivered what others left out. We Offer Others 1 Weekly Friday Payouts 2 News Trading 3 Scalping 4 Hedging 5 Weekend Trading 6 Instant Accounts We Offer Others 7 Upto 90% Profit Split 8 Bank/UPI and Crypto Payouts 9 High Leverage (Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support 12 Mult",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading \n \n 3\n Scalping \n \n 4\n Hedging \n \n 5\n Weekend Trading \n \n 6\n Instant Accounts \n \n 7\n Upto 90% Profit Split ",
+    "snippet": "12 Multiple Trading Platforms We Offer Others 1 Weekly Friday Payouts 2 News Trading 3 Scalping 4 Hedging 5 Weekend Trading 6 Instant Accounts 7 Upto 90% Profit Split 8 Bank/UPI and Crypto Payouts 9 High Leverage (Across all the segments) 10 Forex, Crypto, Commodities Instruments 11 24/7 Multi Language Support 12 Multiple Trading Platform",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ead in Every Step Support, Payout, and Beyond",
+    "snippet": "aranteed every Friday Weekly Payout Keep 90% of your Profits Putting Traders Ahead in Every Step Support, Payout, and Beyond. Now, FundedFriday brings you a next-level prop-firm experience with care that actually counts. We are Featured in Pick. Trade. Profit. Get funded up to $200K wit",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured in\n \n Pick",
+    "snippet": "rings you a next-level prop-firm experience with care that actually counts. We are Featured in Pick. Trade. Profit. Get funded up to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Accou",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ease check Terms of Use for detailed info",
+    "snippet": "5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for detailed info. Your Payout is Our Medals Loading certificates... We listened. We understood. We delivered what others left out. We Offer Others 1 Weekly Friday Payouts 2 N",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Easy Steps\n Simple",
+    "snippet": "24/7 Multi Language Support 12 Multiple Trading Platforms Get Funded in 3 Easy Steps Simple. Fast. Funded. Step 1 Choose Your League Pick an account size that fits your strategy\u2014up to $200K in funding available. Step 2 Pass the Challenge One Step Challen",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eague\n Pick an account size that fits your\n strategy\u2014up to $200K in funding available",
+    "snippet": "tforms Get Funded in 3 Easy Steps Simple. Fast. Funded. Step 1 Choose Your League Pick an account size that fits your strategy\u2014up to $200K in funding available. Step 2 Pass the Challenge One Step Challenge - Hit a 10% profit target. Two Step Challenge - Hit a 10% profit target in Phase 1 and an 8% target in Phase 2. Trader",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:50",
+    "snippet": "$25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdown 5% ($2,500) Trailing Platform MT5 Challenge Fee $499.00 Buy the Challenge Please check Terms of Use for det",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:100",
+    "snippet": "ys, your account will be considered inactive. Leverage We provide the appropriate leverage to meet your trading needs: Forex: 1:100, Indices: 1:100, Metals: 1:100, Energies: 1:60, Crypto: 1:20. Leverage We provide the appropriate leverage to meet your trading needs: Forex: 1:100, Indices: 1:100, Me",
+    "url": "https://www.fundedfriday.com/trading-rules",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Policy Contact Us\n Email Live Chat Connect With Us \n \u00a9 2023-2025 Funded Friday",
+    "snippet": "tact Us Legal Privacy Policy Terms & Conditions Cookie Policy Reward Policies AML & KYC Policy Contact Us Email Live Chat Connect With Us \u00a9 2023-2025 Funded Friday. All rights reserved. All information provided on this site is intended solely for educational purposes related to trading on financial markets and does not serve in an",
+    "url": "https://www.fundedfriday.com/",
+    "kind": "home"
+   },
+   {
+    "value": "kyc-policy https://www",
+    "snippet": "ng-guide https://www.fundedfriday.com/trading-rules https://www.fundedfriday.com/aml-kyc-policy https://www.fundedfriday.com/cookie-policy https://www.fundedfriday.com/privacy-policy https://www.fundedfriday.com/refund-policy https://www.fundedfriday.com/reward-policies https:",
+    "url": "https://www.fundedfriday.com/sitemap-pages.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC Verification FAQ\n Quick checks",
+    "snippet": "7 Insights Payments FAQ From wallet to market\u2014smooth, fast, secure. 6 Insights KYC Verification FAQ Quick checks. Full trust. Trade without worry. 1 Insights About Funded Friday FAQ Built by traders. For traders. This is your home. 15 Insights Get funded & Start Trading Today!",
+    "url": "https://www.fundedfriday.com/faq",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ands. Rated #1 Prop-firm. Zero Payout Denials. Get up to $200,000 funding. Including up to $50,000 instant funding Buy Challenge Talk To Us Upto $2M in Funding Guaranteed every Friday Weekly Payout Keep 90% of your Profits Putting Traders Ahead in Every Step S",
+   "url": "https://www.fundedfriday.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ick. Trade. Profit. Get funded up to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing M",
+   "url": "https://www.fundedfriday.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "e. Profit. Get funded up to $200K with fast payouts and high profit splits. Instant Fund One Step Two Step $10K $25K $50K $50K Instant Fund No Evaluation Account Size $50K Profit Split 80% Leverage Upto 1:50 Max.Daily Loss 3% ($1,500) Trailing Max.Drawdo",
+   "url": "https://www.fundedfriday.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "ofit. Example: On a $5,000 account, a profitable day means making at least $5. Profit Target to Pass Phase 1 Traders must achieve a 10% profit on their initial account balance",
+  "wing all rules. Example: On a $5,000 account, a 10% profit means earning $500. Profit Target to Pass Phase 1 Traders must achieve a 10% profit on their initial account balance",
+  "ofit. Example: On a $5,000 account, a profitable day means making at least $5. Profit Target to Pass Phase 1 Traders must achieve a 10% profit on their initial account balance",
+  "wing all rules. Example: On a $5,000 account, a 10% profit means earning $500. Profit Target to Pass Phase 1 Traders must achieve a 10% profit on their initial account balance"
+ ],
+ "errors": []
+}

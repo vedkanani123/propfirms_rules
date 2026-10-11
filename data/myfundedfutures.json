@@ -1,0 +1,322 @@
+{
+ "slug": "myfundedfutures",
+ "name": "MyFundedFutures",
+ "category": "Futures",
+ "url": "https://myfundedfutures.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://myfundedfutures.com/",
+   "kind": "home",
+   "chars": 199
+  },
+  {
+   "url": "https://myfundedfutures.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 8137
+  },
+  {
+   "url": "https://myfundedfutures.com/plans/rapid-eod",
+   "kind": "page",
+   "chars": 300
+  },
+  {
+   "url": "https://myfundedfutures.com/plans/pro",
+   "kind": "page",
+   "chars": 307
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/prop-firm-plans-no-daily-loss-limit",
+   "kind": "page",
+   "chars": 427
+  },
+  {
+   "url": "https://myfundedfutures.com/plans/rapid",
+   "kind": "page",
+   "chars": 296
+  },
+  {
+   "url": "https://myfundedfutures.com/plans/builder",
+   "kind": "page",
+   "chars": 300
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/myfundedfutures-rapid-eod-plan",
+   "kind": "page",
+   "chars": 4374
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/myfundedfutures-mffu-scale-plan",
+   "kind": "page",
+   "chars": 2553
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/futures-trading-plan-beginners",
+   "kind": "page",
+   "chars": 1903
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/myfundedfutures-mffu-core-plan",
+   "kind": "page",
+   "chars": 4925
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/myfundedfutures-mffu-flex-plan",
+   "kind": "page",
+   "chars": 1525
+  },
+  {
+   "url": "https://myfundedfutures.com/challenge?id=70&coupon=CLUB",
+   "kind": "page",
+   "chars": 27
+  },
+  {
+   "url": "https://myfundedfutures.com/blog/how-funded-futures-accounts-work-and-the-best-futures-funding-programs",
+   "kind": "page",
+   "chars": 1970
+  },
+  {
+   "url": "https://help.myfundedfutures.com/en/",
+   "kind": "sub",
+   "chars": 1370
+  },
+  {
+   "url": "https://help.myfundedfutures.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 9691
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 38319,
+ "findings": {
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "Pro Plan \u2014 Up to $100K per Payout, Defined Path to Live Capital | MFFU Futures CME futures trading Perps New 24/7 perps trading Save 40% On Any Plan With Code CLUB. New to MFFU? Get 50% off yo",
+    "url": "https://myfundedfutures.com/plans/pro",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "Pro Plan \u2014 Up to $100K per Payout, Defined Path to Live Capital | MFFU Futures CME futures trading Perps New 24/7 perps trading Save 40% On Any Plan With Code CLUB. New to MFFU? Get 50% off y",
+    "url": "https://myfundedfutures.com/plans/pro",
+    "kind": "page"
+   },
+   {
+    "value": "3,00",
+    "snippet": "weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\\\"\\u003e$3,000\\u003c/span\\u003e\\u003c/span\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd style=\\\"border-color:#000000;border-width:0.5pt;overflow-wrap:break-word;overflow:hidden;padding:",
+    "url": "https://myfundedfutures.com/blog/myfundedfutures-mffu-flex-plan",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "Rapid EOD Plan \u2014 Daily Payouts, 90/10 Split | My Funded Futures Futures CME futures trading Perps New 24/7 perps trading Save 40% On Any Plan With Code CLUB. New to MFFU? Get 50% off your first eval.",
+    "url": "https://myfundedfutures.com/plans/rapid-eod",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "-for-beginner-traders 2026-01-07T06:10:00.000Z 0.8 https://myfundedfutures.com/blog/scalping-futures-trading 2025-12-01T06:41:00.000Z 0.8 https://myfundedfutures.com/blog/trade-corn-futures-cbot-beginner-guide 2025-11-13T06:04:00.000Z 0.8 https://myfundedfutures.com/blog/best-prop-firms-tradingv",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "00;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\\\"\\u003eHeavily regulated by CFTC and NFA\\u003c/span\\u003e\\u003c/span\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003c/tr\\u003e\\u003ctr style=\\\"height:38.5pt;\\\"\\u003e\\u003ctd style=\\\"overflow-wrap:break-word;overflow:hidden;padding:5pt;vertical-align:top;\\\"\\u003e\\u003cp style=\\\"",
+    "url": "https://myfundedfutures.com/blog/myfundedfutures-rapid-eod-plan",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "edfutures 2026-08-21T13:03:18Z https://help.myfundedfutures.com/en/articles/11553890-mastering-the-mffu-evaluation-your-guide-to-funded-trading 2026-03-02T14:50:10Z https://help.myfundedfutures.com/en/articles/11802636-traders-evaluation-simplified 2026-09-24T20:31:55Z https://help.myfundedfutures.com/en/articles/11802674-pro-plan-sim-fun",
+    "url": "https://help.myfundedfutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "perps trading Sa",
+    "snippet": "ier Futures Prop Firm - My Funded Futures Futures CME futures trading Perps New 24/7 perps trading Save 40% On Any Plan With Code CLUB. New to MFFU? Get 50% off your first eval. Claim 40% off",
+    "url": "https://myfundedfutures.com/",
+    "kind": "home"
+   },
+   {
+    "value": "daily-payouts-advantag",
+    "snippet": "drawdown-prop-trading 2026-07-23T22:38:00.000Z 0.9 https://myfundedfutures.com/blog/daily-payouts-advantage 2026-10-09T19:00:00.000Z 0.9 https://myfundedfutures.com/blog/announcing-my-funded-perps 2026-09-01T00:00:00.000Z 0.8 https://myfundedfutures.com/blog/prop-firm-futur",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ily-loss-limits-explained-protect-your-account-and-sa",
+    "snippet": "res-which-is-better 2025-06-11T00:00:00.000Z 0.8 https://myfundedfutures.com/blog/daily-loss-limits-explained-protect-your-account-and-sanity 2026-10-09T19:55:00.000Z 0.8 https://myfundedfutures.com/blog/a-practical-guide-to-day-trading-futures-risks-strategies-and-tools 2025-05-16T00:00:00.000Z 0.8 http",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "lifecycle-outreach-manag",
+    "snippet": "/kycaml-specialist 2026-08-16T01:49:29.000Z 0.7 https://myfundedfutures.com/careers/lifecycle-outreach-manager 2026-10-02T15:18:42.000Z 0.7 https://myfundedfutures.com/careers/qa-engineer 2026-09-04T23:32:09.000Z 0.7 https://myfundedfutures.com/careers/seo-organic-growth-spec",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "social-media-manag",
+    "snippet": "-growth-specialist 2026-07-15T01:15:33.000Z 0.7 https://myfundedfutures.com/careers/social-media-manager 2026-09-22T03:05:38.000Z 0.7 https://myfundedfutures.com/careers/technical-project-manager 2026-09-01T00:47:29.000Z 0.7",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "technical-project-manag",
+    "snippet": "cial-media-manager 2026-09-22T03:05:38.000Z 0.7 https://myfundedfutures.com/careers/technical-project-manager 2026-09-01T00:47:29.000Z 0.7",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Arial,sa",
+    "snippet": "ltr\\\"\\u003e\\u003cspan style=\\\"background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;\\\"\\u003e\\u003cspan style=\\\"font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\\\"\\u003e\\u003cs",
+    "url": "https://myfundedfutures.com/blog/myfundedfutures-rapid-eod-plan",
+    "kind": "page"
+   },
+   {
+    "value": "use the sa",
+    "snippet": "align:baseline;white-space:pre-wrap;\\\"\\u003eAll three plans \u2014 Core, Scale, and Pro \u2014 use the same evaluation structure. The difference is in payout rules and growth potential. The MFF",
+    "url": "https://myfundedfutures.com/blog/futures-trading-plan-beginners",
+    "kind": "page"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Countries Policy News Trading Policy Welcome Aboard Get Started with MyFundedFutures!\n 9 articles \n Traders E",
+    "snippet": "dedFutures Getting the Most Out of MyFundedFutures Support Navigating Your Dashboard Restricted Countries Policy News Trading Policy Welcome Aboard Get Started with MyFundedFutures! 9 articles Traders Evaluation Evaluation Rules & Parameters 9 articles Funded Accounts News Trading Policy | Sim Funded | Live Funded 6 articles MyFundedClub ",
+    "url": "https://help.myfundedfutures.com/en/",
+    "kind": "sub"
+   },
+   {
+    "value": "restricted-countries-policy 2026-09-29T17:27:48Z https://help",
+    "snippet": "-dashboard 2026-08-24T20:33:52Z https://help.myfundedfutures.com/en/articles/8229993-restricted-countries-policy 2026-09-29T17:27:48Z https://help.myfundedfutures.com/en/articles/8230009-news-trading-policy 2026-08-31T12:47:27Z https://help.myfundedfutures.com/en/articles/8230018-can-someone-else-trade-my-account 2",
+    "url": "https://help.myfundedfutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund-cancellation-policy-transparent-and-trader-first 2026-08-27T19:25:05Z https://help",
+    "snippet": "y-process 2026-08-26T01:51:14Z https://help.myfundedfutures.com/en/articles/11542523-refund-cancellation-policy-transparent-and-trader-first 2026-08-27T19:25:05Z https://help.myfundedfutures.com/en/articles/11553762-industry-leading-futures-prop-firm-start-trading-with-myfundedfutures 2026-08-21T13:03:18Z https://help.myfundedfutures.com/",
+    "url": "https://help.myfundedfutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Policy Welcome Aboard Get Started with MyFundedFutures!\n 9 articles \n Traders Evaluation\n Evaluation Rules ",
+    "snippet": "Out of MyFundedFutures Support Navigating Your Dashboard Restricted Countries Policy News Trading Policy Welcome Aboard Get Started with MyFundedFutures! 9 articles Traders Evaluation Evaluation Rules & Parameters 9 articles Funded Accounts News Trading Policy | Sim Funded | Live Funded 6 articles MyFundedClub Membership Details & Frequen",
+    "url": "https://help.myfundedfutures.com/en/",
+    "kind": "sub"
+   },
+   {
+    "value": "News Trading Policy | Sim Funded | Live Funded\n 6 articles \n MyFundedClub\n Membership Details & Frequently Asked Questio",
+    "snippet": "s Traders Evaluation Evaluation Rules & Parameters 9 articles Funded Accounts News Trading Policy | Sim Funded | Live Funded 6 articles MyFundedClub Membership Details & Frequently Asked Questions 2 articles Rapid Plans Path to Daily Payouts 9 articles Builder Plan We\u2019re rolling out a new way to get funded faster, cleaner, and with fewer ",
+    "url": "https://help.myfundedfutures.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaway 2026-10-11T15:18:35",
+    "snippet": "undedfutures.com/studio 2026-10-11T15:18:35.858Z 0.8 https://myfundedfutures.com/giveaway 2026-10-11T15:18:35.858Z 0.7 https://myfundedfutures.com/blog/myfundedfutures-rapid-eod-plan 2026-10-09T20:30:00.000Z 0.9 https://myfundedfutures.com/blog/trailing-vs-end-of-day-drawdown-",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "bot-beginner-guide 2025-11-13T06:04:00",
+    "snippet": "g 2025-12-01T06:41:00.000Z 0.8 https://myfundedfutures.com/blog/trade-corn-futures-cbot-beginner-guide 2025-11-13T06:04:00.000Z 0.8 https://myfundedfutures.com/blog/best-prop-firms-tradingview-integration 2025-11-05T04:03:00.000Z 0.8 https://myfundedfutures.com/blog/prop-firm-payouts-work",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "eatures-and-benefits 2025-11-10T05:59:00",
+    "snippet": "yfundedfutures.com/blog/prop-firms-with-tradovate-and-ninja-trader-futures-platform-features-and-benefits 2025-11-10T05:59:00.000Z 0.8 https://myfundedfutures.com/blog/futures-trading-strategies-that-work-in-2025 2025-06-16T00:00:00.000Z 0.8 https://myfundedfutures.com/blog/swing-trading-for-",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "eakdown 2025-05-14T00:00:00",
+    "snippet": "myfundedfutures.com/blog/most-popular-futures-to-trade-liquidity-margin-volatility-breakdown 2025-05-14T00:00:00.000Z 0.8 https://myfundedfutures.com/blog/the-benefits-of-trading-with-prop-firms-with-no-activation-fees 2025-11-10T05:49:00.000Z 0.8 https://myfundedfutures.com/blog",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "eal-partner 2025-04-11T00:00:00",
+    "snippet": "https://myfundedfutures.com/blog/best-futures-prop-firm-your-guide-to-finding-the-ideal-partner 2025-04-11T00:00:00.000Z 0.8 https://myfundedfutures.com/blog/how-to-successfully-pass-a-prop-firm-evaluation-and-get-funded-trading-account 2025-04-11T00:00:00.000Z 0.8 https://myfundedf",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kycaml-specialist 2026-08-16T01:49:29",
+    "snippet": "-learning-engineer 2026-09-01T19:27:13.000Z 0.7 https://myfundedfutures.com/careers/kycaml-specialist 2026-08-16T01:49:29.000Z 0.7 https://myfundedfutures.com/careers/lifecycle-outreach-manager 2026-10-02T15:18:42.000Z 0.7 https://myfundedfutures.com/careers/qa-engineer 2026-09-04T23:32:0",
+    "url": "https://myfundedfutures.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc-aml-policies 2026-08-24T20:34:43Z https://help",
+    "snippet": "olumetrica 2026-08-24T20:35:12Z https://help.myfundedfutures.com/en/articles/9717961-kyc-aml-policies 2026-08-24T20:34:43Z https://help.myfundedfutures.com/en/articles/9735811-futures-instrument-list 2026-08-24T20:34:44Z https://help.myfundedfutures.com/en/articles/9749738-ongoing-aml-monitoring 2026-08-",
+    "url": "https://help.myfundedfutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "kyc-documentation-monitoring 2026-08-24T20:34:45Z https://help",
+    "snippet": "ng 2026-08-24T20:34:45Z https://help.myfundedfutures.com/en/articles/9749750-ongoing-kyc-documentation-monitoring 2026-08-24T20:34:45Z https://help.myfundedfutures.com/en/articles/10082979-ninjatrader-login-instructions 2026-08-24T19:51:18Z https://help.myfundedfutures.com/en/articles/10083143-deepchart-login-instru",
+    "url": "https://help.myfundedfutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee\\u003c/span\\u003e\\u003c/span\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd style=\\\"border-color:#000000;borde",
+    "snippet": "weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\\\"\\u003eActivation Fee\\u003c/span\\u003e\\u003c/span\\u003e\\u003c/p\\u003e\\u003c/td\\u003e\\u003ctd style=\\\"border-color:#000000;border-width:0.5pt;overflow-wrap:break-word;overflow:hidden;padding:5pt;vertical-align:top;\\\"\\u003e\\u003cp style=\\\"line-height:1.38;margin-b",
+    "url": "https://myfundedfutures.com/blog/myfundedfutures-mffu-scale-plan",
+    "kind": "page"
+   },
+   {
+    "value": "subscription 2026-08-24T20:34:34Z https://help",
+    "snippet": "24T20:34:30Z https://help.myfundedfutures.com/en/articles/8528331-how-to-cancel-your-subscription 2026-08-24T20:34:34Z https://help.myfundedfutures.com/en/articles/8528335-overview-of-supported-platforms-at-mffu 2026-10-08T20:21:37Z https://help.myfundedfutures.com/en/articles/8528337-connecting-to-d",
+    "url": "https://help.myfundedfutures.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Futures",
+   "snippet": ";\\\" dir=\\\"ltr\\\"\\u003e\\u003cspan style=\\\"background-color:tra Challenge | MyFundedFutures How Funded Futures Accounts Work & The Best Futures Funding Programs Futures CME futures trading Perps New 24/7 perps trading Save 40% On Any Plan With Code CLUB. New to MFFU? Get 50% of",
+   "url": "https://myfundedfutures.com/blog/how-funded-futures-accounts-work-and-the-best-futures-funding-programs"
+  }
+ ],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Rithmic",
+  "Volumetrica",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Gold",
+  "Silver",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

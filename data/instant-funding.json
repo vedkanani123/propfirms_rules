@@ -1,0 +1,801 @@
+{
+ "slug": "instant-funding",
+ "name": "Instant Funding",
+ "category": "Forex/CFD",
+ "url": "https://instantfunding.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://instantfunding.com/",
+   "kind": "home",
+   "chars": 62651
+  },
+  {
+   "url": "https://instantfunding.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 510
+  },
+  {
+   "url": "https://instantfunding.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 27149
+  },
+  {
+   "url": "https://instantfunding.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 167274
+  },
+  {
+   "url": "https://instantfunding.com/if_tournament-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 72
+  },
+  {
+   "url": "https://instantfunding.com/docs-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 8960
+  },
+  {
+   "url": "https://instantfunding.com/unlimited-giveaway-faqs-and-rules-for-the-5000-challenge/",
+   "kind": "page",
+   "chars": 14224
+  },
+  {
+   "url": "https://instantfunding.com/help/90-profit-split-rules-smart-accounts-instant-funding/",
+   "kind": "page",
+   "chars": 13419
+  },
+  {
+   "url": "https://instantfunding.com/a-look-back-at-2023-exciting-plans-for-2024/",
+   "kind": "page",
+   "chars": 11926
+  },
+  {
+   "url": "https://instantfunding.com/two-phase-trading-challenges-new-lower-prices-easier-targets-instant-funding/",
+   "kind": "page",
+   "chars": 11076
+  },
+  {
+   "url": "https://instantfunding.com/trading-rules-explained-what-is-trailing-drawdown-in-prop-trading/",
+   "kind": "page",
+   "chars": 12779
+  },
+  {
+   "url": "https://instantfunding.com/trading-rules-explained-what-is-a-consistency-rule-in-prop-trading/",
+   "kind": "page",
+   "chars": 13551
+  },
+  {
+   "url": "https://instantfunding.com/help/is-the-challenge-on-a-demo-account-and-can-i-withdraw-profits-on-the-challenge/",
+   "kind": "page",
+   "chars": 12593
+  },
+  {
+   "url": "https://instantfunding.com/instant-funding-go-launch-lower-price-10-drawdown-instant-access/",
+   "kind": "page",
+   "chars": 10228
+  },
+  {
+   "url": "https://instantfunding.com/help/how-long-do-i-have-to-pass-the-challenges/",
+   "kind": "page",
+   "chars": 12468
+  },
+  {
+   "url": "https://instantfunding.com/help/how-do-i-track-the-objectivesrules/",
+   "kind": "page",
+   "chars": 12421
+  },
+  {
+   "url": "https://instantfunding.com/help/keywords-faq/",
+   "kind": "page",
+   "chars": 16257
+  },
+  {
+   "url": "https://instantfunding.com/help/payouts/",
+   "kind": "page",
+   "chars": 15286
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 422861,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "eligible, you can request payouts anytime. Learn more about On-Demand Payouts. Profit target 10% How much profit you need to make: Make 10% profit on your starting balance to complete the challenge, or 8% with the add-on Lower profit target by 2%. Example: on a",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "ofit on your starting balance to complete the challenge, or 8% with the add-on Lower profit target by 2%. Example: on a $10,000 account, you need to earn $1,000 to complete the challenge (or $800 with add-on). Daily drawdown 3% How much you can lose in a single t",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "eligible, you can request payouts anytime. Learn more about On-Demand Payouts. Profit target 7% How much profit you need to make: Make 7% profit on your starting balance to complete the challenge. Example: on a $10,000 account, you need to earn $700 to complete",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "eligible, you can request payouts anytime. Learn more about On-Demand Payouts. Profit target 8% and 5% How much profit you need to make: Achieve 8% in phase one, then 5% in phase two to complete the challenge. Example: with a $10,000 account, first make $800 in",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "%. Each Evolve account is eligible for a maximum of 5 payouts. Learn more \u2014> Profit target 6% The Evolve Challenge has a 6% profit target based on your Starting Balance. Example: On a $50,000 account, your profit target is $3,000. You must also complete 5 Mi",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "ry 7 days afterwards. Note: This 7-Day period begins from your first trade. Profit target 9% How much profit you need to make: Make 9% profit on your starting balance to complete the challenge. Example: on a $10,000 account, you need to earn $900 to complete",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "2",
+    "snippet": "at least 2% profit on your starting balance and meet the 15% consistency rule. Daily drawdown 2% How much you can lose in a single trading day: Don't let your losses exceed 2% of your balance to avoid losing your account. Example: with a $10,000 account, keep dai",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "count, you need to earn $1,000 to complete the challenge (or $800 with add-on). Daily drawdown 3% How much you can lose in a single trading day: Don't let your losses exceed 3% of your balance to avoid losing your account. Example: with a $10,000 account, keep dai",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "Example: on a $10,000 account, you need to earn $700 to complete the challenge. Daily drawdown 4% How much you can lose in a single trading day: Don't let your daily losses exceed 4% of your balance to avoid losing your account. Example: with a $10,000 account, ke",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": ": with a $10,000 account, first make $800 in phase one, then $500 in phase two. Daily drawdown 5% How much you can lose in a single trading day: Don't let your daily losses exceed 5% of your balance to avoid losing your account. Example: with a $10,000 account, ke",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "rate daily limit\u2014just stay within your Max drawdown to avoid losing your account. Max drawdown 10% How much you can lose in total: Keep your losses under 10% of your starting balance to avoid losing your account. Once you make 5% profit, the limit becomes 5% of you",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "sing your account. Example: with a $10,000 account, keep daily losses under $200. Max drawdown 4% How much you can lose in total: Keep your losses under 4% of your starting balance to avoid losing your account. Example: with $10,000 starting balance, your account",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "ng your account. Example: with a $10,000 account, keep daily losses under $300. Max drawdown 8% How much you can lose in total: Keep your losses under 8% of your starting balance to avoid losing your account. Example: with $10,000 starting balance, your account",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "ng your account. Example: with a $10,000 account, keep daily losses under $400. Max drawdown 7% How much you can lose in total: Keep your losses under 7% of your starting balance to avoid losing your account. Example: with $10,000 starting balance, your account",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "sing your account. Example: with a $10,000 account, keep daily losses under $400. Max drawdown 6% How much you can lose in total: Keep your losses under 6% of your starting balance to avoid losing your account. Example: with $10,000 starting balance, your accoun",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "20",
+    "snippet": "for 10% off, four free add-ons, and double PlusPoints BFBOOST Multi-use code for 20% off, a free 90% profit split, and double PlusPoints BF2090 30% OFF PRO & LITE Use code IF30 No minimum spend. Not valid on Evolve New clients 42% off Instant Funding, IF Micro,",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "27",
+    "snippet": "m with two unlimited-use codes. Go for FLOW to upgrade your Instant Funding account: 27% off, 90% profit split, 50% more PlusPoints back. Choose DRIVE to boost any One-Phase challenge: 20% off, 90% profit split, 10% max drawdown, 50% more PlusPoints back Claim Join now",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "your trading profits you keep: You get 80% of all profits. This can be increased to 90% with the add-on Add 10% to profit split. Example: when you make $1,000 profit\u2014you can withdraw $800, or $900 with add-on. Scaling Account size doubles each time you get 10% profit, scaling up to 1.28",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "10% profit in 3 months How much of your trading profits you keep: You start with 80% profit share, reach 10% profit in 3 months to increase it to 90%. Or get 90% instantly with the add-on Add 10% to profit split. Scaling Account size grows +25% every 90 days",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "60",
+    "snippet": "aw your profits whenever you like \u2014 the profit split improves over time: 5\u201313 days: 60% profit split 14\u201327 days: 80% profit split 28 days or later: 95% profit split All days are calendar days, counted from your first executed trade. Every payout resets the timer. Profit target 8% and 4%",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "time: 5\u201313 days: 60% profit split 14\u201327 days: 80% profit split 28 days or later: 95% profit split All days are calendar days, counted from your first executed trade. Every payout resets the timer. Profit target 8% and 4% How much profit you need to make: A",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "$10,000 \u2192 $12,500 \u2192 $15,000 \u2192 $20,000 (max). Each step = 10% profit in 90 days. Minimum trading days 3 days How many days you need to trade: Complete at least 3 trading days to pass the challenge. This can be skipped with the add-on Remove min trading days. Note: a d",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "$10,000 \u2192 $12,500 \u2192 $15,000 \u2192 $20,000 (max). Each step = 10% profit in 90 days. Minimum trading days 4 How many days you must trade: Complete at least 4 trading days. Note: a trading day counts only when you open a new trade \u2014 holding positions from previous days does",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "Scaling \u2014 There\u2019s currently no scaling for One-Phase Crypto accounts. Minimum trading days 7 days How many days you need to trade: Complete at least 7 trading days to pass the challenge. Note: a day counts as a trading day only when you open at least one new",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "r overall profit increases enough to bring the percentage back to 40% or below. Minimum trading days 5 Minimum Profitable Days of at least 0.25% Evolve requires 5 Minimum Profitable Days. For a trading day to qualify, you must generate at least 0.25% profit based on y",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "10-day minimum trading rule (instead of three). Why does the challenge mention \u201c10 minimum trading days\u201d? You must log at least 10 separate trading days before you can pass. This levels the playing field for traders who join later and encourages consistent performance. How long do I have to pass th",
+    "url": "https://instantfunding.com/unlimited-giveaway-faqs-and-rules-for-the-5000-challenge/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "available on MT5, Match-Trader or cTrader. 40% off every IF Micro Lite account up to $25K. Use code LITE40 at checkout. Trustpilot Start trading IF MICRO LITE 40% OFF ON ACCOUNT SIZES UPTO $25K USE CODE LITE40",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5,00",
+    "snippet": "urchased from us before, as it will result in your account being voided. 5,000 free $5,000 IF Micro accounts for the first 5,000 new customers who make a purchase of $150 (after discount) or more in November. Accounts will be sent via email code on Jan 15, li",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "ee $5,000 IF Micro accounts for the first 5,000 new customers who make a purchase of $150 (after discount) or more in November. Accounts will be sent via email code on Jan 15, limited to one account per trader All customers 37% off Instant Funding and IF",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "per trader All customers 37% off Instant Funding and IF Micro accounts + a free $2,000 IF1 account when you use code BF1 and spend $100 (after discount) or more in one purchase. Accounts will be sent via email code on Dec 15, limited to one account per tr",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ng and IF Micro accounts + a free $2,000 IF1 account when you use code BF1 and spend $100 (after discount) or more in one purchase. Accounts will be sent via email code on Dec 15, limited to one account per trader 20% off any product + a free account identic",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "Introducing IF Micro Lite. Funded from day one. Five sizes from $5,000 to $50,000. 80% trader rewards, available on MT5, Match-Trader or cTrader. 40% off every IF Micro Lite account up to $25K. Use code LITE40 at checkout. Trustpil",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "available on MT5, Match-Trader or cTrader. 40% off every IF Micro Lite account up to $25K. Use code LITE40 at checkout. Trustpilot Start trading IF MICRO LITE 40% OFF ON ACCOUNT SIZES UPTO $25K USE CODE LITE40",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,84",
+    "snippet": "your journey Grow your trading account, request more payouts, and manage up to $3,840,000 across multiple scaled accounts while keeping up to 90% of the profits Standard Futures Style Evolve Crypto Bitcoin ignites cry",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1.28",
+    "snippet": "who want maximum breathing room for their strategy and a clear path to scaling up to $1.28M. No evaluation No consistency rules No daily drawdown Scaling up to $1.28M Platform Only MT5 is available for ZAR accounts MetaTrader 5 cTrader",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "625",
+    "snippet": "er Works in Account type Commission-free RAW Spreads Account size $625 $1,250 $2,000 $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $400,000 $800,000 $25,000 $50,000 $100,000 $120,000 $200,000 $300,000 $1,000,000",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "rks in Account type Commission-free RAW Spreads Account size $625 $1,250 $2,000 $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $400,000 $800,000 $25,000 $50,000 $100,000 $120,000 $200,000 $300,000 $1,000,000 $1,600,",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "ount type Commission-free RAW Spreads Account size $625 $1,250 $2,000 $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $400,000 $800,000 $25,000 $50,000 $100,000 $120,000 $200,000 $300,000 $1,000,000 $1,600,000 $2,000,000",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "mission-free RAW Spreads Account size $625 $1,250 $2,000 $2,500 $5,000 $10,000 $20,000 $40,000 $80,000 $160,000 $400,000 $800,000 $25,000 $50,000 $100,000 $120,000 $200,000 $300,000 $1,000,000 $1,600,000 $2,000,000 $4,000,000",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "Drawdown is at 1.5%, you can read more here. Max drawdown 6% Your maximum trailing loss is limited to 6% of your starting balance. Example: with $10,000 starting balance, your Maximum Trailing Drawdown is at $9,400. If you then make Profit on your account",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules No daily drawdown Scaling up to $1",
+    "snippet": "room for their strategy and a clear path to scaling up to $1.28M. No evaluation No consistency rules No daily drawdown Scaling up to $1.28M Platform Only MT5 is available for ZAR accounts MetaTrader 5 cTrader Match-Trader Works in Account type Commission-free RAW Sprea",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "you first need to reach at least 2% profit on your starting balance and meet the 15% consistency rule. Daily drawdown 2% How much you can lose in a single trading day: Don't let your losses exceed 2% of your balance to avoid losing your account. Example: with a",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule during both the Challenge and Funded stages",
+    "snippet": "ximum Withdrawal rules. Consistency 40% Best Day Evolve uses a 40% Best Day Consistency Rule during both the Challenge and Funded stages. Your single most profitable trading day must not account for more than 40% of your total profit. If your Best Day represents more than 40% of your total profit, you m",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule Explained | Best-Day Rule in Prop Trading \n \n \n \n \n \n \n \n \n Skip to content \n \n \n Final h",
+    "snippet": "Consistency Rule Explained | Best-Day Rule in Prop Trading Skip to content Final hours to build momentum in your trading Enjoy three amazing offers this Black Friday season Final hours to build momentum in your trading Single-use code for",
+    "url": "https://instantfunding.com/trading-rules-explained-what-is-a-consistency-rule-in-prop-trading/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule in Prop Trading? \n \n Posted on July 29, 2026 \n \n \n \n \n If you have been researching prop",
+    "snippet": "Join now Instant Funding Blog Trading Rules Explained: What Is a Consistency Rule in Prop Trading? Posted on July 29, 2026 If you have been researching prop firms, you have probably come across the term consistency rule or best-day rule . It may sound complicated, but the idea is simple. A consistency rule measures how much",
+    "url": "https://instantfunding.com/trading-rules-explained-what-is-a-consistency-rule-in-prop-trading/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule or best-day rule",
+    "snippet": "If you have been researching prop firms, you have probably come across the term consistency rule or best-day rule . It may sound complicated, but the idea is simple. A consistency rule measures how much of your total profit was generated on your most profitable trading day. Depend",
+    "url": "https://instantfunding.com/trading-rules-explained-what-is-a-consistency-rule-in-prop-trading/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "No hidden rules. No last-minute breaches. Prop Trading without the fine print. Payouts 14 days after your first trade and weekly after that When you can withdraw your profits: First payout available 14 days after your first trade. After the first payout, you can withdraw every 7 days after pla",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 7 days",
+    "snippet": "our profits: First payout available 14 days after your first trade. After the first payout, you can withdraw every 7 days after placing a new trade. Example: start trading on January 1st, first withdrawal available on January 15th. After making a trade on January 16th, the next withdrawal",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "anytime",
+    "snippet": "uts On-demand When you can withdraw your profits: Once eligible, you can request payouts anytime. Learn more about On-Demand Payouts. Profit target 10% How much profit you need to make: Make 10% profit on your starting balance to complete the challenge, or",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 5 days",
+    "snippet": "s only . Standard leverage will be restored once market conditions stabilize. Payouts As often as every 5 days Withdraw your profits whenever you like \u2014 the profit split improves over time: 5\u201313 days: 60% profit split 14\u201327 days: 80% profit split 28 days or later: 95% profi",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Every 14 days",
+    "snippet": "only . Standard leverage will be restored once market conditions stabilize. Payouts Every 14 days When you can withdraw your profits: Profit withdrawals are available every 14 days, starting from your first trade, provided all withdrawal conditions are met. P",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "bank transfer",
+    "snippet": "ed profits into real cash. Request your first payout and receive it within hours via bank transfer or crypto Continue your journey Grow your trading account, request more payouts, and manage up to $3,840,000 across multiple scaled accounts while keepi",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "eal cash. Request your first payout and receive it within hours via bank transfer or crypto Continue your journey Grow your trading account, request more payouts, and manage up to $3,840,000 across multiple scaled accounts while keeping up to 9",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "er who complies with our rules receives their payout via direct crypto transfer or a Rise-powered bank transfer. Withdrawals start at $25 and are processed within 48 business hours, with many payouts received on the same day as the request. Verify on-cha",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "RISE withdrawals and direct crypto withdrawals. Crypto withdrawals are processed in USDC (ERC-20) and are typically faster, with less KYC required. 3 How to Request a Withdrawal For Instant Funding Pro, Instant Funding Clarity and Instant Funding Lite",
+    "url": "https://instantfunding.com/help/payouts/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "r trading account, request more payouts, and manage up to $3,840,000 across multiple scaled accounts while keeping up to 90% of the profits Standard Futures Style Evolve Crypto Bitcoin ignites crypto summer. Ride Volatility. Trade Crypto. Trade Instant. Instant provides quality crypto pairs. Great spreads, plenty of liquidity.",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "stantfunding.com/wp-content/uploads/2026/04/Frame-18.webp https://instantfunding.com/massive-gold-options-bet-why-traders-are-targeting-15000/ 2026-04-02T11:47:54+00:00 https://instantfunding.com/wp-content/uploads/2026/04/Frame-2131330515.webp https://instantfunding.com/adjusted-trading-hours-notice-hk50-market-closures/ 2026-04-02T11:49",
+    "url": "https://instantfunding.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "com/wp-content/uploads/2024/06/testimonial-stars.svg https://instantfunding.com/nl/eenfasige-uitdaging/ 2025-06-26T11:19:03+00:00 https://instantfunding.com/wp-content/uploads/2024/10/bnr-stars-updated.svg https://instantfunding.com/wp-content/uploads/2024/06/bloomberg-vector.svg https://instantfunding.com/wp-content/upl",
+    "url": "https://instantfunding.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "ent/uploads/2024/06/testimonial-stars.svg https://instantfunding.com/pt/desafio-monofasico/ 2025-06-26T11:59:56+00:00 https://instantfunding.com/wp-content/uploads/2024/10/bnr-stars-updated.svg https://instantfunding.com/wp-content/uploads/2024/06/bloomberg-vector.svg https://instantfunding.com/wp-content/upl",
+    "url": "https://instantfunding.com/page-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "r. Accounts will be sent via email code on Jan 15, limited",
+    "snippet": "t 5,000 new customers who make a purchase of $150 (after discount) or more in November. Accounts will be sent via email code on Jan 15, limited to one account per trader All customers 37% off Instant Funding and IF Micro accounts + a free $2,000 IF1 account when you use code BF1 and spend $100 (after discoun",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e. Accounts will be sent via email code on Dec 15, limited",
+    "snippet": "account when you use code BF1 and spend $100 (after discount) or more in one purchase. Accounts will be sent via email code on Dec 15, limited to one account per trader 20% off any product + a free account identical to the one you bought after payout with code BFBOGO. Limited to one free account per trader 10",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "the one you bought after payout with code BFBOGO. Limited",
+    "snippet": "limited to one account per trader 20% off any product + a free account identical to the one you bought after payout with code BFBOGO. Limited to one free account per trader 100% more PlusPoints with every purchase Final hours to build momentum in your trading Claim We ship product upda",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "your trading account, request more payouts, and manag",
+    "snippet": "within hours via bank transfer or crypto Continue your journey Grow your trading account, request more payouts, and manage up to $3,840,000 across multiple scaled accounts while keeping up to 90% of the profits Standard Futures Style Evolve Crypto Bitcoi",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The flag",
+    "snippet": "One Phase Clarity Two-Phase IF Evolve About Instant Funding PRO The flagship program with flexible risk limits and the highest payout chance in our lineup. Best for: traders who want maximum breathing room for their strategy and a clear path",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in PlusPoints, sa",
+    "snippet": "Upgrade with add-ons Start now for $ Complete your order, earn 10% in PlusPoints, save up to 50% next time No hidden rules. No last-minute breaches. Prop Trading without the fine print. Payouts 14 days after your first trade and weekly after t",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "of all profits. This can be inc",
+    "snippet": "00. Profit split 80% How much of your trading profits you keep: You get 80% of all profits. This can be increased to 90% with the add-on Add 10% to profit split. Example: when you make $1,000 profit\u2014you can withdraw $800, or $900 with add-on. Scaling Account size dou",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "osure unless you have the add-on Allow major news trading and weekend holding. Leverage Currencies \u2013 1:100 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply your position size. Leverage varies by asset type. Example: with",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "12696083",
+    "snippet": "a trading name of Instant Funding), a company incorporated in England and Wales with company number 12696083 and registered offices at: 30 Old Bailey, London, EC4M 7AU IF Pro Ltd, a company incorporated in Saint Lucia with company registration number: 2025-00056 and registered",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2025-00056",
+    "snippet": "ey, London, EC4M 7AU IF Pro Ltd, a company incorporated in Saint Lucia with company registration number: 2025-00056 and registered offices at: The top floor, Rodney Court Building, Rodney Bay, Gros Islet, Saint Lucia. IF Pro Ltd is an International Business Company. Acello Ltd is the",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund policy \n \n \n Corporate Disclosures: Acello Ltd (Payment Agent of IF Pro Ltd, with a trading name of Instant Fundi",
+    "snippet": "interest policy Cookie policy Treating customers fairly Cancellation and refund policy Corporate Disclosures: Acello Ltd (Payment Agent of IF Pro Ltd, with a trading name of Instant Funding), a company incorporated in England and Wales with company number 12696083 and registered offices at: 30 Old Bailey, London, EC4M 7AU IF Pro Ltd, a co",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable?\n No",
+    "snippet": "while discouraging rule-breakers and keeping the event fair. Are $2 retry accounts refundable? No. We offer these accounts as part of our Unlimited Giveaway to give traders more chances and to protect the system from cheaters. We also don\u2019t make any profit from them,",
+    "url": "https://instantfunding.com/unlimited-giveaway-faqs-and-rules-for-the-5000-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "refund policies do not apply",
+    "snippet": "ct the system from cheaters. We also don\u2019t make any profit from them, so our regular refund policies do not apply. Which trading platforms can I use? MetaTrader 5 cTrader Match-Trader (the only option for US clients) What are the account specifications? Identical to our st",
+    "url": "https://instantfunding.com/unlimited-giveaway-faqs-and-rules-for-the-5000-challenge/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading and weekend holding",
+    "snippet": "positions open during weekend market closure unless you have the add-on Allow major news trading and weekend holding. Leverage Currencies \u2013 1:100 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply your position size. Leverage varies by asset type.",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading and weekend holding\n Allowed\n \n You can trade during news events and hold weekend positions during the chal",
+    "snippet": "you must trade: No minimum number of trading days required to pass a challenge. News trading and weekend holding Allowed You can trade during news events and hold weekend positions during the challenge phase and on your funded account. Leverage Currencies \u2013 1:100 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply you",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading and weekend holding\n Available\n \n You can trade during news events and hold weekend positions during both c",
+    "snippet": "\u2014 How many days you must trade: No minimum number of trading days required. News trading and weekend holding Available You can trade during news events and hold weekend positions during both challenge phases and on your funded account. Leverage Currencies \u2013 1:100 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply you",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading and weekend holding\n Allowed\n \n You can trade during news events and hold positions through the weekend wit",
+    "snippet": "y when you open a new trade\u2014holding positions from previous days doesn't count. News trading and weekend holding Allowed You can trade during news events and hold positions through the weekend with no restrictions. Leverage Currencies \u2013 1:100 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply your position size. Leve",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eason\n Final hours to\nbuild momentum\nin your trading\n \n \n Single-use code for 30% off now, 20% off on Jan 15, and double",
+    "snippet": "build momentum in your trading Enjoy three amazing offers this Black Friday season Final hours to build momentum in your trading Single-use code for 30% off now, 20% off on Jan 15, and double PlusPoints OURBEST Multi-use code for 10% off, four free add-ons, and double PlusPoints BFBOOST Multi-use code for 20% off, a free 90% profit split,",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ease don\u2019t use this code if you\u2019ve purchased from us before, as it will result in your account being voided",
+    "snippet": "2% off Instant Funding, IF Micro, and IF1 for new customers only with code BFNEW . Please don\u2019t use this code if you\u2019ve purchased from us before, as it will result in your account being voided. 5,000 free $5,000 IF Micro accounts for the first 5,000 new customers who make a purchase of $150 (after discount) or more in November. Accounts w",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading IF account if you want the highest chance of\u00a0getting a payout across our programs",
+    "snippet": "Works How it Works 1 2 3 4 Choose a program Select our industry-leading IF account if you want the highest chance of getting a payout across our programs. If you\u2019re an experienced trader aiming for larger rewards, opt for one of our challenges Start trading Trade virtual funds in a simulated trading enviro",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal market conditions",
+    "snippet": "Start trading Trade virtual funds in a simulated trading environment under real market conditions. Reach profit targets while following our trading rules designed to promote sustainable trading. Instant Funding accounts have no profit targets \u2013 just lock in your Smar",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each profit targets while following our trading rules designed to promote sustainable trading",
+    "snippet": "rade virtual funds in a simulated trading environment under real market conditions. Reach profit targets while following our trading rules designed to promote sustainable trading. Instant Funding accounts have no profit targets \u2013 just lock in your Smart Drawdown to advance Get your first payout Once you achieve your targets, conve",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@instantfunding.com",
+    "snippet": "Support Live chat 24/7 Crypto prices & market data support@instantfunding.com Crypto prices & market data Hypothetical/simulated environment disclosure. All trading activiti",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 2026 \n \n $5,721,984",
+    "snippet": "Proven Payout Record $21,406,106+ Paid out to traders since 2023 Payouts in 2026 $5,721,984 Payouts in 2025 $8,494,122 Payouts in 2024 $6,031,799 Payouts in 2023 $2,160,879 We promise a transparent process: every successful",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 2025 \n \n $8,494,122",
+    "snippet": "06+ Paid out to traders since 2023 Payouts in 2026 $5,721,984 Payouts in 2025 $8,494,122 Payouts in 2024 $6,031,799 Payouts in 2023 $2,160,879 We promise a transparent process: every successful trader who complies with our rules re",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 2024\n \n \n $6,031,799",
+    "snippet": "3 Payouts in 2026 $5,721,984 Payouts in 2025 $8,494,122 Payouts in 2024 $6,031,799 Payouts in 2023 $2,160,879 We promise a transparent process: every successful trader who complies with our rules receives their payout via direct crypto",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 2023 \n \n $2,160,879",
+    "snippet": "Payouts in 2025 $8,494,122 Payouts in 2024 $6,031,799 Payouts in 2023 $2,160,879 We promise a transparent process: every successful trader who complies with our rules receives their payout via direct crypto transfer or a Rise-powered bank transfe",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 business hours, wit",
+    "snippet": "es receives their payout via direct crypto transfer or a Rise-powered bank transfer. Withdrawals start at $25 and are processed within 48 business hours, with many payouts received on the same day as the request. Verify on-chain payouts Tronscan Arbiscan Etherscan Paid out to traders since 2023",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "osure unless you have the add-on Allow major news trading and weekend holding. Leverage Currencies \u2013 1:100 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply your position size. Leverage varies by asset type. Example: with 1:100 leverage on cur",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:50",
+    "snippet": "utes before or after a high-impact news event. Weekend holding is not allowed. Leverage Currencies \u2013 1:50 Metals \u2013 1:15 Indices \u2013 1:15 Commodities \u2013 1:10 Crypto \u2013 1:2 How much you can multiply your position size. Leverage varies by asset type. Example: with 1:50 l",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:5",
+    "snippet": "hold weekend positions during both challenge phases and on your funded account. Leverage Across BTC and ETH \u2014 1:5 Across other Crypto \u2014 1:2 How much you can multiply your position size. Leverage varies by asset type. Example: with 1:50 leverage on currencies, you can trade po",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:30",
+    "snippet": "uring news events and hold positions through the weekend with no restrictions. Leverage Currencies \u2013 1:30 Commodities \u2013 1:20 Indices \u2013 1:20 Crypto \u2013 1:2 How much you can multiply your position size. Leverage varies by asset type. Example: with 1:30 leverage on currenci",
+    "url": "https://instantfunding.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Profit Cap? \n Instruments & Rules\n \n What\u2019s The Leverage? How Daily Loss is calculated? Am I able to take hedging positi",
+    "snippet": "r review? How do On-Demand Payouts work? What are Minimum Profitable Days? What is a Profit Cap? Instruments & Rules What\u2019s The Leverage? How Daily Loss is calculated? Am I able to take hedging positions? Do we allow Martingale? Is News Trading allowed? Instrument commissions Major News Events Are there any prohibited trading practices? M",
+    "url": "https://instantfunding.com/help/90-profit-split-rules-smart-accounts-instant-funding/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc/ 2026-09-30T12:14:36+00:00 https://instantfunding",
+    "snippet": "ch-trader/ 2026-09-30T12:14:33+00:00 https://instantfunding.com/help/identity-checks-kyc/ 2026-09-30T12:14:36+00:00 https://instantfunding.com/help/if-micro-clarity/ 2026-09-30T12:14:38+00:00 https://instantfunding.com/help/if-micro-crypto/ 2026-09-30T12:14:41+00:00 https://instantfunding.com/help/if-micro-",
+    "url": "https://instantfunding.com/docs-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kyc/ 2026-09-30T12:15:57+00:00 https://instantfunding",
+    "snippet": "0T12:15:53+00:00 https://instantfunding.com/help/sumsub-verification-how-to-complete-kyc/ 2026-09-30T12:15:57+00:00 https://instantfunding.com/help/trailing-drawdown/ 2026-09-30T12:16:00+00:00 https://instantfunding.com/help/two-phase-max/ 2026-09-30T12:16:03+00:00 https://instantfunding.com/help/two-phase-",
+    "url": "https://instantfunding.com/docs-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC\n \n Account verification process (KYC) Signing the Instant Funding Agreement Verification process: getting you",
+    "snippet": "der: How to manage positions? Match-Trader: How to switch accounts? Verification & KYC Account verification process (KYC) Signing the Instant Funding Agreement Verification process: getting yourself verified SumSub verification (how to complete KYC) Why some crypto transactions need verification? Account management & Growth How do I scale",
+    "url": "https://instantfunding.com/help/90-profit-split-rules-smart-accounts-instant-funding/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fees? Key Terms Explained Who can I contact for support? \n Withdrawals & Payouts\n \n Do I need to pay taxes on my",
+    "snippet": "ategory Getting started Are traders executed on live markets? Do we have any monthly fees? Key Terms Explained Who can I contact for support? Withdrawals & Payouts Do I need to pay taxes on my earnings? Are payouts secure and transparent? How can I withdraw profits? Where can I leave a customer review? How do On-Demand Payouts work? What ",
+    "url": "https://instantfunding.com/help/90-profit-split-rules-smart-accounts-instant-funding/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Instant Funding: The No-Evaluation Prop Firm Skip to content Final hours to build momentum in your trading Enjoy three amazing offers this Black",
+   "url": "https://instantfunding.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "unded Trader Programs and Accounts International Business Magazine, UK 2024 Best One-Step Trading Accounts Provider Global Brands Magazine, 2023 Fastest Growing Firm Global Brands Magazine, 2023 Best Prop Tra",
+   "url": "https://instantfunding.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "s, you can request any time from your dashboard. Profit target 10% & 5% Two-Phase ZAR is a two-step evaluation, You need to reach 10% of your starting balance in Phase 1 to advance to Phase 2, then 5% of your starting balance in Phase 2 to move to a funded ac",
+   "url": "https://instantfunding.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "lready have the card), we\u2019ll send you a second email confirming that you\u2019ve definitely secured your free challenge. Please note that, due to unprecedented demand from traders worldwide, there may be a delay of 1\u201315 hours between this confirmation email and the email conta",
+   "url": "https://instantfunding.com/"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "000 profit \u2014 you can withdraw $800. Scaling \u2014 There\u2019s currently no scaling for One-Phase Crypto accounts. Minimum trading days 7 days How many days you need to trade: Complete at least 7 trading days to pass the challenge. Note: a day counts as a tradi",
+   "url": "https://instantfunding.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [
+  {
+   "code": "IF30",
+   "context": "free 90% profit split, and double PlusPoints BF2090 30% OFF PRO & LITE Use code IF30 No minimum spend. Not valid on Evolve New clients 42"
+  },
+  {
+   "code": "BFNEW",
+   "context": "e New clients 42% off Instant Funding, IF Micro, and IF1 for new customers only with code BFNEW . Please don\u2019t use this code if you\u2019ve purchased from us be"
+  },
+  {
+   "code": "BFBOGO",
+   "context": "r 20% off any product + a free account identical to the one you bought after payout with code BFBOGO. Limited to one free account per trader 100% more PlusPoin"
+  },
+  {
+   "code": "LITE40",
+   "context": "able on MT5, Match-Trader or cTrader. 40% off every IF Micro Lite account up to $25K. Use code LITE40 at checkout. Trustpilot Star"
+  }
+ ],
+ "claims": [
+  "$25K USE CODE LITE40 User Score 4.5 Est. 2021 in the UK 85,000+ traders 180+ countries supported 8 industry a",
+  "User Score 4.5 Est. 2021 in the UK 85,000+ traders 180+ countries supported 8 industry awards",
+  "ries supported 8 industry awards Est. 2021 in the UK 85,000+ traders 180+ countries supported 8 industry a",
+  "industry awards Est. 2021 in the UK 85,000+ traders 180+ countries supported 8 industry awards",
+  "ill be restored once market conditions stabilize. Payouts After your 24-hour trading window closes IF1 accounts are live for 24 hours from your first trade. You can reques",
+  "ou get 90% of all profits. Example: when you make $1,000 profit \u2014 you can withdraw $900. Scaling \u2013 IF1 accounts close 24 hours after the first trade and don\u2019t scale."
+ ],
+ "errors": []
+}

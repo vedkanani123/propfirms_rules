@@ -1,0 +1,12 @@
+{
+ "slug": "prop-account",
+ "name": "Prop Account",
+ "category": "Specialist",
+ "url": "https://propaccount.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

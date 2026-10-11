@@ -1,0 +1,747 @@
+{
+ "slug": "finotive-funding",
+ "name": "Finotive Funding",
+ "category": "Forex/CFD",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://finotivefunding.com/",
+  "evidence": "name+8 prop-firm signals on homepage",
+  "tried": [
+   "https://finotivefunding.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://finotivefunding.com/",
+   "kind": "home",
+   "chars": 22650
+  },
+  {
+   "url": "https://finotivefunding.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 3577
+  },
+  {
+   "url": "https://finotivefunding.com/challenge",
+   "kind": "page",
+   "chars": 11467
+  },
+  {
+   "url": "https://finotivefunding.com/es/challenge",
+   "kind": "page",
+   "chars": 12562
+  },
+  {
+   "url": "https://finotivefunding.com/ar/challenge",
+   "kind": "page",
+   "chars": 11039
+  },
+  {
+   "url": "https://finotivefunding.com/ar/rules",
+   "kind": "page",
+   "chars": 33377
+  },
+  {
+   "url": "https://finotivefunding.com/rules",
+   "kind": "page",
+   "chars": 32157
+  },
+  {
+   "url": "https://finotivefunding.com/es/rules",
+   "kind": "page",
+   "chars": 36896
+  },
+  {
+   "url": "https://finotivefunding.com/ar/terms-and-conditions",
+   "kind": "page",
+   "chars": 125204
+  },
+  {
+   "url": "https://finotivefunding.com/es/terms-and-conditions",
+   "kind": "page",
+   "chars": 126035
+  },
+  {
+   "url": "https://finotivefunding.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 125541
+  },
+  {
+   "url": "https://finotivefunding.com/es/payouts",
+   "kind": "page",
+   "chars": 11321
+  },
+  {
+   "url": "https://finotivefunding.com/ar/payouts",
+   "kind": "page",
+   "chars": 10087
+  },
+  {
+   "url": "https://finotivefunding.com/payouts",
+   "kind": "page",
+   "chars": 10617
+  },
+  {
+   "url": "https://help.finotivefunding.com/",
+   "kind": "sub",
+   "chars": 0
+  },
+  {
+   "url": "https://help.finotivefunding.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 35937
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 608482,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "the applicable margin requirement at 1:33 leverage 5. Evaluation structure Phase Profit target Phase 1 10% of Initial Account Balance Phase 2 5% of Initial Account Balance Failure to achieve a profit target is not a breach and does not of itself result in account closure,",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "nce, Salary & Consistency Rules Breaches & Consequences Hard Breaches Daily Drawdown One Stage: 4% Your equity must not fall below the specified percentage of the previous trading day's closing balance at any point. Example If yesterday's closing balance wa",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "4.5",
+    "snippet": "e at any point. Example If yesterday's closing balance was $105,000 and your daily drawdown limit is 4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown One Stage: 7.5% Your equity must not fall below the specified p",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "3.5",
+    "snippet": "all Finotive Funding trading rules on the Trading Rules page. Hard Breaches Daily Drawdown Standard: 3.5% Your equity must not fall below the specified percentage of the previous trading day's closing balance at any point. Example If yesterday's closing balance wa",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "all Finotive Funding trading rules on the Trading Rules page. Hard Breaches Daily Drawdown Lite: 3% Your equity must not fall below the specified percentage of the previous trading day's closing balance at any point. Example If yesterday's closing balance wa",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "all Finotive Funding trading rules on the Trading Rules page. Hard Breaches Daily Drawdown Two Stages: 5% Your equity must not fall below the specified percentage of the previous trading day's closing balance at any point. Example If yesterday's closing balance wa",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "4.0",
+    "snippet": "sults in immediate account closure. There is no warning and no Strike. Account type Daily Drawdown limit 1-Step Challenge 4.0% 2-Step Challenge 4.5% Instant Funding Standard 3.5% Instant Funding Lite 3.0% 1-Step Pro 4.0% 2-Step Pro 5.0% 7.5 Maximum Drawdown Maximum Drawdown restrict",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "7.5",
+    "snippet": "4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown One Stage: 7.5% Your equity must not fall below the specified percentage of your initial trading balance. Example For a $100,000 account with a 9% max overall drawdown, equit",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "9",
+    "snippet": "4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown Two Stages: 9% Your equity must not fall below the specified percentage of your initial trading balance. Example For a $100,000 account with a 9% max overall drawdown, equit",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "7",
+    "snippet": "4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown Standard: 7% Your equity must not fall below the specified percentage of your initial trading balance. Example For a $100,000 account with a 9% max overall drawdown, equit",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown Lite: 6% Your equity must not fall below the specified percentage of your initial trading balance. Example For a $100,000 account with a 9% max overall drawdown, equit",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown One Stage: 8% Your equity must not fall below the specified percentage of your initial trading balance. Example For a $100,000 account with a 9% max overall drawdown, equit",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "4.5%, your equity must not fall below $100,275 during the current trading day. Max Overall Drawdown Two Stages: 10% Your equity must not fall below the specified percentage of your initial trading balance. Example For a $100,000 account with a 9% max overall drawdown, equit",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "10",
+    "snippet": "e before a reset can be issued. Funded Phase: Each strike results reduction to 10% on the next payout cycle. To give traders a fair start, all Challenge and Pro accounts have their strike history fully cleared upon reaching Funded Status, providing a clean slate to be",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "ade to a standard funded account of the same size, with permanent loss of salary and 100% profit split. Read all Finotive Funding trading rules on the Trading Rules page. Hard Breaches Daily Drawdown Two Stages: 5% Your equity must not fall below th",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "o-step simulated evaluation account with enhanced Pro benefits, including an initial 80% Reward Split that may increase to 100% after 30 funded days while Pro status is retained, Pro salary eligibility, lower execution commission, and Pro-specific consistency and profita",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "75",
+    "snippet": "ed direct-access funded account with no Challenge Phase, Standard drawdown settings, 75% starting Reward Split, 7-day cooldown after the first eligible Reward Payment, and scaling up to 90% Reward Split. Instant Funding Lite A simulated direct-access funded account with differe",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "ard Split, 7-day cooldown after the first eligible Reward Payment, and scaling up to 90% Reward Split. Instant Funding Lite A simulated direct-access funded account with different drawdown parameters, 5 Minimum Profitable Days where applicable, 70% starting Reward Spli",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "70",
+    "snippet": "ount with different drawdown parameters, 5 Minimum Profitable Days where applicable, 70% starting Reward Split, 14-day cooldown after the first eligible Reward Payment, and scaling up to 85% Reward Split. Swap-Free Add-On An optional add-on available where eligible, subject to",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "Finotive Funding | Get Funded Up to $200K | Prop Trading Firm { $nextTick(() => { const navigationHeight = document.getElementById('navigation').clientHeight $watch('mobileOpen', () => { con",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "Finotive Funding | Get Funded Up to $200K | Prop Trading Firm { $nextTick(() => { const navigationHeight = document.getElementById('navigation').clientHeight $watch('mobileOpen', () => { co",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "24",
+    "snippet": "rop trading infrastructure. Get Funded How it Works? Verified by $24M+ Total Payouts 4M+ Trades Executed 5+ Years Proven Record 100K+ Verified Users $1,683.36 Emmanule D. \ud83c\uddfa\ud83c\uddf8 50k Instant Funding $1,51",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,68",
+    "snippet": "Trades Executed 5+ Years Proven Record 100K+ Verified Users $1,683.36 Emmanule D. \ud83c\uddfa\ud83c\uddf8 50k Instant Funding $1,512.19 Hamid A. \ud83c\uddf2\ud83c\udde6 50k Instant Funding $5,537.77 Shahzaib N. \ud83c\uddf5\ud83c\uddf0 100k Challenge $11,992.13 Mohamed A. \ud83c\uddf5\ud83c\uddf0",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,51",
+    "snippet": "100K+ Verified Users $1,683.36 Emmanule D. \ud83c\uddfa\ud83c\uddf8 50k Instant Funding $1,512.19 Hamid A. \ud83c\uddf2\ud83c\udde6 50k Instant Funding $5,537.77 Shahzaib N. \ud83c\uddf5\ud83c\uddf0 100k Challenge $11,992.13 Mohamed A. \ud83c\uddf5\ud83c\uddf0 100k Challenge $1,365.25 Mykhailo L. \ud83c\uddfa\ud83c\udde6 50",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,53",
+    "snippet": "ule D. \ud83c\uddfa\ud83c\uddf8 50k Instant Funding $1,512.19 Hamid A. \ud83c\uddf2\ud83c\udde6 50k Instant Funding $5,537.77 Shahzaib N. \ud83c\uddf5\ud83c\uddf0 100k Challenge $11,992.13 Mohamed A. \ud83c\uddf5\ud83c\uddf0 100k Challenge $1,365.25 Mykhailo L. \ud83c\uddfa\ud83c\udde6 50k Instant Funding $2,798.09 Du\u0161an D. \ud83c\uddf7\ud83c\uddf8 10",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "11,99",
+    "snippet": "Hamid A. \ud83c\uddf2\ud83c\udde6 50k Instant Funding $5,537.77 Shahzaib N. \ud83c\uddf5\ud83c\uddf0 100k Challenge $11,992.13 Mohamed A. \ud83c\uddf5\ud83c\uddf0 100k Challenge $1,365.25 Mykhailo L. \ud83c\uddfa\ud83c\udde6 50k Instant Funding $2,798.09 Du\u0161an D. \ud83c\uddf7\ud83c\uddf8 100k Challenge $1,725.10 Kyle Desiree L. \ud83c\uddf5\ud83c\udded",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,36",
+    "snippet": "Shahzaib N. \ud83c\uddf5\ud83c\uddf0 100k Challenge $11,992.13 Mohamed A. \ud83c\uddf5\ud83c\uddf0 100k Challenge $1,365.25 Mykhailo L. \ud83c\uddfa\ud83c\udde6 50k Instant Funding $2,798.09 Du\u0161an D. \ud83c\uddf7\ud83c\uddf8 100k Challenge $1,725.10 Kyle Desiree L. \ud83c\uddf5\ud83c\udded 50k Challenge $1,040.88 Fady Youssef S. \ud83c\uddea",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,79",
+    "snippet": "hamed A. \ud83c\uddf5\ud83c\uddf0 100k Challenge $1,365.25 Mykhailo L. \ud83c\uddfa\ud83c\udde6 50k Instant Funding $2,798.09 Du\u0161an D. \ud83c\uddf7\ud83c\uddf8 100k Challenge $1,725.10 Kyle Desiree L. \ud83c\uddf5\ud83c\udded 50k Challenge $1,040.88 Fady Youssef S. \ud83c\uddea\ud83c\uddec 200k Challenge $3,130.61 KHALID A. \ud83c\uddf2\ud83c\uddfe 10",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,72",
+    "snippet": "Mykhailo L. \ud83c\uddfa\ud83c\udde6 50k Instant Funding $2,798.09 Du\u0161an D. \ud83c\uddf7\ud83c\uddf8 100k Challenge $1,725.10 Kyle Desiree L. \ud83c\uddf5\ud83c\udded 50k Challenge $1,040.88 Fady Youssef S. \ud83c\uddea\ud83c\uddec 200k Challenge $3,130.61 KHALID A. \ud83c\uddf2\ud83c\uddfe 100k Instant Funding $1,045.06 Fahad M. \ud83c\uddf5\ud83c\uddf0",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,04",
+    "snippet": "Du\u0161an D. \ud83c\uddf7\ud83c\uddf8 100k Challenge $1,725.10 Kyle Desiree L. \ud83c\uddf5\ud83c\udded 50k Challenge $1,040.88 Fady Youssef S. \ud83c\uddea\ud83c\uddec 200k Challenge $3,130.61 KHALID A. \ud83c\uddf2\ud83c\uddfe 100k Instant Funding $1,045.06 Fahad M. \ud83c\uddf5\ud83c\uddf0 50k Instant Funding $1,158.19 Mahnoor B. \ud83c\uddf5",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,13",
+    "snippet": "Desiree L. \ud83c\uddf5\ud83c\udded 50k Challenge $1,040.88 Fady Youssef S. \ud83c\uddea\ud83c\uddec 200k Challenge $3,130.61 KHALID A. \ud83c\uddf2\ud83c\uddfe 100k Instant Funding $1,045.06 Fahad M. \ud83c\uddf5\ud83c\uddf0 50k Instant Funding $1,158.19 Mahnoor B. \ud83c\uddf5\ud83c\uddf0 100k Instant Funding $1,219.63 Victor Aleja",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,15",
+    "snippet": "ID A. \ud83c\uddf2\ud83c\uddfe 100k Instant Funding $1,045.06 Fahad M. \ud83c\uddf5\ud83c\uddf0 50k Instant Funding $1,158.19 Mahnoor B. \ud83c\uddf5\ud83c\uddf0 100k Instant Funding $1,219.63 Victor Alejandro P. \ud83c\uddea\ud83c\udde8 100k Instant Funding $1,171.55 Victor Alejandro P. \ud83c\uddea\ud83c\udde8 100k Instant Funding $",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "5 Start Now As a New Customer Trading Day 17:00 16:59 (New York Time) Static Drawdown across all accounts No Profit Consistency Prohibited Behaviour - Latency Arbitrary, One Directional Gambling, Straddling - Please refer to section 7.9 our",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules\n \n \n \n Breaches & Consequences\n \n \n \n \n Risk & Exposure Rules\n \n \n \n Performance, Salary",
+    "snippet": "Breaches & Consequences Risk & Exposure Rules Performance, Salary & Consistency Rules Breaches & Consequences Risk & Exposure Rules Performance, Salary & Consistency Rules Breaches & Consequences Hard Breaches Daily Drawdown One Stage: 4% Your equity must not fall below the specified percentage of t",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules\n \n \n \n Breaches & Consequences\n \n \n Hard Breaches\n \n Daily Drawdown\n \n One Stage: 4%",
+    "snippet": "Breaches & Consequences Risk & Exposure Rules Performance, Salary & Consistency Rules Breaches & Consequences Hard Breaches Daily Drawdown One Stage: 4% Your equity must not fall below the specified percentage of the previous trading day's closing balance at any point. Example If yesterday's closing balance was $1",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules\n \n Every 7 days, your weekly trade count and instrument volumes must remain within \u00b125%",
+    "snippet": "progress, request payouts, or scale until MPD is met. Finotive Pro Rules Consistency Rules Every 7 days, your weekly trade count and instrument volumes must remain within \u00b125% of the averages recorded during your Challenge and first 30 days of funding. Quarterly Profit Target Every 90 days, realised payouts + account balance must equal at",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule or quarterly profitability rule results in Account Downgrade to the equivalent standard\nS",
+    "snippet": "luding Reward Payments already made and unrealised profit or loss. Breach of the Pro consistency rule or quarterly profitability rule results in Account Downgrade to the equivalent standard Simulated Funded Challenge Account. All Pro benefits, including 100% Reward Split, Pro salary entitlement, Pro commission benefit, and other Pro perks",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules are not enforced",
+    "snippet": ", and cannot be carried forward. During a Trading Break, trading is disabled and Pro consistency rules are not enforced. Requests must be submitted to [email protected] at least seventy-two (72) hours in advance. 10.8 Pro scaling Funded Pro Accounts may be eligible for scaling on a roll",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "On Demand",
+    "snippet": "olume Limit ! Trading Consistency ! Not Required Profit Split ! Payout Cycle ! On Demand, then every Days One Time Fee ! Yes Learn More Most Popular Instant Funding Standard Lite Skip the evaluation and get your profits within j",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 7 days",
+    "snippet": "ted after completing the min. profitable days 24/7 Customer Support Fast Payouts You can withdraw profit every 7 days Withdrawals are processed every Friday from Finotive Pay, ensuring timely access to your funds. Payouts You Can Rely On We don\u2019t just talk about payouts, we d",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "daily",
+    "snippet": "g.com/ar/rules 2026-10-11T15:17:42+00:00 monthly 0.8 https://finotivefunding.com/ar/payouts 2026-10-11T15:17:42+00:00 daily 0.9 https://finotivefunding.com/ar/reviews 2026-10-11T15:17:42+00:00 weekly 0.9 https://finotivefunding.com/ar/affiliate-program 2026-10-11T15:17:42+00:00 monthly 0.8",
+    "url": "https://finotivefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Weekly",
+    "snippet": "Prop Firm Payouts | Weekly, Crypto & Revolut | Finotive Funding { $nextTick(() => { const navigationHeight = document.getElementById('navigation').clientHeight $watch('mobileOp",
+    "url": "https://finotivefunding.com/payouts",
+    "kind": "page"
+   },
+   {
+    "value": "Anytime",
+    "snippet": "Profit Splits In your Finotive Funding account Request Payout Anytime Instant transfer To your Finotive Pay wallet Withdraw your way bank, crypto, Revolut, or PayPal Purchase new accounts 25% Discount fr",
+    "url": "https://finotivefunding.com/payouts",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Bank Transfer",
+    "snippet": "g immediately after purchase. Instant trading and fast payouts through Finotive Pay, Bank Transfer, Revolut, or Crypto withdrawals. All-in-One Trading Ecosystem Finotive Funding is part of Finotive One. A fully integrated trading ecosystem designed to empower tr",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "e. Instant trading and fast payouts through Finotive Pay, Bank Transfer, Revolut, or Crypto withdrawals. All-in-One Trading Ecosystem Finotive Funding is part of Finotive One. A fully integrated trading ecosystem designed to empower traders worldwide.",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "I received full refund of my challenge fee after first payout..I was surprised because I thought we need to withdraw 3 or 4 times on the same account to qualify for refund (which is the case with most firms). I'm very happy with the experience in",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "ssued through Finotive Funding, submitting KYC, requesting a Reward Payment, or otherwise using the Services, you agree to be bound by these Terms. If you do not agree to these Terms, you must not register for, purchase, access, or use any Services. If you ha",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "tu billetera Finotive Pay Retira a tu manera banco, cripto, Revolut o PayPal Compra nuevas cuentas 25% de descuento en nuevas cuentas y 5% de capital adicional al usar el saldo de Finotive Pay para comprar nuevas cuentas Deposi",
+    "url": "https://finotivefunding.com/es/payouts",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "cia bancaria Transferencia directa a cualquier cuenta bancaria. Criptomonedas USDT, USDC, BTC, ETH, SOL y m\u00e1s. Revolut Transferencia directa a tu cuenta de Revolut. Billetera personal Tu billetera Finotive Pay facilita la gesti\u00f3n y el segui",
+    "url": "https://finotivefunding.com/es/payouts",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "ncaria Transferencia directa a cualquier cuenta bancaria. Criptomonedas USDT, USDC, BTC, ETH, SOL y m\u00e1s. Revolut Transferencia directa a tu cuenta de Revolut. Billetera personal Tu billetera Finotive Pay facilita la gesti\u00f3n y el seguimiento",
+    "url": "https://finotivefunding.com/es/payouts",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "FSC",
+    "snippet": "g Supported by Finotive Markets , a fully licensed Financial Services Commission (FSC) regulated brokerage delivering secure, professional-grade prop trading infrastructure. Get Funded How it Works? Verified by $24M+ Total Payouts 4M+ Trades Executed 5+ Years Proven Record 100K+ Verified Users",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "han just funding. Finotive gives you the technology, execution speed, and support to scale with confidence. Instant Funding & Fast Payouts Start trading immediately after purchase. Instant trading and fast payouts through Finotive Pay, Bank Transfer, Revolut, or Crypto wi",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "at 228 Archbishop Makarios III Ave, Agios Pavlos Court, Block A, Office 113, 3030 Limassol, Cyprus, in its capacity as payment agent acting for and on behalf of Finotive One group companies, including, without limitation, Finotive Funding Technologies Limited. The services offered on this site are not intended for residents of the Iran, o",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Trusted by Thousa",
+    "snippet": "]\" style=\"background: linear-gradient(180deg, #00ffba 0%, #00996f 100%)\" > Trusted by Thousands Your Prop Trading Journey Starts With Real Backing Supported by Finotive Markets , a fully licensed Financial Services Commission (FSC) regulated brokerage deli",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "regulated brokerag",
+    "snippet": "Supported by Finotive Markets , a fully licensed Financial Services Commission (FSC) regulated brokerage delivering secure, professional-grade prop trading infrastructure. Get Funded How it Works? Verified by $24M+ Total Payouts 4M+ Trades Exec",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Does not inc",
+    "snippet": "unded See New Rules Challenge Phase 1 rule Notional Volume Strike Does not include Account Closure rules. Daily Drawdown and Max Drawdown, as these are core rules that every account has in each phase. Funded Phase 2 rules Floating Drawdo",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Follow the rules, manag",
+    "snippet": "unlock capital progressively with our challenge accounts. Step 3 Trade & Grow Follow the rules, manage risk, and trade to maximize your profits. Step 4 Withdraw Your Earnings Keep your profits and withdraw anytime. It\u2019s your capital, your rewards. Get Fund",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "r classic challenge and receive additional monthly sa",
+    "snippet": "ys One Time Fee ! Yes Learn More Pro One Step Two Step Pass our classic challenge and receive additional monthly salary for consistency. Select account size: for Get Funded Profit Target ! { if (prop.profit_targets.length === 1) { if (prop.profit_targets[0]",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "t just talk about payouts, we deliver them. Sinc",
+    "snippet": "ve Pay, ensuring timely access to your funds. Payouts You Can Rely On We don\u2019t just talk about payouts, we deliver them. Since our inception in 2021, Finotive has continually paid traders on time, every Friday of the week*. Total Payouts { odometer = new Odometer({ el: $refs.odometer, form",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e our inc",
+    "snippet": "Payouts You Can Rely On We don\u2019t just talk about payouts, we deliver them. Since our inception in 2021, Finotive has continually paid traders on time, every Friday of the week*. Total Payouts { odometer = new Odometer({ el: $refs.odometer, formatFunctio",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ve tried several prop companies, I can confidently sa",
+    "snippet": "t rules of use, which I easily assimilated & continue to follow with discipline. I have tried several prop companies, I can confidently say that Finotive is the most reliable. If you want a legitimate & reliable company to work with, I highly recommend it. Ge George M. Customer support ca",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "11088",
+    "snippet": "Finotive Funding is a trading name of Finotive Funding Technologies Limited (Company Number: 11088), having its registered office at Innovation One Building, Level 2, DIFC, Dubai, UAE, and VAT Registration Number 105195257800003. Finotive Funding Technologies Limited",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "105195257800003",
+    "snippet": "its registered office at Innovation One Building, Level 2, DIFC, Dubai, UAE, and VAT Registration Number 105195257800003. Finotive Funding Technologies Limited forms part of the Finotive One group of companies. Finotive Funding is a proprietary trading firm and does not provide investment",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "HE475209",
+    "snippet": "entities may be received, administered, and processed by Finotive Pay (CY) Limited (Company Number: HE475209), having its registered office at 228 Archbishop Makarios III Ave, Agios Pavlos Court, Block A, Office 113, 3030 Limassol, Cyprus, in its capacity as payment agent actin",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Jurisdictions, and Account Access\n \n 4",
+    "snippet": "Legal Status, and Acceptance 2. Definitions and Interpretation 3. Eligibility, Restricted Jurisdictions, and Account Access 4. Programmes Offered 5. Registration, KYC, Enhanced Due Diligence, and Compliance 6. Trading Platforms, Simulated Accounts, and Market-Like Conditions 7. Trading",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions, and Account Access\n 3",
+    "snippet": "perational, legal, fraud-prevention, or platform-integrity purpose. 3. Eligibility, Restricted Jurisdictions, and Account Access 3.1 Age and capacity The Services are available only to individuals who are at least eighteen (18) years old and legally capable of entering into a binding contract in th",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions\n The Services are not available to residents, citizens where legally restricted, persons locate",
+    "snippet": "promise security, fraud prevention, sanctions controls, or internal monitoring. 3.3 Restricted Jurisdictions The Services are not available to residents, citizens where legally restricted, persons located in, persons ordinarily operating from, or persons attempting to access or use the Services from any Restricted Jurisdiction. The restri",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions at any time without prior notice based on sanctions,\npayment-provider requirements, regulatory ",
+    "snippet": "Republic of Korea KP Palestinian Territories Finotive may add, remove, or update Restricted Jurisdictions at any time without prior notice based on sanctions, payment-provider requirements, regulatory obligations, legal risk, fraud risk, risk appetite, operational limitations, or internal compliance requirements. If your location becomes ",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund of my challenge fee after first payout",
+    "snippet": "ighly recommend this firm to everyone. Sw Swapnil I received full refund of my challenge fee after first payout..I was surprised because I thought we need to withdraw 3 or 4 times on the same account to qualify for refund (which is the case with most firms). I'm very happy with th",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund (which is the case with most firms)",
+    "snippet": "ecause I thought we need to withdraw 3 or 4 times on the same account to qualify for refund (which is the case with most firms). I'm very happy with the experience in finotive funding. An Andri Good and trustworthy firm. No hidden trading rules. Fast payouts. I love the dashboa",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund",
+    "snippet": "r drawdown rule is a hard breach and results in immediate account closure without refund. Soft Breaches Notional Volume Two-Stage / One-Stage: Tiered by Account Size The Notional Volume Limit sets the maximum total size of all open position",
+    "url": "https://finotivefunding.com/rules",
+    "kind": "page"
+   },
+   {
+    "value": "Refund and Cancellation Policy\n \n 15",
+    "snippet": "and Payments 13. Pricing, Promotions, Affiliates, and Separate Agreements 14. Refund and Cancellation Policy 15. Data Protection, Privacy, Monitoring, and Certificates 16. Fraud, Chargebacks, Prohibited Payments, and Sanctions 17. Intellectual Property and Website Use 18.",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading No LaunchPad-1 specific restriction \n Low-liquidity hours No LaunchPad-1 specific restriction \n High-freque",
+    "snippet": "ge 1:33 Expert Advisors Prohibited VPN, proxy, and location masking Prohibited News trading No LaunchPad-1 specific restriction Low-liquidity hours No LaunchPad-1 specific restriction High-frequency trading No LaunchPad-1 specific restriction Profit concentration No LaunchPad-1 specific restriction Stop loss Not required Consistency No La",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eave=\"if (window",
+    "snippet": "{promoBanner?.clientHeight || 0}px)` }) }) } \" > = 1280) isOpen = true\" @mouseleave=\"if (window.innerWidth >= 1280) close()\" @focusin=\"if (window.innerWidth >= 1280) isOpen = true\" @focusout=\"if (window.innerWidth >= 1280) close($event)\" > Accounts Overvie",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn funding",
+    "snippet": "ce. Compare Compare accounts side by side. Plans Challenge Trade to earn funding. Instant Start trading instantly. Pro Advanced accounts for professionals. = 1280) isOpen = true\" @mouseleave=\"if (window.innerWidth >= 1280) clo",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal trader reviews",
+    "snippet": "lose($event)\" > Transparency Payouts Verified trader payouts. Reviews Real trader reviews. = 1280) isOpen = true\" @mouseleave=\"if (window.innerWidth >= 1280) close()\" @focusin=\"if (window.innerWidth >= 1280) isOpen = true\" @focusout=\"if (window.in",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear-gradient(180deg, #00ffba 0%, #00996f 100%)\"\n>\n \n \n \n \n Trusted by Thousands\n \n Your Prop Trading Journey Starts With",
+    "snippet": "(100svh-88px)] md:rounded-b-5xl xl:max-h-[calc(100svh-96px)]\" style=\"background: linear-gradient(180deg, #00ffba 0%, #00996f 100%)\" > Trusted by Thousands Your Prop Trading Journey Starts With Real Backing Supported by Finotive Markets , a fully licensed Financial Services Commission (FSC) regulated brokerage delivering secure, profession",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Backing\n \n Supported by Finotive Markets , a fully licensed Financial Services Commission (FSC) regulated brokerage ",
+    "snippet": "96f 100%)\" > Trusted by Thousands Your Prop Trading Journey Starts With Real Backing Supported by Finotive Markets , a fully licensed Financial Services Commission (FSC) regulated brokerage delivering secure, professional-grade prop trading infrastructure. Get Funded How it Works? Verified by $24M+ Total Payouts 4M+ Trades Executed",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "rejection, account closure, permanent exclusion, or another compliance outcome. 5.4 VPN, proxy, remote access, and location masking KYC, Enhanced KYC, Risk Verification Calls, and ordinary account use must take place through stable, consistent, and unmasked network conditions. Use of VPNs, iCloud Private Relay, proxies, remote desktops, a",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "7.19 IP, device, login, location monitoring, and Enhanced KYC Finotive may monitor IP addresses, device identifiers, login timestamps, location data, payment data, browser/device fingerprints, platform access, and account activity to detect account sharing, identity issues, coordinated trading, cross-account abuse, payment concerns, fraud",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "Profit Splits In your Finotive Funding account Request Payout Anytime Instant transfer To your Finotive Pay wallet Withdraw your way bank, crypto, Revolut, or PayPal Purchase new accounts 25% Discount from new account and",
+    "url": "https://finotivefunding.com/payouts",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "The indicative maximum leverage settings are: Programme Indicative maximum platform leverage Challenge Accounts Up to 1:100 Pro Accounts Up to 1:50 Instant Funding Standard Up to 1:33 Instant Funding Lite Up to 1:25 Buying power, margin usage, and effective exposure may be affected by",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "1:33",
+    "snippet": "FX only Execution commission USD 2.50 round turn Spreads Raw Maximum platform leverage 1:33 Expert Advisors Prohibited VPN, proxy, and location masking Prohibited News trading No LaunchPad-1 specific restriction Low-liquidity hours No LaunchPad-1 specif",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Profit Cap \")",
+    "snippet": "nts from a single LaunchPad-1 Account over its lifetime is USD 50,000 (the \" Account Profit Cap \"). The Account Profit Cap is a lifetime cumulative limit and not a per-request limit. Amounts by which a Reward Payment is reduced under these Terms do not count towards t",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Profit Cap is a lifetime cumulative limit and not a per-request limit",
+    "snippet": "-1 Account over its lifetime is USD 50,000 (the \" Account Profit Cap \"). The Account Profit Cap is a lifetime cumulative limit and not a per-request limit. Amounts by which a Reward Payment is reduced under these Terms do not count towards the Account Profit Cap. 11. Refund of account fee The fee paid for a LaunchPad-1 A",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC verification at first",
+    "snippet": "ow but they will definitely help you if there is any trouble. I had trouble with the KYC verification at first. I emailed them about it and in a day or two they fixed it for me. Ga Gabriel I'm very happy with Finotive. I chose a two-phase challenge. Once I met",
+    "url": "https://finotivefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC, Enhanced Due Diligence, and Compliance\n \n 6",
+    "snippet": "icted Jurisdictions, and Account Access 4. Programmes Offered 5. Registration, KYC, Enhanced Due Diligence, and Compliance 6. Trading Platforms, Simulated Accounts, and Market-Like Conditions 7. Trading Rules and Account Conduct 8. Challenge Accounts 9. Instant Funding Accounts 10.",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "KYC, requesting a Reward Payment, or otherwise using the\nServices, you agree to be bound by these Terms",
+    "snippet": "ard, using a Trading Platform credential issued through Finotive Funding, submitting KYC, requesting a Reward Payment, or otherwise using the Services, you agree to be bound by these Terms. If you do not agree to these Terms, you must not register for, purchase, access, or use any Services. If you have already registered and do not agree ",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Reset fee is a separate continuation-service fee and is not eligible for the Challenge account fee refund under this Se",
+    "snippet": "back, or other breach occurs before the refund date. For avoidance of doubt, a Rapid Reset fee is a separate continuation-service fee and is not eligible for the Challenge account fee refund under this Section unless the applicable Rapid Reset offer expressly states otherwise. 8.6 Scaling and Refresh Challenge-Funded Accounts may be eligi",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fee is paid for the reactivation and resetting of the same Account from the applicable stage",
+    "snippet": "able programme conditions and the specific offer displayed in the Dashboard. A Rapid Reset fee is paid for the reactivation and resetting of the same Account from the applicable stage. Payment of the fee does not result in the creation or purchase of a separate replacement Account. The price displayed in the applicable Rapid Reset offer i",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fees\n Subject to Section 14",
+    "snippet": "orm limitations, or trading losses do not constitute defective services. 14.7 Rapid Reset fees Subject to Section 14.4 and any mandatory law that cannot be excluded, Rapid Reset fees are final and non-refundable once the Rapid Reset has been applied, the Account has been reactivated, o",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fees are final and non-refundable once the Rapid Reset has been applied, the Account has been reactivated, or the",
+    "snippet": "t fees Subject to Section 14.4 and any mandatory law that cannot be excluded, Rapid Reset fees are final and non-refundable once the Rapid Reset has been applied, the Account has been reactivated, or the Trader has accessed or traded the reset Account. A Rapid Reset fee is paid for the reactivation and resetting of the same Account from t",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fee is paid for the reactivation and resetting of the same Account from the specific stage identified in the Dash",
+    "snippet": "s been reactivated, or the Trader has accessed or traded the reset Account. A Rapid Reset fee is paid for the reactivation and resetting of the same Account from the specific stage identified in the Dashboard. It is not paid in exchange for any guaranteed trading result, Challenge completion, Simulated Funded Status, Reward Payment or oth",
+    "url": "https://finotivefunding.com/ar/terms-and-conditions",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "5+ Years Proven Record 100K+ Verified Users $1,683.36 Emmanule D. \ud83c\uddfa\ud83c\uddf8 50k Instant Funding $1,512.19 Hamid A. \ud83c\uddf2\ud83c\udde6 50k Instant Funding $5,537.77 Shahzaib N. \ud83c\uddf5\ud83c\uddf0 100k Challenge $11,992.13 Mohamed A. \ud83c\uddf5\ud83c\uddf0 100k Challenge $1,365.25 Myk",
+   "url": "https://finotivefunding.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ing Consistency ! Profit Split ! Payout Cycle ! One Time Fee ! Challenge One Step Two Step A streamlined evaluation with clear profit targets and defined risk rules. Select account size: for Get Funded Profit Target !",
+   "url": "https://finotivefunding.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "ng journey in 4 simple steps. Step 1 Purchase a Challenge Choose your path: Instant Funding, 1 or 2 Step Challenge Step 2 Get Your Capital Start trading immediately with Instant Funding or unlock capital progressively with our challenge accounts. Ste",
+   "url": "https://finotivefunding.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "ry good experience and fast payout. Very affordable instant funding accounts. It's life changing. Already got 3 payouts and my overall payout is above $8000 Thank you finotive.",
+  "es open Maximum aggregate capital allocation USD 20,000,000 of Initial Account Balance across all LaunchPad-1 Accounts Maximum LaunchPad-1 Accounts per Trader 5 Purchases clo",
+  "ital allocation USD 20,000,000 of Initial Account Balance across all LaunchPad-1 Accounts Maximum LaunchPad-1 Accounts per Trader 5 Purchases close on the earlier of the expiry",
+  "igible for a coupon granting 50% off a future purchase. 13. Provisions of Section 7 disapplied for LaunchPad-1 Accounts The following provisions do not apply to a LaunchPad-1 Acc",
+  "es open Maximum aggregate capital allocation USD 20,000,000 of Initial Account Balance across all LaunchPad-1 Accounts Maximum LaunchPad-1 Accounts per Trader 5 Purchases clo",
+  "ital allocation USD 20,000,000 of Initial Account Balance across all LaunchPad-1 Accounts Maximum LaunchPad-1 Accounts per Trader 5 Purchases close on the earlier of the expiry"
+ ],
+ "errors": []
+}

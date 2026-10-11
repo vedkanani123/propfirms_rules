@@ -1,0 +1,452 @@
+{
+ "slug": "earn2trade",
+ "name": "Earn2Trade",
+ "category": "Futures",
+ "url": "https://earn2trade.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.earn2trade.com/",
+   "kind": "home",
+   "chars": 6254
+  },
+  {
+   "url": "https://www.earn2trade.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5963
+  },
+  {
+   "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+   "kind": "page",
+   "chars": 906
+  },
+  {
+   "url": "https://www.earn2trade.com/es/terms-and-conditions",
+   "kind": "page",
+   "chars": 52330
+  },
+  {
+   "url": "https://www.earn2trade.com/ar/terms-and-conditions",
+   "kind": "page",
+   "chars": 41080
+  },
+  {
+   "url": "https://www.earn2trade.com/pt/terms-and-conditions",
+   "kind": "page",
+   "chars": 50968
+  },
+  {
+   "url": "https://www.earn2trade.com/fr/terms-and-conditions",
+   "kind": "page",
+   "chars": 55691
+  },
+  {
+   "url": "https://www.earn2trade.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 48548
+  },
+  {
+   "url": "https://www.earn2trade.com/fr/about-us",
+   "kind": "page",
+   "chars": 6049
+  },
+  {
+   "url": "https://www.earn2trade.com/about-us",
+   "kind": "page",
+   "chars": 5266
+  },
+  {
+   "url": "https://www.earn2trade.com/pt/about-us",
+   "kind": "page",
+   "chars": 5612
+  },
+  {
+   "url": "https://www.earn2trade.com/ar/about-us",
+   "kind": "page",
+   "chars": 4508
+  },
+  {
+   "url": "https://www.earn2trade.com/es/about-us",
+   "kind": "page",
+   "chars": 5836
+  },
+  {
+   "url": "https://help.earn2trade.com/en/",
+   "kind": "sub",
+   "chars": 1179
+  },
+  {
+   "url": "https://help.earn2trade.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 58010
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 348214,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "30",
+    "snippet": "n your first withdrawal. No Minimum Trading Days Get funded as soon as you hit the profit target and 30% consistency rate\u2014no waiting period required. Can Trade News Trade through major news events with no restrictions\u2014react to market-moving announcements freely. What Our",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "25",
+    "snippet": "ee Reset When Rebilled Free Trading Platforms Free Video Library and Study Guides No Minimum Trading Days Can Trade News TCP25 /month TCP50 /month TCP100 /month /month Start Now /mo Start Now",
+    "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "Best for traders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "for traders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K w",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K with a fix",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "count Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K with a fixed drawdown From $75 Get Started Fast Track The Gauntlet Mini\u2122 A straightforward path to your target account size Choose your evaluation: $50K\u2013$200K virt",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "i\u2122 A straightforward path to your target account size Choose your evaluation: $50K\u2013$200K virtual account Pass the evaluation and move to a funded trading account Your funded trading account matches your selected evaluation size Trade with firm capital and",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "27.50",
+    "snippet": "Futures Prop Firm | Earn2Trade \ud83c\udf89 10-Year Anniversary Bundle: 3 \u00d7 TCP25 + 3 resets \u2014 $27.50 per attempt. Ends Oct 10. Claim Offer Products Trader Career Path\u00ae The Gauntlet Mini\u2122 Beginner Crash Course Resources About Us Partners Pledge Blog Help Login Eng",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Best for traders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "for traders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "ders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K with a fi",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "count Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K with a fixed drawdown From $75 Get Started Fast Track The Gauntlet Mini\u2122 A straightforward path to your target account size Choose your evaluation: $50K\u2013$200K vir",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "tones, and upgrade to larger accounts Scale up to $400K with a fixed drawdown From $75 Get Started Fast Track The Gauntlet Mini\u2122 A straightforward path to your target account size Choose your evaluation: $50K\u2013$200K virtual account Pass the evaluation",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "i\u2122 A straightforward path to your target account size Choose your evaluation: $50K\u2013$200K virtual account Pass the evaluation and move to a funded trading account Your funded trading account matches your selected evaluation size Trade with firm capital an",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "85",
+    "snippet": "es your selected evaluation size Trade with firm capital and withdraw profits From $85 Get Started Why Choose Earn2Trade as Your Futures Prop Firm? Easy Withdrawals Withdraw weekly from $100+. No additional performance targets required to withdraw. Liv",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "1 Evaluation You're here 2 Funded Account After you pass Virtual Starting Balance $25,000 Profit Goal $1,750 EOD Drawdown $1,500 Daily Loss Limit $550 Follow Progression Ladder Up to 3 Contracts Current Reset Price $100 Maintain Consistency 30% Approved Time",
+    "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+    "kind": "page"
+   },
+   {
+    "value": "1,75",
+    "snippet": "here 2 Funded Account After you pass Virtual Starting Balance $25,000 Profit Goal $1,750 EOD Drawdown $1,500 Daily Loss Limit $550 Follow Progression Ladder Up to 3 Contracts Current Reset Price $100 Maintain Consistency 30% Approved Times Trade until 15:50",
+    "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+    "kind": "page"
+   },
+   {
+    "value": "1,50",
+    "snippet": "nt After you pass Virtual Starting Balance $25,000 Profit Goal $1,750 EOD Drawdown $1,500 Daily Loss Limit $550 Follow Progression Ladder Up to 3 Contracts Current Reset Price $100 Maintain Consistency 30% Approved Times Trade until 15:50 CT Max Concurrent A",
+    "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+    "kind": "page"
+   },
+   {
+    "value": "550",
+    "snippet": "ual Starting Balance $25,000 Profit Goal $1,750 EOD Drawdown $1,500 Daily Loss Limit $550 Follow Progression Ladder Up to 3 Contracts Current Reset Price $100 Maintain Consistency 30% Approved Times Trade until 15:50 CT Max Concurrent Accounts 5 Free Reset",
+    "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "EOD",
+    "snippet": "Funded Account After you pass Virtual Starting Balance $25,000 Profit Goal $1,750 EOD Drawdown $1,500 Daily Loss Limit $550 Follow Progression Ladder Up to 3 Contracts Current Reset Price $100 Maintain Consistency 30% Approved Times Trade until 15:50 CT Max Concur",
+    "url": "https://www.earn2trade.com/purchase?plan=TCP25ANNIV&discount=BOTH50",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "rofits From $85 Get Started Why Choose Earn2Trade as Your Futures Prop Firm? Easy Withdrawals Withdraw weekly from $100+. No additional performance targets required to withdraw. Live Trading Environment You may transition directly to a live account after passing the evaluation",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "he following exchanges: CME, COMEX, NYMEX & CBOT. Trading of Stocks, Options, Forex, Cryptocurrency and CFD's are not permitted nor available in our program or platforms. Risk Disclosure Futures trading contains substantial risk and is not for every investor.",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "la section 1798.83 du Code civil de Californie, ont le droit de demander \u00e0 une entreprise avec laquelle le r\u00e9sident de l'\u00c9tat de Californie a une relation d'affaires \u00e9tablie certaines informations concernant les types d'informations personnelles que l'entrepr",
+    "url": "https://www.earn2trade.com/fr/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "l information of E2T or its licensors. You acknowledge and agree that except as otherwise authorized under this Agreement or otherwise specified in writing between the parties: You shall not license, sublicense, sell, resell, rent, lease, transfer, assign, di",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "Most Popular Trader Career Path\u00ae Best for traders who want to start small and scale up Choose your starting level: $25K, $50K or $100K virtual account Pass the evaluation and move to a funded trading account Withdraw profits, hit milestones, and upgrade to larger accounts Scale up to $400K with a fixed drawdown From $75 Get Started Fast T",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "debe intentar utilizar u obtener acceso no autorizado a datos, cuentas, hosts, sistemas o redes de E2T o cualquiera de sus clientes o proveedores, o los de cualquier otra parte; violar la seguridad de otro usuario o sistema, o intentar eludir la autenticaci\u00f3n o seguridad del usuario de cualquier host, red o cuenta, incluido, entre otros, ",
+    "url": "https://www.earn2trade.com/es/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "Civil de California, consulte la informaci\u00f3n de contacto a continuaci\u00f3n. Privacidad infantil El sitio y servicio de E2T no est\u00e1 destinado a ser utilizado por ni\u00f1os y no est\u00e1 dirigido a ni\u00f1os. E2T no recopila a sabiendas informaci\u00f3n de ni\u00f1os menores de 13 a\u00f1os, solicita informaci\u00f3n de ni\u00f1os o comercializa productos para ni\u00f1os. Datos de reg",
+    "url": "https://www.earn2trade.com/es/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "5. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and 6. a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner o",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Year Anniversa",
+    "snippet": "Earn a Funded Trading Account in 4 Days | Futures Prop Firm | Earn2Trade \ud83c\udf89 10-Year Anniversary Bundle: 3 \u00d7 TCP25 + 3 resets \u2014 $27.50 per attempt. Ends Oct 10. Claim Offer Products Trader Career Path\u00ae The Gauntlet Mini\u2122 Beginner Crash Course Resources About",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "fter you pass an evaluation that proves you can manag",
+    "snippet": "a futures prop firm. We fund traders to trade the futures markets with our capital, after you pass an evaluation that proves you can manage the risk. #1 Funding Program Real Traders. Real Accounts. Real Markets. Live Trading Accounts Easy Withdrawals No Minimum Trading Days Start Now and Get Funded Wh",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "What Our Traders Sa",
+    "snippet": "major news events with no restrictions\u2014react to market-moving announcements freely. What Our Traders Say M Mohamed ben \u201c It was a great experience passing the test for the funded account. I want to commend the wonderful support team for the accompaniment. \u201d Read on Trus",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn2Trade LLC",
+    "snippet": "isclaimer Terms and Conditions Affiliates Customer Support Policy Registered Office Earn2Trade LLC 30 N Gould St STE 4000, Sheridan, WY 82801 \u00a9 Copyright 2026 Earn2Trade LLC Exam Disclaimer In 2025, 8.89% of candidates passed the Trader Career Path\u00ae / Gauntlet Min",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Copyright 2026 Earn2Trade LLC",
+    "snippet": "icy Registered Office Earn2Trade LLC 30 N Gould St STE 4000, Sheridan, WY 82801 \u00a9 Copyright 2026 Earn2Trade LLC Exam Disclaimer In 2025, 8.89% of candidates passed the Trader Career Path\u00ae / Gauntlet Mini\u2122 examinations. Percentage is based on subscriptions passed against new subs",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "examinations. Percentag",
+    "snippet": "laimer In 2025, 8.89% of candidates passed the Trader Career Path\u00ae / Gauntlet Mini\u2122 examinations. Percentage is based on subscriptions passed against new subscriptions. Of candidates who passed either exam or progressed in the Trader Career Path\u00ae, 5.23% traded a Live account,",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "e is based on subscriptions passed ag",
+    "snippet": "of candidates passed the Trader Career Path\u00ae / Gauntlet Mini\u2122 examinations. Percentage is based on subscriptions passed against new subscriptions. Of candidates who passed either exam or progressed in the Trader Career Path\u00ae, 5.23% traded a Live account, and 94.77% traded a LiveSim\u00ae account.",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "uld consider trading. Past performance is not necessa",
+    "snippet": "sk capital should be used for trading and only those with sufficient risk capital should consider trading. Past performance is not necessarily indicative of future results. Hypothetical Performance Disclosure Hypothetical performance results have many inherent limitations, some of which are described belo",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunded starting from May 15",
+    "snippet": ". Additionally, purchases or resets made from these sanctioned countries will not be refunded starting from May 15. Any attempts to circumvent this policy by providing false information regarding your country of origin or address will result in an immediate ban and deletion from our",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund",
+    "snippet": "or address will result in an immediate ban and deletion from our services without a refund. Publication and Distribution of Content E2T cannot and does not guarantee the accuracy, integrity, quality or appropriateness of any Content transmitted to or through t",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy E2T offers non-tangible, irrevocable goods thus we do not provide refunds after purchase, which you acknow",
+    "snippet": "d or used, in whole or in part, without the express prior written permission of E2T. Refund Policy E2T offers non-tangible, irrevocable goods thus we do not provide refunds after purchase, which you acknowledge prior to purchasing any product on our websites. Please make sure that you've carefully read service description before making a ",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund policies",
+    "snippet": "each or otherwise fail to comply with this Agreement or E2T' then-current payment or refund policies. In addition, E2T may terminate a free account at any time in its sole discretion. If Service is suspended, whether for non-payment or any other reason, in order to rein",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "major news events with no restrictions\u2014react to market-moving announcements freely",
+    "snippet": "and 30% consistency rate\u2014no waiting period required. Can Trade News Trade through major news events with no restrictions\u2014react to market-moving announcements freely. What Our Traders Say M Mohamed ben \u201c It was a great experience passing the test for the funded account. I want to commend the wonderful support team for the accompan",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Earn a Funded Trading Account in 4 Days | Futures Prop Firm | Earn2Trade \ud83c\udf89 10-Year Anniversary Bundle: 3 \u00d7 TCP25 + 3 res",
+    "snippet": "Earn a Funded Trading Account in 4 Days | Futures Prop Firm | Earn2Trade \ud83c\udf89 10-Year Anniversary Bundle: 3 \u00d7 TCP25 + 3 resets \u2014 $27.50 per attempt. Ends Oct 10. Claim Offer Products Trader Career Path\u00ae The Gauntlet Mini\u2122 Beginner Crash Course Resources About Us Partners Pledge Blog Help",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn2Trade is a futures prop firm",
+    "snippet": "sh | US Non-US Login Trusted by 10,000+ traders Become a Pro Futures Trader Earn2Trade is a futures prop firm. We fund traders to trade the futures markets with our capital, after you pass an evaluation that proves you can manage the risk. #1 Funding Program Real Traders. Real",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Traders",
+    "snippet": "er you pass an evaluation that proves you can manage the risk. #1 Funding Program Real Traders. Real Accounts. Real Markets. Live Trading Accounts Easy Withdrawals No Minimum Trading Days Start Now and Get Funded What Is a Futures Prop Firm? A futures prop fi",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Accounts",
+    "snippet": "evaluation that proves you can manage the risk. #1 Funding Program Real Traders. Real Accounts. Real Markets. Live Trading Accounts Easy Withdrawals No Minimum Trading Days Start Now and Get Funded What Is a Futures Prop Firm? A futures prop firm gives trader",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Markets",
+    "snippet": "t proves you can manage the risk. #1 Funding Program Real Traders. Real Accounts. Real Markets. Live Trading Accounts Easy Withdrawals No Minimum Trading Days Start Now and Get Funded What Is a Futures Prop Firm? A futures prop firm gives traders access to it",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "or maintained by E2T, or accessible via www.earn2trade.com or any other web site or IP address designated by E2T (the \u201cSite\u201d), (ii) the Content (as defined below) contained therein, (iii) any mobile applications offered by E2T, and (iv) any offline components provided by E2T for use in connection therewith (collectively, the \u201cService\u201d). B",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Subscription Fee\n Once funded, there's no recurring subscription fee\u2014keep more of what you earn",
+    "snippet": "tly to a live account after passing the evaluation for a real market experience. No Subscription Fee Once funded, there's no recurring subscription fee\u2014keep more of what you earn. No Upfront Activation Fees The fee is deducted from profits\u2014not your funds\u2014only on your first withdrawal. No Minimum Trading Days Get funded as soon as you hit ",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fees\n The fee is deducted from profits\u2014not your funds\u2014only on your first withdrawal",
+    "snippet": "unded, there's no recurring subscription fee\u2014keep more of what you earn. No Upfront Activation Fees The fee is deducted from profits\u2014not your funds\u2014only on your first withdrawal. No Minimum Trading Days Get funded as soon as you hit the profit target and 30% consistency rate\u2014no waiting period required. Can Trade News Trade through major n",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscriptions passed against new subscriptions",
+    "snippet": "passed the Trader Career Path\u00ae / Gauntlet Mini\u2122 examinations. Percentage is based on subscriptions passed against new subscriptions. Of candidates who passed either exam or progressed in the Trader Career Path\u00ae, 5.23% traded a Live account, and 94.77% traded a LiveSim\u00ae account. In 2025, 18.04% of Liv",
+    "url": "https://www.earn2trade.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription, herein referred to as the 'Account Holder', is the sole authorized entity permitted to utilize the accompa",
+    "snippet": "rmation current. Account Ownership The individual initiating the purchase of the E2T subscription, herein referred to as the 'Account Holder', is the sole authorized entity permitted to utilize the accompanying evaluation and simulator account. The aforementioned Account Holder is deemed to be the permanent owner and exclusive user of the",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "subscription",
+    "snippet": "Billing Policy We will charge or debit your payment method at the beginning of your subscription. When we renew your subscription, we will use the payment method currently associated with your account. If your credit or debit account has been closed or your payment",
+    "url": "https://www.earn2trade.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader",
+  "Quantower",
+  "Rithmic",
+  "ATAS"
+ ],
+ "assets": [
+  "Forex",
+  "Crypto",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "sh Course Resources About Us Partners Pledge Blog Help Login English | US Non-US Login Trusted by 10,000+ traders Become a Pro Futures Trader Earn2Trade is a futures prop f",
+  "Once funded, you trade the firm's capital and keep a share of the profits you make. 0 YEARS In the Business 0 + Traders Funded in 2025 0 Reviews PropFirmMatch Earn2Trade 3,0"
+ ],
+ "errors": []
+}

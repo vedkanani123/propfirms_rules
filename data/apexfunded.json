@@ -1,0 +1,12 @@
+{
+ "slug": "apexfunded",
+ "name": "ApexFunded",
+ "category": "Forex/CFD",
+ "url": "https://www.apexfunded.io/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:404:http-404"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "slug": "funded-trading-plus",
+ "name": "Funded Trading Plus",
+ "category": "Forex/CFD",
+ "url": "https://fundedtradingplus.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

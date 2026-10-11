@@ -1,0 +1,12 @@
+{
+ "slug": "halcyon-trader-funding",
+ "name": "Halcyon Trader Funding",
+ "category": "Forex/CFD",
+ "url": "https://halcyontraderfunding.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:429:http-429"
+ ]
+}

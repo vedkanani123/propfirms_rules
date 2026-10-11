@@ -1,0 +1,242 @@
+{
+ "slug": "gelber-group",
+ "name": "Gelber Group",
+ "category": "Institutional",
+ "url": "https://www.gelbergroup.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.gelbergroup.com/",
+   "kind": "home",
+   "chars": 1008
+  },
+  {
+   "url": "https://www.gelbergroup.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 289
+  },
+  {
+   "url": "https://www.gelbergroup.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 155
+  },
+  {
+   "url": "https://www.gelbergroup.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1795
+  },
+  {
+   "url": "https://www.gelbergroup.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 74
+  },
+  {
+   "url": "https://www.gelbergroup.com/author-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 68
+  },
+  {
+   "url": "https://www.gelbergroup.com/official-rules/",
+   "kind": "page",
+   "chars": 26505
+  },
+  {
+   "url": "https://www.gelbergroup.com/about/",
+   "kind": "page",
+   "chars": 4113
+  },
+  {
+   "url": "https://www.gelbergroup.com/about/leadership/",
+   "kind": "page",
+   "chars": 6642
+  },
+  {
+   "url": "https://www.gelbergroup.com/contact/",
+   "kind": "page",
+   "chars": 1018
+  }
+ ],
+ "page_count": 10,
+ "total_chars": 41676,
+ "findings": {
+  "prices": [
+   {
+    "value": "12,50",
+    "snippet": "are as follows: Number of Applicable Type of Prize Prize ARV Grand Prize One (1) $12,500 $12,500 Second Place Prize One (1) $7,500 $7,500 Third Place Prize One (1) $5,000 $5,000 Approximate retail value (\u201cARV\u201d) for all Prizes is $25,000. All Prizes",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "7,50",
+    "snippet": "f Prize Prize ARV Grand Prize One (1) $12,500 $12,500 Second Place Prize One (1) $7,500 $7,500 Third Place Prize One (1) $5,000 $5,000 Approximate retail value (\u201cARV\u201d) for all Prizes is $25,000. All Prizes will be awarded. Sponsor will award all Priz",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5,00",
+    "snippet": "2,500 $12,500 Second Place Prize One (1) $7,500 $7,500 Third Place Prize One (1) $5,000 $5,000 Approximate retail value (\u201cARV\u201d) for all Prizes is $25,000. All Prizes will be awarded. Sponsor will award all Prizes to the Winners (defined below) in cash",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "25,00",
+    "snippet": "e Prize One (1) $5,000 $5,000 Approximate retail value (\u201cARV\u201d) for all Prizes is $25,000. All Prizes will be awarded. Sponsor will award all Prizes to the Winners (defined below) in cash or by wire transfer (to an account designated in writing by a Winner t",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "ount on the Platform. No real currency, virtual amounts convertible into currency or cryptocurrency will be used for trading during the Competition. In order to submit an entry to the Competition, each entrant must complete all of the following tasks and deliv",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "information, damaged, misdirected, mutilated, garbled or incomplete, altered or otherwise irregular in the sole discretion of Sponsor, that have been submitted or generated using robotic, programmed, script, or any other automated means, or illicit means, or",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "wire transfer",
+    "snippet": "awarded. Sponsor will award all Prizes to the Winners (defined below) in cash or by wire transfer (to an account designated in writing by a Winner to Sponsor), as determined by Sponsor in its sole discretion. All federal, state, and local tax liabilities are the sole",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Mas",
+    "snippet": "ving his Bachelor of Science in electrical engineering and computer science from the Massachusetts Institute of Technology (MIT). In addition to his work at Gelber, he serves on the business conduct committee for CME and CBOT. Phyllis Faul Co-Chief Financial Officer Phyllis Faul oversees",
+    "url": "https://www.gelbergroup.com/about/leadership/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Gelber Group, a Chicag",
+    "snippet": "rs Breakout Contact Passion for trading. Powered by technology. Gelber Group, a Chicago-based global proprietary trading company, has set the bar as one of the industry\u2019s most innovative and enduring firms. Our success is driven by our relentless pursuit o",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "worldwide, operating in a variety of asset classes inc",
+    "snippet": "ber Group is privately funded and trades on major exchanges in the United States and worldwide, operating in a variety of asset classes including foreign exchange, fixed income, equities, and commodities. Gelber has over 200 employees and offices located in Chicago, IL (headquarters); White Plains, NY; and A",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "luding foreign exchange, fixed inc",
+    "snippet": "anges in the United States and worldwide, operating in a variety of asset classes including foreign exchange, fixed income, equities, and commodities. Gelber has over 200 employees and offices located in Chicago, IL (headquarters); White Plains, NY; and Amsterdam/Gelber Co\u00f6peratief U.A.",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "has over 200 employees and offices located in Chicag",
+    "snippet": "classes including foreign exchange, fixed income, equities, and commodities. Gelber has over 200 employees and offices located in Chicago, IL (headquarters); White Plains, NY; and Amsterdam/Gelber Co\u00f6peratief U.A. About Leadership Trading Technology Careers Contact Privacy Notice LinkedIn \u00a9 G",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Gelber Group, LLC",
+    "snippet": "About Leadership Trading Technology Careers Contact Privacy Notice LinkedIn \u00a9 Gelber Group, LLC. All rights reserved.",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "NO PURCHASE OR PAYMENT IS NECESSA",
+    "snippet": "BREAKOUT\u201d COMPETITION OFFICIAL RULES Dates: October 1, 2025 \u2013 November 21, 2025 NO PURCHASE OR PAYMENT IS NECESSARY TO ENTER OR WIN THIS COMPETITION. A PURCHASE OR PAYMENT WILL NOT INCREASE YOUR CHANCES OF WINNING. THIS IS A COMPETITION OF SKILL. 1- SPONSOR : Gelber Group, LL",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "N THIS COMPETITION. A PURCHASE OR PAYMENT WILL NOT INC",
+    "snippet": "ober 1, 2025 \u2013 November 21, 2025 NO PURCHASE OR PAYMENT IS NECESSARY TO ENTER OR WIN THIS COMPETITION. A PURCHASE OR PAYMENT WILL NOT INCREASE YOUR CHANCES OF WINNING. THIS IS A COMPETITION OF SKILL. 1- SPONSOR : Gelber Group, LLC (the \u201cSponsor\u201d) will serve as the sponsor of \u201cThe Breakout\u201d Competiti",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "years of ag",
+    "snippet": "esident of the 50 United States and the District of Columbia and are twenty-one (21) years of age or older and (b) you visit the Sponsor\u2019s website at www.gelbergroup.com/thebreakout (the \u201cApplication Website\u201d), complete all fields in the application found on the App",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eadership \n Trading \n Technology \n Careers \n Breakout \n Contact \n \u2715 About \n Leadership \n Trading \n Technology \n Careers",
+    "snippet": "Home | Gelber Group About Leadership Trading Technology Careers Breakout Contact \u2715 About Leadership Trading Technology Careers Breakout Contact Passion for trading. Powered by technology. Gelber Group, a Chicago-based global proprietary trading company, has set the bar as one o",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eakout \n Contact \n \n \n \n Passion for trading",
+    "snippet": "ers Breakout Contact \u2715 About Leadership Trading Technology Careers Breakout Contact Passion for trading. Powered by technology. Gelber Group, a Chicago-based global proprietary trading company, has set the bar as one of the industry\u2019s most innovative and enduring",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eas and our emphasis on technological innovation",
+    "snippet": "and enduring firms. Our success is driven by our relentless pursuit of new trading ideas and our emphasis on technological innovation. Established in 1982, Gelber Group is privately funded and trades on major exchanges in the United States and worldwide, operating in a variety of asset classes includi",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadquarters); White Plains, NY; and Amsterdam/Gelber Co\u00f6peratief U",
+    "snippet": "and commodities. Gelber has over 200 employees and offices located in Chicago, IL (headquarters); White Plains, NY; and Amsterdam/Gelber Co\u00f6peratief U.A. About Leadership Trading Technology Careers Contact Privacy Notice LinkedIn \u00a9 Gelber Group, LLC. All rights reserved.",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadership Trading Technology Careers Contact Privacy Notice LinkedIn \n \u00a9 Gelber Group, LLC",
+    "snippet": "quarters); White Plains, NY; and Amsterdam/Gelber Co\u00f6peratief U.A. About Leadership Trading Technology Careers Contact Privacy Notice LinkedIn \u00a9 Gelber Group, LLC. All rights reserved.",
+    "url": "https://www.gelbergroup.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "e using multiple Accounts, e-mail addresses, telephone numbers, multiple identities, IP addresses, use of proxy servers or any other method of unauthorized entry, all in Sponsor\u2019s sole and absolute discretion, all of that entrant\u2019s entries will be declared null and void, entrant will be disqualified from the Competition and any Prize that",
+    "url": "https://www.gelbergroup.com/official-rules/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "info@gelbergroup.com",
+    "snippet": "350 North Orleans Street Suite S10000 Chicago, IL 60654 Directions +1 312 427 7100 info@gelbergroup.com Regulatory Inquiries compliance@gelbergroup.com Gelber Group New York 360 Hamilton Avenue White Plains, NY 10601 Directions info@gelbergroup.com Gelber Cooperat",
+    "url": "https://www.gelbergroup.com/contact/",
+    "kind": "page"
+   },
+   {
+    "value": "compliance@gelbergroup.com",
+    "snippet": ", IL 60654 Directions +1 312 427 7100 info@gelbergroup.com Regulatory Inquiries compliance@gelbergroup.com Gelber Group New York 360 Hamilton Avenue White Plains, NY 10601 Directions info@gelbergroup.com Gelber Cooperatief U.A. Gustav Mahlerplein 106, Floor 21 1082 MA,",
+    "url": "https://www.gelbergroup.com/contact/",
+    "kind": "page"
+   },
+   {
+    "value": "GelberNL@gelbergroup.com",
+    "snippet": "ein 106, Floor 21 1082 MA, Amsterdam Directions info@gelbergroup.com Disclosures GelberNL@gelbergroup.com About Leadership Trading Technology Careers Contact Privacy Notice LinkedIn \u00a9 Gelber Group, LLC. All rights reserved.",
+    "url": "https://www.gelbergroup.com/contact/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "FX",
+  "Energy",
+  "Commodities",
+  "Equities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

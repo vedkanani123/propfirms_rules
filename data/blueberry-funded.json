@@ -1,0 +1,579 @@
+{
+ "slug": "blueberry-funded",
+ "name": "Blueberry Funded",
+ "category": "Forex/CFD",
+ "url": "https://blueberryfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://blueberryfunded.com/",
+   "kind": "home",
+   "chars": 113
+  },
+  {
+   "url": "https://blueberryfunded.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 516
+  },
+  {
+   "url": "https://blueberryfunded.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 20066
+  },
+  {
+   "url": "https://blueberryfunded.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 3071
+  },
+  {
+   "url": "https://blueberryfunded.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 307
+  },
+  {
+   "url": "https://blueberryfunded.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 416
+  },
+  {
+   "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+   "kind": "page",
+   "chars": 6559
+  },
+  {
+   "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+   "kind": "page",
+   "chars": 10375
+  },
+  {
+   "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+   "kind": "page",
+   "chars": 26109
+  },
+  {
+   "url": "https://help.blueberryfunded.com/en/",
+   "kind": "sub",
+   "chars": 2100
+  },
+  {
+   "url": "https://help.blueberryfunded.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 42441
+  }
+ ],
+ "page_count": 11,
+ "total_chars": 112083,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "evaluation process. Phase 1 (The Challenge): This phase usually requires a higher profit target, typically ranging between 8% and 10%. The goal here is to prove that your strategy can generate substantial returns. Phase 2 (The Verification): The second phase is generally easier, often requiri",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "2 (The Verification): The second phase is generally easier, often requiring a lower profit target of around 5% to 6%. This stage proves that your Phase 1 success was based on consistent strategy rather than pure luck. Crucial Rules to Understand Before You Trade The num",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": ". In Phase 1 of the Prime Challenge, traders are tasked with an incredibly fair 8% profit target, which drops to just 6% in Phase 2. More importantly, Blueberry Funded utilizes a static 10% maximum overall drawdown. Unlike predatory trailing drawdowns that punish you for letting winning tr",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "12",
+    "snippet": "ature 1-Step Challenge 2-Step Challenge Instant Funding Phases 1 2 0 (immediate) Profit Target 8\u201312% 8\u201310% per phase None Drawdown Room Moderate Higher (split across phases) Low Pass Rate ~19% ~10% N/A (no evaluation) Time to Funded 15\u201335 days avg 30\u201360 days avg I",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "10",
+    "snippet": "cally 8% to 12% \u2014 while staying within defined drawdown limits, usually 4-6% maximum daily loss and 6-10% overall drawdown. Unlike 2-step challenges that require passing through a verification phase after hitting initial targets, 1-step programs offer direct funding upon rea",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "y loss, step away for 30 minutes. After two losses, the day is done. Ignoring the Daily Loss Limit The 4% daily drawdown seems generous until you\u2019re down 3.5% and convince yourself \u201cone more trade\u201d will recover it. Set a personal daily stop at 2% \u2014 half the firm\u2019s limit. Thi",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "3.5",
+    "snippet": "inutes. After two losses, the day is done. Ignoring the Daily Loss Limit The 4% daily drawdown seems generous until you\u2019re down 3.5% and convince yourself \u201cone more trade\u201d will recover it. Set a personal daily stop at 2% \u2014 half the firm\u2019s limit. This gives you three bad days before trouble, not one ca",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "0.5",
+    "snippet": "matical advantage is enormous under pressure [^38^]. Finotive offers generous 7.5% max drawdown, but their minimum trading days require 0.5% profit per day \u2014 effectively a soft consistency rule. FundedNext\u2019s explicit 50% consistency rule removes strategic flexibility for traders who catch genuine market moves",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "30",
+    "snippet": "Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payout +40% Product Subtotal Apply BBF Challenges \u00d7 1 Challenge Type: 1 Step Account Size: $100,000 Platform: MT5 $ 605.00 Subtota",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "me Challenge, you are granted a funded account where you receive an industry-leading 80% default profit share. Your profits are accessible via a highly reliable 14-day payout cycle, with the option to purchase a 7-day payout add-on at checkout. Furthermore, Blueberry Funded wa",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "0",
+    "snippet": "rmous under pressure [^38^]. Finotive offers generous 7.5% max drawdown, but their minimum trading days require 0.5% profit per day \u2014 effectively a soft consistency rule. FundedNext\u2019s explicit 50% consistency rule removes strategic flexibility for traders who catch genuine market mo",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "ective. Here\u2019s how the pipeline works: Purchase an evaluation account (typically $5K to $200K in simulated capital) Trade during the evaluation, hitting the profit target without breaching drawdown rules Get funded with a live simulated account upon",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "Here\u2019s how the pipeline works: Purchase an evaluation account (typically $5K to $200K in simulated capital) Trade during the evaluation, hitting the profit target without breaching drawdown rules Get funded with a live simulated account upon successfu",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "the data you need to make an informed decision. 1-Step Prop Firm Comparison Table ($100K Account) Firm Profit Target Daily DD Max DD Split Entry Fee Min Days Time Limit Drawdown Type Broker Backed Blueberry Funded \u2b50 10% 4% 6% 80\u201390% $275 3 None Static",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "110",
+    "snippet": "rows. On Blueberry\u2019s static drawdown , that $100K floor stays at $94,000 forever. At $110K equity, you have $16,000 of buffer versus just $6,000 with trailing. That mathematical advantage is enormous under pressure [^38^]. Finotive offers generous 7.5% max d",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "1,25",
+    "snippet": "etic instruments only. Forex pairs and other markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% O",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "2,50",
+    "snippet": "struments only. Forex pairs and other markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Deman",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "5,00",
+    "snippet": "ts only. Forex pairs and other markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payou",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "10,00",
+    "snippet": ". Forex pairs and other markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payout +40%",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "25,00",
+    "snippet": "pairs and other markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payout +40%",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "50,00",
+    "snippet": "d other markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payout +40% Produ",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "markets are not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payout +40% Product Subtot",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "200,00",
+    "snippet": "re not allowed. Account Size $1,250 $2,500 $5,000 $10,000 $25,000 $50,000 $100,000 $200,000 Platform MT5 Tradelocker Available Addons 7 Day Payout +20% 2% MAX RISK PER TRADE +30% On-Demand Payout +40% Product Subtotal",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "605.00",
+    "snippet": "F Challenges \u00d7 1 Challenge Type: 1 Step Account Size: $100,000 Platform: MT5 $ 605.00 Subtotal $ 605.00 Total $ 605.00 1. Customer Information Email Address * 2. Billing Details Use the name on your Government ID. This cannot be upd",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ective. Here\u2019s how the pipeline works: Purchase an evaluation account (typically $5K to $200K in simulated capital) Trade during the evaluation, hitting the profit target without breaching drawdown rules Get funded with a live simulated account upon",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "Here\u2019s how the pipeline works: Purchase an evaluation account (typically $5K to $200K in simulated capital) Trade during the evaluation, hitting the profit target without breaching drawdown rules Get funded with a live simulated account upon successf",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "the data you need to make an informed decision. 1-Step Prop Firm Comparison Table ($100K Account) Firm Profit Target Daily DD Max DD Split Entry Fee Min Days Time Limit Drawdown Type Broker Backed Blueberry Funded \u2b50 10% 4% 6% 80\u201390% $275 3 None Static",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "t balance can hit before the account is closed. Some firms use a highly restrictive \u201ctrailing drawdown\u201d that follows your highest account peak, making it incredibly difficult to survive standard market pullbacks. How Blueberry Funded Sets You Up for Success When se",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "static",
+    "snippet": "nlike predatory trailing drawdowns that punish you for letting winning trades run, a static drawdown provides a fixed, unchanging risk floor. This gives swing traders the necessary breathing room to manage wider stop-losses without fear of triggering a hidden violation.",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules \n One of the most frustrating aspects of passing an evaluation at other firms is dealing",
+    "snippet": "er stop-losses without fear of triggering a hidden violation. Complete Freedom: No Consistency Rules One of the most frustrating aspects of passing an evaluation at other firms is dealing with \u201cconsistency rules.\u201d These rules dictate that you cannot make too much of your profit on a single day or a single trade. Blueberry Funded completel",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules",
+    "snippet": "he most frustrating aspects of passing an evaluation at other firms is dealing with \u201cconsistency rules.\u201d These rules dictate that you cannot make too much of your profit on a single day or a single trade. Blueberry Funded completely eliminates this hurdle. As an elite no",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule prop firm , Blueberry allows you to trade your unique style organically",
+    "snippet": "r a single trade. Blueberry Funded completely eliminates this hurdle. As an elite no consistency rule prop firm , Blueberry allows you to trade your unique style organically. Whether you hit your 8% target with a single brilliant fundamental trade on a Friday afternoon or through 50 small scalps over a month, your pass is valid. Furthermo",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, unlimited time, EAs allowed, news trading permitted, and scaling up to $2M in max alloca",
+    "snippet": "g: genuine broker backing (ASIC-regulated Blueberry Markets), 6% static drawdown, no consistency rule, unlimited time, EAs allowed, news trading permitted, and scaling up to $2M in max allocation. That $275 entry fee for Blueberry is nearly half what Goat Funded Trader and FundedNext charge for the same $100K account. Over three attempts ",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "own, but their minimum trading days require 0.5% profit per day \u2014 effectively a soft consistency rule. FundedNext\u2019s explicit 50% consistency rule removes strategic flexibility for traders who catch genuine market moves. Why Blueberry Funded\u2019s 1-Step Challenge Wins o",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule removes strategic flexibility for traders who catch genuine market moves",
+    "snippet": "0.5% profit per day \u2014 effectively a soft consistency rule. FundedNext\u2019s explicit 50% consistency rule removes strategic flexibility for traders who catch genuine market moves. Why Blueberry Funded\u2019s 1-Step Challenge Wins on 6 Key Metrics I\u2019ve traded on Blueberry Markets infrastructure for over three years. I\u2019ve also funded accounts at",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "ads/2026/02/Alpha-capital-group-review.jpg https://blueberryfunded.com/bright-funded-crypto-firm/ 2026-07-16T16:06:30+00:00 https://blueberryfunded.com/wp-content/uploads/2026/02/bright-funded-crypto-firm-1.jpg https://blueberryfunded.com/wp-content/uploads/202",
+    "url": "https://blueberryfunded.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "variety of methods such as Credit/Debit Card, Crypto, or local methods including NGN Bank Transfer, GCash, and more. I confirm that I have read and agree to the Blueberry Funded Terms & Conditions , Privacy Policy , Outline of Evaluation and Fees , and the",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "ntent/uploads/2025/07/handPhoneWhite-980x1024.webp https://blueberryfunded.com/christmas/ 2025-12-19T08:42:15+00:00 https://blueberryfunded.com/elliot-hewitt-public/ 2026-01-06T17:33:17+00:00 https://blueberryfunded.com/ashane/ 2026-05-05T09:37:37+00:00 https://blueberryfunded.com/share-your-feedback/ 2026-0",
+    "url": "https://blueberryfunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "ASIC",
+    "snippet": "n Type Broker Backed Blueberry Funded \u2b50 10% 4% 6% 80\u201390% $275 3 None Static Yes (ASIC) Goat Funded Trader 10% 4% 6% 80\u2013100% ~$525 3 None Static No FundedNext Stellar 10% 3% 6% Up to 95% ~$549 2 None Static No Funded Trading Plus 10% 4% 6% Up to 100% ~$549 0 None Trailing No Finotive Funding 10% 4% 7.5% Up to 95% ~$549 3 @ 0.5% None Static",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "diwali-sa",
+    "snippet": "/wp-content/uploads/2025/07/handPhoneWhite-980x1024.webp https://blueberryfunded.com/diwali-sale/ 2025-10-17T11:26:58+00:00 https://blueberryfunded.com/halloween-sale/ 2025-10-26T18:27:25+00:00 https://blueberryfunded.com/affiliate/ 2025-11-11T04:29:59+00:00 https",
+    "url": "https://blueberryfunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "halloween-sa",
+    "snippet": "ueberryfunded.com/diwali-sale/ 2025-10-17T11:26:58+00:00 https://blueberryfunded.com/halloween-sale/ 2025-10-26T18:27:25+00:00 https://blueberryfunded.com/affiliate/ 2025-11-11T04:29:59+00:00 https://blueberryfunded.com/about/ 2025-11-11T04:36:06+00:00 https://bluebe",
+    "url": "https://blueberryfunded.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "lgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sa",
+    "snippet": "gentina Armenia Aruba Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belau Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Saint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada C",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "int Eustatius and Sa",
+    "snippet": "ain Bangladesh Barbados Belau Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Saint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Isl",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "Kinshasa",
+    "snippet": "Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo (Brazzaville) Congo (Kinshasa) Cook Islands Costa Rica Croatia Cuba Cura\u00e7ao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Esto",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "bouti Dominica Dominican Republic Ecuador Egypt El Sa",
+    "snippet": "shasa) Cook Islands Costa Rica Croatia Cuba Cura\u00e7ao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories G",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "nds Fiji Finland France French Guiana French Polynesia",
+    "snippet": "vador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard I",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   },
+   {
+    "value": "ada Guadeloupe Guatemala Guernsey Guinea Guinea-Bissa",
+    "snippet": "uthern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Honduras Hong Kong Hungary Iceland India Indonesia Ireland Isle of Man Israel Italy Ivory Coast Jamaica Japan Jersey Jord",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund, and you must purchase a new evaluation to try again",
+    "snippet": "limit\u2014your challenge account will be immediately terminated. You will not receive a refund, and you must purchase a new evaluation to try again. Does Blueberry Funded impose a time limit to pass the challenge? No. Blueberry Funded provides unlimited trading days to complete both phases of their Prime Chal",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "refund-policy 2026-07-13T07:41:18Z https://help",
+    "snippet": "\u30f3\u30c8\u3092\u53d7\u3051\u53d6\u308c\u307e\u3059\u304b 2026-03-17T04:51:08Z https://help.blueberryfunded.com/en/articles/9773783-refund-policy 2026-07-13T07:41:18Z https://help.blueberryfunded.com/es/articles/9773783-politica-de-reembolsos 2026-05-11T03:49:55Z https://help.blueberryfunded.com/en/articles/9774387-what-is-your-ip-rule-regarding-m",
+    "url": "https://help.blueberryfunded.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading and martingale strategies, and impose no time limits on your evaluation\u2014meaning you can take as long as you",
+    "snippet": "50 small scalps over a month, your pass is valid. Furthermore, they explicitly allow news trading and martingale strategies, and impose no time limits on your evaluation\u2014meaning you can take as long as you need to hit your targets without rushing your setups. The Reward: Premium Payouts and Scaling Upon successfully completing the Prime C",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, extreme volatility can cause slippage that blows past your stop-loss",
+    "snippet": "t for your highest-probability trades. Understand the News: While Blueberry allows news trading, extreme volatility can cause slippage that blows past your stop-loss. Ensure your position sizing accounts for sudden liquidity gaps during major macroeconomic releases. The Final Verdict Passing a prop firm challenge account is entir",
+    "url": "https://blueberryfunded.com/prop-firm-challenge-account/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading permitted, and scaling up to $2M in max allocation",
+    "snippet": "erry Markets), 6% static drawdown, no consistency rule, unlimited time, EAs allowed, news trading permitted, and scaling up to $2M in max allocation. That $275 entry fee for Blueberry is nearly half what Goat Funded Trader and FundedNext charge for the same $100K account. Over three attempts \u2014 the industry average",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading, and Weekend Holds Allowed \n Run your expert advisor",
+    "snippet": "the full reward. No artificial constraints on how you assemble your 10%. 4. EAs, News Trading, and Weekend Holds Allowed Run your expert advisor. Trade NFP. Hold positions through the weekend. Blueberry\u2019s policy framework lets you execute your strategy as designed. The only funded-account constraints are clearly",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ease Wait ShopShield \n \n \n \n \n \n \n \n \n \n \n Please wait\n We are optimizing your request for the best experience",
+    "snippet": "Please Wait ShopShield Please wait We are optimizing your request for the best experience.",
+    "url": "https://blueberryfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn-trading-in-the-right-way/ 2025-08-22T16:15:33+00:00 https://blueberryfunded",
+    "snippet": "nded.com/blog/ 2026-09-28T02:44:50+00:00 https://blueberryfunded.com/dont-get-hyped-learn-trading-in-the-right-way/ 2025-08-22T16:15:33+00:00 https://blueberryfunded.com/wp-content/uploads/2025/08/bbf_blog_01.jpg https://blueberryfunded.com/loveinstantfunding2/ 2025-10-10T18:59:31+00:00 https://blueberryfunded.com/wp-content/uploads/",
+    "url": "https://blueberryfunded.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "easiest-prop-trading-firms/ 2026-07-16T16:10:11+00:00 https://blueberryfunded",
+    "snippet": "om/wp-content/uploads/2026/02/e8-markets-prop-firm-1.jpg https://blueberryfunded.com/easiest-prop-trading-firms/ 2026-07-16T16:10:11+00:00 https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-firms.jpg https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-firms-2.png https://blueberryfu",
+    "url": "https://blueberryfunded.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "easiest-prop-trading-firms",
+    "snippet": "ms/ 2026-07-16T16:10:11+00:00 https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-firms.jpg https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-firms-2.png https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-f",
+    "url": "https://blueberryfunded.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "easiest-prop-trading-firms-2",
+    "snippet": "asiest-prop-trading-firms.jpg https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-firms-2.png https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-firms-3.jpg https://blueberryfunded.com/wp-content/uploads/2026/02/easiest-prop-trading-f",
+    "url": "https://blueberryfunded.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "-\u306f\u3042\u308a\u307e\u3059\u304b 2025-11-26T08:38:27Z https://help.blueberryfunded.com/en/articles/9859313-is-vpn-or-vps-allowed 2026-07-09T06:55:39Z https://help.blueberryfunded.com/es/articles/9859313-esta-permitido-el-uso-de-vpn-o-vps 2026-08-28T22:20:35Z https://help.blueberryfunded.com/en/articles/9859335-is-a-stop-loss-manda",
+    "url": "https://help.blueberryfunded.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 4-6% drawdown \n Choos",
+    "snippet": "ipline without external checkpoints \u2013 You prefer speed and want the fastest route to payouts \u2013 Your normal losing streak is quantified and stays within 4-6% drawdown Choose a 2-step challenge instead if: \u2013 You\u2019re still validating your strategy \u2013 You want more drawdown room (split across two phases) \u2013 You prefer staged confirmation and re",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "24 hours",
+    "snippet": "ly defined 1.5% risk-per-trade framework on funded accounts. With $8.3M+ in verified payouts, 15,000+ funded traders, and processing times under 24 hours, the operational track record speaks for itself. Ready to take your 1-step challenge? Use code MATCH for additional savings on your evaluation. Your funded account is",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan increases your account by 25% every 3 months with consistent performance, up to a $2 million maximum alloca",
+    "snippet": "you\u2019ve already requested a payout. 6. Scaling to $2M Max Allocation Blueberry\u2019s scaling plan increases your account by 25% every 3 months with consistent performance, up to a $2 million maximum allocation . That\u2019s institutional-level capital accessible through a single evaluation. At 80% profit split (scalable to 90%), a 5% monthly return",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans that increase capital over time",
+    "snippet": "e for profit payouts after the required payout period. Many firms also offer account scaling plans that increase capital over time. What is the best 1 step prop firm in 2026? Blueberry Funded is widely considered one of the strongest choices in 2026 because it combines broker backing, static",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling program",
+    "snippet": "tic drawdown, unlimited trading time, competitive pricing, high profit splits, and a scaling program. However, the best firm ultimately depends on your preferred trading style, risk limits, and account size. How much does a 1 step prop firm challenge cost? Entry",
+    "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Verification\n Learn how to verify your identity and complete the KYC process for a funded account",
+    "snippet": "rticles Promotions Learn about our promotions and special offers 1 article KYC Verification Learn how to verify your identity and complete the KYC process for a funded account. 1 article Announcements Important updates, platform news, and policy changes 5 articles",
+    "url": "https://help.blueberryfunded.com/en/",
+    "kind": "sub"
+   },
+   {
+    "value": "kyc-verification-on-my-dashboard 2026-05-30T08:17:14Z https://help",
+    "snippet": "17T04:58:25Z https://help.blueberryfunded.com/en/articles/10622787-how-do-i-complete-kyc-verification-on-my-dashboard 2026-05-30T08:17:14Z https://help.blueberryfunded.com/es/articles/10622787-como-completo-la-verificacion-kyc-en-mi-panel 2026-05-30T08:23:21Z https://help.blueberryfunded.com/en/articles/10622823-challen",
+    "url": "https://help.blueberryfunded.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "kyc-en-mi-panel 2026-05-30T08:23:21Z https://help",
+    "snippet": "https://help.blueberryfunded.com/es/articles/10622787-como-completo-la-verificacion-kyc-en-mi-panel 2026-05-30T08:23:21Z https://help.blueberryfunded.com/en/articles/10622823-challenge-accounts-processing-time 2025-02-22T21:51:23Z https://help.blueberryfunded.com/es/articles/10622823-tiempo-de-procesam",
+    "url": "https://help.blueberryfunded.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription paid to BlueberryFunded to participate in trading challenges",
+    "snippet": "s challenges. Funds paid to BlueberryFunded do not constitute client money and are a subscription paid to BlueberryFunded to participate in trading challenges. Trading on Margin Carries High Risk. \u00a9 2024 - 2026 BlueberryFunded . All rights reserved. Privacy Policy Terms and conditions =",
+    "url": "https://blueberryfunded.com/checkout/?add-to-cart=6025",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ed by real brokerage infrastructure, not just clever marketing. While many traders also consider an instant funding prop firm , one-step evaluations remain a popular choice for those who prefer proving consistency before managing larger capital. Within this landscape, the",
+   "url": "https://blueberryfunded.com/1-step-prop-firm-challenges/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "yfunded.com/wp-content/uploads/2026/07/instant-funding-prop-firm-2.webp https://blueberryfunded.com/1-step-prop-firm-challenges/ 2026-07-20T12:27:09+00:00 https://blueberryfunded.com/wp-content/uploads/2026/07/1-step-prop-firm-challenge.jpg https://blueberryfunded.c",
+   "url": "https://blueberryfunded.com/post-sitemap.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "funded.com/wp-content/uploads/2026/07/1-step-prop-firm-challenge-4.webp https://blueberryfunded.com/2-step-prop-firm-challenges/ 2026-07-21T05:38:32+00:00 https://blueberryfunded.com/wp-content/uploads/2026/07/2-step-prop-firm-challenges.jpeg https://blueberryfunded",
+   "url": "https://blueberryfunded.com/post-sitemap.xml"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "lueberryfunded.com/shop/ 2026-09-24T18:24:39+00:00 https://blueberryfunded.com/product/bbf-giveaway-3-step/ 2026-05-25T13:15:38+00:00 https://blueberryfunded.com/product/bbf-challenges/ 2026-09-22T22:03:02+00:00 https://blueberryfunded.com/product/bbf-challenge-rese",
+   "url": "https://blueberryfunded.com/product-sitemap.xml"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "DXtrade",
+  "TradeLocker"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Gold",
+  "Crypto",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "MATCH",
+   "context": "e operational track record speaks for itself. Ready to take your 1-step challenge? Use code MATCH for additional savings on your evaluation. Your funded acco"
+  }
+ ],
+ "claims": [
+  "trajectory Blueberry\u2019s top traders are on right now. The Psychology of Passing a 1-Step Challenge (What 3,000+ Traders Taught Me) After reviewing over 3,000 trader submissions"
+ ],
+ "errors": [
+  "https://blueberryfunded.com/product/bbf-challenge-reset-fee/:429:http-429",
+  "https://blueberryfunded.com/2-step-prop-firm-challenges/:429:http-429",
+  "https://blueberryfunded.com/funding-traders-prop-firm-challenge/:429:http-429",
+  "https://blueberryfunded.com/ftmo-challenge-prop-firm/:429:http-429",
+  "https://blueberryfunded.com/benefits-of-no-consistency-rule-prop-firm/:429:http-429",
+  "https://blueberryfunded.com/about/:429:http-429",
+  "https://blueberryfunded.com/contact/:429:http-429",
+  "https://blueberryfunded.com/funded-trading-accounts/:429:http-429"
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "slug": "oneup-trader",
+ "name": "OneUp Trader",
+ "category": "Futures",
+ "url": "https://oneuptrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.oneuptrader.com/",
+   "kind": "home",
+   "chars": 21788
+  },
+  {
+   "url": "https://www.oneuptrader.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 70
+  },
+  {
+   "url": "https://www.oneuptrader.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 509
+  },
+  {
+   "url": "https://www.oneuptrader.com/terms-conditions/",
+   "kind": "page",
+   "chars": 28147
+  },
+  {
+   "url": "https://www.oneuptrader.com/about-us/",
+   "kind": "page",
+   "chars": 5161
+  },
+  {
+   "url": "https://www.oneuptrader.com/partner-program-signup/",
+   "kind": "page",
+   "chars": 4042
+  },
+  {
+   "url": "https://help.oneuptrader.com/",
+   "kind": "sub",
+   "chars": 1081
+  },
+  {
+   "url": "https://help.oneuptrader.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 6367
+  }
+ ],
+ "page_count": 8,
+ "total_chars": 67172,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Market Data/Level 2 24/7 Customer Support Min. 10 Trading Days Get For $65/mo ...or test FREE for 7 days! Evaluation Pro Evaluation",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "25,00",
+    "snippet": "valuation No Fees Flawless 24/7 Support FUNDED TRADING ACCOUNTS Choose Account $25,000 $50,000 $100,000 $150,000 $250,000 Evaluation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit F",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "n No Fees Flawless 24/7 Support FUNDED TRADING ACCOUNTS Choose Account $25,000 $50,000 $100,000 $150,000 $250,000 Evaluation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "es Flawless 24/7 Support FUNDED TRADING ACCOUNTS Choose Account $25,000 $50,000 $100,000 $150,000 $250,000 Evaluation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10,000 Prof",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "ess 24/7 Support FUNDED TRADING ACCOUNTS Choose Account $25,000 $50,000 $100,000 $150,000 $250,000 Evaluation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250,00",
+    "snippet": "Support FUNDED TRADING ACCOUNTS Choose Account $25,000 $50,000 $100,000 $150,000 $250,000 Evaluation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimite",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "000 $150,000 $250,000 Evaluation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Mar",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "ontracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Market Data/Level 2 24/7 Customer Support Min. 10 Trading Days Get For $65/m",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "65",
+    "snippet": "ense FREE Market Data/Level 2 24/7 Customer Support Min. 10 Trading Days Get For $65/mo ...or test FREE for 7 days! Evaluation Pro Evaluation $50,000 $50,000 Max 6 Contracts $3,000 Profit Target $2,500 Trailing Drawdown No Daily Loss Limit First",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "test FREE for 7 days! Evaluation Pro Evaluation $50,000 $50,000 Max 6 Contracts $3,000 Profit Target $2,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Mar",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "Evaluation Pro Evaluation $50,000 $50,000 Max 6 Contracts $3,000 Profit Target $2,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Market Data/Level 2 24/7",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "ense FREE Market Data/Level 2 24/7 Customer Support Min. 10 Trading Days Get For $75/mo ...or test FREE for 7 days! Evaluation Pro Evaluation $100,000 $100,000 Max 12 Contracts $6,000 Profit Target $3,500 Trailing Drawdown No Daily Loss Limit Fi",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,00",
+    "snippet": "t FREE for 7 days! Evaluation Pro Evaluation $100,000 $100,000 Max 12 Contracts $6,000 Profit Target $3,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Mar",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "ation Pro Evaluation $25,000 $25,000 Max 3 Contracts $1,500 Profit Target $1,500 Trailing Drawdown No Daily Loss Limit First $10,000 Profits FREE Unlimited Balance Resets 90% Profit Split FREE NinjaTrader License FREE Market Data/Level 2 24/7 Customer Support",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "wise",
+    "snippet": "e. You may not redistribute, sell, decompile, reverse engineer, disassemble, or otherwise reduce the software and files to any other form whatsoever. Prohibited Uses You are expressly prohibited from using the Website to violate any law, statute, ordinance,",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "ou agree not to hold the Company liable for any possible claims of damages that may arise from any decision that you make based upon the use of data, information, and content on this Website. While OneUp Trader does not provide you with the opportunity to in",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "crypto",
+    "snippet": "d 2022-02-01T18:00:54Z https://help.oneuptrader.com/article/478-withdraw-profits-via-cryptocurrency 2023-02-03T14:36:28Z https://help.oneuptrader.com/article/334-multicharts 2025-07-21T12:31:22Z https://help.oneuptrader.com/article/352-how-do-i-cancel-my-accoun",
+    "url": "https://help.oneuptrader.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "CFTC",
+    "snippet": "consider trading. Past performance is not necessarily indicative of future results. CFTC rule 4.41: Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also,",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "licensed by",
+    "snippet": "RT NOW Terms & Conditions Welcome to OneUpTrader (\u201cWebsite\u201d), owned, operated, or licensed by OneUp Trader (\u201cCompany\u201d). Company provides you (\u201cyou\u201d or the \u201cUser\u201d) with a limited license to use the Website subject to the terms contained within this Terms and Conditions of Use Agreement (\u201c",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "authorized by",
+    "snippet": "tity has a good faith belief that the use of the allegedly infringing content is not authorized by the copyright owner, its agent, or the law; and A statement, under penalty of perjury, that the information in the notification is accurate and that the notifying person(s) or entity is authorized to act on behalf of the copyright owner. Upo",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "e People Who Did Not Realize How Close They Were To Success When They Gave Up. \u201d -Thomas Edison EMPOWERING TRADERS Core Strengths SIMPLICITY It really is as easy as 1-2 with us. No 3. There are no extra steps in between our tried, tested, and proven process because we want to cut to the chase and get you started as soon as possible. We be",
+    "url": "https://www.oneuptrader.com/about-us/",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ve amount of hoops, and place unrealistic parameters on a measure of success. These unfair expectations can discourage even the most enthusiastic beginners. TRANSPARENCY We are fully committed to full transparency in our entire process. We believe in our product, and we believe in you. We are your one-stop solution. We ha",
+    "url": "https://www.oneuptrader.com/about-us/",
+    "kind": "page"
+   },
+   {
+    "value": "sca",
+    "snippet": "2026-01-26T08:29:36Z https://help.oneuptrader.com/article/386-funded-trader-dynamic-scaling-targets 2026-03-27T17:22:54Z https://help.oneuptrader.com/article/491-ninjatrader-desktop-version-v-8-1-connection-guide 2026-01-27T20:50:58Z https://help.oneuptrader.com/article/367-economic-release-calendar 20",
+    "url": "https://help.oneuptrader.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Advantag",
+    "snippet": "and write your own success story! Get Funded Funded Traders Success Stories Advantages of The Funded Trader Program Our 1-Step Evaluation process is easy and user-friendly. Reach clear and attainable targets and start trading with your funded trader acc",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rvice via Phone, Live Chat and Email. Our friendly ag",
+    "snippet": ", we succeed! Outstanding Customer Service Flawless and reliable 24/7 Customer Service via Phone, Live Chat and Email. Our friendly agents will answer all your questions in just a few minutes! START NOW A simple 1-Step Evaluation No Fees Flawless 24/7 Support FUNDED TRADING ACCOUNTS Choose Accou",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "FREE and unlimited",
+    "snippet": "1-Step Evaluation with clear and attainable targets No data fees or hidden fees FREE and unlimited profit withdrawals from day 1 Ease of trading and a 2-strike policy when funded No Daily Drawdown FREE NinjaTrader License & real-time market data (Level 2 included)",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Level 2 inc",
+    "snippet": "cy when funded No Daily Drawdown FREE NinjaTrader License & real-time market data (Level 2 included) Get funded in only 3 days with an Express Account Trailing drawdown STOPS at the initial starting balance 24/7 Customer Support (Phone, Live Chat, Email) Dynam",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "No or limited",
+    "snippet": "rket data fees Prolonged evaluation period Trailing drawdown NEVER stops trailing No or limited customer support Limited or no account analytics tools Trading alone with no or limited educational content Smaller account sizes Complicated and low-reward referral",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trading alone with no or limited",
+    "snippet": "ops trailing No or limited customer support Limited or no account analytics tools Trading alone with no or limited educational content Smaller account sizes Complicated and low-reward referral programs YOUR FUNDED TRADER SUCCESS STORY Get funded by a Prop Firm whose interests a",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Take full advantag",
+    "snippet": "in a Private Community to chat, post, comment, share and analyze your trading ideas Take full advantage of Advanced Analytics and Trading Statistics tools with daily updates Maximise your profit potential with our vast funding network and multiple funding sources Choose",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ur funding partners. Holidays and weekends are not inc",
+    "snippet": "tal trading days (consecutive or non-consecutive) to be eligible for placement with our funding partners. Holidays and weekends are not included. Profit Target Achieve the profit target. Your required profit is based on the account you choose. It is the minimum amount of net profits needed for placement wi",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunds\n Company may provide products, services, subscriptions, or access to certain portions to the Website at a moneta",
+    "snippet": "your account has been breached, you must immediately notify Company. Purchases and Refunds Company may provide products, services, subscriptions, or access to certain portions to the Website at a monetary cost. Except for services, subscriptions, or accesses subject to Section 9 of this Agreement, prices and availability are subject to ch",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "refundable",
+    "snippet": "ed transaction. Any one-time service, subscription, or access purchases will be non-refundable. Cancellation of any reoccurring service, subscription, or access purchases will be subject to Section 9 of this Agreement. Billing Some services, subscriptions, or ac",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "easy and user-friendly",
+    "snippet": "Stories Advantages of The Funded Trader Program Our 1-Step Evaluation process is easy and user-friendly. Reach clear and attainable targets and start trading with your funded trader account. It\u2019s that simple! Data Fees - None! Hidden Fees - None! Make the most of your",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each clear and attainable targets and start trading with your funded trader account",
+    "snippet": "The Funded Trader Program Our 1-Step Evaluation process is easy and user-friendly. Reach clear and attainable targets and start trading with your funded trader account. It\u2019s that simple! Data Fees - None! Hidden Fees - None! Make the most of your trades with the latest data and industry news. All are completely free. No hidden fees",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eat The Rest\n OneUp Trader\n \n 1-Step Evaluation with clear and attainable targets\n No data fees or hidden fees\n FREE and",
+    "snippet": "Support Min. 5 Trading Days Get For $490/mo ...or test FREE for 7 days! Why We Beat The Rest OneUp Trader 1-Step Evaluation with clear and attainable targets No data fees or hidden fees FREE and unlimited profit withdrawals from day 1 Ease of trading and a 2-strike policy when funded No Daily Drawdown FREE NinjaTrader License & real-time ",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Ease of trading and a 2-strike policy when funded\n No Daily Drawdown\n FREE NinjaTrader License & real-time market data (",
+    "snippet": "gets No data fees or hidden fees FREE and unlimited profit withdrawals from day 1 Ease of trading and a 2-strike policy when funded No Daily Drawdown FREE NinjaTrader License & real-time market data (Level 2 included) Get funded in only 3 days with an Express Account Trailing drawdown STOPS at the initial starting balance 24/7 Customer Su",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eas\n Take full advantage of Advanced Analytics and Trading Statistics tools with daily updates\n Maximise your profit pot",
+    "snippet": "0 Join a Private Community to chat, post, comment, share and analyze your trading ideas Take full advantage of Advanced Analytics and Trading Statistics tools with daily updates Maximise your profit potential with our vast funding network and multiple funding sources Choose from over 20 top Trading Execution Platforms ONLY A 1-STEP EVALUA",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "es Tons of hidden costs and data fees Lengthy withdrawal periods with extra fees & withdrawal caps Trading restrictions with instant account termination Impose Daily Loss Limit Restrictions Expensive trading platforms & market data fees Prolonged evaluation period Trailing drawdown NEVER stops tra",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee once funded?\n When you start your evaluation, you only pay 50% of the evaluation fee upfront instead of t",
+    "snippet": "ur commitment to providing flexibility and options to traders. Do I have to pay any activation fee once funded? When you start your evaluation, you only pay 50% of the evaluation fee upfront instead of the full amount . If you successfully pass the evaluation and become funded, you will then pay the remaining 50%. This means that, if you ",
+    "url": "https://www.oneuptrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscriptions, or access to certain portions to the Website at a monetary cost",
+    "snippet": "tely notify Company. Purchases and Refunds Company may provide products, services, subscriptions, or access to certain portions to the Website at a monetary cost. Except for services, subscriptions, or accesses subject to Section 9 of this Agreement, prices and availability are subject to change without notice. Company may allow",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions, or accesses subject to Section 9 of this Agreement, prices and availability are subject to change without",
+    "snippet": "r access to certain portions to the Website at a monetary cost. Except for services, subscriptions, or accesses subject to Section 9 of this Agreement, prices and availability are subject to change without notice. Company may allow for such purchases within its Website or may connect you to a third-party affiliate. At such time, you will ",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, or access to a certain portion of the Website, you agree to pay the purchase price that will be included i",
+    "snippet": "ses on any such third-party websites. Upon placing an order for a product, service, subscription, or access to a certain portion of the Website, you agree to pay the purchase price that will be included in the order summary page or similar ordering display. Company or its third-party affiliates may use the services of third-party payment ",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, or access to certain portions of the Website, Company will make any said product, service, or access will ",
+    "snippet": "le for reading and understanding. Upon the complete purchase of a product, service, subscription, or access to certain portions of the Website, Company will make any said product, service, or access will be available to you immediately following approved transaction. Any one-time service, subscription, or access purchases will be non-refu",
+    "url": "https://www.oneuptrader.com/terms-conditions/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "Beginners Contact Us Partners Login START NOW BECOME A FULLY FUNDED TRADER Pass our simple 1-Step Evaluation and get your Prop Firm funded account! Trustpilot Prove your trading skills in only ONE STEP, get funded, and write your own success story! G",
+   "url": "https://www.oneuptrader.com/"
+  }
+ ],
+ "platforms": [
+  "NinjaTrader",
+  "Quantower",
+  "Rithmic",
+  "ATAS"
+ ],
+ "assets": [
+  "FX",
+  "Indices",
+  "Gold",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

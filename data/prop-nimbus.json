@@ -1,0 +1,24 @@
+{
+ "slug": "prop-nimbus",
+ "name": "Prop Nimbus",
+ "category": "Forex/CFD",
+ "url": "https://propnimbus.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://propnimbus.com/",
+   "kind": "home",
+   "chars": 74
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 74,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

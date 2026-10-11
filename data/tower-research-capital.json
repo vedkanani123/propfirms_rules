@@ -1,0 +1,12 @@
+{
+ "slug": "tower-research-capital",
+ "name": "Tower Research Capital",
+ "category": "Institutional",
+ "url": "https://www.tower-research.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

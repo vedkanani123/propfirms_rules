@@ -1,0 +1,563 @@
+{
+ "slug": "fundedfirm",
+ "name": "FundedFirm",
+ "category": "Forex/CFD",
+ "url": "https://fundedfirm.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.fundedfirm.com/",
+   "kind": "home",
+   "chars": 6159
+  },
+  {
+   "url": "https://www.fundedfirm.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 15357
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/How-to-Build-a-Trading-Plan-Specifically-for-Funded-Account-Rules",
+   "kind": "page",
+   "chars": 12824
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+   "kind": "page",
+   "chars": 11998
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/How-to-Recover-from-a-3-Drawdown-Without-Breaking-Your-Rules",
+   "kind": "page",
+   "chars": 12235
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/8-Pro-Tips-for-Maintaining-Consistency-After-Your-First-Payout",
+   "kind": "page",
+   "chars": 12618
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+   "kind": "page",
+   "chars": 870901
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/5-Prop-Firm-Trading-Rules-You-Must-Know-FundedFirm",
+   "kind": "page",
+   "chars": 9403
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/How-to-Pass-a-Prop-Firm-Challenge-Your-Step-by-Step-Roadmap-to-Success",
+   "kind": "page",
+   "chars": 12579
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/8-Benefits-of-No-Time-Limit-Prop-Firm-Challenges-for-Patient-Traders",
+   "kind": "page",
+   "chars": 9294
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/5-Technical-Indicators-That-Actually-Work-for-Prop-Firm-Challenges",
+   "kind": "page",
+   "chars": 13027
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/7-Non-Negotiable-Risk-Management-Rules-for-Every-Prop-Trader",
+   "kind": "page",
+   "chars": 11993
+  },
+  {
+   "url": "https://www.fundedfirm.com/blog/Top-5-Risk-Management-Rules-for-Surviving-an-Instant-Funded-Account",
+   "kind": "page",
+   "chars": 9525
+  },
+  {
+   "url": "https://www.fundedfirm.com/trader-rules",
+   "kind": "page",
+   "chars": 3474
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 1011400,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "ation, numerous companies impose a limitation of 1-2% risk for each trade , a cap on daily loss (usually 5% or lower), and a predetermined maximum drawdown. Memorize these guidelines. If your trading plan is not in line with them, then chances are you will be unsuccessful in",
+    "url": "https://www.fundedfirm.com/blog/How-to-Build-a-Trading-Plan-Specifically-for-Funded-Account-Rules",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "8",
+    "snippet": "day,y often between 4% and 8% ofyour accountt balance. Overall Drawdown Your total maximum loss for the entire challenge is requently 8% to 12% . Trailing Drawdown This rule means that the higher the profit, the greater the maximum admissible loss threshold should rise to allow failure after the winnings",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "r their capital protection and usually allow a daily drawdown of about 4-5% and a maximum overall drawdown of 8-10% . Going beyond these limits can lead to instant closure of the account, irrespective of prior profit-making. Following the drawdown rules is very important for the long-",
+    "url": "https://www.fundedfirm.com/blog/7-Non-Negotiable-Risk-Management-Rules-for-Every-Prop-Trader",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "70",
+    "snippet": "trictest sense, profit splits and payout conditions are often overlooked. Typical profit splits: Around 70% for traders and 30% for the firm, but these can vary. Some firms increase your split over time if you remain consistent. But hidden conditions can include: Minimum wi",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "t Trusted Prop Firm 2025 The Prop Firm Built for Serious Traders. Get Funded Up to $100K & Withdraw Your Profits in 24 Hours. $22+ Million Paid Out to Real Traders. Buy Challenges Download app on App Store Download app on Play Store 0 k+ Funded Traders",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ndedFirm Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maxim",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Firm Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Da",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily L",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "enges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily Loss M",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "t Trusted Prop Firm 2025 The Prop Firm Built for Serious Traders. Get Funded Up to $100K & Withdraw Your Profits in 24 Hours. $22+ Million Paid Out to Real Traders. Buy Challenges Download app on App Store Download app on Play Store 0 k+ Funded Traders",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "22",
+    "snippet": "lt for Serious Traders. Get Funded Up to $100K & Withdraw Your Profits in 24 Hours. $22+ Million Paid Out to Real Traders. Buy Challenges Download app on App Store Download app on Play Store 0 k+ Funded Traders 0 + Countries 0 /5 Rating 0 % Payout",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ndedFirm Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maxi",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Firm Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum D",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "enges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily Loss",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "549",
+    "snippet": "Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily Loss Most you can lose in one trading da",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "649",
+    "snippet": "nt Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily Loss Most you can lose in one trading day, flo",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9,13",
+    "snippet": ":43:58.213Z monthly 0.6 https://www.fundedfirm.com/blog/How-Yash-Kumar-Singh-Earned-$9,139.24-with-FundedFirm 2026-06-05T07:42:51.972Z monthly 0.6 https://www.fundedfirm.com/blog/what-are-trading-rules 2026-06-05T06:56:46.771Z monthly 0.6 https://www.funded",
+    "url": "https://www.fundedfirm.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "100,00",
+    "snippet": "while remaining within the limits set by the prop firm. For example: If you have a $100,000 account, and you risk 1% per trade, your maximum monetary loss per trade is $1,000 . If you risk only 0.5%, that drops to $500, giving you more buffer against consecu",
+    "url": "https://www.fundedfirm.com/blog/7-Non-Negotiable-Risk-Management-Rules-for-Every-Prop-Trader",
+    "kind": "page"
+   },
+   {
+    "value": "500",
+    "snippet": "r maximum monetary loss per trade is $1,000 . If you risk only 0.5%, that drops to $500, giving you more buffer against consecutive losses. Why this matters: A smaller size lets you survive losing streaks and avoid emotional overtrading. It keeps drawdo",
+    "url": "https://www.fundedfirm.com/blog/7-Non-Negotiable-Risk-Management-Rules-for-Every-Prop-Trader",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "h lower win rates. For instance: If you risk $100 with a 1:2 R:R, you aim to make $200. Even with a 40% win rate, this trade structure can yield a net profit over many trades thanks to favourable payoff potential. Why it matters: A strong R:R ensures th",
+    "url": "https://www.fundedfirm.com/blog/7-Non-Negotiable-Risk-Management-Rules-for-Every-Prop-Trader",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "wdown Rules, More Than One Type to Watch 5 . Daily Drawdown 6 . Overall Drawdown 7 . Trailing Drawdown 8 . 5. News Trading &amp; Event Restrictions, More Complicated Than You Think 9 . 6. Minimum Trading Days / Trade Count Rules, Hidden But Necessary 10 . Bonus Hidden Rul",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule, Not Just \u201cProfit Target",
+    "snippet": "Cross Funded Firm Date February 14, 2026 Duration 8 minutes Contents 1 . 1. Consistency Rule, Not Just \u201cProfit Target.\u201d 2 . 2. Weekend &amp; Overnight Holding, Not Always Allowed 3 . 3. Prohibited Trading Strategies, Not All Trades Are Allowed 4 . 4. Drawdown Rules, More Than One Type t",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule comes in",
+    "snippet": "et with one lucky trade; they want proof of consistency over time. That\u2019s where the consistency rule comes in. What it means: Many firms limit how much of your total profits can come from a single day or a single trade. For example: Some require that no single day\u2019s profit can",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "as a result, you might get flagged or even be unsuccessful due to the violation of a consistency rule. Example: Two thousand dollars in profit is your target, and you earn a grand and a hundred in a single day, which could lead to overexposure and compel you to trade",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules 6",
+    "snippet": "onsistent Gains Rather Than Big Wins 5 . 5. Understand and Adapt to Your Prop Firm\u2019s Consistency Rules 6 . 6. Keep Learning and Adapting&nbsp; Markets Evolve 7 . 7. Build Psychological Resilience and Emotional Discipline 8 . 8. Regularly Withdraw Profits (But Don\u2019t Overdo It",
+    "url": "https://www.fundedfirm.com/blog/8-Pro-Tips-for-Maintaining-Consistency-After-Your-First-Payout",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules The rules of consistency are imposed by most prop firms so that they can detect if trade",
+    "snippet": "y on hope or emotion to maximize gains. 5. Understand and Adapt to Your Prop Firm\u2019s Consistency Rules The rules of consistency are imposed by most prop firms so that they can detect if traders are using unusually large swings to their advantage thereby hiding the underlying risk. Even after your payout, these rules remain in place when it",
+    "url": "https://www.fundedfirm.com/blog/8-Pro-Tips-for-Maintaining-Consistency-After-Your-First-Payout",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule 11",
+    "snippet": "ay Safe 7 . 3. Weekend Holding Rules 8 . Why It Matters 9 . How to Stay Safe 10 . 4. Consistency Rule 11 . Why It Matters 12 . How to Stay Safe 13 . 5. Risk Management and Position Sizing Limits 14 . Why It Matters 15 . How to Stay Safe 16 . Why Understanding Prop Firm Rules",
+    "url": "https://www.fundedfirm.com/blog/5-Prop-Firm-Trading-Rules-You-Must-Know-FundedFirm",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "weekly",
+    "snippet": "suits your trading objectives and lifestyle needs. Putting It All Together: A Post-Payout Roadmap Here\u2019s a practical weekly roadmap to maintain consistency after your first payout: Timeframe Action Purpose Daily Follow your trading checklist Ensures rule-based, disciplined execution Stick",
+    "url": "https://www.fundedfirm.com/blog/8-Pro-Tips-for-Maintaining-Consistency-After-Your-First-Payout",
+    "kind": "page"
+   },
+   {
+    "value": "Daily",
+    "snippet": "t Roadmap Here\u2019s a practical weekly roadmap to maintain consistency after your first payout: Timeframe Action Purpose Daily Follow your trading checklist Ensures rule-based, disciplined execution Stick to your risk limits Protects funded capital and avoids rule violations Journal your tra",
+    "url": "https://www.fundedfirm.com/blog/8-Pro-Tips-for-Maintaining-Consistency-After-Your-First-Payout",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "s 2026-06-05T07:30:34.455Z monthly 0.6 https://www.fundedfirm.com/blog/How-to-Trade-Cryptocurrency-and-Make-Profit 2026-06-05T06:56:46.771Z monthly 0.6 https://www.fundedfirm.com/blog/How-to-Become-a-Consistently-Profitable-Forex-Trader 2026-06-05T06:56:46.77",
+    "url": "https://www.fundedfirm.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "ay or a single trade. For example: Some require that no single day\u2019s profit can comprise more than ~30\u201350% of your total gains. Why it\u2019s important: You could hit your profit target quite early with just one significant transaction, but as a result, you migh",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "Usdt",
+    "snippet": "QLoD1ICUgBwEB7t82fl7meJeqVytTp8m/szC4ziI8oejwTqgUoEwQAEBTw3B5RuUb9kqgDdDqifMBAPggC2l7UsdtFmUgHICA/6gDiA+4LQBBwuJkH1iBtAkAVzcMt7e8xQYHzhTNZIGBSRKfdpna7RaVyhXpcdo+azQZtbqzT+bUNOreySssrK0wcOHP2HH3jyafo8cf+jjbWztN6vUGra2vUqDeo1+5QGRHWmsaAOmhr8VNY4NJb4EPv/3b6xPXvZ",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "WIse",
+    "snippet": "abTrJHuRaXdzrjGD+eODdZcf7K/IX4txNPxqP3/RGNktnWrH9xuYphu122x7fPPR/bbrqRya0LFCZxw8ZwkqoWIseQiGJxMMe9tykzyw4DnEhiYd+brDvVo2w/J0lLPKuILUXYh7aOizxoG5Epo6ny3UghPat7cN65Z+OROc+inEiiVKlg9Mjh+PbZ38KMqRshmzACDWOCRx55COd++2ys6C8rfi2XSiIA+rSOjzkUu0TO2QQjvUpQYIfDWDeXwvBxo",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "form Bank Payouts News Trading Allowed Swap & Commission Ultrafast Live Support Scaling Rule When you trade with FundedFirm Yes Yes Yes No Yes No When you trade with Others Firm No No No Yes No No Everything You Need to Trade with Confidence. Manage your funded account, monitor performance, track your progress, and stay in control from on",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "ch-2026 2026-06-05T07:17:59.202Z monthly 0.6 https://www.fundedfirm.com/blog/How-to-Master-the-Two-Step-Prop-Firm-Evaluation-in-2026 2026-06-05T06:56:46.771Z monthly 0.6 https://www.fundedfirm.com/blog/5-Prop-Firm-Trading-Rules-You-Must-Know-FundedFirm 2026-06-05T07:22:45.037Z monthly 0.6 https://www.fundedfirm.com/blo",
+    "url": "https://www.fundedfirm.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "an You Think The majority of traders enjoy to trade through the major news events, Nonfarm Payrolls (NFP), interest rate decisions, CPI releases, etc. However, in the proprietary trading world, those events are handled in a unique way. Some firms allow news trading but impose restrictions, such as: No entries within",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "cMa",
+    "snippet": "WkbfXimQlPdPBHs33onjp+Sm2+6Xp585Y1F2TAUuq9+KfjbD3wWVlBXoFCLQMUyDjrBuMuwb9u+uMoDpvimyacMauWDPWbJzaaM05/S5fllRKw7YsYw5oN2WE8+ekf/7hUfkiSOnfJdcfAR4N3jR/e5TeaAM8V/nN8SrYreGqwDgIMQyAeS9xzxPHN3dk0/J9qkC4HMndwhhOaQQGPoqgJCxDXszxO4/PWaItfJ+uyUd5D1Docb17adODH3nUvXzsQ02Vc+P8SEAAQhAAAIQgAAEIAABCEAAAhCAAAQgAAEIDCMQQgSErCVQVAytml+e7H/dL2sWm7Jt6xq5cPcm",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "fsC",
+    "snippet": "0pK/u+FxueVbRyj9P+LA5Rf/U8YaZwDQvrMKqEZ0zHL6M1YWMIemrSUjMnbayXTP3r57NPM9YwXWfM905pP/MfsCKTBeeqiQgmBoE0DWPVYQXeY9XLT/Hs6e6xQihiJnJ9S4vv347nPf8afp+djnappYMRcIQAACEIAABCAAAQhAAAIQgAAEIAABCECg3gQwAIRZn9DivwrSa9fMyTk71snFF2yR5126Uy4/sFO2bd0oC/PzVjdMRCUtQd79pDPuTSNT5t5+nIzezSRPC//an2nhqgWkrgdI+wc6X6dEf+3dlNO3tbM7wqbry0ZlS/j3lP43GfCJacCUrbedOlG/",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "FCa",
+    "snippet": "Az4roA204+wJjbXEVx8QmOf+umh+MSmhZ6IMSffmG1wylglB90NpkpE2ePfJKSm7sfxdVibsnVHa1l0B4zh69FCaTEhD6D/smL/4u0vpzXc+b/lzUQ//4eGa6Hu/5wt/TOufq4b5peOPmtyg0Pc3b1r0P+6Z0gAgB/S0ivvAWi00qoG8NSB7CIRfhgmgM5tEp4jDcPR+ygIAQ14EFMc1NkymqXthEX1qa2BZ9ba11bfv+g6DRXweJoBFqLi/6tjNNb6/lInehgKhQCgQCoQCoUAoEAqEAqFAKBAKhAKhQCgQCtzNCgCEmYzH6cjmarrvDAH/P3gKIvyPpY1D62ll",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "cfTC",
+    "snippet": "eQncKe3MWxufMF+OxjH8Dm3vcBnHjC9+8cABie3H2Bz0+yRCrRnyzXuzcbr77OjRNk9qUuI2HLqnUHVdwzT9gcfTCBV69P4crVB/CN974FcPcNuHR4ER5z1x+c24PdXScE2IKtzU0vBMA1JGyIiOYkiZvjOqyJL1qpqj6rrg8R57lVWEnHPMYv+DnZH0Dxc+4r1c5t8QORHYQAaZtwlwFWkT5YZyaGYPt/6O1OOUTOILTPc2GOPC9KeSIFOXHP0U5XRSC5DCCaqgvjhBh76EO6JOBpknDzvwtcUPDECFiueRhoahI2A7LNCQDcFQBPPYFQhLPVnctXX/sA/vrxd/",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Vfsc",
+    "snippet": "czH27hPnLe/Hagj8glyiig0pLLDJLQJX/48atgDFjR2L0qFH6vb29oIKSsNCqGfAaCiz2zyX8N7w6v6+JRzEgVfscdTiUDf3o/4HJ/Q+NvZ/ankTri0man+3g8zXmuVwxUZBhjO81ngtGdo+JI3aJQfsKdxrloRxBwCXcnPW1aDPi8wnNW+FmE4ryDt4/NRNL3LzVfjPOfTUTE9915ENt+wj852266qMGNpRvrzK0vYf28+hDM/DSiy84f8u8neXqn/7rYjzz10W6tHeS5Y887RDV7c1+8d3udbgFQDxCzX4hWCoGDWMrNQIfl7/7mA+2laBrrM2TodalcDn+bxA",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Payout sa",
+    "snippet": "ownload app on Play Store 0 k+ Funded Traders 0 + Countries 0 /5 Rating 0 % Payout satisfaction Why Traders Choose FundedFirm Trade with the Most Trusted Prop Firm Unlock your trading potential with a transparent prop trading firm offering swift payouts",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "njoy tight spreads, low commissions, and high leverag",
+    "snippet": "the flexibility they need. Trade with the Best Conditions Best Trading Conditions Enjoy tight spreads, low commissions, and high leverage, offering the best conditions for success. As a leading prop firm, we provide top-tier best prop firm trading opportunities. Time to Join Time to Start Trading Now. T",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Our advantag",
+    "snippet": "funded, trade with confidence and request your profits. We process payouts fast. Our advantages How Does FundedFirm Compare? MT5 Trading Platform Bank Payouts News Trading Allowed Swap & Commission Ultrafast Live Support Scaling Rule When you trade with Fu",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Manag",
+    "snippet": "Others Firm No No No Yes No No Everything You Need to Trade with Confidence. Manage your funded account, monitor performance, track your progress, and stay in control from one powerful trading dashboard. Real Time Performance Track balance, equity,",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Account Manag",
+    "snippet": "ime Performance Track balance, equity, P&L, drawdown and key metrics in real-time. Account Management Monitor your challenge progress and funded account performance easily. Advance Trading Tools Access the data and tools you need to make better trading decisions.",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Risk Manag",
+    "snippet": "ditions Privacy Policy Risk Disclosure Cookie Policy AML Policy Legal & Compliance Risk Management Ensure you manage your risk by never exceeding the set drawdown limits. Protect your capital and trade with discipline to preserve long-term profitability. Consis",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Ensure you manag",
+    "snippet": "olicy Risk Disclosure Cookie Policy AML Policy Legal & Compliance Risk Management Ensure you manage your risk by never exceeding the set drawdown limits. Protect your capital and trade with discipline to preserve long-term profitability. Consistent Profitability Ach",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "he firm's guidelines regarding trading strategies, inc",
+    "snippet": "get to maintain funding and access to capital. Trading Strategy Compliance Follow the firm's guidelines regarding trading strategies, including asset types and trade volume. Staying compliant ensures you remain within the terms of the agreement and avoid penalties. Risk Disclaimer: Trading involves risk",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund 7",
+    "snippet": "nstraints 3 . Trading Framework 4 . Destructive Trading Habits 5 . Payout Policy 6 . Refund 7 . Disclaimer 1 Trade what you want & how you want it At FundedFirm, we recognize that professional traders require not just access to markets, but the right set of cond",
+    "url": "https://www.fundedfirm.com/trader-rules",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Whether you may hold positions through high impact news",
+    "snippet": ". 3 Days Profit Split Upto The share of profits paid out to you on each reward. 100% News Trading Whether you may hold positions through high impact news. Yes Reward Cycle How often you can request a reward on this account. Monthly/BiWeekly-Weekly Buy Challenge Risk Reward Matters Multi Award Winner Two years running,",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed\n Swap & Commission\n Ultrafast Live Support\n Scaling Rule\n When you trade with FundedFirm Yes\n Yes\n ",
+    "snippet": "Our advantages How Does FundedFirm Compare? MT5 Trading Platform Bank Payouts News Trading Allowed Swap & Commission Ultrafast Live Support Scaling Rule When you trade with FundedFirm Yes Yes Yes No Yes No When you trade with Others Firm No No No Yes No No Everything You Need to Trade with Confidence. Manage your funded account, monitor p",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading &amp; Event Restrictions, More Complicated Than You Think 9",
+    "snippet": "e Type to Watch 5 . Daily Drawdown 6 . Overall Drawdown 7 . Trailing Drawdown 8 . 5. News Trading &amp; Event Restrictions, More Complicated Than You Think 9 . 6. Minimum Trading Days / Trade Count Rules, Hidden But Necessary 10 . Bonus Hidden Rule, Profit Split Traps 11 . Statistics That Show Hidden Rules Matter 12 . Conclusi",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, swing trading, or entering some overnight breakout plays, check the rule only before you consider entering",
+    "snippet": "you ignore that rule, one Friday hold can wipe out your challenge. If your plan is news trading, swing trading, or entering some overnight breakout plays, check the rule only before you consider entering. 3. Prohibited Trading Strategies, Not All Trades Are Allowed Numerous prop firms display the so-called \"allowed strategies\", but at the",
+    "url": "https://www.fundedfirm.com/blog/6-Hidden-Rules-in-Prop-Firm-Terms",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal Traders",
+    "snippet": "et Funded Up to $100K & Withdraw Your Profits in 24 Hours. $22+ Million Paid Out to Real Traders. Buy Challenges Download app on App Store Download app on Play Store 0 k+ Funded Traders 0 + Countries 0 /5 Rating 0 % Payout satisfaction Why Traders Choose",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads, low commissions, and high leverage, offering the best conditions for success",
+    "snippet": "y they need. Trade with the Best Conditions Best Trading Conditions Enjoy tight spreads, low commissions, and high leverage, offering the best conditions for success. As a leading prop firm, we provide top-tier best prop firm trading opportunities. Time to Join Time to Start Trading Now. Take action today and unlock your potential",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading prop firm, we provide top-tier best prop firm trading opportunities",
+    "snippet": "low commissions, and high leverage, offering the best conditions for success. As a leading prop firm, we provide top-tier best prop firm trading opportunities. Time to Join Time to Start Trading Now. Take action today and unlock your potential with FundedFirm, the best prop trading platform. Challenges Choose Your FundedFir",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each to pass this phase",
+    "snippet": "649 Limited time offer Swap Free Commission Free Profit Target Profit you must reach to pass this phase. 10% Maximum Daily Loss Most you can lose in one trading day, floating or closed. 3% Maximum Overall Loss Most the account can lose overall before it breaches. 6% Min Pr",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaches",
+    "snippet": "ing or closed. 3% Maximum Overall Loss Most the account can lose overall before it breaches. 6% Min Profitable Days Profitable days required before you can request a reward. 3 Days Profit Split Upto The share of profits paid out to you on each reward. 100% News",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vPs",
+    "snippet": "if0/LcO6TSI7mjumSQLv8fpkIrAPJtq038VQCKzPnP0pHz9pvtcTn+XY9uWy7/xlnvl8OPPJsK5sujP/rdiuovPsuq2s0aAZK0SjG6tu1zVFNAV34eV+zePGnOAXifQsCYCU9bfVjHQDP+GzCXVBOb69oMT+N06Wk5dQ4HbHN3rH6ypwFUjsHNeu3ZRLtizQ+ZV0E55JdQUdOjwCfnY5x7uXBNfVPzXcYqajMoQ/zuGm4yv7qzZ/2Y91ABgtk/XOLLqMFlEJSvmZos2lgkgvwHAHqK8n6ImgCwcR8WSle2o533GTvcZ3ARgSnzE+ZSZEe27PqEI5K2cEWpc337qw",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "0tlTm+nwxgGCmAj2XPQwYj6KZIaXT42vcLUBuX3Uu/XdR5d3jUjZpWYVsJblQgENUp9WiU8YUAThe5hu1w9QZVPNCKyAkWTfAYH/AAsBauadUz+AC7DOymgBBsH8eHt/BL22GxzMIMFwFSdOIsOVgmtq+U4ZG3Aybw9lLcpkIFja1blsSwlPYFyQvc52Cxj1bfn0/8S9875xPDuRJY2Eh3vpXWYA9TqoXYDMIC5rBYDojz76XXr23E9sTnnRbN/eTj/5+Uvp5g0A4rQ3JJP+eMx7hs0rVCeDe9kvmPZ+hWE/KABR/hz5LyYSHhsCf+wbgHF/9Qa9l5sAaKeaLLmp",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 24 hours as part of ou",
+    "snippet": "parent prop trading firm offering swift payouts and world-class support. Guaranteed Payouts No Max or Min Evaluation Days Receive your payment within 24 hours as part of our trusted best prop firm. Trade Smarter on MT5 Best Trading Platform Trade on MT5 platform Trade on the MT5 platform with the best prop trading firm. Best prop firm tra",
+    "url": "https://www.fundedfirm.com/",
+    "kind": "home"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "imizing opportunity in high-conviction setups. That\u2019s why we provide: Asset Class - Leverage Forex - 1:100 Metals - 1:100 Indices - 1:100 Energies - 1:100 Digital currency - 1:50 It is designed to give you room to operate effectively, even during volatile market phases. Le",
+    "url": "https://www.fundedfirm.com/trader-rules",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kycC14FJONWa8AoCdc/Lf7Ni+H8Q8UNgBoKHlFy2KVAPIbADQ2HxOAjwAXQlT2Gb9ni8S4CiCgQWHYdg5ZBSHLcQmxXlnGydLGzL3Yds/SfdQ2kxp",
+    "snippet": "M+vXz8vV+zfIi+6cods3jAvp8+InFlekVarIc1k7La0O0zaiUjrNAj988yZZTl67IwcPHxK7j94Qg4/cVKePbkycC14FJONWa8AoCdc/Lf7Ni+H8Q8UNgBoKHlFy2KVAPIbADQ2HxOAjwAXQlT2Gb9ni8S4CiCgQWHYdg5ZBSHLcQmxXlnGydLGzL3Yds/SfdQ2kxp3VCgenQd7B3jEwKMQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABOpOIEZWct3nHDu+/GJk7Iiy9T/N2f9zcw3ZuH5RLt+3WV74/LNl964tcvrkshw7cVJOn1qWlssINmJNw4j+RvxP0Nm74",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "kycO4zUAdE7Q0r9243b6k2+/ka5cu915kO1G9H8lz3droc5gUGsA6Mo+MPry2UO9gfS14L4G7tbCplpe39t5N+1DAGdt++5PzKC/lLMaAKCRWg3LD",
+    "snippet": "DgcF/bzQQgwFPr0s3byYayY7A+9MBf5kz2ldsVBDDiywXvnJAUvpTRggaDfRe9uQ2m1hy00czM0P7/qTMBdCHkycO4zUAdE7Q0r9243b6k2+/ka5cu915kO1G9H8lz3droc5gUGsA6Mo+MPry2UO9gfS14L4G7tbCplpe39t5N+1DAGdt++5PzKC/lLMaAKCRWg3LDs0LS2dt1/ejZo0MEXIRfWprr3bND+nrtLLzzs0i+jFkfyyivUXUsRd0W8Q47mQdy9pDd3JM0XYoEAqEAqFAKBAKhAKhQCgQCoQCoUAoEAqEAqFAKBAKLE4BAEwrK+N0/Mha+tK9m+n3Ht9",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "KYCgLSKPdKXiMv+zl4jgWaI5G37LumUA1w/eWaIqpHQQccbk9VUfT9uJ8f6ZFMOYa7f3Pc1ugDIeNt8Bsysz0y/M2KQqX7YKmim7SZtZgQtm/TXa7",
+    "snippet": "nOs6rohdvIuH5x3LGSoCgIbo6OQ4OQA8WwQ0JABYluee/8Ly6HFfALAv8j/NaiQAaH5U+i0/cCYZiRDyqsjnyKYCgLSKPdKXiMv+zl4jgWaI5G37LumUA1w/eWaIqpHQQccbk9VUfT9uJ8f6ZFMOYa7f3Pc1ugDIeNt8Bsysz0y/M2KQqX7YKmim7SZtZgQtm/TXa7tZPu1jRNtHCAD2j+lt7HFf+/Y2zi1iCgQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUDgJhH4ro98dXYAWJbL5aow3bbyvRVfTXrUZCveXY0Vrvgs8TGWlMZq51LpKLwWV5EWcosJ7hRjXRWb",
+    "url": "https://www.fundedfirm.com/blog/what-are-trading-rules",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "pital With Strong Risk Discipline 14 . Key Points: 15 . Why It Matters: 16 . Bonus Tips for Smarter Instant Funding Risk Management 17 . Common Pitfalls to Avoid in Instant Funded Accounts 18 . Final Thoughts Traders obtain immediate access to professional capital through",
+   "url": "https://www.fundedfirm.com/blog/Top-5-Risk-Management-Rules-for-Surviving-an-Instant-Funded-Account"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "edFirm, the best prop trading platform. Challenges Choose Your FundedFirm Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit",
+   "url": "https://www.fundedfirm.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "the best prop trading platform. Challenges Choose Your FundedFirm Challenges Account Type 1 Step 2 Step Instant Instant Daily Account Size $5k $10k $25k $50k $100k Most popular 1 Step $ 549 $ 649 Limited time offer Swap Free Commission Free Profit Target",
+   "url": "https://www.fundedfirm.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "CFD"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "to Real Traders. Buy Challenges Download app on App Store Download app on Play Store 0 k+ Funded Traders 0 + Countries 0 /5 Rating 0 % Payout satisfaction Why Traders Choose",
+  "edFirm 2026-06-05T07:56:55.085Z monthly 0.6 https://www.fundedfirm.com/blog/The-Rajkot-Trader-Who-Secured-a-1090 Payout 2026-06-05T07:33:50.890Z monthly 0.6 https://www.fundedfir",
+  "~4% manage to get through, and even fewer go to become long-term funded and profited traders. Only 1 out of 10,000 traders gets to the top of the scale in major firms. The ones who a"
+ ],
+ "errors": []
+}

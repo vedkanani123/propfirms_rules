@@ -1,0 +1,400 @@
+{
+ "slug": "fundedplays",
+ "name": "FundedPlays",
+ "category": "Specialist",
+ "url": "https://www.fundedplays.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.fundedplays.com/",
+   "kind": "home",
+   "chars": 7927
+  },
+  {
+   "url": "https://www.fundedplays.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 113728
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/how-overtime-rules-affect-moneyline-pricing",
+   "kind": "page",
+   "chars": 18128
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/why-chasing-losses-destroys-trading-plans",
+   "kind": "page",
+   "chars": 19399
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/building-a-challenge-plan-before-your-first-trade",
+   "kind": "page",
+   "chars": 22896
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/how-to-read-sports-trading-challenge-rules-before-you-begin",
+   "kind": "page",
+   "chars": 22331
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/maximum-drawdown-rules-and-why-they-matter",
+   "kind": "page",
+   "chars": 21285
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/how-to-plan-an-evaluation-around-a-fixed-profit-target",
+   "kind": "page",
+   "chars": 19238
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+   "kind": "page",
+   "chars": 23912
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/common-misconceptions-about-simulated-funded-accounts",
+   "kind": "page",
+   "chars": 17742
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/how-market-liquidity-can-influence-pricing",
+   "kind": "page",
+   "chars": 22386
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/why-late-replacement-fighters-are-hard-to-price",
+   "kind": "page",
+   "chars": 24882
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/how-lineup-changes-move-mlb-prices",
+   "kind": "page",
+   "chars": 23890
+  },
+  {
+   "url": "https://www.fundedplays.com/blogs/why-a-short-price-is-not-automatically-a-safe-trade",
+   "kind": "page",
+   "chars": 22079
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 379836,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "15",
+    "snippet": "10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Daily Drawdown Limit (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Max Drawdown Limit (20%) 2,000 5,000 10,000 15,000 20,000 200,000 Min. Prediction Size (2.5%) 250 625 1,250 1,",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "20",
+    "snippet": "150,000 Daily Drawdown Limit (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Max Drawdown Limit (20%) 2,000 5,000 10,000 15,000 20,000 200,000 Min. Prediction Size (2.5%) 250 625 1,250 1,875 2,500 25,000 Max Prediction Size (10%) 1,000 2,500 5,000 7,50",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "30",
+    "snippet": "Phase 2 account has positive profit, you can request any amount up to your available 30% profit share. FundedPlays reviews each request before payment is sent manually. Is there a guideline for minimum and maximum prediction sizes? Yes. These limits support responsible",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "10,00",
+    "snippet": "rsifying across events is encouraged for strategy development. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "cross events is encouraged for strategy development. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Daily Dra",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "ts is encouraged for strategy development. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Daily Drawdown Limi",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "75,00",
+    "snippet": "uraged for strategy development. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Daily Drawdown Limit (15%) 1",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "strategy development. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Daily Drawdown Limit (15%) 1,500 3,750",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "evelopment. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance Target (15%) 1,500 3,750 7,500 11,250 15,000 150,000 Daily Drawdown Limit (15%) 1,500 3,750 7,500",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "target 2026-08-04T07:08:35.374Z weekly 0.7 https://www.fundedplays.com/blogs/static-drawdown-vs-trailing-drawdown-in-sports-trading 2026-08-04T07:03:26.829Z weekly 0.7 https://www.fundedplays.com/blogs/what-happens-when-you-break-a-challenge-rule 2026-08-04T06:59:32.808Z w",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "026-08-06T05:44:50.259Z weekly 0.7 https://www.fundedplays.com/blogs/sports-betting-crypto-acceptance-guide 2026-08-06T05:43:45.023Z weekly 0.7 https://www.fundedplays.com/blogs/what-is-sports-trading-variance 2026-08-05T23:03:11.073Z weekly 0.7 https://www.",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "paypal",
+    "snippet": "T07:06:58.448Z weekly 0.7 https://www.fundedplays.com/blogs/sportsbooks-that-accept-paypal-how-to-check 2026-08-01T07:04:46.081Z weekly 0.7 https://www.fundedplays.com/blogs/live-tennis-betting-can-you-bet-on-a-live-match 2026-08-01T07:01:02.679Z weekly 0.7",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "and rules pages commonly state that standard moneylines include overtime unless otherwise specified, and they explain that separately marketed regulation-only or three-way lines are graded at the end of regulation, so verifying an operator\u2019s grading language",
+    "url": "https://www.fundedplays.com/blogs/how-overtime-rules-affect-moneyline-pricing",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "ng-off triggers are essential maintenance items that keep behavior aligned as stakes rise. Keep amendment steps conservative: require a review period and a defined benchmark before new limits take effect to avoid responding to short-term favorable runs with",
+    "url": "https://www.fundedplays.com/blogs/building-a-challenge-plan-before-your-first-trade",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "4:03.169Z weekly 0.7 https://www.fundedplays.com/blogs/building-power-ratings-from-basic-data 2026-08-04T14:53:56.259Z weekly 0.7 https://www.fundedplays.com/blogs/how-regression-to-the-mean-applies-to-sports 2026-08-04T14:53:44.537Z weekly 0.7 https://www.fundedplays.com/blogs/ho",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "0.7 https://www.fundedplays.com/blogs/odds-fundamentals-every-sports-trader-should-master 2026-08-04T11:09:14.214Z weekly 0.7 https://www.fundedplays.com/blogs/how-market-liquidity-can-influence-pricing 2026-08-04T11:04:10.640Z weekly 0.7 https://www.fundedplays.com/blogs/why-",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "isions 2026-08-04T10:26:35.035Z weekly 0.7 https://www.fundedplays.com/blogs/how-to-scale-position-size-without-losing-control 2026-08-04T10:23:20.565Z weekly 0.7 https://www.fundedplays.com/blogs/how-to-calculate-your-maximum-sustainable-stake 2026-08-04T10:21:04.532Z weekly 0.7 https://www.fundedplays.com/blogs",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "ures when hypothetical or model performance is presented to the public. For example, CFTC rules require prominent limitations disclosures and prohibit misleading presentation of simulated performance in advertising, which is intended to prevent consumers from drawing unsupported conclusions about future results CFTC 17 CFR 4.41 (CFTC rele",
+    "url": "https://www.fundedplays.com/blogs/common-misconceptions-about-simulated-funded-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "NFA",
+    "snippet": "any simulated results used in marketing or outreach need context and careful caveats NFA Compliance Rule 2-29 (NFA rulebook) The SEC has also clarified expectations for hypothetical performance in its Marketing Rule FAQs, noting that advisers must implement policies and procedures and ensure presentations are relevant to the intended audi",
+    "url": "https://www.fundedplays.com/blogs/common-misconceptions-about-simulated-funded-accounts",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "the game responsibly. With tools like bankroll manag",
+    "snippet": "your predictions into wins. Bet Responsibly, Stay in Charge We believe in enjoying the game responsibly. With tools like bankroll management and betting limits, you're always in control of your betting journey. All Your Favorites, All in One Place From the classics to the up-and-comers, we've got your",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "n limits are simulated account controls that encourag",
+    "snippet": "he FundedPlays environment. What are the Daily and Maximum Drawdown Limits? Drawdown limits are simulated account controls that encourage disciplined prediction activity and balanced decision-making. Daily Drawdown Limit Keep the simulated account balance within the daily threshold shown for your selecte",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Can I submit multiple predictions on the sa",
+    "snippet": "challenge attempt. Review your dashboard regularly to stay aligned with the rules. Can I submit multiple predictions on the same event? Yes, multiple predictions on the same event are allowed when each prediction follows the challenge guidelines. Diversifying across events is encouraged for str",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Yes, multiple predictions on the sa",
+    "snippet": "stay aligned with the rules. Can I submit multiple predictions on the same event? Yes, multiple predictions on the same event are allowed when each prediction follows the challenge guidelines. Diversifying across events is encouraged for strategy development. Virtual Account Size $ 10,",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ge guidelines. Diversifying across events is encourag",
+    "snippet": "le predictions on the same event are allowed when each prediction follows the challenge guidelines. Diversifying across events is encouraged for strategy development. Virtual Account Size $ 10,000 $ 25,000 $ 50,000 $ 75,000 $ 100,000 $ 1,000,000 Min. Predictions 10 10 10 10 10 10 Performance T",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "X Instag",
+    "snippet": "ds NFL Odds NBA Odds MLB Odds NHL Odds NCAAF Odds NCAAB Odds Soccer Odds Community X Instagram Information Affiliate Live Support Responsible Gaming 21+ \u00a9 FundedPlays | All Rights Reserved. FundedPlays is intended for eligible users 21+ and offers simu",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "applicable laws and regulations. No purchase necessa",
+    "snippet": "rtual funds. All sweepstakes and promotional entries are operated in accordance with applicable laws and regulations. No purchase necessary to enter. Void where prohibited. See our Terms of Service for full rules and eligibility. Support info@fundedplays.com | Partners partners@fundedplays.com | Press pre",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "what-is-arbitrag",
+    "snippet": "www.fundedplays.com/sports/soccer-odds weekly 0.8 https://www.fundedplays.com/blogs/what-is-arbitrage-in-sports-markets-primer 2026-08-06T06:16:44.617Z weekly 0.7 https://www.fundedplays.com/blogs/what-is-a-total-or-over-under 2026-08-06T06:13:33.778Z weekly 0.7 https",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunds, cancellations, and consumer remedies: practical steps for buyers Bankroll mechanics, drawdowns, and withdrawal ",
+    "snippet": "ed State sweepstakes and promotion compliance: Florida, New York, and why it matters Refunds, cancellations, and consumer remedies: practical steps for buyers Bankroll mechanics, drawdowns, and withdrawal rules: how the funded model affects you Decision framework: a weighted checklist to compare challenge offers Common mistakes and red fl",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "refunds, and consumer protections apply",
+    "snippet": "skill contest, sweepstakes, or a membership offering, determines which disclosures, refunds, and consumer protections apply. Buyers should expect official rules, clear scoring mechanics, drawdown limits, and stated withdrawal policies to be present and central to that classification. Those e",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "refund or reversal policies tied to scoring errors, platform bugs, or disputed results; if the rules do not say how the ",
+    "snippet": "blematic because they leave room for inconsistent enforcement. Equally important are refund or reversal policies tied to scoring errors, platform bugs, or disputed results; if the rules do not say how the operator will correct an incorrect leaderboard placement, ask support for the written policy before you commit funds or accept a trial.",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Refunds, cancellations, and consumer remedies: practical steps for buyers\n Locate cancellation methods and confirmation ",
+    "snippet": "w of how funded evaluations work on the platform how-fundedplays-evaluations-work . Refunds, cancellations, and consumer remedies: practical steps for buyers Locate cancellation methods and confirmation receipts before you buy, and capture screenshots of the checkout flow that shows any subscription, trial length, or auto-renewal disclosu",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eady to up your game and make every match more thrilling? At\n FundedPlays, we help eligible users build discipline throu",
+    "snippet": "Get Funded FAQ Help Center Sign In Buy Now Funding Professional Sports Traders Ready to up your game and make every match more thrilling? At FundedPlays, we help eligible users build discipline through simulated sports trading challenges and live odds. Get Funded Now Takes 5 mins or less NFL NCAAF MLB NBA NCAAB SOCCER NHL Our Challenge Wh",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam of experts dive deep into the stats, giving you the upper hand when it comes to placing your bets",
+    "snippet": "allenge Why dive into the excitement with us? Insider Knowledge, Bigger Wins Our team of experts dive deep into the stats, giving you the upper hand when it comes to placing your bets. Get the scoop on trends and insights that can turn your predictions into wins. Bet Responsibly, Stay in Charge We believe in enjoying the game responsibly.",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam sports like football and basketball to emerging sports and esports",
+    "snippet": "he classics to the up-and-comers, we've got your back. Bet on everything from mainstream sports like football and basketball to emerging sports and esports. Live Action, Real-time Thrills Feel the rush of live betting! Place your bets as the game unfolds, with constantly updated odds that keep the adrenaline pumping. Sup",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal-time Thrills\n Feel the rush of live betting! Place your bets as the game unfolds, with constantly updated odds that ",
+    "snippet": "m sports like football and basketball to emerging sports and esports. Live Action, Real-time Thrills Feel the rush of live betting! Place your bets as the game unfolds, with constantly updated odds that keep the adrenaline pumping. Support that's always here Need a hand or have a question? Our support team is here for you around the clock",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam is here for you around the clock",
+    "snippet": "e pumping. Support that's always here Need a hand or have a question? Our support team is here for you around the clock. Whether you're new to betting or a seasoned pro, we're here to make sure your experience is top-notch. Join the FundedPlays community Let's make every game a winnin",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "info@fundedplays.com",
+    "snippet": "where prohibited. See our Terms of Service for full rules and eligibility. Support info@fundedplays.com | Partners partners@fundedplays.com | Press press@fundedplays.com",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "partners@fundedplays.com",
+    "snippet": "of Service for full rules and eligibility. Support info@fundedplays.com | Partners partners@fundedplays.com | Press press@fundedplays.com",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   },
+   {
+    "value": "press@fundedplays.com",
+    "snippet": "igibility. Support info@fundedplays.com | Partners partners@fundedplays.com | Press press@fundedplays.com",
+    "url": "https://www.fundedplays.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "instant",
+    "snippet": "g-times 2026-08-01T15:45:05.549Z weekly 0.7 https://www.fundedplays.com/blogs/betus-withdrawal-instant-payouts-guide 2026-08-01T15:42:13.025Z weekly 0.7 https://www.fundedplays.com/blogs/betting-calculator-free-tools-guide 2026-08-01T15:40:41.102Z weekly 0.7 https://www",
+    "url": "https://www.fundedplays.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription language, and confirmation emails",
+    "snippet": "k first: product description, a visible \"official rules\" link, the checkout page for subscription language, and confirmation emails. Screenshots of these pages and the checkout flow are useful if you later need to document what was shown at purchase. Fees, trials, and negative-option protections: wh",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions or free trials",
+    "snippet": "lear pre-checkout disclosures, express informed consent, and simple cancellation for subscriptions or free trials. Verify any recurring fees tied to a challenge before you buy by checking that cancellation steps and renewal terms are presented before you confirm the transaction, not",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "subscription terms, pre-checked boxes that add a membership or recurring fee, unclear free-trial end dates, or cancellat",
+    "snippet": "e, and check for state filings when prizes are offered. Practical red flags: buried subscription terms, pre-checked boxes that add a membership or recurring fee, unclear free-trial end dates, or cancellation steps that require calling a number rather than allowing immediate online termination. If a trial requires active opt-out at a later",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, trial length, or auto-renewal disclosures",
+    "snippet": "receipts before you buy, and capture screenshots of the checkout flow that shows any subscription, trial length, or auto-renewal disclosures. Immediate documentation matters because federal protections around negative-option billing can support a charge dispute or complaint if you were charged without proper",
+    "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "3-Step",
+   "snippet": "rative rather than definitive. Decision framework: when to trust a simulated funded account Use a three-step decision framework. First verify that the operator publishes clear methodology and prominent limitations language. Regulatory standards such as CFTC advertisin",
+   "url": "https://www.fundedplays.com/blogs/common-misconceptions-about-simulated-funded-accounts"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "d a lightweight intervention that prevents escalation. Recovery plans after a losing streak Use a four-step recovery protocol: stop trading for a set period , review, recalibrate, re-enter with limits. First, stop trading for a set period. Then review the log to iden",
+   "url": "https://www.fundedplays.com/blogs/why-chasing-losses-destroys-trading-plans"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "igibility, start and end dates, prize mechanics, and dispute procedures? 2) Are any recurring fees, free trials, or auto-renewals disclosed up front, and is cancellation explained? 3) Are scoring rules, drawdown or loss limits, disqualification criteria, and withdrawal",
+   "url": "https://www.fundedplays.com/blogs/evaluation-checklist-what-to-confirm-before-buying-a-challenge"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Crypto",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

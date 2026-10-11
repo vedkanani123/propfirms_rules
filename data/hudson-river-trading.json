@@ -1,0 +1,12 @@
+{
+ "slug": "hudson-river-trading",
+ "name": "Hudson River Trading",
+ "category": "Institutional",
+ "url": "https://www.hudsonrivertrading.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

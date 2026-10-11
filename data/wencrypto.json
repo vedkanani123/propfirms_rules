@@ -1,0 +1,528 @@
+{
+ "slug": "wencrypto",
+ "name": "WenCrypto",
+ "category": "Crypto",
+ "url": "https://wencrypto.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://wencrypto.com/",
+   "kind": "home",
+   "chars": 22529
+  },
+  {
+   "url": "https://wencrypto.com/sitemap-index.xml",
+   "kind": "sitemap",
+   "chars": 35
+  },
+  {
+   "url": "https://wencrypto.com/sitemap-0.xml",
+   "kind": "sitemap",
+   "chars": 551
+  },
+  {
+   "url": "https://wencrypto.com/day-trading-rules",
+   "kind": "page",
+   "chars": 3535
+  },
+  {
+   "url": "https://wencrypto.com/pricing",
+   "kind": "page",
+   "chars": 19763
+  },
+  {
+   "url": "https://wencrypto.com/faqs",
+   "kind": "page",
+   "chars": 39049
+  },
+  {
+   "url": "https://wencrypto.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 9482
+  },
+  {
+   "url": "https://wencrypto.com/about",
+   "kind": "page",
+   "chars": 3594
+  },
+  {
+   "url": "https://wencrypto.com/contact",
+   "kind": "page",
+   "chars": 2117
+  }
+ ],
+ "page_count": 9,
+ "total_chars": 100663,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "9",
+    "snippet": "allenge\",\"question\":\"What are the rules of the Single Pass Challenge?\",\"answer\":\" \\n Profit Target: 9% \\n Daily Drawdown: 3% based on either balance/equity at reset time 00:00 UTC \\n Maximum Overall Drawdown: 5% \\n Minimum Winning Days: 3 \\n A 'winning day' requires more",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "This challenge has two phases. Pass both to reach the funded stage.\\n \\n \\n Phase 1 profit target: 10% \\n Phase 2 profit target: 6% \\n Minimum Winning Days: 3 * \\n \\n \\n * A 'winning day' requires more than 1% gain . \"},{\"id\":\"what-are-the-drawdown-rules-double-pass\",\"que",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": ". Pass both to reach the funded stage.\\n \\n \\n Phase 1 profit target: 10% \\n Phase 2 profit target: 6% \\n Minimum Winning Days: 3 * \\n \\n \\n * A 'winning day' requires more than 1% gain . \"},{\"id\":\"what-are-the-drawdown-rules-double-pass\",\"question\":\"What are the drawdown",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": ", \\n No minimum trading days, \\n No consistency score requirement. \\n \\n \\n Hit a 4% profit target while staying within an 8% maximum drawdown, and you unlock a funded account that keeps 80% of your profits (subject to funded-stage rules).\\n \"},{\"id\":\"bnpl-why-small-upfront\",\"question\":\"Why doe",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "What are the rules of the Single Pass Challenge?\",\"answer\":\" \\n Profit Target: 9% \\n Daily Drawdown: 3% based on either balance/equity at reset time 00:00 UTC \\n Maximum Overall Drawdown: 5% \\n Minimum Winning Days: 3 \\n A 'winning day' requires more than 1% gain \\n \"},{\"i",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "down rules? (Phases 1 and 2)\",\"answer\":\" \\n Max overall drawdown: 8% (static) \\n Max daily drawdown: 5% based on balance or equity at reset time of 00:00 UTC \\n Minimum Winning Days: 3 \\n \\n \\n Static max drawdown (what that means): \\n \\n It's calculated from your starting",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": ": 9% \\n Daily Drawdown: 3% based on either balance/equity at reset time 00:00 UTC \\n Maximum Overall Drawdown: 5% \\n Minimum Winning Days: 3 \\n A 'winning day' requires more than 1% gain \\n \"},{\"id\":\"is-there-a-time-limit-single-pass\",\"question\":\"Is there a time limit?\",\"answer\":\" \\",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "ouble-pass\",\"question\":\"What are the drawdown rules? (Phases 1 and 2)\",\"answer\":\" \\n Max overall drawdown: 8% (static) \\n Max daily drawdown: 5% based on balance or equity at reset time of 00:00 UTC \\n Minimum Winning Days: 3 \\n \\n \\n Static max drawdown (what that means): \\n \\n",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "stency score requirement. \\n \\n \\n Hit a 4% profit target while staying within an 8% maximum drawdown, and you unlock a funded account that keeps 80% of your profits (subject to funded-stage rules).\\n \"},{\"id\":\"bnpl-why-small-upfront\",\"question\":\"Why does it only cost a small amount upfront?\",\"answer\":\" \\n The low ent",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "its-genesis\",\"question\":\"What are the drawdown limits in Genesis?\",\"answer\":\" \\n The max drawdown is 4% , and it's End of Day trailing .\\n \\n \\n That means you can never drop more than 4% below your highest equity.\\n \\n \\n Example: If your account reaches $105,000 at 00:00",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": ". Wen One Step: A single-phase program with a 9% profit target. It features a 5% maximum loss limit and a 3% maximum daily loss limit. Wen Genesis: A ladder-based progression model. Advancement is based on profitable days; for every 1% profitable day achieved, the trader",
+    "url": "https://wencrypto.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "rom your funded balance \\n 20% consistency score required before each withdrawal. \\n 80% profit split in your favour on every withdrawal \\n Withdraw lock applies. This means if you generate a profit of $1,000. Your drawdown becomes $1,000. This means if you withdraw $500",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "g like you mean it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ke you mean it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay L",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "u mean it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "n it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorry",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorry, this",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "g like you mean it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ke you mean it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "u mean it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "n it. Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorr",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Select your challenge and account size. Choose your account size $5k $10k $20k $50k $100k Choose your favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorry, thi",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "55",
+    "snippet": "e Buy Now Pay Later Sorry, this product is not available in your region. Single Pass $55 *Price with coupon. REFUNDABLE Profit target The % gain you must make on your account to pass to the next phase. 9% Max daily type The type of drawdown measured on a dai",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "44",
+    "snippet": "80% Select Account Sorry, this product is not available in your region. Double Pass $44 *Price with coupon. REFUNDABLE Profit target The % gain you must make on your account to pass to the next phase. 10%/6% Max daily type The type of drawdown measured on a",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "69",
+    "snippet": "ailable in your region. Buy Now Pay Later PAY NOW: $5 *Price with coupon. PAY LATER: $69 Phase 1 Funded Profit target The % gain you must make on your account to pass to the next phase. 4% - Max daily type The type of drawdown measured on a daily basis. None",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "20% Select Account Sorry, this product is not available in your region. Single Pass $99 *Price with coupon. REFUNDABLE Profit target The % gain you must make on your account to pass to the next phase. 9% Max daily type The type of drawdown measured on a dai",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "79",
+    "snippet": "80% Select Account Sorry, this product is not available in your region. Double Pass $79 *Price with coupon. REFUNDABLE Profit target The % gain you must make on your account to pass to the next phase. 10%/6% Max daily type The type of drawdown measured on a",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "ount Sorry, this product is not available in your region. Buy Now Pay Later PAY NOW: $7 *Price with coupon. PAY LATER: $117 Phase 1 Funded Profit target The % gain you must make on your account to pass to the next phase. 4% - Max daily type The type of draw",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "117",
+    "snippet": "ailable in your region. Buy Now Pay Later PAY NOW: $7 *Price with coupon. PAY LATER: $117 Phase 1 Funded Profit target The % gain you must make on your account to pass to the next phase. 4% - Max daily type The type of drawdown measured on a daily basis. None",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "r period. 3% Max overall type The type of drawdown measured on your account overall. Static Max Drawdown The maximum amount you can lose in total on your account. 5% Minimum profitable days The minimum profitable days required. 3 Leverage BTC/ETH The amount of borr",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "EOD",
+    "snippet": "Max daily type The type of drawdown measured on a daily basis. None Equity / Balance EOD Max daily loss The maximum amount you can lose in a 24-hour period. None 3% Max drawdown type The type of drawdown measured on your account overall. Static Static Max drawdo",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "trailing",
+    "snippet": "t grows the breach level rises with it.\\n \\n \\n Example: Funded at $10,000 with a 5% trailing max drawdown, your starting breach level is $9,500. If your end-of-day equity climbs to $11,000, your new trailing level becomes $10,450 ($11,000 \u2212 5%). Drop below the curre",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Crypto Prop Firm: Get Funded - Get Paid | WenCrypto Skip to main content Copied CODE: CODE: Pricing About us FAQ Contact Resources Blog Affiliates Log In Get started span]:te",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "ecoins-allowed\",\"question\":\"Are stablecoins allowed?\",\"answer\":\" \\n No. Stablecoins (USDT, USDC, DAI, etc.) are not tradeable .\\n \"},{\"id\":\"what-leverage-do-you-offer\",\"question\":\"What leverage do you offer?\",\"answer\":\" \\n 5:1 on BTC/ETH \\n 2:1 on altcoins \\n",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "-allowed\",\"question\":\"Are stablecoins allowed?\",\"answer\":\" \\n No. Stablecoins (USDT, USDC, DAI, etc.) are not tradeable .\\n \"},{\"id\":\"what-leverage-do-you-offer\",\"question\":\"What leverage do you offer?\",\"answer\":\" \\n 5:1 on BTC/ETH \\n 2:1 on altcoins \\n \\n \\n",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "rise",
+    "snippet": "lows your highest end-of-day equity point, so as your account grows the breach level rises with it.\\n \\n \\n Example: Funded at $10,000 with a 5% trailing max drawdown, your starting breach level is $9,500. If your end-of-day equity climbs to $11,000, your new",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "rather than isolated events. 6. Payment Terms and Policies Accepted Methods: Bank Transfers and Cryptocurrency. Pricing: All fees are clearly stated in USD. We reserve the right to change our pricing with reasonable notice. Refund Policy: All purchases",
+    "url": "https://wencrypto.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "Trading , Toxic Trading Order Flow , Long/Short arbitrage , reverse arbitrage , tick scalping , or server execution manipulation is strictly prohibited. Reverse or Group Hedging Using your account to bet in one direction on a trade against another account constitutes reverse hedging and is considered cheating. This",
+    "url": "https://wencrypto.com/day-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "gainst another account constitutes reverse hedging and is considered cheating. This unfairly guarantees a winning position and may result in termination. Hedging You cannot exclusively hedge through a challenge or live account. Many malicious EA hedging bots attempt to exploit the demo environment, making it impossib",
+    "url": "https://wencrypto.com/day-trading-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "der types, one-click trading, and built-in risk manag",
+    "snippet": "y execute trades via our Terminal, a custom-built web and mobile app with advanced order types, one-click trading, and built-in risk management. WGMI CORE VALUES Clear, fair, and accessible rules. Radical transparency with data on trading evaluation success rates, breaches, payouts, and more. How to start",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "days The minimum profitable days required. 3 Leverag",
+    "snippet": "down The maximum amount you can lose in total on your account. 5% Minimum profitable days The minimum profitable days required. 3 Leverage BTC/ETH The amount of borrowed capital you can access for BTC/ETH. 5:1 BTC/ETH Leverage Alts The amount of borrowed capital you can access for alt coins. 2:1 Alt Coins",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ETH Leverag",
+    "snippet": "Leverage BTC/ETH The amount of borrowed capital you can access for BTC/ETH. 5:1 BTC/ETH Leverage Alts The amount of borrowed capital you can access for alt coins. 2:1 Alt Coins Profit split Division of trading profits between the trader (you) and WenCrypto. 80% Sel",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ys The minimum profitable days required. None Leverag",
+    "snippet": "own The maximum amount you can lose in total on your account. 8% 5% Min profitable days The minimum profitable days required. None Leverage BTC/ETH The amount of borrowed capital you can access for BTC/ETH. 5:1 5:1 Leverage Alts The amount of borrowed capital you can access for alt coins. 2:1 2:1 Profit spl",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "Leverage BTC/ETH The amount of borrowed capital you can access for BTC/ETH. 5:1 5:1 Leverage Alts The amount of borrowed capital you can access for alt coins. 2:1 2:1 Profit split Division of trading profits between the trader (you) and WenCrypto. - 80% Consist",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ys The minimum profitable days required. here Leverag",
+    "snippet": "The maximum amount you can lose in total on your account. eggs Minimum profitable days The minimum profitable days required. here Leverage BTC/ETH The amount of borrowed capital you can access for BTC/ETH. go Leverage Alts The amount of borrowed capital you can access for alt coins. away Profit split Divis",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ETH. go Leverag",
+    "snippet": "equired. here Leverage BTC/ETH The amount of borrowed capital you can access for BTC/ETH. go Leverage Alts The amount of borrowed capital you can access for alt coins. away Profit split Division of trading profits between the trader (you) and WenCrypto. 200% Select Acco",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Select Account Learn more about our advantag",
+    "snippet": "rofit split Division of trading profits between the trader (you) and WenCrypto. 200% Select Account Learn more about our advantages HOW IT WORKS REAL CRYPTO TRADING EXPERIENCE, WITHOUT THE RISK OF GETTING RUGGED You're four steps away from unleashing your trading skills. It's simple. Here's how it",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00872",
+    "snippet": "(the \"Legal Terms\"), collectively known as the \"Services.\" Vendor Name: WEN LTD Registration Number: 2025-00872 Address: Ground Floor, The Sotheby Building, Rodney Bay, Gros-Islet, Saint Lucia Email: support@wencrypto.com CRITICAL NOTICE: All accounts provided to our clients",
+    "url": "https://wencrypto.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "REFUNDABLE Profit target The % gain you must make on your account to pass to the next phase",
+    "snippet": "y, this product is not available in your region. Single Pass $55 *Price with coupon. REFUNDABLE Profit target The % gain you must make on your account to pass to the next phase. 9% Max daily type The type of drawdown measured on a daily basis. Equity / Balance Max daily loss The maximum amount you can lose in a 24-hour period. 3% Max over",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "REFUNDABLE Coming Soon\n Profit target The % gain you must make on your account to pass to the next phase",
+    "snippet": "Sorry, this product is not available in your region. Genesis $\ud83e\udd2b *Price with coupon. REFUNDABLE Coming Soon Profit target The % gain you must make on your account to pass to the next phase. There Max daily type The type of drawdown measured on a daily basis. are Max daily loss The maximum amount you can lose in a 24-hour period. no Max ove",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund of the challenge once you have successfully achieved three withdrawals",
+    "snippet": "\\n Traders who want a fast, simple path to simulated funding.\\n \\n \\n You get a full refund of the challenge once you have successfully achieved three withdrawals.\\n \"}]},{\"id\":\"double-pass-challenge\",\"title\":\"WenCrypto's Double Pass Challenge\",\"description\":\"Consistency and discipline on your path to simulated funding\",\"faqs\":[{\"",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "refund of the account once you reach level 10! \\n \"},{\"id\":\"what-happens-if-i-breach-genesis\",\"question\":\"What happens i",
+    "snippet": "raw you restart from your initial balance (level 1) and ascend again. You get a full refund of the account once you reach level 10! \\n \"},{\"id\":\"what-happens-if-i-breach-genesis\",\"question\":\"What happens if I breach the account?\",\"answer\":\" \\n If you breach, the account is closed. You lose access and you can't withdraw from it.\\n \"}]}]\"> ",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading\n\\n \"},{\"id\":\"what-are-the-general-requirements\",\"question\":\"What are the general requirements?\",\"answer\":\" ",
+    "snippet": "rules .\\n \\n \\n Allowed trading styles include:\\n \\n \\n Scalping \\n Swing trading \\n News trading \\n \"},{\"id\":\"what-are-the-general-requirements\",\"question\":\"What are the general requirements?\",\"answer\":\" \\n Follow drawdown limits \\n Use only your own account and payment methods \\n No cheating, reverse hedging, or exploitation \\n Complete",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "News trading\n What are the general requirements? + - p:not(:last-child)]:mb-6\"> Follow drawdown limits\n Use only your ow",
+    "snippet": "and leverage rules . Allowed trading styles include: Scalping Swing trading News trading What are the general requirements? + - p:not(:last-child)]:mb-6\"> Follow drawdown limits Use only your own account and payment methods No cheating, reverse hedging, or exploitation Complete KYC before requesting payouts Stay within your drawdown limit",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "EAMS BEGIN\n Get in, get out, get ahead - offering fast simulated trading, real-time data, and an unbeatable experience",
+    "snippet": "-5xl text-balance md:text-8xl lg:text-wrap max-w-6xl\">WENCRYPTO IS WHERE THE LAMBO DREAMS BEGIN Get in, get out, get ahead - offering fast simulated trading, real-time data, and an unbeatable experience. Crypto prop trading finally made simple. Start trading Join our discord WHY WENCRYPTO BUILT FOR CRYPTO TRADERS WHO EXPECT MORE Whether y",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads, visible order book depth, advanced trading tools with TradingView chart integrations, and more",
+    "snippet": "o offers the best available simulated environment. CENTRALIZED ENVIRONMENT Tight spreads, visible order book depth, advanced trading tools with TradingView chart integrations, and more. MODERN AND USER FRIENDLY UI Seamlessly execute trades via our Terminal, a custom-built web and mobile app with advanced order types, one-click trading, an",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eamlessly execute trades via our Terminal, a custom-built web and mobile app with advanced order types, one-click tradin",
+    "snippet": "g tools with TradingView chart integrations, and more. MODERN AND USER FRIENDLY UI Seamlessly execute trades via our Terminal, a custom-built web and mobile app with advanced order types, one-click trading, and built-in risk management. WGMI CORE VALUES Clear, fair, and accessible rules. Radical transparency with data on trading evaluatio",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear, fair, and accessible rules",
+    "snippet": "ed order types, one-click trading, and built-in risk management. WGMI CORE VALUES Clear, fair, and accessible rules. Radical transparency with data on trading evaluation success rates, breaches, payouts, and more. How to start START YOUR CRYPTO TRADING JOURNEY HERE Stop lurking on X f",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaches, payouts, and more",
+    "snippet": "essible rules. Radical transparency with data on trading evaluation success rates, breaches, payouts, and more. How to start START YOUR CRYPTO TRADING JOURNEY HERE Stop lurking on X for the next moonshot and start trading like you mean it. Select your challenge and account size.",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@wencrypto.com",
+    "snippet": ": Ground Floor, The Sotheby Building, Rodney Bay, Gros-Islet, Saint Lucia Email: support@wencrypto.com CRITICAL NOTICE: All accounts provided to our clients are demo accounts with simulated funds. All trading activities are conducted in a simulated trading environment.",
+    "url": "https://wencrypto.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling program",
+    "snippet": "type.\\n \\n \\n The maximum a trader can achieve in funding is $300,000 . There is no scaling program.\\n \"}]},{\"id\":\"instruments\",\"title\":\"Instruments\",\"description\":\"What you can trade on WenCrypto\",\"faqs\":[{\"id\":\"what-can-i-trade\",\"question\":\"What can I trade?\",\"answer",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC before requesting payouts\n\\n Stay within your drawdown limits, breaching any drawdown limits will result in a",
+    "snippet": "unt and payment methods \\n No cheating, reverse hedging, or exploitation \\n Complete KYC before requesting payouts \\n Stay within your drawdown limits, breaching any drawdown limits will result in account closure and failure of the challenge or funded account \\n \"},{\"id\":\"what-is-the-maximum-allocation\",\"question\":\"What is the maximum all",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "KYC must be completed and approved\n\\n You must be in the funded stage\n\\n You must be within drawdown limits at th",
+    "snippet": "ments-to-withdraw\",\"question\":\"What are the requirements to withdraw?\",\"answer\":\" \\n KYC must be completed and approved \\n You must be in the funded stage \\n You must be within drawdown limits at the time of request \\n \\n \\n Withdrawals are processed through WenCrypto's supported payout methods.\\n \\n \\n For the single pass and double pass",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   },
+   {
+    "value": "kyc-requirements\",\"title\":\"KYC Requirements\",\"description\":\"Know Your Customer requirements and process\",\"faqs\":[",
+    "snippet": "rawal is capped at 8%. The third and fourth withdrawals are unlimited.\\n \"}]},{\"id\":\"kyc-requirements\",\"title\":\"KYC Requirements\",\"description\":\"Know Your Customer requirements and process\",\"faqs\":[{\"id\":\"what-do-i-need-to-know-about-kyc\",\"question\":\"What do I need to know about KYC?\",\"answer\":\" \\n Your information must match your ID exac",
+    "url": "https://wencrypto.com/faqs",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Subscription failed",
+    "snippet": "in our Privacy Policy and Cookie Policy. Successfully subscribed to our newsletter! Subscription failed. Please try again. Subscribing... Navigation Pricing About us FAQ Contact Log in Resources Blog Affiliates Legal Privacy Policy AML Policy Risk Disclosure Terms & Con",
+    "url": "https://wencrypto.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "PLETE A CHALLENGE Prove your trading powers and complete a challenge or go straight to funded with Instant Funding. 01 GET VERIFIED If you're currently on the 2-step challenge, redo it with easier rules so we know the first trial wasn't just luck. 02 BECOME A FUNDED TRADER",
+   "url": "https://wencrypto.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "our favorite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorry, this product is not available in your region. Single Pass $55 *Price with coupon. REFUNDABLE Profit target Th",
+   "url": "https://wencrypto.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "orite platform to trade Match Trader Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorry, this product is not available in your region. Single Pass $55 *Price with coupon. REFUNDABLE Profit target The % gai",
+   "url": "https://wencrypto.com/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "r advantages HOW IT WORKS REAL CRYPTO TRADING EXPERIENCE, WITHOUT THE RISK OF GETTING RUGGED You're four steps away from unleashing your trading skills. It's simple. Here's how it works: COMPLETE A CHALLENGE Prove your trading powers and complete a challenge or go str",
+   "url": "https://wencrypto.com/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "der Choose your account type Standard WEN LAMBO CHALLENGES 1 Step 2 Step Genesis Challenge Buy Now Pay Later Sorry, this product is not available in your region. Single Pass $55 *Price with coupon. REFUNDABLE Profit target The % gain you must make on your account to p",
+   "url": "https://wencrypto.com/"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "il-policy\",\"question\":\"One Email Policy\",\"answer\":\" \\n You must use one email per person for all WenCrypto accounts.\\n \"},{\"id\":\"what-about-payment-methods\",\"question\":\"What about payment methods?\",\"answer\":\" \\n The payment card used must belong to you . Using someone else'",
+   "url": "https://wencrypto.com/faqs"
+  }
+ ],
+ "platforms": [
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Crypto",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

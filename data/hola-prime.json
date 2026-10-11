@@ -1,0 +1,549 @@
+{
+ "slug": "hola-prime",
+ "name": "Hola Prime",
+ "category": "Futures",
+ "url": "https://holaprime.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://holaprime.com/",
+   "kind": "home",
+   "chars": 10926
+  },
+  {
+   "url": "https://holaprime.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 62058
+  },
+  {
+   "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+   "kind": "page",
+   "chars": 13734
+  },
+  {
+   "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+   "kind": "page",
+   "chars": 15144
+  },
+  {
+   "url": "https://holaprime.com/de/forex/forex-trading-rules/",
+   "kind": "page",
+   "chars": 15144
+  },
+  {
+   "url": "https://holaprime.com/de/futures/futures-trading-rules/",
+   "kind": "page",
+   "chars": 13734
+  },
+  {
+   "url": "https://holaprime.com/ur/futures/futures-trading-rules/",
+   "kind": "page",
+   "chars": 13734
+  },
+  {
+   "url": "https://holaprime.com/ar/forex/forex-trading-rules/",
+   "kind": "page",
+   "chars": 15144
+  },
+  {
+   "url": "https://holaprime.com/futures/futures-trading-rules/",
+   "kind": "page",
+   "chars": 13734
+  },
+  {
+   "url": "https://holaprime.com/da/futures/futures-trading-rules/",
+   "kind": "page",
+   "chars": 13734
+  },
+  {
+   "url": "https://holaprime.com/fr/forex/forex-trading-rules/",
+   "kind": "page",
+   "chars": 15144
+  },
+  {
+   "url": "https://holaprime.com/ar/%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D8%AC%D9%84%D8%A9/futures-trading-rules/",
+   "kind": "page",
+   "chars": 13734
+  },
+  {
+   "url": "https://holaprime.com/id/forex/forex-trading-rules/",
+   "kind": "page",
+   "chars": 15144
+  },
+  {
+   "url": "https://holaprime.com/ms/forex/forex-trading-rules/",
+   "kind": "page",
+   "chars": 15144
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 246265,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "Show More Challenge Account Targets - How To Pass 1 Phase 1 1-Step Challenge Profit target 6% of initial balance How it works Min. Trading Days NA How it works Trading Period: Unlimited Rules - Hard Breach Max. Loss Limit 4% (3% for $100k & $150k accounts",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "Show More Challenge Account Targets - How To Pass 1 Phase 1 1-Step Challenge Profit target 10% of initial balance How it works Min. Trading Days 2 days How it works Trading Period: Unlimited Rules - Hard Breach Daily Loss Limit 3% of previous day's closing",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": ". Trading Days 2 days How it works Trading Period: Unlimited Rules - Hard Breach Daily Loss Limit 3% of previous day's closing balance How it works 3% DAILY LOSS LIMIT Daily Loss Limit is the maximum amount a trader is allowed to lose in a day and it's calculated on",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "4",
+    "snippet": "accounts) End of the Day Balance 4% trailing floor \u2014 never breach View Example Maximum Loss Limit 4% trailing drawdown 4% TRAILING The Setup Initial balance $50,000 Max trailing drawdown (4%) $2,000 Initial loss limit $48,000 The Maximum Loss Limit follows the hig",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "ce. This is a fixed floor. Account balance 6% floor \u2014 never breach View Example Maximum Loss Limit 6% of initial account balance 6% MAX The Setup Initial balance $10,000 Maximum loss limit (6%) $600 Breach threshold $9,400 Safe vs Breach \u00b7 Example Safe Loss \u2212$400 E",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "fit the trader, not the other way around. That\u2019s why we give you choices: Bi-Weekly: 80% split Monthly: 95% split Direct Plan: Bi-Weekly, up to 90% split On-Demand payouts: 80% Profit split Because every trader deserves the freedom to decide their own pace of reward. Do you offe",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "you choices: Bi-Weekly: 80% split Monthly: 95% split Direct Plan: Bi-Weekly, up to 90% split On-Demand payouts: 80% Profit split Because every trader deserves the freedom to decide their own pace of reward. Do you offer scaling? Absolutely. We know how important growth is, and we celebrate cons",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "itable Days = 3 (Profitable days = 0.5% of initial balance) How it works Monthly 95% Payout split Request every 30 days Min. Profitable Days = 7 (Profitable days = 0.5% of initial balance) How it works On Demand 80% Payout split Request anytime Consistency score",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "ential with us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "l with us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to try,",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "h us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to try, test,",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to try, test, and r",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "800",
+    "snippet": "llowed Maximum Capital Allocation Combined Forex & Futures allocation is capped at $800K. 5 Accounts or $500K (Whichever threshold is reached first) News Trading Allowed Maximum Exposure Limit Account Size Maximum Position Size $25K 1/10 Contracts $50K",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "500",
+    "snippet": "tal Allocation Combined Forex & Futures allocation is capped at $800K. 5 Accounts or $500K (Whichever threshold is reached first) News Trading Allowed Maximum Exposure Limit Account Size Maximum Position Size $25K 1/10 Contracts $50K 3/30 Contracts $100K",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "o $4 million to trade! 1-Step Prime 2-Step Prime 2-Step Pro Direct Account Sizes $2K $5K $10K $25K $50K $100K $200K Swap Free Add on Available Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Chall",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "million to trade! 1-Step Prime 2-Step Prime 2-Step Pro Direct Account Sizes $2K $5K $10K $25K $50K $100K $200K Swap Free Add on Available Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "lion to trade! 1-Step Prime 2-Step Prime 2-Step Pro Direct Account Sizes $2K $5K $10K $25K $50K $100K $200K Swap Free Add on Available Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phas",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "p Prime 2-Step Prime 2-Step Pro Direct Account Sizes $2K $5K $10K $25K $50K $100K $200K Swap Free Add on Available Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "0",
+    "snippet": ", your money is in your hands within just one hour. Every single time. Get Funded $ 0 M+ Payouts So Far 0 K Traders worldwide 0 + Trading Platforms Global Presence Hola Prime\u2019s a global brand with a global presence, from Hong Kong to London. You c",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "ets Browse Trading Objectives Unlock Your Full Trading Potential with us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find wha",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "25",
+    "snippet": "ential with us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room t",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "l with us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to try",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "h us. Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to try, test",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "Get up to $4 million to trade! 1-Step Prime Direct Account Sizes $25K $50K $100K $150K Two stages, two mindsets Challenge Account Test \u2192 Evaluate \u2192 Refine \u2192 Prove Find what works. The Challenge phase is designed to give you room to try, test, and",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "50,00",
+    "snippet": "Maximum Loss Limit 4% trailing drawdown 4% TRAILING The Setup Initial balance $50,000 Max trailing drawdown (4%) $2,000 Initial loss limit $48,000 The Maximum Loss Limit follows the highest end-of-day balance (High Water Mark) until you reach a 4% net",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "2,00",
+    "snippet": "rawdown 4% TRAILING The Setup Initial balance $50,000 Max trailing drawdown (4%) $2,000 Initial loss limit $48,000 The Maximum Loss Limit follows the highest end-of-day balance (High Water Mark) until you reach a 4% net profit, then it locks at the start",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "48,00",
+    "snippet": "e Setup Initial balance $50,000 Max trailing drawdown (4%) $2,000 Initial loss limit $48,000 The Maximum Loss Limit follows the highest end-of-day balance (High Water Mark) until you reach a 4% net profit, then it locks at the starting balance. Trailing draw",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "52,00",
+    "snippet": "ter Mark). It only trails upward and never moves downward. Once your account reaches $52,000 (+4%), the limit locks at your starting balance ($50,000) and no longer trails. Inactivity 7 Days Close at least 1 trade every 7 days. EAs Restricted Guidelines We",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "Max Risk Per Trade Idea The maximum risk you can take on any single trade idea 2% $100,000 2% MAX On a $100,000 account, the max risk per trade idea is $2,000 $1,500 risk \u2014 OK $2,100 risk \u2014 BREACH \"Risk\" refers to the maximum amount at stake on a trade or",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "2,10",
+    "snippet": "2% MAX On a $100,000 account, the max risk per trade idea is $2,000 $1,500 risk \u2014 OK $2,100 risk \u2014 BREACH \"Risk\" refers to the maximum amount at stake on a trade or trade idea, determined by the stop-loss placement. A Stop Loss (SL) is mandatory on every tra",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "oss Limit 4% (3% for $100k & $150k accounts) EOD Trading Drawdown How it works EOD Trailing Drawdown \u2014 4% Once the account reaches 4% profit, the max trailing locks at the initial balance and stops trailing. (3% for $100k and $150k accounts) End of the Day Balance 4%",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Weekly",
+    "snippet": "25K 1/10 Contracts $50K 3/30 Contracts $100K 7/70 Contracts $150K 10/100 Contracts Payout Cycles Weekly 90% Payout split Request every 7 calendar days Consistency = 35% How it works The biggest winning day cannot exceed 35% of the total profits made in the account Pr",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Biweekly",
+    "snippet": "struments: FX 50:1 Exotics 5:1 Commodities 2:1 Indices 10:1 Metals 10:1 Crypto 1:1 Payout Cycles Biweekly 80% Payout split Request every 14 days Min. Profitable Days = 3 (Profitable days = 0.5% of initial balance) How it works Monthly 95% Payout split Request every 30 da",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": ":1 Commodities 2:1 Indices 10:1 Metals 10:1 Crypto 1:1 Payout Cycles Biweekly 80% Payout split Request every 14 days Min. Profitable Days = 3 (Profitable days = 0.5% of initial balance) How it works Monthly 95% Payout split Request every 30 days Min. Profitable Days = 7 (Profitable",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "every 30 days",
+    "snippet": "le Days = 3 (Profitable days = 0.5% of initial balance) How it works Monthly 95% Payout split Request every 30 days Min. Profitable Days = 7 (Profitable days = 0.5% of initial balance) How it works On Demand 80% Payout split Request anytime Consistency score = 40% (Min. reward req",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "anytime",
+    "snippet": "Days = 7 (Profitable days = 0.5% of initial balance) How it works On Demand 80% Payout split Request anytime Consistency score = 40% (Min. reward requirement = 2% of initial balance) How it works Payout Methods: A 2.5% payout processing fee applies to all payment methods, s",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Rise",
+    "snippet": "t processing fee applies to all payment methods, subject to a minimum fee of $25 for Rise and Bank Wire and $5 for Crypto. Bank Wire Crypto Rise Account Review Account review is a requirement for payout eligibility and is conducted for every payout to veri",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Crypto",
+    "snippet": "l payment methods, subject to a minimum fee of $25 for Rise and Bank Wire and $5 for Crypto. Bank Wire Crypto Rise Account Review Account review is a requirement for payout eligibility and is conducted for every payout to verify compliance with the applicabl",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "ome Broker Forex Futures Plans Forex Pro Challenge Prime Challenge Direct Account Scaling Plan Futures Prime Challenge Direct Account Futures Simplified Step into Futures Objectives Forex Trading Objectives FAQs Futures Trading Objectives FAQs Trading Forex Trading Platforms Instruments Trading Tools Indicators Price Transparency Report F",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "e at 4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius, is authorized and regulated by the Financial Services Commission (FSC) of Mauritius as an Investment Dealer (Full Service Dealer, excluding underwriting) under license number GB24203729. For Match-Trader services: Gooey Trade, GT Tech LLC, 6800 Broken Sound Parkway NW, Sui",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "would be contrary to local law or regulation. HYPOTHETICAL PERFORMANCE DISCLOSURE: CFTC Rule 4.4-Hypothetical performance results have many inherent limitations, some of which are described below. No representation is being made that any account will or is likely",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Traders We live the sa",
+    "snippet": "ogin/Register Join Login/Register Join Home Forex Futures Markets Browse We are Traders We live the same battles you do and build solutions that truly help you succeed. Trustpilot Trade Our Money Trade Your Money A Trading Ecosystem Designed for You Forex The gateway",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "supported by verified payout metrics, with an averag",
+    "snippet": "p Loading ... UF Awards, iFX Expo, Dubai Fastest Payout Prop FIRM This award is supported by verified payout metrics, with an average processing time of 33 minutes. Our framework ensures ready liquidity, clear controls, and full transparency. You Deserve Fast Payouts You've done the hard work. You",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "You've done the hard work. You've manag",
+    "snippet": "ready liquidity, clear controls, and full transparency. You Deserve Fast Payouts You've done the hard work. You've managed the risk. You've earned the profit. Why should you wait? With our 10-Point Solid Payout System, your money is in your hands within just one hour. Every single time. G",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s why we sa",
+    "snippet": "celebrate the wins. Because no one else gets it like another trader does. And that\u2019s why we say: We are Traders. Join Discord Fast, Secure Payments FAQs Still Have Questions? Feel free to get in touch with us today! Book a Meeting What is Hola Prime?",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "r a fair shot at proving themselves without unnecessa",
+    "snippet": "t feels when costs hold you back at the very start. We run offers to give every trader a fair shot at proving themselves without unnecessary barriers. What is a trading challenge? For us, a challenge has never been about ticking boxes - it\u2019s a chance to show the discipline, patience, and skill that define",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Higher leverag",
+    "snippet": "and Prime Challenges? Both serve traders, but with different styles: Pro Accounts: Higher leverage (100:1) for those who trade aggressively and thrive on momentum. Prime Accounts: Moderate leverage (50:1) for traders who prefer tighter control and steady risk manage",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "for those who trade ag",
+    "snippet": "Both serve traders, but with different styles: Pro Accounts: Higher leverage (100:1) for those who trade aggressively and thrive on momentum. Prime Accounts: Moderate leverage (50:1) for traders who prefer tighter control and steady risk management. Also, Prime accounts allow",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Moderate leverag",
+    "snippet": "ge (100:1) for those who trade aggressively and thrive on momentum. Prime Accounts: Moderate leverage (50:1) for traders who prefer tighter control and steady risk management. Also, Prime accounts allows weekend holding and news trading without any restrictions. Is c",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "220248",
+    "snippet": "Prime Limited, Hong Kong. For MT5 services: Hola Prime Ltd Mauritius, with company registration number 220248 and registered office at 4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius, is authorized and regulated by the Financial Services Commission (FSC) of Mauritiu",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading without any restrictions",
+    "snippet": "control and steady risk management. Also, Prime accounts allows weekend holding and news trading without any restrictions. Is copy trading allowed? Yes, but only between your own Hola Prime (Sim. Funded) Account Contactus@holaprime.com About us Who we are Our Team News & Media Awards",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed \n Consistency 40% \n Account Size Maximum Position Size $25K 1/10 Contracts $50K 3/30 Contracts $100",
+    "snippet": "Restricted Guidelines Weekend Holding Not Allowed Overnight Holding Not Allowed News Trading Allowed Consistency 40% Account Size Maximum Position Size $25K 1/10 Contracts $50K 3/30 Contracts $100K 7/70 Contracts $150K 10/100 Contracts Passed KYC Agreement Sim. Funded Account Hola Prime (Sim. Funded) Account Rules - Hard Breach Max. Loss ",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Allowed \n Maximum Exposure Limit\n Account Size Maximum Position Size $25K 1/10 Contracts $50K 3/30 Contract",
+    "snippet": "ion is capped at $800K. 5 Accounts or $500K (Whichever threshold is reached first) News Trading Allowed Maximum Exposure Limit Account Size Maximum Position Size $25K 1/10 Contracts $50K 3/30 Contracts $100K 7/70 Contracts $150K 10/100 Contracts Payout Cycles Weekly 90% Payout split Request every 7 calendar days Consistency = 35% How it w",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Allowed \n Overnight Holding Allowed \n Weekend Holding Allowed \n No Time Limit \n Leverage by instruments: FX",
+    "snippet": "nated. Inactivity 30 Days Open at least 1 trade every 30 Calendar days Guidelines News Trading Allowed Overnight Holding Allowed Weekend Holding Allowed No Time Limit Leverage by instruments: FX 50:1 Exotics 5:1 Commodities 2:1 Indices 10:1 Metals 10:1 Crypto 1:1 Passed KYC Agreement Sim. Funded Account Hola Prime (Sim. Funded) Account Ru",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eam News & Media Risk & Compliance Hola Prime Awards Careers Contact us \n Resources\n Academy Blogs Risk Control Rewards ",
+    "snippet": "e Desk Affiliates Partners Affiliate FAQs Login More About Us Who we are Our Team News & Media Risk & Compliance Hola Prime Awards Careers Contact us Resources Academy Blogs Risk Control Rewards & Community Join Discord Competition Giveaway Payouts 1-Hour Payouts Payout Transparency Report Payout Stories Login/Register Join Login/Register",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaway \n Payouts\n 1-Hour Payouts Payout Transparency Report Payout Stories \n Login/Register Join \n Login/Register Join \n ",
+    "snippet": "sources Academy Blogs Risk Control Rewards & Community Join Discord Competition Giveaway Payouts 1-Hour Payouts Payout Transparency Report Payout Stories Login/Register Join Login/Register Join Home Forex Futures Markets Browse We are Traders We live the same battles you do and build solutions that truly help you succeed. Trustpilot Trade",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading trading across major global markets, with withdrawals processed in just 1 hour",
+    "snippet": "way futures should always have been. Trade Futures Markets Experience industry-leading trading across major global markets, with withdrawals processed in just 1 hour. Learn More about Hola Prime Markets Premium Trading Experience Built For Your Success Choose your perfect trading setup Loading ... UF Awards, iFX Expo, Dubai",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More about Hola Prime Markets \n Premium Trading Experience\n Built For Your Success\n Choose your perfect trading set",
+    "snippet": "ng trading across major global markets, with withdrawals processed in just 1 hour. Learn More about Hola Prime Markets Premium Trading Experience Built For Your Success Choose your perfect trading setup Loading ... UF Awards, iFX Expo, Dubai Fastest Payout Prop FIRM This award is supported by verified payout metrics, with an average proce",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady liquidity, clear controls, and full transparency",
+    "snippet": "ayout metrics, with an average processing time of 33 minutes. Our framework ensures ready liquidity, clear controls, and full transparency. You Deserve Fast Payouts You've done the hard work. You've managed the risk. You've earned the profit. Why should you wait? With our 10-Point Solid Payout System, y",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Contactus@holaprime.com",
+    "snippet": "y trading allowed? Yes, but only between your own Hola Prime (Sim. Funded) Account Contactus@holaprime.com About us Who we are Our Team News & Media Awards Risk & Compliance Payout Transparency Report Careers Contact us 1-Hour Payouts Plans Forex Pro Challenge Prime Challe",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap\n Account Size 1st Payout 2nd Payout 3rd Payout 4th Onwards $25K $1,000 $1,250 $1,500 $2,000 $50K $1,500 $2,00",
+    "snippet": "ccount Size : Minimum Payout $25K : $250 $50K : $500 $100K : $1,000 $150K : $1,500 Payout Cap Account Size 1st Payout 2nd Payout 3rd Payout 4th Onwards $25K $1,000 $1,250 $1,500 $2,000 $50K $1,500 $2,000 $2,500 $3,000 $100K $2,000 $2,500 $3,000 $4,000 $150K $2,500 $3,000 $4,000 $5,000 Payout Methods: A 2.5% payout processing fee applies t",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan Futures\n Prime Challenge Direct Account Futures Simplified Step into Futures \n Objectives Forex\n Trading Ob",
+    "snippet": "ome Broker Forex Futures Plans Forex Pro Challenge Prime Challenge Direct Account Scaling Plan Futures Prime Challenge Direct Account Futures Simplified Step into Futures Objectives Forex Trading Objectives FAQs Futures Trading Objectives FAQs Trading Forex Trading Platforms Instruments Trading Tools Indicators Price Transparency Report F",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan Trading Objectives Plans\n Futures\n 1 Step Prime Direct Account Trading Objectives Futures Simplified Step i",
+    "snippet": "Contact us 1-Hour Payouts Plans Forex Pro Challenge Prime Challenge Direct Account Scaling Plan Trading Objectives Plans Futures 1 Step Prime Direct Account Trading Objectives Futures Simplified Step into Futures Trading Forex Transparency Report Trading Platforms Trading Tools Instruments FAQs Indicators Trading Futures Trading Platforms",
+    "url": "https://holaprime.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan \n Objectives Forex\n Trading Objectives FAQs \n Trading Forex\n Trading Platforms Instruments Trading Tools In",
+    "snippet": "ome Broker Forex Futures Plans Forex Pro Challenge Prime Challenge Direct Account Scaling Plan Objectives Forex Trading Objectives FAQs Trading Forex Trading Platforms Instruments Trading Tools Indicators Price Transparency Report Prime Hub Prime Circle Prime Desk Affiliates Partners Affiliate FAQs Login More About Us Who we are Our Team ",
+    "url": "https://holaprime.com/ur/forex/forex-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC \n Agreement \n Sim",
+    "snippet": "ntracts $50K 3/30 Contracts $100K 7/70 Contracts $150K 10/100 Contracts Passed KYC Agreement Sim. Funded Account Hola Prime (Sim. Funded) Account Rules - Hard Breach Max. Loss Limit 4% (3% for $100k and $150k accounts) EOD Trailing Drawdown How it works EOD Tra",
+    "url": "https://holaprime.com/cs/futures/futures-trading-rules/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "Forex Pro Challenge Prime Challenge Direct Account Scaling Plan Trading Objectives Plans Futures 1 Step Prime Direct Account Trading Objectives Futures Simplified Step into Futures Trading Forex Transparency Report Trading Platforms Trading Tools Instruments FA",
+   "url": "https://holaprime.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "//holaprime.com/vi/one-step-prop-firm/ 2026-10-09T10:59:45.640Z monthly 0.64 https://holaprime.com/two-step-prop-firm/ 2026-10-09T10:59:45.640Z monthly 0.8 https://holaprime.com/fr/two-step-prop-firm/ 2026-10-09T10:59:45.640Z monthly 0.64 https://holaprime.com/de/t",
+   "url": "https://holaprime.com/sitemap.xml"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader",
+  "Tradovate",
+  "NinjaTrader",
+  "WealthCharts"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Commodities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "em, your money is in your hands within just one hour. Every single time. Get Funded $ 0 M+ Payouts So Far 0 K Traders worldwide 0 + Trading Platforms Global Presence Hola",
+  "ng Days NA How it works Trading Period: Unlimited Rules - Hard Breach Max. Loss Limit 4% (3% for $100k & $150k accounts) EOD Trading Drawdown How it works EOD Trailing Drawdown",
+  "count reaches 4% profit, the max trailing locks at the initial balance and stops trailing. (3% for $100k and $150k accounts) End of the Day Balance 4% trailing floor \u2014 never breach",
+  "Funded Account Hola Prime (Sim. Funded) Account Rules - Hard Breach Max. Loss Limit 4% (3% for $100k and $150k accounts) EOD Trailing Drawdown How it works EOD Trailing Drawdown",
+  "count reaches 4% profit, the max trailing locks at the initial balance and stops trailing. (3% for $100k and $150k accounts) End of the Day Balance 4% trailing floor \u2014 never breach",
+  "ight Holding Not Allowed Maximum Capital Allocation Combined Forex & Futures allocation is capped at $800K. 5 Accounts or $500K (Whichever threshold is reached first) News Trad"
+ ],
+ "errors": []
+}

@@ -1,0 +1,246 @@
+{
+ "slug": "crystal-ball-markets",
+ "name": "Crystal Ball Markets",
+ "category": "Forex/CFD",
+ "url": "https://crystalballmarkets.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://crystalballmarkets.com/",
+   "kind": "home",
+   "chars": 4621
+  },
+  {
+   "url": "https://crystalballmarkets.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 150
+  },
+  {
+   "url": "https://crystalballmarkets.com/sitemap_pages.xml",
+   "kind": "sitemap",
+   "chars": 20995
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 57068
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/maximizing-your-propfunded-trading-payout-understanding-profit-splits-and-scaling-plans",
+   "kind": "page",
+   "chars": 471
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/consistency-is-key-developing-a-prop-trading-plan-you-can-actually-stick-to",
+   "kind": "page",
+   "chars": 542
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/how-forex-brokers-build-and-manage-liquidity-providers-aggregation-pricing-execution-and-risk",
+   "kind": "page",
+   "chars": 184
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/hard-vs-soft-landing-what-financial-markets-are-pricing-in",
+   "kind": "page",
+   "chars": 727
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/agricultural-commodities-basics-what-drives-prices-and-how-to-trade",
+   "kind": "page",
+   "chars": 574
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/how-oil-prices-signal-global-growth",
+   "kind": "page",
+   "chars": 675
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/dogecoin-2025-price-outlook-what-to-expect-from-the-meme-coin",
+   "kind": "page",
+   "chars": 359
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/agricultural-commodities-price-outlook-for-2025-trends-projections-and-trading-opportunities",
+   "kind": "page",
+   "chars": 1163
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/ethereum-price-outlook-for-2025-whats-in-store-for-eth",
+   "kind": "page",
+   "chars": 853
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/solana-price-outlook-for-2025-and-beyond",
+   "kind": "page",
+   "chars": 748
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/polkadot-dot-price-outlook-for-2025-and-beyond",
+   "kind": "page",
+   "chars": 746
+  },
+  {
+   "url": "https://crystalballmarkets.com/blog/technical-analysis-basics-reading-price-charts-like-a-pro",
+   "kind": "page",
+   "chars": 615
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 90506,
+ "findings": {
+  "payout_frequency": [
+   {
+    "value": "daily",
+    "snippet": "21:29+00:00 https://crystalballmarkets.com/blog/maximizing-your-propfunded-trading-payout-understanding-profit-splits-and-scaling-plans daily 0.8 2025-03-31T17:23:16+00:00 https://crystalballmarkets.com/blog/metatrader-scams-exposed-why-fraudsters-love-mt45-and-how-traders-can-fight-back daily 0.8 2025-03-",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "ZH ID PT TH RU FR ES AR ZH ID PT TH Markets Currencies Cryptocurrencies Agricultural Commodities Metals Energy Indices Stocks/Shares Digital Options Trading Types of Account Deposit Withdrawal Platform MT7 Partners Introducin",
+    "url": "https://crystalballmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "https://crystalballmarkets.com/blog/10-scam-tactics-in-digital-options-and-how-to-spot-them-early daily 0.8 2025-03-31T17:44:38+00:00 https://crystalballmarkets.com/blog/10-things-traders-hate-about-metatrader-mt4mt5 daily 0.8 2025-03-20T16:09:39+00:00 https://crystalb",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "09-18T15:16:53+00:00 https://crystalballmarkets.com/blog/agricultural-commodities-basics-what-drives-prices-and-how-to-trade daily 0.8 2025-05-16T10:27:51+00:00 https://crystalballmarkets.com/blog/agricultural-commodities-price-outlook-for-2025-trends-projections-and-trading-opportunities daily 0.8",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "orrection daily 0.8 2025-03-21T13:46:34+00:00 https://crystalballmarkets.com/blog/mastering-digital-options-psychology-how-to-stay-calm-and-trade-on daily 0.8 2025-04-01T16:34:15+00:00 https://crystalballmarkets.com/blog/mastering-drawdowns-risk-management-techniques-for-funded-traders daily 0.8 2025-03-27T12:19:58+00:00",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Markets Currencies Cryptocurrencies Ag",
+    "snippet": "U FR ES AR ZH ID PT TH RU FR ES AR ZH ID PT TH Markets Currencies Cryptocurrencies Agricultural Commodities Metals Energy Indices Stocks/Shares Digital Options Trading Types of Account Deposit Withdrawal Platform MT7 Partners Introducing Brokers Aff",
+    "url": "https://crystalballmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "risk-manag",
+    "snippet": "urrency daily 0.8 2021-12-30T10:25:05+00:00 https://crystalballmarkets.com/blog/5-risk-management-techniques-for-traders_1 daily 0.8 2025-01-16T08:56:35+00:00 https://crystalballmarkets.com/blog/5-tips-for-trading-in-precious-metals daily 0.8 2025-01-17T10:1",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "effective-strategies-to-manag",
+    "snippet": "nd-them daily 0.8 2025-01-21T09:30:17+00:00 https://crystalballmarkets.com/blog/6-effective-strategies-to-manage-gold-trading-risks daily 0.8 2025-01-15T08:41:00+00:00 https://crystalballmarkets.com/blog/6-factors-that-drive-the-trend-in-forex-trading daily 0.8 2025-02-12T09:1",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ways-to-sa",
+    "snippet": "nd-them daily 0.8 2025-01-28T17:22:37+00:00 https://crystalballmarkets.com/blog/6-ways-to-safely-invest-in-cryptocurrency daily 0.8 2025-01-31T09:02:35+00:00 https://crystalballmarkets.com/blog/7-cryptocurrencies-with-the-best-growth-potential-in-2024 daily 0",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "a-conversa",
+    "snippet": "ance-defi daily 0.8 2024-12-16T11:11:28+00:00 https://crystalballmarkets.com/blog/a-conversation-with-maya-thompson-who-turned-dollar1k-into-dollar100k daily 0.8 2025-06-03T11:15:50+00:00 https://crystalballmarkets.com/blog/a-guide-to-commodities-trading dail",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "choosing-the-right-broker-fees-features-and-red-flag",
+    "snippet": "ive-guide daily 0.8 2025-03-20T11:58:38+00:00 https://crystalballmarkets.com/blog/choosing-the-right-broker-fees-features-and-red-flags daily 0.8 2025-06-11T09:45:50+00:00 https://crystalballmarkets.com/blog/choosing-the-right-prop-firm-5-factors-to-consider-and-red-flags-to-avoid daily 0.8 2025-03-",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "he-right-prop-firm-5-factors-to-consider-and-red-flag",
+    "snippet": "daily 0.8 2025-06-11T09:45:50+00:00 https://crystalballmarkets.com/blog/choosing-the-right-prop-firm-5-factors-to-consider-and-red-flags-to-avoid daily 0.8 2025-03-20T17:46:13+00:00 https://crystalballmarkets.com/blog/choosing-the-right-trading-contest-for-your-skill-level daily 0.8 2025-03-31T11:40:",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "commodities-outlook-2026-gold-oil-and-ag",
+    "snippet": "ts-growth daily 0.8 2026-04-28T16:05:38+00:00 https://crystalballmarkets.com/blog/commodities-outlook-2026-gold-oil-and-agriculture daily 0.8 2025-08-28T12:31:31+00:00 https://crystalballmarkets.com/blog/commodity-supercycles-are-we-in-one daily 0.8 2026-05-06T16:14:41+00:00 https://cr",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Earn Free Rewards \n \n Forgot Password? REGISTER \n LOGIN \n \n \n \n Markets Currencies Cryptocurrencies Agricultural Commodi",
+    "snippet": "y Trading Market Insights Podcast Prop/Funded Trading Trading Contests Deposit Bonus Earn Free Rewards Forgot Password? REGISTER LOGIN Markets Currencies Cryptocurrencies Agricultural Commodities Metals Energy Indices Stocks/Shares Digital Options Trading Types of Account Deposit Withdrawal Platform MT7 Partners Introducing Brokers Affili",
+    "url": "https://crystalballmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn Free Rewards \n EN \n RU \n FR \n ES \n AR \n ZH \n ID \n PT \n TH \n RU \n FR \n <path style=\" fill:#C8B100\" d=\"M 15",
+    "snippet": "y Trading Market Insights Podcast Prop/Funded Trading Trading Contests Deposit Bonus Earn Free Rewards EN RU FR ES AR ZH ID PT TH RU FR <path style=\" fill:#C8B100\" d=\"M 15.347656 27.574219 C 15.359375 27.519531 15.40625 27.472656 15.464844 27.453125 L 15.464844 27.105469 L 15.570313 27.105469 L 15.570313 27.457031 C 15.625 27.476563 15.66",
+    "url": "https://crystalballmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn-free-rewards daily 0",
+    "snippet": "ily 0.8 2026-10-01T12:45:26+00:00 https://crystalballmarkets.com/client-resources/earn-free-rewards daily 0.8 2026-10-01T12:45:26+00:00 https://crystalballmarkets.com/ar/client-resources/earn-free-rewards daily 0.8 2026-10-01T12:45:26+00:00 https://crystalballmarkets.com",
+    "url": "https://crystalballmarkets.com/sitemap_pages.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "early daily 0",
+    "snippet": "/crystalballmarkets.com/blog/10-scam-tactics-in-digital-options-and-how-to-spot-them-early daily 0.8 2025-03-31T17:44:38+00:00 https://crystalballmarkets.com/blog/10-things-traders-hate-about-metatrader-mt4mt5 daily 0.8 2025-03-20T16:09:39+00:00 https://crystalb",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "eality-behind-them daily 0",
+    "snippet": "4-12-18T08:08:57+00:00 https://crystalballmarkets.com/blog/6-crypto-myths-and-the-reality-behind-them daily 0.8 2025-01-21T09:30:17+00:00 https://crystalballmarkets.com/blog/6-effective-strategies-to-manage-gold-trading-risks daily 0.8 2025-01-15T08:41:00+00:00 https://cry",
+    "url": "https://crystalballmarkets.com/blog/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plans | Crystal Ball Markets \n \n \n \n \n \n \n \n \n EN \n RU \n FR \n ES \n AR \n ZH \n ID \n PT \n TH \n RU \n FR \n <path styl",
+    "snippet": "Maximizing Your Prop/Funded Trading Payout: Understanding Profit Splits and Scaling Plans | Crystal Ball Markets EN RU FR ES AR ZH ID PT TH RU FR <path style=\"\" d=\"M 11.269531 29.738281 L 11.257813 29.738281 C 11.160156 29.738281 11.070313 29.722656 11 29.683594 C 10.9375 29.652344 10.855469 29.632813 10.761719 29.632813 C 10.671875 29.",
+    "url": "https://crystalballmarkets.com/blog/maximizing-your-propfunded-trading-payout-understanding-profit-splits-and-scaling-plans",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "MetaTrader 4",
+  "cTrader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

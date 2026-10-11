@@ -1,0 +1,34 @@
+{
+ "slug": "nexira-trade",
+ "name": "Nexira Trade",
+ "category": "Forex/CFD",
+ "url": "https://nexiratrade.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://nexiratrade.com/",
+   "kind": "home",
+   "chars": 28
+  },
+  {
+   "url": "https://nexiratrade.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 331
+  },
+  {
+   "url": "https://nexiratrade.com/faq",
+   "kind": "page",
+   "chars": 28
+  }
+ ],
+ "page_count": 3,
+ "total_chars": 389,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

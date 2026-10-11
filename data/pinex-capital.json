@@ -1,0 +1,868 @@
+{
+ "slug": "pinex-capital",
+ "name": "Pinex Capital",
+ "category": "Specialist",
+ "url": "https://pinexcapital.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://pinexcapital.com/en",
+   "kind": "home",
+   "chars": 17658
+  },
+  {
+   "url": "https://pinexcapital.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4869
+  },
+  {
+   "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+   "kind": "page",
+   "chars": 25921
+  },
+  {
+   "url": "https://pinexcapital.com/en/pay-later-challenge",
+   "kind": "page",
+   "chars": 8035
+  },
+  {
+   "url": "https://pinexcapital.com/blogs/prop-firm-challenge-bestehen",
+   "kind": "page",
+   "chars": 26352
+  },
+  {
+   "url": "https://pinexcapital.com/en/blogs/how-to-pass-a-prop-firm-challenge",
+   "kind": "page",
+   "chars": 23862
+  },
+  {
+   "url": "https://pinexcapital.com/en/2-step-challenge",
+   "kind": "page",
+   "chars": 15593
+  },
+  {
+   "url": "https://pinexcapital.com/pay-later-challenge",
+   "kind": "page",
+   "chars": 8622
+  },
+  {
+   "url": "https://pinexcapital.com/en/1-step-challenge",
+   "kind": "page",
+   "chars": 15523
+  },
+  {
+   "url": "https://pinexcapital.com/2-step-challenge",
+   "kind": "page",
+   "chars": 16658
+  },
+  {
+   "url": "https://pinexcapital.com/1-step-challenge",
+   "kind": "page",
+   "chars": 16655
+  },
+  {
+   "url": "https://pinexcapital.com/rules",
+   "kind": "page",
+   "chars": 18047
+  },
+  {
+   "url": "https://pinexcapital.com/en/rules",
+   "kind": "page",
+   "chars": 16377
+  },
+  {
+   "url": "https://pinexcapital.com/terms-and-conditions",
+   "kind": "page",
+   "chars": 79753
+  },
+  {
+   "url": "https://help.pinexcapital.com/en/",
+   "kind": "sub",
+   "chars": 858
+  },
+  {
+   "url": "https://help.pinexcapital.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 10235
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 305033,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "$50k Platform NEW Fair rules. No hidden deductions. Secure checkout Profit target 8% | 5% Max. daily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100% (ad",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "on fee \u2014 and your PineX Trader account is active within minutes. Evaluation Phase: Profit Target: 4 % of starting capital Daily Drawdown: None Maximum Drawdown: 8 % trailing Get Started Now Start your journey with PineX Get Started For \u20ac5. Only Pay The Res",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "wice Achieve your Profit Targets COMPLETE ALL STEPS Reach your profit targets 8% profit target / 5% profit target Stay within the daily drawdown limit Max 4% daily Stay within the overall drawdown limit Drawdown limit STEP 2 PineX Trader Trade your simulat",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "ir rules. No hidden deductions. Secure checkout Profit target 8% | 5% Max. daily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100% (add-on) Add-ons available at",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "s differ. Instant Funding PineX features an 8% trailing maximum loss, a 3% trailing daily drawdown, and a 2% risk cap per trade idea. It requires 5 days with at least +0.5% profit each. Payouts are available every 21 exchange days (14 days via add-on) at an 80% default profit s",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "entirely. In return, risk rules tighten: a 6% trailing maximum drawdown, 3% trailing daily loss, 1% floating-loss cap, and mandatory weekend closures across 6 profitable trading days (\u22650.5%). All PineX Trader Accounts operate in simulated environments. Check PineX Tra",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "al from $5,000 to $400,000 without prior evaluation. The account pairs a 3% trailing daily loss with a 6% trailing maximum loss limit. To request a withdrawal, you must log at least 5 active trading days with +0.5% profit or better. Payouts are processed bi-weekly every 14",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "counts running from $2,500 to $200,000 without testing phases. The program sets a 3% daily drawdown and a 5% trailing loss limit that locks at your starting balance once reached. Payout requirements are strict: you must build and maintain a 3% profit buffer, generate an extra",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "active within minutes. Evaluation Phase: Profit Target: 4 % of starting capital Daily Drawdown: None Maximum Drawdown: 8 % trailing Get Started Now Start your journey with PineX Get Started For \u20ac5. Only Pay The Rest Once You Pass. Choose account size and platform. Profit target",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "003.07 Daily Drawdown Limit (4%) $4,080.12 left Daily Drawdown Limit $97,922.95 Max Drawdown Limit (10%) $12,003.07 left Max Drawdown Limit $90,000.00 Trading Statistics Trades 9 Lots 25.02 Average RRR 0.92 Win rate 66.67% Trading days 7 / 4 Most traded asse",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "0.5",
+    "snippet": "Platform PineX Capital Instant Funding PineX $5K to $300K No 3% daily (trailing), 8% max total loss (trailing) 5 days (each \u2265 0.5% profit) Every 21 exchange days (14 days via add-on) 80% (up to 100% via add-on) TradeLocker, MT5 Goat Funded Trader Instant Funding GOAT Model $5K to $400K No 3% daily (",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "65",
+    "snippet": "ader (coming soon) FTUK Instant Funding Program (FOREX) $5K to $100K No 5% daily, 6% max total drawdown (relative) No minimum days On-demand 65% (scales up to 90%) MT5, Match-Trader, TradeLocker Funded Trading Plus Instant Program $5K to $100K No 6% daily, 6% max relative trailing drawdown No minimum days Every 7",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "hallenge, but their rulebooks differ. Instant Funding PineX features an 8% trailing maximum loss, a 3% trailing daily drawdown, and a 2% risk cap per trade idea. It requires 5 days with at least +0.5% profit each. Payouts are available every 21 exchange days (14 days via",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": ". Evaluation Phase: Profit Target: 4 % of starting capital Daily Drawdown: None Maximum Drawdown: 8 % trailing Get Started Now Start your journey with PineX Get Started For \u20ac5. Only Pay The Rest Once You Pass. Choose account size and platform. Profit target",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "Loss 2,5% Tagesverlust-Limit Stoppe nach 2 Verlusttrades in Folge oder bei -2,5% 10% Maximum Drawdown 6% Gesamt-Drawdown Handle nicht weiter und \u00fcberpr\u00fcfe Deine Strategie bei -6% Drawdown Unbegrenztes offenes Risiko 2% maximales Exposure Begrenze alle offenen Positionen auf",
+    "url": "https://pinexcapital.com/blogs/prop-firm-challenge-bestehen",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "profit each. Payouts are available every 21 exchange days (14 days via add-on) at an 80% default profit split, backed by a 20% consistency rule and permitted weekend holding. Instant Funding Elite bumps forex leverage to 1:50 and drops the consistency rule entirely. In return,",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "15",
+    "snippet": "kly every 14 days with an 80% default profit split. Keep in mind that GFT enforces a 15% consistency rule, which can delay your payout if a single trading day accounts for too much profit. AquaFunded AquaFunded runs the Instant Funding Pro program, offering immediate access to simulated funding from $",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "bmitting a payout request. Withdrawals run on a 14-day bi-weekly cycle at a generous 90% profit split. AquaFunded also enforces a 15% consistency rule alongside a 2% open floating-loss limit across active trades. Alpha Capital Alpha Capital Group offers Alpha Direct as",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "65",
+    "snippet": "-demand with zero minimum trading days. However, Level 1 accounts start with a lower 65% profit share and carry a 20% consistency threshold. As you hit successive 10% scaling profit targets, your account balance steps up through higher tiers, unlocking profit splits up t",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "Clear goals Scale with your performance Fixed conditions Get Started Up to 100% Rewards Split (with add-on) Payouts every 14 days (with add-on) Paid out within 2 business days NEW PLATFORM \u2014 METATRADER 5 50% off 50% off on all challenges \u2702 CODE: MT5 Create you",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "51",
+    "snippet": "PineX Trader Trade your simulated Trader Account Account balance: $213,023.11 6.51% Follow your plan STEP 3 Payout Request Payout Recent payouts $7,295.92 Completed Your payout was successfully credited. STEP 4 Scale Let Your Account Grow Feb \u2014 $200,000 Nov \u2014 $658,2",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "Direct $2.5K to $200K No 3% daily, 5% max drawdown (trailing to starting balance) No minimum days On-demand (after 3% buffer + 1% profit) 90% MT5, cTrader, DXTrade, TradeLocker, Alpha Trader (coming soon) FTUK Instant Funding Program (FOREX) $5K to $100K No 5% daily, 6% max total drawd",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "65",
+    "snippet": "unding Program (FOREX) $5K to $100K No 5% daily, 6% max total drawdown (relative) No minimum days On-demand 65% (scales up to 90%) MT5, Match-Trader, TradeLocker Funded Trading Plus Instant Program $5K to $100K No 6% daily, 6% max relative trailing drawdown No minimum days Every",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "7",
+    "snippet": "Plus Instant Program $5K to $100K No 6% daily, 6% max relative trailing drawdown No minimum days Every 7 days (first payout from day 1, min $50) 80% (90% with add-on) MT5, Match Trade Drag to scroll \u2192 Forex Prop Firms Without Challenge Finding the right fit among forex",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "limits and minimum trading days Program Phases Profit Target Daily Loss Maximum Loss Minimum Trading Days Who It May Suit PineX 1-Step Challenge 1 Phase 9% 3% Static, EOD-based 6% Static 3 days Traders with a proven strategy wanting a single target PineX 2-Step Challenge 2 Phases Phase 1: 8% Phase",
+    "url": "https://pinexcapital.com/en/blogs/how-to-pass-a-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "N PINEX Win a $ 200.000 PineX Account To celebrate MT5, enter for a chance to win a $200K account. For new customers only Get an exclusive 55% discount on your FIRST account No thanks, I don't want to join. \u2713 You're Entered! We'll send you an email y",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ant Funding POPULAR Model type PineX Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "unding POPULAR Model type PineX Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Pop",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "POPULAR Model type PineX Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "LAR Model type PineX Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular $200k",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "PineX Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular $200k $300k $5k $1",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular $200k $300k $5k $10k Pop",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular $200k $300k $5k $10k Popular $",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular $200k $300k $5k $10k Popular $20k $35k $50k Platform NEW Fair rules. No hidden deductions. Secure checkout Profit target 8% | 5% Max. daily loss 4% Ma",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "50k $200k $5k $10k $25k $50k $100k Popular $200k $300k $5k $10k Popular $20k $35k $50k Platform NEW Fair rules. No hidden deductions. Secure checkout Profit target 8% | 5% Max. daily loss 4% Max. total loss 10% Cons",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200.00",
+    "snippet": "w available \u2014 50% off all challenges Get started \u00d7 METATRADER 5 ON PINEX Win a $ 200.000 PineX Account To celebrate MT5, enter for a chance to win a $200K account. For new customers only Get an exclusive 55% discount on your FIRST account No thanks,",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "N PINEX Win a $ 200.000 PineX Account To celebrate MT5, enter for a chance to win a $200K account. For new customers only Get an exclusive 55% discount on your FIRST account No thanks, I don't want to join. \u2713 You're Entered! We'll send you an email",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "en Log In Get Started Since 2024 \u00b7 Two years of PineX Trade up to $2M. Reward split up to 100%. Get Started Now supported payment 30,000+ PineX Traders Trustpilot Gelistet auf Listed on TradingPilot 5.0 Gelistet a",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "17,05",
+    "snippet": "5 50% off 50% off on all challenges \u2702 CODE: MT5 Verified payouts $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "9,26",
+    "snippet": "on all challenges \u2702 CODE: MT5 Verified payouts $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "6,25",
+    "snippet": "DE: MT5 Verified payouts $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267.61 Maximilian $6,253",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "4,82",
+    "snippet": "Verified payouts $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "13,01",
+    "snippet": "$17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "8,63",
+    "snippet": "$9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "5,99",
+    "snippet": "$6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "4,57",
+    "snippet": "$4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias $17,058.15 Lukas $9,267.61 Maximilian $6,253.02 Enio $4,821.54 Marie $13,012.52 Noah $8,639.31 Alexander $5,992.88 Felix $4,574",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "203,84",
+    "snippet": "h $8,639.31 Alexander $5,992.88 Felix $4,574.84 Elias Live payouts $203,847 paid out to PineX Traders in August \u200e Congratulations! Your payout has been successfully credited. Alex Turner Germany $3,612.50 Congratulations! Y",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "caling up to $400,000* PineX Points Monthly tournament No hidden fees No Trailing Drawdown \u2013 1 & 2-Step Challenge * *Only for selected PineX Trader Accounts Verified payouts Rewards guaranteed Get started Verified Payouts Trader Interviews Kamal Pr",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Static",
+    "snippet": "tep Challenge One Challenge. One Phase. Your PineX Trader Account. 9% Target Static Drawdown No Consistency Rule Get Started Payouts every 14 days (with add-on) Payouts every 14 days (with add-on) NEW PLATFORM \u2014 METATRADER 5 50% off 50% off on all c",
+    "url": "https://pinexcapital.com/en/1-step-challenge",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule\n \n Account sizes\n $5k\n $10k\n $15k\n $25k\n POPULAR\n $50k\n $100k\n $150k\n $5k\n $10k\n $25k\n $5",
+    "snippet": "p Challenge 2-Step Challenge Instant Funding POPULAR Model type PineX Elite No consistency rule Account sizes $5k $10k $15k $25k POPULAR $50k $100k $150k $5k $10k $25k $50k $100k POPULAR $200k $10k $25k $50k $100k POPULAR $150k $200k $5k $10k $25k $50k $100k Popular $200k $300k $5k $10k Popular $20k $35k $50k Pl",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency rule\n None\n \n Leverage\n 1:100\n \n Payout cycle\n Every 14 days (add-on)\n \n Rewards split\n Up to",
+    "snippet": "checkout Profit target 8% | 5% Max. daily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100% (add-on) Add-ons available at checkout $545 $620 50% off Get started One-time fee Gelistet auf Listed on TradingPilot 5.0 Gelistet auf Listed on P",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule * \n \n Crypto payouts\n \n No time limit * \n \n No swap fees\n \n Rewards Guarantee *\n \n Scalin",
+    "snippet": "stands apart Rewards split up to 100% Klarna and crypto payment methods No consistency rule * Crypto payouts No time limit * No swap fees Rewards Guarantee * Scaling up to $400,000* PineX Points Monthly tournament No hidden fees No Trailing Drawdown \u2013 1 & 2-Step Challenge * *Only for selected PineX Trader Accounts Veri",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule and permitted weekend holding",
+    "snippet": "1 exchange days (14 days via add-on) at an 80% default profit split, backed by a 20% consistency rule and permitted weekend holding. Instant Funding Elite bumps forex leverage to 1:50 and drops the consistency rule entirely. In return, risk rules tighten: a 6% trailing maximum drawdown, 3% trailing",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule entirely",
+    "snippet": "d weekend holding. Instant Funding Elite bumps forex leverage to 1:50 and drops the consistency rule entirely. In return, risk rules tighten: a 6% trailing maximum drawdown, 3% trailing daily loss, 1% floating-loss cap, and mandatory weekend closures across 6 profitable trading",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, which can delay your payout if a single trading day accounts for too much profit",
+    "snippet": "every 14 days with an 80% default profit split. Keep in mind that GFT enforces a 15% consistency rule, which can delay your payout if a single trading day accounts for too much profit. AquaFunded AquaFunded runs the Instant Funding Pro program, offering immediate access to simulated funding from $2,500 up to $400,000 without an evaluation",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Every 14 days",
+    "snippet": "ily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100% (add-on) Add-ons available at checkout $545 $620 50% off Get started One-time fee Gelistet auf Listed on TradingPi",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "bi-weekly",
+    "snippet": "ithdrawal, you must log at least 5 active trading days with +0.5% profit or better. Payouts are processed bi-weekly every 14 days with an 80% default profit split. Keep in mind that GFT enforces a 15% consistency rule, which can delay your payout if a single trading day accounts for t",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "weekly",
+    "snippet": "from day one, subject to a $50 minimum and standard account review, with subsequent payouts available weekly. The base profit split sits at 80%, while all open forex positions must close before Friday market halts. What Are Prop Firms Without Challenge? Prop firms without cha",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "every 7 days",
+    "snippet": "commit. Based on the comparison above, Funded Trading Plus has the fastest default payout cycle at every 7 days, while Alpha Capital and FTUK are the only two firms that let you request a payout with no minimum trading days. AquaFunded and Alpha Capital offer the highest default p",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "Daily",
+    "snippet": "demonstrate consistent performance, PineX offers the opportunity to scale and grow. Payout Conditions Maximum Daily Loss * 4% Maximum Total Loss * 10% Consistency Rule: None * No Time Limit None Hidden fees No Rule changes after activation No Consistent Parameters from E",
+    "url": "https://pinexcapital.com/en/rules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "PineX difference Where PineX stands apart Rewards split up to 100% Klarna and crypto payment methods No consistency rule * Crypto payouts No time limit * No swap fees Rewards Guarantee * Scaling up to $400,000* PineX Points Mont",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "serious provider! Anonymous Customer DE 5/5 January 29, 2026 PINEX really surprised me \u2014 especially the great spreads and the clean dashboard. Syavuz DE 5/5 December 2, 2025 Having tried many firms in this space, I can only say that PINEX is t",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "re are constantly great offers\u2026 In summary: there's no real point of criticism. Otherwise, I definitely think Pinex can become the market leader in the DACH region! Daniel Pietzsch DE 5/5 December 11, 2025 Top \u2014 payouts go through fast and without any",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "NEW Instant Funding 1-Step Challenge 2-Step Challenge Platform How It Works Scaling Academy Rules rules Reviews Affiliate Payouts Free Competition Resources Blog FAQ Contact Log In Start now EN de en Log In Get Started Since 2024 \u00b7 Two years of PineX Trade up to $2M. Reward split up to 100%. Get Started Now supporte",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "selben Session aufholen wollen: L\u00f6st emotionales Revenge-Trading, zu hohen Hebel und massive Drawdowns aus. Markt- oder Strategiewechsel mitten in der Challenge: Zerst\u00f6rt den statistischen Edge und erh\u00f6ht teure Ausf\u00fchrungsfehler drastisch. Korreliertes Exposure ignorieren:",
+    "url": "https://pinexcapital.com/blogs/prop-firm-challenge-bestehen",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "hrung mit Pinex Capital! Ich bin wirklich mehr als \u00fcberzeugt von Pinex Capital. Von Anfang an lief alles seri\u00f6s, transparent und vollkommen reibungslos. Die Challenges sind klar strukturiert, fair aufgebaut und extrem professionell umgesetzt. Was mich besonders begeistert hat, war die Geschwindigkeit: Anmeldung, Verifiz",
+    "url": "https://pinexcapital.com/blogs/prop-firm-challenge-bestehen",
+    "kind": "page"
+   },
+   {
+    "value": "NOT REGULATED",
+    "snippet": "ng the conclusion of the Agreement, you must notify us immediately. 2. SERVICES ARE NOT REGULATED FINANCIAL SERVICES 2.1 None of the Services are subject to laws regulating the financial sector in the countries where we provide the Services. We are not regulated by the Securities and Com",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "unregulated",
+    "snippet": "t provide any investment advice. We do not execute any client orders on regulated or unregulated financial markets, neither in the name nor on the account of clients, nor in the name or on the account of Pinex Capital. The fees you pay are consideration for access to a simulated trading, evaluation and educational service. 3. ORDER OF SER",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "authorised by",
+    "snippet": "de exclusively by you and through devices, connections or technical services used or authorised by you. 4.6 Use of Devices, Connections and IP Addresses. You may access your accounts from multiple devices and internet connections used or authorised by you. The use of the",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Leverag",
+    "snippet": "8% | 5% Max. daily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100% (add-on) Add-ons available at checkout $545 $620 50% off Get started One-time fee",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "Trading Analytics PineX Rewards System Trading statistics Trades 9 Lots 25.02 Average RRR 0.92 Win rate 66.67% Trading days 7 / 4 Most traded asset 0 Average winning trade $760.17 Average losing trade -$827.64 Show more in my statistics $110",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "You sa",
+    "snippet": "p fees Hold positions overnight \u2014 at no additional cost. 3 nights \u2013 PineX Swap $0 You saved $16.00 Open Close 0$ commissions* Keep more of what you deserve. *For select PineX accounts only Gross profit +$340.00 Commissions $0.00 Net profi",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "The sa",
+    "snippet": "e in the challenge is what you trade with as a funded trader. What you can expect The same risk parameters from challenge to PineX Trader account A fixed payout cycle A transparent reward share Conditions that enable repeatable performance Consistent ris",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "under the sa",
+    "snippet": "aximum Lot Size Rule Restrictions as a PineX Trader Trade, withdraw, and scale \u2014 under the same conditions. PineX Challenge Traders love PineX Capital 30,000+ PineX Traders 5/5 February 3, 2026 \u2b50\u2b50\u2b50\u2b50\u2b50 Absolute top experience with Pinex Capital! I'm hon",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "I'm honestly more than convinc",
+    "snippet": "Traders 5/5 February 3, 2026 \u2b50\u2b50\u2b50\u2b50\u2b50 Absolute top experience with Pinex Capital! I'm honestly more than convinced by Pinex Capital. From the very start everything was professional, transparent, and completely smooth. The challenges are clearly structured, fairly built, and execute",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "everything went fast and without unnecessa",
+    "snippet": "d me the most was the speed: registration, verification, and the challenge process \u2014 everything went fast and without unnecessary delays. Huge credit also goes to the support team. I've rarely experienced customer service this competent, friendly, and above all this fast. Pinex Capital stands for",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Having tried many firms in this space, I can only sa",
+    "snippet": "y the great spreads and the clean dashboard. Syavuz DE 5/5 December 2, 2025 Having tried many firms in this space, I can only say that PINEX is the best one so far! Fast support, fast help when issues come up. Price-to-value is perfect. The trading rules are reasonable and achievable. It doesn't g",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2026-00566",
+    "snippet": "siness Company (IBC) under the International Business Companies Act, Cap 12.14, with registration number 2026-00566 and registered address at Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia. This entity offers the MetaTrader 5 (MT5) platform. C",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted for citizens or residents of the United States of America or individuals with dual nationality that includes ",
+    "snippet": "(PineX Capital Dubai) offers the platform of TradeLocker. Access to MT5 is strictly restricted for citizens or residents of the United States of America or individuals with dual nationality that includes US citizenship. We employ strict technical and verification measures to enforce this policy, including IP blocking, biometric verificati",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Restricted Jurisdictions: Russia, Cuba, Sudan, Somalia, Iran, Lebanon, Syria, North Korea, Libya, and Vietnam, as well a",
+    "snippet": "edures summarized on the Website. 1.4 We do not accept customers from the following Restricted Jurisdictions: Russia, Cuba, Sudan, Somalia, Iran, Lebanon, Syria, North Korea, Libya, and Vietnam, as well as any other regions published on our Website. The list may be updated from time to time at our sole discretion. 1.5 You may only access ",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions\" means the countries listed in Clause 1",
+    "snippet": "rmance of at least zeropoint five percent (0.5%) of the Initial Simulated Capital. \"Restricted Jurisdictions\" means the countries listed in Clause 1.4 and any further countries from which we do not accept customers, as published on the Website from time to time. \"Reward\" means the data-based reward that may be grant",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable",
+    "snippet": "ublished on the Website and in the Help Center. Once paid, the Activation Fee is not refundable. 3.6 Discounts and other benefits may not be combined unless we expressly stipulate otherwise. 3.7 Payment of the Challenge Fee is made pursuant to individual Orders.",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund of the Challenge Fee under any circumstances , except as provided under Clause 12 (Right to Withdraw from the Agr",
+    "snippet": "e Fee. 3.11 Unless expressly agreed otherwise, once paid, you are not entitled to a refund of the Challenge Fee under any circumstances , except as provided under Clause 12 (Right to Withdraw from the Agreement) where applicable and except where a Program expressly provides for a refund of the Program Fee upon reaching a defined number of",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund of the Program Fee upon reaching a defined number of Rewardpay-outs, as published on the Website and in the Help ",
+    "snippet": "the Agreement) where applicable and except where a Program expressly provides for a refund of the Program Fee upon reaching a defined number of Rewardpay-outs, as published on the Website and in the Help Center. 3.12 You can place multiple Orders, and each completed Order constitutes a separate Agreement. We reserve the right to limit the",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "refund of fees already paid",
+    "snippet": "een you and us pursuant to Clause 13.2(d). In such case, you are not entitled to any refund of fees already paid. 4.8 If you previously had a Client Section that was cancelled and you would like to create a new one, you can submit a request. We are under no obligation to accommoda",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading and Weekend Holding Rules: Confirm whether holding positions through high-impact news or over weekends is p",
+    "snippet": "nitial waiting period, recurring withdrawal intervals, and base profit split tiers. News Trading and Weekend Holding Rules: Confirm whether holding positions through high-impact news or over weekends is permitted without paid add-ons. Platforms, Account Sizes, and Cost: Check supported trading platforms, available capital sizes, and one-t",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading Allowed (Evaluation)\n \u2715 News Trading Restricted\n \n Weekend Holding Allowed (Evaluation)\n \u2715 Weekend Holding ",
+    "snippet": "art Other Prop Firms No Daily Drawdown (Evaluation) \u2715 Daily Drawdown (4%) News Trading Allowed (Evaluation) \u2715 News Trading Restricted Weekend Holding Allowed (Evaluation) \u2715 Weekend Holding Restricted 80% Profit Split \u2715 Typically 80% Swap-Free \u2715 High Swap Fees No Time Limit \u2715 Often 30 Days Verified Payout Activity A Selection of Recent Tra",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, weekend holding, EAs, and copy trading permissions",
+    "snippet": "day and maintain it static for the whole day. Verify operational parameters such as news trading, weekend holding, EAs, and copy trading permissions. Confirm whether loss limits use balance or equity, and whether maximum drawdown trails equity or rests on end-of-day balance. How each evaluation rule is calculated, w",
+    "url": "https://pinexcapital.com/en/blogs/how-to-pass-a-prop-firm-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "news trading or position holding violations",
+    "snippet": "tanding evaluation rules: Results in sudden account disqualification from restricted news trading or position holding violations. What Happens After You Pass? Once you meet all profit targets and minimum trading day requirements, the proprietary trading firm conducts an automated or manual accou",
+    "url": "https://pinexcapital.com/en/blogs/how-to-pass-a-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal Structure | PineX Capital \n \n \n \n \n \n \n \n \n \n New Program\n Instant Funding\n \n \n New platform launch\n MT5 IS LIVE \u2014 G",
+    "snippet": "Prop Trading Firm With Real Structure | PineX Capital New Program Instant Funding New platform launch MT5 IS LIVE \u2014 GET 50% OFF NOW MetaTrader 5 now available \u2014 50% off all challenges Get started \u00d7 METATRADER 5 ON PINEX Win a $ 200.000 PineX Account To celebrate MT5, enter for a c",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "ears of PineX\n \n \n Trade up to $2M",
+    "snippet": "tact Log In Start now EN de en Log In Get Started Since 2024 \u00b7 Two years of PineX Trade up to $2M. Reward split up to 100%. Get Started Now supported payment 30,000+ PineX Traders Trustpilot Gelistet auf Listed on TradingPilot 5.0 Gelistet au",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eads from 0",
+    "snippet": "Now 30,000+ PineX Traders Trustpilot Trade On Our Available Platforms. Spreads from 0.0 pips No swaps* Leverage up to 1:100 charts provided by The PineX difference Where PineX stands apart Rewards split up to 100% Klarna and crypto pay",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eatures\n A professional trading environment\u2014easy to start, powerful as you grow",
+    "snippet": "Pascal Payouts received: $4,583 Platform benefits at a glance TradeLocker Features A professional trading environment\u2014easy to start, powerful as you grow. charts provided by TradingView charts Familiar charts, ready to use from the first trade. $0 swap fees Hold positions overnight \u2014 at no additional cost. 3 nig",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eady to use from the first trade",
+    "snippet": "rt, powerful as you grow. charts provided by TradingView charts Familiar charts, ready to use from the first trade. $0 swap fees Hold positions overnight \u2014 at no additional cost. 3 nights \u2013 PineX Swap $0 You saved $16.00 Open Close 0$ commissions* Keep more of what you",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP Address",
+    "snippet": "r technical services used or authorised by you. 4.6 Use of Devices, Connections and IP Addresses. You may access your accounts from multiple devices and internet connections used or authorised by you. The use of the same IP address, household network or similar conn",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "very 14 days Withdrawals in a simple, predictable cycle. Day 12 Day 13 Day 14 Payout completed Instant Funding Be a PineX trader \u2014 without a complicated process. Challenge passed Done PineX Trader Account INSTANT Start trading ready Low spreads Trade with c",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "within 2 business days\n \n NE",
+    "snippet": "formance Fixed conditions Get Started Up to 100% Rewards Split (with add-on) Payouts every 14 days (with add-on) Paid out within 2 business days NEW PLATFORM \u2014 METATRADER 5 50% off 50% off on all challenges \u2702 CODE: MT5 Create your PineX Trader Account Configure your account size and program. You",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "within 2 business days",
+    "snippet": "o personal capital in the market. Payout Rewards Split up to 100% (with add-on). Payout cycle every 14 days (with add-on) \u2014 transfer within 2 business days. Performance counts. Payout on time. Scale Your capital grows with your performance. Same rules, same environment \u2014 just larger size. Get Started Secure pay",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "within 2 business days of ve",
+    "snippet": "every 14 days with the add-on enabled. Step 3 Receive Rewards Guarantee: Every payout is processed within 2 business days of verification. Trade. Get Paid. Scale. $7,064.13 Matteo $5,722.44 Leon $4,119.29 Elif $10,174.61 Finn $7,934.85 Luka $5,224.10 Gabriel $11,20",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "within 2 business days\n Buil",
+    "snippet": "$5,992.88 Felix $4,574.84 Elias Up to 100% Rewards Split (with add-on) Payouts every 14 days (with add-on) Payout within 2 business days Built for Disciplined Traders Structured Path to a PineX Trader Account. Clear objectives from day one. No personal capital in the market. The same conditions as you scale.",
+    "url": "https://pinexcapital.com/en/2-step-challenge",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "8% | 5% Max. daily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100% (add-on) Add-ons available at checkout $545 $620 50% off Get started One-time fee G",
+    "url": "https://pinexcapital.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "1:50",
+    "snippet": "% consistency rule and permitted weekend holding. Instant Funding Elite bumps forex leverage to 1:50 and drops the consistency rule entirely. In return, risk rules tighten: a 6% trailing maximum drawdown, 3% trailing daily loss, 1% floating-loss cap, and mandatory weeke",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   },
+   {
+    "value": "1:30",
+    "snippet": "30 US Stocks \u2014 1:5 EU Stocks \u2014 1:30 For Direct Funding Accounts , the following leverage applies: Forex \u2014 1:30 Metals \u2014 1:15 Indices \u2014 1:5 Crypto \u2014 1:1 Commodities \u2014 1:30 US Stocks \u2014 1:30 EU Stocks \u2014 1:30 Rule Spread Variable Spreads depending on market conditions Our",
+    "url": "https://pinexcapital.com/en/rules",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit caps (e",
+    "snippet": "Verify minimum profitable days (like 5 or 6 days at +0.5%) and check for single-day profit caps (e.g., 15% or 20%). Payout Requirements, Schedule, and Reward Split: Review the initial waiting period, recurring withdrawal intervals, and base profit split tiers. News",
+    "url": "https://pinexcapital.com/en/blogs/no-challenge-prop-firms",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC) and \"know your business\" (KYB) procedures or similar identification procedures summarized on the Website",
+    "snippet": "r money laundering. 1.3 You must meet the requirements of our \"know your customer\" (KYC) and \"know your business\" (KYB) procedures or similar identification procedures summarized on the Website. 1.4 We do not accept customers from the following Restricted Jurisdictions: Russia, Cuba, Sudan, Somalia, Iran, Lebanon, Syria, North Korea, Liby",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "KYC and, where applicable, KYB procedures, you may be considered for participation in the Pinex Trader Program",
+    "snippet": "(b) Following payment of the applicable Program Fee and successful completion of our KYC and, where applicable, KYB procedures, you may be considered for participation in the Pinex Trader Program. The Pinex Trader Program Terms will be made available to you before or at the time access to the Pinex Trader Account is provided. (c) Where a ",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "KYC, KYB, compliance or verification requirements",
+    "snippet": "onsistency, risk management and other Program requirements; and (vi) any applicable KYC, KYB, compliance or verification requirements. (b) Completion of the electronic acceptance of the Pinex Trader Program Terms is a mandatory condition for submitting a valid Reward request and for the processing or",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee only after you pass",
+    "snippet": "Started Pay Later Challenge Pass First. Pay After. Start for \u20ac5 \u2014 pay the full activation fee only after you pass. Simulated trading, real edge. Get Started No Daily Drawdown Start for \u20ac5 Pass the evaluation Pay after you pass Nur f\u00fcr Neukunden Sichere di",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee \u2014 and your PineX Trader account is active within minutes",
+    "snippet": "Challenge. A single-phase model with a 4% Profit Target. Once you pass, you pay the activation fee \u2014 and your PineX Trader account is active within minutes. Evaluation Phase: Profit Target: 4 % of starting capital Daily Drawdown: None Maximum Drawdown: 8 % trailing Get Started Now Start your journey with Pi",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee only after passing",
+    "snippet": "platform. Profit target, drawdown, and reward split are fixed \u2014 \u20ac5 to get started, activation fee only after passing. Model Pay Later Account Sizes $10k $25k $50k $100k POPULAR $200k Platform NEU Fair Rules Guaranteed Secure Checkout Evaluationsphase Pinex Tr",
+    "url": "https://pinexcapital.com/en/pay-later-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fee\"), no fee is payable at the time of the Order",
+    "snippet": "s for the fee to become due only after the evaluation phase has been completed (the \"Activation Fee\"), no fee is payable at the time of the Order. The Activation Fee becomes due upon successful completion of the evaluation phase and before access to the PineX Trader Account is granted. The applicable schedule is p",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Activation Fee becomes due upon successful completion of the evaluation phase and before access to the PineX Trader Acco",
+    "snippet": "en completed (the \"Activation Fee\"), no fee is payable at the time of the Order. The Activation Fee becomes due upon successful completion of the evaluation phase and before access to the PineX Trader Account is granted. The applicable schedule is published on the Website and in the Help Center. Once paid, the Activation Fee is not refund",
+    "url": "https://pinexcapital.com/terms-and-conditions",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Prop Trading Firm With Real Structure | PineX Capital New Program Instant Funding New platform launch MT5 IS LIVE \u2014 GET 50% OFF NOW MetaTrader 5 now available \u2014 50% off all challenges Get started \u00d7 METATRADER 5 ON PINEX Win a $",
+   "url": "https://pinexcapital.com/en"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "luck! Oops! Something went wrong while submitting the form. Programs NEW Instant Funding 1-Step Challenge 2-Step Challenge Platform How It Works Scaling Academy Rules rules Reviews Affiliate Payouts Free Competition Resources Blog FAQ Contact Log In",
+   "url": "https://pinexcapital.com/en"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "thing went wrong while submitting the form. Programs NEW Instant Funding 1-Step Challenge 2-Step Challenge Platform How It Works Scaling Academy Rules rules Reviews Affiliate Payouts Free Competition Resources Blog FAQ Contact Log In Start now EN",
+   "url": "https://pinexcapital.com/en"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "r targets, drawdown, and profit split are set before you begin. BONUS WITH EVERY PURCHASE + Free Pay Later Challenge Model 1-Step Challenge 2-Step Challenge Instant Funding POPULAR Model type PineX Elite No consistency rule Account sizes $5k $10k $1",
+   "url": "https://pinexcapital.com/en"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "s and functions of the Services at any time without being obliged to pay you any compensation. 5.7 Free Trial. Where we make a Free Trial available, only one active Free Trial is permitted at a time. We reserve the right to suspend or limit the Free Trial at any time a",
+   "url": "https://pinexcapital.com/terms-and-conditions"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "DXtrade",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "95.92 Congratulations! Your payout has been successfully credited. Alex Turner Germany $3,612.50 223 Payouts (last 30 days) 14 hrs. Avg. payout time Start your P",
+  "rofit target 8% | 5% Max. daily loss 4% Max. total loss 10% Consistency rule None Leverage 1:100 Payout cycle Every 14 days (add-on) Rewards split Up to 100%",
+  ",843.31 5.75% Withdrawals every 14 days Withdrawals in a simple, predictable cycle. Day 12 Day 13 Day 14 Payout completed Instant Funding Be a PineX trader \u2014 witho",
+  "it and a 6% relative trailing drawdown. Payouts are on-demand with zero minimum trading days. However, Level 1 accounts start with a lower 65% profit share and carry a 20% consist",
+  "4% No Target Daily Drawdown None 3 % Max. Total Drawdown 8 % 6 % Leverage up to 1:100 up to 1:50 Payout cycle - 21 days Reward rate \u2013 80% START NOW FOR \u20ac5",
+  "ften 30 Days Verified Payout Activity A Selection of Recent Trader Payouts $284,500 Paid out in June 171 Payouts (last 30 days) 14 h Median Processing Time $1,348."
+ ],
+ "errors": []
+}

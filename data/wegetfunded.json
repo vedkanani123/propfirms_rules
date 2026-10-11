@@ -1,0 +1,631 @@
+{
+ "slug": "wegetfunded",
+ "name": "WeGetFunded",
+ "category": "Forex/CFD",
+ "url": "https://wegetfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://wegetfunded.com/en",
+   "kind": "home",
+   "chars": 11874
+  },
+  {
+   "url": "https://wegetfunded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 3039
+  },
+  {
+   "url": "https://wegetfunded.com/es/legal/terms",
+   "kind": "page",
+   "chars": 50923
+  },
+  {
+   "url": "https://wegetfunded.com/en/legal/terms",
+   "kind": "page",
+   "chars": 47148
+  },
+  {
+   "url": "https://wegetfunded.com/legal/terms",
+   "kind": "page",
+   "chars": 52169
+  },
+  {
+   "url": "https://wegetfunded.com/de/legal/terms",
+   "kind": "page",
+   "chars": 53388
+  },
+  {
+   "url": "https://wegetfunded.com/it/legal/terms",
+   "kind": "page",
+   "chars": 51614
+  },
+  {
+   "url": "https://wegetfunded.com/es/purchase-challenge",
+   "kind": "page",
+   "chars": 3832
+  },
+  {
+   "url": "https://wegetfunded.com/it/purchase-challenge",
+   "kind": "page",
+   "chars": 3828
+  },
+  {
+   "url": "https://wegetfunded.com/en/purchase-challenge",
+   "kind": "page",
+   "chars": 3504
+  },
+  {
+   "url": "https://wegetfunded.com/de/purchase-challenge",
+   "kind": "page",
+   "chars": 3918
+  },
+  {
+   "url": "https://wegetfunded.com/purchase-challenge",
+   "kind": "page",
+   "chars": 4117
+  },
+  {
+   "url": "https://wegetfunded.com/faq",
+   "kind": "page",
+   "chars": 54054
+  },
+  {
+   "url": "https://wegetfunded.com/it/faq",
+   "kind": "page",
+   "chars": 53421
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 396842,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "Challenge 200K 1 Step programme rules Rules Step 1 Funded Trading platform MT5 MT5 Profit target 6% N/A Minimum trading days 2 7 Max loss 4% 4% Consistency 50% 30% Trading period Unlimited Unlimited Leverage 1/100 1/100 Simulated profit split N/A 80% Activation fee N/A",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "lowed 2 Step programme rules Rules Step 1 Step 2 Funded Trading platform MT5 MT5 MT5 Profit target 8% 5% N/A Minimum trading days 5 5 7 Daily allowed loss 5% 5% 5% Max drawdown 10% 10% 10% Consistency 40% 40% 30% Trading period Unlimited Unlimited Unlimited Leverage 1/10",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "operational conditions. To keep your Instant Funding account, you must comply with: Daily loss: 3% Max Drawdown: 5% Consistency Rule: 20% Minimum 7 active trading days News trading allowed Overnight & Overweek allowed A trading day is considered valid if the tra",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "8.2 2 Step Accounts (Challenge Phase) During the Challenge phase: Max Drawdown: 10% Daily loss: 5% Consistency: 40% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Minimum 5 trading days 18.3 2 Step Accounts (Funded Phase) On the WGF account:",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "4",
+    "snippet": "Step 1 Funded Trading platform MT5 MT5 Profit target 6% N/A Minimum trading days 2 7 Max loss 4% 4% Consistency 50% 30% Trading period Unlimited Unlimited Leverage 1/100 1/100 Simulated profit split N/A 80% Activation fee N/A \u20ac149.90 Trading during economic news rel",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "5 MT5 Profit target 8% 5% N/A Minimum trading days 5 5 7 Daily allowed loss 5% 5% 5% Max drawdown 10% 10% 10% Consistency 40% 40% 30% Trading period Unlimited Unlimited Unlimited Leverage 1/100 1/100 1/100 Simulated profit split N/A N/A 80% Activation fee N/A N/A \u20ac149.90",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "rules Rules Funded Trading platform MT5 Minimum trading days 7 Daily allowed loss 3% Max drawdown 5% Leverage 1/100 Simulated profit split 70/30 Challenge No Consistency 20% Trading during economic news releases Allowed Positions held overnight Allowed Positions held ov",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "00, with no time limit, and earn up to 100% of simulated profits as rewards with the 100% Split option. JD ML AK + 3 +50,000 traders trust us Start your challenge Join Discord Our challenges Our trading objectives at WeGetFunded are built on the key principl",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "pplication may vary depending on the type of account or challenge selected. 90/10 \u2013 90% Profit Split The 90/10 option allows the Client, after passing their challenge and obtaining a WGF account, to keep 90% of the profits eligible for profit sharing generated on their",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "\u00e0 un compte WGF, avec les r\u00e8gles suivantes : Perte journali\u00e8re : 5 % Drawdown Max : 10 % Effet de levier : 1:100 Profit Split : 80/20 (sauf add option) Trading pendant les news : Autoris\u00e9 No SL : Autoris\u00e9 Trade moins d'1 minute : Autoris\u00e9 R\u00e8gle de consistance (Consistency Rule) : 30 % Over",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "110",
+    "snippet": "m\u00eame fonctionnement continuera de s'appliquer. En r\u00e9sum\u00e9 Le Programme Live, c'est : 110% de r\u00e9compense Profit split 80/20 Libert\u00e9 totale Paiements quotidiens et sur demande Bonus +10 % \u00e0 chaque palier Trading sur MT4 / MT5 / TradingView Comment fonctionne l'Instant Funding chez",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "2",
+    "snippet": "ep programme rules Rules Step 1 Funded Trading platform MT5 MT5 Profit target 6% N/A Minimum trading days 2 7 Max loss 4% 4% Consistency 50% 30% Trading period Unlimited Unlimited Leverage 1/100 1/100 Simulated profit split N/A 80% Activation fee N/A \u20ac149.90 Trading during eco",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ules Rules Step 1 Step 2 Funded Trading platform MT5 MT5 MT5 Profit target 8% 5% N/A Minimum trading days 5 5 7 Daily allowed loss 5% 5% 5% Max drawdown 10% 10% 10% Consistency 40% 40% 30% Trading period Unlimited Unlimited Unlimited Leverage 1/100 1/100 1/100 Simulated profit",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "wed Allowed Allowed Instant funded programme rules Rules Funded Trading platform MT5 Minimum trading days 7 Daily allowed loss 3% Max drawdown 5% Leverage 1/100 Simulated profit split 70/30 Challenge No Consistency 20% Trading during economic news releases Allowed Positions he",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "loss None Expert Advisors and indicators Allowed Scalping Allowed Simulated capital $100K Price \u20ac278 \u20ac139 -50% Add to cart Instant activation 4.7 /5 \u00b7 Based on 1,003 Trustpilot reviews What our customers say Join 50,000+ traders An active community",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "t Verification \u2022\u2022\u2022\u2022 Details & Payment Unlock simulated capital WGF account up to $400k. Step 3 Initial balance $100K Profit target 6% Trade & get paid Up to 100% of simulated profits with the paid 100% Split option. Get my WGF account Fast and easy",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "400,00",
+    "snippet": "demo trading WeGetFunded is a French prop firm: trade a simulated account of up to $400,000, with no time limit, and earn up to 100% of simulated profits as rewards with the 100% Split option. JD ML AK + 3 +50,000 traders trust us Start your challenge Join D",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "149.90",
+    "snippet": "ted Unlimited Leverage 1/100 1/100 Simulated profit split N/A 80% Activation fee N/A \u20ac149.90 Trading during economic news releases Allowed Allowed Positions held overnight Allowed Allowed Positions held over the weekend Allowed Allowed Mandatory stop-loss None N",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "loss None Expert Advisors and indicators Allowed Scalping Allowed Simulated capital $100K Price \u20ac278 \u20ac139 -50% Add to cart Instant activation 4.7 /5 \u00b7 Based on 1,003 Trustpilot reviews What our customers say Join 50,000+ traders An active community",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "278",
+    "snippet": "rt Advisors and indicators Allowed Scalping Allowed Simulated capital $100K Price \u20ac278 \u20ac139 -50% Add to cart Instant activation 4.7 /5 \u00b7 Based on 1,003 Trustpilot reviews What our customers say Join 50,000+ traders An active community all around th",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "139",
+    "snippet": "isors and indicators Allowed Scalping Allowed Simulated capital $100K Price \u20ac278 \u20ac139 -50% Add to cart Instant activation 4.7 /5 \u00b7 Based on 1,003 Trustpilot reviews What our customers say Join 50,000+ traders An active community all around the worl",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": "your skill or skip with instant funding. Step 2 WGF account JM Julien M. France $100,000 account Verification \u2022\u2022\u2022\u2022 Details & Payment Unlock simulated capital WGF account up to $400k. Step 3 Initial balance $100K Profit target 6% Trade & get paid Up",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "t Verification \u2022\u2022\u2022\u2022 Details & Payment Unlock simulated capital WGF account up to $400k. Step 3 Initial balance $100K Profit target 6% Trade & get paid Up to 100% of simulated profits with the paid 100% Split option. Get my WGF account Fast and easy",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "1,38",
+    "snippet": "eam is here to help you at any time. Start the challenge 15.4% Withdrawable reward $1,389.32 Profit split (100% Split) 100% Request a reward Reward paid Up to 100% in rewards with the 100% Split option Our commitment to you is clear: an approved reward",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "1",
+    "snippet": "r: an approved reward is a reward paid, under the conditions of your programme. Over $1.8 million in rewards were paid to our traders in 2025. Built for serious traders The propfirm betting on performance, not on pitfalls. Start my challenge $1.8M+ Rew",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "40,00",
+    "snippet": "tart my free trial Account performance Highest reward paid SB Sarah B. \u00b7 Belgium $40,000 account Dive into the WeGetFunded community Sign up to our newsletter and never miss an update. Exclusive giveaways, discounts & promotions. Join now Your journey",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "rom sporadic or excessive risk-taking. For example, if your best trading day yields +$300, to be eligible for a reward your total P&L must reach at least $1,000, so that your best day does not represent more than 30% of your total P&L ($300 / 0.30 = $1,000).",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "15,00",
+    "snippet": "om a 70/30 Profit Split, with a maximum limit applicable to each withdrawal request: $15,000 account \u2192 maximum withdrawal of $850 per reward $30,000 account \u2192 maximum withdrawal of $1,500 per reward $60,000 account \u2192 maximum withdrawal of $3,000 per reward Y",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "EOD",
+    "snippet": "s to the WGF account) How the End of Day (EOD) drawdown works \u2013 Challenge Phase The EOD drawdown corresponds to the maximum allowed loss , calculated from your account equity at the end of the previous day (00:00 GMT). Each day, a new limit is set according to your",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "intraday",
+    "snippet": "n. During the next day, your account must never drop below this threshold. Unlike an intraday drawdown, this limit does not adjust in real time, which provides more flexibility in managing positions. In the framework of the 1 Step Challenge, the drawdown is trailing End o",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency rules\n Minimum trading days and validity conditions\n Rules relating to withdrawals (profit spl",
+    "snippet": "ply with the following, depending on the programme: Loss limits (DDM, DDJ, DDM EOD) Consistency rules Minimum trading days and validity conditions Rules relating to withdrawals (profit split, reward cap, etc.) Any strategy restrictions 17.2 Unauthorised Trading Practices The following are strictly prohibited (non-exhaustive list), on any ",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule (Daily PNL Cap at 30%) \u2013 Funded Phase Only This rule requires that the profit realised on",
+    "snippet": "tion (profit or loss) of 0.50% or more of the account's initial capital. 17.4 Daily Consistency Rule (Daily PNL Cap at 30%) \u2013 Funded Phase Only This rule requires that the profit realised on any given day does not exceed 30% of the total accumulated profit on the WGF account. It aims to ensure that profits result from a consistent, discip",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule: 20%\n Minimum 7 active trading days\n News trading allowed\n Overnight & Overweek allowed",
+    "snippet": "our Instant Funding account, you must comply with: Daily loss: 3% Max Drawdown: 5% Consistency Rule: 20% Minimum 7 active trading days News trading allowed Overnight & Overweek allowed A trading day is considered valid if the trader records a closed performance variation in gains of \u2265 0.5% of the account's initial capital. Withdrawal rule",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule: 50%\n Minimum number of trading days: 2 days\n News Trading: Allowed\n Trade under 1 minute",
+    "snippet": "undertakes to comply with all of the following rules: Max Drawdown (End of Day): 4% Consistency Rule: 50% Minimum number of trading days: 2 days News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Activation fee: \u20ac149.90 (one-time payment, due only after challenge validation and conditioning access to the WGF account) How t",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rule: 30%\n News Trading: Allowed\n Trade under 1 minute: Allowed\n NO SL: Allowed\n Minimum numbe",
+    "snippet": "unt, subject to the following rules: Global maximum drawdown (DDM \u2013 End of Day): 4% Consistency Rule: 30% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Minimum number of active trading days: 7 days A trading day is considered valid if the trader records a closed performance variation of \u2265 0.50% gain on the account's i",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule during the challenge period",
+    "snippet": "ilability. It lowers the challenge minimum trading days from 2 to 1 and disables the consistency rule during the challenge period. It thus allows the trader to obtain their WGF account as early as the day after their first trading day, provided that the required objectives have been reached and all",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "bank transfer",
+    "snippet": "an affordable price, simple rules to follow. I have just received my first reward by bank transfer without any trouble. Only small downside: you can deposit in crypto but not withdraw in crypto, which puzzles me. I will give 5 stars once crypto withdrawals are availab",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "reward by bank transfer without any trouble. Only small downside: you can deposit in crypto but not withdraw in crypto, which puzzles me. I will give 5 stars once crypto withdrawals are available. Read more Cyrille March 2026 Cool platform, I love it Transla",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "Errors, Inaccuracies, or Omissions Section 13 \u2013 Prohibited Uses Section 14 \u2013 Unauthorised Trading Practices Section 15 \u2013 Account Deactivation Section 16 \u2013 Programmes, Nature of the Service and Document Hierarchy Section 17 \u2013 Common Compliance Rules and Prohi",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "we deem illegal, offensive, threatening, defamatory, pornographic, obscene, or otherwise unacceptable, or that infringes the intellectual property rights of a third party or these General Terms of Use . ou agree that your feedback does not infringe upon any",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "e l'achat d'un challenge. Cryptomonnaies : Nous acceptons BTC, ETH, LTC, DOGE, SOL, USDC (ERC20), USDT (TRC20) et USDT (ERC20) , offrant ainsi des transactions rapides et s\u00e9curis\u00e9es via la blockchain. Uniquement valable lors de l'achat d'un challenge et dema",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "USDT",
+    "snippet": "challenge. Cryptomonnaies : Nous acceptons BTC, ETH, LTC, DOGE, SOL, USDC (ERC20), USDT (TRC20) et USDT (ERC20) , offrant ainsi des transactions rapides et s\u00e9curis\u00e9es via la blockchain. Uniquement valable lors de l'achat d'un challenge et demande de retrait",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "ed are built on the key principles of risk management, ensuring our traders learn to master them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on funding. Most popular One Time Payment One payment. No activation fee. Option exclud",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Sca",
+    "snippet": "Allowed Mandatory stop-loss None None Expert Advisors and indicators Allowed Allowed Scalping Allowed Allowed 2 Step programme rules Rules Step 1 Step 2 Funded Trading platform MT5 MT5 MT5 Profit target 8% 5% N/A Minimum trading days 5 5 7 Daily allowed loss 5% 5% 5% Max drawdown 10% 10% 10% Consistency 40% 40% 30% Trading period Unlimite",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "any trading activity outside this programme. Hypothetical performance disclosure \u2013 CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be design",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "Using external, alternative, slow or fast data feeds for the purpose of gaining an unfair competitive advantage; Carrying out, alone or in collaboration with others, including between linked accounts or accounts held with different WeGetFunded-affiliated entities, transactions or combinations of transactions aimed at manipulating the mark",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "g objectives at WeGetFunded are built on the key princ",
+    "snippet": "000 traders trust us Start your challenge Join Discord Our challenges Our trading objectives at WeGetFunded are built on the key principles of risk management, ensuring our traders learn to master them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on fundi",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "iples of risk manag",
+    "snippet": "Our challenges Our trading objectives at WeGetFunded are built on the key principles of risk management, ensuring our traders learn to master them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on funding. Most popular On",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Trading period Unlimited Unlimited Leverag",
+    "snippet": "MT5 Profit target 6% N/A Minimum trading days 2 7 Max loss 4% 4% Consistency 50% 30% Trading period Unlimited Unlimited Leverage 1/100 1/100 Simulated profit split N/A 80% Activation fee N/A \u20ac149.90 Trading during economic news releases Allowed Allowed Positions held overnight Allowed Allowed Pos",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Trading period Unlimited Unlimited Unlimited Leverag",
+    "snippet": "s 5 5 7 Daily allowed loss 5% 5% 5% Max drawdown 10% 10% 10% Consistency 40% 40% 30% Trading period Unlimited Unlimited Unlimited Leverage 1/100 1/100 1/100 Simulated profit split N/A N/A 80% Activation fee N/A N/A \u20ac149.90 Trading during economic news releases Allowed Allowed Allowed Positions held overnig",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "ed Trading platform MT5 Minimum trading days 7 Daily allowed loss 3% Max drawdown 5% Leverage 1/100 Simulated profit split 70/30 Challenge No Consistency 20% Trading during economic news releases Allowed Positions held overnight Allowed Positions held over the w",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "sed on 1,003 Trustpilot reviews What our customers sa",
+    "snippet": "apital $100K Price \u20ac278 \u20ac139 -50% Add to cart Instant activation 4.7 /5 \u00b7 Based on 1,003 Trustpilot reviews What our customers say Join 50,000+ traders An active community all around the world Adrien Baccaille May 2026 The most serious prop firm out there Translated from French WeGetFunded is",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Read more Karim Bensa",
+    "snippet": "few). I strongly recommend them to anyone who wants to get started with prop firms. Read more Karim Bensassi May 2026 Great, highly responsive prop firm Translated from French Great prop firm, highly responsive support, please keep the service top-notch. Sebastien L. Apr",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "m a WeGetFunded client and the customer service is inc",
+    "snippet": "ch. Sebastien L. April 2026 Top-notch customer service Translated from French I am a WeGetFunded client and the customer service is incredibly responsive, a fast service with clear answers. After a cTrader maintenance beyond their control, they cancelled the open losing trades even though it was not thei",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00757",
+    "snippet": "uments. WeGetFunded LTD. is a company registered under the laws of Saint Lucia, with registration number 2025-00757, with its registered office at Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia. The leased premises are located at 24 Ketevan Tsa",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunds: All evaluation fees paid are strictly for evaluation purposes and for access to our evaluation services",
+    "snippet": "al risk of loss. Past performance is not indicative of future results. Payments and refunds: All evaluation fees paid are strictly for evaluation purposes and for access to our evaluation services. Not a deposit | Not FDIC insured | May lose value",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy Section 25 \u2013 Entire Agreement Section 26 \u2013 Governing Law Section 27 \u2013 Local Law Section 28 \u2013 Amendments to",
+    "snippet": "21 \u2013 Indemnification Section 22 \u2013 Severability Section 23 \u2013 Termination Section 24 \u2013 Refund Policy Section 25 \u2013 Entire Agreement Section 26 \u2013 Governing Law Section 27 \u2013 Local Law Section 28 \u2013 Amendments to the Terms of Use Section 29 - Contact Information Section 30 \u2013 No Disputes / No Chargebacks Policy Overview By using our website and/o",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refundable and made exclusively for evaluation purposes",
+    "snippet": "r infrastructure. Such access will be monitored and restricted. All payments are non-refundable and made exclusively for evaluation purposes. You are required to pay registration fees to access the WeGetFunded platform (operated by Catalyst Creations Fzco), the models, and the services. If the service has co",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "refund of the registration fees",
+    "snippet": "s started trading and/or has failed the evaluation), the client is not entitled to a refund of the registration fees. Model and evaluation fees included in the WeGetFunded offer are non-refundable after 14 days and if a trade has been opened. Section 1 \u2013 Terms and Conditions of Online",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading allowed\n Overnight & Overweek allowed\n A trading day is considered valid if the trader records a closed per",
+    "snippet": "ly loss: 3% Max Drawdown: 5% Consistency Rule: 20% Minimum 7 active trading days News trading allowed Overnight & Overweek allowed A trading day is considered valid if the trader records a closed performance variation in gains of \u2265 0.5% of the account's initial capital. Withdrawal rules Minimum reward request: $100 Maximum withdrawal requ",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading: Allowed\n Trade under 1 minute: Allowed\n NO SL: Allowed\n Minimum 5 trading days\n 18",
+    "snippet": "se) During the Challenge phase: Max Drawdown: 10% Daily loss: 5% Consistency: 40% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Minimum 5 trading days 18.3 2 Step Accounts (Funded Phase) On the WGF account: Max Drawdown: 10% Daily loss: 5% Consistency: 30% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Al",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading: Allowed\n Trade under 1 minute: Allowed\n NO SL: Allowed\n Activation fee: \u20ac149",
+    "snippet": "nded Phase) On the WGF account: Max Drawdown: 10% Daily loss: 5% Consistency: 30% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Activation fee: \u20ac149.90 (one-time payment, due only after challenge validation and conditioning access to the WGF account) Minimum 7 active trading days A trading day is considered valid i",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading: Allowed\n Trade under 1 minute: Allowed\n NO SL: Allowed\n Minimum number of active trading days: 7 days\n A t",
+    "snippet": "lowing rules: Global maximum drawdown (DDM \u2013 End of Day): 4% Consistency Rule: 30% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Minimum number of active trading days: 7 days A trading day is considered valid if the trader records a closed performance variation of \u2265 0.50% gain on the account's initial capital. Losing ",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eam behind WeGetFunded",
+    "snippet": "p trading news. FAQ Answers to the most common questions. About Our mission and the team behind WeGetFunded. Contact Reach out to our support team. en en Excellent 4.7 Based on 1,003 Trustpilot reviews Monetise your demo trading WeGetFunded is a French prop firm: t",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "each out to our support team",
+    "snippet": "e most common questions. About Our mission and the team behind WeGetFunded. Contact Reach out to our support team. en en Excellent 4.7 Based on 1,003 Trustpilot reviews Monetise your demo trading WeGetFunded is a French prop firm: trade a simulated account of up to $400,",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "earn up to 100% of simulated profits as rewards with the 100% Split option",
+    "snippet": "ench prop firm: trade a simulated account of up to $400,000, with no time limit, and earn up to 100% of simulated profits as rewards with the 100% Split option. JD ML AK + 3 +50,000 traders trust us Start your challenge Join Discord Our challenges Our trading objectives at WeGetFunded are built on the key principles of r",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "earn to master them effectively",
+    "snippet": "eGetFunded are built on the key principles of risk management, ensuring our traders learn to master them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on funding. Most popular One Time Payment One payment. No activation fee. Option exclud",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "eace of mind",
+    "snippet": "from promotions. Extended Drawdown Off Off +1 % +2 % +3 % More room to trade with peace of mind. 90/10 100% Split One Day Pass Challenge 50K Challenge 100K Challenge 200K 1 Step programme rules Rules Step 1 Funded Trading platform MT5 MT5 Profit target 6% N/A",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "e le faire sans informer votre gestionnaire de compte au pr\u00e9alable. L'utilisation de VPS (serveurs priv\u00e9s virtuels) ou de connexions depuis plusieurs lieux diff\u00e9rents peut soulever des pr\u00e9occupations en mati\u00e8re de s\u00e9curit\u00e9 et de v\u00e9rification de votre identit\u00e9. Nous vous demandons donc de fournir des informations claires et transparentes s",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "before reaching the drawdown limit applicable to the account. (Valid until the first withdrawal) This option is not available for Instant Funding accounts. Back To Funded The Back To Funded option is exclusively available for WGF accounts obtained after passing a 1 Step or 2 Step Challenge. In the event o",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC / AML / sanctions mises en place par WeGetFunded\n L'\u00e9ligibilit\u00e9 est \u00e9valu\u00e9e au cas par cas, \u00e0 la seule discr\u00e9",
+    "snippet": "triction bancaire ou interdiction r\u00e9glementaire Respecter l'ensemble des proc\u00e9dures KYC / AML / sanctions mises en place par WeGetFunded L'\u00e9ligibilit\u00e9 est \u00e9valu\u00e9e au cas par cas, \u00e0 la seule discr\u00e9tion de WeGetFunded. Autres exclusions r\u00e9glementaires Sont \u00e9galement exclus des services WeGetFunded : Les personnes figurant sur des listes de ",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "KYC) lors du premier retrait",
+    "snippet": "ia notre partenaire RISE, sur lequel vous cr\u00e9ez un compte et validez votre identit\u00e9 (KYC) lors du premier retrait. La premi\u00e8re des choses est de s'assurer que le solde de votre compte soit sup\u00e9rieur au solde initial du compte sur lequel vous souhaitez faire votre demande de retrait",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "KYC) ainsi que l'ensemble des informations et \u00e9l\u00e9ments requis par RISE afin de rendre votre compte \u00e9ligible \u00e0 la",
+    "snippet": "n effectu\u00e9e sur RISE, vous devrez compl\u00e9ter la proc\u00e9dure de v\u00e9rification d'identit\u00e9 (KYC) ainsi que l'ensemble des informations et \u00e9l\u00e9ments requis par RISE afin de rendre votre compte \u00e9ligible \u00e0 la r\u00e9ception des fonds. \u26a0\ufe0f Important : tant que votre proc\u00e9dure KYC et les informations requises par RISE ne sont pas valid\u00e9es, WeGetFunded ne po",
+    "url": "https://wegetfunded.com/faq",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation fee on funding",
+    "snippet": "them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on funding. Most popular One Time Payment One payment. No activation fee. Option excluded from promotions. Extended Drawdown Off Off +1 % +2 % +3 % More room to trade with peace",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee",
+    "snippet": "uation fee. Activation fee on funding. Most popular One Time Payment One payment. No activation fee. Option excluded from promotions. Extended Drawdown Off Off +1 % +2 % +3 % More room to trade with peace of mind. 90/10 100% Split One Day Pass Challenge 50K Challe",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee N/A \u20ac149",
+    "snippet": "ading period Unlimited Unlimited Leverage 1/100 1/100 Simulated profit split N/A 80% Activation fee N/A \u20ac149.90 Trading during economic news releases Allowed Allowed Positions held overnight Allowed Allowed Positions held over the weekend Allowed Allowed Mandatory stop-loss Non",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee N/A N/A \u20ac149",
+    "snippet": "ed Unlimited Unlimited Leverage 1/100 1/100 1/100 Simulated profit split N/A N/A 80% Activation fee N/A N/A \u20ac149.90 Trading during economic news releases Allowed Allowed Allowed Positions held overnight Allowed Allowed Allowed Positions held over the weekend Allowed Allowed Allowed",
+    "url": "https://wegetfunded.com/en",
+    "kind": "home"
+   },
+   {
+    "value": "Activation fee: \u20ac149",
+    "snippet": "sistency: 30% News Trading: Allowed Trade under 1 minute: Allowed NO SL: Allowed Activation fee: \u20ac149.90 (one-time payment, due only after challenge validation and conditioning access to the WGF account) Minimum 7 active trading days A trading day is considered valid i",
+    "url": "https://wegetfunded.com/en/legal/terms",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Target: 6% \u00b7 Max loss: 4% \u00b7 Min trading days: 2 Take a challenge Prove your skill or skip with instant funding. Step 2 WGF account JM Julien M. France $100,000 account Verification \u2022\u2022\u2022\u2022 Details & Payment Unlock simulated capital WGF account up to $400k. Step 3",
+   "url": "https://wegetfunded.com/en"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "t on the key principles of risk management, ensuring our traders learn to master them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on funding. Most popular One Time Payment One payment. No activation fee. Option exclu",
+   "url": "https://wegetfunded.com/en"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "e key principles of risk management, ensuring our traders learn to master them effectively. 1 Step 2 Step Instant funded Evaluation One-time evaluation fee. Activation fee on funding. Most popular One Time Payment One payment. No activation fee. Option excluded fro",
+   "url": "https://wegetfunded.com/en"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "24/7 support in English, educational resources and risk calculators included. Start my challenge Free trial Try the platform before you commit Explore your future trading environment with a free demo account. No credit card, no commitment \u2014 just you and the markets.",
+   "url": "https://wegetfunded.com/en"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "TradingView"
+ ],
+ "assets": [
+  "Crypto",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "o time limit, and earn up to 100% of simulated profits as rewards with the 100% Split option. JD ML AK + 3 +50,000 traders trust us Start your challenge Join Discord Our challeng",
+  "0% Add to cart Instant activation 4.7 /5 \u00b7 Based on 1,003 Trustpilot reviews What our customers say Join 50,000+ traders An active community all around the world Adrien Baccaille"
+ ],
+ "errors": []
+}

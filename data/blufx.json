@@ -1,0 +1,12 @@
+{
+ "slug": "blufx",
+ "name": "BluFX",
+ "category": "Forex/CFD",
+ "url": "https://blufx.co/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -2] Name or service not known>"
+ ]
+}

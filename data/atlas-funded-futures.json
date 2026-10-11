@@ -1,0 +1,12 @@
+{
+ "slug": "atlas-funded-futures",
+ "name": "Atlas Funded Futures",
+ "category": "Futures",
+ "url": "https://atlasfundedfutures.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -2] Name or service not known>"
+ ]
+}

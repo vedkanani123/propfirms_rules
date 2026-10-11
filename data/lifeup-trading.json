@@ -1,0 +1,300 @@
+{
+ "slug": "lifeup-trading",
+ "name": "LifeUp Trading",
+ "category": "Futures",
+ "url": "https://lifeuptrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.lifeuptrading.com/en-us",
+   "kind": "home",
+   "chars": 21556
+  },
+  {
+   "url": "https://www.lifeuptrading.com/en-us/article/2026-chuseok-sprint-plan",
+   "kind": "page",
+   "chars": 1461
+  },
+  {
+   "url": "https://www.lifeuptrading.com/en-us/payouts",
+   "kind": "page",
+   "chars": 1884
+  },
+  {
+   "url": "https://www.lifeuptrading.com/en-us/about",
+   "kind": "page",
+   "chars": 3876
+  }
+ ],
+ "page_count": 4,
+ "total_chars": 28780,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "30",
+    "snippet": "ng Days To Pass: 1 Reward: 7 In reward accounts, no single day\u2019s profit may exceed 30 % of total profit to remain eligible for payout. Consistency To Pass: 0% Reward: 40% Fee required to activate the reward account once you have passed the evaluation. Activation Fee $89 / Lifetime Price $78 53%",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "7",
+    "snippet": ".3M in prizes. Get up to 55% off pre-orders! 2026-10-10 \uc774\ubca4\ud2b8 Chuseok Sprint Plan | Minimum Trading Days: 7 \u2192 5 Chuseok Special: Sprint Plan Released! Enjoy a reduced minimum of 5 trading days and a 55% discount (162,000 KRW). Don't miss out! 2026-09-23 \uacf5\uc9c0 Introducing Our",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "5. Account size: $50,000 Challenge Account Minimum trading day: 1 Reward Account Minimum trading days: 5 Profit required for a qualifying trading day: $250 Event price \u00b7 55% off: $109 (regular price: $242) Except for the minimum trading days and qualifying-day profit req",
+    "url": "https://www.lifeuptrading.com/en-us/article/2026-chuseok-sprint-plan",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "25,00",
+    "snippet": "e trades. How can you make a profit with simulation trading? \u2192 Accounts Ranging from $25,000 to $150,000 We support various account sizes, from $25,000 to $150,000 , to help you improve your trading skills. Grow step by step and aim for even greater success! W",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "150,00",
+    "snippet": "ow can you make a profit with simulation trading? \u2192 Accounts Ranging from $25,000 to $150,000 We support various account sizes, from $25,000 to $150,000 , to help you improve your trading skills. Grow step by step and aim for even greater success! What is the c",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "1,50",
+    "snippet": "profit target. After passing, you can activate your reward account. Profit Target $1,500 If cumulative losses reach this amount, the account is immediately disqualified and trading is disabled. Max Drawdown $1,000 The loss limit is recalculated at the m",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "unt, the account is immediately disqualified and trading is disabled. Max Drawdown $1,000 The loss limit is recalculated at the market close based on your end-of-day balance. Drawdown Mode EOD If losses hit this threshold, the account is paused until the",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "750",
+    "snippet": "se; trading resumes at the next session\u2019s open. (Basic Plan only) Daily Loss Limit $750 Maximum number of contracts you may hold at one time. Max Cont. 2 Mini (20 Micro) Your Reward Account must post profit on at least seven separate trading days.Your c",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "89",
+    "snippet": "to activate the reward account once you have passed the evaluation. Activation Fee $89 / Lifetime Price $78 53% OFF Price $37 /\uc6d4 Get started with the $25,000 BP Basic Plan $50,000 You pass the evaluation once the balance reaches this profit targe",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "78",
+    "snippet": "account once you have passed the evaluation. Activation Fee $89 / Lifetime Price $78 53% OFF Price $37 /\uc6d4 Get started with the $25,000 BP Basic Plan $50,000 You pass the evaluation once the balance reaches this profit target. After passing, you c",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "37",
+    "snippet": "passed the evaluation. Activation Fee $89 / Lifetime Price $78 53% OFF Price $37 /\uc6d4 Get started with the $25,000 BP Basic Plan $50,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your rewa",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "e Price $78 53% OFF Price $37 /\uc6d4 Get started with the $25,000 BP Basic Plan $50,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your reward account. Profit Target $3,000 If cumulative losses",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "profit target. After passing, you can activate your reward account. Profit Target $3,000 If cumulative losses reach this amount, the account is immediately disqualified and trading is disabled. Max Drawdown $2,000 The loss limit is recalculated at the m",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "unt, the account is immediately disqualified and trading is disabled. Max Drawdown $2,000 The loss limit is recalculated at the market close based on your end-of-day balance. Drawdown Mode EOD If losses hit this threshold, the account is paused until the",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "1,25",
+    "snippet": "se; trading resumes at the next session\u2019s open. (Basic Plan only) Daily Loss Limit $1,250 Maximum number of contracts you may hold at one time. Max Cont. 4 Mini (40 Micro) Your Reward Account must post profit on at least seven separate trading days.Your",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "nd stable profits. This includes rules around consistency, minimum trading days, and trailing drawdown . These rules also apply to reward accounts. For more detailed information, please refer to the \"Rules at a Glance\" and \"Trading Rules\" pages in our Guide Center. What",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "PayPal",
+    "snippet": "Payouts. \u200dYou can communicate with us 24/7 on Discord. We support easy payments via PayPal, and rewards are paid out as quickly as two days after your request. Learn more about rewards. \u2192 Profit Potential Boosted by Superior Tools. Powerful Trading Platforms",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "size? \u2192 For Beginners and Experts Alike Beginner traders can ease into it with the Basic Plan , while expert traders can fully leverage their skills with the Expert Plan . How do the Basic and Expert Plans differ? \u2192 Simple Rules, Free Strategies We provide the foundation for traders to unleash their creative trading strategies , with onl",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ash their creative trading strategies , with only minimal rules in place to prevent unfair practices. Learn more about our trading rules \u2192 Speed is Key in Trading. Fast Responses, Fast Payments, and Fast Reward Payouts. \u200dYou can communicate with us 24/7 on Discord. We",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Announcement Blog Guide Center Languag",
+    "snippet": "\ud2b8\ub808\uc774\ub529 \ub300\ud68c \ud83c\udfc6 \uc81c2\ud68c \ud2b8\ub808\uc774\ub529 \ub300\ud68c \ud83c\udfc6 \uc81c2\ud68c \ud2b8\ub808\uc774\ub529 \ub300\ud68c \ud83c\udfc6 \uc81c3\ud68c \ud2b8\ub808\uc774\ub529 \ub300\ud68c \ud83c\udfc6 Service About Us \uc131\uacf5 \uc0ac\ub840 HOT Announcement Blog Guide Center Language KR EN ko-KR en-US Dashboard KO EN Service About Us \uc131\uacf5 \uc0ac\ub840 HOT Announcement \ube14\ub85c\uadf8 Guide Center Dashboard Get rewarded for sharing your winning trades. Get re",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "Rewards paid out sinc",
+    "snippet": "Start Now Learn More 3,000+ Cumulative number of challenges passed 100,000 USD+ Rewards paid out since launch (Nov 2024) Every moment, new trading success stories are being written. The certificates shown below are authentic and were issued to actual traders. They repr",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "e Basic Plan , while expert traders can fully leverag",
+    "snippet": "unt size? \u2192 For Beginners and Experts Alike Beginner traders can ease into it with the Basic Plan , while expert traders can fully leverage their skills with the Expert Plan . How do the Basic and Expert Plans differ? \u2192 Simple Rules, Free Strategies We provide the foundation for traders to unleash their cr",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "with your reward account, you can apply for compensa",
+    "snippet": "rewards in the reward account. If you follow the rules and reach the profit target with your reward account, you can apply for compensation. This is a reward for providing valuable trading data. Learn How to Apply for Rewards \u2192 Start the Challenge \ub77c\uc774\ud504\uc5c5 \ud2b8\ub808\uc774\ub354 \uc131\uacf5 \uc2a4\ud1a0\ub9ac \ub77c\uc774\ud504\uc5c5\uc744 \ud1b5\ud574 \ubcf4\uc0c1 \uc218\ub839\uc5d0 \uc131\uacf5\ud558\uc2e0 \ubd84\ub4e4\uc758 \uc2e4\uc81c \uc778\ud130\ubdf0 \uc785\ub2c8\ub2e4",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "count is immediately disqualified and trading is disa",
+    "snippet": "eward account. Profit Target $1,500 If cumulative losses reach this amount, the account is immediately disqualified and trading is disabled. Max Drawdown $1,000 The loss limit is recalculated at the market close based on your end-of-day balance. Drawdown Mode EOD If losses hit this threshold, the a",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "ters with lower pressure while our system helps manag",
+    "snippet": "Plan and Expert Plan? The Basic Plan is ideal for beginners. It lets you test the waters with lower pressure while our system helps manage risk. The Expert Plan is geared toward seasoned traders. It\u2019s more challenging but offers greater trading freedom. And if you pass, you receive a reward account at no e",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "ty to generate consistent and stable profits. This inc",
+    "snippet": "sing the test isn't just about hitting a profit target; it's about proving your ability to generate consistent and stable profits. This includes rules around consistency, minimum trading days, and trailing drawdown . These rules also apply to reward accounts. For more detailed information, please refer to th",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "Can I manag",
+    "snippet": "es\" page. What payment methods are available? We support easy payment via PayPal. Can I manage multiple accounts simultaneously? You can operate an unlimited number of challenge accounts and up to 5 reward accounts concurrently . Copy trading is also possible by",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "612-86-02810",
+    "snippet": "nge Now and Aim for Your Reward Start Now Learn More LifeUpTrading Inc. Business registration number: 612-86-02810 CEO: Sunha Park 55, Seongsuil-ro 8-gil, Unit 707 Seongdong-gu, Seoul, 04794, Rep. of Korea | Telephone 070-4251-2518 \u24d2 202. ALL RIGHTS RESERVED Terms and Conditions Pr",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn rewards for the valuable trading data",
+    "snippet": "Cut your risk, boost your returns. Connect your trades to our AI-driven platform and earn rewards for the valuable trading data. Start your next trading chapter with LifeUp today! Cut your risk, boost your returns. Connect your trades to our AI-driven platform and earn rewards for the valuable t",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "earn More\n 3,000+\n Cumulative number of challenges passed\n 100,000 USD+\n Rewards paid out since launch (Nov 2024)\n Every",
+    "snippet": "on the LifeUp platform is simulated and has no impact on live markets. Start Now Learn More 3,000+ Cumulative number of challenges passed 100,000 USD+ Rewards paid out since launch (Nov 2024) Every moment, new trading success stories are being written. The certificates shown below are authentic and were issued to actual traders. They repr",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "earn rewards for profitable trades",
+    "snippet": "completely eliminating the risk of major losses. Even in a simulation, you can still earn rewards for profitable trades. How can you make a profit with simulation trading? \u2192 Accounts Ranging from $25,000 to $150,000 We support various account sizes, from $25,000 to $150,000 , to help you",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "eater success!\n What is the challenge fee for each account size? \u2192 For Beginners and Experts Alike Beginner traders can ",
+    "snippet": ",000 , to help you improve your trading skills. Grow step by step and aim for even greater success! What is the challenge fee for each account size? \u2192 For Beginners and Experts Alike Beginner traders can ease into it with the Basic Plan , while expert traders can fully leverage their skills with the Expert Plan . How do the Basic and Expe",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "eash their creative trading strategies , with only minimal rules in place to prevent unfair practices",
+    "snippet": "differ? \u2192 Simple Rules, Free Strategies We provide the foundation for traders to unleash their creative trading strategies , with only minimal rules in place to prevent unfair practices. Learn more about our trading rules \u2192 Speed is Key in Trading. Fast Responses, Fast Payments, and Fast Reward Payouts. \u200dYou can communicate with us 24/7 o",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "help@lifeuptrading.com",
+    "snippet": "th LifeUp and upgrade your lifestyle as you achieve your valuable goals? CONTACT help@lifeuptrading.com 55, Seongsuil-ro 8-gil, Unit 707 Seongdong-gu, Seoul, 04794, Rep. of Korea LifeUpTrading Inc. Business registration number: 612-86-02810 CEO: Sunha Park55, Seongsuil",
+    "url": "https://www.lifeuptrading.com/en-us/about",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee\n $89 / Lifetime\n Price\n $78\n 53% OFF\n Price\n $37\n /\uc6d4\n Get started with the $25,000 BP\n Basic Plan\n $50,00",
+    "snippet": "% Fee required to activate the reward account once you have passed the evaluation. Activation Fee $89 / Lifetime Price $78 53% OFF Price $37 /\uc6d4 Get started with the $25,000 BP Basic Plan $50,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your reward account. Profit Target $3,000 If",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n $99 / Lifetime\n Price\n $99\n 53% OFF\n Price\n $47\n /\uc6d4\n Get started with the $50,000 BP\n Basic Plan\n $100,0",
+    "snippet": "% Fee required to activate the reward account once you have passed the evaluation. Activation Fee $99 / Lifetime Price $99 53% OFF Price $47 /\uc6d4 Get started with the $50,000 BP Basic Plan $100,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your reward account. Profit Target $6,000 I",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n $119 / Lifetime\n Price\n $118\n 53% OFF\n Price\n $55\n /\uc6d4\n Get started with the $100,000 BP\n Basic Plan\n $15",
+    "snippet": "% Fee required to activate the reward account once you have passed the evaluation. Activation Fee $119 / Lifetime Price $118 53% OFF Price $55 /\uc6d4 Get started with the $100,000 BP Basic Plan $150,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your reward account. Profit Target $9,00",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n $149 / Lifetime\n Price\n $218\n 53% OFF\n Price\n $102\n /\uc6d4\n Get started with the $150,000 BP\n \n Expert Plan\n",
+    "snippet": "% Fee required to activate the reward account once you have passed the evaluation. Activation Fee $149 / Lifetime Price $218 53% OFF Price $102 /\uc6d4 Get started with the $150,000 BP Expert Plan $25,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your Funded Account. Profit Target $1,5",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee\n None\n Price\n $158\n 53% OFF\n Price\n $74\n /\uc6d4\n Get started with the $25,000 EP\n Expert Plan\n $50,000\n You p",
+    "snippet": "% Fee required to activate the Reward Account once you have passed the evaluation. Activation Fee None Price $158 53% OFF Price $74 /\uc6d4 Get started with the $25,000 EP Expert Plan $50,000 You pass the evaluation once the balance reaches this profit target. After passing, you can activate your Funded Account. Profit Target $3,000 If cumulat",
+    "url": "https://www.lifeuptrading.com/en-us",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [
+  "TradingView",
+  "Tradovate",
+  "NinjaTrader"
+ ],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

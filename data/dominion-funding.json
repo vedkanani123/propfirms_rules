@@ -1,0 +1,764 @@
+{
+ "slug": "dominion-funding",
+ "name": "Dominion Funding",
+ "category": "Forex/CFD",
+ "url": "https://dominionfunding.trade/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://dominionfunding.trade/",
+   "kind": "home",
+   "chars": 31404
+  },
+  {
+   "url": "https://dominionfunding.trade/sitemap-index.xml",
+   "kind": "sitemap",
+   "chars": 68
+  },
+  {
+   "url": "https://dominionfunding.trade/sitemap-0.xml",
+   "kind": "sitemap",
+   "chars": 1705
+  },
+  {
+   "url": "https://dominionfunding.trade/challenge-rules",
+   "kind": "page",
+   "chars": 48566
+  },
+  {
+   "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+   "kind": "page",
+   "chars": 8832
+  },
+  {
+   "url": "https://dominionfunding.trade/about-consistency",
+   "kind": "page",
+   "chars": 10243
+  },
+  {
+   "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+   "kind": "page",
+   "chars": 10840
+  },
+  {
+   "url": "https://dominionfunding.trade/challenges",
+   "kind": "page",
+   "chars": 9710
+  },
+  {
+   "url": "https://dominionfunding.trade/2-step-swing-challenge-account",
+   "kind": "page",
+   "chars": 11094
+  },
+  {
+   "url": "https://dominionfunding.trade/1-step-standard-challenge-account",
+   "kind": "page",
+   "chars": 9889
+  },
+  {
+   "url": "https://dominionfunding.trade/2-step-standard-challenge-account",
+   "kind": "page",
+   "chars": 10647
+  },
+  {
+   "url": "https://dominionfunding.trade/instant-challenge-account",
+   "kind": "page",
+   "chars": 9887
+  },
+  {
+   "url": "https://dominionfunding.trade/1-step-lite-challenge-account",
+   "kind": "page",
+   "chars": 10232
+  },
+  {
+   "url": "https://dominionfunding.trade/terms-conditions",
+   "kind": "page",
+   "chars": 42731
+  },
+  {
+   "url": "https://dominionfunding.trade/about-us",
+   "kind": "page",
+   "chars": 7402
+  },
+  {
+   "url": "https://help.dominionfunding.trade/en/",
+   "kind": "sub",
+   "chars": 1293
+  },
+  {
+   "url": "https://help.dominionfunding.trade/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 11522
+  }
+ ],
+ "page_count": 17,
+ "total_chars": 236081,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "trades for the rule to be validated. Example (Phase 1) Initial balance: $100,000 Profit target: 10% = $10,000 Your balance must reach $ 110,000 with no open or pending trades to pass this phase. Minimum Profitable Days To count as a \"profitable day\" towards the mini",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "trades for the rule to be validated. Example (Phase 1) Initial balance: $100,000 Profit target: 8% = $8,000 Your balance must reach $ 108,000 with no open or pending trades to pass this phase. Minimum Profitable Days To count as a \"profitable day\" towards the minim",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "l swing freedom without a two-phase evaluation. Get started \u203a See full rules \u203a 10% Profit target 4% Daily loss 6% Max loss 5 Min. days None News window The promise Trade the setup. Not the clock. If your edge lives on the daily and 4-hour timeframes, forced ses",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "25,000 $50,000 $325 Start with $50,000 $100,000 $565 Start with $100,000 Phase 1 10% Profit target 6% Max. loss 4% Daily drawdown Profitable days 4 Days Leverage 1:50 Drawdown Static Master Profit Target No Limit 6% Max. loss 4% Daily drawdown Profitable days 4 Days Fee",
+    "url": "https://dominionfunding.trade/challenges",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ith $25,000 $50,000 $669 Start with $50,000 $100,000 $997 Start with $100,000 Master Profit Target No Limit 5% Max. loss 3% Daily drawdown Profitable days 8 in last 30 Days Leverage 1:30 Drawdown Trailing capped Instant Swing Master from day one, with overnight + weekend flexibil",
+    "url": "https://dominionfunding.trade/challenges",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "alance Definitions Initial Balance: The starting account balance (e.g., $100,000) Daily Drawdown Limit: 4% of $100,000 = $4,000 Example Initial balance: $100,000 Daily loss limit: 4% of initial balance ($4,000) 1. If balance at 20:55 UTC is $102,000, minimum allowable is",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "alance Definitions Initial Balance: The starting account balance (e.g., $100,000) Daily Drawdown Limit: 5% of $100,000 = $5,000 Example Initial balance: $100,000 Daily loss limit: 5% of initial balance ($5,000) 1. If balance at 20:55 UTC is $102,000, minimum allowable is",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "alance Definitions Initial Balance: The starting account balance (e.g., $100,000) Daily Drawdown Limit: 3% of $100,000 = $3,000 Example Initial balance: $100,000 Daily loss limit: 3% of initial balance ($3,000) 1. If balance at 20:55 UTC is $102,000, minimum allowable is",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "hout a two-phase evaluation. Get started \u203a See full rules \u203a 10% Profit target 4% Daily loss 6% Max loss 5 Min. days None News window The promise Trade the setup. Not the clock. If your edge lives on the daily and 4-hour timeframes, forced session closes are",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "1.5",
+    "snippet": "ws trading restrictions 10-min window Master Profit Target No Limit 10% Max. loss 4% Daily drawdown Profitable days 3 Days 1.5% Max floating loss Fee refunded on 2nd split Leverage 1:30 Drawdown Static Hold overnight/weekend Allowed News trading restrictions 10-min window 1-Step Standard Single e",
+    "url": "https://dominionfunding.trade/challenges",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "and smaller phase targets than the 1-Step Swing. Get started \u203a See full rules \u203a 5% Daily loss 8% Max loss 8 + 5% Phase targets None News window 80\u201390% Payout split The promise The classic path. Swing freedoms. The Swing tier removes the timers. The 2-Step ev",
+    "url": "https://dominionfunding.trade/2-step-swing-challenge-account",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "10",
+    "snippet": "New 1-Step Lite The most forgiving. Made to be beatable. Phases 1 Target 10% Max loss 10% Min days 3 days From $79 Learn more \u203a 1-Step Standard Single evaluation. Tighter risk, higher leverage. Phases 1 Target 10% Max loss 6% Min days 4 days F",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "Standard Single evaluation. Tighter risk, higher leverage. Phases 1 Target 10% Max loss 6% Min days 4 days From $75 Learn more \u203a 1-Step Swing Overnight + weekend positioning. No news window. Phases 1 Target 10% Max loss 6% Min days 5 days From",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "p Standard Classic two-phase evaluation. Wider buffer. Phases 2 Target 8% + 5% Max loss 8% Min days 4 days From $69 Learn more \u203a 2-Step Swing Two phases with swing positioning freedom. Phases 2 Target 8% + 5% Max loss 8% Min days 4\u20135 days From",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "stant No test, no target. Master account from day one. Phases None Target None Max loss 5% Min days 8 / 30 rolling From $145 Learn more \u203a Feature by feature The full matrix. Every headline rule side-by-side. Scroll horizontally to see the full table on n",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "they can trade. Get started \u203a See full rules \u203a 0 Evaluations 3% Daily loss 5% Max loss 8 / 30 Rolling days 80% Payout split The promise The fastest path. Nothing in the way. No target to hit. No verification round. No demotion if you stumble on day two. Instant is for the trad",
+    "url": "https://dominionfunding.trade/instant-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "67",
+    "snippet": "re 02 More room. Less rush. Every position gets a wider berth. Lite ships with a 10% max total loss \u2014 67% more room than our standard 1-Step and higher than the industry average for two-step evaluations. Bad day? You still have runway. Good week? Nothing forces you to close",
+    "url": "https://dominionfunding.trade/1-step-lite-challenge-account",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "50",
+    "snippet": "the automatic trade closure to complete. Impact on reward payouts 1st violation \u2014 50% of the payout is withheld 2nd violation \u2014 75% of the payout is withheld 3rd violation \u2014 87.5% of the payout is withheld 4th violation \u2014 the account is marked as failed Cycle reset",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "75",
+    "snippet": "ct on reward payouts 1st violation \u2014 50% of the payout is withheld 2nd violation \u2014 75% of the payout is withheld 3rd violation \u2014 87.5% of the payout is withheld 4th violation \u2014 the account is marked as failed Cycle reset The violation counter resets to zero after ea",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "ositioning \u2014 no forced daily close \u203a Single evaluation to a Master account \u203a Same 80\u201390% split & 14-day payout cycle as the rest of the line-up What you agree to \u203a Lower leverage than Standard \u2014 1:30 Forex vs 1:50 \u203a 6% total loss cap \u2014 tighter than Lite's 10% \u203a 5 minimum trading",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "y default, 90% with the addon. Program scales up to $400,000 in simulated capital. 80% Default split 90% With addon 14 days Payout cycle $400K Scale-up ceiling Pricing Pick an account size. One-off evaluation fee, refunded on your second payout. No subscription,",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "3",
+    "snippet": "+ 5% 8% + 5% None Max daily loss 4% 4% 4% 5% 5% 3% Max total loss 10% 6% 6% 8% 8% 5% Minimum days 3 days 4 days 5 days 4 days 4\u20135 days 8 / 30 rolling Overnight positions \u2713 \u2715 \u2713 \u2715 \u2713 \u2715 Weekend positions \u2713 \u2715 \u2713 \u2715 \u2713 \u2715 News window \u00b15 min \u00b15 min No restrictions \u00b15 min No restr",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ccount Max daily loss 4% of starting balance Max total loss 6% of starting balance Minimum trading days 5 days (0.5% balance gain each) Consistency / concentration cap None Overnight positions Allowed \u2014 no forced daily close Weekend positions Allowed \u2014 no forced Friday c",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "agree to \u203a Two phases before the Master account (Phase 2 unlocks after Phase 1) \u203a 5 minimum trading days in Phases 2 and 3 (4 in Phase 1) \u203a Lower leverage than the Standard tier \u2014 1:30 Forex vs 1:50 \u203a Weekend gap risk is on you \u2014 the platform doesn't force an exit Feature 05 No consist",
+    "url": "https://dominionfunding.trade/2-step-swing-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "100% of your simulated P&L. No simulated-profit voids for winning too well. Posted minimum days 4 profitable days in Phase 1, 5 in Phase 2 and the live phase. All 0.5% balance gain sessions. No hidden score No 'consistency score' calculated in the background. What",
+    "url": "https://dominionfunding.trade/2-step-swing-challenge-account",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "to hit Max daily loss 3% of starting balance Max total loss 5% of starting balance Minimum trading days 8 profitable days across any 30 rolling calendar days (+0.5% balance gain each) Consistency / concentration cap None Overnight positions Not allowed \u2014 close by 20:30 UT",
+    "url": "https://dominionfunding.trade/instant-challenge-account",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "400",
+    "snippet": "ustomer. It is the customer's responsibility to ensure this limit is not exceeded. $400K max allocation per customer Account Sizes Choose from five account sizes to match your trading style and risk appetite. $7,500 $12,500 $25,000 $50,000 $100,000 Other",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "lenge Explore models Reviews \u2605\u2605\u2605\u2605\u2605 4.8 /5 Over 40,000 customers Paid to traders $5M+ in performance rewards and counting Latest rewards Live V Vishalbhai C. \ud83c\uddee\ud83c\uddf3 just received a reward $499.94 Certificate D Denica I. \ud83c\udde7\ud83c\uddec just received a reward $3,0",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "499.94",
+    "snippet": "ewards and counting Latest rewards Live V Vishalbhai C. \ud83c\uddee\ud83c\uddf3 just received a reward $499.94 Certificate D Denica I. \ud83c\udde7\ud83c\uddec just received a reward $3,035.00 Certificate P pierpaolo A. \ud83c\uddee\ud83c\uddf9 just received a reward $2,840.00 Certificate K Kaynat I. \ud83c\uddf5\ud83c\uddf0 just receiv",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "3,03",
+    "snippet": "just received a reward $499.94 Certificate D Denica I. \ud83c\udde7\ud83c\uddec just received a reward $3,035.00 Certificate P pierpaolo A. \ud83c\uddee\ud83c\uddf9 just received a reward $2,840.00 Certificate K Kaynat I. \ud83c\uddf5\ud83c\uddf0 just received a reward $2,521.60 Certificate L Laat M. \ud83c\udde6\ud83c\uddfa just rece",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "2,84",
+    "snippet": "received a reward $3,035.00 Certificate P pierpaolo A. \ud83c\uddee\ud83c\uddf9 just received a reward $2,840.00 Certificate K Kaynat I. \ud83c\uddf5\ud83c\uddf0 just received a reward $2,521.60 Certificate L Laat M. \ud83c\udde6\ud83c\uddfa just received a reward $3,548.96 Certificate A Adedeji S. \ud83c\uddf3\ud83c\uddec just receiv",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "2,52",
+    "snippet": "st received a reward $2,840.00 Certificate K Kaynat I. \ud83c\uddf5\ud83c\uddf0 just received a reward $2,521.60 Certificate L Laat M. \ud83c\udde6\ud83c\uddfa just received a reward $3,548.96 Certificate A Adedeji S. \ud83c\uddf3\ud83c\uddec just received a reward $250.68 Certificate C Christopher N. \ud83c\udde6\ud83c\uddf9 just rec",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "3,54",
+    "snippet": "just received a reward $2,521.60 Certificate L Laat M. \ud83c\udde6\ud83c\uddfa just received a reward $3,548.96 Certificate A Adedeji S. \ud83c\uddf3\ud83c\uddec just received a reward $250.68 Certificate C Christopher N. \ud83c\udde6\ud83c\uddf9 just received a reward $1,586.40 Certificate F Faheem A. \ud83c\uddf5\ud83c\uddf0 just r",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "250.68",
+    "snippet": "t received a reward $3,548.96 Certificate A Adedeji S. \ud83c\uddf3\ud83c\uddec just received a reward $250.68 Certificate C Christopher N. \ud83c\udde6\ud83c\uddf9 just received a reward $1,586.40 Certificate F Faheem A. \ud83c\uddf5\ud83c\uddf0 just received a reward $1,108.80 Certificate O Omair C. \ud83c\uddec\ud83c\udde7 just recei",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "1,58",
+    "snippet": "received a reward $250.68 Certificate C Christopher N. \ud83c\udde6\ud83c\uddf9 just received a reward $1,586.40 Certificate F Faheem A. \ud83c\uddf5\ud83c\uddf0 just received a reward $1,108.80 Certificate O Omair C. \ud83c\uddec\ud83c\udde7 just received a reward $5,613.78 Certificate V VALID T. \ud83c\uddf9\ud83c\uddf7 just receive",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "1,10",
+    "snippet": "st received a reward $1,586.40 Certificate F Faheem A. \ud83c\uddf5\ud83c\uddf0 just received a reward $1,108.80 Certificate O Omair C. \ud83c\uddec\ud83c\udde7 just received a reward $5,613.78 Certificate V VALID T. \ud83c\uddf9\ud83c\uddf7 just received a reward $2,456.19 Certificate S Syed Hussain Naseer S. \ud83c\uddf5\ud83c\uddf0",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "5,61",
+    "snippet": "ust received a reward $1,108.80 Certificate O Omair C. \ud83c\uddec\ud83c\udde7 just received a reward $5,613.78 Certificate V VALID T. \ud83c\uddf9\ud83c\uddf7 just received a reward $2,456.19 Certificate S Syed Hussain Naseer S. \ud83c\uddf5\ud83c\uddf0 just received a reward $817.60 Certificate A Ashvin R. \ud83c\uddf8\ud83c\uddec",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "2,45",
+    "snippet": "ust received a reward $5,613.78 Certificate V VALID T. \ud83c\uddf9\ud83c\uddf7 just received a reward $2,456.19 Certificate S Syed Hussain Naseer S. \ud83c\uddf5\ud83c\uddf0 just received a reward $817.60 Certificate A Ashvin R. \ud83c\uddf8\ud83c\uddec just received a reward $388.70 Certificate S SALAD HASSAN M",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "817.60",
+    "snippet": "reward $2,456.19 Certificate S Syed Hussain Naseer S. \ud83c\uddf5\ud83c\uddf0 just received a reward $817.60 Certificate A Ashvin R. \ud83c\uddf8\ud83c\uddec just received a reward $388.70 Certificate S SALAD HASSAN M. \ud83c\udf0d just received a reward $570.02 Certificate V vlad S. \ud83c\uddee\ud83c\uddf9 just received a",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "ance. This rule applies to all evaluation/Master phases. Phase 1 (Master) \u2014 5% The trailing loss limit adjusts upward only when the account closes a day in simulated profit above the initial balance and does not decrease with losses. The maximum loss threshold rema",
+    "url": "https://dominionfunding.trade/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules",
+    "snippet": "aily and total loss limits, and log the minimum number of profitable days. No hidden consistency rules. Is there an inactivity period for my trading accounts? + 30 calendar days without a trade fails an evaluation account. Master accounts are not affected by this rule.",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule No hidden gotchas <48-hour payout processing time Full transparency Jump to the rules\n Re",
+    "snippet": "hes. Read them, share them, screenshot them \u2014 they never change without notice. No consistency rule No hidden gotchas <48-hour payout processing time Full transparency Jump to the rules Requirements Conditions Responsible Trading Not Allowed New 1 Step Lite 1 Step Standard 1 Step Swing 2 Step Standard 2 Step Swing Instant Profit Target Th",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule\n No daily concentration cap on any program",
+    "snippet": "ck any program above and these still apply. No variation, no fine print by tier. No consistency rule No daily concentration cap on any program. Your best day stays your best day. Bi-weekly rewards 14-day cycles across every program once you're live. Scales to $400K The scale-up plan is identical across the",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule punishes skill",
+    "snippet": "tion rule set with no concentration cap Investigation DOMINION DESK \u00b7 00:00 UTC The consistency rule punishes skill. We replaced it. Most evaluation programs cap how much any single session can contribute to your total simulated P&L. We break down exactly how that rule works, why it",
+    "url": "https://dominionfunding.trade/about-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule,\" in one sentence",
+    "snippet": "at we do instead. Start your evaluation \u2192 Read our full rule set What it is The \"consistency rule,\" in one sentence. Most evaluation programs cap the share that any single trading day can contribute to your total simulated P&L \u2014 commonly between 15% and 30% . Cross the line and the",
+    "url": "https://dominionfunding.trade/about-consistency",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule? + \u2013 No daily concentration cap",
+    "snippet": "ne. Plain-English answers Questions traders actually ask. Do you have any kind of consistency rule? + \u2013 No daily concentration cap. Our consistency mechanism is instead a small, posted minimum number of trading days that varies by model \u2014 alongside two clear risk caps (a daily simulated-loss limit a",
+    "url": "https://dominionfunding.trade/about-consistency",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "bi-weekly",
+    "snippet": "cessed within 48 hours of approval. First payout requires KYC completion; subsequent payouts run on a bi-weekly cycle. What happens if my account is in simulated profit but I hit the daily loss limit? + The daily loss limit is based on the previous day's 20:55 UTC balance minus a",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "able. Full range of instruments available: Forex, Metals, Indices, Commodities, and Crypto \u2014 see all instruments \u2192 Independently reviewed Trusted by traders worldwide. Dominion Funding Trusted by Traders Worldwide Public reviews from external platforms, al",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "my experience, once you start making larger or consistent payouts, issues suddenly arise. Very disappointing experience. Read More BENEDICT Feb 19, 2026 Public Review External Review \u2605 \u2605 \u2605 \u2605 \u2605 Done verification phase Done verification phase, got 2 pay",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "u do not meet the evaluation targets, breach a rule set out in these Terms, or otherwise fail to qualify, you may not recover the fee you paid, and no replacement account, refund, or compensation of any kind is owed except as expressly provided in these Te",
+    "url": "https://dominionfunding.trade/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Mas",
+    "snippet": "heapest fee. 2-Step Swing Two phases with swing freedoms. Instant Fastest No test. Master account from day one. Compare all challenges \u2192 Rules Reviews Affiliate FAQs \u2197 Broker \u2197 About About us Our story, our team, our founder About consistency Why we don't punish skill Cont",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "rules as first time user and seeking help Subject: Urgent: Account Breach Appeal & Escalation Request - Account 5001722 first time user of your firm and misunderstood rules please help Dear Dominant Funding Team, I am writing to formally appeal a trading rule breach on my instant funded account (Account ID: 5001722 and to request an escal",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Step Standard Highest leverag",
+    "snippet": "inion Funding Home Products 1-Step Lite New Most forgiving. Made to be beatable. 1-Step Standard Highest leverage. Single phase. 1-Step Swing Overnight, weekend, news trading. 2-Step Standard Widest buffer. Cheapest fee. 2-Step Swing Two phases with swing freedoms. Instant Fast",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "S Syed Hussa",
+    "snippet": "5,613.78 Certificate V VALID T. \ud83c\uddf9\ud83c\uddf7 just received a reward $2,456.19 Certificate S Syed Hussain Naseer S. \ud83c\uddf5\ud83c\uddf0 just received a reward $817.60 Certificate A Ashvin R. \ud83c\uddf8\ud83c\uddec just received a reward $388.70 Certificate S SALAD HASSAN M. \ud83c\udf0d just received a reward $57",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "S SALAD HASSA",
+    "snippet": "$817.60 Certificate A Ashvin R. \ud83c\uddf8\ud83c\uddec just received a reward $388.70 Certificate S SALAD HASSAN M. \ud83c\udf0d just received a reward $570.02 Certificate V vlad S. \ud83c\uddee\ud83c\uddf9 just received a reward $2,103.20 Certificate T TULSI R. \ud83c\uddee\ud83c\uddf3 just received a reward $2,458.40 Certifi",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "n. 10 ms Lightning-fast execution speed across every supported platform. 0.1 pip Average spread on major pairs \u2014 the best trading conditions available. Full range of instruments available: Forex, Metals, Indices, Commodities, and Crypto \u2014 see all instrume",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "hoice in term of prop firms, tight spread, no slippag",
+    "snippet": "nion Funding as well as my challenge refund as they promised. overall DF in my best choice in term of prop firms, tight spread, no slippage and real market price, also they commission is low. I highly recommend Dominion Funding. Read More ehsan biparva Apr 14, 2026 Public Review External Review \u2605 \u2605 \u2605",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "ashhoard with good info and calender. Support team inc",
+    "snippet": "different prop firms, but dominion funding is still the best. No hidden rules, nice dashhoard with good info and calender. Support team incredibly good Read More Gerald Nicolaas Apr 10, 2026 Public Review External Review \u2605 \u2605 \u2605 \u2605 \u2605 Recieve payout. Recieve payout. Read More Jomari Kanazawa Apr 5, 202",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "d easier instead of waiting days on emails. Thanks ag",
+    "snippet": "5 stars. One thing I really liked is their Discord. Makes communication way faster and easier instead of waiting days on emails. Thanks again to the team. And for anyone thinking about trying a prop firm \u2014 as long as you follow the rules and don't try to game the system, the payouts are REAL. Read More Hi",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "erience with Dominion Funding. Overall, I am quite sa",
+    "snippet": "External Review \u2713 Verified \u2605 \u2605 \u2605 \u2605 \u2605 My experience... I would like to share my experience with Dominion Funding. Overall, I am quite satisfied with their service and support. All of my questions were answered in a timely and helpful manner. I would recommend every trader to carefully review and fully und",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2025-00470",
+    "snippet": "loor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, St. Lucia, with company number 2025-00470, provides the simulated trading services advertised on www.dominionfunding.trade. For more information on simulated trading services provided by Dominion Funding please",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "HY00723020",
+    "snippet": "liability company incorporated and registered under the laws of Comoros Union, with company number HY00723020 and a registered address at Bonovo Road \u2013 Fomboni, Island of Moh\u00e9li \u2013 Comoros Union. \u00a9 2026 Dominion Funding. All rights reserved Back to top \u2191",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted jurisdictions are prohibited from use",
+    "snippet": "individuals 18+ years old in regions where legally permitted. Users under 18 or in restricted jurisdictions are prohibited from use. The Company reserves the right to update Terms periodically. Checking this page regularly is your responsibility. Continued use after changes constitutes acceptance.",
+    "url": "https://dominionfunding.trade/terms-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Countries and Territories\n Residents of these locations cannot access the platform: Afghanistan, Barbados, Ce",
+    "snippet": "ularly is your responsibility. Continued use after changes constitutes acceptance. Restricted Countries and Territories Residents of these locations cannot access the platform: Afghanistan, Barbados, Central African Republic, Congo (Brazzaville), Congo (Kinshasa), Cuba, Guinea-Bissau, Iran, Iraq, Libya, Mali, Myanmar, North Korea, South S",
+    "url": "https://dominionfunding.trade/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund as they promised",
+    "snippet": "in industry i just got my 2nd payout from dominion Funding as well as my challenge refund as they promised. overall DF in my best choice in term of prop firms, tight spread, no slippage and real market price, also they commission is low. I highly recommend Dominion Funding.",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "refund was offered, and no evidence was provided to justify denying the $9,800 payout",
+    "snippet": "aints get deleted and users get removed instead of being addressed transparently. No refund was offered, and no evidence was provided to justify denying the $9,800 payout. I\u2019m not saying they never pay out \u2014 apparently they do. But in my experience, once you start making larger or consistent payouts, issues suddenly arise. Very disappoint",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund\n The challenge fee paid is refunded upon the second successful reward payout\n on the challenge in the Master phas",
+    "snippet": "rader Login support@dominionfunding.trade Password Dominion1234 Open Platform \u2197 Fee Refund The challenge fee paid is refunded upon the second successful reward payout on the challenge in the Master phase. Firm-Initiated Rewards Dominion Funding reserves the right to initiate a reward on behalf of the client if the Master account achieves ",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Refunded on 2nd reward\n The evaluation fee is refunded when you take your second reward",
+    "snippet": "en math Every rule and threshold is posted up front and visible on your dashboard. Refunded on 2nd reward The evaluation fee is refunded when you take your second reward. Still deciding? Match me. Pick the sentence that sounds most like you. We'll put the right program at the top of the checkout. I want the most forgiving rules Highes",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading",
+    "snippet": ". 1-Step Standard Highest leverage. Single phase. 1-Step Swing Overnight, weekend, news trading. 2-Step Standard Widest buffer. Cheapest fee. 2-Step Swing Two phases with swing freedoms. Instant Fastest No test. Master account from day one. Compare all challeng",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "news trading breach verification",
+    "snippet": "ours before a restricted event are skipped and not taken into consideration during news trading breach verification. Profit Target The minimum simulated profit you need to reach during the evaluation phase to advance to the next stage. Phase 1 10% Phase 2 (Master) \u2014 The target",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   },
+   {
+    "value": "News trading with no restrictions",
+    "snippet": "nt from day one. \u2192 Instant I hold overnight and over the weekend No forced closes. News trading with no restrictions. \u2192 1-Step Swing I want the cheapest way in Classic 2-step evaluation with wider buffers. \u2192 2-Step Standard Build your plan Pick your model. See the rules. Compare a",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "news trading\n all allowed",
+    "snippet": "hrough. The single-phase evaluation built for swing traders \u2014 overnight, weekend and news trading all allowed. Full swing freedom without a two-phase evaluation. Get started \u203a See full rules \u203a 10% Profit target 4% Daily loss 6% Max loss 5 Min. days None News window Th",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eatable",
+    "snippet": "Dominion Funding Home Products 1-Step Lite New Most forgiving. Made to be beatable. 1-Step Standard Highest leverage. Single phase. 1-Step Swing Overnight, weekend, news trading. 2-Step Standard Widest buffer. Cheapest fee. 2-Step Swing Two phases",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "eapest fee",
+    "snippet": "e. 1-Step Swing Overnight, weekend, news trading. 2-Step Standard Widest buffer. Cheapest fee. 2-Step Swing Two phases with swing freedoms. Instant Fastest No test. Master account from day one. Compare all challenges \u2192 Rules Reviews Affiliate FAQs \u2197 Broker \u2197",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "eam, our founder\n About consistency\n Why we don't punish skill\n Contact\n Talk to our team\n \ud83c\uddec\ud83c\udde7 EN Trader Area\n icon only",
+    "snippet": "allenges \u2192 Rules Reviews Affiliate FAQs \u2197 Broker \u2197 About About us Our story, our team, our founder About consistency Why we don't punish skill Contact Talk to our team \ud83c\uddec\ud83c\udde7 EN Trader Area icon only Dominion Funding Home Products 1-Step Lite 1-Step Standard 1-Step Swing 2-Step Standard 2-Step Swing Instant Compare all \u2192 Rules Reviews Affilia",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "ea\n Rules first",
+    "snippet": "Reviews Affiliate FAQs \u2197 Broker \u2197 About About us About consistency Contact Trader Area Rules first. Rewards next. Prop trading, r e w r i t t e n . Rules you can read in one sitting. An evaluation designed to be beatable \u2014 not to fight you. Take the challenge Explor",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "ead in one sitting",
+    "snippet": "er Area Rules first. Rewards next. Prop trading, r e w r i t t e n . Rules you can read in one sitting. An evaluation designed to be beatable \u2014 not to fight you. Take the challenge Explore models Reviews \u2605\u2605\u2605\u2605\u2605 4.8 /5 Over 40,000 customers Paid to traders $5M+ in pe",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPN",
+    "snippet": "rm-specific compliance restrictions. Circumventing geographic restrictions through VPNs, falsified information, or third-party accounts is strictly prohibited and results in immediate termination, permanent access forfeiture, and reward disqualification. Users bear sole responsibility for accessing appropriate platforms per their actual g",
+    "url": "https://dominionfunding.trade/terms-conditions",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@dominionfunding.trade",
+    "snippet": "nformation on simulated trading services provided by Dominion Funding please contact support@dominionfunding.trade. Metatrader 5 \u201cMT5\u201d services on this site are not intended for U.S. citizens/residents and should not be used in jurisdictions where such use would violate applicable",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "info@dominionfunding.trade",
+    "snippet": "\u2192 FAQ's Questions? We Have Answers. Still have any questions? Contact our Team via info@dominionfunding.trade Generic When does the account cycle start? + Your account cycle begins the first time you place a trade. From that moment, all rule windows (daily loss, profitable days",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "48 hours",
+    "snippet": "d all verification steps were completed correctly. Once everything was in place, the payout was processed in under 48 hours, just as stated. The process was clear, structured, and transparent. As long as you carefully follow the rules and provide accurate information, there are no unnecessary",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours\n Received my",
+    "snippet": "19, 2026 Public Review External Review \u2713 Platform Verified \u2605 \u2605 \u2605 \u2605 \u2605 Received my payout within 24 hours Received my payout within 24 hours. Great firm and great spreads. Read More Humza Amjad Feb 19, 2026 Public Review External Review \u2713 Platform Verified \u2605 \u2605 \u2605 \u2605 \u2605 I want to be to",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours",
+    "snippet": "eview \u2713 Platform Verified \u2605 \u2605 \u2605 \u2605 \u2605 Received my payout within 24 hours Received my payout within 24 hours. Great firm and great spreads. Read More Humza Amjad Feb 19, 2026 Public Review External Review \u2713 Platform Verified \u2605 \u2605 \u2605 \u2605 \u2605 I want to be totally fair... I joine",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "instant",
+    "snippet": "a Feb 13, 2026 Public Review External Review \u2713 Platform Verified \u2605 \u2605 \u2605 \u2605 \u2605 First payout came through I purchased a few instant funded accounts from Dominion. Recently I became eligible for a payout on one of them. I submitted the request and it was approved within 2 days. The payout itself arriv",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 hours of approval",
+    "snippet": "ades. Once hit, you advance to the next phase. What happens when I request a reward payout? + Payout requests are processed within 48 hours of approval. First payout requires KYC completion; subsequent payouts run on a bi-weekly cycle. What happens if my account is in simulated profit but I hit the daily loss limit? +",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "\u2715 \u2713 \u2715 News window \u00b15 min \u00b15 min No restrictions \u00b15 min No restrictions \u00b15 min Forex leverage 1:30 1:50 1:30 1:50 1:30 1:30 Price from $79 $75 $75 $69 $69 $145 Get started Start \u203a Start \u203a Start \u203a Start \u203a Start \u203a Start \u203a This is a summary. For every rule including tie",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   },
+   {
+    "value": "1:50",
+    "snippet": ",000 Phase 1 10% Profit target 6% Max. loss 4% Daily drawdown Profitable days 4 Days Leverage 1:50 Drawdown Static Master Profit Target No Limit 6% Max. loss 4% Daily drawdown Profitable days 4 Days Fee refunded on 2nd split Leverage 1:50 Drawdown Static 1-Step Swing",
+    "url": "https://dominionfunding.trade/challenges",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit cap? + \u2013 A profit cap measures consistency by ceilinging your best session \u2014 which punishes the trader who reads",
+    "snippet": "d is published in full and visible on your dashboard. Why minimum days instead of a profit cap? + \u2013 A profit cap measures consistency by ceilinging your best session \u2014 which punishes the trader who reads the market correctly. A minimum-days requirement measures consistency by participation over time, without ever capping how much simulate",
+    "url": "https://dominionfunding.trade/about-consistency",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan and zero consistency\n rule",
+    "snippet": "ount. One picks itself. Every Dominion program uses the same payout model, the same scaling plan and zero consistency rule. Pick the one that matches how you actually trade. All programs At a glance. The full line-up, ordered from most forgiving to fastest. Every price is the starting fee",
+    "url": "https://dominionfunding.trade/challenge-accounts-comparison",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC documents, and if so, when? + KYC is required only before your first reward",
+    "snippet": "ger than 15 minutes, check your spam folder or contact support. Do I need to submit KYC documents, and if so, when? + KYC is required only before your first reward. You will receive a request in your dashboard as soon as you become eligible. How many accounts can I have active simultaneously? + You can hold multiple accounts, but",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC completion; subsequent rewards run on a bi-weekly cycle",
+    "snippet": "Reward requests are processed within 48 hours of approval. The first reward requires KYC completion; subsequent rewards run on a bi-weekly cycle. What happens if my account is in simulated profit but I hit the daily loss limit? + The daily loss limit is based on the previous day's 20:55 UTC balance minus a fixed",
+    "url": "https://dominionfunding.trade/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC documents, and if so, when? + KYC is required only before your first payout",
+    "snippet": "ger than 15 minutes, check your spam folder or contact support. Do I need to submit KYC documents, and if so, when? + KYC is required only before your first payout. You will receive a request in your dashboard as soon as you become eligible. How many accounts can I have active simultaneously? + You can hold multiple accounts, but",
+    "url": "https://dominionfunding.trade/challenge-rules",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription, no recurring charges",
+    "snippet": "ing Pick an account size. One-off evaluation fee, refunded on your second payout. No subscription, no recurring charges. Account $7,500 $75 one-off Start challenge \u203a Account $12,500 $125 one-off Start challenge \u203a Account $25,000 $210 one-off Start challenge \u203a Account $50,000 $325",
+    "url": "https://dominionfunding.trade/1-step-swing-challenge-account",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ebruary, I had two payouts lined up \u2014 one from a 1-step funded account ($3,600) and another from an instant funding account ($9,800). On my first payout day, I received an email stating: \u201cAs part of our standard compliance procedures, we analyzed your account and identified",
+   "url": "https://dominionfunding.trade/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "% off \u00b7 HAWK30 Ends in \u2014 Claim icon only Dominion Funding Home Products 1-Step Lite New Most forgiving. Made to be beatable. 1-Step Standard Highest leverage. Single phase. 1-Step Swing Overnight, weekend, news trading. 2-Step Standard",
+   "url": "https://dominionfunding.trade/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": ". 1-Step Standard Highest leverage. Single phase. 1-Step Swing Overnight, weekend, news trading. 2-Step Standard Widest buffer. Cheapest fee. 2-Step Swing Two phases with swing freedoms. Instant Fastest No test. Master account from day one. Compare all challen",
+   "url": "https://dominionfunding.trade/"
+  },
+  {
+   "name": "Swing",
+   "snippet": "t add-ons altering reward rates, trading permissions, or other conditions. 1-Step Model Services \u2014 Swing Account Account balance or equity must not fall below the specified percentages of initial account size: Phase 1 \u2014 6% Phase 2 (Master) \u2014 6% Account equity or balan",
+   "url": "https://dominionfunding.trade/terms-conditions"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "Loyalty program Learn how Dominion Funding\u2019s Loyalty Points work and how you can use them to earn free challenges. 4 articles Incentives We believe in empowering our traders with valuable incentives to enhance their trading experience. From exclusive discounts to sp",
+   "url": "https://help.dominionfunding.trade/en/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Oil",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "HAWK30",
+   "context": "ominion Funding Skip to content SALE 30% off every evaluation \u2014 TradeHawk launch \u00b7 Code HAWK30 30% off \u00b7 HAWK30 Ends in \u2014 Claim icon only Dominion Funding Ho"
+  }
+ ],
+ "claims": [
+  "detected, we are required to take precautionary measures.\u201d They then offered to pay the $3,600 but deny the $9,800 payout and terminate my access to their services. For the record,",
+  "of being addressed transparently. No refund was offered, and no evidence was provided to justify denying the $9,800 payout. I\u2019m not saying they never pay out \u2014 apparently they do. Bu",
+  "Feb 19, 2026 Public Review External Review \u2605 \u2605 \u2605 \u2605 \u2605 Done verification phase Done verification phase, got 2 payouts with no issues. This is asolid prop firm as long as you fol",
+  "l Mohammed Feb 7, 2026 Public Review \u2715 \u00b7 Open Review \u2192 Close Global presence Empowering traders worldwide. 40,000+ Traders enrolled A global community with the tools, transparency,",
+  ". 5,000+ Community members A thriving Discord community sharing insights, strategies, and market context. 95+ Countries served Simulated evaluation programs available to traders",
+  "egies, and market context. 95+ Countries served Simulated evaluation programs available to traders in over 95 countries. \ud83c\uddf7\ud83c\uddf4 Bucharest \ud83c\udde6\ud83c\uddea Dubai \u00b7 ProFX Awards \ud83c\udde8\ud83c\udde6 Whitby \u00b7 Wildcat"
+ ],
+ "errors": []
+}

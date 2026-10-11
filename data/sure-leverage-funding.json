@@ -1,0 +1,245 @@
+{
+ "slug": "sure-leverage-funding",
+ "name": "Sure Leverage Funding",
+ "category": "Forex/CFD",
+ "url": "https://sureleveragefunding.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://sureleveragefunding.com/",
+   "kind": "home",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5271
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/why-do-prop-firms-have-drawdown-rules",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/instant-funding-trading-rules",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/what-is-bid-price-and-ask-price",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/instant-funding-vs-one-step-challenge",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/ea-funded-challenge",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/dropout-challenge",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/challenges",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/how-sure-leverage-funding-empowers-traders-with-instant-funding-challenges",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/buy-now-pay-later-challenge",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/instant-funding-withdrawal-rules",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/blog/maximizing-your-trading-potential-why-instant-payouts-on-demand-matter",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://sureleveragefunding.com/payouts",
+   "kind": "page",
+   "chars": 62
+  },
+  {
+   "url": "https://help.sureleveragefunding.com/en/",
+   "kind": "sub",
+   "chars": 645
+  },
+  {
+   "url": "https://help.sureleveragefunding.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 3353
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 10090,
+ "findings": {
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "log/how-to-day-trade-with-100 https://sureleveragefunding.com/blog/day-trading-under-$25k https://sureleveragefunding.com/blog/what-is-asset-specific-trading https://sureleveragefunding.com/blog/how-to-get-a-funded-account-for-forex-trading https://surelevera",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "log/what-is-profit-split https://sureleveragefunding.com/blog/can-i-trade-forex-with-$5 https://sureleveragefunding.com/blog/how-does-a-trailing-stop-work https://sureleveragefunding.com/blog/what-percentage-of-day-traders-are-successful https://sureleverag",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "25",
+    "snippet": "log/how-to-day-trade-with-100 https://sureleveragefunding.com/blog/day-trading-under-$25k https://sureleveragefunding.com/blog/what-is-asset-specific-trading https://sureleveragefunding.com/blog/how-to-get-a-funded-account-for-forex-trading https://surelever",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Sure Leverag",
+    "snippet": "Sure Leverage Funding | Prop Firm Challenges & Instant Funding",
+    "url": "https://sureleveragefunding.com/",
+    "kind": "home"
+   },
+   {
+    "value": "how-many-funded-accounts-can-you-manag",
+    "snippet": "ing.com/blog/what-is-position-sizing-in-trading https://sureleveragefunding.com/blog/how-many-funded-accounts-can-you-manage https://sureleveragefunding.com/blog/what-is-risk-management-in-prop-trading https://sureleveragefunding.com/blog/funded-trading-account-vs-personal-account https://sur",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "what-is-risk-manag",
+    "snippet": "om/blog/how-many-funded-accounts-can-you-manage https://sureleveragefunding.com/blog/what-is-risk-management-in-prop-trading https://sureleveragefunding.com/blog/funded-trading-account-vs-personal-account https://sureleveragefunding.com/blog/why-do-prop-firms-have-drawdown",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "instant-funding-brokerag",
+    "snippet": "gefunding.com/blog/can-you-get-rich-day-trading https://sureleveragefunding.com/blog/instant-funding-brokerage https://sureleveragefunding.com/blog/what-is-profit-split https://sureleveragefunding.com/blog/can-i-trade-forex-with-$5 https://sureleveragefunding.com/blog/how-does-a",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "what-percentag",
+    "snippet": "efunding.com/blog/how-does-a-trailing-stop-work https://sureleveragefunding.com/blog/what-percentage-of-day-traders-are-successful https://sureleveragefunding.com/blog/instant-funding-for-stocks https://sureleveragefunding.com/blog/instant-funding-withdrawal-rules http",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "how-to-trade-Indices-with-sure-leverag",
+    "snippet": "eragefunding.com/blog/instant-funding-prop-firm https://sureleveragefunding.com/blog/how-to-trade-Indices-with-sure-leverage-funding https://sureleveragefunding.com/blog/what-does-instant-funding-mean https://sureleveragefunding.com/blog/how-much-can-you-make-day-trading https://sureleveragef",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "leverag",
+    "snippet": "ding.com/blog/how-much-can-you-make-day-trading https://sureleveragefunding.com/blog/leverage-in-trading-benefits-risks-growth https://sureleveragefunding.com/blog/what-is-hft https://sureleveragefunding.com/blog/unlock-your-trading-potential-instant-capital-pro",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "how-sure-leverag",
+    "snippet": "-potential-why-instant-payouts-on-demand-matter https://sureleveragefunding.com/blog/how-sure-leverage-funding-empowers-traders-with-instant-funding-challenges https://sureleveragefunding.com/blog/why-sure-leverage-funding-is-top-choice-for-traders-in-2026",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ea-funded-challenge https://sureleveragefunding",
+    "snippet": "funding https://sureleveragefunding.com/one-two-step https://sureleveragefunding.com/ea-funded-challenge https://sureleveragefunding.com/buy-now-pay-later-challenge https://sureleveragefunding.com/payouts https://sureleveragefunding.com/about-us https://sureleveragefunding.com/blog https://sureleverag",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ead-in-forex https://sureleveragefunding",
+    "snippet": "funding.com/blog/what-is-a-sell-stop https://sureleveragefunding.com/blog/what-is-spread-in-forex https://sureleveragefunding.com/blog/what-is-lot-size-in-trading https://sureleveragefunding.com/blog/is-day-trading-gambling https://sureleveragefunding.com/blog/is-day-trading-profitable https://",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "eal-money https://sureleveragefunding",
+    "snippet": "om/blog/what-is-fx-trading https://sureleveragefunding.com/blog/are-funded-accounts-real-money https://sureleveragefunding.com/blog/what-is-equity-based-drawdown https://sureleveragefunding.com/blog/benefits-of-prop-firm-trading https://sureleveragefunding.com/blog/how-to-successfully-pass-a",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "earn https://sureleveragefunding",
+    "snippet": "-to-make-200k-fast https://sureleveragefunding.com/blog/how-much-does-a-forex-trader-earn https://sureleveragefunding.com/blog/instant-funding-discount-code https://sureleveragefunding.com/blog/instant-funding-payout-guide https://sureleveragefunding.com/blog/how-to-make-50k-overnight h",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ean-in-trading https://sureleveragefunding",
+    "snippet": "/best-instant-funding-prop-firms https://sureleveragefunding.com/blog/what-does-pnl-mean-in-trading https://sureleveragefunding.com/blog/how-to-set-stop-loss-orders-in-stock-trading https://sureleveragefunding.com/blog/what-is-a-funded-account https://sureleveragefunding.com/blog/instant-funding-",
+    "url": "https://sureleveragefunding.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:29",
+    "snippet": ":05:21Z https://help.sureleveragefunding.com/en/articles/12141636-general-rules-sure-leverage-funding 2026-09-01T10:51:29Z https://help.sureleveragefunding.com/es/articles/12141636-reglas-generales-sure-leverage-funding 2026-10-06T16:51:36Z https://help.sureleveragefunding.com/en/articles/1",
+    "url": "https://help.sureleveragefunding.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "1:36",
+    "snippet": ":29Z https://help.sureleveragefunding.com/es/articles/12141636-reglas-generales-sure-leverage-funding 2026-10-06T16:51:36Z https://help.sureleveragefunding.com/en/articles/12141658-general-platform-rules 2026-09-01T15:05:14Z https://help.sureleveragefunding.com/es/articles/12141658-reglas-g",
+    "url": "https://help.sureleveragefunding.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Sure Leverage Funding | Prop Firm Challenges & Instant Funding https://sureleveragefunding.com https://sureleveragefunding.com/challenges https://sureleveragefunding.com/instant-funding https://sureleveragefunding.com/one-",
+   "url": "https://sureleveragefunding.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "eleveragefunding.com/zero https://sureleveragefunding.com/static https://sureleveragefunding.com/es/one-step https://sureleveragefunding.com/es/one-step-offer https://sureleveragefunding.com/es/instant-funding https://sureleveragefunding.com/future-style https://surel",
+   "url": "https://sureleveragefunding.com/sitemap.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": ".com/challenges https://sureleveragefunding.com/instant-funding https://sureleveragefunding.com/one-two-step https://sureleveragefunding.com/ea-funded-challenge https://sureleveragefunding.com/buy-now-pay-later-challenge https://sureleveragefunding.com/payouts https:/",
+   "url": "https://sureleveragefunding.com/sitemap.xml"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "wo-step https://sureleveragefunding.com/ea-funded-challenge https://sureleveragefunding.com/buy-now-pay-later-challenge https://sureleveragefunding.com/payouts https://sureleveragefunding.com/about-us https://sureleveragefunding.com/blog https://sureleveragefunding.com",
+   "url": "https://sureleveragefunding.com/sitemap.xml"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Stocks",
+  "Futures"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

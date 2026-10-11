@@ -1,0 +1,1381 @@
+[
+ {
+  "slug": "ftmo",
+  "name": "FTMO",
+  "status": "ok",
+  "pages": 18,
+  "categories": 11
+ },
+ {
+  "slug": "the5ers",
+  "name": "The5ers",
+  "status": "ok",
+  "pages": 8,
+  "categories": 22
+ },
+ {
+  "slug": "fundednext",
+  "name": "FundedNext",
+  "status": "ok",
+  "pages": 20,
+  "categories": 24
+ },
+ {
+  "slug": "fundingpips",
+  "name": "FundingPips",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "e8-markets",
+  "name": "E8 Markets",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "alpha-capital-group",
+  "name": "Alpha Capital Group",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "the-funded-trader",
+  "name": "The Funded Trader",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "funded-trading-plus",
+  "name": "Funded Trading Plus",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "city-traders-imperium",
+  "name": "City Traders Imperium",
+  "status": "ok",
+  "pages": 18,
+  "categories": 21
+ },
+ {
+  "slug": "aquafunded",
+  "name": "AquaFunded",
+  "status": "ok",
+  "pages": 16,
+  "categories": 20
+ },
+ {
+  "slug": "blue-guardian",
+  "name": "Blue Guardian",
+  "status": "ok",
+  "pages": 16,
+  "categories": 21
+ },
+ {
+  "slug": "funderpro",
+  "name": "FunderPro",
+  "status": "ok",
+  "pages": 16,
+  "categories": 20
+ },
+ {
+  "slug": "funded-elite",
+  "name": "Funded Elite",
+  "status": "ok",
+  "pages": 16,
+  "categories": 19
+ },
+ {
+  "slug": "audacity-capital",
+  "name": "Audacity Capital",
+  "status": "ok",
+  "pages": 5,
+  "categories": 25
+ },
+ {
+  "slug": "fundyourfx",
+  "name": "FundYourFX",
+  "status": "ok",
+  "pages": 15,
+  "categories": 22
+ },
+ {
+  "slug": "fxify",
+  "name": "FXIFY",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "fintokei",
+  "name": "Fintokei",
+  "status": "ok",
+  "pages": 16,
+  "categories": 19
+ },
+ {
+  "slug": "finotive-funding",
+  "name": "Finotive Funding",
+  "status": "ok",
+  "pages": 16,
+  "categories": 23
+ },
+ {
+  "slug": "maven-trading",
+  "name": "Maven Trading",
+  "status": "ok",
+  "pages": 15,
+  "categories": 16
+ },
+ {
+  "slug": "ment-funding",
+  "name": "Ment Funding",
+  "status": "ok",
+  "pages": 10,
+  "categories": 19
+ },
+ {
+  "slug": "thinkcapital",
+  "name": "ThinkCapital",
+  "status": "ok",
+  "pages": 19,
+  "categories": 19
+ },
+ {
+  "slug": "dna-funded",
+  "name": "DNA Funded",
+  "status": "ok",
+  "pages": 18,
+  "categories": 22
+ },
+ {
+  "slug": "bem-funding",
+  "name": "BEM Funding",
+  "status": "ok",
+  "pages": 14,
+  "categories": 18
+ },
+ {
+  "slug": "blueberry-funded",
+  "name": "Blueberry Funded",
+  "status": "ok",
+  "pages": 11,
+  "categories": 20
+ },
+ {
+  "slug": "blusky-trading",
+  "name": "BluSky Trading",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "nordic-funder",
+  "name": "Nordic Funder",
+  "status": "ok",
+  "pages": 14,
+  "categories": 17
+ },
+ {
+  "slug": "qt-funded",
+  "name": "QT Funded",
+  "status": "ok",
+  "pages": 18,
+  "categories": 24
+ },
+ {
+  "slug": "prop-number-one",
+  "name": "Prop Number One",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "rebelsfunding",
+  "name": "RebelsFunding",
+  "status": "ok",
+  "pages": 22,
+  "categories": 15
+ },
+ {
+  "slug": "instant-funding",
+  "name": "Instant Funding",
+  "status": "ok",
+  "pages": 18,
+  "categories": 23
+ },
+ {
+  "slug": "funded-trader-markets",
+  "name": "Funded Trader Markets",
+  "status": "ok",
+  "pages": 18,
+  "categories": 22
+ },
+ {
+  "slug": "moneta-funded",
+  "name": "Moneta Funded",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "lark-funding",
+  "name": "Lark Funding",
+  "status": "ok",
+  "pages": 13,
+  "categories": 9
+ },
+ {
+  "slug": "hantec-trader",
+  "name": "Hantec Trader",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "funding-traders",
+  "name": "Funding Traders",
+  "status": "ok",
+  "pages": 12,
+  "categories": 23
+ },
+ {
+  "slug": "fundedbit",
+  "name": "FundedBit",
+  "status": "ok",
+  "pages": 19,
+  "categories": 21
+ },
+ {
+  "slug": "bonafx",
+  "name": "BonaFX",
+  "status": "ok",
+  "pages": 18,
+  "categories": 16
+ },
+ {
+  "slug": "pipfarm",
+  "name": "PipFarm",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "noctorial",
+  "name": "Noctorial",
+  "status": "ok",
+  "pages": 18,
+  "categories": 17
+ },
+ {
+  "slug": "capital-mint-markets",
+  "name": "Capital Mint Markets",
+  "status": "ok",
+  "pages": 18,
+  "categories": 23
+ },
+ {
+  "slug": "tradexprop",
+  "name": "TradeXProp",
+  "status": "ok",
+  "pages": 18,
+  "categories": 18
+ },
+ {
+  "slug": "alpinefunded",
+  "name": "AlpineFunded",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "sfx-funded",
+  "name": "SFX Funded",
+  "status": "ok",
+  "pages": 14,
+  "categories": 21
+ },
+ {
+  "slug": "traders-launch",
+  "name": "Traders Launch",
+  "status": "ok",
+  "pages": 9,
+  "categories": 17
+ },
+ {
+  "slug": "vanquish-trader",
+  "name": "Vanquish Trader",
+  "status": "ok",
+  "pages": 9,
+  "categories": 14
+ },
+ {
+  "slug": "aifo",
+  "name": "AIFO",
+  "status": "ok",
+  "pages": 18,
+  "categories": 22
+ },
+ {
+  "slug": "xfunded",
+  "name": "XFunded",
+  "status": "ok",
+  "pages": 20,
+  "categories": 12
+ },
+ {
+  "slug": "funderblu",
+  "name": "FunderBlu",
+  "status": "ok",
+  "pages": 5,
+  "categories": 12
+ },
+ {
+  "slug": "forexive",
+  "name": "Forexive",
+  "status": "ok",
+  "pages": 19,
+  "categories": 21
+ },
+ {
+  "slug": "vision-trade-forex",
+  "name": "Vision Trade Forex",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "funded-friday",
+  "name": "Funded Friday",
+  "status": "ok",
+  "pages": 11,
+  "categories": 17
+ },
+ {
+  "slug": "proped-capital",
+  "name": "PropEd Capital",
+  "status": "ok",
+  "pages": 13,
+  "categories": 18
+ },
+ {
+  "slug": "w-funded",
+  "name": "W Funded",
+  "status": "ok",
+  "pages": 8,
+  "categories": 20
+ },
+ {
+  "slug": "fury-funded-trader",
+  "name": "Fury Funded Trader",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "equity-edge",
+  "name": "Equity Edge",
+  "status": "ok",
+  "pages": 16,
+  "categories": 23
+ },
+ {
+  "slug": "nexira-trade",
+  "name": "Nexira Trade",
+  "status": "ok",
+  "pages": 3,
+  "categories": 0
+ },
+ {
+  "slug": "tiger-funded",
+  "name": "Tiger Funded",
+  "status": "ok",
+  "pages": 13,
+  "categories": 23
+ },
+ {
+  "slug": "trio-funded",
+  "name": "Trio Funded",
+  "status": "ok",
+  "pages": 5,
+  "categories": 10
+ },
+ {
+  "slug": "sure-leverage-funding",
+  "name": "Sure Leverage Funding",
+  "status": "ok",
+  "pages": 16,
+  "categories": 5
+ },
+ {
+  "slug": "dominion-funding",
+  "name": "Dominion Funding",
+  "status": "ok",
+  "pages": 17,
+  "categories": 26
+ },
+ {
+  "slug": "upcomers",
+  "name": "Upcomers",
+  "status": "ok",
+  "pages": 16,
+  "categories": 22
+ },
+ {
+  "slug": "mubite",
+  "name": "MUBITE",
+  "status": "ok",
+  "pages": 14,
+  "categories": 21
+ },
+ {
+  "slug": "plutus-trade-base",
+  "name": "Plutus Trade Base",
+  "status": "ok",
+  "pages": 18,
+  "categories": 21
+ },
+ {
+  "slug": "prop-nimbus",
+  "name": "Prop Nimbus",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "traders-with-edge",
+  "name": "Traders With Edge",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "the-upside-funding",
+  "name": "The Upside Funding",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "t4t-capital",
+  "name": "T4T Capital",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "bullrush",
+  "name": "BullRush",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "crystal-ball-markets",
+  "name": "Crystal Ball Markets",
+  "status": "ok",
+  "pages": 16,
+  "categories": 6
+ },
+ {
+  "slug": "halcyon-trader-funding",
+  "name": "Halcyon Trader Funding",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "fundedx",
+  "name": "FundedX",
+  "status": "ok",
+  "pages": 1,
+  "categories": 1
+ },
+ {
+  "slug": "propshoptrader",
+  "name": "PropShopTrader",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "sizeprop",
+  "name": "SizeProp",
+  "status": "ok",
+  "pages": 14,
+  "categories": 21
+ },
+ {
+  "slug": "wegetfunded",
+  "name": "WeGetFunded",
+  "status": "ok",
+  "pages": 14,
+  "categories": 20
+ },
+ {
+  "slug": "wall-st-funded",
+  "name": "Wall St. Funded",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "fundedfirm",
+  "name": "FundedFirm",
+  "status": "ok",
+  "pages": 14,
+  "categories": 18
+ },
+ {
+  "slug": "apex-proprietary",
+  "name": "Apex Proprietary",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "apexfunded",
+  "name": "ApexFunded",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "fast-track-trading",
+  "name": "Fast Track Trading",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "fidelcrest",
+  "name": "Fidelcrest",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "blufx",
+  "name": "BluFX",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "the-trading-pit",
+  "name": "The Trading Pit",
+  "status": "ok",
+  "pages": 20,
+  "categories": 18
+ },
+ {
+  "slug": "nexgen-protrader",
+  "name": "Nexgen ProTrader",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "funded-futures-network",
+  "name": "Funded Futures Network",
+  "status": "ok",
+  "pages": 14,
+  "categories": 17
+ },
+ {
+  "slug": "funded-futures-family",
+  "name": "Funded Futures Family",
+  "status": "ok",
+  "pages": 9,
+  "categories": 20
+ },
+ {
+  "slug": "myfundedfutures",
+  "name": "MyFundedFutures",
+  "status": "ok",
+  "pages": 16,
+  "categories": 11
+ },
+ {
+  "slug": "tradeify",
+  "name": "Tradeify",
+  "status": "ok",
+  "pages": 15,
+  "categories": 20
+ },
+ {
+  "slug": "tradeday",
+  "name": "TradeDay",
+  "status": "ok",
+  "pages": 5,
+  "categories": 16
+ },
+ {
+  "slug": "topstep",
+  "name": "Topstep",
+  "status": "ok",
+  "pages": 16,
+  "categories": 15
+ },
+ {
+  "slug": "apex-trader-funding",
+  "name": "Apex Trader Funding",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "take-profit-trader",
+  "name": "Take Profit Trader",
+  "status": "ok",
+  "pages": 1,
+  "categories": 9
+ },
+ {
+  "slug": "oneup-trader",
+  "name": "OneUp Trader",
+  "status": "ok",
+  "pages": 8,
+  "categories": 10
+ },
+ {
+  "slug": "earn2trade",
+  "name": "Earn2Trade",
+  "status": "ok",
+  "pages": 15,
+  "categories": 14
+ },
+ {
+  "slug": "leeloo-trading",
+  "name": "Leeloo Trading",
+  "status": "ok",
+  "pages": 5,
+  "categories": 11
+ },
+ {
+  "slug": "uprofit",
+  "name": "UProfit",
+  "status": "ok",
+  "pages": 14,
+  "categories": 16
+ },
+ {
+  "slug": "bulenox",
+  "name": "Bulenox",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "elite-trader-funding",
+  "name": "Elite Trader Funding",
+  "status": "ok",
+  "pages": 14,
+  "categories": 15
+ },
+ {
+  "slug": "lucid-trading",
+  "name": "Lucid Trading",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "futureselite",
+  "name": "FuturesElite",
+  "status": "ok",
+  "pages": 8,
+  "categories": 19
+ },
+ {
+  "slug": "fundedseat",
+  "name": "FundedSeat",
+  "status": "ok",
+  "pages": 1,
+  "categories": 1
+ },
+ {
+  "slug": "top-one-futures",
+  "name": "Top One Futures",
+  "status": "ok",
+  "pages": 8,
+  "categories": 22
+ },
+ {
+  "slug": "goat-funded-trader",
+  "name": "Goat Funded Trader",
+  "status": "ok",
+  "pages": 16,
+  "categories": 23
+ },
+ {
+  "slug": "hola-prime",
+  "name": "Hola Prime",
+  "status": "ok",
+  "pages": 14,
+  "categories": 18
+ },
+ {
+  "slug": "atlas-funded-futures",
+  "name": "Atlas Funded Futures",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "daytraders",
+  "name": "DayTraders",
+  "status": "ok",
+  "pages": 14,
+  "categories": 16
+ },
+ {
+  "slug": "for-traders",
+  "name": "For Traders",
+  "status": "ok",
+  "pages": 16,
+  "categories": 25
+ },
+ {
+  "slug": "phidias",
+  "name": "Phidias",
+  "status": "ok",
+  "pages": 18,
+  "categories": 20
+ },
+ {
+  "slug": "purdia-capital",
+  "name": "Purdia Capital",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "legends-trading",
+  "name": "Legends Trading",
+  "status": "ok",
+  "pages": 5,
+  "categories": 14
+ },
+ {
+  "slug": "the-futures-desk",
+  "name": "The Futures Desk",
+  "status": "ok",
+  "pages": 4,
+  "categories": 15
+ },
+ {
+  "slug": "lifeup-trading",
+  "name": "LifeUp Trading",
+  "status": "ok",
+  "pages": 4,
+  "categories": 11
+ },
+ {
+  "slug": "finotive-futures",
+  "name": "Finotive Futures",
+  "status": "ok",
+  "pages": 10,
+  "categories": 11
+ },
+ {
+  "slug": "aquafutures",
+  "name": "AquaFutures",
+  "status": "ok",
+  "pages": 16,
+  "categories": 20
+ },
+ {
+  "slug": "tradefundrr",
+  "name": "TradeFundrr",
+  "status": "ok",
+  "pages": 14,
+  "categories": 20
+ },
+ {
+  "slug": "trader2b",
+  "name": "Trader2B",
+  "status": "ok",
+  "pages": 18,
+  "categories": 17
+ },
+ {
+  "slug": "trade-the-pool",
+  "name": "Trade The Pool",
+  "status": "ok",
+  "pages": 18,
+  "categories": 13
+ },
+ {
+  "slug": "tenacity-trading",
+  "name": "Tenacity Trading",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "onyx-futures",
+  "name": "Onyx Futures",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "trade4u",
+  "name": "Trade4U",
+  "status": "ok",
+  "pages": 7,
+  "categories": 15
+ },
+ {
+  "slug": "crypto-fund-trader",
+  "name": "Crypto Fund Trader",
+  "status": "ok",
+  "pages": 18,
+  "categories": 20
+ },
+ {
+  "slug": "wencrypto",
+  "name": "WenCrypto",
+  "status": "ok",
+  "pages": 9,
+  "categories": 18
+ },
+ {
+  "slug": "hyrotrader",
+  "name": "HyroTrader",
+  "status": "ok",
+  "pages": 18,
+  "categories": 18
+ },
+ {
+  "slug": "breakout",
+  "name": "Breakout",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "klein-funding",
+  "name": "Klein Funding",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "coin-funded",
+  "name": "Coin Funded",
+  "status": "ok",
+  "pages": 2,
+  "categories": 0
+ },
+ {
+  "slug": "solana-funded",
+  "name": "Solana Funded",
+  "status": "ok",
+  "pages": 11,
+  "categories": 18
+ },
+ {
+  "slug": "forecastfunded",
+  "name": "ForecastFunded",
+  "status": "ok",
+  "pages": 1,
+  "categories": 3
+ },
+ {
+  "slug": "fundedplays",
+  "name": "FundedPlays",
+  "status": "ok",
+  "pages": 14,
+  "categories": 13
+ },
+ {
+  "slug": "options-funding",
+  "name": "Options Funding",
+  "status": "ok",
+  "pages": 14,
+  "categories": 18
+ },
+ {
+  "slug": "rev-one-trading",
+  "name": "Rev One Trading",
+  "status": "ok",
+  "pages": 15,
+  "categories": 22
+ },
+ {
+  "slug": "propr",
+  "name": "Propr",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "hyperstack",
+  "name": "HyperStack",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "tradeify247",
+  "name": "Tradeify247",
+  "status": "ok",
+  "pages": 16,
+  "categories": 17
+ },
+ {
+  "slug": "pipcy",
+  "name": "Pipcy",
+  "status": "ok",
+  "pages": 14,
+  "categories": 19
+ },
+ {
+  "slug": "pinex-capital",
+  "name": "Pinex Capital",
+  "status": "ok",
+  "pages": 16,
+  "categories": 24
+ },
+ {
+  "slug": "carrot-funding",
+  "name": "Carrot Funding",
+  "status": "ok",
+  "pages": 15,
+  "categories": 16
+ },
+ {
+  "slug": "lux-trading-firm",
+  "name": "Lux Trading Firm",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "superfunded",
+  "name": "SuperFunded",
+  "status": "ok",
+  "pages": 18,
+  "categories": 13
+ },
+ {
+  "slug": "swiss-firmup",
+  "name": "Swiss Firmup",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "pivex-funded",
+  "name": "Pivex Funded",
+  "status": "ok",
+  "pages": 6,
+  "categories": 1
+ },
+ {
+  "slug": "atfunded",
+  "name": "ATFunded",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "2funded",
+  "name": "2Funded",
+  "status": "ok",
+  "pages": 2,
+  "categories": 0
+ },
+ {
+  "slug": "prime-bullwaves",
+  "name": "Prime Bullwaves",
+  "status": "ok",
+  "pages": 14,
+  "categories": 8
+ },
+ {
+  "slug": "quant-tekel",
+  "name": "Quant Tekel",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "quantum-funding",
+  "name": "Quantum Funding",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "funding-frontier",
+  "name": "Funding Frontier",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "tradingfunds",
+  "name": "TradingFunds",
+  "status": "ok",
+  "pages": 16,
+  "categories": 21
+ },
+ {
+  "slug": "hydra-funding",
+  "name": "Hydra Funding",
+  "status": "ok",
+  "pages": 6,
+  "categories": 22
+ },
+ {
+  "slug": "the-newz",
+  "name": "The Newz",
+  "status": "ok",
+  "pages": 2,
+  "categories": 15
+ },
+ {
+  "slug": "bankrollu",
+  "name": "BankrollU",
+  "status": "ok",
+  "pages": 14,
+  "categories": 15
+ },
+ {
+  "slug": "fundedpicks",
+  "name": "FundedPicks",
+  "status": "ok",
+  "pages": 14,
+  "categories": 13
+ },
+ {
+  "slug": "stakesteps",
+  "name": "StakeSteps",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "axi-select",
+  "name": "Axi Select",
+  "status": "ok",
+  "pages": 17,
+  "categories": 13
+ },
+ {
+  "slug": "wagerfunding",
+  "name": "WagerFunding",
+  "status": "ok",
+  "pages": 18,
+  "categories": 14
+ },
+ {
+  "slug": "prop-account",
+  "name": "Prop Account",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "black-eagle-financial-group",
+  "name": "Black Eagle Financial Group",
+  "status": "ok",
+  "pages": 18,
+  "categories": 20
+ },
+ {
+  "slug": "maverick-trading",
+  "name": "Maverick Trading",
+  "status": "ok",
+  "pages": 14,
+  "categories": 12
+ },
+ {
+  "slug": "t3-trading-group",
+  "name": "T3 Trading Group",
+  "status": "ok",
+  "pages": 13,
+  "categories": 8
+ },
+ {
+  "slug": "jane-street",
+  "name": "Jane Street",
+  "status": "ok",
+  "pages": 3,
+  "categories": 6
+ },
+ {
+  "slug": "citadel-securities",
+  "name": "Citadel Securities",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "drw",
+  "name": "DRW",
+  "status": "ok",
+  "pages": 15,
+  "categories": 5
+ },
+ {
+  "slug": "optiver",
+  "name": "Optiver",
+  "status": "ok",
+  "pages": 14,
+  "categories": 6
+ },
+ {
+  "slug": "jump-trading",
+  "name": "Jump Trading",
+  "status": "ok",
+  "pages": 2,
+  "categories": 6
+ },
+ {
+  "slug": "hudson-river-trading",
+  "name": "Hudson River Trading",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "imc-trading",
+  "name": "IMC Trading",
+  "status": "ok",
+  "pages": 14,
+  "categories": 6
+ },
+ {
+  "slug": "tower-research-capital",
+  "name": "Tower Research Capital",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "akuna-capital",
+  "name": "Akuna Capital",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "virtu-financial",
+  "name": "Virtu Financial",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "susquehanna-international-group",
+  "name": "Susquehanna International Group",
+  "status": "ok",
+  "pages": 4,
+  "categories": 3
+ },
+ {
+  "slug": "five-rings",
+  "name": "Five Rings",
+  "status": "ok",
+  "pages": 16,
+  "categories": 2
+ },
+ {
+  "slug": "maven-securities",
+  "name": "Maven Securities",
+  "status": "ok",
+  "pages": 18,
+  "categories": 5
+ },
+ {
+  "slug": "flow-traders",
+  "name": "Flow Traders",
+  "status": "ok",
+  "pages": 9,
+  "categories": 5
+ },
+ {
+  "slug": "xr-trading",
+  "name": "XR Trading",
+  "status": "ok",
+  "pages": 3,
+  "categories": 3
+ },
+ {
+  "slug": "old-mission-capital",
+  "name": "Old Mission Capital",
+  "status": "ok",
+  "pages": 8,
+  "categories": 5
+ },
+ {
+  "slug": "belvedere-trading",
+  "name": "Belvedere Trading",
+  "status": "ok",
+  "pages": 3,
+  "categories": 3
+ },
+ {
+  "slug": "gelber-group",
+  "name": "Gelber Group",
+  "status": "ok",
+  "pages": 10,
+  "categories": 7
+ },
+ {
+  "slug": "myfundedfx",
+  "name": "MyFundedFX",
+  "status": "ok",
+  "pages": 7,
+  "categories": 5
+ },
+ {
+  "slug": "smart-prop-trader",
+  "name": "Smart Prop Trader",
+  "status": "ok",
+  "pages": 6,
+  "categories": 10
+ },
+ {
+  "slug": "true-forex-funds",
+  "name": "True Forex Funds",
+  "status": "ok",
+  "pages": 3,
+  "categories": 3
+ },
+ {
+  "slug": "surgetrader",
+  "name": "SurgeTrader",
+  "status": "ok",
+  "pages": 2,
+  "categories": 0
+ },
+ {
+  "slug": "my-forex-funds",
+  "name": "My Forex Funds",
+  "status": "ok",
+  "pages": 8,
+  "categories": 3
+ },
+ {
+  "slug": "fundingticks",
+  "name": "FundingTicks",
+  "status": "ok",
+  "pages": 1,
+  "categories": 0
+ },
+ {
+  "slug": "vault-funder",
+  "name": "Vault Funder",
+  "status": "ok",
+  "pages": 18,
+  "categories": 10
+ },
+ {
+  "slug": "forfx",
+  "name": "ForFX",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "oanda-prop-trader",
+  "name": "OANDA Prop Trader",
+  "status": "ok",
+  "pages": 21,
+  "categories": 8
+ },
+ {
+  "slug": "seacrest-markets",
+  "name": "Seacrest Markets",
+  "status": "ok",
+  "pages": 7,
+  "categories": 5
+ },
+ {
+  "slug": "100x-club",
+  "name": "100X Club",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "1of1-funding",
+  "name": "1of1 Funding",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "4proptrader",
+  "name": "4PropTrader",
+  "status": "ok",
+  "pages": 14,
+  "categories": 15
+ },
+ {
+  "slug": "5p-investimentos",
+  "name": "5P Investimentos",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "xybit",
+  "name": "Xybit",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "foxify",
+  "name": "Foxify",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "hyperpnl",
+  "name": "HyperPNL",
+  "status": "ok",
+  "pages": 2,
+  "categories": 14
+ },
+ {
+  "slug": "26-miles-capital",
+  "name": "26 Miles Capital",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "323-trading",
+  "name": "323 Trading",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "3red-partners",
+  "name": "3Red Partners",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ },
+ {
+  "slug": "accent-group",
+  "name": "Accent Group",
+  "status": "no-content",
+  "pages": 0,
+  "categories": 0
+ }
+]

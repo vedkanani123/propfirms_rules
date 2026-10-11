@@ -1,0 +1,24 @@
+{
+ "slug": "fundingticks",
+ "name": "FundingTicks",
+ "category": "Historical/Uncertain",
+ "url": "https://fundingticks.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.fundingticks.com/",
+   "kind": "home",
+   "chars": 13
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 13,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

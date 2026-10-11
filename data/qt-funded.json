@@ -1,0 +1,766 @@
+{
+ "slug": "qt-funded",
+ "name": "QT Funded",
+ "category": "Forex/CFD",
+ "url": "https://qtfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://qtfunded.quanttekel.com/",
+   "kind": "home",
+   "chars": 16682
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 542
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6538
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 2539
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/product-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 24451
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/career-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 356
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/resources/from-watching-his-brothers-50k-payout-to-achieving-his-own-a-traders-journey-to-consistency/",
+   "kind": "page",
+   "chars": 10098
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/trading-rules/",
+   "kind": "page",
+   "chars": 4691
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/faq/",
+   "kind": "page",
+   "chars": 4808
+  },
+  {
+   "url": "https://support.qtfunded.com/support",
+   "kind": "page",
+   "chars": 1026
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+   "kind": "page",
+   "chars": 26019
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/resources/traders-dictionary-navigate-key-trading-terms-with-quant-tekel/",
+   "kind": "page",
+   "chars": 9031
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+   "kind": "page",
+   "chars": 43693
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+   "kind": "page",
+   "chars": 26019
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/payout-resolution/",
+   "kind": "page",
+   "chars": 5703
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/consistency-score-calculator/",
+   "kind": "page",
+   "chars": 4721
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/about/",
+   "kind": "page",
+   "chars": 7547
+  },
+  {
+   "url": "https://qtfunded.quanttekel.com/resources/choosing-your-path-to-success-a-guide-to-prop-trading-evaluation-types/",
+   "kind": "page",
+   "chars": 8493
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 202974,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "NT \u2014 one time fee For traders who want size and a longer runway to earn it. Profit Target 8% then 5% Profit split 80% Payout cycle 14 days Max drawdown 8% Account sizes $10K to $200K Start with QT Two Popular \u2014 one time fee For traders who want f",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "ular \u2014 one time fee For traders who want funded fast with nothing in the way. Profit Target 6% Profit split 70% Payout cycle 4 days Max drawdown 6% static Account sizes $5K to $100K Start with QT One \u2014 one time fee For traders who are done proving",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "\u2014 one time fee For traders who are done proving it and want the whole upside. Profit Target None Profit split 100% Payout cycle 4 days Max drawdown 6% trailing Account sizes $5K to $100K Start with QT Instant QT POWER \u2014 one time fee The cheapest 2-step in the industry",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7",
+    "snippet": "performance throughout the evaluation process. Evaluation Objectives Phase One \u2014 Profit Target: 7% Phase Two \u2014 Profit Target: 5% Risk Parameters Daily Drawdown: 4% (Static) Maximum Drawdown: 10% (Static) Both drawdown limits are calculated using the original acc",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "luation process. Evaluation Objectives Phase One \u2014 Profit Target: 7% Phase Two \u2014 Profit Target: 5% Risk Parameters Daily Drawdown: 4% (Static) Maximum Drawdown: 10% (Static) Both drawdown limits are calculated using the original account balance. Evaluation Rules",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "E 1 Step QT TWO 2 Step QT INSTANT No Evaluation Profit target 6% 8% then 5% None Daily drawdown 3% trailing 4% 3% fixed Max drawdown 6% static 8% 6% trailing Profit split 70% 80% 100% Payout cycle 4 days 14 days 4 days Consistency score None None 30% Drawdow",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Evaluation Stage and Funded Stage, you should not exceed the maximum loss & maximum daily loss limits: QT PRIME: 2-Step & 3-Step: 10% Maximum loss limit & 4% Max Daily loss limit. Drawdown is Static Based on Initial Balance QT POWER: 8% Maximum loss limit based on initial balance & 4% Max Daily loss l",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "es Phase One \u2014 Profit Target: 7% Phase Two \u2014 Profit Target: 5% Risk Parameters Daily Drawdown: 4% (Static) Maximum Drawdown: 10% (Static) Both drawdown limits are calculated using the original account balance. Evaluation Rules Throughout the evaluation, traders",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "8",
+    "snippet": "to earn it. Profit Target 8% then 5% Profit split 80% Payout cycle 14 days Max drawdown 8% Account sizes $10K to $200K Start with QT Two Popular \u2014 one time fee For traders who want funded fast with nothing in the way. Profit Target 6% Profit spl",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "h nothing in the way. Profit Target 6% Profit split 70% Payout cycle 4 days Max drawdown 6% static Account sizes $5K to $100K Start with QT One \u2014 one time fee For traders who are done proving it and want the whole upside. Profit Target None Profi",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "oss Limits During the Evaluation Stage and Funded Stage, you should not exceed the maximum loss & maximum daily loss limits: QT PRIME: 2-Step & 3-Step: 10% Maximum loss limit & 4% Max Daily loss limit. Drawdown is Static Based on Initial Balance QT POWER: 8% Maximum loss limit based on initial balance & 4% Max Daily loss l",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "exceed the maximum loss & maximum daily loss limits: QT PRIME: 2-Step & 3-Step: 10% Maximum loss limit & 4% Max Daily loss limit. Drawdown is Static Based on Initial Balance QT POWER: 8% Maximum loss limit based on initial balance & 4% Max Daily loss limit based on End of Day",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "60",
+    "snippet": "Trading. Your Brokerage & Prop Partner. Skip to content October offer: 60% off + a free full-size account + 10% profit share with code 60PLUS \u00b7 ends 14 October Funded CFDs Futures QT Cap Evaluations Affiliates FAQs Company Careers EN Sign In Get funded Evaluations Affiliates FA",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "want size and a longer runway to earn it. Profit Target 8% then 5% Profit split 80% Payout cycle 14 days Max drawdown 8% Account sizes $10K to $200K Start with QT Two Popular \u2014 one time fee For traders who want funded fast with nothing in the way.",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "70",
+    "snippet": "ers who want funded fast with nothing in the way. Profit Target 6% Profit split 70% Payout cycle 4 days Max drawdown 6% static Account sizes $5K to $100K Start with QT One \u2014 one time fee For traders who are done proving it and want the whole upside",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "are done proving it and want the whole upside. Profit Target None Profit split 100% Payout cycle 4 days Max drawdown 6% trailing Account sizes $5K to $100K Start with QT Instant QT POWER \u2014 one time fee The cheapest 2-step in the industry. Trade t",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "own on purpose rather than buried. 60% OFF in all accounts + free account + 10% profit share Ends October 14 Code: 60PLUS Want to see how our plans perform in real market conditions? We break down strategies, trades, and performance insights every week o",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "Progrmme - offering a salaried role, daily payouts and even more benefits Up to 90% Profit Split Traders start at 80% with the option to add +10% at checkout. Through our Scaling Plan, splits can reach 90%. We designed the structure so that the longer you stay and",
+    "url": "https://qtfunded.quanttekel.com/about/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "4",
+    "snippet": "g 1st violation is a soft breach, 2nd violation is a hard breach 1% max per symbol Min trading days when funded 4 4 at +0.5% 4 at +1% Inactivity rule 7 days None 14 days Account sizes $5K to $100K $10K to $200K $5K to $100K Platforms MT5, TradeLocker MT5, TradeLocker MT5, Trad",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "d to meet specific minimum trading days in each phase. QT PRIME 2 Step Account: 4 Minimum Days 3 Step Account: 4 Minimum Days Funded Account: 4 Minimum Days % 2 x +0.5% profit each (closed each day) QT POWER 2 Step Account: 4 Minimum Days Funded Account: 4 M",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "2 Step Account: 4 Minimum Days 3 Step Account: 4 Minimum Days Funded Account: 4 Minimum Days % 2 x +0.5% profit each (closed each day) QT POWER 2 Step Account: 4 Minimum Days Funded Account: 4 Minimum Days QT INSTANT 5 Minimum Days (d) Funded Stage P",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "ch (closed each day) QT POWER 2 Step Account: 4 Minimum Days Funded Account: 4 Minimum Days QT INSTANT 5 Minimum Days (d) Funded Stage Profit Splits & Payout Frequence: QT PRIME \u2013 80% Profit Split with Biweekly Payouts QT POWER \u2013 80% Profit Split with Payout on Demand",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "300",
+    "snippet": "fie H. $2,703.20 Hiren S. $17,000,000+ Paid out to traders Up to $300K Simulated Capital 125,000+ Traders Trust the System worldwide \u27a4 Expand your trading knowledge \u27a4 Select the evaluation that suits you \u27a4 Earn real reward",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "you \u27a4 Earn real rewards \u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one tim",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "\u27a4 Earn real rewards \u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one time fee",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "rn real rewards \u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one time fee For",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "al rewards \u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one time fee For trade",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "wards \u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one time fee For traders who",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "\u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one time fee For traders who want",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "17",
+    "snippet": "luations Affiliates FAQs Company Careers Sign In Get funded 125,000+ traders $17m+ in rewards paid 182+ Countries Trade our capital. Get paid every 4 days. One target. One plan. No hidden rules. 6% target, 6% static drawdown, no consistency rule,",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,22",
+    "snippet": "for trading losses. 13,012 reviews. All of them public. Read them yourself $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,68",
+    "snippet": "13,012 reviews. All of them public. Read them yourself $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,27",
+    "snippet": "ublic. Read them yourself $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,54",
+    "snippet": "lf $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7,58",
+    "snippet": "$5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6,223.20 Ammad A. $5,6",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,15",
+    "snippet": "hyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A.",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,24",
+    "snippet": "$4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,83",
+    "snippet": "$7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,5",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,63",
+    "snippet": "V. $10,153.80 Harry Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $1",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,70",
+    "snippet": "Arthur P A. $3,241.60 Alija S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "17,00",
+    "snippet": "a S. $4,839.20 Taha R. $2,631.20 Alfie H. $2,703.20 Hiren S. $17,000,000+ Paid out to traders Up to $300K Simulated Capital 125,000+ Traders Trust the System worldwide \u27a4 Expand your trading knowledge \u27a4 Select the ev",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "static",
+    "snippet": "pital. Get paid every 4 days. One target. One plan. No hidden rules. 6% target, 6% static drawdown, no consistency rule, no news rule, no minimum trading days. Get Funded Find my plan Simulated capital. Rewards are not guaranteed. You are not liable for trading los",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trailing",
+    "snippet": "y issued on the same business day. Evaluation Objectives Profit Target: 6% Daily Trailing Drawdown: 3% Maximum Trailing Drawdown: 6% No minimum trading days. The profit target may be achieved in a single trading day. No consistency score requirement. Evaluation R",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule, no news rule, no minimum trading days",
+    "snippet": "y 4 days. One target. One plan. No hidden rules. 6% target, 6% static drawdown, no consistency rule, no news rule, no minimum trading days. Get Funded Find my plan Simulated capital. Rewards are not guaranteed. You are not liable for trading losses. 13,012 reviews. All of them public. Read them your",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Requirement \n No individual trading day may account for more than 25% of the trader\u2019s total accumulat",
+    "snippet": "mes fixed at the original starting balance and will no longer trail future profits. Consistency Requirement No individual trading day may account for more than 25% of the trader\u2019s total accumulated profit at the time a withdrawal request is submitted. Part II: Operational Terms 7. Account Management Account Responsibility The registered a",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Bi-weekly",
+    "snippet": "Other Firms Other Firms Profit Target 6% 10% Profit Split Up to 100% 80% Payout Speed Bi-weekly Monthly Price Starts at $5 Starts at $13 Pass a simulated trading evaluation, earn access to up to $300K in funded capital, and keep up to 90% of profits. St",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "on Demand",
+    "snippet": "ed Stage Profit Splits & Payout Frequence: QT PRIME \u2013 80% Profit Split with Biweekly Payouts QT POWER \u2013 80% Profit Split with Payout on Demand QT INSTANT \u2013 80% with Biweekly Payouts Rules of Demo/Simulation Trading (a) Account Inactivity The account cannot be inactive for more than 30 calendar days. Ina",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "up to 22.5% commissions Join Affiliate Program One target. One plan. No surprises Three things separate us, and they are the three things traders actually complain about everywhere else. Get started with QT One Pass In A Single Day A 6% tar",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "thdraw, simply head to the home page and click Request Payout. Enter your preferred crypto wallet details, submit your request, and our team will get to work processing your withdrawal. We aim to approve payouts within 1 business day. As long as you\u2019ve met th",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "WISE",
+    "snippet": "W OR IN WHICH MANNER YOU SHOULD PERFORM TRANSACTIONS WHEN USING THE SERVICES OR OTHERWISE, OR ANY OTHER SIMILAR INFORMATION ABOUT THE INVESTMENT TOOLS TRADED, NOR DOES THE PROVIDER ACCEPT ANY SUCH GUIDANCE, INSTRUCTIONS, OR INFORMATION FROM YOU. NONE OF THE S",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "ment We accept the following forms of payment: Visa, Mastercard, American Express, PayPal, and Cryptocurrency. You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. Cancellation Al",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "tal Fast, Reliable Payouts No Hidden Rules 24/7 Trader Support Prove Your Edge. Scale Up to $300K. Get Funded QT Funded vs Other Firms Other Firms Profit Target 6% 10% Profit Split Up to 100% 80% Payout Speed Bi-weekly Monthly Price Starts at",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "authorised by",
+    "snippet": ". Brokerage Services (Separate Entity) Quant Tekel (Pty) Ltd is a regulated broker authorised by the Financial Sector Conduct Authority (FSP No. 53227) in South Africa. It provides brokerage services only to permitted jurisdictions within Africa and Asia via quanttekel.com. QTFunded.com does not offer brokerage,",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": ".com/wp-content/uploads/2024/11/Blog-2.jpg https://qtfunded.quanttekel.com/resources/master-the-markets-qt-launches-comprehensive-forex-trading-course-with-zamco/ 2025-06-20T05:03:34+00:00 https://qtfunded.quanttekel.com/wp-content/uploads/2024/11/Blog-2.jpg https://qtfunded.quanttekel.com/resources/the-evolving-landscape-of-proprietary-t",
+    "url": "https://qtfunded.quanttekel.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "g Started Learn how QT | FUNDED works, from evaluation to funded accounts, trading basics, and platform setup. QT Capital Learn more about QT Capital Trading Rules & Risk Management Understand the core trading rules, risk limits, and policies that govern your account.",
+    "url": "https://support.qtfunded.com/support",
+    "kind": "page"
+   },
+   {
+    "value": "regulated by",
+    "snippet": "oprietary trading arm of Quant Tekel \u2014 founded in 2023, headquartered in London, and regulated by the Financial Sector Conduct Authority in South Africa (FSCA licence 53227). We built QT with one principle: the more profitable you are, the better it gets. For you and for us. We serve over 120,000 traders worldwide, have paid out more than",
+    "url": "https://qtfunded.quanttekel.com/about/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Quant Tekel - The Future Of Trading. Your Brokerag",
+    "snippet": "Quant Tekel - The Future Of Trading. Your Brokerage & Prop Partner. Skip to content October offer: 60% off + a free full-size account + 10% profit share with code 60PLUS \u00b7 ends 14 October Funded CFDs Futu",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "free activation account of sa",
+    "snippet": "ant funded fast with nothing in the way. 60PLUS applies to activation - 60% off + free activation account of same size Profit Target 6% Profit split 80% Payout cycle 14 days Max drawdown 6% trailing Activation fee $180 Start with Buy Now Pay Later New Plans QT Power",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Risk exposure on funded stag",
+    "snippet": "n 60 seconds Within 60 seconds News rule None Restricted - profit forfeited None Risk exposure on funded stage 1% max floating loss 1% max floating 1st violation is a soft breach, 2nd violation is a hard breach 1% max per symbol Min trading days when funded 4 4 at +0.5% 4 at +",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Imran Alao , 6 hours ag",
+    "snippet": "ur Traders Great 3.9 out of 5 based on 13,012 reviews Trustpilot Verified Imran Alao , 6 hours ago Great customer support Great customer support. I have an issue with my account in which a customer support representative, Ben help me out on it swiftly. Verified",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Udaya Krishnan , 2 days ag",
+    "snippet": "which a customer support representative, Ben help me out on it swiftly. Verified Udaya Krishnan , 2 days ago Trustworthy firm Really great support, waiting for a payout now, Diego Asta was especially very quick and helpful, gonna buy another account very soon with QT funded,",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nh , 4 days ag",
+    "snippet": "pt responses from diego have earned my trust on this firm Verified Duy Nguy\u1ec5n Th\u00e0nh , 4 days ago I am really impressed with\u2026 I am truly impressed with the working attitude of the fund's staff. Everyone is enthusiastic, professional, and always ready to help, even",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ing attitude of the fund's staff. Everyone is enthusia",
+    "snippet": "n Th\u00e0nh , 4 days ago I am really impressed with\u2026 I am truly impressed with the working attitude of the fund's staff. Everyone is enthusiastic, professional, and always ready to help, even with the smallest questions. Their dedication and friendliness make me feel secure and respected throughout the entire",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ABHAY THAKUR , 15 hours ag",
+    "snippet": "entire process. An excellent experience and well deserving of 5 stars! Verified ABHAY THAKUR , 15 hours ago Till date I have traded in 5\u2026 till date I have traded in 5 prop firms and I haven't seen that EURUSD is having no spreads in Quant Tekel , that's the most impressive",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "15923693",
+    "snippet": "rocessing Customer payments for QTFunded services are processed by Quant Tekel Ltd (Company Number: 15923693) as part of group treasury operations. Quant Tekel Ltd performs internal treasury functions for the Quant Tekel corporate group and does not provide regulated financial",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "not available to residents of Cyprus, Iran, North Korea, Sudan, Syria, Russia, or any other jurisdiction where the offer",
+    "snippet": "here such activities would be unlawful. Our virtual proprietary trading programs are not available to residents of Cyprus, Iran, North Korea, Sudan, Syria, Russia, or any other jurisdiction where the offering would be contrary to local laws or regulations. While we may onboard clients from the United States, MetaQuotes-based services (e.g",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund of the registration fees as the service is directly delivered after purchase",
+    "snippet": "ess the Quant Tekel platform, models and services. The Customer is not entitled to a refund of the registration fees as the service is directly delivered after purchase. No refund applies to the service that Quant Tekel offers. Table Of Contents Our Services Intellectual Property Rights Your use of our services Client Account Ac",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "refund applies to the service that Quant Tekel offers",
+    "snippet": "und of the registration fees as the service is directly delivered after purchase. No refund applies to the service that Quant Tekel offers. Table Of Contents Our Services Intellectual Property Rights Your use of our services Client Account Activity and KYC Verification Policy Your Submissions User",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "refundable",
+    "snippet": "ion for all purchases made via the Services. Cancellation All purchases are non-refundable. You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. Prohibited Activit",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "refund, compensation, or any other remedy against Quant Tekel SVG or any entity within the Quant Tekel corporate group",
+    "snippet": "ssly acknowledges and agrees that such events do not constitute grounds for a claim, refund, compensation, or any other remedy against Quant Tekel SVG or any entity within the Quant Tekel corporate group. All evaluation programs are provided on an \u201cas is\u201d basis. Quant Tekel SVG makes no warranty, express or implied, regarding uninterrupte",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed \n \n Up to $300K Simulated Capital Fast, Reliable Payouts No Hidden Rules 24/7 Trader Support \n \n Pr",
+    "snippet": "e QT Funded Profit Targets From 6% Up to 100% Reward Split No Minimum Trading Days News Trading Allowed Up to $300K Simulated Capital Fast, Reliable Payouts No Hidden Rules 24/7 Trader Support Prove Your Edge. Scale Up to $300K. Get Funded QT Funded vs Other Firms Other Firms Profit Target 6% 10% Profit Split Up to 100% 80% Payout Speed B",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading and Weekend Holdings \n QT PRIME, QT POWER, QT INSTANT: Trades can be held over the weekend",
+    "snippet": "30 calendar days. Inactive means no trades have been executed on the account. (b) News Trading and Weekend Holdings QT PRIME, QT POWER, QT INSTANT: Trades can be held over the weekend. QT PRIME & QT INSTANT: Trades must not be initiated within 5 minutes before or after a Red Folder news release per Forex Factory. Positions opened more tha",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "news trading, and unprofessional trading behaviors that are unsustainable in the long term",
+    "snippet": "ere to legitimate trading practices and refrain from any type of toxic trading flow, news trading, and unprofessional trading behaviors that are unsustainable in the long term. Best Practices Having clear trading plans and realistic goals Avoid gambling behavior Choose your trading assets and get to know them Stay connected to the worl",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "News Trading \n High-impact economic announcements may create exceptional market volatility, widened spreads, increased s",
+    "snippet": "on may also constitute a breach of the All-or-Nothing Trading Rule. 1.2 High-Impact News Trading High-impact economic announcements may create exceptional market volatility, widened spreads, increased slippage and unpredictable market conditions. To encourage disciplined trading and effective risk management, trading activity is restricte",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ead them yourself \n \n $6,223",
+    "snippet": "ed. You are not liable for trading losses. 13,012 reviews. All of them public. Read them yourself $6,223.20 Ammad A. $5,684.00 Idiris Muhyadi A. $4,272.00 Bruno J. $4,543.60 Daniele O. $7,584.00 Bhavin V. $10,153.80 Harry Arthur P A. $3,241.60 Alija",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn real rewards \n \n \u00d7 \n \n Choose Your Evaluation \n Choose your account size $5K $10K $25K $50K $100K $200K \n $5K $10K ",
+    "snippet": "\u27a4 Expand your trading knowledge \u27a4 Select the evaluation that suits you \u27a4 Earn real rewards \u00d7 Choose Your Evaluation Choose your account size $5K $10K $25K $50K $100K $200K $5K $10K $25K $50K $100K $200K Choose trading platform MetaTrader 5 TradeLocker Choose a plan QT TWO QT ONE QT INSTANT \u2014 one time fee For traders who want size and a lo",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn it",
+    "snippet": "ONE QT INSTANT \u2014 one time fee For traders who want size and a longer runway to earn it. Profit Target 8% then 5% Profit split 80% Payout cycle 14 days Max drawdown 8% Account sizes $10K to $200K Start with QT Two Popular \u2014 one time fee F",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eapest 2-step in the industry",
+    "snippet": "unt sizes $5K to $100K Start with QT Instant QT POWER \u2014 one time fee The cheapest 2-step in the industry. Trade the news freely, set up for success. Profit Target 6% Profit split 80% Payout cycle 14 days Max drawdown 8% Account sizes $5K to $100K Start with Q",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each,\n2nd violation is a hard breach 1% max per symbol \n Min trading days when funded 4 4 at +0",
+    "snippet": "osure on funded stage 1% max floating loss 1% max floating 1st violation is a soft breach, 2nd violation is a hard breach 1% max per symbol Min trading days when funded 4 4 at +0.5% 4 at +1% Inactivity rule 7 days None 14 days Account sizes $5K to $100K $10K to $200K $5K to $100K Platforms MT5, TradeLocker MT5, TradeLocker MT5, TradeLocke",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "ion or damage arising directly or indirectly from: Internet connectivity failures. VPS failures. Platform outages. Liquidity interruptions. Delayed order execution. Slippage. Widened spreads. Market closures. Exchange outages. User error. Compromised devic",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Within 60 seconds Within 60 s",
+    "snippet": "out cycle 4 days 14 days 4 days Consistency score None None 30% Drawdown lock on withdrawal None None Yes, +3% buffer Stop loss rule None Within 60 seconds Within 60 seconds News rule None Restricted - profit forfeited None Risk exposure on funded stage 1% max floating loss 1% max floating 1st violation is a soft breach, 2nd violat",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 1 business day",
+    "snippet": "request, and our team will get to work processing your withdrawal. We aim to approve payouts within 1 business day. As long as you\u2019ve met the requirements, you can request a withdrawal every 4 trading days with QT ONE, 7 days with Instant, while QT TWO allows withdrawals once every",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instant",
+    "snippet": "ts within 1 business day. As long as you\u2019ve met the requirements, you can request a withdrawal every 4 trading days with QT ONE, 7 days with Instant, while QT TWO allows withdrawals once every two weeks. Simple, straightforward, and easy to track from your dashboard. New challenges, promo codes & trader t",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit cap, allowing traders to maximise performance throughout the evaluation process",
+    "snippet": "intaining disciplined risk management. Unlike capped evaluation models, there is no profit cap, allowing traders to maximise performance throughout the evaluation process. Evaluation Objectives Phase One \u2014 Profit Target: 7% Phase Two \u2014 Profit Target: 5% Risk Parameters Daily Drawdown: 4% (Static) Maximum Drawdown: 10% (Static) Bo",
+    "url": "https://qtfunded.quanttekel.com/terms-of-service/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plan, splits can reach 90%",
+    "snippet": "fit Split Traders start at 80% with the option to add +10% at checkout. Through our Scaling Plan, splits can reach 90%. We designed the structure so that the longer you stay and the better you perform, the more you keep. Award-Winning, Globally Recognised Best New Prop Firm",
+    "url": "https://qtfunded.quanttekel.com/about/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC Verification Policy\n Your Submissions\n User Representations\n User Registration\n Purchase and Payment\n Cancell",
+    "snippet": "Intellectual Property Rights Your use of our services Client Account Activity and KYC Verification Policy Your Submissions User Representations User Registration Purchase and Payment Cancellation Prohibited Activities User Generated Contributions Contribution Licence Services Management Privacy Policy QT Evaluation Stage and Funded Stage ",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC Verification Policy \n Upon request by the Company, you may be required to complete our onboarding process, wh",
+    "snippet": "access solely for your personal, non-commercial use. Client Account Activity and KYC Verification Policy Upon request by the Company, you may be required to complete our onboarding process, which includes due diligence and client verification procedures. This process involves collecting identification documents, including non-public perso",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC service providers",
+    "snippet": "financing of terrorism (\u201cAML/CFT\u201d) laws, conducted by the Company\u2019s third-party AML/KYC service providers. Any client of the Company who has not completed the most recent and up-to-date Know Your Customer (KYC) verification shall not be deemed to possess an active account w",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation fee $180 \n \n Start with Buy Now Pay Later \n New Plans QT Power Buy Now Pay Later \n \n Show the full comparison",
+    "snippet": "fit Target 6% Profit split 80% Payout cycle 14 days Max drawdown 6% trailing Activation fee $180 Start with Buy Now Pay Later New Plans QT Power Buy Now Pay Later Show the full comparison Rule QT ONE 1 Step QT TWO 2 Step QT INSTANT No Evaluation Profit target 6% 8% then 5% None Daily drawdown 3% trailing 4% 3% fixed Max drawdown 6% static",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription fees and do not constitute client money or investment deposits",
+    "snippet": "itions. No real trading occurs, and funds paid to enter an evaluation are considered subscription fees and do not constitute client money or investment deposits. Brokerage Services (Separate Entity) Quant Tekel (Pty) Ltd is a regulated broker authorised by the Financial Sector Conduct Authority (FSP No. 53227) in South Africa.",
+    "url": "https://qtfunded.quanttekel.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription at any time by logging into your account",
+    "snippet": "he Services. Cancellation All purchases are non-refundable. You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. Prohibited Activities As a user of the Services, you agree not to: Systematically retrieve",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "Subscriptions \n We operate on a one-time payment model only",
+    "snippet": "a forfeit of any accounts and/or accrued simulated profits. Recurring payments / Subscriptions We operate on a one-time payment model only. We do not offer, facilitate, or enroll customers in recurring billing or subscription services. Giveaway Account Winner Obligations Winners of promotional or giveaw",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription services",
+    "snippet": "model only. We do not offer, facilitate, or enroll customers in recurring billing or subscription services. Giveaway Account Winner Obligations Winners of promotional or giveaway evaluation accounts are subject to the following additional requirements to qualify for payou",
+    "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "h Buy Now Pay Later New Plans QT Power Buy Now Pay Later Show the full comparison Rule QT ONE 1 Step QT TWO 2 Step QT INSTANT No Evaluation Profit target 6% 8% then 5% None Daily drawdown 3% trailing 4% 3% fixed Max drawdown 6% static 8% 6% trailing Pr",
+   "url": "https://qtfunded.quanttekel.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "g Account sizes $5K to $100K Start with QT Instant QT POWER \u2014 one time fee The cheapest 2-step in the industry. Trade the news freely, set up for success. Profit Target 6% Profit split 80% Payout cycle 14 days Max drawdown 8% Account sizes $5K",
+   "url": "https://qtfunded.quanttekel.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "nded Stage, you should not exceed the maximum loss & maximum daily loss limits: QT PRIME: 2-Step & 3-Step: 10% Maximum loss limit & 4% Max Daily loss limit. Drawdown is Static Based on Initial Balance QT POWER: 8% Maximum loss limit based on initial balance & 4% M",
+   "url": "https://qtfunded.quanttekel.com/terms-and-conditions-general/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "yout cycle 14 days Max drawdown 8% Account sizes $5K to $100K Start with QT Power BUY NOW PAY LATER \u2014 one time fee For traders who want funded fast with nothing in the way. 60PLUS applies to activation - 60% off + free activation account of same size",
+   "url": "https://qtfunded.quanttekel.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "cTrader",
+  "TradeLocker"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "60PLUS",
+   "context": "ip to content October offer: 60% off + a free full-size account + 10% profit share with code 60PLUS \u00b7 ends 14 October Funded CFDs Futures QT Cap Evaluati"
+  },
+  {
+   "code": "QTINSTANT40",
+   "context": "ee QT Instant of equal size on purchase. Two accounts for less than the price of one. Use code QTINSTANT40 . Get the latest trading insights delivered to you"
+  }
+ ],
+ "claims": [
+  "areers EN Sign In Get funded Evaluations Affiliates FAQs Company Careers Sign In Get funded 125,000+ traders $17m+ in rewards paid 182+ Countries Trade our capital. G",
+  "Evaluations Affiliates FAQs Company Careers Sign In Get funded 125,000+ traders $17m+ in rewards paid 182+ Countries Trade our capital. Get paid every 4 days. One target. O",
+  "H. $2,703.20 Hiren S. $17,000,000+ Paid out to traders Up to $300K Simulated Capital 125,000+ Traders Trust the System worldwide \u27a4 Expand your trad",
+  "tfunded.quanttekel.com/careers/latam-regional-manager/ 2026-04-08T07:22:18+00:00 From Watching His Brother's \u00a350K Payout to Achieving His Own: A Trader's Journey to Consistency - Q",
+  "Evaluations Affiliates FAQs Company Careers Sign In Get funded Blog \u203a From Watching His Brother\u2019s \u00a350K Payout to Achieving His Own: A Trader\u2019s Journey to Consistency P",
+  "her\u2019s \u00a350K Payout to Achieving His Own: A Trader\u2019s Journey to Consistency Prop From Watching His Brother\u2019s \u00a350K Payout to Achieving His Own: A Trader\u2019s Journey to Consistency"
+ ],
+ "errors": []
+}

@@ -1,0 +1,12 @@
+{
+ "slug": "wall-st-funded",
+ "name": "Wall St. Funded",
+ "category": "Forex/CFD",
+ "url": "https://wallstfunded.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -2] Name or service not known>"
+ ]
+}

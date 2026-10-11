@@ -1,0 +1,634 @@
+{
+ "slug": "funded-elite",
+ "name": "Funded Elite",
+ "category": "Forex/CFD",
+ "url": null,
+ "status": "ok",
+ "discovery": {
+  "url": "https://fundedelite.com/",
+  "evidence": "name+8 prop-firm signals on homepage",
+  "tried": [
+   "https://fundedelite.com/"
+  ]
+ },
+ "pages": [
+  {
+   "url": "https://fundedelite.com/",
+   "kind": "home",
+   "chars": 22005
+  },
+  {
+   "url": "https://fundedelite.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 8287
+  },
+  {
+   "url": "https://fundedelite.com/cheap-prop-fund-challenge",
+   "kind": "page",
+   "chars": 4562
+  },
+  {
+   "url": "https://fundedelite.com/challenges/catalyst",
+   "kind": "page",
+   "chars": 21026
+  },
+  {
+   "url": "https://fundedelite.com/challenges/instant-funding",
+   "kind": "page",
+   "chars": 20116
+  },
+  {
+   "url": "https://fundedelite.com/challenges/free-retry",
+   "kind": "page",
+   "chars": 20424
+  },
+  {
+   "url": "https://fundedelite.com/challenges",
+   "kind": "page",
+   "chars": 526
+  },
+  {
+   "url": "https://fundedelite.com/we-pass-your-prop-firm-challenge-reddit",
+   "kind": "page",
+   "chars": 4659
+  },
+  {
+   "url": "https://fundedelite.com/challenges/flash-activation",
+   "kind": "page",
+   "chars": 20449
+  },
+  {
+   "url": "https://fundedelite.com/how-to-pass-prop-firm-challenge",
+   "kind": "page",
+   "chars": 5474
+  },
+  {
+   "url": "https://fundedelite.com/challenges/custom-challenge",
+   "kind": "page",
+   "chars": 3356
+  },
+  {
+   "url": "https://fundedelite.com/forex-funding-challenge",
+   "kind": "page",
+   "chars": 4400
+  },
+  {
+   "url": "https://fundedelite.com/challenges/lite-account",
+   "kind": "page",
+   "chars": 19117
+  },
+  {
+   "url": "https://fundedelite.com/pattern-day-trader-rules",
+   "kind": "page",
+   "chars": 5044
+  },
+  {
+   "url": "https://faq.fundedelite.com/en/",
+   "kind": "sub",
+   "chars": 1511
+  },
+  {
+   "url": "https://faq.fundedelite.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 16480
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 177451,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "5",
+    "snippet": "m day one. No challenges, no phases, no waiting to prove yourself first. Adjustable Profit Target Set your target between 5% and 10% built to reward consistency, not overtrading. Fast Payouts Your first payout is approved within 14 days. Every payout after, in 7. Scale All The Way To $1M S",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "e simple goal. No second phases. Just complete your profit target and move forward. Profit Target as Low as 2% Set your own target; start from 6% or go as low as 2% to match your strategy. Funding Up to $200K Choose your preferred account size, from $25K to $200K, and scale yo",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "sh Activation Challenge work? Pay just $5 to join the one-phase evaluation. Hit a 6% profit target without exceeding a 3% daily or 6% total drawdown to qualify for funding. After passing, complete KYC, sign the contract, and pay the activation fee to get your funded account instantly. How",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "o test your ability to grow an account responsibly. Traders must hit a predetermined profit target (generally 8-10% of account) within drawdown constraints. If the drawdown of your account are allowed to be maximum 5% for example, you have to be very mantained in your risk in order to",
+    "url": "https://fundedelite.com/how-to-pass-prop-firm-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "ifferent trading styles and experience levels:\u200b 2-Step Challenge Account: Phase 1 Profit Target: 8% Phase 2 Profit Target: 5% Daily Drawdown Limit: 5%\u200b Total Drawdown Limit: 8% Leverage: Up to 1:100 Time Limit: None\u200b Profit Split: Starts at 70%, increasing to 80%",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "to 1:50\u200b Time Limit: None\u200b Profit Split: 80%. \u200b Elite Now (Instant Funding): Profit Target: None\u200b Daily Drawdown Limit: 4% Total Drawdown Limit: 6%\u200b Leverage: Up to 1:50\u200b Time Limit: None\u200b Profit Split: Starts at 75%, increasing up to 95% with a paid add-on. These diverse options allo",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "6",
+    "snippet": "g rules during the challenge? The challenge has a 6% profit target with a maximum 3% daily drawdown and 6% total drawdown (static). There are no minimum trading days required during the evaluation phase, so you can pass as quickly as you meet the profit target. What happens",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "\u200b 2-Step Challenge Account: Phase 1 Profit Target: 8% Phase 2 Profit Target: 5% Daily Drawdown Limit: 5%\u200b Total Drawdown Limit: 8% Leverage: Up to 1:100 Time Limit: None\u200b Profit Split: Starts at 70%, increasing to 80% on the second payout, and up to 95% with a paid add-",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "5%. \u200b Lite Challenge: Profit Target (Phase 1): 8% Profit Target (Phase 2): 5% Daily Drawdown Limit: 4% Total Drawdown Limit: 8%\u200b Leverage: Up to 1:50\u200b Time Limit: None\u200b Profit Split: 80%. \u200b Elite Now (Instant Funding): Profit Target: None\u200b Daily Drawdown Limit:",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "95",
+    "snippet": "ssing. Built for traders, down to the details No Time Limits 24/7 Support Up to 95% Profit Split Built-In Elite Dashboard Built for traders, down to the details No Time Limits 24/7 Support Up to 95% Profit Split Built-In Elite Dashboard No Time Limits 24/7",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "way to $1M and 95% . Start The Catalyst Account Size $25,000 Profit Split \u00b7 80% Start $25K \u2192 Doubles Every Payout \u2192 $1M Built for traders, down to the details No Evaluation Double Every Payout Scale Up to $1M Up to 95% Split AS SEEN ON How It Works The First Payout Is Ju",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "70",
+    "snippet": "rawdown Limit: 8% Leverage: Up to 1:100 Time Limit: None\u200b Profit Split: Starts at 70%, increasing to 80% on the second payout, and up to 95% with a paid add-on. 1-Step Challenge Account: Profit Target: 10% Daily Drawdown Limit: 5% Total Drawdown Limit: 8%\u200b Leverage: Up to 1:100\u200b Time L",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "400",
+    "snippet": "FundedElite | Home Where Traders Become Elite Get funded with up to $400K and keep up to 95% of your profits. Every rule, feature, and process is built to give traders the best chance of success. Get Funded Start for $5 Start for $5 F",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "unded trader Choose your account Select your preferred account type and size up to $300K in simulated funding. Complete the challenge Trade under evaluation rules and reach the required profit target to qualify. Trade as a funded trader Once you pass",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "FundedElite | Catalyst New Challenge The Catalyst Start with a $25K instant account . Every payout doubles your account and lifts your split all the way to $1M and 95% . Start The Catalyst Account Size $25,000 Profit Split \u00b7 80%",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "Profit Target $2,000 Your Payout $1,600 Total Paid So Far $1,600 $25K 01 $50K 02 $100K 03 $200K 04 $400K 05 $800K 06 $1M 07 The new way to scale and get paid Up to 95% Profit Split Start at 80% and climb to 95% as your account grows",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "get $2,000 Your Payout $1,600 Total Paid So Far $1,600 $25K 01 $50K 02 $100K 03 $200K 04 $400K 05 $800K 06 $1M 07 The new way to scale and get paid Up to 95% Profit Split Start at 80% and climb to 95% as your account grows. The more",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "Your Payout $1,600 Total Paid So Far $1,600 $25K 01 $50K 02 $100K 03 $200K 04 $400K 05 $800K 06 $1M 07 The new way to scale and get paid Up to 95% Profit Split Start at 80% and climb to 95% as your account grows. The more you scale,",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "800",
+    "snippet": "Total Paid So Far $1,600 $25K 01 $50K 02 $100K 03 $200K 04 $400K 05 $800K 06 $1M 07 The new way to scale and get paid Up to 95% Profit Split Start at 80% and climb to 95% as your account grows. The more you scale, the more you keep. Do",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "400",
+    "snippet": "FundedElite | Home Where Traders Become Elite Get funded with up to $400K and keep up to 95% of your profits. Every rule, feature, and process is built to give traders the best chance of success. Get Funded Start for $5 Start for $5",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "d process is built to give traders the best chance of success. Get Funded Start for $5 Start for $5 Free Retry Accounts Try again, no extra cost. Instant Accounts Trading immediately, no challenge phase. Custom Challenges Build rules that fit",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "rules that fit your style. Fast Payouts Get paid within 3 days. AS SEEN ON $ 2.3 M Paid out to traders 12, 564 Free retries given 24 hrs Avg. payout processing time 8, 452 Custom accounts created Trader Payout Interviews Real traders shar",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,52",
+    "snippet": "ntly. Trader Payouts Real payouts shared inside our community Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi Arabia $7,500.00 Ayden W United States $4,300.00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7,50",
+    "snippet": "d inside our community Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi Arabia $7,500.00 Ayden W United States $4,300.00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H U",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4,30",
+    "snippet": "no Finland $3,520.00 Harbdulrhazzaq Saudi Arabia $7,500.00 Ayden W United States $4,300.00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D U",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "rhazzaq Saudi Arabia $7,500.00 Ayden W United States $4,300.00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,24",
+    "snippet": "en W United States $4,300.00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 Antti",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "18,04",
+    "snippet": ".00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 Antti eino Finland $3,520.00",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,26",
+    "snippet": "05.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi Arabia",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7,06",
+    "snippet": "240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi Arabia $7,500.00 Ayden W United States",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6,23",
+    "snippet": "Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi Arabia $7,500.00 Ayden W United States $4,300.00 jones Netherlands $10,0",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "No restrictions on strategy, just real flexibility to match how you actually trade. Static Drawdown, Not Trailing Your drawdown is based on your starting balance, not your peak. That means one winning trade won't punish you later for taking a loss. SOLUTIONS How It W",
+    "url": "https://fundedelite.com/challenges/custom-challenge",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules, which helped him fund his education",
+    "snippet": "\ud83c\uddec\ud83c\udde7 Trader Ricardo Price recommends FundedElite for their instant funding and lack of consistency rules, which helped him fund his education. Language \ud83c\uddec\ud83c\udde7 Trader Paul from Hong Kong recommends FundedElite for its transparency, responsive support, and reliable payouts after 18 months of consistent trading.",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules\n Trade your strategy your way",
+    "snippet": "following the rules, you'll receive a free retry on an account of the same size No Consistency Rules Trade your strategy your way. There are no consistency requirements limiting how your profits are made. you're not penalised for having strong trading days. Up to 95% Profit split Keep up to 95% o",
+    "url": "https://fundedelite.com/challenges/free-retry",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirements limiting how your profits are made",
+    "snippet": "t of the same size No Consistency Rules Trade your strategy your way. There are no consistency requirements limiting how your profits are made. you're not penalised for having strong trading days. Up to 95% Profit split Keep up to 95% of the profits you generate. Our profit split is designed to reward traders",
+    "url": "https://fundedelite.com/challenges/free-retry",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "anytime",
+    "snippet": "es Enjoy industry-leading payout speed. Profits delivered instantly, with on-demand withdrawals anytime you request. Risk Desk Support Benefit from the 'Second Chance' Approach Breach a rule? Instantly restart from phase one, learn from mistakes, and continue progressing",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "every 3 days",
+    "snippet": "its You're in full control. Keep up to 95% of your performance rewards, and request payouts as fast as every 3 days. Payouts We're paying out more more than ever before Trader Reviews Real stories and feedback from funded traders Language \ud83c\uddea\ud83c\uddf8 Eduardo Anaya, a trader with four y",
+    "url": "https://fundedelite.com/challenges/instant-funding",
+    "kind": "page"
+   },
+   {
+    "value": "every 14 days",
+    "snippet": "completed. How do payouts and profit splits work? You keep 80% of all profits with payout requests available every 14 days. There's no minimum payout requirement. During the live phase, you need 3 profitable trading days with minimum 0.5% positive P&L, and daily profits cannot exceed 30% of",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "do payouts work? + Submit a payout request twice per week and get wired or sent via crypto inside 48h. The dashboard tracks your eligibility in real time. Can I reset or scale my account? + Yes. Free resets help you keep going if you break a rule, and scaling",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "xpert, our platform equips you with tools, guidance, and real growth opportunities. Scaling Engine Experience industry leading payout times Enjoy industry-leading payout speed. Profits delivered instantly, with on-demand withdrawals anytime you request. Risk Desk Support Benefit from the 'Second Chance' Approach Breach a rule? Instantly r",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "credits Funded Elite\u2019s fair challenge rules and intuitive dashboard for helping him master the discipline and risk management necessary to successfully transition to funded trading. Language \ud83c\uddec\ud83c\udde7 Gupreet Singh Gill recommends Funded Elite for its realistic challenge rules, diverse account options, and professional support, which helped him ",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Try ag",
+    "snippet": "hance of success. Get Funded Start for $5 Start for $5 Free Retry Accounts Try again, no extra cost. Instant Accounts Trading immediately, no challenge phase. Custom Challenges Build rules that fit your style. Fast Payouts Get paid within 3 days",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Harbdulrhazzaq Sa",
+    "snippet": "r Payouts Real payouts shared inside our community Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi Arabia $7,500.00 Ayden W United States $4,300.00 jones Netherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,26",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Elme M Malaysia",
+    "snippet": "etherlands $10,005.00 Harry J United Kingdom $6,240.00 Fluffy Spain $18,048.00 Elme M Malaysia $5,262.00 Jarry H United States $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 Antti eino Finland $3,520.00 Harbdulrhazzaq Saudi A",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The FundedElite key advantag",
+    "snippet": "es $7,065.00 Esher D United Kingdom $6,238.00 Hiveh Brew United Kingdom $5,664 The FundedElite key advantage Funding, payouts, and rules all designed around your success. Get Funded The FundedElite key advantage Every rule is transparent, payouts never stall, and your profi",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "t pass, you can try ag",
+    "snippet": "account is too. Free Retry Accounts Available on select account types , if you don\u2019t pass, you can try again instantly at no extra cost. One setback shouldn\u2019t end your journey. News Trading Allowed Trade high-impact events freely. If there\u2019s opportunity in the markets, you",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Languag",
+    "snippet": "raders every day. Trader Reviews Real stories and feedback from funded traders Language \ud83c\uddea\ud83c\uddf8 Eduardo Anaya, a trader with four years of experience, recommends Funded Elite for its clean interface, fast communication, and unique single-step evaluation process",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "for helping him master the discipline and risk manag",
+    "snippet": "e \ud83c\uddec\ud83c\udde7 Mosam Rezvi credits Funded Elite\u2019s fair challenge rules and intuitive dashboard for helping him master the discipline and risk management necessary to successfully transition to funded trading. Language \ud83c\uddec\ud83c\udde7 Gupreet Singh Gill recommends Funded Elite for its realistic challenge rules, diverse account",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ement necessa",
+    "snippet": "ge rules and intuitive dashboard for helping him master the discipline and risk management necessary to successfully transition to funded trading. Language \ud83c\uddec\ud83c\udde7 Gupreet Singh Gill recommends Funded Elite for its realistic challenge rules, diverse account options, and",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunds and Policies\n Payment methods, buying a challenge, paying with credits, refunds and company details\n 7 articles ",
+    "snippet": "eligible countries, monitoring and how we protect your data 7 articles Billing, Refunds and Policies Payment methods, buying a challenge, paying with credits, refunds and company details 7 articles Affiliate Program Join the affiliate program, earn commissions and offer custom challenges 4 articles Elite Packs Credits, the five packs, ope",
+    "url": "https://faq.fundedelite.com/en/",
+    "kind": "sub"
+   },
+   {
+    "value": "refund-policy 2026-10-08T14:00:34Z https://faq",
+    "snippet": "ts 2026-10-08T14:00:33Z https://faq.fundedelite.com/en/articles/17437472-what-is-the-refund-policy 2026-10-08T14:00:34Z https://faq.fundedelite.com/en/articles/17437478-what-if-i-see-a-charge-i-don-t-recognise 2026-10-08T14:00:36Z https://faq.fundedelite.com/en/articles/17437482-who-operates-fundedel",
+    "url": "https://faq.fundedelite.com/sitemap.xml",
+    "kind": "subsitemap"
+   },
+   {
+    "value": "refunds-and-policies 2026-10-07T15:34:39Z https://faq",
+    "snippet": "ity 2026-10-07T15:34:34Z https://faq.fundedelite.com/en/collections/19776750-billing-refunds-and-policies 2026-10-07T15:34:39Z https://faq.fundedelite.com/en/collections/19776751-affiliate-program 2026-10-07T15:34:44Z https://faq.fundedelite.com/en/collections/19777798-elite-packs 2026-10-08T11:10:03Z",
+    "url": "https://faq.fundedelite.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading Allowed\n Trade high-impact events freely",
+    "snippet": "u can try again instantly at no extra cost. One setback shouldn\u2019t end your journey. News Trading Allowed Trade high-impact events freely. If there\u2019s opportunity in the markets, you should be able to take it. Payouts in 3 Days Request your payout after your trading phase , typically processed within 3 da",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed\n Take advantage of market volatility",
+    "snippet": "s 3 days with the optional payout add-on, giving you faster access to your profits. News Trading Allowed Take advantage of market volatility. News trading is allowed, with no restrictions around major economic events. Custom Rules Choose the profit target and maximum loss that fit your trading style, allowi",
+    "url": "https://fundedelite.com/challenges/free-retry",
+    "kind": "page"
+   },
+   {
+    "value": "News trading is allowed, with no restrictions around major economic events",
+    "snippet": "access to your profits. News Trading Allowed Take advantage of market volatility. News trading is allowed, with no restrictions around major economic events. Custom Rules Choose the profit target and maximum loss that fit your trading style, allowing you to trade under conditions that work for you. Payouts We're paying",
+    "url": "https://fundedelite.com/challenges/free-retry",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eature, and process is built to give traders the best chance of success",
+    "snippet": "e Elite Get funded with up to $400K and keep up to 95% of your profits. Every rule, feature, and process is built to give traders the best chance of success. Get Funded Start for $5 Start for $5 Free Retry Accounts Try again, no extra cost. Instant Accounts Trading immediately, no challenge phase. Custom Challen",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eated\n Trader Payout Interviews Real traders sharing their experience and journey\n \n Your solution to trading challenges",
+    "snippet": "Free retries given 24 hrs Avg. payout processing time 8, 452 Custom accounts created Trader Payout Interviews Real traders sharing their experience and journey Your solution to trading challenges Your path to becoming a funded trader. Whether you're an experienced trader or just starting, our platform offers the opportunities and support ",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead-on",
+    "snippet": "e understand the challenges you face and have designed our platform to address them head-on. Account Freedom Access virtual capital for your success Whether beginner or expert, our platform equips you with tools, guidance, and real growth opportunities. Scal",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal growth opportunities",
+    "snippet": "cess Whether beginner or expert, our platform equips you with tools, guidance, and real growth opportunities. Scaling Engine Experience industry leading payout times Enjoy industry-leading payout speed. Profits delivered instantly, with on-demand withdrawals anytime you reque",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading payout times\n Enjoy industry-leading payout speed",
+    "snippet": "tools, guidance, and real growth opportunities. Scaling Engine Experience industry leading payout times Enjoy industry-leading payout speed. Profits delivered instantly, with on-demand withdrawals anytime you request. Risk Desk Support Benefit from the 'Second Chance' Approach Breach a rule? Instantly rest",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "45648-\u30b0\u30ea\u30c3\u30c9\u30c8\u30ec\u30fc\u30c9 2026-10-09T11:34:17Z https://faq.fundedelite.com/ja/articles/13645671-vpn-vps-\u306e\u4f7f\u7528-ip-\u306e\u5909\u66f4 2026-09-21T13:32:21Z https://faq.fundedelite.com/ja/articles/13645673-ea-\u30a8\u30ad\u30b9\u30d1\u30fc\u30c8\u30a2\u30c9\u30d0\u30a4\u30b6\u30fc 2026-10-09T11:38:50Z https://faq.fundedelite.com/ja/articles/13645685-\u9031\u672b\u6301\u3061\u8d8a\u3057 2026-10-09T11:41:51Z https://faq.funded",
+    "url": "https://faq.fundedelite.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 3 days",
+    "snippet": "tely, no challenge phase. Custom Challenges Build rules that fit your style. Fast Payouts Get paid within 3 days. AS SEEN ON $ 2.3 M Paid out to traders 12, 564 Free retries given 24 hrs Avg. payout processing time 8, 452 Custom accounts created Trader Payout Inte",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 3 Days\n Request your",
+    "snippet": "vents freely. If there\u2019s opportunity in the markets, you should be able to take it. Payouts in 3 Days Request your payout after your trading phase , typically processed within 3 days. Custom Accounts Choose the account size, rules, and drawdowns that match your strategy. Trading sho",
+    "url": "https://fundedelite.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 14 days",
+    "snippet": ", trade your way, on your schedule. Adjustable from 5% to 10%. Get Paid Your first payout is approved within 14 days. Every payout after, in 7. Keep 80% of everything you made. Your Account Doubles A brand new account, double the size of the last one. The further you go, the bigger i",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "in 7",
+    "snippet": "table from 5% to 10%. Get Paid Your first payout is approved within 14 days. Every payout after, in 7. Keep 80% of everything you made. Your Account Doubles A brand new account, double the size of the last one. The further you go, the bigger it gets. Your Profit Split",
+    "url": "https://fundedelite.com/challenges/catalyst",
+    "kind": "page"
+   },
+   {
+    "value": "in 3 Days\n Request payou",
+    "snippet": "ofits you generate. Our profit split is designed to reward traders, not limit them. Payouts in 3 Days Request payouts in as little as 3 days with the optional payout add-on, giving you faster access to your profits. News Trading Allowed Take advantage of market volatility. News trad",
+    "url": "https://fundedelite.com/challenges/free-retry",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "8% Phase 2 Profit Target: 5% Daily Drawdown Limit: 5%\u200b Total Drawdown Limit: 8% Leverage: Up to 1:100 Time Limit: None\u200b Profit Split: Starts at 70%, increasing to 80% on the second payout, and up to 95% with a paid add-on. 1-Step Challenge Account: Profit Target:",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "1:50",
+    "snippet": "% Profit Target (Phase 2): 5% Daily Drawdown Limit: 4% Total Drawdown Limit: 8%\u200b Leverage: Up to 1:50\u200b Time Limit: None\u200b Profit Split: 80%. \u200b Elite Now (Instant Funding): Profit Target: None\u200b Daily Drawdown Limit: 4% Total Drawdown Limit: 6%\u200b Leverage: Up to 1:",
+    "url": "https://fundedelite.com/forex-funding-challenge",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC, sign the contract, and pay the activation fee to get your funded account instantly",
+    "snippet": "ding a 3% daily or 6% total drawdown to qualify for funding. After passing, complete KYC, sign the contract, and pay the activation fee to get your funded account instantly. How much does it cost to get funded? After passing the $5 evaluation, you pay an activation fee based on your account size: $159 for $25K, $329 for $50K, $499 for $10",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "KYC verification, sign the Live Trader Contract on your dashboard, and pay the activation fee",
+    "snippet": "? You'll receive an email confirmation and move directly to the Live Phase. Complete KYC verification, sign the Live Trader Contract on your dashboard, and pay the activation fee. Your funded account will be activated immediately once these steps are completed. How do payouts and profit splits work? You keep 80% of all profits with payout",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "KYC verification, eligible countries, monitoring and how we protect your data\n 7 articles \n \n Billing, Refunds an",
+    "snippet": "work and how to reset an account 6 articles Account, Verification and Security KYC verification, eligible countries, monitoring and how we protect your data 7 articles Billing, Refunds and Policies Payment methods, buying a challenge, paying with credits, refunds and company details 7 articles Affiliate Program Join the affiliate program,",
+    "url": "https://faq.fundedelite.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee to get your funded account instantly",
+    "snippet": "to qualify for funding. After passing, complete KYC, sign the contract, and pay the activation fee to get your funded account instantly. How much does it cost to get funded? After passing the $5 evaluation, you pay an activation fee based on your account size: $159 for $25K, $329 for $50K, $499 for $100",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee based on your account size: $159 for $25K, $329 for $50K, $499 for $100K, or $989 for $200K accounts",
+    "snippet": "y. How much does it cost to get funded? After passing the $5 evaluation, you pay an activation fee based on your account size: $159 for $25K, $329 for $50K, $499 for $100K, or $989 for $200K accounts. The activation fee must be paid within 29 days of passing or the offer expires. What are the trading rules during the challenge? The challe",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee must be paid within 29 days of passing or the offer expires",
+    "snippet": "size: $159 for $25K, $329 for $50K, $499 for $100K, or $989 for $200K accounts. The activation fee must be paid within 29 days of passing or the offer expires. What are the trading rules during the challenge? The challenge has a 6% profit target with a maximum 3% daily drawdown and 6% total drawdown (static). There are no min",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   },
+   {
+    "value": "activation fee",
+    "snippet": "plete KYC verification, sign the Live Trader Contract on your dashboard, and pay the activation fee. Your funded account will be activated immediately once these steps are completed. How do payouts and profit splits work? You keep 80% of all profits with payout reques",
+    "url": "https://fundedelite.com/challenges/flash-activation",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ayouts never stall, and your profitability is protected at each phase of the journey. Get Funded Instant Funding Start trading funded accounts immediately , no long evaluations or delays. When you\u2019re ready to trade, your account is too. Free Retry Accounts Available on",
+   "url": "https://fundedelite.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": ".5 https://fundedelite.com/fundednext 2026-01-16T22:15:14.000Z weekly 0.5 https://fundedelite.com/one-step-prop-firms 2026-01-16T22:14:54.000Z weekly 0.5 https://fundedelite.com/swing-trading-prop-firms 2026-01-16T22:14:38.000Z weekly 0.5 https://fundedelite.com/s",
+   "url": "https://fundedelite.com/sitemap.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "essure. Variety of Challenge Options FundedElite offers different challenge formats like 1-Step, 2-Step, and Lite Challenges, allowing traders to select the best fit for their approach. Clear Trading Regulations FundedElite upholds transparent trading rules, s",
+   "url": "https://fundedelite.com/we-pass-your-prop-firm-challenge-reddit"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "lite.com/prop-firms-with-no-time-limit 2026-01-16T22:16:29.000Z weekly 0.5 https://fundedelite.com/three-step-prop-firm 2026-01-16T22:16:16.000Z weekly 0.5 https://fundedelite.com/the-5-ers 2026-01-16T22:15:58.000Z weekly 0.5 https://fundedelite.com/double-top-patter",
+   "url": "https://fundedelite.com/sitemap.xml"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Crypto",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "The First Payout Is Just the Beginning Six steps, one ladder. Here's how a $25K instant account becomes a $1M payout machine. Start With a $25,000 Instant Funded Account No c",
+  "Flash Activation Challenge Start any account for $5, pay the rest after you pass Get Started for $5 Join 50,000+ traders Built for traders, down to the details Start for $5",
+  "pay an activation fee based on your account size: $159 for $25K, $329 for $50K, $499 for $100K, or $989 for $200K accounts. The activation fee must be paid within 29 days of passing",
+  "SEEN ON Trader Payout Interviews Real traders sharing their experience and journey $ 0 M+ Paid Out 7, 0 Traders Funded $ 0 Average Payout 0 hr Average Processing Time T"
+ ],
+ "errors": []
+}

@@ -1,0 +1,533 @@
+{
+ "slug": "maven-trading",
+ "name": "Maven Trading",
+ "category": "Forex/CFD",
+ "url": "https://maventrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://maventrading.com/",
+   "kind": "home",
+   "chars": 35225
+  },
+  {
+   "url": "https://maventrading.com/sitemap-index.xml",
+   "kind": "sitemap",
+   "chars": 38
+  },
+  {
+   "url": "https://maventrading.com/sitemap-0.xml",
+   "kind": "sitemap",
+   "chars": 3013
+  },
+  {
+   "url": "https://maventrading.com/pt/day-trading-rules",
+   "kind": "page",
+   "chars": 7127
+  },
+  {
+   "url": "https://maventrading.com/day-trading-rules",
+   "kind": "page",
+   "chars": 6579
+  },
+  {
+   "url": "https://maventrading.com/es/day-trading-rules",
+   "kind": "page",
+   "chars": 7355
+  },
+  {
+   "url": "https://maventrading.com/es/pricing",
+   "kind": "page",
+   "chars": 39417
+  },
+  {
+   "url": "https://maventrading.com/pricing",
+   "kind": "page",
+   "chars": 33903
+  },
+  {
+   "url": "https://maventrading.com/pt/pricing",
+   "kind": "page",
+   "chars": 36993
+  },
+  {
+   "url": "https://maventrading.com/lp/choose-your-challenge",
+   "kind": "page",
+   "chars": 31614
+  },
+  {
+   "url": "https://maventrading.com/challenges/1-step",
+   "kind": "page",
+   "chars": 11096
+  },
+  {
+   "url": "https://maventrading.com/pt/prop-firm-challenge",
+   "kind": "page",
+   "chars": 6973
+  },
+  {
+   "url": "https://maventrading.com/challenges/mini",
+   "kind": "page",
+   "chars": 10113
+  },
+  {
+   "url": "https://maventrading.com/es/prop-firm-challenge",
+   "kind": "page",
+   "chars": 7319
+  },
+  {
+   "url": "https://maventrading.com/challenges/3-step",
+   "kind": "page",
+   "chars": 11383
+  }
+ ],
+ "page_count": 15,
+ "total_chars": 248162,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "unt $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. St",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "unt $12 * $13 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not availa",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "account Pay now: $5 Pay later: $40 Refundable on the third withdrawal Buy Challenge Profit target Phase 1 4% Funded N/A Max loss Phase 1 10% Funded 8% Daily loss Phase 1 N/A Funded 4% Profit split Phase 1 N/A Funded 80% Payout frequency Phase 1 N/A Funded Instant Consistency sc",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "e OMO $9 * $19 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 6% Phase 2 8% Funded - Max loss 8% Daily loss 4% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9",
+    "snippet": "unt $40 * $44 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 9% Funded - Profit split Phase 1 N/A Funded 70% Payout frequency Funded 10 business days Max loss Phase 1 5% Funded 8% Sorry, this product is not available in your region.",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 1-Step $2k account $14 * $",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "rd withdrawal Buy Challenge Profit target Phase 1 8% Phase 2 5% Funded - Max loss 8% Daily loss 4% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 2-Step $2k account $18 * $",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "al Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 3-Step $2k account $12 * $",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": ". Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 1-Step $2k acc",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "e on the third withdrawal Buy Challenge Profit target Phase 1 8% Phase 2 5% Funded - Max loss 8% Daily loss 4% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 2-Step $2k acc",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "ird withdrawal Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 3-Step $2k acc",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Refundable on the third withdrawal Buy Challenge Profit target Phase 1 4% Funded N/A Max loss Phase 1 10% Funded 8% Daily loss Phase 1 N/A Funded 4% Profit split Phase 1 N/A Funded 80% Payout frequency Phase 1 N/A Funded Instant Consistency score Phase 1 No Funded 20% Sorry,",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "y Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 1-Step $2k account $14 * $15 *Price with coupon. R",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "70",
+    "snippet": "$16 * $17 *Price with coupon. Buy Challenge Max loss 3% Daily loss 2% Profit split 70% Payout frequency Funded 24 hours Consistency score Funded Yes Sorry, this product is not available in your region. Mini $2k account $16 * $17 *Price with coupon. Buy Challeng",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "62",
+    "snippet": "powering your success in the forex market. 115k+ Discord Members 50k+ Funded traders $62k+ Highest total payout $200M+ Total funding Choose your challenge Choose your account type to begin your simulated trading journey with us. Account Type Standard Instant",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "p 2 Step 3 Step Sorry, this product is not available in your region. Standard 1-Step $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Pay",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "core Funded Yes Sorry, this product is not available in your region. Standard 1-Step $5k account $18 * $19 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Pay",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "core Funded Yes Sorry, this product is not available in your region. Standard 1-Step $10k account $34 * $37 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Pay",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "s Sorry, this product is not available in your region. Most Popular! Standard 1-Step $20k account $62 * $68 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Pay",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "core Funded Yes Sorry, this product is not available in your region. Standard 1-Step $50k account $153 * $170 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% P",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "core Funded Yes Sorry, this product is not available in your region. Standard 1-Step $100k account $342 * $380 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% P",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "62",
+    "snippet": "powering your success in the forex market. 115k+ Discord Members 50k+ Funded traders $62k+ Highest total payout $200M+ Total funding Choose your challenge Choose your account type to begin your simulated trading journey with us. Account Type Standard Instant",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "e forex market. 115k+ Discord Members 50k+ Funded traders $62k+ Highest total payout $200M+ Total funding Choose your challenge Choose your account type to begin your simulated trading journey with us. Account Type Standard Instant NEW! Mini Buy now pay late",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "p 2 Step 3 Step Sorry, this product is not available in your region. Standard 1-Step $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Pa",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "14",
+    "snippet": "ep Sorry, this product is not available in your region. Standard 1-Step $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "15",
+    "snippet": "y, this product is not available in your region. Standard 1-Step $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency Funded",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "18",
+    "snippet": "No Sorry, this product is not available in your region. Standard 2-Step $2k account $18 * $19 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Phase 2 5% Funded - Max loss 8% Daily loss 4% Profit split 80% Payou",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "19",
+    "snippet": "y, this product is not available in your region. Standard 2-Step $2k account $18 * $19 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Phase 2 5% Funded - Max loss 8% Daily loss 4% Profit split 80% Payout frequ",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "12",
+    "snippet": "No Sorry, this product is not available in your region. Standard 3-Step $2k account $12 * $13 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Daily loss 2% Profit spli",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "13",
+    "snippet": "y, this product is not available in your region. Standard 3-Step $2k account $12 * $13 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Daily loss 2% Profit split 80% P",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "is product is not available in your region. Buy Now, Pay Later $2k account Pay now: $5 Pay later: $40 Refundable on the third withdrawal Buy Challenge Profit target Phase 1 4% Funded N/A Max loss Phase 1 10% Funded 8% Daily loss Phase 1 N/A Funded 4% Profi",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "not available in your region. Buy Now, Pay Later $2k account Pay now: $5 Pay later: $40 Refundable on the third withdrawal Buy Challenge Profit target Phase 1 4% Funded N/A Max loss Phase 1 10% Funded 8% Daily loss Phase 1 N/A Funded 4% Profit split Phase 1",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "ded 20% Sorry, this product is not available in your region. Omo 2-Step $2k account $10 OFF with code OMO $9 * $19 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 6% Phase 2 8% Funded - Max loss 8% Daily loss 4% P",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "region. Instant $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded When Requirements are met Consistency score Yes Sorry, this product is not available in your region. Instant $2k account",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "frequ\u00eancia , fluxo de ordens t\u00f3xico , arbitragem longa/curta , arbitragem reversa , scalping de ticks ou manipula\u00e7\u00e3o de execu\u00e7\u00e3o de servidor , \u00e9 estritamente proibido. Hedging Reverso ou em Grupo Usar sua conta para apostar em uma dire\u00e7\u00e3o contra outra conta constitui hedging reverso e \u00e9 considerado fraude. Isso cria uma vantagem i",
+    "url": "https://maventrading.com/pt/day-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "gainst another account constitutes reverse hedging and is considered cheating. This unfairly guarantees a winning position and may result in termination. Hedging You cannot exclusively hedge through a challenge or live account. Many malicious EA hedging bots attempt to exploit the demo environment, making it impossib",
+    "url": "https://maventrading.com/day-trading-rules",
+    "kind": "page"
+   },
+   {
+    "value": "mas",
+    "snippet": "Precios | Programas de Trading Financiado y Tarifas | Maven Trading Skip to main content Tradea Gold Eternal 10% de descuento con el c\u00f3digo Copied CODE: ETERNAL 40% OFF Omo Challenges con el c\u00f3digo Copied CODE: OMO Tradea Gold Eternal 10% de descuento con el c\u00f3digo CODE: ETERNAL 40% OFF Omo C",
+    "url": "https://maventrading.com/es/pricing",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "another challenge type. Learn more about our advantag",
+    "snippet": "score Funded Yes Sorry, this product is not available in your region. Please choose another challenge type. Learn more about our advantages Real trading experience, without the risk. You're four steps away from harnessing your trading skills. It's simple. Here's how it works: Complete a challenge 01 Prove",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Thanks to Maven, I have developed better risk manag",
+    "snippet": "r rules, and professional environment helped me become more disciplined and focused. Thanks to Maven, I have developed better risk management, improved my strategy execution, and learned how to control my emotions while trading. Tanmoy Maity India Till now best experienced with this firm. I have passed",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "k account. My friend passed the account some days ag",
+    "snippet": "nmoy Maity India Till now best experienced with this firm. I have passed 2 step 10 k account. My friend passed the account some days ago. He got his payout as well. So have flll trust with this prop firm. Keep growing and let us grow as well. Keiran United Kingdom Very professional prop firm! Out perfo",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "I can boldly sa",
+    "snippet": "er support is top-notch. Definitely a reliable place for trading. G. Noto Ethiopia I can boldly say this about MAVEN: just focus on trading to your payout\u2014no stress, no fear of denial. Maven doesn\u2019t even have that word in its vocabulary. Rui Almeida Portugal The spr",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ven because of how trustworthy it is and I'm super sa",
+    "snippet": "mins after requesting it, this is my first ever prop firm withdrawal and I choose maven because of how trustworthy it is and I'm super satisfied with my experience till now. Ahsaan Shamraiz Saudi Arabia I\u2019m very satisfied with the service I received. The staff was professional, respectful, and responsive",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "tisfied with my experience till now. Ahsa",
+    "snippet": "firm withdrawal and I choose maven because of how trustworthy it is and I'm super satisfied with my experience till now. Ahsaan Shamraiz Saudi Arabia I\u2019m very satisfied with the service I received. The staff was professional, respectful, and responsive, and everything was handled smoothly fro",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "m very sa",
+    "snippet": "nd I'm super satisfied with my experience till now. Ahsaan Shamraiz Saudi Arabia I\u2019m very satisfied with the service I received. The staff was professional, respectful, and responsive, and everything was handled smoothly from start to finish. Any questions I had",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "to succeed. We prioritize transparency and risk manag",
+    "snippet": "en, our mission is to empower traders by providing them with the resources they need to succeed. We prioritize transparency and risk management, ensuring a supportive environment for long-term growth. Learn more about us Are you ready to start trading? Gain access to elite funding, cutting-edge tools, and t",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "006-0060823-070425",
+    "snippet": "ion in United Arab Emirates, DSO-IFZA, IFZA Properties, Dubai Silicon Oasis with the registration number 006-0060823-070425 and is compliant with all necessary laws and regulations provided in accordance with local and international jurisdictions. Please be aware that we do not offer specific",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "Restricted Countries: Afghanistan, Belarus, Burkina Faso, Burundi, Central African Republic, Congo (Republic of the Cong",
+    "snippet": "high level of risk, and we advise against risking more than you can afford to lose. Restricted Countries: Afghanistan, Belarus, Burkina Faso, Burundi, Central African Republic, Congo (Republic of the Congo), Cuba, Eritrea, Guinea, Guinea-Bissau, Guyana, Haiti, Iran, Mali, North Korea, Russia, Saint Lucia, Sierra Leone, Somalia, South Suda",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit spli",
+    "snippet": "vailable in your region. Standard 1-Step $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Funded - Max loss 5% Daily loss 3% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Standard 1-Step ",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Phase 2 5% Funded - Max loss 8% Daily loss 4% ",
+    "snippet": "vailable in your region. Standard 2-Step $2k account $18 * $19 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 8% Phase 2 5% Funded - Max loss 8% Daily loss 4% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your region. Stand",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable on the third withdrawal Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Dai",
+    "snippet": "vailable in your region. Standard 3-Step $2k account $12 * $13 *Price with coupon. Refundable on the third withdrawal Buy Challenge Profit target Phase 1 3% Phase 2 3% Phase 3 3% Funded - Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded 10 business days Consistency score No Sorry, this product is not available in your re",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable on the third withdrawal Buy Challenge Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded When",
+    "snippet": "is not available in your region. Instant $2k account $14 * $15 *Price with coupon. Refundable on the third withdrawal Buy Challenge Max loss 3% Daily loss 2% Profit split 80% Payout frequency Funded When Requirements are met Consistency score Yes Sorry, this product is not available in your region. Instant $2k account $14 * $15 *Price wit",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ease choose another challenge type",
+    "snippet": "Consistency score Funded Yes Sorry, this product is not available in your region. Please choose another challenge type. Learn more about our advantages Real trading experience, without the risk. You're four steps away from harnessing your trading skills. It's simple. Here's how it works:",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn more about our advantages Real trading experience, without the risk",
+    "snippet": "this product is not available in your region. Please choose another challenge type. Learn more about our advantages Real trading experience, without the risk. You're four steps away from harnessing your trading skills. It's simple. Here's how it works: Complete a challenge 01 Prove your trading powers and complete a challeng",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "easier rules so we know the first trial wasn't just luck",
+    "snippet": "options. Get verified 02 If you're currently on the 2-step challenge, redo it with easier rules so we know the first trial wasn't just luck. Become a funded trader 03 Congratulations! You've got a simulated funded trading account and you can keep 80% of the profits you make. Get paid 04 Our Payout freque",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear from our traders around the world why they chose Maven Biruk\n Ethiopia\n I truly appreciate the professionalism and m",
+    "snippet": "ounts is 10 business days! Check our FAQ and rules Don't just take our word for it Hear from our traders around the world why they chose Maven Biruk Ethiopia I truly appreciate the professionalism and most reliable prop firm out there, the rules are very favourable, their spreads is good, price for their challenges is so fair... Also have",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads is good, price for their challenges is so fair",
+    "snippet": "alism and most reliable prop firm out there, the rules are very favourable, their spreads is good, price for their challenges is so fair... Also have the best support team and very helpful. I would recommend anyone to join them Katarzyna Biernat Poland The structured approach, clear rules, and professio",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "website@maventrading.com",
+    "snippet": "Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia. +971 50 513 1897 +44 7441445241 website@maventrading.com Cookie Consent We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to o",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "1 10% Funded 8% Daily loss Phase 1 N/A Funded 4% Profit split Phase 1 N/A Funded 80% Payout frequency Phase 1 N/A Funded Instant Consistency score Phase 1 No Funded 20% Sorry, this product is not available in your region. Omo 2-Step $2k account $10 OFF with code OMO $9 * $19 *Price with coupon.",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "24 hours",
+    "snippet": "* $17 *Price with coupon. Buy Challenge Max loss 3% Daily loss 2% Profit split 70% Payout frequency Funded 24 hours Consistency score Funded Yes Sorry, this product is not available in your region. Mini $2k account $16 * $17 *Price with coupon. Buy Challenge Max loss 3% Daily loss 2",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 30 mins after requesti",
+    "snippet": "aven! Ravideep Singh India Amazing experience with maven, I just received my first withdrawal today within 30 mins after requesting it, this is my first ever prop firm withdrawal and I choose maven because of how trustworthy it is and I'm super satisfied with my experience till now. Ahsaan Shamraiz",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Subscription failed",
+    "snippet": "in our Privacy Policy and Cookie Policy. Successfully subscribed to our newsletter! Subscription failed. Please try again. Subscribing... Navigation Pricing About us FAQ Contact Log in Resources Blog Careers Affiliates Community Reviews Legal Privacy Policy AML Policy R",
+    "url": "https://maventrading.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "te a challenge 01 Prove your trading powers and complete a challenge or go straight to funded with Instant Funding. Choose any of our 400+ pair options. Get verified 02 If you're currently on the 2-step challenge, redo it with easier rules so we know the first trial wasn'",
+   "url": "https://maventrading.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "nal. 10% off with code CODE: ETERNAL 40% OFF Omo Challenges with code CODE: OMO Products Standard 1-step Standard 2-step Standard 3-step Buy now pay later Instant Mini Omo 2-step Predictions Pricing About us FAQ Contact Resources Blog Careers Affiliates Community",
+   "url": "https://maventrading.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "h code CODE: ETERNAL 40% OFF Omo Challenges with code CODE: OMO Products Standard 1-step Standard 2-step Standard 3-step Buy now pay later Instant Mini Omo 2-step Predictions Pricing About us FAQ Contact Resources Blog Careers Affiliates Community Reviews Log In G",
+   "url": "https://maventrading.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "ERNAL 40% OFF Omo Challenges with code CODE: OMO Products Standard 1-step Standard 2-step Standard 3-step Buy now pay later Instant Mini Omo 2-step Predictions Pricing About us FAQ Contact Resources Blog Careers Affiliates Community Reviews Log In Get started EN ES",
+   "url": "https://maventrading.com/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "r challenge type. Learn more about our advantages Real trading experience, without the risk. You're four steps away from harnessing your trading skills. It's simple. Here's how it works: Complete a challenge 01 Prove your trading powers and complete a challenge or go",
+   "url": "https://maventrading.com/"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "mo Challenges with code CODE: OMO Products Standard 1-step Standard 2-step Standard 3-step Buy now pay later Instant Mini Omo 2-step Predictions Pricing About us FAQ Contact Resources Blog Careers Affiliates Community Reviews Log In Get started EN ES PT span]:text-pri",
+   "url": "https://maventrading.com/"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Gold",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "CODE",
+   "context": "RNAL 40% OFF Omo Challenges with code Copied CODE: OMO Trade Gold Eternal. 10% off with code CODE: ETERNAL 40% OFF Omo Challenges with code CODE: OMO Produc"
+  }
+ ],
+ "claims": [],
+ "errors": []
+}

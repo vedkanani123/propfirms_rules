@@ -1,0 +1,172 @@
+{
+ "slug": "myfundedfx",
+ "name": "MyFundedFX",
+ "category": "Historical/Uncertain",
+ "url": "https://myfundedfx.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://seacrestmarkets.io/closed",
+   "kind": "home",
+   "chars": 3101
+  },
+  {
+   "url": "https://seacrestmarkets.io/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1556
+  },
+  {
+   "url": "https://seacrestmarkets.io/closed",
+   "kind": "page",
+   "chars": 3101
+  },
+  {
+   "url": "https://seacrestmarkets.io/closed",
+   "kind": "page",
+   "chars": 3101
+  },
+  {
+   "url": "https://seacrestmarkets.io/closed",
+   "kind": "page",
+   "chars": 3101
+  },
+  {
+   "url": "https://seacrestmarkets.io/closed",
+   "kind": "page",
+   "chars": 3101
+  },
+  {
+   "url": "https://seacrestmarkets.io/closed",
+   "kind": "page",
+   "chars": 3101
+  }
+ ],
+ "page_count": 7,
+ "total_chars": 20168,
+ "findings": {
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "it-calculator 2025-10-17T12:10:16+00:00 weekly 0.8 https://seacrestmarkets.io/tools/crypto/profit-calculator 2025-10-17T12:10:16+00:00 weekly 0.8 https://seacrestmarkets.io/tools/stocks/profit-calculator 2025-10-17T12:10:16+00:00 weekly 0.8",
+    "url": "https://seacrestmarkets.io/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "regulated by",
+    "snippet": "ation: Seacrest Markets (PTY) Ltd is a South African Investment Firm, authorized and regulated by the Financial Sector Conduct Authority (FSCA) of South Africa with FSP License Number 53315. Seacrest Markets (PTY) Ltd is registered in South Africa with registration number 2023 / 703336 / 07. Jurisdictional Restrictions: Seacrest Markets (",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "gistered office at Archiepiskopou, Makariou III, 228, Agios Pavlos, Floor 3, 3030, Limassol, Cyprus, is appointed as the merchant and seller of services, and is also the Appointed Independent Representative and Distributor of the regulated entity",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ide services to residents of certain jurisdictions inc",
+    "snippet": "/ 703336 / 07. Jurisdictional Restrictions: Seacrest Markets (PTY) Ltd does not provide services to residents of certain jurisdictions including the United States of America, Canada, Iran, North Korea, and Russia. Seacrest Markets (PTY) Ltd reserves the right, at its discretion, to decline registration from",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "ates of America, Canada, Iran, North Korea, and Russia",
+    "snippet": "es not provide services to residents of certain jurisdictions including the United States of America, Canada, Iran, North Korea, and Russia. Seacrest Markets (PTY) Ltd reserves the right, at its discretion, to decline registration from other regions, such as FATF high risk jurisdictions or countries that are",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "isk jurisdictions or countries that are subject to sa",
+    "snippet": "t, at its discretion, to decline registration from other regions, such as FATF high risk jurisdictions or countries that are subject to sanctions. Disclaimer: Users are encouraged to read our Terms and Conditions and other Legal documents. The information presented on this website, including opinions, news",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "Users are encourag",
+    "snippet": "ATF high risk jurisdictions or countries that are subject to sanctions. Disclaimer: Users are encouraged to read our Terms and Conditions and other Legal documents. The information presented on this website, including opinions, news, research, analysis, prices, and other",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "uments. The information presented on this website, inc",
+    "snippet": "Disclaimer: Users are encouraged to read our Terms and Conditions and other Legal documents. The information presented on this website, including opinions, news, research, analysis, prices, and other content, is provided solely for informational purposes and should not be considered as investment advice. Thi",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "Ltd will not be held liable for any losses or damag",
+    "snippet": "investment, nor does it provide trading advice or strategies. Seacrest Markets (PTY) Ltd will not be held liable for any losses or damages, whether direct or indirect, resulting from the use of or reliance on such information. Seacrest is not liable for any inaccuracies in market quotes or errors related",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "Ltd a company inc",
+    "snippet": "he present domain seacrestmarkets.io is owned and operated by Seacrest Markets (PTY) Ltd a company incorporated under the Laws of South Africa, with registration number 2023 / 703336 / 07 having its registered address at 2 Ocean Way, Uhmlanga, Duban, Kwa-Zulu Natala 4320,",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "MyFunded Capital Solutions Ltd, a Company inc",
+    "snippet": "ncial Sector Conduct Authority (FSCA) of South Africa with FSP License Number 53315 MyFunded Capital Solutions Ltd, a Company incorporated in Cyprus with registration number \u0397\u0395455361, having its registered office at Archiepiskopou, Makariou III, 228, Agios Pavlos, Floor 3, 3030, Limassol, Cyprus, i",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eacrest Markets is no longer operating Dear Customer,\n We would like to inform you that Seacrest Markets is no longer op",
+    "snippet": "Seacrest Markets is no longer operating Dear Customer, We would like to inform you that Seacrest Markets is no longer operating. If you have any questions or require support, please contact us via email at support@seacrestmarkets.io , and we will do our best to assist you. Thank you for yo",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "ease contact us via email at support@seacrestmarkets",
+    "snippet": "est Markets is no longer operating. If you have any questions or require support, please contact us via email at support@seacrestmarkets.io , and we will do our best to assist you. Thank you for your understanding. Kind regards, Seacrest Markets Regulatory Information: Seacrest Markets (PTY) Ltd is a S",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "eacrest Markets\n Regulatory Information: Seacrest Markets (PTY) Ltd is a South African Investment Firm, authorized and r",
+    "snippet": "e will do our best to assist you. Thank you for your understanding. Kind regards, Seacrest Markets Regulatory Information: Seacrest Markets (PTY) Ltd is a South African Investment Firm, authorized and regulated by the Financial Sector Conduct Authority (FSCA) of South Africa with FSP License Number 53315. Seacrest Markets (PTY) Ltd is reg",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "eacrest Markets (PTY) Ltd is registered in South Africa with registration number 2023 / 703336 / 07",
+    "snippet": "cial Sector Conduct Authority (FSCA) of South Africa with FSP License Number 53315. Seacrest Markets (PTY) Ltd is registered in South Africa with registration number 2023 / 703336 / 07. Jurisdictional Restrictions: Seacrest Markets (PTY) Ltd does not provide services to residents of certain jurisdictions including the United States of Ame",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   },
+   {
+    "value": "eacrest Markets (PTY) Ltd does not provide services to residents of certain jurisdictions including the United States of",
+    "snippet": "h Africa with registration number 2023 / 703336 / 07. Jurisdictional Restrictions: Seacrest Markets (PTY) Ltd does not provide services to residents of certain jurisdictions including the United States of America, Canada, Iran, North Korea, and Russia. Seacrest Markets (PTY) Ltd reserves the right, at its discretion, to decline registrati",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@seacrestmarkets.io",
+    "snippet": "ating. If you have any questions or require support, please contact us via email at support@seacrestmarkets.io , and we will do our best to assist you. Thank you for your understanding. Kind regards, Seacrest Markets Regulatory Information: Seacrest Markets (PTY) Ltd is a Sout",
+    "url": "https://seacrestmarkets.io/closed",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Crypto",
+  "Stocks",
+  "CFD"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

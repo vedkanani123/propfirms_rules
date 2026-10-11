@@ -1,0 +1,12 @@
+{
+ "slug": "pipfarm",
+ "name": "PipFarm",
+ "category": "Forex/CFD",
+ "url": "https://pipfarm.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

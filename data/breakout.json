@@ -1,0 +1,12 @@
+{
+ "slug": "breakout",
+ "name": "Breakout",
+ "category": "Crypto",
+ "url": "https://breakoutprop.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

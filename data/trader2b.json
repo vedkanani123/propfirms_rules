@@ -1,0 +1,494 @@
+{
+ "slug": "trader2b",
+ "name": "Trader2B",
+ "category": "Futures",
+ "url": "https://trader2b.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://trader2b.com/",
+   "kind": "home",
+   "chars": 7026
+  },
+  {
+   "url": "https://trader2b.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 327
+  },
+  {
+   "url": "https://trader2b.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 20303
+  },
+  {
+   "url": "https://trader2b.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 14555
+  },
+  {
+   "url": "https://trader2b.com/job-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 457
+  },
+  {
+   "url": "https://trader2b.com/help_article-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 15568
+  },
+  {
+   "url": "https://trader2b.com/learn/torochallenge-trading-rules/",
+   "kind": "page",
+   "chars": 3968
+  },
+  {
+   "url": "https://trader2b.com/get-funded/compare-plans/",
+   "kind": "page",
+   "chars": 8302
+  },
+  {
+   "url": "https://trader2b.com/ar/get-funded-ar/compare-plans-ar/",
+   "kind": "page",
+   "chars": 8971
+  },
+  {
+   "url": "https://trader2b.com/get-funded/compare-plans/",
+   "kind": "page",
+   "chars": 8302
+  },
+  {
+   "url": "https://trader2b.com/learn/free-100k-torochallenge-rules-funded-account/",
+   "kind": "page",
+   "chars": 5266
+  },
+  {
+   "url": "https://trader2b.com/free100challenge-terms-conditions/",
+   "kind": "page",
+   "chars": 69734
+  },
+  {
+   "url": "https://trader2b.com/pt/free100challenge-terms-conditions-pt/",
+   "kind": "page",
+   "chars": 67645
+  },
+  {
+   "url": "https://trader2b.com/ar/free100challenge-terms-conditions-ar/",
+   "kind": "page",
+   "chars": 55483
+  },
+  {
+   "url": "https://trader2b.com/zh/free100challenge-terms-conditions-ch/",
+   "kind": "page",
+   "chars": 27341
+  },
+  {
+   "url": "https://trader2b.com/fr/free100challenge-terms-conditions-fr/",
+   "kind": "page",
+   "chars": 73599
+  },
+  {
+   "url": "https://trader2b.com/es/free100challenge-terms-conditions-sp/",
+   "kind": "page",
+   "chars": 71170
+  },
+  {
+   "url": "https://trader2b.com/learn/free-torochallenge-payouts-withdrawal/",
+   "kind": "page",
+   "chars": 4607
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 462641,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "6",
+    "snippet": "t their position/s before 16:00 ET. Do not reach the Total Max Drawdown. Reach the profit target of 6% with a minimum of 200 round trades with a Win Rate of 50% or more. Top Articles View All Off-Hours Orders and Your Funded Account Qualification trader",
+    "url": "https://trader2b.com/learn/torochallenge-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "4",
+    "snippet": "Get Started Includes: Buying Power -$25,000 Profit Target -$1,500 (6%) Daily Max Loss -$200 Max Drawdown -$1,000 (4%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Most Popular Toro100 Most Popular $199 $133 /mo Designed for traders ready to grow and",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "Get Started Includes: Buying Power -$100,000 Profit Target -$6,000 (6%) Daily Max Loss -$500 Max Drawdown -$3,000 (3%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Toro250 Advanced $299 $199 /mo Built for advanced traders scaling at size. Created for",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "50",
+    "snippet": "EE $100K Challenge 100% FREE No activation fee NYSE & Nasdaq Paid Weekly 50% Profit Split One Step Challenge 100% FREE No Activation Fee Trade Live U.S.",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "uilt In-House Full control over risk, execution, and performance. Keep Up to 99% of Profits Scale your payouts as your performance grows. Start the Challenge Funding Traders: Powering Trading Firms Prop Trading Firms How do Prop Firms Make Mo",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "95",
+    "snippet": "able Available Refundable fees - Up to $594 - Up to $894 Up to $1,494 Payout - 95% 50% 97% 99% Payout frequency - Bi-Weekly Bi-Weekly Bi-Weekly Weekly Scaling plan - $25,000 Up 1 Million Up 1 Million Up 2.5 Million Activity 30 Days None 7 Days None None Advanced",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "Free $100K Trading Account | Funded Stock Trading | trader2B Claim My FREE $100K Account FREE $100K Trading Challenge \u2014 Limited-Time Offer Get Funded Start He",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100",
+    "snippet": "Free $100K Trading Account | Funded Stock Trading | trader2B Claim My FREE $100K Account FREE $100K Trading Challenge \u2014 Limited-Time Offer Get Funded Start H",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "t funded immediately. Evaluation Steps 1 Step Only Phase 2 Requirement None ($0) Time Limit No Minimum / Max Start $100K Challenge Free Interactive Orbit Ecosystem \u2022 Tap any node to inspect program terms NYSE / NASDAQ Live \u2022 $0 Trade",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250,00",
+    "snippet": "then progress directly to live trading and earn a real funded trading account up to $250,000. Learn How to Get Funded Professional Trading Platform One platform for evaluation, funded trading, and live market execution. Discover the platfor",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "profit share 1 Month 3 Month 3 Months for the Price of 2 Toro25 Starter $99 $66 /mo Perfect for traders getting started. Designed for those curious about day trading who want to learn how the stock market works, practice discipline, and bu",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "66",
+    "snippet": "it share 1 Month 3 Month 3 Months for the Price of 2 Toro25 Starter $99 $66 /mo Perfect for traders getting started. Designed for those curious about day trading who want to learn how the stock market works, practice discipline, and build",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "25,00",
+    "snippet": "d confidence in a real-market environment. Get Started Includes: Buying Power -$25,000 Profit Target -$1,500 (6%) Daily Max Loss -$200 Max Drawdown -$1,000 (4%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Most Popular Toro100",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "1,50",
+    "snippet": "arket environment. Get Started Includes: Buying Power -$25,000 Profit Target -$1,500 (6%) Daily Max Loss -$200 Max Drawdown -$1,000 (4%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Most Popular Toro100 Most Popular $199",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "200",
+    "snippet": "rted Includes: Buying Power -$25,000 Profit Target -$1,500 (6%) Daily Max Loss -$200 Max Drawdown -$1,000 (4%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Most Popular Toro100 Most Popular $199 $133 /mo Designed for",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "199",
+    "snippet": "m) Minimum Trades -200 Round Trades Most Popular Toro100 Most Popular $199 $133 /mo Designed for traders ready to grow and scale. Ideal for traders who know their strategy, trade with consistency, and are looking to scale their approach w",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "133",
+    "snippet": "inimum Trades -200 Round Trades Most Popular Toro100 Most Popular $199 $133 /mo Designed for traders ready to grow and scale. Ideal for traders who know their strategy, trade with consistency, and are looking to scale their approach while",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "roach while working toward funded capital. Get Started Includes: Buying Power -$100,000 Profit Target -$6,000 (6%) Daily Max Loss -$500 Max Drawdown -$3,000 (3%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Toro250 Advanced",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "6,00",
+    "snippet": "d funded capital. Get Started Includes: Buying Power -$100,000 Profit Target -$6,000 (6%) Daily Max Loss -$500 Max Drawdown -$3,000 (3%) Consistency -50% (Minimum) Minimum Trades -200 Round Trades Toro250 Advanced $299 $199 /mo Bui",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Bi-Weekly",
+    "snippet": "able Available Available Refundable fees - Up to $594 - Up to $894 Up to $1,494 Payout - 95% 50% 97% 99% Payout frequency - Bi-Weekly Bi-Weekly Bi-Weekly Weekly Scaling plan - $25,000 Up 1 Million Up 1 Million Up 2.5 Million Activity 30 Days None 7 Days None None Advanced Tools AutoFlatter On/O",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "ds/2023/02/What-is-2400-%C3%97-1200-px-13.png https://trader2b.com/blogs/day-trading-crypto/ 2026-07-24T06:50:48+00:00 https://trader2b.com/wp-content/uploads/2023/02/What-is-2400-%C3%97-1200-px-14.png https://trader2b.com/blogs/day-trading-rules/ 2026-07-24T06",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "rise",
+    "snippet": "cess, live market data, and challenge participation. There are no hidden fees or surprise charges. 05 Can I upgrade or change my plan during the subscription? Yes. You can upgrade your ToroChallenge \u00ae plan at any time to access higher buying power o",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "excessive orders, repeatedly testing account limits, exceeding buying power, or otherwise attempting to manipulate or abuse the platform is prohibited Meeting the numerical targets alone does not automatically guarantee a live funded account. After successf",
+    "url": "https://trader2b.com/learn/free-100k-torochallenge-rules-funded-account/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "e market execution. Discover the platform Built for Traders. Proven at Scale Since 2010 100k+ Traders Served Real U.S. Market Access Built 100% In-House Play traderFi \u2014 Free Stock Market Game Have fun trading real stock market replays, earn rewards while you",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "6/b205df84-99b0-4bb6-80f1-734bff7aba7d.jpeg https://trader2b.com/blogs/stock-market-basics-what-beginner-investors-should-know/ 2026-07-24T06:49:30+00:00 https://trader2b.com/wp-content/uploads/2024/06/tiny-people-stock-traders-laptop-with-graph-chart-buy-sell-shares-stock-market-index-stockbroking-company-stock-exchange-data-concept_3356",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "f-quasimodos-writings/ 2026-07-24T06:49:45+00:00 https://trader2b.com/blogs/trader2b-mastering-the-art-of-stock-market-game-guide/ 2026-07-24T06:49:46+00:00 https://trader2b.com/blogs/top-5-funded-trader-programs/ 2026-07-24T06:49:47+00:00 https://trader2b.com/wp-content/uploads/2023/03/What-is-2400-%C3%97-1200-px-25.png https://trader2b.",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Languag",
+    "snippet": "ree Company About Us Blogs Careers Affiliate Program Reviews Contact Us Help Language EN \u2713 ES PT FR ZH AR Login Get Started 2k+ Trusted User GET A FREE $100K TRADING ACCOUNT WE MAKE MONEY WHEN YOU MAKE MONEY. Pass t",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "No time limits. Clear rules. No unnecessa",
+    "snippet": "Built for Traders. Designed to Get You Funded. One-Step Evaluation No time limits. Clear rules. No unnecessary hurdles. Built In-House Full control over risk, execution, and performance. Keep Up to 99% of Profits Scale your payouts as your performance grows.",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "review the restricted jurisdictions and applicable sa",
+    "snippet": "tes in accordance with applicable U.S. laws and regulations. Before applying, please review the restricted jurisdictions and applicable sanctions. The standard reference is the U.S. sanctions list maintained by Office of Foreign Assets Control . \u00a9 2026 trader2B \u00ae All Rights Reserved. Terms Privacy",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nctions. The standard reference is the U.S. sa",
+    "snippet": "ations. Before applying, please review the restricted jurisdictions and applicable sanctions. The standard reference is the U.S. sanctions list maintained by Office of Foreign Assets Control . \u00a9 2026 trader2B \u00ae All Rights Reserved. Terms Privacy Risk Disclosure Contact",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "diversification-typographic-header-risk-manag",
+    "snippet": "portfolio/ 2026-07-24T06:48:20+00:00 https://trader2b.com/wp-content/uploads/2024/06/diversification-typographic-header-risk-management-strategy-process-capital-allocation-finance-balance-investment-risk-reduction-isolated-flat-vector-illustration_613284-842.webp https://trader2b.com/wp-content/uplo",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ai-generated-illustration-glowing-trade-chart-manag",
+    "snippet": "stics-data-analytics_110633-1509.jpg https://trader2b.com/wp-content/uploads/2024/06/ai-generated-illustration-glowing-trade-chart-manage-investments-bearish-stock-market_441362-4728.jpg https://trader2b.com/blogs/case-studies-of-successful-growth-investors-what-lessons-can-be-learned-from-past-growth-inv",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "collag",
+    "snippet": "-failures/ 2026-07-24T06:48:24+00:00 https://trader2b.com/wp-content/uploads/2024/06/collage-finance-banner-concept_23-2150608814.webp https://trader2b.com/wp-content/uploads/2024/06/collage-finance-banner-concept_23-2150608814.webp https://trader2b.com/wp-cont",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "ent-girl-group-young-freelancers-office-have-conversa",
+    "snippet": "ncept_35913-3361.webp https://trader2b.com/wp-content/uploads/2024/06/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working_146671-13569.jpg https://trader2b.com/wp-content/uploads/2024/06/financial-growth-graph-hand-business-people-are-documenting-office-finance-financial-ideas-l",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted jurisdictions and applicable sanctions",
+    "snippet": "rdance with applicable U.S. laws and regulations. Before applying, please review the restricted jurisdictions and applicable sanctions. The standard reference is the U.S. sanctions list maintained by Office of Foreign Assets Control . \u00a9 2026 trader2B \u00ae All Rights Reserved. Terms Privacy Risk D",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refund/ 2026-06-16T11:41:39+00:00 https://trader2b",
+    "snippet": "er2b.com/learn/account-upgrade/ 2026-06-16T11:38:46+00:00 https://trader2b.com/learn/refund/ 2026-06-16T11:41:39+00:00 https://trader2b.com/learn/billing-cycle/ 2026-06-16T12:40:45+00:00 https://trader2b.com/learn/log-in-credentials/ 2026-06-16T12:50:37+00:00 https://trader2b.com/learn/what-is-the-consis",
+    "url": "https://trader2b.com/help_article-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refundable fees\n - Up to $594 - Up to $894 Up to $1,494 \n Payout\n - 95% 50% 97% 99% \n Payout frequency\n - Bi-Weekly Bi-W",
+    "snippet": "- 50 100 100 500+ Core Features Reset - Available Available Available Available Refundable fees - Up to $594 - Up to $894 Up to $1,494 Payout - 95% 50% 97% 99% Payout frequency - Bi-Weekly Bi-Weekly Bi-Weekly Weekly Scaling plan - $25,000 Up 1 Million Up 1 Million Up 2.5 Million Activity 30 Days None 7 Days None None Advanced Tools AutoFl",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   },
+   {
+    "value": "refundable deposit; or\n A guarantee of earning a payout",
+    "snippet": "the Challenge; A purchase of a funded Account; A payment for simulated profit; A refundable deposit; or A guarantee of earning a payout. 45. trader2B \u00ae BEST-EFFORTS MARKET DATA ACCOMMODATION trader2B \u00ae understands that upfront Professional Market Data fees may be difficult for some approved Traders. t",
+    "url": "https://trader2b.com/free100challenge-terms-conditions/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eaderboard Why trader2B\u00ae Prop Trading 2",
+    "snippet": "s Trading Rules Pricing & Plans Tradable Stocks Explore & Compare Day Trading Leaderboard Why trader2B\u00ae Prop Trading 2.0 Free Trading Guide Platforms Trading Platforms WebTrader Demo iOS Download Android Download Downloads For Firms Who we serve Prop Trading Technolog",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaderboard Prop Trading 2",
+    "snippet": "rading \u00d7 Get Funded How it Works ToroChallenge\u00ae Day Trading Pricing & Plans Leaderboard Prop Trading 2.0 Trading Rules Tradable Stocks Why trader2B\u00ae Free Trading Guide Platforms Trading Platforms WebTrader Demo iOS Download Android Download Downloads For Firms Who",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn a real funded trading account up to $250,000",
+    "snippet": "tep evaluation with the ToroChallenge \u00ae , then progress directly to live trading and earn a real funded trading account up to $250,000. Learn How to Get Funded Professional Trading Platform One platform for evaluation, funded trading, and live market execution. Discover the platform",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn How to Get Funded \n \n \n \n \n \n \n \n Professional Trading\nPlatform\n One platform for evaluation, funded trading, and l",
+    "snippet": "s directly to live trading and earn a real funded trading account up to $250,000. Learn How to Get Funded Professional Trading Platform One platform for evaluation, funded trading, and live market execution. Discover the platform Built for Traders. Proven at Scale Since 2010 100k+ Traders Served Real U.S. Market Ac",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal\n U",
+    "snippet": "Traders. Proven at Scale Since 2010 100k+ Traders Served Real U.S. Market Access Built 100% In-House Play traderFi \u2014 Free Stock Market Game Have fun trading real stock market replays, earn rewards while you",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "where permitted by law: Registration information; Names and contact information; IP addresses; Device characteristics; Browser information; Login history; Account activity; Geographic information; Trading patterns; Order timing; Symbols and quantities; Payment information; KYC information; and Other fraud or security indicators. trader2B ",
+    "url": "https://trader2b.com/free100challenge-terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "as; V\u00e1rios dispositivos; Dispositivos compartilhados; Redes privadas virtuais (VPNs); Servidores proxy; Diferentes conex\u00f5es de internet; Diferentes localiza\u00e7\u00f5es; M\u00e9todos alternativos de login; ou Qualquer outro m\u00e9todo destinado a contornar a regra de uma \u00fanica Conta. A regra de uma \u00fanica Conta aplica-se durante toda a participa\u00e7\u00e3o do Trad",
+    "url": "https://trader2b.com/pt/free100challenge-terms-conditions-pt/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:07",
+    "snippet": "tick-1-.webp https://trader2b.com/blogs/day-trading-restrictions-on-u-s-stocks-rules-leverage-strategies/ 2026-07-24T06:51:07+00:00 https://trader2b.com/wp-content/uploads/2021/02/day-trading.webp https://trader2b.com/blogs/how-to-become-a-successful-proprietary-equity-trader/ 2026-07-24T06:51:",
+    "url": "https://trader2b.com/post-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling plan\n - $25,000 Up 1 Million Up 1 Million Up 2",
+    "snippet": "yout - 95% 50% 97% 99% Payout frequency - Bi-Weekly Bi-Weekly Bi-Weekly Weekly Scaling plan - $25,000 Up 1 Million Up 1 Million Up 2.5 Million Activity 30 Days None 7 Days None None Advanced Tools AutoFlatter On/Off - - \u2714 \u2714 \u2714 Trading Platforms Webtrader +iOS Andriod Mobile Apps + Desktop",
+    "url": "https://trader2b.com/get-funded/compare-plans/",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC / identity verification , satisfy compliance requirements, and receive final approval before becoming eligibl",
+    "snippet": "ully completing the challenge, your account will be reviewed. You must also complete KYC / identity verification , satisfy compliance requirements, and receive final approval before becoming eligible for the $100,000 live funded trading account . We strongly recommend reviewing the complete Terms and Conditions before you sign up for the ",
+    "url": "https://trader2b.com/learn/free-100k-torochallenge-rules-funded-account/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC and compliance approval, duplicate-account review, exchange and Professional Market Data registration, Market",
+    "snippet": "Funded Account. Admission is subject to final trading review, identity verification, KYC and compliance approval, duplicate-account review, exchange and Professional Market Data registration, Market Data fee arrangements, account availability, execution-partner approval, and acceptance of a separate Live Funded Trader Agreement. By regist",
+    "url": "https://trader2b.com/free100challenge-terms-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC information; and\n Other fraud or security indicators",
+    "snippet": "n; Trading patterns; Order timing; Symbols and quantities; Payment information; KYC information; and Other fraud or security indicators. trader2B \u00ae is not required to disclose: Its fraud-detection systems; Detection thresholds; Internal matching methods; Security procedures; Device-analysis methods",
+    "url": "https://trader2b.com/free100challenge-terms-conditions/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fee \n NYSE & Nasdaq \n Paid Weekly \n 50% Profit Split",
+    "snippet": "e in the live market \u2014 paid weekly. Start FREE $100K Challenge 100% FREE No activation fee NYSE & Nasdaq Paid Weekly 50% Profit Split One Step Challenge 100% FREE No Activation Fee Trade Live U.S. Markets Trade Top Stocks AAPL \u00b7 META \u00b7 NVDA A",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Activation Fee \n \n \n \n \n \n Trade Live U",
+    "snippet": "One Step Challenge 100% FREE No Activation Fee Trade Live U.S. Markets Trade Top Stocks AAPL \u00b7 META \u00b7 NVDA AAPL +0.74% Day Trading Funded After You Pass Pass & We Cover Market Data Mobi",
+    "url": "https://trader2b.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription/ 2022-04-27T16:18:19+00:00 https://trader2b",
+    "snippet": "-renewal/ 2022-04-27T16:18:15+00:00 https://trader2b.com/learn/monthly-and-quarterly-subscription/ 2022-04-27T16:18:19+00:00 https://trader2b.com/learn/my-buying-power-is-set-to-1-or-its-diffrent-than-my-orginal-buy-power/ 2022-04-27T16:18:21+00:00 https://trader2b.com/learn/can-t2b-extend-my-subscription-if-s",
+    "url": "https://trader2b.com/help_article-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscription-if-so-how-does-it-work/ 2022-04-27T16:18:22+00:00 https://trader2b",
+    "snippet": "al-buy-power/ 2022-04-27T16:18:21+00:00 https://trader2b.com/learn/can-t2b-extend-my-subscription-if-so-how-does-it-work/ 2022-04-27T16:18:22+00:00 https://trader2b.com/learn/do-i-need-new-login-credentials-if-i-downgrade-or-upgrade-my-subscription/ 2022-04-27T16:18:25+00:00 https://trader2b.com/learn/what-holidays-affect-my-trading",
+    "url": "https://trader2b.com/help_article-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "subscription/ 2022-04-27T16:18:25+00:00 https://trader2b",
+    "snippet": "ps://trader2b.com/learn/do-i-need-new-login-credentials-if-i-downgrade-or-upgrade-my-subscription/ 2022-04-27T16:18:25+00:00 https://trader2b.com/learn/what-holidays-affect-my-trading-schedule/ 2022-04-27T16:18:26+00:00 https://trader2b.com/learn/is-the-profit-target-just-profits-from-the-trades-or-are-fees-de",
+    "url": "https://trader2b.com/help_article-sitemap.xml",
+    "kind": "sitemap"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "aid Weekly 50% Profit Split One Step Challenge 100% FREE No Activation Fee Trade Live U.S. Markets Trade Top Stocks AAPL \u00b7 META \u00b7 NVDA AAPL +0.7",
+   "url": "https://trader2b.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5"
+ ],
+ "assets": [
+  "Forex",
+  "Crypto",
+  "Energy",
+  "Stocks",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "Features Reset - Available Available Available Available Refundable fees - Up to $594 - Up to $894 Up to $1,494 Payout - 95% 50% 97% 99% Payout frequency - Bi-Weekly Bi-Weekl",
+  "Features Reset - Available Available Available Available Refundable fees - Up to $594 - Up to $894 Up to $1,494 Payout - 95% 50% 97% 99% Payout frequency - Bi-Weekly Bi-Weekl",
+  "nge Account is permitted per Trader . You may not create, access, control, or benefit from multiple Free Toro100 Accounts by using: Different email addresses; Different names; Fa"
+ ],
+ "errors": []
+}

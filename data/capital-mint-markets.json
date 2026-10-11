@@ -1,0 +1,901 @@
+{
+ "slug": "capital-mint-markets",
+ "name": "Capital Mint Markets",
+ "category": "Forex/CFD",
+ "url": "https://capitalmintmarkets.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://capitalmintmarkets.com/",
+   "kind": "home",
+   "chars": 21297
+  },
+  {
+   "url": "https://capitalmintmarkets.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 891
+  },
+  {
+   "url": "https://capitalmintmarkets.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 2770
+  },
+  {
+   "url": "https://capitalmintmarkets.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 13040
+  },
+  {
+   "url": "https://capitalmintmarkets.com/elementskit_template-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 336
+  },
+  {
+   "url": "https://capitalmintmarkets.com/ae_global_templates-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 3230
+  },
+  {
+   "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+   "kind": "page",
+   "chars": 10166
+  },
+  {
+   "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+   "kind": "page",
+   "chars": 16861
+  },
+  {
+   "url": "https://capitalmintmarkets.com/",
+   "kind": "page",
+   "chars": 21297
+  },
+  {
+   "url": "https://capitalmintmarkets.com/our-rules/",
+   "kind": "page",
+   "chars": 35427
+  },
+  {
+   "url": "https://capitalmintmarkets.com/bogo-faqs-2/",
+   "kind": "page",
+   "chars": 24430
+  },
+  {
+   "url": "https://capitalmintmarkets.com/give-away-faqs/",
+   "kind": "page",
+   "chars": 10183
+  },
+  {
+   "url": "https://capitalmintmarkets.com/general-faqs/",
+   "kind": "page",
+   "chars": 27401
+  },
+  {
+   "url": "https://capitalmintmarkets.com/terms-and-conditions/",
+   "kind": "page",
+   "chars": 19080
+  },
+  {
+   "url": "https://capitalmintmarkets.com/website-terms-of-use/",
+   "kind": "page",
+   "chars": 19354
+  },
+  {
+   "url": "https://capitalmintmarkets.com/blog-anatomy-of-a-prop-firm-drawdown/",
+   "kind": "page",
+   "chars": 18826
+  },
+  {
+   "url": "https://capitalmintmarkets.com/how-it-works-2/",
+   "kind": "page",
+   "chars": 9231
+  },
+  {
+   "url": "https://capitalmintmarkets.com/how-it-works-old/",
+   "kind": "page",
+   "chars": 5466
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 259303,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "2",
+    "snippet": "ting loss 1% Parameter Mint Freedom+ New Evaluation Phases 0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Pa",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Ascend 2 Step Challenge Minty Flash New Trailing Promo Evaluation Phases 0 0 1 1 2 2 Profit Target None None 10% 10% 8% / 5% 4% Max Daily Loss 3% 3% 4% (5% add-on) 3% 4% (5% add-on) 3% Max Overall Loss 6% trailing from highest closed balance 8% smart lock 10% balance based 6% 8% fi",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "the platform before committing to a full challenge. 60% OFF Account Size $2,500 Profit target 4% Duration 7 days Max daily loss 3% Max overall loss 4% Max risk/trade 2% Weekend trading Yes News trading Yes/Restricted Profit split 80% $9.99 60% OFF $4.00 Start Min",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "Duration Unlimited \u2014 no deadlines Account Sizes $5K \u00b7 $10K \u00b7 $25K \u00b7 $50K \u00b7 $100K Profit Target None Daily Loss 3% of initial balance Max Overall Loss 6% trailing on highest closed balance (never locks) Leverage 1:30 FX \u00b7 1:10 Indices \u00b7 1:5 Comms \u00b7 1:2 Crypto CFD First Payout 5",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "t-a-Glance: Key Terms Account Sizes $5,000 / $10,000 / $25,000 / $50,000 / $100,000 Profit Target 8% Phase 1, 5% Phase 2 Max Daily Loss 4% (add-on available to increase to 5%) Max Overall Loss 8% fixed balance (add-on available to increase to 10%) Floating Loss 1%",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "t. What is Mint Ascend? Mint Ascend is our two-phase evaluation. Phase 1 has an 8% profit target, Phase 2 has a 5% profit target, and the drawdown is fixed at 8% from your starting balance (10% with the add-on). 4% daily loss (5% with add-on), 3 minimum trading days per phase. No tim",
+    "url": "https://capitalmintmarkets.com/bogo-faqs-2/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "2",
+    "snippet": "r Mint Freedom+ New Evaluation Phases 0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Pa",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "g Promo Evaluation Phases 0 0 1 1 2 2 Profit Target None None 10% 10% 8% / 5% 4% Max Daily Loss 3% 3% 4% (5% add-on) 3% 4% (5% add-on) 3% Max Overall Loss 6% trailing from highest closed balance 8% smart lock 10% balance based 6% 8% fixed 10% add-on 4% (equity-based)",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "4",
+    "snippet": "calculated from the initial balance . Worked Example Starting Balance: $100,000 \u2192 Daily loss limit = $4,000 (4%) Starting-day equity at 5 PM EST: $102,000 Reference value used: $102,000 Minimum equity allowed that day = $102,000 - $4,000 = $98,000 \u26a0 If equity touches or dro",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "se, one profit target, one clear route to funding. Trailing drawdown model with a 4% daily loss limit, upgradeable to 5% with an add-on. Duration Unlimited \u2014 no deadlines Account Sizes $5K \u00b7 $10K \u00b7 $25K \u00b7 $50K \u00b7 $100K Profit Target 10% Daily Loss 4% (5% with add-on) Max Overall Lo",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "p evaluation. The drawdown is static \u2014 it never trails. 10% profit target, 3% static daily loss, 6% static overall loss, and a 30% consistency rule apply throughout both the challenge and funded phases. Designed for traders who prefer predictable, fixed risk levels. A",
+    "url": "https://capitalmintmarkets.com/bogo-faqs-2/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "4",
+    "snippet": "+ New Evaluation Phases 0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Payout Schedule Every",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "one None 10% 10% 8% / 5% 4% Max Daily Loss 3% 3% 4% (5% add-on) 3% 4% (5% add-on) 3% Max Overall Loss 6% trailing from highest closed balance 8% smart lock 10% balance based 6% 8% fixed 10% add-on 4% (equity-based) Consistency Limit 20% 15% __ 30% 40% 20% Floating Loss Cap",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "0 / $10,000 / $25,000 / $50,000 / $100,000 Profit Target None Max Daily Loss 3% Max Overall Loss 8% Static Max Risk Per Trade 1% of account starting balance Min Trading Days None Leverage 1:30 Forex, 1:10 Indices, 1:5 Commodities, 1:2 Crypto CFD Payouts On dema",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "K \u00b7 $10K \u00b7 $25K \u00b7 $50K \u00b7 $100K Profit Target 10% Daily Loss 4% (5% with add-on) Max Overall Loss 10% trailing Max Risk Per Position 2% Min Trading Days 5 (each \u2265 0.25% profit) Leverage 1:30 FX \u00b7 1:10 Indices \u00b7 1:5 Comms \u00b7 1:2 Crypto CFD First Payout 14 days afte",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "owser does not support HTML5 video streaming. UNMUTE CFD Prop Firm \u2605 Up to 90% Profit Split 24-Hour Payouts Dubai Incorporated \u2713 Platform 5 \u00b7 Match Trader \u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities \u2713 Female-Founded \u2726 Scale to $200,000 CFD Prop Firm \u2605 U",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "stency rule: none. Account size Qualifying day (0.6%) Profit cap (5%) Max payout at 80% Max payout at 90% 08 Trading conditions News trading Not allowed. News trading add-on available. Weekend holding Not allowed without the Weekend holding add-on (+10%). Without it",
+    "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "15",
+    "snippet": "starting balance must be achieved before any payout request Payout Type On demand \u2014 15% consistency required Giveaway Payout Cap $200 maximum per giveaway account 03 Daily loss limit Your daily loss limit is calculated at 5 PM EST each day. The system looks at both your balance and your equi",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "rule? Different challenges apply consistency rules in different ways: Mint Direct: 20% consistency required to request a payout (no single day > 20% of total profit). Mint Vault: 15% consistency required to request a payout (no single day > 15% of total profit). Mint Precision: 30% consistency",
+    "url": "https://capitalmintmarkets.com/bogo-faqs-2/",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "7",
+    "snippet": "sistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Payout Schedule Every 14 Days Pricing All pa",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "soft breach 2% ($5k - $50k & 1.5%($100k) 2% limits 2% ($5k - $50k & 1.5%($100k) None Min Trading Days None None 3 3 5 per phase None Standard Profit Split 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80% Payout Schedule Weekly/On Demand Weekly /On Demand Weekly /On Demand Weekly /on Demand We",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "closed balance. Payouts: Timing, Process & Rules 1 First Payout Eligibility: 5 minimum trading days (each generating > 0.25% profit) and 3% minimum profit on the funded account. Processed within 24\u201348 business hours. \u21bb Subsequent Payouts Available every 14 days after the first payout.",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "3% Max Overall Loss 8% Static Max Risk Per Trade 1% of account starting balance Min Trading Days None Leverage 1:30 Forex, 1:10 Indices, 1:5 Commodities, 1:2 Crypto CFD Payouts On demand (15% consistency required), 5% of starting account balance. Profit Split 80% (scaling to 90",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "oss 4% (5% with add-on) Max Overall Loss 10% trailing Max Risk Per Position 2% Min Trading Days 5 (each \u2265 0.25% profit) Leverage 1:30 FX \u00b7 1:10 Indices \u00b7 1:5 Comms \u00b7 1:2 Crypto CFD First Payout 14 days after first funded trade Subsequent Payouts Every 7 days P",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "work? Payout timing depends on the challenge: Mint Direct: First payout after 5 minimum trading days and 2.5% minimum profit . Subsequent payouts every 14 days . Mint Vault: On-demand payouts once you have achieved 5% profit on the starting balance AND your consistency",
+    "url": "https://capitalmintmarkets.com/general-faqs/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "rd \u2190 Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge: Get 4 5% off \ud83c\udf81 First Order: New customers get 10% off - Use code - CMM \ud83d\udccb Copy Code: CMM",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge: Get 4 5% off \ud83c\udf81 First Order: New customers get 10% off - Use code - CMM \ud83d\udccb Copy Code: CMM Grab now",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "15% __ 30% 40% 20% Floating Loss Cap 1% 1st soft breach 1% 1st soft breach 2% ($5k - $50k & 1.5%($100k) 2% limits 2% ($5k - $50k & 1.5%($100k) None Min Trading Days None None 3 3 5 per phase None Standard Profit Split 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80% Pa",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "0% 20% Floating Loss Cap 1% 1st soft breach 1% 1st soft breach 2% ($5k - $50k & 1.5%($100k) 2% limits 2% ($5k - $50k & 1.5%($100k) None Min Trading Days None None 3 3 5 per phase None Standard Profit Split 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80% Payout Schedule",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Same For Every Account 10% Cumulative profit withdrawn \u2192 +20% Account growth \u2192 $200K Maximum cap Every time your cumulative withdrawn profit hits a 10% threshold , your account scales by 20% . Repeat the cycle. The cap holds at $200,000 across every Ca",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "60",
+    "snippet": "$50K Mint Ascend account following the scaling plan to the maximum cap $50K Start $60K Scale 1 $72K Scale 2 $86K Scale 3 $104K Scale 4 $124K Scale 5 $149K Scale 6 $200K MAX Funded Day 1 ~16 months of consistent performance Maximum Cap By Ac",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "72",
+    "snippet": "d account following the scaling plan to the maximum cap $50K Start $60K Scale 1 $72K Scale 2 $86K Scale 3 $104K Scale 4 $124K Scale 5 $149K Scale 6 $200K MAX Funded Day 1 ~16 months of consistent performance Maximum Cap By Account Size You",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "86",
+    "snippet": "wing the scaling plan to the maximum cap $50K Start $60K Scale 1 $72K Scale 2 $86K Scale 3 $104K Scale 4 $124K Scale 5 $149K Scale 6 $200K MAX Funded Day 1 ~16 months of consistent performance Maximum Cap By Account Size Your starting size",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "104",
+    "snippet": "g plan to the maximum cap $50K Start $60K Scale 1 $72K Scale 2 $86K Scale 3 $104K Scale 4 $124K Scale 5 $149K Scale 6 $200K MAX Funded Day 1 ~16 months of consistent performance Maximum Cap By Account Size Your starting size \u00b7 your scaling",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "124",
+    "snippet": "ximum cap $50K Start $60K Scale 1 $72K Scale 2 $86K Scale 3 $104K Scale 4 $124K Scale 5 $149K Scale 6 $200K MAX Funded Day 1 ~16 months of consistent performance Maximum Cap By Account Size Your starting size \u00b7 your scaling story. Startin",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "rd \u2190 Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge: Get 4 5% off \ud83c\udf81 First Order: New customers get 10% off - Use code - CMM \ud83d\udccb Copy Code: CMM",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge: Get 4 5% off \ud83c\udf81 First Order: New customers get 10% off - Use code - CMM \ud83d\udccb Copy Code: CMM Grab now",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "36",
+    "snippet": "Profit Split 24-Hour Payouts Dubai Incorporated \u2713 Platform 5 \u00b7 Match Trader \u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities \u2713 Female-Founded \u2726 Scale to $200,000 CFD Prop Firm \u2605 Up to 90% Profit Split 24-Hour Payouts Dubai Incorporated \u2713",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "6 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities \u2713 Female-Founded \u2726 Scale to $200,000 CFD Prop Firm \u2605 Up to 90% Profit Split 24-Hour Payouts Dubai Incorporated \u2713 Platform 5 \u00b7 Match Trader \u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "age Details -- Profit Split -- Live Configuration Account Summary -- -- Balance $5,000 Profit Target -- Max Daily Loss -- Max Loss -- Trading Period -- Leverage -- Profit Split -- Platform Type Match Trader Payouts Weekly / on-demand $59.00 Save 46% $109",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "59.00",
+    "snippet": "-- Leverage -- Profit Split -- Platform Type Match Trader Payouts Weekly / on-demand $59.00 Save 46% $109.00 One-Time Fee Start Challenge Secure Checkout \u00b7 Instant Account Delivery New \u00b7 30-day pilot Mint Freedom+ Instant funded. No consistency rule.",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "109.00",
+    "snippet": "ofit Split -- Platform Type Match Trader Payouts Weekly / on-demand $59.00 Save 46% $109.00 One-Time Fee Start Challenge Secure Checkout \u00b7 Instant Account Delivery New \u00b7 30-day pilot Mint Freedom+ Instant funded. No consistency rule. Trade your way. A",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "15% __ 30% 40% 20% Floating Loss Cap 1% 1st soft breach 1% 1st soft breach 2% ($5k - $50k & 1.5%($100k) 2% limits 2% ($5k - $50k & 1.5%($100k) None Min Trading Days None None 3 3 5 per phase None Standard Profit Split 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80% P",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "0% 20% Floating Loss Cap 1% 1st soft breach 1% 1st soft breach 2% ($5k - $50k & 1.5%($100k) 2% limits 2% ($5k - $50k & 1.5%($100k) None Min Trading Days None None 3 3 5 per phase None Standard Profit Split 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80% Payout Schedul",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "54",
+    "snippet": "Weekly /On Demand Weekly /on Demand Weekly On Demand (20% consistency) Pricing Base $54 $36 $59 $32.45 $30.25 $4.00 Limited Promo: Extended \u00b7 Grab Yours Now! Minty Flash Challenge A time-limited entry point unlike anything else on the platform. Seven d",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "59",
+    "snippet": "/On Demand Weekly /on Demand Weekly On Demand (20% consistency) Pricing Base $54 $36 $59 $32.45 $30.25 $4.00 Limited Promo: Extended \u00b7 Grab Yours Now! Minty Flash Challenge A time-limited entry point unlike anything else on the platform. Seven days. 4%",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "32.45",
+    "snippet": "Demand Weekly /on Demand Weekly On Demand (20% consistency) Pricing Base $54 $36 $59 $32.45 $30.25 $4.00 Limited Promo: Extended \u00b7 Grab Yours Now! Minty Flash Challenge A time-limited entry point unlike anything else on the platform. Seven days. 4% target.",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Trailing",
+    "snippet": "ce \u00b7 25% off \u00b7 No evaluation No consistency rule Only on Freedom+ Daily drawdown 2% Trailing drawdown 4% Floating loss 1% Parameter Mint Freedom+ New Evaluation Phases 0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Static",
+    "snippet": "new exactly what bait-and-switch looked like from the inside. 03 \u2014 DRAWDOWN CHOICE Static drawdown across every live product. The floor never moves against you. Every live product at Capital Mint Markets uses static fixed drawdown \u2014 Mint Vault, Mint Precision and Min",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule",
+    "snippet": "\u00b7 Instant Account Delivery New \u00b7 30-day pilot Mint Freedom+ Instant funded. No consistency rule. Trade your way. Account size Platform Choose add-ons News trading Trade through news events Weekend holding Hold positions over the weekend Start Freedom+ \u2192",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "consistency rule Only on Freedom+ Daily\ndrawdown 2% Trailing\ndrawdown 4% Floating\nloss 1% \n Parameter Mint",
+    "snippet": "ons over the weekend Start Freedom+ \u2192 Launch price \u00b7 25% off \u00b7 No evaluation No consistency rule Only on Freedom+ Daily drawdown 2% Trailing drawdown 4% Floating loss 1% Parameter Mint Freedom+ New Evaluation Phases 0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7",
+    "snippet": "iling drawdown 4% Floating loss 1% Parameter Mint Freedom+ New Evaluation Phases 0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Payout Schedule Every 14 Days P",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency rule: none",
+    "snippet": "g cap: Mint Freedom+ counts towards the $100,000 maximum funded balance per trader. Consistency rule: none. Account size Qualifying day (0.6%) Profit cap (5%) Max payout at 80% Max payout at 90% 08 Trading conditions News trading Not allowed. News trading add-on available.",
+    "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency requirement has been met",
+    "snippet": "al can be made. The 4% threshold must be met first, irrespective of whether the 20% consistency requirement has been met. 13 What is the profit split? 80% to the trader. 14 What leverage is available? 1:30 on Forex, 1:10 on Indices, and 1:5 on Commodities. 15 Are there any add-ons avail",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules, restricted trading behaviours, and news trading restrictions on the funded stage",
+    "snippet": "apply in full to giveaway accounts including drawdown limits, floating loss limits, consistency rules, restricted trading behaviours, and news trading restrictions on the funded stage. There are no relaxed conditions on giveaway accounts. Subscribe to receive news, guides and product updates. Subscribe Join Our Discord Community Connect w",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Weekly",
+    "snippet": "Max Loss -- Trading Period -- Leverage -- Profit Split -- Platform Type Match Trader Payouts Weekly / on-demand $59.00 Save 46% $109.00 One-Time Fee Start Challenge Secure Checkout \u00b7 Instant Account Delivery New \u00b7 30-day pilot Mint Freedom+ Instant funded. No",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Every 14 Days",
+    "snippet": "onsecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Payout Schedule Every 14 Days Pricing All parameters \u00b7 One view Compare every programme Key parameters in one place \u2014 choose the right structure for your trading style. Swipe horizontally",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "On demand",
+    "snippet": "based on equity Floating Loss Limit 1.5% of starting balance 2% of starting balance Payout Type On demand \u2014 15% consistency required On demand \u2014 20% consistency required Account Sizes $2,500 / $5,000 / $10,000 / $15,000 Profit Target 4% of starting balance Max Daily Loss 2%",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "Daily",
+    "snippet": "before any payout request Payout Type On demand \u2014 15% consistency required Giveaway Payout Cap $200 maximum per giveaway account 03 Daily loss limit Your daily loss limit is calculated at 5 PM EST each day. The system looks at both your balance and your equity at that moment and takes the higher of the two",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "Every 7 days",
+    "snippet": "5 Comms \u00b7 1:2 Crypto CFD First Payout 14 days after first funded trade Subsequent Payouts Every 7 days Profit Split 80% (90% with add-on) Mint Sprint Rules & Objectives The Mint Sprint Challenge is a single-stage evaluation built around one clear goal: reach the 10%",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Bi-weekly",
+    "snippet": "ilable First Payout 3 minimum trading days from the first funded trade Subsequent Payouts Bi-weekly Profit Split 70% base, scaling to 90% Trading Freedom Weekend holding restricted (add-on available). News trading allowed on both challenge and funded phases. Min",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "\u00b7 Commodities Platform 5 + Match Trader 6 Programmes Growth Cashback Sister firm \u00b7 Crypto only Capital Mint capitalmint.io \u00b7 Sister firm 40+ Crypto Pairs A-Trader + TradingView From $39 Growth Cashback Visit Capital Mint \u2192 One legal entity. Two markets. Sa",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDT",
+    "snippet": "ts. Follow @capitalmintmarkets Accepted payment methods VISA Visa Mastercard USDT Bitcoin Ethereum USDC Ready to trade seriously? Five challenges from $9.99. Up to $100,000 in firm capital, scaling to $200,000. A firm you can verify before you spen",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "ntmarkets Accepted payment methods VISA Visa Mastercard USDT Bitcoin Ethereum USDC Ready to trade seriously? Five challenges from $9.99. Up to $100,000 in firm capital, scaling to $200,000. A firm you can verify before you spend a dollar. Choose Yo",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "gin trading from day one. The drawdown is trailing, giving room for growth as equity rises. Duration Unlimited \u2014 no deadlines Account Sizes $5K \u00b7 $10K \u00b7 $25K \u00b7 $50K \u00b7 $100K Profit Target None Daily Loss 3% of initial balance Max Overall Loss 6% trai",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Bank Transfer",
+    "snippet": "Subsequent: every 7 days. $100 80% (90% add-on) Payout Methods Method Availability Bank Transfer Available to all regions USDT (Crypto) Available to all regions \u26a0 Important: Any payout address or bank detail update takes 24 hours to take effect after submission. P",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with: Use of, or inability to use, our site; or o use of or reliance on any content displayed on our site. In part",
+    "url": "https://capitalmintmarkets.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "\u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities \u2713 Female-Founded \u2726 Scale to $200,000 CFD Prop Firm \u2605 Up to 90% Profit Split 24-Hour Payouts Dubai Incorporated \u2713 Platform 5 \u00b7 Match Trader \u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities \u2713 Female-Founded \u2726 Scale to $200,000 Simple. Transparent. Fast. From ch",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "FCA",
+    "snippet": "and within the legal frameworks that govern this industry. Her experience spans the FCA and the wider UK regulatory handbook, Brexit contingency planning for capital-markets clients, MiFID II implementation, the emerging MiCA regime for digital assets, FINRA -aligned frameworks in the US, the Mauritius Financial Services framework, and VA",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "Mint Markets. Follow @capitalmintmarkets Accepted payment methods VISA Visa Mastercard USDT Bitcoin Ethereum USDC Ready to trade seriously? Five challenges from $9.99. Up to $100,000 in firm capital, scaling to $200,000. A firm you can verify before you spend a dollar. Choose Your Challenge Also trade crypto at Capital Mint \u2192",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "\u2192 To qualify for a payout, you must complete 5 qualifying trading days. See Payout Basics below for more details. Daily Loss Limit Your daily drawdown limit is 3 % of your account\u2019s initial balance . Each day at 5 PM EST , Capital Mint Markets compares your starting day balance",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ours are not allowed because they distort results, exploit conditions, or create an unfair advantage. Banned Strategies Strategy / Behaviour Why It's Banned Account Management Violations Using accounts that are not yours, or trading on behalf of someone else. Change i",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Home Pag",
+    "snippet": "Home Page - Capital Mint Markets Skip to content Home How It Works Challenges Instant Mint Freedom+ NEW One Step Two Step Community Become An Affiliate Join Our Discord About A",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Dubai Inc",
+    "snippet": "streaming. UNMUTE CFD Prop Firm \u2605 Up to 90% Profit Split 24-Hour Payouts Dubai Incorporated \u2713 Platform 5 \u00b7 Match Trader \u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indices \u00b7 Commodities \u2713 Female-Founded \u2726 Scale to $200,000 CFD Prop Firm \u2605 Up to 90% Pro",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s -- Floating Loss Cap -- Min Trading Days -- Leverag",
+    "snippet": "tion Details Evaluation Phases -- Profit Target -- Max Daily Loss -- Max Overall Loss -- Floating Loss Cap -- Min Trading Days -- Leverage Details -- Profit Split -- Live Configuration Account Summary -- -- Balance $5,000 Profit Target -- Max Daily Loss -- Max Loss -- Trading Period -- Leverage -- Pro",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "x Daily Loss -- Max Loss -- Trading Period -- Leverag",
+    "snippet": "t -- Live Configuration Account Summary -- -- Balance $5,000 Profit Target -- Max Daily Loss -- Max Loss -- Trading Period -- Leverage -- Profit Split -- Platform Type Match Trader Payouts Weekly / on-demand $59.00 Save 46% $109.00 One-Time Fee Start Challenge Secure Checkout \u00b7 Instant Account Deli",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "iling Min Trading Days 7 qualifying days, not necessa",
+    "snippet": "0 Consistency Rule None Profit Target None Max Daily Loss 2% Max Overall Loss 4% trailing Min Trading Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Payout Schedule Every 14 Days Pricing All parameters \u00b7 One view Compare",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "A time-limited",
+    "snippet": ".45 $30.25 $4.00 Limited Promo: Extended \u00b7 Grab Yours Now! Minty Flash Challenge A time-limited entry point unlike anything else on the platform. Seven days. 4% target. From $4.00. Designed to give traders a low-cost, low-barrier taste of the platform before commi",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Brent Oil Natural Gas Ag",
+    "snippet": "q 100) SPX500 (S&P 500) GER40 (DAX) \u00b7 UK100 (FTSE) \ud83d\udee2 Commodities Crude Oil (WTI) Brent Oil Natural Gas Agricultural CFDs Leverage across all programmes 1:30 Forex 1:10 Indices 1:5 Commodities Real market prices \u00b7 Tight spreads The ecosystem begins Your profits fun",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "0 (FTSE) \ud83d\udee2 Commodities Crude Oil (WTI) Brent Oil Natural Gas Agricultural CFDs Leverage across all programmes 1:30 Forex 1:10 Indices 1:5 Commodities Real market prices \u00b7 Tight spreads The ecosystem begins Your profits fund your next move Growth C",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "RESTRICTED JURISDICTIONS\n 5",
+    "snippet": "ent professional advice before participating in any trading activity. ELIGIBILITY & RESTRICTED JURISDICTIONS 5. You may not use this Site or our services if: You are subject to international sanctions You are located in a jurisdiction where crypto proprietary trading programs a",
+    "url": "https://capitalmintmarkets.com/terms-and-conditions/",
+    "kind": "page"
+   },
+   {
+    "value": "RESTRICTED JURISDICTIONS\n You may not use this Site or our services if:\n You are subject to international sanctions\n You",
+    "snippet": "ent professional advice before participating in any trading activity. ELIGIBILITY & RESTRICTED JURISDICTIONS You may not use this Site or our services if: You are subject to international sanctions You are located in a jurisdiction where crypto proprietary trading programs are restricted or unlawful You are listed on any UAE, US, EU, UK, ",
+    "url": "https://capitalmintmarkets.com/website-terms-of-use/",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunds, payouts and more",
+    "snippet": "enge paths \u2014 leverage, comparison table, restricted strategies, hedging, automation, refunds, payouts and more. Comparing All Challenges Feature Mint Direct Mint Vault Mint Sprint Mint Precision Mint Ascend Structure Funded \u2014 no eval Funded \u2014 no eval 1 phase + funded 1 phase +",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "refunds are issued for accounts disabled due to inactivity",
+    "snippet": "for inactivity, the challenge is treated as failed and cannot be reinstated. x No refunds are issued for accounts disabled due to inactivity. Refund Policy Scenario Refund Eligible? Details Purchased account, no trades placed within 14 days Yes Request within 14 days of purchase with no trades executed. A",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy\n Scenario Refund Eligible? Details Purchased account, no trades placed within 14 days Yes Request within 1",
+    "snippet": "be reinstated. x No refunds are issued for accounts disabled due to inactivity. Refund Policy Scenario Refund Eligible? Details Purchased account, no trades placed within 14 days Yes Request within 14 days of purchase with no trades executed. Any trade has been placed No Once any trade is executed, the account is active and ineligible for",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "refund",
+    "snippet": "been placed No Once any trade is executed, the account is active and ineligible for refund. Account disabled for inactivity No Accounts disabled for inactivity are not eligible for a refund. \u2139\ufe0f To request a refund, contact Capital Mint Markets support with yo",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News trading Trade through news events Weekend holding Hold positions over the weekend \n \n Start Freedom+ \u2192 Launch price",
+    "snippet": "d. No consistency rule. Trade your way. Account size Platform Choose add-ons News trading Trade through news events Weekend holding Hold positions over the weekend Start Freedom+ \u2192 Launch price \u00b7 25% off \u00b7 No evaluation No consistency rule Only on Freedom+ Daily drawdown 2% Trailing drawdown 4% Floating loss 1% Parameter Mint Freedom+ New",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Not allowed \u00b7 add-on available Payout Schedule Every 14 Days Pricing \n \n \n All parameters \u00b7 One view\n Compa",
+    "snippet": "ng Days 7 qualifying days, not necessarily consecutive Profit Split 80% \u00b7 90% add-on News Trading Not allowed \u00b7 add-on available Payout Schedule Every 14 Days Pricing All parameters \u00b7 One view Compare every programme Key parameters in one place \u2014 choose the right structure for your trading style. Swipe horizontally to view all programmes ",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading Yes/Restricted Profit split 80% $9",
+    "snippet": "n 7 days Max daily loss 3% Max overall loss 4% Max risk/trade 2% Weekend trading Yes News trading Yes/Restricted Profit split 80% $9.99 60% OFF $4.00 Start Minty Flash 60% OFF Account Size $5,000 Profit target 4% Duration 7 days Max daily loss 3% Max overall loss 4% Max risk/trade 2% Weekend",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading Yes/Restricted Profit split 80% $21",
+    "snippet": "n 7 days Max daily loss 3% Max overall loss 4% Max risk/trade 2% Weekend trading Yes News trading Yes/Restricted Profit split 80% $21.99 60% OFF $8.80 Start Minty Flash 60% OFF Account Size $10,000 Profit target 4% Duration 7 days Max daily loss 3% Max overall loss 4% Max risk/trade 2% Weekend",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ears inside the industry \u2014 fixing what was broken",
+    "snippet": "rkets is a funded trader evaluation programme built by a regulatory lawyer with 15+ years inside the industry \u2014 fixing what was broken. Start Challenge DISCORD Compare All Programmes Trustpilot Your browser does not support HTML5 video streaming. UNMUTE CFD Prop Firm \u2605 Up to 90% Pr",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eaming",
+    "snippet": "Compare All Programmes Trustpilot Your browser does not support HTML5 video streaming. UNMUTE CFD Prop Firm \u2605 Up to 90% Profit Split 24-Hour Payouts Dubai Incorporated \u2713 Platform 5 \u00b7 Match Trader \u2605 From $36 30% Growth Cashback FX \u00b7 Gold \u00b7 Indi",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "each 1% 1st soft breach 2% ($5k - $50k & 1",
+    "snippet": "uity-based) Consistency Limit 20% 15% __ 30% 40% 20% Floating Loss Cap 1% 1st soft breach 1% 1st soft breach 2% ($5k - $50k & 1.5%($100k) 2% limits 2% ($5k - $50k & 1.5%($100k) None Min Trading Days None None 3 3 5 per phase None Standard Profit Split 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80\u201390% 80% Payout",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady know\n Platform 5 &\n Match Trader Two platforms",
+    "snippet": "window closes, it is removed from the platform. Trade the platforms you already know Platform 5 & Match Trader Two platforms. No proprietary tool to learn. Your EAs, indicators and strategies work from day one. Platform 5 Institutional standard Full EA and algorithmic trading 80+ indicator",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn",
+    "snippet": "you already know Platform 5 & Match Trader Two platforms. No proprietary tool to learn. Your EAs, indicators and strategies work from day one. Platform 5 Institutional standard Full EA and algorithmic trading 80+ indicators and charting tools Desktop,",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 24hrs",
+    "snippet": "wed @CapitalMintMkt so you don't have to \ud83d\udc40 8/10 \u2014 static drawdown, 90% profit split, payouts in 24hrs. \ud835\udd4f @luyatrades Finally found a prop firm that actually delivers what they promise. @CapitalMintMkt has built a trader-focused platform with static drawdown, simple rul",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 to 48 business hour",
+    "snippet": "as the minimum trading days are met and nothing has been breached. Processing time: payouts are processed within 24 to 48 business hours. Open trades: there must be no open trades when you request a payout. Funding cap: Mint Freedom+ counts towards the $100,000 maximum funded balance per trader. Consi",
+    "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "24 hours",
+    "snippet": "er Available to all regions USDT (Crypto) Available to all regions \u26a0 Important: Any payout address or bank detail update takes 24 hours to take effect after submission. Payouts will only be sent to accounts that have completed KYC verification. You are responsible for any transaction fees related to you",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "in 24 Hours\n No batch pro",
+    "snippet": "RADE Advanced Trading Tools Powerful indicators, execution and risk overlays. FAST PAYOUTS Withdraw in 24 Hours No batch processing. Fast secure withdrawals. GROWTH CASHBACK Challenges & Rewards Unlock cashback rewards automatically. Five live programmes Choose your challenge. \u26a1 Instant",
+    "url": "https://capitalmintmarkets.com/how-it-works-2/",
+    "kind": "page"
+   },
+   {
+    "value": "in 24 hours",
+    "snippet": "awyer with 15+ years inside the industry \u2014 fixing what was broken. Six challenges. Payouts in 24 hours. Instant Funding 1-Step Challenge 2-Step Challenge Minty Flash $5K $10K $25K $50K $100K Instant Funding Mint Direct Funded immediately. No evaluation phase. Trailing d",
+    "url": "https://capitalmintmarkets.com/how-it-works-2/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "0 (FTSE) \ud83d\udee2 Commodities Crude Oil (WTI) Brent Oil Natural Gas Agricultural CFDs Leverage across all programmes 1:30 Forex 1:10 Indices 1:5 Commodities Real market prices \u00b7 Tight spreads The ecosystem begins Your profits fund your next move Growth Cashback is live right now. F",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:100",
+    "snippet": "s, including copy trading, HFT, martingale and hedging between accounts. Asset class Leverage Forex 1:100 Indices 1:5 Commodities 1:5 Crypto 1:2 09 Add-ons The News trading add-on is priced at +15% , the same as all other programmes. A 90% profit split add-on is planned an",
+    "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "1:10",
+    "snippet": "you access to CFDs across multiple asset classes : Forex Major & Minor Pairs (1:30 leverage) Indices (1:10 leverage) Commodities \u2014 Metals & Energy (1:5 leverage) Cryptocurrencies via CFD (1:2 leverage) What makes Capital Mint Markets different from other prop firms? Cap",
+    "url": "https://capitalmintmarkets.com/general-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "1:5",
+    "snippet": "s multiple asset classes : Forex Major & Minor Pairs (1:30 leverage) Indices (1:10 leverage) Commodities \u2014 Metals & Energy (1:5 leverage) Cryptocurrencies via CFD (1:2 leverage) What makes Capital Mint Markets different from other prop firms? Capital Mint Markets is built specifically for C",
+    "url": "https://capitalmintmarkets.com/general-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "1:2",
+    "snippet": "r Pairs (1:30 leverage) Indices (1:10 leverage) Commodities \u2014 Metals & Energy (1:5 leverage) Cryptocurrencies via CFD (1:2 leverage) What makes Capital Mint Markets different from other prop firms? Capital Mint Markets is built specifically for CFD traders . We combine structured risk m",
+    "url": "https://capitalmintmarkets.com/general-faqs/",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Profit cap: 5% of initial balance per cycle",
+    "snippet": "consecutive. Qualifying day: at least 0.6% profit on the initial balance that day. Profit cap: 5% of initial balance per cycle. Profit above the cap is removed from the balance when the reward is processed. Minimum payout: none. Request as soon as the minimum trading days are met and nothing ha",
+    "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "Profit cap (5%) Max payout at 80% Max payout at 90% \n 08 Trading conditions News trading Not allowed",
+    "snippet": "ded balance per trader. Consistency rule: none. Account size Qualifying day (0.6%) Profit cap (5%) Max payout at 80% Max payout at 90% 08 Trading conditions News trading Not allowed. News trading add-on available. Weekend holding Not allowed without the Weekend holding add-on (+10%). Without it, all positions must be closed before the wee",
+    "url": "https://capitalmintmarkets.com/mint-freedom-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "Payout Cap $200 maximum per giveaway account \n 03 Daily loss limit Your daily loss limit is calculated at 5 PM EST each",
+    "snippet": "before any payout request Payout Type On demand \u2014 15% consistency required Giveaway Payout Cap $200 maximum per giveaway account 03 Daily loss limit Your daily loss limit is calculated at 5 PM EST each day. The system looks at both your balance and your equity at that moment and takes the higher of the two values. It then applies 3% to th",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "payout cap All giveaway Minty accounts are limited to a single payout of up to $200",
+    "snippet": "After the payout is issued the account is permanently closed. 07 Giveaway account payout cap All giveaway Minty accounts are limited to a single payout of up to $200 . After the payout has been processed, the account is permanently closed. Traders may then purchase any Capital Mint Markets challenge to continue trading in the ecosyst",
+    "url": "https://capitalmintmarkets.com/minty-flash-rules-faqs/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan to the maximum cap\n $50K\n Start\n $60K\n Scale 1\n $72K\n Scale 2\n $86K\n Scale 3\n $104K\n Scale 4\n $124K\n Scale ",
+    "snippet": "Growth Trajectory From $50,000 to $200,000 A $50K Mint Ascend account following the scaling plan to the maximum cap $50K Start $60K Scale 1 $72K Scale 2 $86K Scale 3 $104K Scale 4 $124K Scale 5 $149K Scale 6 $200K MAX Funded Day 1 ~16 months of consistent performance Maximum Cap By Account Size Your starting size \u00b7 your scaling story. Sta",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Scaling Plan Is Different\n Built for real careers",
+    "snippet": "\u2192 $60,000 ~8 events $200,000 $100,000 \u2192 $120,000 ~5 events $200,000 Why Our Scaling Plan Is Different Built for real careers. \u21bb No time pressure No 90-day rolling windows. No quarterly reset cycles. You scale when you earn it \u2014 whether that takes three months or three years. Your record is",
+    "url": "https://capitalmintmarkets.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC verification",
+    "snippet": "effect after submission. Payouts will only be sent to accounts that have completed KYC verification. You are responsible for any transaction fees related to your payout. Available Add-ons \ud83d\udcc8 Daily Drawdown Increase 4%\u21925% +10% fee \u00b7 One Step & Two Step \ud83d\udee1\ufe0f Max Drawdown",
+    "url": "https://capitalmintmarkets.com/our-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "KYC / AML requirements\n We reserve the right to restrict or terminate access in our sole discretion",
+    "snippet": "l You are listed on any UAE, US, EU, UK, or UN sanctions list You fail to meet our KYC / AML requirements We reserve the right to restrict or terminate access in our sole discretion. THERE ARE OTHER TERMS THAT MAY APPLY TO YOU 6. These Website Terms refer to the following additional terms, which also apply to your use of our site: Our Pri",
+    "url": "https://capitalmintmarkets.com/terms-and-conditions/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fee?\n There is no monthly fee at Capital Mint Markets",
+    "snippet": "General Challenge Paths Trading Conditions Add-ons Account & Refunds Do you charge a monthly fee? There is no monthly fee at Capital Mint Markets. Traders only pay a one-time challenge fee based on their selected account size and trading path. Once you receive a funded account, there are no recurring subscriptio",
+    "url": "https://capitalmintmarkets.com/general-faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "subscription costs",
+    "snippet": "unt size and trading path. Once you receive a funded account, there are no recurring subscription costs. How do I get started? Getting started with Capital Mint Markets is simple. Choose your preferred account size and challenge path \u2014 Mint Direct , Mint Vault , Mi",
+    "url": "https://capitalmintmarkets.com/general-faqs/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ber Me Forgot Password? Log In Username or Email Address Get New Password \u2190 Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge: Get 4 5% off \ud83c\udf81 First Order: New c",
+   "url": "https://capitalmintmarkets.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "age - Capital Mint Markets Skip to content Home How It Works Challenges Instant Mint Freedom+ NEW One Step Two Step Community Become An Affiliate Join Our Discord About About Us Board & Governance Contact Our Rules FAQs General FAQ\u2019s BOGO FAQs Minty Flash Rules & FA",
+   "url": "https://capitalmintmarkets.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "ital Mint Markets Skip to content Home How It Works Challenges Instant Mint Freedom+ NEW One Step Two Step Community Become An Affiliate Join Our Discord About About Us Board & Governance Contact Our Rules FAQs General FAQ\u2019s BOGO FAQs Minty Flash Rules & FAQs Mint F",
+   "url": "https://capitalmintmarkets.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "irect \u2b50 BOGO Mint Vault Mint Sprint Mint Precision Mint Ascend 02 Step 2 Select Account Size 03 Step 3 Select Platform Type 04 Account Rules Evaluation Details Evaluation Phases -- Profit Target -- Max Daily Loss -- Max Overall Loss -- Floating Loss Cap",
+   "url": "https://capitalmintmarkets.com/"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "s \u2713 Female-Founded \u2726 Scale to $200,000 Simple. Transparent. Fast. From challenge to funded in four steps 01 \ud83d\ude80 Pick Your Programme Choose from five challenge types - instant funding, one-step or two-step evaluation. 02 \ud83d\udcca Hit Your Target Trade FX, gold,indi",
+   "url": "https://capitalmintmarkets.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Futures",
+  "CFD"
+ ],
+ "coupon_codes": [
+  {
+   "code": "BOGO50",
+   "context": "How does the BOGO50 Promotion work? Purchase an eligible Mint Direct account using the code BOGO50 at checkout. You receive 50% off at checkout immediately."
+  }
+ ],
+ "claims": [
+  "s Get New Password \u2190 Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge",
+  "Blog Current Offers LOG IN SIGN UP \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge",
+  "ve programmes Choose your challenge. \u26a1 Instant Funding \u2014 BOGO + 50% OFF \ud83d\ude80 Minty Flash \u2014 Get 60% OFF $5K and $10K accounts. \ud83c\udfc6 One Step \u2014 Get 35% OFF \ud83c\udfc6 Two Step Challenge \u2014 Get 35% O",
+  "s Get New Password \u2190 Back to login \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge",
+  "Blog Current Offers LOG IN SIGN UP \ud83d\udc8e Instant Funding: BOGO + 50% off \u26a1 Minty Flash: Get 60% off $5K and $10K accounts. \ud83d\ude80 One Step - Mint Precision - 45% off \ud83c\udfaf Two Step Challenge",
+  "our initial balance . It applies to the account as a whole, not per trade. Account size Floating loss (1%) 07 Payouts Profit split: 80% as standard, 90% with the add-on. Reward"
+ ],
+ "errors": []
+}

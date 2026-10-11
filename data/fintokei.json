@@ -1,0 +1,576 @@
+{
+ "slug": "fintokei",
+ "name": "Fintokei",
+ "category": "Forex/CFD",
+ "url": "https://fintokei.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.fintokei.com/",
+   "kind": "home",
+   "chars": 19852
+  },
+  {
+   "url": "https://www.fintokei.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 179902
+  },
+  {
+   "url": "https://www.fintokei.com/jp/blog/plans-swifttrader/",
+   "kind": "page",
+   "chars": 6380
+  },
+  {
+   "url": "https://www.fintokei.com/blog/technical-analysis-patterns-to-help-you-pass-the-challenge/",
+   "kind": "page",
+   "chars": 10381
+  },
+  {
+   "url": "https://www.fintokei.com/jp/japan-fx-world-challenge-terms-and-conditions/",
+   "kind": "page",
+   "chars": 2297
+  },
+  {
+   "url": "https://www.fintokei.com/cz/blog/kup-si-challenge-a-ziskej-druhou-zdarma-s-prvnim-payoutem/",
+   "kind": "page",
+   "chars": 7027
+  },
+  {
+   "url": "https://www.fintokei.com/blog/buy-a-challenge-and-get-another-one-free-with-your-first-payout/",
+   "kind": "page",
+   "chars": 7953
+  },
+  {
+   "url": "https://www.fintokei.com/blog/book-tips-from-fintokei-stars-who-helped-them-reach-consistent-payouts/",
+   "kind": "page",
+   "chars": 10057
+  },
+  {
+   "url": "https://www.fintokei.com/blog/thinking-about-starting-a-challenge-now-is-the-time/",
+   "kind": "page",
+   "chars": 8486
+  },
+  {
+   "url": "https://www.fintokei.com/blog/how-much-is-prop-trading-2026-price-and-program-guide/",
+   "kind": "page",
+   "chars": 11144
+  },
+  {
+   "url": "https://www.fintokei.com/blog/3-strategies-to-speedrun-your-loyalty-program-progress-no-challenge-pass-required/",
+   "kind": "page",
+   "chars": 10275
+  },
+  {
+   "url": "https://www.fintokei.com/it/blog/3-strategie-per-passare-velocemente-al-livello-2-nel-loyalty-program-di-fintokei-senza-superare-una-challenge/",
+   "kind": "page",
+   "chars": 10292
+  },
+  {
+   "url": "https://www.fintokei.com/blog/started-trading-by-phone-now-hes-got-2-fintokei-accounts-and-4-payouts-under-his-belt/",
+   "kind": "page",
+   "chars": 10441
+  },
+  {
+   "url": "https://www.fintokei.com/jp/blog/why-you-cant-follow-trading-rules/",
+   "kind": "page",
+   "chars": 9053
+  },
+  {
+   "url": "https://support.fintokei.com/en/",
+   "kind": "sub",
+   "chars": 4242
+  },
+  {
+   "url": "https://support.fintokei.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 80068
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 387865,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "2",
+    "snippet": "llowed risk on open trades Performance reward One-time fee $5,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 days Consistency rule (phase I \u2022 II \u2022 III) max 40% of your Profit Target can come from 1 day Daily loss limit -3% M",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "\u2022 II) min 3 days, max 180 days Consistency rule (phase I \u2022 II \u2022 III) max 40% of your Profit Target can come from 1 day Daily loss limit -3% Maximum loss limit -6% Maximum allowed risk on open trades -3% Performance reward 50-100% One-time fee $44 Start now Free trial $20,000 Instant payouts Profit target",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "6",
+    "snippet": "oss limit Maximum allowed risk on open trades One-time Fee $5,000 Instant payouts Profit target (phase I) 6% Minimum profit per Payout +3% Time Limit Minimum 3 trading days, max 60 Daily loss limit -2% Maximum loss limit -3% Maximum allowed risk on open trades -3% One-time Fee",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "n trades Initial ProTrader performance reward One-time Fee $5,000 Instant payouts Profit Target (phase I \u2022 II) 8% \u2022 6% Time Limit (phase I and II) min 3 trading days, max unlimited Daily loss limit (equity based) -5% Maximum loss limit -10% Maximum allowed risk on open trades -3 % I",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "test way to get paid. A fast-track program with just 1 step, no long evaluations. 6% profit target and 90% performance reward \u2013 a solid deal for a one-step challenge! Price from: $44 up to $1,099 (200k account) Challenge phases: 1 Learn more Advanced ProTrader Th",
+    "url": "https://www.fintokei.com/blog/how-much-is-prop-trading-2026-price-and-program-guide/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "sistency rule (phase I \u2022 II \u2022 III) max 40% of your Profit Target can come from 1 day Daily loss limit -3% Maximum loss limit -6% Maximum allowed risk on open trades -3% Performance reward 50-100% One-time fee $44 Start now Free trial $20,000 Instant payouts Profit target",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "(phase I) 6% Minimum profit per Payout +3% Time Limit Minimum 3 trading days, max 60 Daily loss limit -2% Maximum loss limit -3% Maximum allowed risk on open trades -3% One-time Fee $44 Start now More info $10,000 Instant payouts Profit target (phase I) 6% Minimum profit",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "(phase I \u2022 II) 8% \u2022 6% Time Limit (phase I and II) min 3 trading days, max unlimited Daily loss limit (equity based) -5% Maximum loss limit -10% Maximum allowed risk on open trades -3 % Initial ProTrader performance reward 80 % One-time Fee $49 Start now More info $10,000 Instant payout",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "I \u2022 II \u2022 III) max 40% of your Profit Target can come from 1 day Daily loss limit -3% Maximum loss limit -6% Maximum allowed risk on open trades -3% Performance reward 50-100% One-time fee $44 Start now Free trial $20,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 S",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "profit per Payout +3% Time Limit Minimum 3 trading days, max 60 Daily loss limit -2% Maximum loss limit -3% Maximum allowed risk on open trades -3% One-time Fee $44 Start now More info $10,000 Instant payouts Profit target (phase I) 6% Minimum profit per Payout +3% Time Lim",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "hase I and II) min 3 trading days, max unlimited Daily loss limit (equity based) -5% Maximum loss limit -10% Maximum allowed risk on open trades -3 % Initial ProTrader performance reward 80 % One-time Fee $49 Start now More info $10,000 Instant payouts Profit Target (phase I",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "50",
+    "snippet": "ge to pick? Here\u2019s what our traders choose most often: FOR BEGINNERS StartTrader $50k 3phase challenge You keep 50 \u2013 100% of profits $244 fee Start now FASTEST WAY TO PAYOUT SwiftTrader $50k 1phase challenge You keep 100% of profits $36",
+    "url": "https://www.fintokei.com/blog/buy-a-challenge-and-get-another-one-free-with-your-first-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "You keep 100% of profits $369 fee Start now REWARDING CHALLENGE ProTrader $100k 2phase challenge You keep 80% of profits $529 fee Start now Why Having Two Accounts Pays Off \ud83d\udca1 Every experienced trader or investor knows that diversif",
+    "url": "https://www.fintokei.com/blog/buy-a-challenge-and-get-another-one-free-with-your-first-payout/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "100,00",
+    "snippet": "nt and get paid in real money every two weeks! Beginner StartTrader Accounts up to $100,000 Gradually increasing difficulty 3-step evaluation Performance Reward 50\u2013100% Price from $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fast",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "44",
+    "snippet": "lly increasing difficulty 3-step evaluation Performance Reward 50\u2013100% Price from $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fastest way to payouts 1-step evaluation Performance Reward 90% Price from $44 More info Pro Pr",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200,00",
+    "snippet": "Reward 50\u2013100% Price from $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fastest way to payouts 1-step evaluation Performance Reward 90% Price from $44 More info Pro ProTrader Accounts up to $400,000 Biggest payouts 2-step eval",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400,00",
+    "snippet": "n Performance Reward 90% Price from $44 More info Pro ProTrader Accounts up to $400,000 Biggest payouts 2-step evaluation Performance Reward 80% Price from $49 More info Swing ProTrader Swing Accounts up to $200,000 Swing trading 2-step evaluatio",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "49",
+    "snippet": "to $400,000 Biggest payouts 2-step evaluation Performance Reward 80% Price from $49 More info Swing ProTrader Swing Accounts up to $200,000 Swing trading 2-step evaluation Performance Reward 80% Price from $69 More info Loyalty program Tradin",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "69",
+    "snippet": "up to $200,000 Swing trading 2-step evaluation Performance Reward 80% Price from $69 More info Loyalty program TradingView platform Edu zone 0% commisions on oil and indices David Varga, CEO Fintokei \u201c We help traders from all over the world make th",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,88",
+    "snippet": "e the most of their trading potential. Quickly. Excitingly. Safely. Average payout $3,881 Highest payout $129,032 Payout time average 3h 4m Start your challenge Join our community of successful traders *Results and payouts shown are not typical and achi",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "129,03",
+    "snippet": "ading potential. Quickly. Excitingly. Safely. Average payout $3,881 Highest payout $129,032 Payout time average 3h 4m Start your challenge Join our community of successful traders *Results and payouts shown are not typical and achieving a payout is not gu",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "m loss limit Maximum allowed risk on open trades Performance reward One-time fee $5,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 days Consistency rule (phase I \u2022 II \u2022 III) max",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20,00",
+    "snippet": "open trades -3% Performance reward 50-100% One-time fee $44 Start now Free trial $20,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 days Consistency rule (phase I \u2022 II \u2022 III) max",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "119",
+    "snippet": "-6% Maximum allowed risk on open trades -3% Performance reward 50-100% One-time fee $119 Start now Free trial Most popular $50,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 d",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "% Performance reward 50-100% One-time fee $119 Start now Free trial Most popular $50,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 days Consistency rule (phase I \u2022 II \u2022 III) max",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency rule (phase I \u2022 II \u2022 III)\n Daily loss limit\n Maximum loss limit\n Maximum allowed risk on open",
+    "snippet": "ayouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) Time limit (phase I \u2022 II) Consistency rule (phase I \u2022 II \u2022 III) Daily loss limit Maximum loss limit Maximum allowed risk on open trades Performance reward One-time fee $5,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 d",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency rule (phase I \u2022 II \u2022 III) max 40% of your Profit Target can come from 1 day Daily loss limit -",
+    "snippet": "I \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 days Consistency rule (phase I \u2022 II \u2022 III) max 40% of your Profit Target can come from 1 day Daily loss limit -3% Maximum loss limit -6% Maximum allowed risk on open trades -3% Performance reward 50-100% One-time fee $44 Start now Free trial $20,000 Instant pa",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "to get paid. Capital Instant payouts Profit target (phase I) Minimum profit per Payout Time Limit Daily loss limit Maximum loss limit Maximum allowed risk on open trades One-time Fee $5,000 Instant payouts Profit target (phase I) 6% Minimum profit per Payout +3% Time L",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": ", CFD energies and CFD indices within the demo environment. We currently don\u2019t offer crypto or stock trading. You can find List of instruments here. What if I make a loss? All trading on Fintokei is conducted in a demo environment, which means there are no ac",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "u can choose your payout method based on what's fastest or most convenient for you \u2013 bank transfer, e-wallet, or cryptocurrencies (available in selected countries). You can find all the details about payout options, minimum amount, and fees here . Did you not find t",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "pply to Customers who reside / have nationality / are registered / and / or are otherwise related to India, Russia, Belarus, North Korea and others. Please check the updated list of restricted countries here . Full text of disclaimer and disclosure is defined",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "usive-interview-the-hardest-thing-trusting-the-prop-company-but-fintokei-totally-surprised-me/ 2026-06-29T16:14:30.618Z monthly 0.5 https://www.fintokei.com/blog/expert-advisor-ea-trading-are-trading-robots-your-ally-or-a-risk/ 2026-06-29T16:14:40.880Z month",
+    "url": "https://www.fintokei.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "Fintokei by Purple Trading with Fintokei? You\u2019re in expert hands! We\u2019re part of a massive fintech group. And there\u2019s more to it than meets the eye! Top-tier brokerage companies? We got it. Own payment solutions? Venture capital fund? That\u2019s all part of Purple too! Establis",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "sca",
+    "snippet": "we are transferring all these experiences into a fully automated system, that we can scale globally, and achieve our mission to empower traders to reach their trading dreams irrespective of their background. Is Fintokei regulated? Fintokei is currently not regulated because we do not provide any regulated investment services, do not colle",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "not regulated",
+    "snippet": "ams irrespective of their background. Is Fintokei regulated? Fintokei is currently not regulated because we do not provide any regulated investment services, do not collect any clients\u2019 deposits, nor do we facilitate any real trading transactions to the customers. Are my trades executed in the real market? No, they are not. All the custom",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "-it-in-trading/ 2026-06-29T16:14:37.716Z monthly 0.5 https://www.fintokei.com/blog/basic-trading-terms-you-need-to-know/ 2026-06-29T16:14:47.820Z monthly 0.5 https://www.fintokei.com/blog/best-books-for-forex-trading-take-your-trading-game-to-the-next-level/ 2026-09-23T13:02:38.684Z monthly 0.5 https://www.",
+    "url": "https://www.fintokei.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Gradually inc",
+    "snippet": "paid in real money every two weeks! Beginner StartTrader Accounts up to $100,000 Gradually increasing difficulty 3-step evaluation Performance Reward 50\u2013100% Price from $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fastest way to payou",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "t of their trading potential. Quickly. Excitingly. Sa",
+    "snippet": "es David Varga, CEO Fintokei \u201c We help traders from all over the world make the most of their trading potential. Quickly. Excitingly. Safely. Average payout $3,881 Highest payout $129,032 Payout time average 3h 4m Start your challenge Join our community of successful traders *Results and payouts sh",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "r the world make the most of their trading potential. Quickly. Excitingly. Safely. Average payout $3,881 Highest payout $129,032 Payout time average 3h 4m Start your challenge Join our community of successful traders *Results and payouts shown are not ty",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout time averag",
+    "snippet": "ential. Quickly. Excitingly. Safely. Average payout $3,881 Highest payout $129,032 Payout time average 3h 4m Start your challenge Join our community of successful traders *Results and payouts shown are not typical and achieving a payout is not guaranteed. Past perfo",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "d account is not indicative of future results. Averag",
+    "snippet": "not typical and achieving a payout is not guaranteed. Past performance on a simulated account is not indicative of future results. Average payout is based on Fintokei internal data from 1 January 2025. Choose Your Demo Trading Challenge StartTrader SwiftTrader ProTrader ProTrader Swing Entry-level de",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "min 3 trading days, max unlimited",
+    "snippet": "000 Instant payouts Profit Target (phase I \u2022 II) 8% \u2022 6% Time Limit (phase I and II) min 3 trading days, max unlimited Daily loss limit (equity based) -5% Maximum loss limit -10% Maximum allowed risk on open trades -3 % Initial ProTrader performance reward 80 % One-time Fee $49 Start no",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Min 3 profitable days, max unlimited",
+    "snippet": "0 Instant payouts Profit Target (phase I \u2022 II) 8 % \u30fb 6 % Time Limit (phase I and II) Min 3 profitable days, max unlimited Daily loss limit (equity based) -5 % Maximum loss limit -10 % Maximum allowed risk on open trades -3 % Initial ProTrader performance reward 80 % One-time Fee $99 START",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Top-tier brokerag",
+    "snippet": "s! We\u2019re part of a massive fintech group. And there\u2019s more to it than meets the eye! Top-tier brokerage companies? We got it. Own payment solutions? Venture capital fund? That\u2019s all part of Purple too! Established in 2011 - growing steadily ever since! Find out more",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "8424258-1",
+    "snippet": "iness name under AXSE Brokerage Ltd., a limited liability company in Seychelles with company number 8424258-1. The Registered Office: Suite 3, Global Village, Jivan\u2019s Complex, Mont Fleuri, Mah\u00e9, Seychelles. AXSE Brokerage Ltd. operates trading platforms and provides technical in",
+    "url": "https://support.fintokei.com/en/",
+    "kind": "sub"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries here",
+    "snippet": "to India, Russia, Belarus, North Korea and others. Please check the updated list of restricted countries here . Full text of disclaimer and disclosure is defined in Terms and Conditions . Please note that while interacting with an AI assistant, not a human, this service is for g",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refunding the challenge fee with your first payout is already standard here",
+    "snippet": "No problem. This promotion is for those who want to take their own trading further. Refunding the challenge fee with your first payout is already standard here. But now we\u2019re going further. Once you hit your first payout, we\u2019ll give you another identical challenge \u2013 completely free! And here\u2019s the best part: with the experienc",
+    "url": "https://www.fintokei.com/blog/thinking-about-starting-a-challenge-now-is-the-time/",
+    "kind": "page"
+   },
+   {
+    "value": "refund of your program fee\n Your first profit payout\n Another identical account with a challenge\n \n \n This offer is limi",
+    "snippet": "through this free challenge like a pro. What You Get with Your First Payout: A refund of your program fee Your first profit payout Another identical account with a challenge This offer is limited to the first 5,000 participants, and accounts are going fast! Don\u2019t wait! Act now! Promotion applies to these programs: ProTrader \u20ac10,000 ProTra",
+    "url": "https://www.fintokei.com/blog/thinking-about-starting-a-challenge-now-is-the-time/",
+    "kind": "page"
+   },
+   {
+    "value": "Refund options: You don't have to lose your entry fee forever",
+    "snippet": "ious\" 2-step option? There's also a 3-step process for newbies, great for learning. Refund options: You don't have to lose your entry fee forever. At Fintokei, fees are one-time. Plus, you can get a full refund after hitting certain goals . Competitor costs: The cheapest accounts (2026) Real challenge prices",
+    "url": "https://www.fintokei.com/blog/how-much-is-prop-trading-2026-price-and-program-guide/",
+    "kind": "page"
+   },
+   {
+    "value": "refund after hitting certain goals",
+    "snippet": "ose your entry fee forever. At Fintokei, fees are one-time. Plus, you can get a full refund after hitting certain goals . Competitor costs: The cheapest accounts (2026) Real challenge prices almost always differ from the listed price, since most firms regularly offer discounts or pro",
+    "url": "https://www.fintokei.com/blog/how-much-is-prop-trading-2026-price-and-program-guide/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "major news",
+    "snippet": "rency pairs. I\u2019m very aware of fundamentals too, but I stay out of the market during major news. Gold and indices move fast, so I try to keep trades under 2\u20133 hours. If something slips, I might hold longer \u2013 but never overnight. I use TradingView, Investing.com, F",
+    "url": "https://www.fintokei.com/blog/started-trading-by-phone-now-hes-got-2-fintokei-accounts-and-4-payouts-under-his-belt/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal payouts",
+    "snippet": "trading success We are empowering prop traders. Through evaluation, education, and real payouts. Start now Register for free Unlock Your Full Trading Potential Trade on demo accounts in a simulated market environment and get paid in real money every two weeks!",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal money every two weeks!\n Beginner StartTrader\n Accounts up to $100,000\n Gradually increasing difficulty\n 3-step evalu",
+    "snippet": "Potential Trade on demo accounts in a simulated market environment and get paid in real money every two weeks! Beginner StartTrader Accounts up to $100,000 Gradually increasing difficulty 3-step evaluation Performance Reward 50\u2013100% Price from $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fastest way to payouts 1-step",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady to get paid",
+    "snippet": "tart now Free trial The fastest way to payouts. Achieve over 10% profit? You're ready to get paid. Capital Instant payouts Profit target (phase I) Minimum profit per Payout Time Limit Daily loss limit Maximum loss limit Maximum allowed risk on open trades On",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "easoned traders",
+    "snippet": "gram. It offers the biggest accounts and the toughest challenge. It's the go-to for seasoned traders. The rewards? Worth every effort. Capital Instant payouts Profit Target (phase I \u2022 II) Time Limit (phase I and II) Daily loss limit (equity based) Maximum loss lim",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadily ever since!\n Find out more \n \n \n 0 + of trades that pass through our infrastructure every day\n 0 + our clients' c",
+    "snippet": "Venture capital fund? That\u2019s all part of Purple too! Established in 2011 - growing steadily ever since! Find out more 0 + of trades that pass through our infrastructure every day 0 + our clients' countries of origin $ 0 m+ in assets under management at our partner investment companies Stars of Fintokei Universe Trader of the Month: Kamil ",
+    "url": "https://www.fintokei.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "jpsupport@fintokei.com",
+    "snippet": "Fintokei a.s. \u672c\u793e\u6240\u5728\u5730: Masarykova 409/26, Brno-m\u011bsto, \u30d6\u30eb\u30ce, \u30c1\u30a7\u30b3\u5171\u548c\u56fd\uff08\u90f5\u4fbf\u756a\u53f7602 00\uff09 \u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9: jpsupport@fintokei.com \u6771\u4eac\u9023\u7d61\u5148\uff1a\u3012104-0061 \u6771\u4eac\u90fd\u4e2d\u592e\u533a\u9280\u5ea76-10-1 GINZA SIX Office Tower 13F \u203bFintokei a.s.\u306f\u30c1\u30a7\u30b3\u5171\u548c\u56fd\u3067\u767b\u9332\u3055\u308c\u305f\u4f1a\u793e\u3067\u3059\u3002\u6771\u4eac\u9023\u7d61\u5148\u306f\u4e00\u822c\u7684\u306a\u304a\u554f\u3044\u5408\u308f\u305b\u306b\u95a2\u3059\u308b\u73fe\u5730\u306e\u7a93\u53e3\u3067\u3042\u308a\u3001\u65e5\u672c\u306b\u304a\u3051\u308b\u767b\u8a18\u4e0a\u306e\u672c\u5e97\u3001\u652f\u5e97\u3001\u307e\u305f\u306f\u4e8b\u696d\u6240\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 \u00a92026 Fintokei \u30af",
+    "url": "https://www.fintokei.com/jp/blog/plans-swifttrader/",
+    "kind": "page"
+   },
+   {
+    "value": "support@fintokei.com",
+    "snippet": "\u00e1\u0161 na to \u010das a\u017e do 30. 4. 2026 . 3\ufe0f\u20e3 Z\u00edskej sv\u016fj prvn\u00ed payout. 4\ufe0f\u20e3 Dej n\u00e1m v\u011bd\u011bt na support@fintokei.com. 5\ufe0f\u20e3 Vyplat\u00edme ti zisky a p\u0159id\u00e1me k tomu druhou (tu stejnou) zdarma. Jo, \u010dte\u0161 spr\u00e1vn\u011b \u2013 nov\u00e1 challenge zdarma . Kdy\u017e u\u017e jednu spln\u011bnou m\u00edt bude\u0161, zvl\u00e1dne\u0161 to podruh\u00e9 l",
+    "url": "https://www.fintokei.com/cz/blog/kup-si-challenge-a-ziskej-druhou-zdarma-s-prvnim-payoutem/",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "skytujete 2026-07-15T11:30:42Z https://support.fintokei.com/en/articles/6538847-what-leverage-do-you-offer 2026-07-15T11:30:35Z https://support.fintokei.com/it/articles/6538847-che-leva-offrite 2026-07-15T11:30:50Z https://support.fintokei.com/ja/articles/6538847-\u3069\u306e\u3088\u3046\u306a\u30ec\u30d0\u30ec\u30c3\u30b8\u304c\u3042\u308a\u307e\u3059\u304b 2026-09-22T1",
+    "url": "https://support.fintokei.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kych-prezidentskych-voleb-tento-index-mozna-zna-odpoved/ 2026-07-13T09:50:05",
+    "snippet": "49:28.072Z monthly 0.5 https://www.fintokei.com/cz/blog/jak-dopadnou-vysledky-americkych-prezidentskych-voleb-tento-index-mozna-zna-odpoved/ 2026-07-13T09:50:05.296Z monthly 0.5 https://www.fintokei.com/cz/blog/jake-udalosti-pohnou-trhy-v-rijnu-2026/ 2026-10-05T06:58:02.614Z monthly 0.5 https://www.fintokei.com/cz/blog/jak-jap",
+    "url": "https://www.fintokei.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "kych-voleb-o-kterych-se-prilis-nemluvi/ 2026-06-29T16:15:09",
+    "snippet": "2026-07-13T09:50:14.731Z monthly 0.5 https://www.fintokei.com/cz/blog/vyherci-americkych-voleb-o-kterych-se-prilis-nemluvi/ 2026-06-29T16:15:09.014Z monthly 0.5 https://www.fintokei.com/cz/blog/vyplaty-ve-fintokei-jsou-oproti-konkurenci-nadprumerne-jak-jich-nasi-traderi-dosahuji/ 2026-07-13T09:50:01.837Z monthl",
+    "url": "https://www.fintokei.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "KYC completion (identity verification) +200 XP \n launching your first Free Trial challenge +200 XP \n logging into",
+    "snippet": "need to do is complete the basic onboarding: first account registration +200 XP KYC completion (identity verification) +200 XP launching your first Free Trial challenge +200 XP logging into the mobile app +50 XP That\u2019s 650 XP in just a few minutes . It\u2019s not enough for Tier 2 yet, but it kickstarts your progress bar nicely. You\u2019ll still n",
+    "url": "https://www.fintokei.com/blog/3-strategies-to-speedrun-your-loyalty-program-progress-no-challenge-pass-required/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fees?\n No, don't worry",
+    "snippet": "account. The most expensive is ProTrader at $2,399 for a 400k account. Are there monthly fees? No, don't worry. All Fintokei programs have just a one-time fee. Zero hidden monthly subscriptions. You only pay once, right at the start. Which Fintokei program pays out fastest? F",
+    "url": "https://www.fintokei.com/blog/how-much-is-prop-trading-2026-price-and-program-guide/",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions",
+    "snippet": "No, don't worry. All Fintokei programs have just a one-time fee. Zero hidden monthly subscriptions. You only pay once, right at the start. Which Fintokei program pays out fastest? For speed, go with SwiftTrader. It's a 1-step fast-track model with no long evaluati",
+    "url": "https://www.fintokei.com/blog/how-much-is-prop-trading-2026-price-and-program-guide/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "rom $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fastest way to payouts 1-step evaluation Performance Reward 90% Price from $44 More info Pro ProTrader Accounts up to $400,000 Biggest payouts 2-step evaluation Performance Reward",
+   "url": "https://www.fintokei.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "ce Reward 90% Price from $44 More info Pro ProTrader Accounts up to $400,000 Biggest payouts 2-step evaluation Performance Reward 80% Price from $49 More info Swing ProTrader Swing Accounts up to $200,000 Swing trading 2-step evaluation Performance R",
+   "url": "https://www.fintokei.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "y every two weeks! Beginner StartTrader Accounts up to $100,000 Gradually increasing difficulty 3-step evaluation Performance Reward 50\u2013100% Price from $44 More info Intermediate SwiftTrader Accounts up to $200,000 The fastest way to payouts 1-step evalu",
+   "url": "https://www.fintokei.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "-6% Maximum allowed risk on open trades -3% Performance reward 50-100% One-time fee $44 Start now Free trial $20,000 Instant payouts Profit target (phase I \u2022 II \u2022 III \u2022 StartTrader) 2%\u30fb3%\u30fb6%\u30fb\u2013 Time limit (phase I \u2022 II) min 3 days, max 180 days Consistency rule (phas",
+   "url": "https://www.fintokei.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Oil",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "NEW20",
+   "context": "Loved by Traders Just starting out? Grab 20% off your first Fintokei challenge! Use promo code NEW20 at checkout, or simply click the button below and the code"
+  },
+  {
+   "code": "FINTOMATE",
+   "context": "ne and reach your payout. How It Works: 1\ufe0f\u20e3 Choose any Fintokei program and enter the code FINTOMATE at checkout. 2\ufe0f\u20e3 Complete the challenge and reach your firs"
+  }
+ ],
+ "claims": [
+  "ake the most of their trading potential. Quickly. Excitingly. Safely. Average payout $3,881 Highest payout $129,032 Payout time average 3h 4m Start your challenge Join our communit",
+  "ni e condizioni Informazioni per i consumatori Started trading by phone. Now he\u2019s got 2 Fintokei accounts and 4 payouts under his belt - Fintokei Programs StartTrader For beginner",
+  "Start now Login EN CZ IT JP KR PL SK Back Started trading by phone. Now he\u2019s got 2 Fintokei accounts and 4 payouts under his belt # fintokei stars 31/07/2025 Lubo\u0161 made hi",
+  "stings. You should see me driving after a bad trade \u2013 I blame everything but myself \ud83d\ude04 You\u2019ve still managed 4 payouts, though \u2013 that\u2019s solid. What\u2019s your trading style like? I"
+ ],
+ "errors": []
+}

@@ -1,0 +1,591 @@
+{
+ "slug": "tradefundrr",
+ "name": "TradeFundrr",
+ "category": "Futures",
+ "url": "https://tradefundrr.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://tradefundrr.com/",
+   "kind": "home",
+   "chars": 15533
+  },
+  {
+   "url": "https://tradefundrr.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 43623
+  },
+  {
+   "url": "https://tradefundrr.com/blog/how-account-scaling-plans-work",
+   "kind": "page",
+   "chars": 21392
+  },
+  {
+   "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+   "kind": "page",
+   "chars": 27555
+  },
+  {
+   "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+   "kind": "page",
+   "chars": 12586
+  },
+  {
+   "url": "https://tradefundrr.com/blog/trailing-drawdown-after-your-first-payout",
+   "kind": "page",
+   "chars": 19772
+  },
+  {
+   "url": "https://tradefundrr.com/blog/equity-curve-consistency-and-payouts",
+   "kind": "page",
+   "chars": 20557
+  },
+  {
+   "url": "https://tradefundrr.com/blog/correlation-rules-across-two-accounts",
+   "kind": "page",
+   "chars": 26338
+  },
+  {
+   "url": "https://tradefundrr.com/blog/the-profit-consistency-rule-and-payouts",
+   "kind": "page",
+   "chars": 18939
+  },
+  {
+   "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+   "kind": "page",
+   "chars": 25509
+  },
+  {
+   "url": "https://tradefundrr.com/blog/payouts-across-multiple-funded-accounts",
+   "kind": "page",
+   "chars": 26230
+  },
+  {
+   "url": "https://tradefundrr.com/blog/implied-volatility-and-option-pricing",
+   "kind": "page",
+   "chars": 22345
+  },
+  {
+   "url": "https://tradefundrr.com/blog/exchange-listing-events-and-price",
+   "kind": "page",
+   "chars": 29263
+  },
+  {
+   "url": "https://tradefundrr.com/blog/bitcoin-etf-flows-and-price",
+   "kind": "page",
+   "chars": 26143
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 335798,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "30",
+    "snippet": "example The 30% Rule, Worked Out Hypothetical figures for a program with a $1,250 profit target and a 30% single day cap. $1,250 Profit target $375 30% single day cap 5 days Min. green days, $250 each STEADY Clears the rule Day 1 to 5: about $250 to $350 each No sin",
+    "url": "https://tradefundrr.com/blog/the-profit-consistency-rule-and-payouts",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "w is max drawdown calculated on a $100,000 funded account? On a $100,000 account, a 6% max drawdown means your account is terminated if the balance or equity hits $94,000. If the rule is trailing, that $94,000 floor moves up as your account balance reaches new peaks. U",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "Get Funded Now \u2713 Your Savings Protected \u2713 Our Capital At Risk \u2713 Your Profits 80% Yours \u2713 First Payout As Fast As 5 Days Trade with size. Room to breathe. No capital restrictions. No Pattern Day Trading limits. No fear of blowing up your account. Just the firepower",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "1",
+    "snippet": "Maximum risk per position 1.0% 0.50% Tighter Consistency figure 100% 30% Tighter Minimum trading days 1 10 Longer Profit requirement Profit target to reach Profit cap that applies Replaced Restart after a failure Reset available for a fee Not available Removed Payout",
+    "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "100",
+    "snippet": "DTE - whatever it is. Just with real size. And without risking a dime of savings. $100K Bigger Positions Up to $100K in capital. 80% Real Payouts Keep 80%. Paid in 5 days. $0 at risk Zero Risk Our money. Your gains. The edge is proven. The executi",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "stay safe. Explore Stock Trader Funding OPTIONS TRADER? Trade options with up to $25K in buying power Scale to $20M+ at the pro level Our capital. Your profits. Keep 80%. Your savings stay safe. Explore Option Trader Funding Who We Are - Backed By",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "skill. They spot setups. Execute the plan. But small accounts kill the upside. A $200 winner could've been $2,000. That's the difference capital makes. Keep trading what's already working. Same stocks. Same options. Same strategy. Small caps, blue chip",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "DTE - whatever it is. Just with real size. And without risking a dime of savings. $100K Bigger Positions Up to $100K in capital. 80% Real Payouts Keep 80%. Paid in 5 days. $0 at risk Zero Risk Our money. Your gains. The edge is proven. The execut",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "0",
+    "snippet": "er Positions Up to $100K in capital. 80% Real Payouts Keep 80%. Paid in 5 days. $0 at risk Zero Risk Our money. Your gains. The edge is proven. The execution is sharp. All that's missing? Capital. Pick the account size. Get funded today. Choose",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "g you earn. STOCK TRADER? Trade equities with up to $100K in buying power Scale to $20M+ at the pro level Our capital. Your profits. Keep 80%. Your savings stay safe. Explore Stock Trader Funding OPTIONS TRADER? Trade options with up to $25K in buying",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "stay safe. Explore Stock Trader Funding OPTIONS TRADER? Trade options with up to $25K in buying power Scale to $20M+ at the pro level Our capital. Your profits. Keep 80%. Your savings stay safe. Explore Option Trader Funding Who We Are - Backed By",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "ital. Retailers chase percentages; professionals protect principal. When you trade a $50,000 or $100,000 Funded Account Evaluation, you aren't just trying to hit a profit target. You are proving that you can operate within a professional risk framework. If you",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "100,00",
+    "snippet": "lers chase percentages; professionals protect principal. When you trade a $50,000 or $100,000 Funded Account Evaluation, you aren't just trying to hit a profit target. You are proving that you can operate within a professional risk framework. If you can't protec",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "sional risk framework. If you can't protect a small account, you'll never handle the $1M+ Institutional Capital Path. The Purpose of Drawdown in Professional Trading Capital providers prioritize capital preservation over high returns. It's a simple realit",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "5,00",
+    "snippet": "egy. Fixed Drawdown: This is a static floor. If you start a $100,000 account with a $5,000 limit, your floor is $95,000. It stays there forever. This model allows for breathing room as your account grows. It's a \"this, not that\" scenario: you get stability, b",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "95,00",
+    "snippet": "s a static floor. If you start a $100,000 account with a $5,000 limit, your floor is $95,000. It stays there forever. This model allows for breathing room as your account grows. It's a \"this, not that\" scenario: you get stability, but often at the cost of stric",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "48,00",
+    "snippet": "ine you have a $50,000 account with a $2,000 trailing drawdown. Your floor starts at $48,000. You make a great trade and gain $1,500. Your account balance is $51,500, but your floor is now $49,500. Then, you hit a normal pullback. You lose $1,000. In a fixed mo",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "1,50",
+    "snippet": "000 trailing drawdown. Your floor starts at $48,000. You make a great trade and gain $1,500. Your account balance is $51,500, but your floor is now $49,500. Then, you hit a normal pullback. You lose $1,000. In a fixed model, you'd have $1,000 of room left. In",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "it's the professional safety net that protects institutional capital. Identify the trailing drawdown trap. Learn why peak equity models can liquidate your account even during a winning trade and how to avoid this common pitfall. Decode prop firm max drawdown rules to c",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "static",
+    "snippet": "ur neck if you then give profits back. Trailing versus static The alternative is a static drawdown, a fixed dollar floor set on day one that never moves. A trailing drawdown starts lower but climbs with your equity, which makes early profits feel fragile. Our post on",
+    "url": "https://tradefundrr.com/blog/trailing-drawdown-after-your-first-payout",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rules: Why One Lucky Day Won't Pass You | TradeFundrr Blog 25% OFF ALL EXPRESS FUNDING ACCOUNT",
+    "snippet": "Consistency Rules: Why One Lucky Day Won't Pass You | TradeFundrr Blog 25% OFF ALL EXPRESS FUNDING ACCOUNTS \u00b7 use code EXPRESS25 Ends soon \u00d7 Menu Why Us FAQ Help Center Blog Login Get Funded Rules Explained Consistency Rules: Why One Lucky Day Won't Pass You Trad",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules: Why One Lucky Day Won't Pass You\n TradeFundrr Editorial Team \u00b7 Reviewed by Daniel Darro",
+    "snippet": "soon \u00d7 Menu Why Us FAQ Help Center Blog Login Get Funded Rules Explained Consistency Rules: Why One Lucky Day Won't Pass You TradeFundrr Editorial Team \u00b7 Reviewed by Daniel Darrow, Trader and Support Team Member May 22, 2026 5 min read Some funded programs include a rule that confuses people more than any other: a consistency rule. It doe",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule",
+    "snippet": "Some funded programs include a rule that confuses people more than any other: a consistency rule. It does not care only about whether you made money. It cares about how evenly you made it. And once you see what it is really checking for, it stops feeling like a hoop",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule pushes traders toward repeatable results rather than one lucky day, echoing FINRA's point",
+    "snippet": "hecking for, it stops feeling like a hoop and starts looking like a fair question. A consistency rule pushes traders toward repeatable results rather than one lucky day, echoing FINRA's point that frequent, undisciplined intraday trading erodes results ; the CFTC likewise stresses that leveraged losses can exceed your margin when discipli",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule limits how much of your total profit is allowed to come from a single day or a single tra",
+    "snippet": "d losses can exceed your margin when discipline slips. What it actually measures A consistency rule limits how much of your total profit is allowed to come from a single day or a single trade. If one enormous day accounts for most of your gains, the rule flags it. The idea is simple: it is asking whether you have a repeatable process, or ",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule is how they tell those two traders apart",
+    "snippet": "losing days suggests luck, or oversized risk that happened to pay off this time. The consistency rule is how they tell those two traders apart. Here is the honest part. This rule is not designed to deny you. It is designed to protect the firm from funding outcomes that were really just a coin flip that landed",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "anytime",
+    "snippet": "of every dollar you profit. 03 Get Paid Weekly Once you're eligible, request your payout anytime. Funds go out every Friday. How soon you qualify? That depends on your account type. Payouts happen every Friday. Once you qualify, request your payout and get paid th",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "monthly",
+    "snippet": "te-isnt-what-matters 2026-05-09 monthly 0.6 https://tradefundrr.com/blog/how-weekly-payouts-work 2026-05-14 monthly 0.6 https://tradefundrr.com/blog/trailing-drawdown-explained 2026-05-19 monthly 0.6 https://tradefundrr.com/blog/consistency-rules-explained 2026-05-22 monthly 0.6 ht",
+    "url": "https://tradefundrr.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "weekly",
+    "snippet": "nd $1,500 from cycle five. An Express 100K account is capped at $1,500, then $3,000. Payouts run weekly on Fridays, and the lifetime payout cap is $25,000 per account on Express and $15,000 per account on Growth Plus. Two Express 100K accounts running side by side therefo",
+    "url": "https://tradefundrr.com/blog/payouts-across-multiple-funded-accounts",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "cover live market data and technology costs. Everything's laid out upfront. No surprises. You keep 80% of your profits. We keep 20%. That's how we make money. Simple as that. What markets can I trade? Stocks and options. U.S.-listed stocks on the NYSE a",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "g-an-options-expiration 2026-02-04 monthly 0.7 https://tradefundrr.com/blog/trading-crypto-24-7-without-burning-out 2026-02-09 monthly 0.7 https://tradefundrr.com/blog/share-size-and-buying-power-stocks 2026-02-25 monthly 0.7 https://tradefundrr.com/blog/cry",
+    "url": "https://tradefundrr.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "'s point that frequent, undisciplined intraday trading erodes results ; the CFTC likewise stresses that leveraged losses can exceed your margin when discipline slips. What it actually measures A consistency rule limits how much of your total profit is allow",
+    "url": "https://tradefundrr.com/blog/consistency-rules-explained",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "tutional-level capital - so you can trade with confidence, capture real profits, and scale without fear. We take the risk. You keep 80% of the profits. Get paid in as little as 5 days Get Funded Now \u2713 Your Savings Protected \u2713 Our Capital At Risk \u2713 Your Profits 8",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "fore making any trading or business decisions. Hypothetical Performance Disclaimer (CFTC Requirement) Hypothetical or simulated performance results have certain limitations. Unlike an actual performance record, simulated results do not represent actual trading. Also, since the trades have not actually been executed, the results may have u",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "-splits-scale-with-account-size 2026-07-10 monthly 0.7 https://tradefundrr.com/blog/mastering-prop-firm-risk-management-rules-the-institutional-insiders-guide-for-2026 2026-07-10 monthly 0.7 https://tradefundrr.com/blog/crude-oil-futures-basics-for-day-traders 2026-07-11 monthly 0.7 https://tradefundrr.com/blog/fastest-realistic-way-to-ge",
+    "url": "https://tradefundrr.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "ide-for-2026 2026-07-10 monthly 0.7 https://tradefundrr.com/blog/crude-oil-futures-basics-for-day-traders 2026-07-11 monthly 0.7 https://tradefundrr.com/blog/fastest-realistic-way-to-get-funded 2026-07-11 monthly 0.7 https://tradefundrr.com/blog/short-locates-and-hard-to-borrow-stocks 2026-07-",
+    "url": "https://tradefundrr.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "NFA",
+    "snippet": "vance is the whole solution. For background on how firms are regulated and reviewed, NFA BASIC covers registration and disciplinary history for futures businesses, the CFTC publishes customer advisories, and the SEC's Investor.gov covers the equities side. Our guides on copy trading and account sharing rules and what a rules audit looks a",
+    "url": "https://tradefundrr.com/blog/correlation-rules-across-two-accounts",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Without Risking a Single Dollar of Your Sa",
+    "snippet": "ng portal for stock & options traders Trade Stocks & Options With Serious Capital Without Risking a Single Dollar of Your Savings Stop sitting on the sidelines with a small account... watching big opportunities slip away because you're worried about losing money you can't afford to lose. Tra",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Your Sa",
+    "snippet": "k. You keep 80% of the profits. Get paid in as little as 5 days Get Funded Now \u2713 Your Savings Protected \u2713 Our Capital At Risk \u2713 Your Profits 80% Yours \u2713 First Payout As Fast As 5 Days Trade with size. Room to breathe. No capital restrictions. No",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "You trade with our money - never your sa",
+    "snippet": "stors for traders. Here's the idea: You provide the skill. We provide the capital. You trade with our money - never your savings. If you profit, you keep 80% of the gains. If you hit a loss limit, our capital absorbs it. Your savings stay safe. You never owe us a dime beyond your initial p",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "you hit a loss limit, our capital absorbs it. Your sa",
+    "snippet": "with our money - never your savings. If you profit, you keep 80% of the gains. If you hit a loss limit, our capital absorbs it. Your savings stay safe. You never owe us a dime beyond your initial program fee. Choose Your Account Type We provide the capital. You keep 80% of the profits. The bot",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "vings stay sa",
+    "snippet": "you keep 80% of the gains. If you hit a loss limit, our capital absorbs it. Your savings stay safe. You never owe us a dime beyond your initial program fee. Choose Your Account Type We provide the capital. You keep 80% of the profits. The bottom line Tur",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nning Trades Into Real Money. Without Risking Your Sa",
+    "snippet": "vide the capital. You keep 80% of the profits. The bottom line Turn Your Winning Trades Into Real Money. Without Risking Your Savings. Most traders have the skill. They spot setups. Execute the plan. But small accounts kill the upside. A $200 winner could've been $2,000. That's the differenc",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Same stocks. Same options. Sa",
+    "snippet": "$2,000. That's the difference capital makes. Keep trading what's already working. Same stocks. Same options. Same strategy. Small caps, blue chips, SPY, 0DTE - whatever it is. Just with real size. And without risking a dime of savings. $100K Bigger Positions Up to $100K in c",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Just with real size. And without risking a dime of sa",
+    "snippet": ". Same options. Same strategy. Small caps, blue chips, SPY, 0DTE - whatever it is. Just with real size. And without risking a dime of savings. $100K Bigger Positions Up to $100K in capital. 80% Real Payouts Keep 80%. Paid in 5 days. $0 at risk Zero Risk Our money. Your gains. The edge is prove",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy \n Fee Refund Policy (first payout) \n \n \n YouTube X Facebook Instagram Trustpilot \n \n Copyright 2026 TradeF",
+    "snippet": "es Terms and Conditions Privacy Policy Cookie Policy Impressum Disclaimer Refund Policy Fee Refund Policy (first payout) YouTube X Facebook Instagram Trustpilot Copyright 2026 TradeFundrr, all rights reserved. General Disclosure TradeFundrr (\u201cthe Platform\u201d) is a provider of capital funding, trading technology, and educational resources fo",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy 2026-10-09 yearly 0",
+    "snippet": "s-trader-funding/pro/terms/ 2026-10-11 yearly 0.3 https://tradefundrr.com/pages/fee-refund-policy 2026-10-09 yearly 0.3 https://tradefundrr.com/blog 2026-06-29 daily 0.9 https://tradefundrr.com/blog/what-you-cant-copy-from-top-traders 2024-12-04 monthly 0.6 https://tradefundrr.com/bl",
+    "url": "https://tradefundrr.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eal profits, and scale without fear",
+    "snippet": "t access to institutional-level capital - so you can trade with confidence, capture real profits, and scale without fear. We take the risk. You keep 80% of the profits. Get paid in as little as 5 days Get Funded Now \u2713 Your Savings Protected \u2713 Our Capital At Risk \u2713 Your Profits 8",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eathe",
+    "snippet": "ofits 80% Yours \u2713 First Payout As Fast As 5 Days Trade with size. Room to breathe. No capital restrictions. No Pattern Day Trading limits. No fear of blowing up your account. Just the firepower, flexibility, and support you need to trade stocks and op",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear of blowing up your account",
+    "snippet": "size. Room to breathe. No capital restrictions. No Pattern Day Trading limits. No fear of blowing up your account. Just the firepower, flexibility, and support you need to trade stocks and options the way successful traders do - with size, discipline, and breathing room. What is",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eathing room",
+    "snippet": "rade stocks and options the way successful traders do - with size, discipline, and breathing room. What is TradeFundrr? The First All-In-One Funding Portal for Stock & Options Traders Think of us as angel investors for traders. Here's the idea: You provide the",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ea:\n You provide the skill",
+    "snippet": "or Stock & Options Traders Think of us as angel investors for traders. Here's the idea: You provide the skill. We provide the capital. You trade with our money - never your savings. If you profit, you keep 80% of the gains. If you hit a loss limit, our capital absorbs it. You",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@tradefundrr.com",
+    "snippet": "23rd Floor New York, NY 10005 For Customer Service Mon - Fri, 9AM-5PM EST Email: support@tradefundrr.com Phone: (877) 799-8198 Quick Links Why Us? Contact Us Funding FAQs Funding Dashboard Login What We Offer Stocks Day Trader Funding Options Day Trader Fun",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 2026 | TradeFundrr Blog",
+    "snippet": "Multiple Prop Firm Accounts: How Payouts Work Across Them in 2026 | TradeFundrr Blog Menu Why Us FAQ Help Center Blog Login Get Funded Payouts Multiple Prop Firm Accounts: How Payouts Work Across Them in 2026 TradeFundrr Editorial Team \u00b7",
+    "url": "https://tradefundrr.com/blog/payouts-across-multiple-funded-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "in 2026\n TradeFundrr Editor",
+    "snippet": "| TradeFundrr Blog Menu Why Us FAQ Help Center Blog Login Get Funded Payouts Multiple Prop Firm Accounts: How Payouts Work Across Them in 2026 TradeFundrr Editorial Team \u00b7 Reviewed by Daniel Darrow, Trader and Support Team Member September 3, 2026 13 min read Correction: futures This article was published while TradeFundrr fun",
+    "url": "https://tradefundrr.com/blog/payouts-across-multiple-funded-accounts",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit caps and total payout caps appear only at funding, because only then is there money to move",
+    "snippet": "any one day may contribute. Payout rules are new, not hidden. Minimum trading days, profit caps and total payout caps appear only at funding, because only then is there money to move. Read the funded terms before you buy the evaluation. The evaluation is the part everyone researches and the funded stage is the part everyone lives in. In t",
+    "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+    "kind": "page"
+   },
+   {
+    "value": "profit cap replaces the target",
+    "snippet": "fee. No payouts. Nothing to withdraw yet. Funded stage Prove it repeatedly. A profit cap replaces the target. Consistency applies. No single day may carry the result. Tighter position risk. Less room per trade. No restart. A hard breach ends this account. Payouts open.",
+    "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+    "kind": "page"
+   },
+   {
+    "value": "payout cap and the schedule",
+    "snippet": "payout or continuously. 03 The eligibility line Find the minimum trading days, the payout cap and the schedule. These decide when money can move. tradefundrr.com Illustrative example. Figures shown reflect the TradeFundrr futures program and differ by market and account size",
+    "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+    "kind": "page"
+   },
+   {
+    "value": "Profit cap that applies Replaced \n Restart after a failure Reset available for a fee Not available Removed \n Payouts Not",
+    "snippet": "ghter Minimum trading days 1 10 Longer Profit requirement Profit target to reach Profit cap that applies Replaced Restart after a failure Reset available for a fee Not available Removed Payouts Not applicable Eligible under schedule and caps New Figures shown reflect the TradeFundrr simulated futures program at the time of writing. Rules ",
+    "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "Scaling Plans Work: Growing Your Allocation Step by Step | TradeFundrr Blog Menu Why Us FAQ Help Center Blog \n Login Get",
+    "snippet": "How Account Scaling Plans Work: Growing Your Allocation Step by Step | TradeFundrr Blog Menu Why Us FAQ Help Center Blog Login Get Funded Funding How Account Scaling Plans Work: Growing Your Allocation Step by Step TradeFundrr Editorial Team \u00b7 Reviewed by Daniel Darrow, Trader and Support Team Member June 24, 2026",
+    "url": "https://tradefundrr.com/blog/how-account-scaling-plans-work",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans Work: Growing Your Allocation Step by Step\n TradeFundrr Editorial Team \u00b7 Reviewed by Daniel Darrow, Trader",
+    "snippet": "r Blog Menu Why Us FAQ Help Center Blog Login Get Funded Funding How Account Scaling Plans Work: Growing Your Allocation Step by Step TradeFundrr Editorial Team \u00b7 Reviewed by Daniel Darrow, Trader and Support Team Member June 24, 2026 8 min read Most traders ask about the starting size of a funded account. Fewer ask the more useful questi",
+    "url": "https://tradefundrr.com/blog/how-account-scaling-plans-work",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plan is the answer",
+    "snippet": "of a funded account. Fewer ask the more useful question: what happens after that. A scaling plan is the answer. It is the path your allocation follows once you are funded, growing in steps as you keep proving you can trade within the rules. Understanding it early changes how you",
+    "url": "https://tradefundrr.com/blog/how-account-scaling-plans-work",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-verification-before-your-first-payout 2026-06-22 monthly 0",
+    "snippet": "ling-out-taking-partial-profits 2026-06-22 monthly 0.6 https://tradefundrr.com/blog/kyc-verification-before-your-first-payout 2026-06-22 monthly 0.6 https://tradefundrr.com/blog/pros-and-cons-of-funded-accounts 2026-06-22 monthly 0.7 https://tradefundrr.com/blog/volatility-and-position-sizing 2026-06-23 monthly 0",
+    "url": "https://tradefundrr.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "monthly fee to cover live market data and technology costs",
+    "snippet": "count. Are there any hidden fees? Nope. You pay an initial fee to join. There's a monthly fee to cover live market data and technology costs. Everything's laid out upfront. No surprises. You keep 80% of your profits. We keep 20%. That's how we make money. Simple as that. What markets can I trade? Stocks a",
+    "url": "https://tradefundrr.com/",
+    "kind": "home"
+   },
+   {
+    "value": "reset fees",
+    "snippet": "l is to find talent we can scale to the $1M+ Institutional Capital Path, not collect reset fees. How is max drawdown calculated on a $100,000 funded account? On a $100,000 account, a 6% max drawdown means your account is terminated if the balance or equity hits $",
+    "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders",
+    "kind": "page"
+   },
+   {
+    "value": "Reset fees compound the same way",
+    "snippet": "s added, and traders rarely re-run the arithmetic after opening the second account. Reset fees compound the same way. If a mirrored loss breaches both accounts on the same day, you are looking at two resets rather than one, for a single decision you got wrong once. Correlation Across",
+    "url": "https://tradefundrr.com/blog/correlation-rules-across-two-accounts",
+    "kind": "page"
+   },
+   {
+    "value": "activation fees explained",
+    "snippet": ", see our guides on consistency rules explained , minimum trading days explained and activation fees explained . Frequently asked questions How do funded account rules differ from evaluation rules? The core risk limits usually stay identical while several other rules tighten. O",
+    "url": "https://tradefundrr.com/blog/how-rules-differ-between-evaluation-and-funded",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fee \n Profit split 80/20, trader keeps 80 percent 80/20 on each, unchanged \n \n Figures reflect TradeFundrr progr",
+    "snippet": "owance Three allowances, not shared Program fees One set Three sets, including any monthly fee Profit split 80/20, trader keeps 80 percent 80/20 on each, unchanged Figures reflect TradeFundrr program terms at the time of writing and vary by program and account size. Program terms change. Always confirm the current written rules of your ow",
+    "url": "https://tradefundrr.com/blog/payouts-across-multiple-funded-accounts",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "1-Step",
+   "snippet": "tradefundrr.com/blog/handling-a-winning-streak 2026-06-18 monthly 0.6 https://tradefundrr.com/blog/one-step-vs-two-step-evaluations 2026-06-19 monthly 0.6 https://tradefundrr.com/blog/pre-market-routine-for-discipline 2026-06-19 monthly 0.6 https://tradefundrr.com/",
+   "url": "https://tradefundrr.com/sitemap.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "com/blog/handling-a-winning-streak 2026-06-18 monthly 0.6 https://tradefundrr.com/blog/one-step-vs-two-step-evaluations 2026-06-19 monthly 0.6 https://tradefundrr.com/blog/pre-market-routine-for-discipline 2026-06-19 monthly 0.6 https://tradefundrr.com/blog/overnig",
+   "url": "https://tradefundrr.com/sitemap.xml"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "become a sizing decision. See the programs \u2192 How to read the daily print Read the daily print in three steps: check the number against total spot volume, check whether one fund is driving it, and check where it sits in a multi-week series. A headline dollar figure on",
+   "url": "https://tradefundrr.com/blog/bitcoin-etf-flows-and-price"
+  },
+  {
+   "name": "4-Step",
+   "snippet": "ntiate between equity-based and balance-based calculations to fit your strategy. Master a tactical 4-step risk management framework. Stop guessing and start calculating your daily loss limits and position sizes with institutional precision. Bridge the gap to profe",
+   "url": "https://tradefundrr.com/blog/prop-firm-max-drawdown-rules-the-2026-survival-guide-for-funded-traders"
+  },
+  {
+   "name": "Futures",
+   "snippet": "er 6, 2026 13 min read Correction: futures This article was published while TradeFundrr funded futures accounts. We no longer do. Any futures program, price, platform or rule described below is out of date and is no longer offered. TradeFundrr funds stock and options tr",
+   "url": "https://tradefundrr.com/blog/correlation-rules-across-two-accounts"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "ber 2, 2026 13 min read Correction: crypto This article was published while TradeFundrr funded crypto accounts. We no longer do. Any crypto program, price, platform or rule described below is out of date and is no longer offered. TradeFundrr funds stock and options tra",
+   "url": "https://tradefundrr.com/blog/exchange-listing-events-and-price"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [
+  {
+   "code": "EXPRESS25",
+   "context": "ne Lucky Day Won't Pass You | TradeFundrr Blog 25% OFF ALL EXPRESS FUNDING ACCOUNTS \u00b7 use code EXPRESS25 Ends soon \u00d7 Menu Why Us FAQ Help Center Blog Login Ge"
+  }
+ ],
+ "claims": [
+  "t criteria for payout and made my request, money hit my account in a few hours!! Joyce , US \u201cI've Received 2 Payouts So Far. Only Prop I Use Now.\u201d I have received 2 payouts fr",
+  "ccount in a few hours!! Joyce , US \u201cI've Received 2 Payouts So Far. Only Prop I Use Now.\u201d I have received 2 payouts from my funded account so far. TradeFundrr has the most str",
+  "he lifetime payout cap is $25,000 per account on Express and $15,000 per account on Growth Plus. Two Express 100K accounts running side by side therefore reach a combined weekly ceil",
+  "d fill looks like. The rules do not move for a headline TradeFundrr's crypto programs use simulated 50K and 100K accounts with an 80/20 profit split, where you keep 80%. The drawdow"
+ ],
+ "errors": []
+}

@@ -1,0 +1,504 @@
+{
+ "slug": "solana-funded",
+ "name": "Solana Funded",
+ "category": "Crypto",
+ "url": "https://solanafunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://solanafunded.com/",
+   "kind": "home",
+   "chars": 49001
+  },
+  {
+   "url": "https://solanafunded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1446
+  },
+  {
+   "url": "https://solanafunded.com/blitz/challenge",
+   "kind": "page",
+   "chars": 47688
+  },
+  {
+   "url": "https://solanafunded.com/terms-of-service",
+   "kind": "page",
+   "chars": 23921
+  },
+  {
+   "url": "https://solanafunded.com/how-it-works",
+   "kind": "page",
+   "chars": 41937
+  },
+  {
+   "url": "https://solanafunded.com/about",
+   "kind": "page",
+   "chars": 5011
+  },
+  {
+   "url": "https://solanafunded.com/contact",
+   "kind": "page",
+   "chars": 3248
+  },
+  {
+   "url": "https://solanafunded.com/evaluations",
+   "kind": "page",
+   "chars": 5579
+  },
+  {
+   "url": "https://solanafunded.com/refund-policy",
+   "kind": "page",
+   "chars": 8088
+  },
+  {
+   "url": "https://docs.solanafunded.com/",
+   "kind": "sub",
+   "chars": 2839
+  },
+  {
+   "url": "https://docs.solanafunded.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 47
+  }
+ ],
+ "page_count": 11,
+ "total_chars": 188815,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "25",
+    "snippet": "alance. If this level is reached or exceeded, the account is considered breached. 25% Phase 1 25% Funded Daily Drawdown The maximum loss allowed within a single trading day, calculated from the previous day\u2019s highest balance or equity \u2014 whichever value is higher. 10% Phase 1 10% Fu",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "alance. If this level is reached or exceeded, the account is considered breached. 20% Phase 1 20% Funded Daily Drawdown The maximum loss allowed within a single trading day, calculated from the previous day\u2019s highest balance or equity \u2014 whichever value is higher. 10% Phase 1 10% Fu",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "11",
+    "snippet": "your 3-day trading challenge in profit and within rules to qualify for rewards. 22% max drawdown End-of-day drawdown capped at 11% of your starting balance. Solana Tap exclusive Use the Solana Tap browser extension to trade on any terminal with your challenge account. $350,000 prize pool $300,00",
+    "url": "https://solanafunded.com/blitz/challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "90",
+    "snippet": "wn limits. Once you pass, you\u2019ll receive a funded account with up to $100K USDC , a 90% profit split , and the ability to withdraw on demand . No hidden conditions \u2014 just consistent, fair evaluation and instant access to capital. How are payouts sent? All payouts ar",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "200",
+    "snippet": "prop trading in 2026. Discover steps to pass challenges, get funded, and trade up to $200K with prop firms. Read post What is Solana Funded? Solana Funded is the first proprietary trading firm built entirely on Solana. Open docs How do I get funde",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Visit help centre About Contact Login Get Funded 50,000+ traders Get up to $100K to trade millions of Solana meme coins Thousands of new meme coins launch every day. Get funded, trade all of them, keep the upside. Get Funded Featured in",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "ance conditions. - Phase 1 $99 Funded $148.00 $118.00 Challenge 1 Step - $5k account Get Funded Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "nce conditions. - Phase 1 $179 Funded $268.00 $118.00 Challenge 1 Step - $10k account Get Funded Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "nce conditions. - Phase 1 $379 Funded $568.00 $118.00 Challenge 1 Step - $25k account Get Funded Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "nce conditions. - Phase 1 $559 Funded $838.00 $118.00 Challenge 1 Step - $50k account Get Funded Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "200",
+    "snippet": "prop trading in 2026. Discover steps to pass challenges, get funded, and trade up to $200K with prop firms. Read post What is Solana Funded? Solana Funded is the first proprietary trading firm built entirely on Solana. Open docs How do I get fund",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Visit help centre About Contact Login Get Funded 50,000+ traders Get up to $100K to trade millions of Solana meme coins Thousands of new meme coins launch every day. Get funded, trade all of them, keep the upside. Get Funded Featured in",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "61.60",
+    "snippet": "rs Choose Your Challenge Tier Memes Predictions Model Account size $61.60 $88.00 1 Step \u00b7 $2,5k account Get Funded 1 Step Pass one evaluation phase within the risk rules (max 5 open positions) \u2014 the fastest way to",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "88.00",
+    "snippet": "ose Your Challenge Tier Memes Predictions Model Account size $61.60 $88.00 1 Step \u00b7 $2,5k account Get Funded 1 Step Pass one evaluation phase within the risk rules (max 5 open positions) \u2014 the fastest way to get fun",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "Tier Memes Predictions Model Account size $61.60 $88.00 1 Step \u00b7 $2,5k account Get Funded 1 Step Pass one evaluation phase within the risk rules (max 5 open positions) \u2014 the fastest way to get funded. 1 Step",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "designed for advanced traders who want full flexibility while proving consistency $2,500 $5,000 $10,000 Best value for money $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be ach",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "for advanced traders who want full flexibility while proving consistency $2,500 $5,000 $10,000 Best value for money $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be achieved to",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,00",
+    "snippet": "anced traders who want full flexibility while proving consistency $2,500 $5,000 $10,000 Best value for money $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be achieved to successf",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25,00",
+    "snippet": "lity while proving consistency $2,500 $5,000 $10,000 Best value for money $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50,00",
+    "snippet": "ncy $2,500 $5,000 $10,000 Best value for money $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for the next st",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100,00",
+    "snippet": ",500 $5,000 $10,000 Best value for money $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for the next stage or fun",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "59",
+    "snippet": "ctivates your funded phase under the same account balance conditions. - Phase 1 $59 Funded $88.00 $118.00 Challenge 1 Step - $2,5k account Get Funded Phase 1 Funded Profit Target The total profit percentage that must be achieved to succe",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "End-of-day",
+    "snippet": "ding challenge in profit and within rules to qualify for rewards. 22% max drawdown End-of-day drawdown capped at 11% of your starting balance. Solana Tap exclusive Use the Solana Tap browser extension to trade on any terminal with your challenge account. $350,000 prize",
+    "url": "https://solanafunded.com/blitz/challenge",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Meme Coin Crypto Prop Firm | Solana Funded How it Works Affiliates Resources Blog Solana market analysis and platform news. Documentation Official guides, technical rules,",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "USDC",
+    "snippet": "in 00d:00h:00s \u2022 SF30 Recent payouts $0 paid out on-chain Verifiable USDC payouts, settled in minutes. Ethan Zhang $18,990 on 100K account tx: Rg9...kl23 30m ago Why choose us? Elite funding, lowest-cost entry Lower entry cos",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "rawals . At that point, you\u2019ll be prompted to verify your identity through our authorised KYC partner, Veriff , to remain compliant. Open docs Documentation Official guides, technical rules, and scaling plans. Visit help centre Help and support Accou",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "llenge or Funded Account that the Trader has launched, deployed, created, or is otherwise affiliated with in any capacity. This prohibition includes, but is not limited to: Tokens launched by the Trader, whether through pump.fun, Raydium LaunchLab, Meteora,",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "et analysis and platform news. Documentation Official guides, technical rules, and scaling plans. Help and support Account support, billing, and general FAQs. \u200dHow to Start Crypto Prop Trading: Getting Funded in 2026\u200d Learn how to start crypto prop trading in 20",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CFTC",
+    "snippet": "any account will achieve profits or losses similar to those shown on this website. CFTC RULE 4.41: Hypothetical or simulated performance results have certain limitations. Simulated trading does not represent actual trading, and results may differ due to market con",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Mas",
+    "snippet": "Payment and Chargebacks 5.1 Payment Methods The Company accepts payment cards (Visa, Mastercard, American Express), cryptocurrency transfers, SolanaPay transactions, and WooCommerce-integrated processors. Payment submission authorizes charging the full amount due. 5.2 Transaction Conditions All purchases are final once access to the servi",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Thousa",
+    "snippet": "unded 50,000+ traders Get up to $100K to trade millions of Solana meme coins Thousands of new meme coins launch every day. Get funded, trade all of them, keep the upside. Get Funded Featured in 50,000+ traders Choose Your Challenge Tier",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The total profit percentag",
+    "snippet": "y $25,000 Most popular $50,000 $100,000 Phase 1 Funded Profit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for the next stage or funded account. 45% Phase 1 - Funded Max. Positions The ma",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "te your challenge phase and qualify for the next stag",
+    "snippet": "ofit Target The total profit percentage that must be achieved to successfully complete your challenge phase and qualify for the next stage or funded account. 45% Phase 1 - Funded Max. Positions The maximum number of trades you are allowed to have open at the same time. This includes all active posi",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mber of trades you are allowed to have open at the sa",
+    "snippet": "t stage or funded account. 45% Phase 1 - Funded Max. Positions The maximum number of trades you are allowed to have open at the same time. This includes all active positions across pairs or instruments. 5 Phase 1 5 Funded Max. Drawdown The maximum overall loss permitted from your initial acc",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "me time. This inc",
+    "snippet": "Max. Positions The maximum number of trades you are allowed to have open at the same time. This includes all active positions across pairs or instruments. 5 Phase 1 5 Funded Max. Drawdown The maximum overall loss permitted from your initial account balance. If",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "be marked as complete. Certain challenges may also inc",
+    "snippet": "ng Days The minimum number of separate trading days required before a challenge can be marked as complete. Certain challenges may also include minimum daily performance requirements. 5 Phase 1 5 Funded Reset Fee The cost to reset your account in the funded phase after a breach. Paying the reset fee",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "reset fee reactivates your funded phase under the sa",
+    "snippet": "t Fee The cost to reset your account in the funded phase after a breach. Paying the reset fee reactivates your funded phase under the same account balance conditions. - Phase 1 $59 Funded $88.00 $118.00 Challenge 1 Step - $2,5k account Get Funded Phase 1 Funded Profit Target The total",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ze that aligns with your trading goals and risk manag",
+    "snippet": "m evaluation to execution Choose your account Choose the account size that aligns with your trading goals and risk management profile. Complete the challenge Trade under evaluation rules and reach the required profit target to qualify. Get funded Trade with up to $100,000 o",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "prohibited for persons in Prohibited Jurisdictions or subject to any sanctions program",
+    "snippet": "hat participation violates no applicable law or judicial order. 3.3 Registration is prohibited for persons in Prohibited Jurisdictions or subject to any sanctions program. 3.4 All registration information must be current, complete, and accurate. The Company may request verification documentation for AML and KYC compliance. Accounts using",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund \u00a92026 All Rights Reserved - Solana Funded",
+    "snippet": "results similar to those displayed on www.solanafunded.com . Terms Privacy Cookie Refund \u00a92026 All Rights Reserved - Solana Funded",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy 2026-07-31T09:19:34",
+    "snippet": "anafunded.com/referal-landing-page 2026-09-02T18:54:38.255Z https://solanafunded.com/refund-policy 2026-07-31T09:19:34.197Z https://solanafunded.com/official-team-verfication 2026-09-02T17:21:07.008Z https://solanafunded.com/landing 2026-09-26T07:52:14.243Z https://solanafunded.com/blitz",
+    "url": "https://solanafunded.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "Refund \u00a92026 All Rights Reserved - Solana Funded\n \n Login\n Enter your email below to login",
+    "snippet": "results similar to those displayed on www.solanafunded.com . Terms Privacy Cookie Refund \u00a92026 All Rights Reserved - Solana Funded Login Enter your email below to login. Login What's your email? We will let you know when the next round starts. You're in We\u2019ve received your submission. Ok Oops! Something went wrong while s",
+    "url": "https://solanafunded.com/blitz/challenge",
+    "kind": "page"
+   },
+   {
+    "value": "refund",
+    "snippet": "iance. Accounts using false information are subject to immediate termination without refund. 3.5 Only one account per challenge type is permitted unless expressly authorized in writing. Multiple accounts using identical IP addresses, devices, payment methods,",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earn how to start crypto prop trading in 2026",
+    "snippet": "ing, and general FAQs. \u200dHow to Start Crypto Prop Trading: Getting Funded in 2026\u200d Learn how to start crypto prop trading in 2026. Discover steps to pass challenges, get funded, and trade up to $200K with prop firms. Read post What is Solana Funded? Solana Funded is the first proprietary tra",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ead post\n \n \n What is Solana Funded?\n Solana Funded is the first proprietary trading firm built entirely on Solana",
+    "snippet": "cover steps to pass challenges, get funded, and trade up to $200K with prop firms. Read post What is Solana Funded? Solana Funded is the first proprietary trading firm built entirely on Solana. Open docs How do I get funded? You start by selecting a 1-Step or 2-Step evaluation and hitting the required profit target while respecting the da",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured in\n \n \n 50,000+ traders\n Choose Your Challenge Tier\n \n Memes Predictions \n Model\n \n Account size\n \n \n \n \n $61",
+    "snippet": "nch every day. Get funded, trade all of them, keep the upside. Get Funded Featured in 50,000+ traders Choose Your Challenge Tier Memes Predictions Model Account size $61.60 $88.00 1 Step \u00b7 $2,5k account Get Funded 1 Step Pass one evaluation phase within the risk rules (max 5 open positions) \u2014 the fastest way",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eached or exceeded, the account is considered breached",
+    "snippet": "maximum overall loss permitted from your initial account balance. If this level is reached or exceeded, the account is considered breached. 25% Phase 1 25% Funded Daily Drawdown The maximum loss allowed within a single trading day, calculated from the previous day\u2019s highest balance or equity \u2014 which",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eans calculations are finalized at the daily close rather than updating live during trades",
+    "snippet": "unded Drawdown Mode Indicates how drawdown limits are applied. \u201cEnd of Day (EOD)\u201d means calculations are finalized at the daily close rather than updating live during trades. EOD Phase 1 - Funded Min. Trading Days The minimum number of separate trading days required before a challenge can be marked as complete. Certain challenges may",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "IP address",
+    "snippet": "permitted unless expressly authorized in writing. Multiple accounts using identical IP addresses, devices, payment methods, or residential addresses violate this restriction. Article 4: Services 4.1 The Company provides simulated trading environments replicating cryptocurrency market conditions using real-time data feeds without executing",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "legal@solanafunded.com",
+    "snippet": "jection, subject to legal limitations. Rights requests should be directed to Legalat legal@solanafunded.com. 10.5 Two-factor authentication is strongly recommended. You remain responsible for credential confidentiality and all account activity. Article 11: Technical Risks 1",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   },
+   {
+    "value": "support@solanafunded.com",
+    "snippet": "ions, reorganizations,or asset sales. 15.5 Notices to the Company should be sent to support@solanafunded.com or SolaraX Markets, Building A1, Dubai Digital Park, Dubai, United Arab Emirates. Notices to you may be provided via email to your registered address. The future of tra",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "y cost Keep your costs low and your trading capital focused where it matters. Fast payouts Instant payment sent to your wallet. More capital for trading $4,200 in your account More capital More opportunities More growth How it works? 3 simple steps From e",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours",
+    "snippet": "er reviews Real stories from our global community of funded traders. \u201cGot my first payout within 24 hours.\u201d The process was smooth, transparent, and the payout hit my wallet fast. This is the real deal. Kaito R. 50,000+ Traders and growing Join a global community of tra",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plans",
+    "snippet": "et analysis and platform news. Documentation Official guides, technical rules, and scaling plans. Help and support Account support, billing, and general FAQs. \u200dHow to Start Crypto Prop Trading: Getting Funded in 2026\u200d Learn how to start crypto prop trading in 20",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC requirements?\n \n No",
+    "snippet": "ional content, and responsive support to help you progress confidently. Do you have KYC requirements? No. You do not need to complete KYC to trade or request withdrawals.KYC is only required once a trader exceeds $100,000 USDC in total withdrawals . At that point, you\u2019ll b",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC to trade or request withdrawals",
+    "snippet": "gress confidently. Do you have KYC requirements? No. You do not need to complete KYC to trade or request withdrawals.KYC is only required once a trader exceeds $100,000 USDC in total withdrawals . At that point, you\u2019ll be prompted to verify your identity through our authorised KYC par",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "KYC is only required once a trader exceeds $100,000 USDC in total withdrawals",
+    "snippet": "requirements? No. You do not need to complete KYC to trade or request withdrawals.KYC is only required once a trader exceeds $100,000 USDC in total withdrawals . At that point, you\u2019ll be prompted to verify your identity through our authorised KYC partner, Veriff , to remain compliant. Open docs Documentation Official guide",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Reset Fee\n The cost to reset your account in the funded phase after a breach",
+    "snippet": "s may also include minimum daily performance requirements. 5 Phase 1 5 Funded Reset Fee The cost to reset your account in the funded phase after a breach. Paying the reset fee reactivates your funded phase under the same account balance conditions. - Phase 1 $59 Funded $88.00 $118.00 Challenge 1 Step - $2,5k a",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "reset fee reactivates your funded phase under the same account balance conditions",
+    "snippet": "t Fee The cost to reset your account in the funded phase after a breach. Paying the reset fee reactivates your funded phase under the same account balance conditions. - Phase 1 $59 Funded $88.00 $118.00 Challenge 1 Step - $2,5k account Get Funded Phase 1 Funded Profit Target The total profit percentage that must",
+    "url": "https://solanafunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscriptions active beyond forty-eight (48) hours are considered fully delivered digital services",
+    "snippet": "ulated trade executes, purchases become final. Reset purchases, add-on services, and subscriptions active beyond forty-eight (48) hours are considered fully delivered digital services. 5.4 Processing Payments are processed using the original payment method provided during purchase. Cryptocurrency transactions are calculated using the USD ",
+    "url": "https://solanafunded.com/terms-of-service",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "by SolaraX Markets FZCO (\u201cCompany\u201d, \u201cwe\u201d, \u201cour\u201d, or \u201cus\u201d). By purchasing any evaluation challenge, instant funding program, or related product from Solana Funded, you agree to this Refund Policy in addition to our Terms of Service and Challenge Rules. All purchases grant a",
+   "url": "https://solanafunded.com/refund-policy"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ading firm built entirely on Solana. Open docs How do I get funded? You start by selecting a 1-Step or 2-Step evaluation and hitting the required profit target while respecting the daily and overall drawdown limits. Visit help centre About Contact Login G",
+   "url": "https://solanafunded.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "built entirely on Solana. Open docs How do I get funded? You start by selecting a 1-Step or 2-Step evaluation and hitting the required profit target while respecting the daily and overall drawdown limits. Visit help centre About Contact Login Get Funded",
+   "url": "https://solanafunded.com/"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "ily and overall drawdown limits. Visit help centre About Contact Login Get Funded $350,000 free challenge has ended Compete for funded accounts up to $100,000. No payment required, trade exclusively on Solana Tap with a 3-day free challenge. Challenge begins in 0",
+   "url": "https://solanafunded.com/blitz/challenge"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Crypto",
+  "Commodities",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "e respecting the daily and overall drawdown limits. Visit help centre About Contact Login Get Funded 50,000+ traders Get up to $100K to trade millions of Solana meme coins T",
+  "coins launch every day. Get funded, trade all of them, keep the upside. Get Funded Featured in 50,000+ traders Choose Your Challenge Tier Memes Predictions Model",
+  ".\u201d The process was smooth, transparent, and the payout hit my wallet fast. This is the real deal. Kaito R. 50,000+ Traders and growing Join a global community of traders sharing set",
+  "00 Seconds Notify Me The Prize Pool Two pathways to win Top Traders $300,000 Trade to win The top 20 traders by PnL at the end of the competition window win free funded",
+  "rade on any terminal with your challenge account. $350,000 prize pool $300,000 in accounts given to the top 20 traders. $50,000 giveaway for all competition participants. $0 ent",
+  ".\u201d The process was smooth, transparent, and the payout hit my wallet fast. This is the real deal. Kaito R. 50,000+ Traders and growing Join a global community of traders sharing set"
+ ],
+ "errors": []
+}

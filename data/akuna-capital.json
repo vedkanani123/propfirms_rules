@@ -1,0 +1,12 @@
+{
+ "slug": "akuna-capital",
+ "name": "Akuna Capital",
+ "category": "Institutional",
+ "url": "https://akunacapital.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

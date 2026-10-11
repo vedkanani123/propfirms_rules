@@ -1,0 +1,12 @@
+{
+ "slug": "alpinefunded",
+ "name": "AlpineFunded",
+ "category": "Forex/CFD",
+ "url": "https://alpinefunded.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

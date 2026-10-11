@@ -1,0 +1,204 @@
+{
+ "slug": "flow-traders",
+ "name": "Flow Traders",
+ "category": "Institutional",
+ "url": "https://www.flowtraders.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.flowtraders.com/",
+   "kind": "home",
+   "chars": 6354
+  },
+  {
+   "url": "https://www.flowtraders.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 7739
+  },
+  {
+   "url": "https://www.flowtraders.com/about/where-we-operate/",
+   "kind": "page",
+   "chars": 8111
+  },
+  {
+   "url": "https://www.flowtraders.com/about/",
+   "kind": "page",
+   "chars": 4966
+  },
+  {
+   "url": "https://www.flowtraders.com/about/sustainability/",
+   "kind": "page",
+   "chars": 7859
+  },
+  {
+   "url": "https://www.flowtraders.com/about/where-we-operate/",
+   "kind": "page",
+   "chars": 8111
+  },
+  {
+   "url": "https://www.flowtraders.com/about/",
+   "kind": "page",
+   "chars": 4966
+  },
+  {
+   "url": "https://www.flowtraders.com/about/leadership/",
+   "kind": "page",
+   "chars": 21284
+  },
+  {
+   "url": "https://www.flowtraders.com/digital-assets/contact/",
+   "kind": "page",
+   "chars": 3809
+  }
+ ],
+ "page_count": 9,
+ "total_chars": 73207,
+ "findings": {
+  "prices": [
+   {
+    "value": "27.40",
+    "snippet": "News Investors Foundation Strategic Capital Menu AMS \u20ac27.40 -0.10 About About Where We Operate Sustainability Leadership What We Do What We Do Institutional Trading Dig",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "27.36",
+    "snippet": "News Investors Foundation Strategic Capital Menu AMS \u20ac27.36 -0.14 About About Where We Operate Sustainability Leadership What We Do What We Do Institutional Trading Dig",
+    "url": "https://www.flowtraders.com/about/sustainability/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "37+00:00 0.64 https://flowtraders.com/news-insights/flow-traders-response-to-basels-crypto-proposals-and-market-impact/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/flow-traders-response-to-introduction-of-a-consolidated-tape/ 2023-07-",
+    "url": "https://www.flowtraders.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "fca",
+    "snippet": "00:00 0.64 https://flowtraders.com/news-insights/flow-traders-uk-subsidiary-obtains-fca-authorization/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/flow-traders-wins-best-market-maker-etf-express/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/non-exec",
+    "url": "https://www.flowtraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "mas",
+    "snippet": "y a broader Global Leadership Team. We this job Our Board Thomas Spitz Chief Executive Officer, Executive Director of the Flow Traders Ltd. Board Read more Close Thomas Spitz (1975, French) was elected as CEO and Executive Director of the Flow Traders Ltd. Board in October 2025. In the role of CEO, T",
+    "url": "https://www.flowtraders.com/about/leadership/",
+    "kind": "page"
+   },
+   {
+    "value": "sca",
+    "snippet": "y 2023 as Global Finance Director. Hermien has 20+ years of experience leading and scaling Finance, Risk, Control and Operational functions across insurance and asset management firms. Prior to joining Flow Traders, Hermien served as Chief Financial and Risk Officer and member of the Management Board at Achmea Investment Management. Befor",
+    "url": "https://www.flowtraders.com/about/leadership/",
+    "kind": "page"
+   },
+   {
+    "value": "BaFin",
+    "snippet": "\u00f6rse AG. For more than a decade, he held direct oversight responsibility for FSA and BaFin regulated derivatives and securities trading businesses. Between 2000 and 2005, Rudolf served as CEO of Eurex and from 2003 to 2005 Rudolf was Chairman of the Management Board of the Frankfurt Stock Exchange. Pau",
+    "url": "https://www.flowtraders.com/about/leadership/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Committees Corporate Documents AG",
+    "snippet": "Share Information Research Analysts Dividend Policy Corporate Governance Committees Corporate Documents AGM Calendar Foundation Foundation Donate Flow Traders Strategic Capital Strategic Capital Strategic Capital Portfolio INIT Cap",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "us on embracing transparency in financial markets, inc",
+    "snippet": "trading costs for market participants by delivering higher execution quality. We focus on embracing transparency in financial markets, increasing our proximity to developing innovation and fostering the transformation of the financial ecosystem. Find out more about what we do Our Mission We",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Risk Manag",
+    "snippet": "markets. Deep ETP Expertise Cutting Edge Technology Risk Management Focus Strong Team Driven Culture Deep ETP Expertise Cutting Edge Technology Risk Management Focus",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Our trading hubs in Europe, the U.S. and Asia",
+    "snippet": "obal financial markets. Find out more Diverse and Global Locations Our trading hubs in Europe, the U.S. and Asia-Pacific provide liquidity across all major exchanges and trading platforms, globally, 24 hours a day. Where we operate Where we operate WORKING AT FLOW TRA",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "aborate with our Trading and Technology divisions, sa",
+    "snippet": "more Business Support Our Business Support teams closely collaborate with our Trading and Technology divisions, safeguarding central aspects of our business and people. Find out more FOUNDATION Giving Back to Society We have a longstanding belief",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "new-frontiers-in-fixed-inc",
+    "snippet": "fice-in-milan/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/new-frontiers-in-fixed-income-liquidity-buy-side-considerations/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/considerations-benefits-and-risks-of-moving-to-tplus1-in-euro",
+    "url": "https://www.flowtraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "flow-traders-response-to-basels-crypto-proposa",
+    "snippet": "-etf-industry/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/flow-traders-response-to-basels-crypto-proposals-and-market-impact/ 2023-07-21T15:44:37+00:00 0.64 https://flowtraders.com/news-insights/flow-traders-response-to-introduction-of-a-consolidated-tape/ 2023-07-21T15:44",
+    "url": "https://www.flowtraders.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "am, a city with an extensive and rich trading heritag",
+    "snippet": "Amsterdam, The Netherlands Founded in 2004, Flow Traders was established in Amsterdam, a city with an extensive and rich trading heritage. Read more Close The heart of our trading operations lives in the east of the city, in which around 400 colleagues collaborate, engage and work together. From t",
+    "url": "https://www.flowtraders.com/about/where-we-operate/",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "ease _review_ an important disclaimer and brand abuse note",
+    "snippet": "Flow Traders Please _review_ an important disclaimer and brand abuse note. About What We Do Digital Assets Careers News Investors Foundation Strategic Capital Menu AMS \u20ac27.40 -0.10",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eadership\n \n \n \n \n \n \n \n What We Do \n What We Do Institutional Trading\n \n \n \n \n \n \n \n Digital Assets \n Digital Assets Co",
+    "snippet": "7.40 -0.10 About About Where We Operate Sustainability Leadership What We Do What We Do Institutional Trading Digital Assets Digital Assets Contact Careers Careers Job Search Graduates Trading Technology Business Support Career Events Investors",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earch\n \n \n \n Graduates\n \n \n \n Trading\n \n \n \n Technology\n \n \n \n Business Support\n \n \n \n Career Events\n \n \n \n \n \n \n \n \n In",
+    "snippet": "Digital Assets Digital Assets Contact Careers Careers Job Search Graduates Trading Technology Business Support Career Events Investors Investors Investment Case Press Releases Results Centre Investor Updates Reports & Documents Share Information Research Anal",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eases\n \n \n \n Results Centre\n \n \n \n Investor Updates\n \n \n \n Reports & Documents\n \n \n \n Share Information\n \n Research Anal",
+    "snippet": "Career Events Investors Investors Investment Case Press Releases Results Centre Investor Updates Reports & Documents Share Information Research Analysts Dividend Policy Corporate Governance Committees Corporate Documents AGM Calendar Foundation Foundation Donate Flow Traders S",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earch\n \n \n \n \n Graduates\n \n \n \n \n Trading\n \n \n \n \n Technology\n \n \n \n \n Business Support\n \n \n \n \n Career Events",
+    "snippet": "Digital Assets Digital Assets Contact Careers Careers Job Search Graduates Trading Technology Business Support Career Events News Investors Investors Investment Case Press Releases Results Centre Investor Updates Reports & Documents Share I",
+    "url": "https://www.flowtraders.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Equities",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

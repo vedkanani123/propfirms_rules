@@ -1,0 +1,130 @@
+{
+ "slug": "susquehanna-international-group",
+ "name": "Susquehanna International Group",
+ "category": "Institutional",
+ "url": "https://sig.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://sig.com/",
+   "kind": "home",
+   "chars": 3322
+  },
+  {
+   "url": "https://sig.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 5899
+  },
+  {
+   "url": "https://sig.com/disclosures/sb-business-plan/",
+   "kind": "page",
+   "chars": 3074
+  },
+  {
+   "url": "https://sig.com/disclosures/sfg-business-program/",
+   "kind": "page",
+   "chars": 3430
+  }
+ ],
+ "page_count": 4,
+ "total_chars": 15728,
+ "findings": {
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "0:00 https://sig.com/officepuzzles/ 2024-06-17T20:53:16+00:00 https://sig.com/sigenigmas/ 2024-06-17T20:53:10+00:00 https://sig.com/interns/ 2024-09-06T01:48:17+00:00 https://sig.com/enrollment/ 2024-12-06T01:48:59+00:00 https://sig.com/open-enrollment/ 2024-10-24T14:27:40+00:00 https://sig.com/t",
+    "url": "https://sig.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Institutional Sa",
+    "snippet": "Who We Are Careers Blog What We Do Quantitative Trading Predictions Institutional Sales Growth Equity Sustainable Investments Venture Capital River's Edge Who We Are Game Theory + Decision Science Life at Susquehanna Office Locations",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Since 1987, we've inc",
+    "snippet": "> *]:leading-tight\" style=\"text-decoration-color: #005db9;\"> Our Story Since 1987, we've incorporated decision science, collaboration, and game theory to foster a culture of reason that sets us apart. Who We Are \u2794 img+img]:ml-3\"> *]:l",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "arkets. We're big on competition, strategy, and manag",
+    "snippet": "We use strategic games to teach decision making under uncertainty in the financial markets. We're big on competition, strategy, and managing risk-just like great gamers are. Game Theory \u2794 img+img]:ml-3\"> div+div]:mt-5\"> *]:leading-tight\"> Our Global Reach p]:leading-tight",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "have created a collaborative environment that leverag",
+    "snippet": "employees in 16+ offices around the world, Susquehanna is almost always trading. We have created a collaborative environment that leverages our global expertise and maximizes trading opportunities around the clock. a+a]:ml-1\"> See Our Offices \u2794 What We Do Quantitative Trading",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "chicag",
+    "snippet": "ions/new-york/ 2026-05-07T17:51:54+00:00 https://sig.com/who-we-are/office-locations/chicago/ 2026-05-07T17:52:37+00:00 https://sig.com/who-we-are/office-locations/dublin/ 2026-05-07T17:56:55+00:00 https://sig.com/who-we-are/office-locations/sydney/ 2026-05-18T",
+    "url": "https://sig.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sdublin-limited",
+    "snippet": "closures/sfg-business-program/ 2024-08-26T14:10:21+00:00 https://sig.com/disclosures/sdublin-limited-uk-tax-strategy/ 2025-05-05T20:39:09+00:00 https://sig.com/disclosures/sis-mifid-ii-rts-28-analysis-2022/ 2024-09-06T01:48:20+00:00 https://sig.com/disclosures/sis-mifid",
+    "url": "https://sig.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sis-statement-on-identifying-and-managing-princ",
+    "snippet": "s-sustainability-risks-policy/ 2024-09-06T01:48:20+00:00 https://sig.com/disclosures/sis-statement-on-identifying-and-managing-principal-adverse-sustainability-impacts/ 2024-09-06T01:48:21+00:00 https://sig.com/disclosures/sis-sustainability-and-remuneration-policy-information/ 2024-09-06T01:48:19+00:",
+    "url": "https://sig.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "risk-manag",
+    "snippet": "ig.com/waves/authors/chi-ting/ 2026-09-04T17:51:49+00:00 https://sig.com/waves/posts/risk-management-quant-trading/ 2026-08-27T14:10:17+00:00 https://sig.com/waves/posts/true-size-financial-data/ 2026-08-28T18:59:37+00:00 https://sig.com/waves/posts/early-quant-edu",
+    "url": "https://sig.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earch + Machine Learning\n Apply Now\n \n \n Blog \n \n \n \n Waves\n Raise Your Game\n \n \n \n \n \n \n \n \n \n div>div>a]:py-2 max-md:m",
+    "snippet": "quehanna Office Locations Careers Trading Technology Quantitative Research + Machine Learning Apply Now Blog Waves Raise Your Game div>div>a]:py-2 max-md:mb-2 [&>p:nth-child(2)]:-ml-[6px] [&>div]:2xl:gap-20 [&>div>div>a]:xl:py-3\"> At the Forefront of quantitative trading Apply to Susquehanna \u2794 p:nth-child(2)",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading-none flex-grow\"> Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and in",
+    "snippet": "ply to Susquehanna \u2794 p:nth-child(2)]:-ml-[6px] [&>div]:2xl:gap-20\"> ]:leading-none flex-grow\"> Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy i",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment",
+    "snippet": "Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. ]:leading-none flex-grow\"> To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative res",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading-none flex-grow\"> To meet the unique challenges of global markets, Susquehanna applies machine learning and advanc",
+    "snippet": "design and deploy impactful strategies in our systematic trading environment. ]:leading-none flex-grow\"> To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market ex",
+    "url": "https://sig.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earch to vast datasets in order to uncover actionable insights and build effective strategies",
+    "snippet": "of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing boundaries together. What We Do \u2794 *",
+    "url": "https://sig.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

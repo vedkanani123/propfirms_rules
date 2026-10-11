@@ -1,0 +1,738 @@
+{
+ "slug": "city-traders-imperium",
+ "name": "City Traders Imperium",
+ "category": "Forex/CFD",
+ "url": "https://citytradersimperium.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://citytradersimperium.com/",
+   "kind": "home",
+   "chars": 28841
+  },
+  {
+   "url": "https://citytradersimperium.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 381
+  },
+  {
+   "url": "https://citytradersimperium.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 88299
+  },
+  {
+   "url": "https://citytradersimperium.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 27687
+  },
+  {
+   "url": "https://citytradersimperium.com/category-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 580
+  },
+  {
+   "url": "https://citytradersimperium.com/author-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 237
+  },
+  {
+   "url": "https://citytradersimperium.com/forex-calculators/challenge-drawdown-calculator/",
+   "kind": "page",
+   "chars": 13434
+  },
+  {
+   "url": "https://citytradersimperium.com/ea-trading-rules/",
+   "kind": "page",
+   "chars": 17526
+  },
+  {
+   "url": "https://citytradersimperium.com/vip-program-payout/",
+   "kind": "page",
+   "chars": 20545
+  },
+  {
+   "url": "https://citytradersimperium.com/engage-in-forex-trading-ranging-price/",
+   "kind": "page",
+   "chars": 16511
+  },
+  {
+   "url": "https://citytradersimperium.com/price-compression-forex-trading/",
+   "kind": "page",
+   "chars": 18323
+  },
+  {
+   "url": "https://citytradersimperium.com/spreads-bid-ask-prices-explained/",
+   "kind": "page",
+   "chars": 24907
+  },
+  {
+   "url": "https://citytradersimperium.com/how-to-pass-a-funded-account-challenge/",
+   "kind": "page",
+   "chars": 25269
+  },
+  {
+   "url": "https://citytradersimperium.com/1-step-challenge/",
+   "kind": "page",
+   "chars": 16229
+  },
+  {
+   "url": "https://citytradersimperium.com/prop-firm-challenge/",
+   "kind": "page",
+   "chars": 17547
+  },
+  {
+   "url": "https://citytradersimperium.com/2-step-challenge/",
+   "kind": "page",
+   "chars": 16967
+  },
+  {
+   "url": "https://citytradersimperium.com/cti-vs-ftmo-challenge-alternative/",
+   "kind": "page",
+   "chars": 15199
+  },
+  {
+   "url": "https://citytradersimperium.com/1-step-challenge-vs-2-step/",
+   "kind": "page",
+   "chars": 19799
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 368298,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "8",
+    "snippet": "enge, our most EA-friendly program, from its help centre article : Rule Requirement Profit target 8% of the starting balance Maximum drawdown 5% of the starting balance, trailing, balance based Daily drawdown None Minimum profitable days 3 Time limit None News, overnigh",
+    "url": "https://citytradersimperium.com/ea-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "-Step Challenge? The CTI 1-Step Challenge funds you after a single phase. Hit an 8% profit target while staying within a 5% drawdown, with no time limit, then trade a funded account on an 80% profit share that scales to 100% through the VIP program. 1 STEP One phase to funded The Es",
+    "url": "https://citytradersimperium.com/1-step-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "allenge Metrics Trading Perks Challenge Metrics Phases 2 phases to pass Phase 1 Profit Target 10% of starting balance Phase 2 Profit Target 5% of starting balance Max Static Drawdown 10% of the initial balance Max Daily Drawdown 5% of the initial balance, from",
+    "url": "https://citytradersimperium.com/2-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "5",
+    "snippet": "hecklist: \u2713 Profit Target: Understand both percentage and dollar amounts \u2713 Maximum Daily Drawdown: Know your daily risk ceiling (usually 5% of starting balance) \u2713 Maximum Total Drawdown: Your overall loss limit (typically 10% of account) \u2713 Consistency Rules: Some firms require no single day to exceed 50% o",
+    "url": "https://citytradersimperium.com/how-to-pass-a-funded-account-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "them well away from that scenario. The 2-step challenge uses dual protection : a 5% daily drawdown limit and a 10% static maximum drawdown. This structure forces discipline. You can\u2019t have one catastrophic day and blow through your account. You can\u2019t slowly bleed capital across multi",
+    "url": "https://citytradersimperium.com/1-step-challenge-vs-2-step/",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "5",
+    "snippet": "its help centre article : Rule Requirement Profit target 8% of the starting balance Maximum drawdown 5% of the starting balance, trailing, balance based Daily drawdown None Minimum profitable days 3 Time limit None News, overnight and weekend holds Allowed The trailing f",
+    "url": "https://citytradersimperium.com/ea-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "mum Daily Drawdown: Know your daily risk ceiling (usually 5% of starting balance) \u2713 Maximum Total Drawdown: Your overall loss limit (typically 10% of account) \u2713 Consistency Rules: Some firms require no single day to exceed 50% of total profits \u2713 Prohibited Trading: News trading restrictions, weekend holds, hedgin",
+    "url": "https://citytradersimperium.com/how-to-pass-a-funded-account-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "20",
+    "snippet": "nsive option called \u2018Aggressive\u2019 on its challenge account. This mode offers a higher maximum drawdown (20% instead of 10%). We have noted the prices of this account next to those of the ordinary FTMO Challenge. Here\u2019s how CTI\u2019s Challenge compares to FTMO\u2019s Challenge at a gla",
+    "url": "https://citytradersimperium.com/cti-vs-ftmo-challenge-alternative/",
+    "kind": "page"
+   },
+   {
+    "value": "6",
+    "snippet": "own. Time Limit: Unlimited. Minimum Trading Days = None. The Profit Target = 10% Max Drawdown = 6% from the initial balance. After passing, expect a balance to be boosted 2x the Starting Funded Account Balance and also have more payout frequency and a higher profi",
+    "url": "https://citytradersimperium.com/cti-vs-ftmo-challenge-alternative/",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "Reviewed on Highly Rated $4m Scaling TO 100% Profit share 8 years Paying out Get Funded Now Start Free Trial *No card needed Get Funded Now Start Free Trial - No card needed Award-Winning Prop Fir",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "rks, at no extra cost. Bronze Trader Your journey begins here 90% profit share. Weekly payouts unlocked. One 1-to-1 coaching session / month. Free CTI merchandise. Silver Trader Halfway to the top",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "30",
+    "snippet": "p Challenge, Instant Funding, and Instant Funding Pro. Purchase new challenges at a 30% discount while keeping your VIP payout schedule and profit splits. Recognition & Support VIP members gain access to priority support channels with faster response times. All tiers receive certificates of ac",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "ons. Profit Splits that Grow with You Standard Instant Funding accounts begin with 80% profit splits . The VIP program creates a clear progression of tiered increases that reward consistency and longevity. Baseline vs. Tiered Increases: Standard : 80% profit split (",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "229 FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allo",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed i",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed i Profit S",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "HALLENGE Instant Funding Straight to Funded | From $79 $2.5K $5K $10K $20K $40K $80K $2,500 Account size i Profit Target To Scale $125 i Max Drawdown $75 i Max Daily Drawdown \u2013 i News Trading Allo",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "E Instant Funding Straight to Funded | From $79 $2.5K $5K $10K $20K $40K $80K $2,500 Account size i Profit Target To Scale $125 i Max Drawdown $75 i Max Daily Drawdown \u2013 i News Trading Allowed",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "stant Funding Straight to Funded | From $79 $2.5K $5K $10K $20K $40K $80K $2,500 Account size i Profit Target To Scale $125 i Max Drawdown $75 i Max Daily Drawdown \u2013 i News Trading Allowed i",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "lds Allowed 1st Payout 7 days Profit Share 80% to 100% Max Scaling per Account $200K Max Funding $400K Reset on Failure 15% Discount Platforms MetaTrader 5 & Match-Trader FUND YOUR EDGE 1-Step Challenge Plans ALL Challenge PLANS INCLU",
+    "url": "https://citytradersimperium.com/1-step-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "400",
+    "snippet": "yout 7 days Profit Share 80% to 100% Max Scaling per Account $200K Max Funding $400K Reset on Failure 15% Discount Platforms MetaTrader 5 & Match-Trader FUND YOUR EDGE 1-Step Challenge Plans ALL Challenge PLANS INCLUDE access to CTI ACA",
+    "url": "https://citytradersimperium.com/1-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "4",
+    "snippet": "Leading Prop Firm | Funded Accounts Up To $4M | Funding Traders Home Funding Programs 1-Step Challenge 2-Step Challenge Instant Funding Direct Funding FAQs Academy Reso",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "29",
+    "snippet": "Access to CTI Academy Fastest 1-Step Challenge Single Phase | From $29 most popular 2-Step Challenge Two Phases | From $39 skip challenge Instant Funding Straight to Funded | From $79",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "39",
+    "snippet": "ase | From $29 most popular 2-Step Challenge Two Phases | From $39 skip challenge Instant Funding Straight to Funded | From $79 Elite Direct Funding Fully Funded | From $229 F",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "79",
+    "snippet": "$39 skip challenge Instant Funding Straight to Funded | From $79 Elite Direct Funding Fully Funded | From $229 FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "229",
+    "snippet": "to Funded | From $79 Elite Direct Funding Fully Funded | From $229 FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2",
+    "snippet": "| From $229 FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i New",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "229 FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Tradin",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading All",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "FASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ASTEST 1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed i",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "1-Step Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed i Profit",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,50",
+    "snippet": "Challenge Single Phase | From $29 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed i Profit Share Up",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "el, and exactly where it would breach your drawdown limit. Choose daily, maximum, or trailing drawdown to match the rules you actually trade under. 1 Pick your drawdown type. Maximum is fixed from your starting balance, daily resets each day, trailing follows your p",
+    "url": "https://citytradersimperium.com/forex-calculators/challenge-drawdown-calculator/",
+    "kind": "page"
+   },
+   {
+    "value": "Static",
+    "snippet": "Target 10% of starting balance Phase 2 Profit Target 5% of starting balance Max Static Drawdown 10% of the initial balance Max Daily Drawdown 5% of the initial balance, from each day\u2019s starting balance Min Profitable Trading Days 3 per phase Time Limit None",
+    "url": "https://citytradersimperium.com/2-step-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "intraday",
+    "snippet": "t, that flexibility is unnecessary. Most professional traders don\u2019t want unlimited intraday drawdown capacity because their risk plan keeps them well away from that scenario. The 2-step challenge uses dual protection : a 5% daily drawdown limit and a 10% static maximum",
+    "url": "https://citytradersimperium.com/1-step-challenge-vs-2-step/",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rules",
+    "snippet": "equity, so one bad trade won't wipe you out. There are no time limits and no hidden consistency rules. You can trade the news and hold trades over the weekend. What if I don't have a tested strategy yet? Yes. Every paid program includes the full CTI Academ",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Consistency Rules: Some firms require no single day to exceed 50% of total profits\n \u2713 Prohibited Trading:",
+    "snippet": "ce) \u2713 Maximum Total Drawdown: Your overall loss limit (typically 10% of account) \u2713 Consistency Rules: Some firms require no single day to exceed 50% of total profits \u2713 Prohibited Trading: News trading restrictions, weekend holds, hedging limitations \u2713 Minimum Trading Days: The Required number of active trading days before payout eligibili",
+    "url": "https://citytradersimperium.com/how-to-pass-a-funded-account-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules\n \n Straightforward rules, no fine print\n \n \n \n \n The 2-Step Challenge has no hidden cons",
+    "snippet": "ny VIP progression, so you keep the majority of what you earn right away. No Consistency Rules Straightforward rules, no fine print The 2-Step Challenge has no hidden consistency requirements, with clear target and drawdown objectives. Trustpilot Trusted by traders worldwide Funded Trader Testimonials Genuine revie",
+    "url": "https://citytradersimperium.com/2-step-challenge/",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Bi-weekly",
+    "snippet": "ith the first withdrawal available after 5 trading days and at least 2% net profit. Payout Frequency Upgrades Standard : Bi-weekly payouts Bronze VIP : Weekly payout option Silver VIP : On-demand/anytime payouts Gold VIP : Customized payout schedules plus salary options Processing Times & Met",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "Weekly",
+    "snippet": "ng days and at least 2% net profit. Payout Frequency Upgrades Standard : Bi-weekly payouts Bronze VIP : Weekly payout option Silver VIP : On-demand/anytime payouts Gold VIP : Customized payout schedules plus salary options Processing Times & Methods All payouts process with",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "anytime",
+    "snippet": "ofit. Payout Frequency Upgrades Standard : Bi-weekly payouts Bronze VIP : Weekly payout option Silver VIP : On-demand/anytime payouts Gold VIP : Customized payout schedules plus salary options Processing Times & Methods All payouts process within 24-48 hours, with VIP accounts in many inst",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "monthly",
+    "snippet": "s but need regular income access. Bronze VIP weekly payouts and Silver VIP on-demand withdrawals solve cash flow challenges that monthly schedules create. Systematic Traders with Steady P/L Algorithm or system-based traders with predictable profit patterns. The VIP progression rewards exactly this type",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "Payment options available VISA G Pay Pay Pay Pal BTC Crypto Skrill NETELLER BANK TRANSFER VISA G Pay Pay Pay Pal BTC Crypto Skrill NETELLER BANK TRANSFER Funded, rewarded",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Skrill",
+    "snippet": "Payment options available VISA G Pay Pay Pay Pal BTC Crypto Skrill NETELLER BANK TRANSFER VISA G Pay Pay Pay Pal BTC Crypto Skrill NETELLER BANK TRANSFER Funded, rewarded Built For",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "018. Payouts are approved and processed within 24 hours of your request. We pay via bank transfer or Direct Crypto. CTI has made 8 years of uninterrupted payouts to traders in over 178 countries. I've failed at other prop firms. Will I pass at CTI? Mo",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rise",
+    "snippet": "t the highest balance your account has reached, minus 5% of the starting balance. It rises as that high watermark rises, and withdrawals leave it where it is. Our balance-based drawdown explainer works through the numbers, and the Challenge Drawdown Calcula",
+    "url": "https://citytradersimperium.com/ea-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "s receiving same-day processing. Payment methods include bank transfers (no fees), PayPal, and cryptocurrency. VIP members may access additional payment options and higher withdrawal limits. Cash-Flow Scenarios Weekly and on-demand funded account payouts so",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "ince 2018 The Prop Firm That's Paid Out Traders For 8 Years We help you master your skills . Rules built for traders . Pass the Challenge and get rewarded . Excellent Reviewed on Highly Rated $4m Scaling TO 10",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Sca",
+    "snippet": ". Excellent Reviewed on Highly Rated $4m Scaling TO 100% Profit share 8 years Paying out Get Funded Now Start Free Trial *No card needed Get Funded Now Start Free Trial - No card needed Award-Winning Prop Firm Top Choice For Traders The Trusted Prop, 2025 Best",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "asic",
+    "snippet": "nothing changes. Same standard split forever, same monthly payout schedule, same basic support. CTI rewards consistency and longevity through a comprehensive VIP program that grows more valuable the longer you trade successfully. How the VIP Program Works (Tier",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "MT5 Trade Manag",
+    "snippet": "Swap Calculator Pip Calculator Position Size Calculator Risk Of Ruin Calculator MT5 Trade Manager More Become an Affiliate Partners About Us Shop Start a Prop Firm LOG IN FREE TRIAL LOGIN Home Funding Programs 1-Step Challenge 2-Step Chal",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Funding traders sinc",
+    "snippet": "Shop Start a Prop Firm Skip to content Funding traders since 2018 The Prop Firm That's Paid Out Traders For 8 Years We help you master your skills . Rules built for traders . Pass the Challenge and get rewarded .",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "International Business Mag",
+    "snippet": "ted Prop, 2025 Best Match Trader Prop Firms, 2025 Best UAE Prop Firm International Business Magazine, 2025 Most Trusted Prop Firm Funded Trading Awards, 2025 Top Choice For Traders The Trusted Prop, 2025 Best Match Trader Prop Firms, 2025",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "All Funding Programs Inc",
+    "snippet": "ed Trading Awards, 2025 Pick your path Choose Your Funding Program All Funding Programs Include Access to CTI Academy Fastest 1-Step Challenge Single Phase | From $29 most popular 2-Step Challenge Two Phases | From $39",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "Built For Traders, Proven Worldwide 178+ Countries reached 8HR Average payout time Rochee Instant Funding +$42,222.35 Ryan Instant Funding +$30,635.30 V\u00edt Direct Funding +$25,845.95 Niraj 2-Step Challenge +$22,",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "CTI has funded traders sinc",
+    "snippet": "Traders Choose CTI Since 2018 A track record traders can rely on. CTI has funded traders since 2018, longer than most prop firms in the industry. Anytime Payout Payout freedom that traders earn. CTI funded traders who reach the Silver level of",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Every tool inc",
+    "snippet": "schedule and no minimum trading days required. Free Built-In Trading Tools Every tool included, built to help you win. Every funded account includes CTI Academy, Account Metrics, Account Analysis, a Trading Journal, Risk Calculators, an Economic Ca",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Every funded account inc",
+    "snippet": "Free Built-In Trading Tools Every tool included, built to help you win. Every funded account includes CTI Academy, Account Metrics, Account Analysis, a Trading Journal, Risk Calculators, an Economic Calendar, a Personal Wallet, Direct Payouts, and an Affiliate Po",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "15969",
+    "snippet": "raders Imperium Limited, a company incorporated under the laws of Comoros Union with company number 15969 (License No. L15969/CTI), registered address at Hamchako, Mutsamudu, Autonomous Island of Anjouan, Comoros Union, with operating address at Edificio Faro, Oficina 4, Ave",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "DSO-FZCO-21340",
+    "snippet": "ta Rica. City Traders Imperium Academy educational courses are provided by CTI FZCO (Company No. DSO-FZCO-21340), registered at Dubai Silicon Oasis, DDP, Building A1, Dubai, United Arab Emirates. Legal Disclosure: City Traders Imperium Limited provides access to simulated tradi",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy AML Policy Affiliate Agreement Conduct Policy Editorial Policy Sitemap Cookie Settings \n Skill assessment ",
+    "snippet": "lable on the website Discord: Join Community Terms & Conditions Privacy Policy Refund Policy AML Policy Affiliate Agreement Conduct Policy Editorial Policy Sitemap Cookie Settings Skill assessment programmes and simulated demo trading services are provided exclusively by City Traders Imperium Limited, a company incorporated under the laws",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refunds: All fees paid are educational service fees for access to courses or skill assessment programmes",
+    "snippet": "likely to, achieve profits or losses similar to those shown or implied. Payments & Refunds: All fees paid are educational service fees for access to courses or skill assessment programmes. All fees are non-refundable except as outlined in our Refund Policy . Jurisdictional Restrictions: Neither entity offers services to nationals or resid",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable except as outlined in our Refund Policy",
+    "snippet": "service fees for access to courses or skill assessment programmes. All fees are non-refundable except as outlined in our Refund Policy . Jurisdictional Restrictions: Neither entity offers services to nationals or residents of the following jurisdictions: North Korea (DPRK), Iran, Syria, Cuba, Russia, or",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund\u201d Gap \n Scaling & Advanced Perks \n Who Benefits Most : \n FAQs \n Your Path to Elite Trader Status \n \n From Funded t",
+    "snippet": "ncements for Instant Funding Coaching & Performance Support Bridging the \u201cNo Fee Refund\u201d Gap Scaling & Advanced Perks Who Benefits Most : FAQs Your Path to Elite Trader Status From Funded to Fortune \u2794 Instant Funding + VIP = bigger take-home, faster payouts, coaching, and a clear path to elite perks \u2794 VIP tiers reward consistency with inc",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading \n Allowed \n \n \n i \n Profit Share \n Up To 100% \n \n \n i \n Min Profitable Days \n 3 \n \n \n i \n First Withdrawal ",
+    "snippet": "rget $200 i Max Drawdown $125 i Max Daily Drawdown \u2013 i News Trading Allowed i Profit Share Up To 100% i Min Profitable Days 3 i First Withdrawal 7 days One-Time Payment $29 Start Challenge $5,000 Account size i Profit Target $400 i Max Drawdown $250 i Max Daily Drawdown \u2013 i News Trading All",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading \n Allowed \n \n \n i \n Profit Share \n Up To 100% \n \n \n i \n Min Profitable Days \n \u2013 \n \n \n i \n First Withdrawal ",
+    "snippet": "Scale $125 i Max Drawdown $75 i Max Daily Drawdown \u2013 i News Trading Allowed i Profit Share Up To 100% i Min Profitable Days \u2013 i First Withdrawal 5 days i Starting Balance $1,250 i Fully Funded $2,500 One-Time Payment $79 Get Funded $5,000 Account size i Profit Target To Scale $250 i Max Drawdown $1",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading is permitted with no time-window restrictions,\n and positions can be held over the weekend or overnight on\n",
+    "snippet": "ork. Trader-friendly rules Trade your style, without restriction. News trading is permitted with no time-window restrictions, and positions can be held over the weekend or overnight on every funding program. Algorithmic and EA trading are fully supported, giving traders the freedom to trade their own strategy without added limits. Balance",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eading Prop Firm | Funded Accounts Up To $4M | Funding Traders \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Home Funding Pr",
+    "snippet": "Leading Prop Firm | Funded Accounts Up To $4M | Funding Traders Home Funding Programs 1-Step Challenge 2-Step Challenge Instant Funding Direct Funding FAQs Academy Resources Join Community Blog Market News Symbols Live Feed Economic Calendar Tradi",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears \n \n \n We help you master your skills",
+    "snippet": "Funding traders since 2018 The Prop Firm That's Paid Out Traders For 8 Years We help you master your skills . Rules built for traders . Pass the Challenge and get rewarded . Excellent Reviewed on Highly Rated $4m Scaling TO 10",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ears\n \n Paying out\n \n \n \n \n Get Funded Now Start Free Trial\n *No card needed\n \n \n \n Get Funded Now Start Free Trial - No",
+    "snippet": "hly Rated $4m Scaling TO 100% Profit share 8 years Paying out Get Funded Now Start Free Trial *No card needed Get Funded Now Start Free Trial - No card needed Award-Winning Prop Firm Top Choice For Traders The Trusted Prop, 2025 Best Match Trader Prop Firms, 2025 Best UAE Prop Firm",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More about the 1-Step Challenge \n \n \n \n \n MOST POPULAR\n \n 2-Step Challenge Two Phases | From $39 \n \n \n $2",
+    "snippet": "i First Withdrawal 7 days One-Time Payment $449 Start Challenge Learn More about the 1-Step Challenge MOST POPULAR 2-Step Challenge Two Phases | From $39 $2.5K $5K $10K $25K $50K $100K $2,500 Account size i Profit Target, P1 $250 i Profit Target, P2 $125 i Max Drawdown $250 i M",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More about the 2-Step Challenge \n \n \n \n \n SKIP CHALLENGE\n \n Instant Funding Straight to Funded | From $79 \n \n \n $2",
+    "snippet": "i First Withdrawal 7 days One-Time Payment $549 Start Challenge Learn More about the 2-Step Challenge SKIP CHALLENGE Instant Funding Straight to Funded | From $79 $2.5K $5K $10K $20K $40K $80K $2,500 Account size i Profit Target To Scale $125 i Max Drawdown $75 i Max Daily Drawdown \u2013",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "VPS",
+    "snippet": "ng rules on every account Running a bought or third-party EA Where your EA runs: VPS, devices and platform Trading while you travel What your EA has to hit to get funded A pre-launch checklist for your EA Questions EA traders ask us Expert advisors are welcome on every challenge and funded account at City Traders Imperium. Our EA trading ",
+    "url": "https://citytradersimperium.com/ea-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "VPN",
+    "snippet": "short email before you trade from it, and connect it directly rather than through a VPN, proxy or IP-masking service. The details are in our IP, VPS and device rules . You can use up to two devices: one PC or laptop and one mobile phone, kept the same from the challenge through to the",
+    "url": "https://citytradersimperium.com/ea-trading-rules/",
+    "kind": "page"
+   },
+   {
+    "value": "IP address",
+    "snippet": "try and a flight or hotel booking. That way, logging in from a new country and a new IP address is already expected, and your trading carries on without interruption. The details are in our IP, VPS and device rules . If your EA runs on an approved VPS, it keeps trading from the same server while you are away. What your EA has to hi",
+    "url": "https://citytradersimperium.com/ea-trading-rules/",
+    "kind": "page"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@citytradersimperium.com",
+    "snippet": "iliate Partners About Us Shop Start a Prop Firm Contact Us Contact Support Email: support@citytradersimperium.com Live Chat: available on the website Discord: Join Community Terms & Conditions Privacy Policy Refund Policy AML Policy Affiliate Agreement Conduct Policy Editorial",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "ilt For Traders, Proven Worldwide 178+ Countries reached 8HR Average payout time Rochee Instant Funding +$42,222.35 Ryan Instant Funding +$30,635.30 V\u00edt Direct Funding +$25,845.95 Niraj 2-Step Challenge +$22,636.35 Arnont 2-Step Challenge +$21,384",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "24 hours",
+    "snippet": "e are independently reviewed on Trustpilot, Google, and Prop Firm Match, and every payout request is processed within 24 hours of approval. Why choose CTI? CTI has been paying funded traders since 2018, one of the longest track records in the industry. All our programs are made by",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24 hours\n of your requ",
+    "snippet": "if I pass? Yes. CTI has been paying funded traders continuously since 2018. Payouts are approved and processed within 24 hours of your request. We pay via bank transfer or Direct Crypto. CTI has made 8 years of uninterrupted payouts to traders in over 178 countries. I've failed at other prop firms.",
+    "url": "https://citytradersimperium.com/",
+    "kind": "home"
+   },
+   {
+    "value": "within 24-48 hours, with VIP",
+    "snippet": ": Customized payout schedules plus salary options Processing Times & Methods All payouts process within 24-48 hours, with VIP accounts in many instances receiving same-day processing. Payment methods include bank transfers (no fees), PayPal, and cryptocurrency. VIP members may access additiona",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "within 24\u201348 hours",
+    "snippet": "ekly payouts, with the first withdrawal after 5 trading days and at least 2% profit. Payouts are processed within 24\u201348 hours. Bank transfers are fee-free; PayPal and crypto may carry service/network fees. Do higher splits apply to all my accounts? Yes. VIP status is tied to the trader, not t",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan",
+    "snippet": "Advanced Perks One of CTI\u2019s strongest advantages for Instant Funding traders is the scaling plan . Every time you achieve a +10% profit milestone, your account doubles in size . A $20,000 account becomes $40,000, then $80,000, $160,000, and so on. The ceiling is hi",
+    "url": "https://citytradersimperium.com/vip-program-payout/",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans",
+    "snippet": "f proprietary trading, confused by terms like profit shares, daily drawdowns, and scaling plans . With that fond memory in mind, I decided to draft this short guide, breaking down everything in simple terms, sprinkling in some real-world tips, and making sure you",
+    "url": "https://citytradersimperium.com/prop-firm-challenge/",
+    "kind": "page"
+   },
+   {
+    "value": "Scaling Plans: Successful traders can increase account size without risking any additional funds of their own",
+    "snippet": "king your own capital. (With CTI, you can earn up to 100% in the CTI VIP Program ). Scaling Plans: Successful traders can increase account size without risking any additional funds of their own. Risk Free: After the initial signup fee, there is no financial risk for the trader. Also, once you pass the Challenge and get funded, many prop f",
+    "url": "https://citytradersimperium.com/prop-firm-challenge/",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscription",
+    "snippet": "One-Time Payment $449 Start Challenge One-time challenge fee, no monthly subscription. Payment options available VISA G Pay Pay Pay Pal BTC Crypto Skrill NETELLER BANK TRANSFER VISA G Pay Pay P",
+    "url": "https://citytradersimperium.com/1-step-challenge/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "s Home Funding Programs 1-Step Challenge 2-Step Challenge Instant Funding Direct Funding FAQs Academy Resources Join Community Blog Market News Symbols Live Feed Economic Calendar Trading Platforms MetaTrader 5 Match Trader C",
+   "url": "https://citytradersimperium.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "ccounts Up To $4M | Funding Traders Home Funding Programs 1-Step Challenge 2-Step Challenge Instant Funding Direct Funding FAQs Academy Resources Join Community Blog Market News Symbols Live Feed Economic Calendar Tradin",
+   "url": "https://citytradersimperium.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "| Funding Traders Home Funding Programs 1-Step Challenge 2-Step Challenge Instant Funding Direct Funding FAQs Academy Resources Join Community Blog Market News Symbols Live Feed Economic Calendar Trading Platforms MetaT",
+   "url": "https://citytradersimperium.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": ":00 https://citytradersimperium.com/wp-content/uploads/2025/07/Funding-Programs-Comparison-2025-1-2-3-Step-and-Instant.png https://citytradersimperium.com/funded-trading-plus-review/ 2026-09-03T09:11:16+00:00 https://citytradersimperium.com/wp-content/uploads/2025/0",
+   "url": "https://citytradersimperium.com/post-sitemap.xml"
+  },
+  {
+   "name": "Free trial / demo",
+   "snippet": "MT5 Trade Manager More Become an Affiliate Partners About Us Shop Start a Prop Firm LOG IN FREE TRIAL LOGIN Home Funding Programs 1-Step Challenge 2-Step Challenge Instant Funding Direct Funding FAQs Academy Resources Join Commun",
+   "url": "https://citytradersimperium.com/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "ds the account. What is end of day trailing drawdown? End of day trailing drawdown is common on futures accounts. The limit only moves up when a trading day closes at a new high, so profit you make and then give back within the same session never raises your floor. It is",
+   "url": "https://citytradersimperium.com/forex-calculators/challenge-drawdown-calculator/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "Match-Trader",
+  "TradingView"
+ ],
+ "assets": [
+  "Forex",
+  "Indices",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Commodities",
+  "Futures",
+  "CFD",
+  "Options"
+ ],
+ "coupon_codes": [
+  {
+   "code": "PORTAL15",
+   "context": "y. All Rights Reserved. \u00d7 15% off 1-Step, 2-Step and Instant Funding with code PORTAL15 \u2715 Claim 15% Off Now Copy code PORTAL15 Valid until 11 Oct"
+  }
+ ],
+ "claims": [
+  "krill NETELLER BANK TRANSFER Funded, rewarded Built For Traders, Proven Worldwide 178+ Countries reached 8HR Average payout time Ro",
+  "ng Trader discussions Payout proof 24/7 support +28,000 Members Payout certificate Trevor +$17,400.00 Payout certificate Nico +$19,650.00 Payout certificate Arno",
+  "24/7 support +28,000 Members Payout certificate Trevor +$17,400.00 Payout certificate Nico +$19,650.00 Payout certificate Arnont +$21,384.40 Payout certificate Ni",
+  "ertificate Trevor +$17,400.00 Payout certificate Nico +$19,650.00 Payout certificate Arnont +$21,384.40 Payout certificate Niraj +$22,636.35 Payout certificate Rya",
+  "certificate Nico +$19,650.00 Payout certificate Arnont +$21,384.40 Payout certificate Niraj +$22,636.35 Payout certificate Ryan +$30,635.30 Trading Community",
+  "legit? Yes. CTI has been funding traders since 2018, with 8 years of uninterrupted payouts across over 178 countries. We are independently reviewed on Trustpilot, Google, and"
+ ],
+ "errors": []
+}

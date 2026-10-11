@@ -1,0 +1,296 @@
+{
+ "slug": "optiver",
+ "name": "Optiver",
+ "category": "Institutional",
+ "url": "https://www.optiver.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.optiver.com/",
+   "kind": "home",
+   "chars": 8572
+  },
+  {
+   "url": "https://www.optiver.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 71931
+  },
+  {
+   "url": "https://www.optiver.com/insights/markets/volatility-views-traders-are-sanguine-about-us-midterms-too-sanguine/",
+   "kind": "page",
+   "chars": 8720
+  },
+  {
+   "url": "https://www.optiver.com/about-us/contact/",
+   "kind": "page",
+   "chars": 3269
+  },
+  {
+   "url": "https://www.optiver.com/insights/explainers/options-pricing/",
+   "kind": "page",
+   "chars": 7447
+  },
+  {
+   "url": "https://www.optiver.com/join-us/jobs/technology/amsterdam/quantitative-developer-pricing-data/",
+   "kind": "page",
+   "chars": 6447
+  },
+  {
+   "url": "https://www.optiver.com/insights/technology-blog/engineering-the-three-pillars-of-trading-pricing-risk-and-execution/",
+   "kind": "page",
+   "chars": 9726
+  },
+  {
+   "url": "https://www.optiver.com/join-us/jobs/technology/amsterdam/software-engineer-real-time-pricing/",
+   "kind": "page",
+   "chars": 6033
+  },
+  {
+   "url": "https://www.optiver.com/join-us/jobs/trading/sydney/etf-pricing-specialist/",
+   "kind": "page",
+   "chars": 4088
+  },
+  {
+   "url": "https://www.optiver.com/insights/explainers/an-illustrated-guide-to-price-controls-on-us-exchanges/",
+   "kind": "page",
+   "chars": 7843
+  },
+  {
+   "url": "https://www.optiver.com/insights/markets/how-japans-settlement-price-methodology-impacts-option-expiry/",
+   "kind": "page",
+   "chars": 15193
+  },
+  {
+   "url": "https://www.optiver.com/insights/news/optiver-joins-pyth-to-stream-prices-to-the-blockchain/",
+   "kind": "page",
+   "chars": 864
+  },
+  {
+   "url": "https://www.optiver.com/insights/markets/improving-the-price-improvement-model/",
+   "kind": "page",
+   "chars": 10168
+  },
+  {
+   "url": "https://www.optiver.com/insights/markets/a-plan-for-tackling-closing-auction-outages/",
+   "kind": "page",
+   "chars": 10503
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 170817,
+ "findings": {
+  "prices": [
+   {
+    "value": "20",
+    "snippet": "e price of the option, as explained above. An ITM call option with a strike price of $20 on an underlying asset priced at $30 has an intrinsic value of $10. In contrast, ATM or OTM options have no intrinsic value. The time value represents the additional am",
+    "url": "https://www.optiver.com/insights/explainers/options-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "30",
+    "snippet": "bove. An ITM call option with a strike price of $20 on an underlying asset priced at $30 has an intrinsic value of $10. In contrast, ATM or OTM options have no intrinsic value. The time value represents the additional amount investors are willing to pay for",
+    "url": "https://www.optiver.com/insights/explainers/options-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "a strike price of $20 on an underlying asset priced at $30 has an intrinsic value of $10. In contrast, ATM or OTM options have no intrinsic value. The time value represents the additional amount investors are willing to pay for the likelihood that the optio",
+    "url": "https://www.optiver.com/insights/explainers/options-pricing/",
+    "kind": "page"
+   },
+   {
+    "value": "285",
+    "snippet": "n the money and expired even further in the money, causing gross gains or losses of $285 million, with some investors losing tens of millions of dollars. Not only did the expiry price print 680 points above the future, but the latter also opened 270",
+    "url": "https://www.optiver.com/insights/markets/how-japans-settlement-price-methodology-impacts-option-expiry/",
+    "kind": "page"
+   },
+   {
+    "value": "0.05",
+    "snippet": "t participated in the auction. Most exchanges charge a contra response [ 2 ] fee of $0.05 per executed contract. All other unaffiliated responses that are executed are charged $0.50 per executed contract. Additionally, paired order types like auto-match allo",
+    "url": "https://www.optiver.com/insights/markets/improving-the-price-improvement-model/",
+    "kind": "page"
+   },
+   {
+    "value": "0.50",
+    "snippet": "er executed contract. All other unaffiliated responses that are executed are charged $0.50 per executed contract. Additionally, paired order types like auto-match allow the affiliated MM firm to not initially respond at the best price level(s) as other respon",
+    "url": "https://www.optiver.com/insights/markets/improving-the-price-improvement-model/",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "07+00:00 weekly 0.5 https://www.optiver.com/join-us/jobs/technology/amsterdam/enterprise-data-engineer/ 2026-10-05T14:00:18+00:00 weekly 0.5 https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/sydney/expressions-of-interest-gradu",
+    "url": "https://www.optiver.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "crypto",
+    "snippet": "ly 0.5 https://www.optiver.com/join-us/jobs/trading/singapore/digital-assets-trader-crypto-options/ 2026-10-05T14:00:07+00:00 weekly 0.5 https://www.optiver.com/join-us/jobs/trading/new-york/equities-operations-analyst/ 2026-10-05T14:00:07+00:00 weekly 0.5 h",
+    "url": "https://www.optiver.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "at the speed of your ideas. All jobs All jobs Solved from every angle, scaled across every market Markets are high-speed, competitive and dynamic. We bring teams into one performance loop to build the models, systems and strategies that win in global markets. Engineer systems that scale performance Technology",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "-research-and-machine-learning/shanghai/quantitative-research-internship-bachelor-or-master-summer-2027-shanghai/ 2026-10-05T14:00:20+00:00 weekly 0.5 https://www.optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/ 2026-10-05T14:00:11+00:00 weekly 0.5 https://www.optiver.com/join-us/jobs/techn",
+    "url": "https://www.optiver.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "licensed by",
+    "snippet": "df Disclaimer Disclaimer Optiver V.O.F. (\u2018Optiver\u2019) is a market maker licensed by the Dutch Authority for Financial Markets to engage in the investment activity of dealing on own account. This communication and all information contained herein, including any attachments, are confidential and intended solely for the use of the individual a",
+    "url": "https://www.optiver.com/insights/markets/volatility-views-traders-are-sanguine-about-us-midterms-too-sanguine/",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "The Options Basics Explainer introduced the concepts of call and put options, strike price, expiry, and long or short positions in an option contract. This Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Market Mak",
+    "url": "https://www.optiver.com/insights/explainers/options-pricing/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "and dynamic market structure. They set prices, manag",
+    "snippet": "Trading Trading teams apply probabilistic reasoning to order flow, volatility, risk and dynamic market structure. They set prices, manage exposure and work close to research and engineering to extract predictive signal and turn it into actionable trading decisions. See trading in practice See trading i",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Shared inc",
+    "snippet": "Build Ownership Validate Question Deploy Compound Built so good ideas travel Shared incentives, open context and flat structures keep the distance between a strong idea and a live result short. Traders, researchers and engineers work in one performance loop",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Chicag",
+    "snippet": "aled. The world is our proving ground Amsterdam 00:26:17 Austin 17:26:17 Chicago 17:26:17 Hong Kong 06:26:17 London 23:26:17 Amsterdam 00:26:17 Austin 17:26:17 Chicago 17:26:17 Hong Kong 06:26:17 London 23:26:17 Amsterdam 00:26:17",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Bring your ambition to an ecosystem built for leverag",
+    "snippet": "dney 09:26:17 Taipei 06:26:17 Work with us Experienced professionals Bring your ambition to an ecosystem built for leverage, where infrastructure, data and market complexity give your expertise a direct path to impact. Apply now Apply now Students Explore programs, internships and ev",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "stors would look to short-dated options to protect ag",
+    "snippet": "Fed meetings, CPI prints, elections \u2013 whenever an event appeared on the horizon, investors would look to short-dated options to protect against the possibility of volatility. Lend, borrow, grow: Improving Brazil\u2019s SBL market Market structure August 26, 2025 While Brazil\u2019s securities borrowing and lend",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s SBL system, without compromising sa",
+    "snippet": "still trails global peers. In this paper, we propose steps to modernize the country\u2019s SBL system, without compromising safety. Two types of liquidity: The Mississippi River and market makers in agricultural derivatives Market structure March 19, 2025 The United States Department of Agr",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The Mississippi River and market makers in ag",
+    "snippet": "ze the country\u2019s SBL system, without compromising safety. Two types of liquidity: The Mississippi River and market makers in agricultural derivatives Market structure March 19, 2025 The United States Department of Agriculture (USDA), trading exchanges and other agricultural-related publications",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "The United States Department of Ag",
+    "snippet": "iver and market makers in agricultural derivatives Market structure March 19, 2025 The United States Department of Agriculture (USDA), trading exchanges and other agricultural-related publications have published several articles recently regarding the Mississippi River\u2019s water levels.[1",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earch-Driven Trading Firm & Careers \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Skip to menu Skip to search Skip to main content Skip ",
+    "snippet": "Optiver | Technology and Research-Driven Trading Firm & Careers Skip to menu Skip to search Skip to main content Skip to footer Skip Menu Trade with us All Jobs Join us Where ideas become breakthroughs Where ideas become breakthroughs Optiver is",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eas become breakthroughs Where ideas become breakthroughs \n \n \n Optiver is a global market maker\n We are a leading techn",
+    "snippet": "Skip Menu Trade with us All Jobs Join us Where ideas become breakthroughs Where ideas become breakthroughs Optiver is a global market maker We are a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians and traders push the boundaries of machine learning and quantitative methods to",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earch-driven trading firm",
+    "snippet": "throughs Optiver is a global market maker We are a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians and traders push the boundaries of machine learning and quantitative methods to drive trading performance across mark",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eams of scientists, engineers, mathematicians and traders push the boundaries of machine learning and quantitative metho",
+    "snippet": "al market maker We are a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians and traders push the boundaries of machine learning and quantitative methods to drive trading performance across markets, products and time zones. Powered by a global platform built for rapid iteration, we turn",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eas",
+    "snippet": "atform built for rapid iteration, we turn insights into alpha at the speed of your ideas. We are a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians and traders push the boundaries of machine learning an",
+    "url": "https://www.optiver.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "media@optiver.com",
+    "snippet": "uld see a much sharper negative reaction in equities. For media inquiries, contact media@optiver.com Download and signup link block Sign up to receive our Insights Download pdf Disclaimer Disclaimer Optiver V.O.F. (\u2018Optiver\u2019) is a market ma",
+    "url": "https://www.optiver.com/insights/markets/volatility-views-traders-are-sanguine-about-us-midterms-too-sanguine/",
+    "kind": "page"
+   },
+   {
+    "value": "info@optiver.com",
+    "snippet": "7 ZX Amsterdam Netherlands Get in touch Get in touch Amsterdam +31 20 708 7000 info@optiver.com Close Close Austin Optiver Austin 11501 Alterra Parkway Suite #600 Austin, Texas 78758 United States of America Get in touch Get in touch Austin +1 512 720",
+    "url": "https://www.optiver.com/about-us/contact/",
+    "kind": "page"
+   },
+   {
+    "value": "recruiting@optiver.us",
+    "snippet": "8758 United States of America Get in touch Get in touch Austin +1 512 720 7599 recruiting@optiver.us Close Close Chicago Optiver Chicago 130 East Randolph Suite 800 Chicago, Illinois 60601 United States of America Get in touch Get in touch Chicago +1 312 82",
+    "url": "https://www.optiver.com/about-us/contact/",
+    "kind": "page"
+   },
+   {
+    "value": "careers@optiver.com.au",
+    "snippet": "Road, Central Hong Kong SAR Get in touch Get in touch Hong Kong +852 3607 8700 careers@optiver.com.au Close Close London Optiver London 20 Old Bailey EC4M 7AN London United Kingdom Get in touch Get in touch London +442071559874 office@optiver.uk Close Clos",
+    "url": "https://www.optiver.com/about-us/contact/",
+    "kind": "page"
+   },
+   {
+    "value": "office@optiver.uk",
+    "snippet": "EC4M 7AN London United Kingdom Get in touch Get in touch London +442071559874 office@optiver.uk Close Close Mumbai Optiver Mumbai Level 2, First International Financial Centre, C-54 & C-55 G-Block, Bandra Kurla Complex, Bandra (East) Mumbai, Maharashtra, 400",
+    "url": "https://www.optiver.com/about-us/contact/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Energy",
+  "Commodities",
+  "Stocks",
+  "Equities",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

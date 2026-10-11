@@ -1,0 +1,786 @@
+{
+ "slug": "goat-funded-trader",
+ "name": "Goat Funded Trader",
+ "category": "Futures",
+ "url": "https://goatfundedtrader.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.goatfundedtrader.com/",
+   "kind": "home",
+   "chars": 10761
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 49453
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+   "kind": "page",
+   "chars": 28983
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules",
+   "kind": "page",
+   "chars": 17752
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/how-prop-firms-help-traders-scale-their-accounts-and-maximize-profits",
+   "kind": "page",
+   "chars": 16843
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/legal/terms-and-conditions",
+   "kind": "page",
+   "chars": 35451
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/day-trading-rules",
+   "kind": "page",
+   "chars": 22872
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/supply-and-demand-theory-of-price-action",
+   "kind": "page",
+   "chars": 16191
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/algorithmic-theory-of-price-action",
+   "kind": "page",
+   "chars": 13756
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/goat-funded-trader-launches-instant-pro-plan",
+   "kind": "page",
+   "chars": 9741
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/prop-firm-scaling-plan",
+   "kind": "page",
+   "chars": 22274
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/mastering-the-markets-how-to-create-a-successful-trading-plan",
+   "kind": "page",
+   "chars": 18010
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+   "kind": "page",
+   "chars": 48600
+  },
+  {
+   "url": "https://www.goatfundedtrader.com/blog/pass-prop-firm-challenge",
+   "kind": "page",
+   "chars": 48408
+  },
+  {
+   "url": "https://help.goatfundedtrader.com/",
+   "kind": "sub",
+   "chars": 1578
+  },
+  {
+   "url": "https://help.goatfundedtrader.com/sitemap.xml",
+   "kind": "subsitemap",
+   "chars": 9398
+  }
+ ],
+ "page_count": 16,
+ "total_chars": 370086,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "10",
+    "snippet": "K 5K 8K 10K 15K 25K 50K 100K Most Popular 150K 200K 250K 300K 400K Profit Target Phase 1 10% Profit Target Phase 2 10% Profit Target Phase 3 10% Maximum Daily Loss 4% Maximum Loss 6% Consistency NO Leverage Up to 1:100 Rewards 5% S",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "tter match your trading style. Summary The FTMO Challenge requires achieving a 10% profit target while maintaining a 5% maximum daily loss and a 10% overall drawdown across at least four trading days. These aren't arbitrary restrictions. They mirror the risk parameters professional tradin",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "s. This flexibility supports consistent performance rather than rushed trading, with profit targets ranging from 3% to 10% depending on the plan, daily drawdowns as low as 2% in some accounts, and maximum drawdowns between 4% and 10%. Traders can select setups that align closely with",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "4",
+    "snippet": "Phase 1 10% Profit Target Phase 2 10% Profit Target Phase 3 10% Maximum Daily Loss 4% Maximum Loss 6% Consistency NO Leverage Up to 1:100 Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "luations and trade immediately under real market conditions. Key Specifications No Daily Drawdown 1:50 Leverage Up to 100% Profit Split Bi-Weekly or On-Demand Payouts Platforms Supported: MT5, MatchTrader, and TradeLocker This plan represents a new standard for CFD prop firms\u2014offering trade",
+    "url": "https://www.goatfundedtrader.com/blog/goat-funded-trader-launches-instant-pro-plan",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "FTMO Challenge requires achieving a 10% profit target while maintaining a 5% maximum daily loss and a 10% overall drawdown across at least four trading days. These aren't arbitrary restrictions. They mirror the risk parameters professional trading desks enforce to protect ca",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "er time. The focus moves from short-term achievement to sustainable growth. Maximum Daily Loss: The Intraday Guardrail The 5% maximum daily loss limit applies to each trading day, calculated from your account equity at the previous midnight CE(S)T reset. This is a trailing threshold, not a stat",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "2",
+    "snippet": "an rushed trading, with profit targets ranging from 3% to 10% depending on the plan, daily drawdowns as low as 2% in some accounts, and maximum drawdowns between 4% and 10%. Traders can select setups that align closely with their strategy to improve the odds of success. Evaluate Pr",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "rofit Target Phase 2 10% Profit Target Phase 3 10% Maximum Daily Loss 4% Maximum Loss 6% Consistency NO Leverage Up to 1:100 Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading W",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "trade defensively enough that one bad day can't destroy weeks of careful progress. Maximum Loss: The Absolute Boundary The 10% maximum loss is your account's static stop-out level, permanently tied to the starting balance. On a $100,000 account, equity cannot fall below $90,000 at any time, whet",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "Tp In Trading MT4 vs MT5 One Step Prop Firm Challenge What Happens If I Go Over The Maximum Drawdown Of The FTMO Challenge? Breaching either the 5% daily loss limit or the 10% maximum drawdown triggers immediate account termination. The system continuously monitors your equity, factoring in closed trades, open posit",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "3% to 10% depending on the plan, daily drawdowns as low as 2% in some accounts, and maximum drawdowns between 4% and 10%. Traders can select setups that align closely with their strategy to improve the odds of success. Evaluate Profit Splits and Payout Terms Profit distribution a",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "GFT 4.8 Stars From 5k Verified Reviews Trade like the Greatest MT5 available 100% Split on Demand Up to $2M Simulated Capital Get Funded Rewards in 2 Days or Extra $1000 \u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 B",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "nt. The trade-off sits in the split curve, opening at 50% and climbing toward 80% to 90% only as you clear tiers, so early payouts run thinner over firms starting at 80%. Three routes exist: Instant Funding, One-Step, and Two-Step. Coverage spans forex, crypto, indices, metals, and commodities on M",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "80",
+    "snippet": "ward $1,000,000 Additional ceiling after two years of sustained performance Flat 80% split across account types Eightcap supplying execution MatchTrader and DXTrade platforms Six instrument categories covered Copy trading and expert advisors permitted",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "and progress through staged growth toward $1,000,000. The structural cost is a flat 50% split holding at every tier with no progression, the least generous arrangement in this comparison. This means your scaling gains come purely from allocation size, never impro",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "400",
+    "snippet": "irst Reward on Demand (scale to $2M) News Trading Allowed (scale to $2M) $400K in funding (scale to $2M) Rewards in 2 Days or Extra $1000 No Hidden Rule Check FAQ for details GFT Points Loyalty rewarded TRADE UP TO $2M, GET PAID 100%",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "2M 80% to 100% Never required Six markets Yes FTUK Seven scaling levels, starts at $100K 50% to 80-90% Never required Five markets Yes OFP Funding $5M Up to 80% Never required Forex, CFDs Negotiable Hola Prime $4M Up to 95% Never required Four markets Ye",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "800",
+    "snippet": "red Five markets Yes BluFX $1M Flat 50% Subscription based Forex, CFDs Yes FXIFY $800k 80%, 90% paid add-on Never required Two markets Yes MyFundedFX $600K Up to 92.75% Never required Forex, CFDs No Account Reset: Protection Before a Breach, and Afte",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "600",
+    "snippet": "s Yes FXIFY $800k 80%, 90% paid add-on Never required Two markets Yes MyFundedFX $600K Up to 92.75% Never required Forex, CFDs No Account Reset: Protection Before a Breach, and After One Scaling at prop trading firms with growth plans takes months of",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "2",
+    "snippet": "rified Reviews Trade like the Greatest MT5 available 100% Split on Demand Up to $2M Simulated Capital Get Funded Rewards in 2 Days or Extra $1000 \u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 Backed by real ratin",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1000",
+    "snippet": "plit on Demand Up to $2M Simulated Capital Get Funded Rewards in 2 Days or Extra $1000 \u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 Backed by real ratings 1 Million+ Traders trust GFT $30 Million+ Rewards Distribut",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "30",
+    "snippet": "n TradingPilot 4.7 Backed by real ratings 1 Million+ Traders trust GFT $30 Million+ Rewards Distributed 4.8 from 17k+ reviews PARTNER 2026 Goat Funded Trader reviews on TradingPilot 4.5 /5 30K Reviews 4.5 707 Ratings",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,18",
+    "snippet": "/5 30K Reviews 4.5 707 Ratings Get Funded $30 MILLION Total Rewarded $2,180 Average Reward 250K+ Active Traders Choose Your Account Rewards in 2 Days or Extra $1,000 Limited Time 50% OFF fOR NEW CUSTOMERS CODE: first 45% OFF o",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "Reward 250K+ Active Traders Choose Your Account Rewards in 2 Days or Extra $1,000 Limited Time 50% OFF fOR NEW CUSTOMERS CODE: first 45% OFF on all Accounts CODE: GFT45 Model 1 step 2 step Instant Most Popular Goat Blitz Special",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "263",
+    "snippet": "um Loss 6% Consistency NO Leverage Up to 1:100 Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading Weekend Holding Unlimited Trading Period Challenge & Funded Resets",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "438.00",
+    "snippet": "s 6% Consistency NO Leverage Up to 1:100 Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading Weekend Holding Unlimited Trading Period Challenge & Funded Resets \u2605\u2605\u2605\u2605",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "30,00",
+    "snippet": "00 Paid on Demand Available Get Paid within 24 hours or we pay an extra $1000 $30,000,000+ Total Rewarded Withdraw with\u2026 REWARDS WITH SKRILL Withdraw via bank transfer, crypto, and many local payment methods. REWARDS WITH RISE Withdraw via bank tran",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "9,77",
+    "snippet": "just a mentality . It's a lifestyle. Become a GOAT Trader Today Get Funded $9,779.34 Antonio $48,244.50 Artur Zmiyov $10,024.14 Matej $11,267.06 Utkarsh $14,342.90 Tewodros $11,722.70 Vigen $11,829.79 Hussain $9,945.49 Ch",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "48,24",
+    "snippet": "t's a lifestyle. Become a GOAT Trader Today Get Funded $9,779.34 Antonio $48,244.50 Artur Zmiyov $10,024.14 Matej $11,267.06 Utkarsh $14,342.90 Tewodros $11,722.70 Vigen $11,829.79 Hussain $9,945.49 Chibane $44,229.67 Br",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10,02",
+    "snippet": "a GOAT Trader Today Get Funded $9,779.34 Antonio $48,244.50 Artur Zmiyov $10,024.14 Matej $11,267.06 Utkarsh $14,342.90 Tewodros $11,722.70 Vigen $11,829.79 Hussain $9,945.49 Chibane $44,229.67 Bruno $44,302.48 Duaa $",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "11,26",
+    "snippet": "Get Funded $9,779.34 Antonio $48,244.50 Artur Zmiyov $10,024.14 Matej $11,267.06 Utkarsh $14,342.90 Tewodros $11,722.70 Vigen $11,829.79 Hussain $9,945.49 Chibane $44,229.67 Bruno $44,302.48 Duaa $10,086.41 Siddhant",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "Static Drawdown Prop Firm Rules Explained Forex Futures EN EN ES DE FR IN IT Limited Time 50% OFF fOR NEW CUSTOMERS CODE: first 45% OFF on all Ac",
+    "url": "https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules",
+    "kind": "page"
+   },
+   {
+    "value": "trailing",
+    "snippet": "ules explained by Goat Funded Trader \u2014 how the fixed floor works, how it compares to trailing drawdown, and which model protects your account. Text Link Do you know that one number decides more funded accounts than any strategy ever will? Traders spend months refining",
+    "url": "https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules",
+    "kind": "page"
+   },
+   {
+    "value": "intraday",
+    "snippet": "ends. \u200d This mirrors how institutional desks manage risk. No trader gets unlimited intraday drawdown just because their strategy typically works. Position sizing must account for realistic worst-case scenarios within a single session, including gaps, slippage, and unexp",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency rules apply on none of the evaluation models, removing the clause which quietly voids payouts",
+    "snippet": "evaluation purchase required at any tier. Splits open at 80% and climb toward 100% . Consistency rules apply on none of the evaluation models, removing the clause which quietly voids payouts elsewhere. Six markets sit inside one account , spanning forex, crypto, indices, metals, commodities, and stocks, across five platforms including Vol",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rule None on any evaluation model \n Funding routes Instant Funded, 1-Step, 2-Step, 3-Step \n Ma",
+    "snippet": "o scale None required at any tier Profit split 80% opening, climbing toward 100% Consistency rule None on any evaluation model Funding routes Instant Funded, 1-Step, 2-Step, 3-Step Markets covered Forex, crypto, indices, metals, commodities, stocks Platforms MT5, cTrader, MatchTrader, TradeLocker, Volumetrica FX Payout schedule Bi-weekly ",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, and support for six major asset classes",
+    "snippet": "000 at the start, scaling to $2 million , profit splits rising from 80% to 100% , no consistency rule, and support for six major asset classes. Skip the Queue and Start Scaling Immediately with Goat Funded Trader Every week spent proving something you already know costs you compounding at any of the prop trad",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency rules apply nowhere on the platform, so a single strong session never voids a payout",
+    "snippet": "t any tier along the way. Splits open at 80% and climb toward 100% as you advance. Consistency rules apply nowhere on the platform, so a single strong session never voids a payout. Bi-weekly payouts land on a schedule you can actually budget against, with on-demand withdrawal available when you need it faster. It is backed with a 2 busine",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule on any evaluation model, so your best day stays your best day",
+    "snippet": "therwise excellent cycle when one clean move lands on a news release. GFT applies no consistency rule on any evaluation model, so your best day stays your best day. Repurchase requirements convert your progress into a firm's revenue. Programmes charging a fresh evaluation fee at each tier bill you for performing well, and the cost",
+    "url": "https://www.goatfundedtrader.com/blog/prop-firm-scaling-plan",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule remove this risk entirely",
+    "snippet": "consistency clause can disqualify an otherwise excellent cycle. Firms that apply no consistency rule remove this risk entirely . Repurchase requirements separate the best prop firms with scaling plans from the rest. Programmes that require a fresh evaluation fee at each tier tend to charge you f",
+    "url": "https://www.goatfundedtrader.com/blog/prop-firm-scaling-plan",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Bi-weekly",
+    "snippet": "odities, stocks Platforms MT5, cTrader, MatchTrader, TradeLocker, Volumetrica FX Payout schedule Bi-weekly standard, on-demand available Payout guarantee 2 business days or $1,000 compensation Account reset Available before and after a breach News and weekend holds Both",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "weekly",
+    "snippet": "ior rank. Challenge capital spans $5,000 to $300,000, progressing toward $1,500,000. Withdrawals clear weekly. Execution runs on cTrader alone, and coverage includes forex, metals, indices, oil, and crypto, with stocks and broader commodities excluded. Key Features XP-ranked p",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "SKRILL",
+    "snippet": "r we pay an extra $1000 $30,000,000+ Total Rewarded Withdraw with\u2026 REWARDS WITH SKRILL Withdraw via bank transfer, crypto, and many local payment methods. REWARDS WITH RISE Withdraw via bank transfer, crypto, and many local payment methods. CRYPTO Wit",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bank transfer",
+    "snippet": "00 $30,000,000+ Total Rewarded Withdraw with\u2026 REWARDS WITH SKRILL Withdraw via bank transfer, crypto, and many local payment methods. REWARDS WITH RISE Withdraw via bank transfer, crypto, and many local payment methods. CRYPTO Withdraw directly to your walle",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "00+ Total Rewarded Withdraw with\u2026 REWARDS WITH SKRILL Withdraw via bank transfer, crypto, and many local payment methods. REWARDS WITH RISE Withdraw via bank transfer, crypto, and many local payment methods. CRYPTO Withdraw directly to your wallet. Get",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "RISE",
+    "snippet": "L Withdraw via bank transfer, crypto, and many local payment methods. REWARDS WITH RISE Withdraw via bank transfer, crypto, and many local payment methods. CRYPTO Withdraw directly to your wallet. Get Funded Rewards in 2 Days or Extra $1000 Our Trad",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "wise",
+    "snippet": "to $14,000. This means a subsequent losing week barely registers where it might otherwise end an account. Trailing drawdown lifts your floor as equity climbs, protecting banked gains structurally. Four calculation types exist. Static never moves, end-of-da",
+    "url": "https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules",
+    "kind": "page"
+   },
+   {
+    "value": "Deel",
+    "snippet": "traditional bank transfers and modern options like: Cryptocurrency TransferWise Deel This diversity offers convenience and flexibility, especially for international traders and those active in the crypto markets. Strong Community Support and Responsive",
+    "url": "https://www.goatfundedtrader.com/blog/pass-prop-firm-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "model Learn more \u2192 02 Purchase Secure your account Cards, Apple Pay, Google Pay, PayPal, Skrill, crypto and more. Which to choose, and what to do if a payment is declined. Learn more \u2192 03 Start trading Get your credentials Learn more \u2192 Models Choose a m",
+    "url": "https://help.goatfundedtrader.com/",
+    "kind": "sub"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "5.26 Rehman $2,027.60 Stefan Why Traders Love GFT 100% refundable fees (scale to $2M) Up to 100% Split (scale to $2M) No Time Limits (scale to $2M) First Reward on Demand (scale to $2M) News Trading Allowed (scale to $2M) $400K in funding (scale to $2M) Rewards in 2 Days or Extra $1000 No Hidden Rule Check FAQ for detai",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "in-trading-strategies 2026-03-27T16:42:15.322Z https://www.goatfundedtrader.com/blog/mastering-forex-with-demo-trading-your-pathway-to-success 2026-05-07T11:34:39.276Z https://www.goatfundedtrader.com/blog/mastering-the-art-of-forex-scalping-strategies-and-tips-for-success 2026-05-07T11:34:39.276Z https://www.goatfundedtrader.com/",
+    "url": "https://www.goatfundedtrader.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "licensed by",
+    "snippet": "s are copyrights, trademarks and/or other intellectual property owned, controlled or licensed by the Company, one of its affiliates or by third parties who have licensed their materials to us and are protected by laws of The United States of America. The compilation (meaning the collection, arrangement, and assembly) of all Contents on th",
+    "url": "https://www.goatfundedtrader.com/legal/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "asic",
+    "snippet": "demand is not simply a phenomenon which takes place in the fiscal markets. It is a basic law of the economy which operates the making, allocation and utilization of goods and services in its own system. Whether or not a particular product is favored in the market is mostly determined by factors such as its price, accessibility, and whethe",
+    "url": "https://www.goatfundedtrader.com/blog/supply-and-demand-theory-of-price-action",
+    "kind": "page"
+   },
+   {
+    "value": "nfa",
+    "snippet": "de in live markets. Some firms impose 30 or 60-day windows that force trades during unfavorable conditions, while others allow unlimited time to wait for genuine opportunities. According to the World Business Outlook, competitive firms now offer 90% profit splits and flexible terms to attract skilled traders who value patience. The differ",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Averag",
+    "snippet": "Reviews 4.5 707 Ratings Get Funded $30 MILLION Total Rewarded $2,180 Average Reward 250K+ Active Traders Choose Your Account Rewards in 2 Days or Extra $1,000 Limited Time 50% OFF fOR NEW CUSTOMERS CODE: first 45% OFF on all Acc",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Leverag",
+    "snippet": "get Phase 3 10% Maximum Daily Loss 4% Maximum Loss 6% Consistency NO Leverage Up to 1:100 Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading Weekend Holding Unlimited Tr",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Hussa",
+    "snippet": "j $11,267.06 Utkarsh $14,342.90 Tewodros $11,722.70 Vigen $11,829.79 Hussain $9,945.49 Chibane $44,229.67 Bruno $44,302.48 Duaa $10,086.41 Siddhant $11,335.50 Florin $44,317.50 Dostal $2,925.26 Rehman $2,027.60 S",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "h-watering scaling program. Best scaling program I sa",
+    "snippet": "rm to trade for the long term. What really fascinated me to join The GFT was the mouth-watering scaling program. Best scaling program I saw so far.. and that's the main purpose I started my journey here. Also that the CEO and the team are very supportive. I highly recommend GFT from the bottom of my heart.",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Instag",
+    "snippet": "ding Competiton Model Blog FAQ Company About Affiliate Contact Reviews Socials Instagram Discord X YouTube LinkedIn Policy Funded Account Disclaimer Refund Policy Complaints Policy Terms & Conditions Privacy Policy Trading Home How It",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Trader, a trade name of Wishes Tower International Limited",
+    "snippet": "Complaints Policy Terms & Conditions Privacy Policy Disclaimer: \u200d Goat Funded Trader, a trade name of Wishes Tower International Limited, a company registered in Hong Kong (Company Number 76428795), with registered office at Room 2007, 20/F, Futura Plaza, 111-113 How Ming Street, Kwun Tong, Hong Kong, pub",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "l, or a guarantee of receiving an account or compensa",
+    "snippet": "rading platform. Purchase fees do not constitute a trading deposit, investment capital, or a guarantee of receiving an account or compensation. Nothing contained herein constitutes a solicitation or an offer to buy or sell futures, options, or forex. Please note that past performance is not necessarily indi",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "rex. Please note that past performance is not necessa",
+    "snippet": "herein constitutes a solicitation or an offer to buy or sell futures, options, or forex. Please note that past performance is not necessarily indicative of future results, and any investment involves risks, including the possibility of total loss of the invested amount. You should always seek professional",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "76428795",
+    "snippet": "trade name of Wishes Tower International Limited, a company registered in Hong Kong (Company Number 76428795), with registered office at Room 2007, 20/F, Futura Plaza, 111-113 How Ming Street, Kwun Tong, Hong Kong, publish and distribute content that should be regarded as gener",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2025-00240",
+    "snippet": "he Sotheby Building, Rodney Bay, Gros-Islet, PO Box 838, Castries, Saint Lucia, with company number 2025-00240 - , provides the simulated trading services advertised on www.goatfundedtrader.com. For more information on simulated trading services provided by Goat Funded please con",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refundable fee\n \n \n News Trading\n \n Weekend Holding\n \n Unlimited Trading Period\n \n Challenge & Funded Resets\n \n \n \n \n \n ",
+    "snippet": "Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading Weekend Holding Unlimited Trading Period Challenge & Funded Resets \u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 LIMITED TIME New to gFT? 50% OFF Enjoy an exclusive 50% OFF your first account FIRSTGFT Copy Code Get",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refundable fees\n \u00a0(scale to $2M)\n \n Up to 100% Split\n \u00a0(scale to $2M)\n \n No Time Limits\n \u00a0(scale to $2M)\n \n First Reward",
+    "snippet": "50 Dostal $2,925.26 Rehman $2,027.60 Stefan Why Traders Love GFT 100% refundable fees (scale to $2M) Up to 100% Split (scale to $2M) No Time Limits (scale to $2M) First Reward on Demand (scale to $2M) News Trading Allowed (scale to $2M) $400K in funding (scale to $2M) Rewards in 2 Days or Extra $1000 No Hidden Rule Check FAQ for details",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy\n Complaints Policy\n Terms & Conditions\n Privacy Policy\n \n \n Trading\n \n Home How It Works Transparency Trad",
+    "snippet": "ials Instagram Discord X YouTube LinkedIn Policy Funded Account Disclaimer Refund Policy Complaints Policy Terms & Conditions Privacy Policy Trading Home How It Works Transparency Trading Competiton Model FAQ Company About Affiliate Contact Socials Instagram Discord X YouTube LinkedIn Policy Funded Account Disclaimer Refund Policy Complai",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy\n Complaints Policy\n Terms & Conditions\n Privacy Policy\n \n Disclaimer:\u2028\u2028 \u200d\nGoat Funded Trader, a trade name",
+    "snippet": "Instagram Discord X YouTube LinkedIn Policy Funded Account Disclaimer Refund Policy Complaints Policy Terms & Conditions Privacy Policy Disclaimer: \u200d Goat Funded Trader, a trade name of Wishes Tower International Limited, a company registered in Hong Kong (Company Number 76428795), with registered office at Room 2007, 20/F, Futura Plaza, ",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading\n \n Weekend Holding\n \n Unlimited Trading Period\n \n Challenge & Funded Resets\n \n \n \n \n \n \u2605\u2605\u2605\u2605 \u2605 \n 4",
+    "snippet": "5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading Weekend Holding Unlimited Trading Period Challenge & Funded Resets \u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 LIMITED TIME New to gFT? 50% OFF Enjoy an exclusive 50% OFF your first account FIRSTGFT Copy Code Get",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading Allowed\n \u00a0(scale to $2M)\n \n \n $400K in funding\n \u00a0(scale to $2M)\n \n Rewards in 2 Days or Extra $1000\n \n No H",
+    "snippet": "2M) No Time Limits (scale to $2M) First Reward on Demand (scale to $2M) News Trading Allowed (scale to $2M) $400K in funding (scale to $2M) Rewards in 2 Days or Extra $1000 No Hidden Rule Check FAQ for details GFT Points Loyalty rewarded TRADE UP TO $2M, GET PAID 100% ON DEMAND Get Funded 4.8 Stars from 5k verified Reviews Security matter",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News trading, weekend positions, and overnight holds all stay permitted",
+    "snippet": "al available and a 2-business-day guarantee backed by $1,000 compensation on a miss. News trading, weekend positions, and overnight holds all stay permitted. Feature Goat Funded Trader Starting capital Up to $400,000 on a challenge account Scaling ceiling $2,000,000 through sustained profitability Fresh evaluation to",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "News trading, weekend positions, and overnight holds stay permitted throughout, so strategies built around volatility su",
+    "snippet": "and 3-Step Challenges each set a different pace for traders building a record first. News trading, weekend positions, and overnight holds stay permitted throughout, so strategies built around volatility survive intact. Your progress deserves a floor protecting it, then leaving you alone. Compare our models today and find out what your str",
+    "url": "https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eading Prop Firm | Trade Like The Greatest \n \n \n \n \n \n \n \n \n \n \n Forex\n Futures\n \n EN \n EN ES DE FR IN IT \n \n Limited Ti",
+    "snippet": "Leading Prop Firm | Trade Like The Greatest Forex Futures EN EN ES DE FR IN IT Limited Time 50% OFF fOR NEW CUSTOMERS CODE: first 45% OFF on all Accounts CODE: GFT45 Trading How It Works Transparency Model Reviews Affiliate Free Trading Competi",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatest \n MT5 available\n 100% Split on Demand Up to $2M Simulated Capital\n Get Funded\n \n Rewards in 2 Days or Extra $1000",
+    "snippet": "d 1M+ Traders Trust GFT 4.8 Stars From 5k Verified Reviews Trade like the Greatest MT5 available 100% Split on Demand Up to $2M Simulated Capital Get Funded Rewards in 2 Days or Extra $1000 \u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 Backed by real ratings 1 Million+ Traders trust GFT $30 Million+ Rewards Distributed",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal ratings\n 1 Million+\n Traders trust GFT \n $30 Million+\n Rewards Distributed \n 4",
+    "snippet": "\u2605\u2605\u2605\u2605 \u2605 4.2 (1021 reviews) Listed on TradingPilot 4.7 Backed by real ratings 1 Million+ Traders trust GFT $30 Million+ Rewards Distributed 4.8 from 17k+ reviews PARTNER 2026 Goat Funded Trader reviews on TradingPilot 4.5 /5 30K Reviews 4.5 707 Ratings Get Funded $30 MILLION T",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal Rewards\n Unlock capital\n Get Funded with our Capital\n \n trade\n Trade with your favorite Trading Platform\n \n Earn\n Wi",
+    "snippet": "\u2019t Risk your own Money How It Works Trade with our simulated Capital and get paid real Rewards Unlock capital Get Funded with our Capital trade Trade with your favorite Trading Platform Earn Withdraw 100% of your rewards Get Funded Learn More Trading But with less risk With More Capital And More Reward Simulated Capital with Real Rewards.",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "earn More \n Trading\nBut with less risk\nWith More Capital\nAnd More Reward\n Simulated Capital with Real Rewards",
+    "snippet": "r favorite Trading Platform Earn Withdraw 100% of your rewards Get Funded Learn More Trading But with less risk With More Capital And More Reward Simulated Capital with Real Rewards. Paid Fast & Secure. Get Funded Join 1M+ Traders Up to 100% Split Get Paid within 24 hours or we pay an extra $1000 Rewards in 2 Days Get Paid within 2 busine",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "vpn": [
+   {
+    "value": "vpn",
+    "snippet": "6-10-08T19:17:44Z https://help.goatfundedtrader.com/en/articles/17362726-can-i-use-a-vpn-vps-proxy-or-any-other-hosting-service-while-trading 2026-10-06T23:30:25Z",
+    "url": "https://help.goatfundedtrader.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@goatfundedtrader.com",
+    "snippet": "ore information on simulated trading services provided by Goat Funded please contact support@goatfundedtrader.com . Metatrader 5 \"MT5\" services and information on this site are not intended for U.S. citizens/residents and should not be used in jurisdictions where such use would viol",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "in 2 business days or le",
+    "snippet": "tomatic breach detection, drawdown tracking, and toxic behavior controls. Prop Firm Payouts Automation : Process payouts in 2 business days or less, with accuracy and reliability. Prop Firm Reward System & Competitions : Boost retention and acquisition with gamified engagement tools. This is why Trade Tech Solut",
+    "url": "https://www.goatfundedtrader.com/blog/goat-funded-trader-launches-instant-pro-plan",
+    "kind": "page"
+   },
+   {
+    "value": "Instant",
+    "snippet": "traders can start trading immediately on MT5, MatchTrader, or TradeLocker. How are payouts handled in the Instant PRO Plan? Payouts are processed bi-weekly or on demand, powered by Trade Tech Solutions prop firm payouts automation . What makes the Instant PRO Plan unique? It is t",
+    "url": "https://www.goatfundedtrader.com/blog/goat-funded-trader-launches-instant-pro-plan",
+    "kind": "page"
+   },
+   {
+    "value": "in 2 business days",
+    "snippet": "with no time limits, unrestricted news trading, and profit splits reaching 100% with payout processing in 2 business days. What is the FTMO Challenge, and How Does It Work? The FTMO Challenge is a performance-based evaluation in which you trade a demo account using virtual capital to demo",
+    "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "within 48 to 72 hours, signif",
+    "snippet": "d reliability are critical concerns for funded traders. Goat Funded Trader processes payouts within 48 to 72 hours, significantly faster than many competitors who can take up to two weeks. This rapid payout turnaround is vital for traders relying on consistent income from their trading profi",
+    "url": "https://www.goatfundedtrader.com/blog/pass-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:100",
+    "snippet": "get Phase 3 10% Maximum Daily Loss 4% Maximum Loss 6% Consistency NO Leverage Up to 1:100 Rewards 5% Split 5% $263 $438.00 100k Account Get Funded One-time 100% refundable fee News Trading Weekend Holding Unlimited Trading Period",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:34",
+    "snippet": "/cfd-how-it-works 2026-05-07T11:34:39.276Z https://www.goatfundedtrader.com/blog/cfd-leverage 2026-05-07T11:34:39.276Z https://www.goatfundedtrader.com/blog/cfd-meaning 2026-05-07T11:34:39.276Z https://www.goatfundedtrader.com/blog/cfd-online 2026-05-07T11:34:39.276Z https://www.",
+    "url": "https://www.goatfundedtrader.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling program",
+    "snippet": "for the long term. What really fascinated me to join The GFT was the mouth-watering scaling program. Best scaling program I saw so far.. and that's the main purpose I started my journey here. Also that the CEO and the team are very supportive. I highly recommend GFT fr",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling program I saw so far",
+    "snippet": "at really fascinated me to join The GFT was the mouth-watering scaling program. Best scaling program I saw so far.. and that's the main purpose I started my journey here. Also that the CEO and the team are very supportive. I highly recommend GFT from the bottom of my heart. And if y",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan",
+    "snippet": "bottom of my heart. And if you want to succeed in your trading path, check out their scaling plan.. that would tell you all you NEED!! Aniket One of the best firms. I'm liking their firm and their challenges! I failed the first challenge but on this one I passed.",
+    "url": "https://www.goatfundedtrader.com/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "kyc-what-to-expect 2026-07-27T22:59:10Z https://help",
+    "snippet": ":15:14Z https://help.goatfundedtrader.com/en/articles/15949678-identity-verification-kyc-what-to-expect 2026-07-27T22:59:10Z https://help.goatfundedtrader.com/en/articles/16013484-instant-premium-model 2026-10-05T16:55:03Z https://help.goatfundedtrader.com/en/articles/16097387-instant-hero-model 2026-10-05",
+    "url": "https://help.goatfundedtrader.com/sitemap.xml",
+    "kind": "subsitemap"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Subscription pricing replaces the evaluation model entirely here",
+    "snippet": "breaches cTrader as the sole platform Singapore-based, launched 2023 10. BluFX Subscription pricing replaces the evaluation model entirely here. You pay monthly, receive an account between $10,000 and $100,000 immediately, and progress through staged growth toward $1,000,000. The structural cost is a flat 50% sp",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "subscription in place of one-time evaluation fee \n Immediate accounts: $10,000 to $100,000 \n Staged progression toward $",
+    "snippet": "gacy plans, while overnight holds clear across account tiers. Key Features Monthly subscription in place of one-time evaluation fee Immediate accounts: $10,000 to $100,000 Staged progression toward $1,000,000 Flat 50% split at every tier cTrader primary, MT4 on legacy plans Overnight holding permitted No evaluation phase Forex and core CF",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "Subscription based Forex, CFDs Yes \n FXIFY $800k 80%, 90% paid add-on Never required Two markets Yes \n MyFundedFX $600K ",
+    "snippet": "PipFarm $1.5M 70% to 90-95% XP Never required Five markets Yes BluFX $1M Flat 50% Subscription based Forex, CFDs Yes FXIFY $800k 80%, 90% paid add-on Never required Two markets Yes MyFundedFX $600K Up to 92.75% Never required Forex, CFDs No Account Reset: Protection Before a Breach, and After One Scaling at prop trading firms with growth ",
+    "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions, or access to certain portions to the Company\u2019s website at a monetary cost",
+    "snippet": "The Company. Purchases and Refunds 7.1 The Company may provide products, services, subscriptions, or access to certain portions to the Company\u2019s website at a monetary cost. Prices and availability are subject to change without notice. The Company may allow for such purchases within its website or via a white label affiliate. It is your re",
+    "url": "https://www.goatfundedtrader.com/legal/terms-and-conditions",
+    "kind": "page"
+   },
+   {
+    "value": "subscription, or access to certain portions of the Company website, the Company will make any said product, service, or ",
+    "snippet": "im related to your purchases. 7.3 Upon the complete purchase of a product, service, subscription, or access to certain portions of the Company website, the Company will make any said product, service, or access will be available to you following the approved transaction. 7.4 There are no refunds on any Services purchased from the Company.",
+    "url": "https://www.goatfundedtrader.com/legal/terms-and-conditions",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ly as you clear tiers, so early payouts run thinner over firms starting at 80%. Three routes exist: Instant Funding, One-Step, and Two-Step. Coverage spans forex, crypto, indices, metals, and commodities on MT5, TradeLocker, or MatchTrader, with stocks absent from the lineup",
+   "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "Time 50% OFF fOR NEW CUSTOMERS CODE: first 45% OFF on all Accounts CODE: GFT45 Model 1 step 2 step Instant Most Popular Goat Blitz Special Promo Model type HERO New Benefit GOAT Most Popular Benefit Standard Benefit PREMIUM New Benefi",
+   "url": "https://www.goatfundedtrader.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "% OFF fOR NEW CUSTOMERS CODE: first 45% OFF on all Accounts CODE: GFT45 Model 1 step 2 step Instant Most Popular Goat Blitz Special Promo Model type HERO New Benefit GOAT Most Popular Benefit Standard Benefit PREMIUM New Benefit Platf",
+   "url": "https://www.goatfundedtrader.com/"
+  },
+  {
+   "name": "3-Step",
+   "snippet": "reach larger allocations. First is the traditional evaluation model : Choose a 1-Step, 2-Step, or 3-Step Challenge, prove you can meet the profit target while respecting the firm's risk rules, and unlock a funded account once you pass. This route usually comes wit",
+   "url": "https://www.goatfundedtrader.com/blog/recommended-prop-trading-firms-with-growth-plans"
+  },
+  {
+   "name": "Swing",
+   "snippet": "amiliar interfaces under evaluation pressure. FTMO also distinguishes between standard accounts and swing accounts, the latter designed for traders who hold positions overnight or across multiple sessions. Swing accounts feature adjusted drawdown calculations that accommod",
+   "url": "https://www.goatfundedtrader.com/blog/pass-ftmo-challenge"
+  },
+  {
+   "name": "Pay-later",
+   "snippet": "tfundedtrader.com/trading-competition 2026-08-26T10:08:26.288Z https://www.goatfundedtrader.com/gft-pay-later 2026-08-31T10:11:04.888Z https://www.goatfundedtrader.com/reviews 2026-08-26T09:21:19.659Z https://www.goatfundedtrader.com/goat-predictions-market 2026-10-09T",
+   "url": "https://www.goatfundedtrader.com/sitemap.xml"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "MetaTrader 4",
+  "cTrader",
+  "DXtrade",
+  "TradeLocker",
+  "Match-Trader",
+  "TradingView",
+  "Tradovate",
+  "Volumetrica"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds",
+  "ETFs"
+ ],
+ "coupon_codes": [
+  {
+   "code": "GFT45",
+   "context": "nt pace, letting you pick the runway suiting your confidence. A 45% discount runs through code GFT45 across account sizes right now. Starting capital reaches $"
+  }
+ ],
+ "claims": [
+  "Lightning fast execution Raw Spreads from 0.1 pips 0$ commissions on indices and cryptos Available in 182+ Countries Trade better wherever you are",
+  "fit split. Additionally, a 2-day payment guarantee is provided, with a $500 penalty for any delays. Join over 98,000 traders who've collected more than $9.1 million in rewards and choo",
+  "m targets or time limits, and you can collect triple paydays with up to a 100 percent profit split. Join over 98,000 traders who have collected more than $ 9.1 million in rewards, back",
+  "timing, and their reward guarantee pays you within 2 business days or adds an extra $500 for any delay. Over 250,000 traders have already received more than $15 million in real payouts",
+  "the industry - no minimum targets, no time limits, and triple paydays with up to 100% profit split. Join over 98,000 traders who've already collected over $9.1 million in rewards, all",
+  "the industry. No minimum targets, no time limits, and triple paydays with up to 100% profit split. Join over 98,000 traders who've already collected over $9.1 million in rewards, all"
+ ],
+ "errors": []
+}

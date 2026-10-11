@@ -1,0 +1,240 @@
+{
+ "slug": "imc-trading",
+ "name": "IMC Trading",
+ "category": "Institutional",
+ "url": "https://www.imc.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.imc.com/us/",
+   "kind": "home",
+   "chars": 4752
+  },
+  {
+   "url": "https://www.imc.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 139977
+  },
+  {
+   "url": "https://www.imc.com/us/corporate-news/Prosperity-the-world's-most-elaborate-trading-challenge",
+   "kind": "page",
+   "chars": 2197
+  },
+  {
+   "url": "https://www.imc.com/hk/corporate-news/Prosperity-the-world's-most-elaborate-trading-challenge",
+   "kind": "page",
+   "chars": 2203
+  },
+  {
+   "url": "https://www.imc.com/eu/articles/prosperity-4-imc-global-trading-challenge",
+   "kind": "page",
+   "chars": 3186
+  },
+  {
+   "url": "https://www.imc.com/ap/articles/prosperity-4-imc-global-trading-challenge",
+   "kind": "page",
+   "chars": 3192
+  },
+  {
+   "url": "https://www.imc.com/ap/corporate-news/Prosperity-the-world's-most-elaborate-trading-challenge",
+   "kind": "page",
+   "chars": 2206
+  },
+  {
+   "url": "https://www.imc.com/in/articles/prosperity-4-imc-global-trading-challenge",
+   "kind": "page",
+   "chars": 3185
+  },
+  {
+   "url": "https://www.imc.com/ap/corporate-news/prosperity-3-IMCs-global-trading-challenge-returns",
+   "kind": "page",
+   "chars": 3525
+  },
+  {
+   "url": "https://www.imc.com/us/corporate-news/prosperity-3-IMCs-global-trading-challenge-returns",
+   "kind": "page",
+   "chars": 3516
+  },
+  {
+   "url": "https://www.imc.com/hk/articles/prosperity-4-imc-global-trading-challenge",
+   "kind": "page",
+   "chars": 3189
+  },
+  {
+   "url": "https://www.imc.com/in/corporate-news/Prosperity-the-world's-most-elaborate-trading-challenge",
+   "kind": "page",
+   "chars": 2199
+  },
+  {
+   "url": "https://www.imc.com/eu/corporate-news/Prosperity-the-world's-most-elaborate-trading-challenge",
+   "kind": "page",
+   "chars": 2200
+  },
+  {
+   "url": "https://www.imc.com/eu/corporate-news/prosperity-3-IMCs-global-trading-challenge-returns",
+   "kind": "page",
+   "chars": 3519
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 179059,
+ "findings": {
+  "prices": [
+   {
+    "value": "25,00",
+    "snippet": "to their island. The winner will become IMC Global Trading Talent of the Year, win a $25,000 tropical holiday and have an equal amount donated to The Ocean Cleanup in their name. Learn and win Find yourself trading wasabi roots, ukuleles and mayberries with pe",
+    "url": "https://www.imc.com/us/corporate-news/Prosperity-the-world's-most-elaborate-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "50,00",
+    "snippet": "enough skill and determination, you and your team may just take home a chunk of the $50,000* USD prize pool. (*Terms & conditions apply. See here for details.) Get ready for a trading challenge of cosmic proportions. Sign up for Prosperity 4 Subscr",
+    "url": "https://www.imc.com/eu/articles/prosperity-4-imc-global-trading-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5,00",
+    "snippet": "ill be divided between participants placing 2nd to 5th in the rankings, as well as a $5,000 prize for Best Manual Trader. STEM students currently enrolled at university can register at prosperity.imc.com . Players can compete individually or in teams of up to",
+    "url": "https://www.imc.com/ap/corporate-news/prosperity-3-IMCs-global-trading-challenge-returns",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "Crypto",
+    "snippet": "tivity to all Options Clearing Corporation (OCC) venues. Go 03 Trade Globally Crypto solutions Our dedicated crypto team provides global coverage of crypto products, including spot, perps, futures, and options, both on- and off-chain. Go 04 Trade",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "mas",
+    "snippet": "7:22:03Z weekly 0.8 https://www.imc.com/hk/articles/welcoming-indias-top-chess-grandmaster-to-imc-mumbai-office 2025-09-17T14:45:38Z weekly 0.8 https://www.imc.com/eu/articles/welcoming-indias-top-chess-grandmaster-to-imc-mumbai-office 2025-09-17T14:45:38Z weekly 0.8 https://www.imc.com/ap/articles/welcoming",
+    "url": "https://www.imc.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "h 2025-02-21T15:30:39Z weekly 0.8 https://www.imc.com/eu/articles/on-the-thames-and-scaling-fast-what-s-next-for-imc-s-fast-growing-london-fx-desk 2026-06-01T07:42:50Z weekly 0.8 https://www.imc.com/ap/articles/from-intern-to-india-keegans-career-journey 2024-10-25T09:22:00Z weekly 0.8 https://www.imc.com/us/articles/how-imc-s-leap-progra",
+    "url": "https://www.imc.com/sitemap.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "A stabilizing force in markets sinc",
+    "snippet": "a process daily 36 Years of trading 9000+ servers across 9 countries About us A stabilizing force in markets since 1989, IMC provides liquidity wherever markets trade. Collective intellect is how we're built. Every discipline makes the others stronger. Researchers sharpen signals, t",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "Providing liquidity sinc",
+    "snippet": "world\u2019s top labs and trading floors, solving problems markets haven\u2019t solved yet. Providing liquidity since 1989 AEX | 1989 - 2025 Access our liquidity We develop innovative technologies and algorithms to trade in all major asset classes on more than 120 venues globall",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "Trade in Europe, The US & Asia",
+    "snippet": "rience enable us to deliver the very best outcomes in value and risk transfer. 01 Trade in Europe, The US & Asia Pacific Institutional Sales We're a top-3 liquidity provider by volume traded in listed options globally. Through our sales desks, buy-side firms can trade off-screen d",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "Pacific Institutional Sa",
+    "snippet": "very best outcomes in value and risk transfer. 01 Trade in Europe, The US & Asia Pacific Institutional Sales We're a top-3 liquidity provider by volume traded in listed options globally. Through our sales desks, buy-side firms can trade off-screen directly with IMC. Go",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "ume traded in listed options globally. Through our sa",
+    "snippet": "e, The US & Asia Pacific Institutional Sales We're a top-3 liquidity provider by volume traded in listed options globally. Through our sales desks, buy-side firms can trade off-screen directly with IMC. Go 02 Trade in the US Options Wholesaling We have best-in-class, technology-enabled connectivity",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "Trade in the US Options Wholesa",
+    "snippet": "our sales desks, buy-side firms can trade off-screen directly with IMC. Go 02 Trade in the US Options Wholesaling We have best-in-class, technology-enabled connectivity to all Options Clearing Corporation (OCC) venues. Go 03 Trade Globally Crypto solutions Our dedicated",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "Our dedicated crypto team provides global coverag",
+    "snippet": "ons Clearing Corporation (OCC) venues. Go 03 Trade Globally Crypto solutions Our dedicated crypto team provides global coverage of crypto products, including spot, perps, futures, and options, both on- and off-chain. Go 04 Trade in the US ETF Market making IMC is at the heart of today's",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "e of crypto products, inc",
+    "snippet": "03 Trade Globally Crypto solutions Our dedicated crypto team provides global coverage of crypto products, including spot, perps, futures, and options, both on- and off-chain. Go 04 Trade in the US ETF Market making IMC is at the heart of today's expanding ETF ecosystem,",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "earch Careers \n \n \n \n CHART THE PATH FORWARD\n The market's toughest problems demand more than fast code and smart models",
+    "snippet": "are What we do Access our liquidity Strategic Investments Positive impact Search Careers CHART THE PATH FORWARD The market's toughest problems demand more than fast code and smart models; they require collective intelligence. IMC is a global quantitative trading firm driven by top researchers, engineers, and traders who relentlessly optim",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "earchers, engineers, and traders who relentlessly optimize across high-performance computing systems, deep learning mode",
+    "snippet": "collective intelligence. IMC is a global quantitative trading firm driven by top researchers, engineers, and traders who relentlessly optimize across high-performance computing systems, deep learning models, and turn large amounts of data into trading strategies across asset classes. Scroll Down . 10 Offices +70 Nationalities +2070 Employ",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "ears of trading 9000+ servers across 9 countries \n 10 Offices +70 Nationalities +2070 Employees +120 Trading venues Peta",
+    "snippet": "ationalities +2070 Employees +120 Trading venues Petabytes of Data process daily 36 Years of trading 9000+ servers across 9 countries 10 Offices +70 Nationalities +2070 Employees +120 Trading venues Petabytes of Data process daily 36 Years of trading 9000+ servers across 9 countries About us A stabilizing force in markets since 1989, IMC ",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "ears of trading 9000+ servers across 9 countries \n \n \n About us\n A stabilizing force in markets since 1989, IMC provides",
+    "snippet": "ationalities +2070 Employees +120 Trading venues Petabytes of Data process daily 36 Years of trading 9000+ servers across 9 countries About us A stabilizing force in markets since 1989, IMC provides liquidity wherever markets trade. Collective intellect is how we're built. Every discipline makes the others stronger. Researchers sharpen si",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   },
+   {
+    "value": "earchers sharpen signals, traders challenge models, and engineers innovate systems",
+    "snippet": "lective intellect is how we're built. Every discipline makes the others stronger. Researchers sharpen signals, traders challenge models, and engineers innovate systems. Machine learning and AI are used through our entire workflow and sit at the core of how we trade \u2014 forecasting market behavior, generating signals, training foundation",
+    "url": "https://www.imc.com/us/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "Matthew.rose@imc.com",
+    "snippet": "and collaborate to succeed. Media Contact Matthew Rose, Global Head of Marketing Matthew.rose@imc.com Subscribe to our newsletter to stay up-to-date with the latest. Subscribe now IMC Who we are What we do Access our liquidity Strategic Investments Posit",
+    "url": "https://www.imc.com/ap/corporate-news/prosperity-3-IMCs-global-trading-challenge-returns",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "2-Step",
+   "snippet": "wards 2026-04-02T09:31:46Z weekly 0.8 https://www.imc.com/hk/articles/imc-in-africa-and-india-part-two-stephans-story 2024-10-15T12:48:44Z weekly 0.8 https://www.imc.com/eu/articles/imc-in-africa-and-india-part-two-stephans-story 2024-10-15T12:48:44Z weekly 0.8 htt",
+   "url": "https://www.imc.com/sitemap.xml"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "FX",
+  "Crypto",
+  "Energy",
+  "Equities",
+  "Futures",
+  "Options",
+  "ETFs"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "+2070 Employees +120 Trading venues Petabytes of Data process daily 36 Years of trading 9000+ servers across 9 countries 10 Offices +70 Nationalities +2070 Employees +120 Trading",
+  "+2070 Employees +120 Trading venues Petabytes of Data process daily 36 Years of trading 9000+ servers across 9 countries About us A stabilizing force in markets since 1989,"
+ ],
+ "errors": []
+}

@@ -1,0 +1,433 @@
+{
+ "slug": "xfunded",
+ "name": "XFunded",
+ "category": "Forex/CFD",
+ "url": "https://x-funded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://x-funded.com/",
+   "kind": "home",
+   "chars": 12633
+  },
+  {
+   "url": "https://x-funded.com/wp-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 312
+  },
+  {
+   "url": "https://x-funded.com/wp-sitemap-posts-post-1.xml",
+   "kind": "sitemap",
+   "chars": 59
+  },
+  {
+   "url": "https://x-funded.com/wp-sitemap-posts-page-1.xml",
+   "kind": "sitemap",
+   "chars": 1644
+  },
+  {
+   "url": "https://x-funded.com/wp-sitemap-posts-product-1.xml",
+   "kind": "sitemap",
+   "chars": 5095
+  },
+  {
+   "url": "https://x-funded.com/wp-sitemap-taxonomies-category-1.xml",
+   "kind": "sitemap",
+   "chars": 35
+  },
+  {
+   "url": "https://x-funded.com/product/200k-two-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3162
+  },
+  {
+   "url": "https://x-funded.com/product/25k-two-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3157
+  },
+  {
+   "url": "https://x-funded.com/product/50k-two-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3158
+  },
+  {
+   "url": "https://x-funded.com/product/10k-two-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3158
+  },
+  {
+   "url": "https://x-funded.com/product/100k-one-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3162
+  },
+  {
+   "url": "https://x-funded.com/product/10k-one-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3155
+  },
+  {
+   "url": "https://x-funded.com/product/25k-one-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3155
+  },
+  {
+   "url": "https://x-funded.com/product/50k-one-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3155
+  },
+  {
+   "url": "https://x-funded.com/product/300k-one-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3161
+  },
+  {
+   "url": "https://x-funded.com/product/300k-two-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3162
+  },
+  {
+   "url": "https://x-funded.com/product/200k-one-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3162
+  },
+  {
+   "url": "https://x-funded.com/product/100k-two-phase-zero-plan-phase-1/",
+   "kind": "page",
+   "chars": 3162
+  },
+  {
+   "url": "https://help.x-funded.com/",
+   "kind": "sub",
+   "chars": 1214
+  },
+  {
+   "url": "https://help.x-funded.com/sitemap_index.xml",
+   "kind": "subsitemap",
+   "chars": 281
+  }
+ ],
+ "page_count": 20,
+ "total_chars": 59201,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "80",
+    "snippet": "wicks. Maximize Your Earnings Earn more with XFunded: receive 80% profit split on your first payout and an impressive 90% on your second payout. We offer a checkout add-on that lets you get 100% profit split on your challenge Pro Trading Dashboard Get",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "90",
+    "snippet": "n more with XFunded: receive 80% profit split on your first payout and an impressive 90% on your second payout. We offer a checkout add-on that lets you get 100% profit split on your challenge Pro Trading Dashboard Get access to a powerful and fully-featured int",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "n impressive 90% on your second payout. We offer a checkout add-on that lets you get 100% profit split on your challenge Pro Trading Dashboard Get access to a powerful and fully-featured interface designed to analyze all your trading activity. Track ever",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "10",
+    "snippet": "e Funded as leverage for your Forex, index, or crypto trading. Unlock between $10K and $300K in capital with XFunded, the prop firm with the best rules in the market. Start trading today and receive up to 100% of all the profits generated on your accou",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "as leverage for your Forex, index, or crypto trading. Unlock between $10K and $300K in capital with XFunded, the prop firm with the best rules in the market. Start trading today and receive up to 100% of all the profits generated on your account. G",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Your Path to Trading Capital 1 Phase Challenge 2 Phase Challenge $10K $25K $50K $100K $200K $300K 1 Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. Tr",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ath to Trading Capital 1 Phase Challenge 2 Phase Challenge $10K $25K $50K $100K $200K $300K 1 Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. Trading D",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "Trading Capital 1 Phase Challenge 2 Phase Challenge $10K $25K $50K $100K $200K $300K 1 Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. Trading Days Min",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Capital 1 Phase Challenge 2 Phase Challenge $10K $25K $50K $100K $200K $300K 1 Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. Trading Days Min. Active",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "10",
+    "snippet": "e Funded as leverage for your Forex, index, or crypto trading. Unlock between $10K and $300K in capital with XFunded, the prop firm with the best rules in the market. Start trading today and receive up to 100% of all the profits generated on your acco",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "as leverage for your Forex, index, or crypto trading. Unlock between $10K and $300K in capital with XFunded, the prop firm with the best rules in the market. Start trading today and receive up to 100% of all the profits generated on your account.",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1,00",
+    "snippet": "y and improve results. Dream Big, Trade Bigger Get funded with up to $1,000,000 in capital, giving you the power to make substantial trades and profits. $5+ Million Earned by Traders Globally at xFunded Quick and reli",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "pital, giving you the power to make substantial trades and profits. $5+ Million Earned by Traders Globally at xFunded Quick and reliable. Zero reward denials. Germany $32,600 Mexico $7,530 Ital",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "32,60",
+    "snippet": "ally at xFunded Quick and reliable. Zero reward denials. Germany $32,600 Mexico $7,530 Italy $270,540 France $205,000 Spain $175,250 Created by Profitable Traders, Built",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "7,53",
+    "snippet": "and reliable. Zero reward denials. Germany $32,600 Mexico $7,530 Italy $270,540 France $205,000 Spain $175,250 Created by Profitable Traders, Built for Serious Performance",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "270,54",
+    "snippet": "denials. Germany $32,600 Mexico $7,530 Italy $270,540 France $205,000 Spain $175,250 Created by Profitable Traders, Built for Serious Performance With rules that are mor",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "205,00",
+    "snippet": "ny $32,600 Mexico $7,530 Italy $270,540 France $205,000 Spain $175,250 Created by Profitable Traders, Built for Serious Performance With rules that are more favorable than the biggest",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "175,25",
+    "snippet": "co $7,530 Italy $270,540 France $205,000 Spain $175,250 Created by Profitable Traders, Built for Serious Performance With rules that are more favorable than the biggest prop firms in the world, w",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "55,00",
+    "snippet": "ts: Get rewarded for your success every week without delay. Largest payout of over $55,000: Achieved by a French trader, proving that big wins are within reach. Access to up to $1,000,000 in capital: Unlock the full potential of your trading career with a s",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "Your Path to Trading Capital 1 Phase Challenge 2 Phase Challenge $10K $25K $50K $100K $200K $300K 1 Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. T",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "ath to Trading Capital 1 Phase Challenge 2 Phase Challenge $10K $25K $50K $100K $200K $300K 1 Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. Trading",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule\n Max",
+    "snippet": "Phase Challenge Challenge Period Profit Target Max. Loss Limit Max. Daily Loss Consistency Rule Max. Risk Per Trade Min. Trading Days Min. Active Days Inactivity days Overweek Trading Stop Loss News Trading Max. Account Allocation Profit Split 1 Phase",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Weekly",
+    "snippet": "ees. Almost no spreads: Trade with tight spreads to maximize your profitability. Weekly payout requests: Get rewarded for your success every week without delay. Largest payout of over $55,000: Achieved by a French trader, proving that big wins are within reach.",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "d Get Started Use Funded as leverage for your Forex, index, or crypto trading. Unlock between $10K and $300K in capital with XFunded, the prop firm with the best rules in the market. Start trading today and receive up to 100% of all",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "asic",
+    "snippet": "-Phase Challenge Start With X-Funded Learn the basics about X-Funded and how to get started. Challenge Types and Programs Understand how the evaluation process works to become a funded trader. Funded Account & Forbidden Practices Learn the r",
+    "url": "https://help.x-funded.com/",
+    "kind": "sub"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "Use Funded as leverag",
+    "snippet": "ng FAQs Contact Us \u2013 old version Get Started Get Started Use Funded as leverage for your Forex, index, or crypto trading. Unlock between $10K and $300K in capital with XFunded, the prop firm with the best rules in the market. Start trading t",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "XFunded LTD is registered in Sa",
+    "snippet": "tarted Join Telegram Prop firm with a trading license XFunded LTD is registered in Saint Lucia with an official trading license issued by the country. No Time Limit Trade at your own pace. With XFunded, there\u2019s no rush, achieve your target",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Take advantag",
+    "snippet": "ush, achieve your targets whenever you\u2019re ready. Ultra-Low Spreads Take advantage of spreads near zero, allowing you to execute your strategy accurately without getting stopped out on fake market wicks. Maximize Your Earnings Ea",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Enjoy a trading environment free of unnecessa",
+    "snippet": "very step of your journey. Here\u2019s what sets us apart: No commissions on trades: Enjoy a trading environment free of unnecessary fees. Almost no spreads: Trade with tight spreads to maximize your profitability. Weekly payout requests: Get rewarded for your success every week without delay.",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "risks involved and seek independent advice if necessa",
+    "snippet": "d is not suitable for all investors. You should ensure that you fully understand the risks involved and seek independent advice if necessary. Company Information XFunded LTD is incorporated in Saint Lucia under company number 2026-00127. Otherside LLC is incorporated in Sharjah, United Arab Emirates under",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Company Information XFunded LTD is incorporated in Sa",
+    "snippet": "t you fully understand the risks involved and seek independent advice if necessary. Company Information XFunded LTD is incorporated in Saint Lucia under company number 2026-00127. Otherside LLC is incorporated in Sharjah, United Arab Emirates under company number 2326308 and operates the payment processin",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Otherside LLC is inc",
+    "snippet": "rmation XFunded LTD is incorporated in Saint Lucia under company number 2026-00127. Otherside LLC is incorporated in Sharjah, United Arab Emirates under company number 2326308 and operates the payment processing and commercial activities related to the platform. Restrictio",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "not offered to residents of certain jurisdictions, inc",
+    "snippet": "sing and commercial activities related to the platform. Restrictions : Services are not offered to residents of certain jurisdictions, including countries listed on FATF and EU/UN sanctions lists, as well as Vietnam, the United Arab Emirates and USA. Main Menu Home About Us 1 Phase Challe",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "company_number": [
+   {
+    "value": "2026-00127",
+    "snippet": "if necessary. Company Information XFunded LTD is incorporated in Saint Lucia under company number 2026-00127. Otherside LLC is incorporated in Sharjah, United Arab Emirates under company number 2326308 and operates the payment processing and commercial activities related to th",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2326308",
+    "snippet": "er 2026-00127. Otherside LLC is incorporated in Sharjah, United Arab Emirates under company number 2326308 and operates the payment processing and commercial activities related to the platform. Restrictions : Services are not offered to residents of certain jurisdictions, in",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy \n Privacy Policy \n Dashboard \n Terms and Conditions \n Refund Policy \n Privacy Policy \n Dashboard \n \n \n \n \n",
+    "snippet": "FAQs Contact Us \u2013 old version Important Links Terms and Conditions Refund Policy Privacy Policy Dashboard Terms and Conditions Refund Policy Privacy Policy Dashboard \u00a9 Copyright 2024-2026 XFunded \u2013 All Right Reserved | Powered by XFunded LTD X-twitter Instagram",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "refund-policy/ 2024-05-07T09:20:43+00:00 https://x-funded",
+    "snippet": "://x-funded.com/terms-and-conditions/ 2026-08-03T11:40:27+00:00 https://x-funded.com/refund-policy/ 2024-05-07T09:20:43+00:00 https://x-funded.com/affiliate-area/ 2024-07-17T03:20:05+00:00 https://x-funded.com/affiliate-registration/ 2024-06-03T09:44:18+00:00 https://x-funded.com/2-phase-challenge/ 2026-04-13T0",
+    "url": "https://x-funded.com/wp-sitemap-posts-page-1.xml",
+    "kind": "sitemap"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "News Trading\n Max",
+    "snippet": "Min. Trading Days Min. Active Days Inactivity days Overweek Trading Stop Loss News Trading Max. Account Allocation Profit Split 1 Phase Unlimited 10% 6% (Static) 4% - - 5 trading days - 30 days No - Yes $1M - Funded Unlimited 1% 6%",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "News Trading\n Profit Split\n Max",
+    "snippet": "Min. Trading Days Min. Active Days Inactivity days Overweek Trading Stop Loss News Trading Profit Split Max. Account Allocation 1 Phase No Limit 8% 10% (Static) 5% - - 5 trading days - 30 days No - Yes - $1M 2 Phase No Limit 5% 10% (Static) 5%",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eady",
+    "snippet": "your own pace. With XFunded, there\u2019s no rush, achieve your targets whenever you\u2019re ready. Ultra-Low Spreads Take advantage of spreads near zero, allowing you to execute your strategy accurately without getting stopped out on fake market wic",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eads\n \n \n Take advantage of spreads near zero, allowing you to execute your strategy accurately without getting stopped ",
+    "snippet": "ere\u2019s no rush, achieve your targets whenever you\u2019re ready. Ultra-Low Spreads Take advantage of spreads near zero, allowing you to execute your strategy accurately without getting stopped out on fake market wicks. Maximize Your Earnings Earn more with XFunded: receive 80% profit split on your first payout and an impressive 90% on your s",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earnings\n \n \n Earn more with XFunded: receive 80% profit split on your first payout and an impressive 90% on your second",
+    "snippet": "ely without getting stopped out on fake market wicks. Maximize Your Earnings Earn more with XFunded: receive 80% profit split on your first payout and an impressive 90% on your second payout. We offer a checkout add-on that lets you get 100% profit split on your challenge Pro Trading Dashboard Get access to a powerful and fully-feature",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eatured interface designed to analyze all your trading activity",
+    "snippet": "hallenge Pro Trading Dashboard Get access to a powerful and fully-featured interface designed to analyze all your trading activity. Track every trade, review detailed performance metrics, and gain deep insights into your statistics to optimize your strategy and improve results. Dream Big,",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam Big, Trade Bigger\n \n \n Get funded with up to $1,000,000 in capital, giving you the power to make substantial trades ",
+    "snippet": "hts into your statistics to optimize your strategy and improve results. Dream Big, Trade Bigger Get funded with up to $1,000,000 in capital, giving you the power to make substantial trades and profits. $5+ Million Earned by Traders Globally at xFunded Quick and reliable. Zero reward denials. Germany $32,600",
+    "url": "https://x-funded.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "ome About Challenges 1 Phase Challenge 2 Phase Challenge X-Funded Zero Trade on Bybit Instant Funding FAQs Contact Us \u2013 old version Get Started Home About Challenges 1 Phase Challenge 2 Phase Challenge X-Funded Zero Trade on Bybit Instan",
+   "url": "https://x-funded.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": "roduct/300k-two-phase-zero-plan-phase-1/ 2026-04-16T07:03:13+00:00 https://x-funded.com/product/10k-1-step-phase-1/ 2026-04-17T10:49:14+00:00 https://x-funded.com/product/25k-1-step-phase-1/ 2026-04-17T10:49:38+00:00 https://x-funded.com/product/50k-1-step-phase-1/",
+   "url": "https://x-funded.com/wp-sitemap-posts-product-1.xml"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "-funded.com/product/100k-1-step-phase-1/ 2026-04-17T10:50:02+00:00 https://x-funded.com/product/10k-2-steps-phase-1/ 2026-04-17T10:51:10+00:00 https://x-funded.com/product/25k-2-steps-phase-1/ 2026-04-17T10:51:28+00:00 https://x-funded.com/product/50k-2-steps-phase-",
+   "url": "https://x-funded.com/wp-sitemap-posts-product-1.xml"
+  }
+ ],
+ "platforms": [],
+ "assets": [
+  "Forex",
+  "FX",
+  "Crypto"
+ ],
+ "coupon_codes": [
+  {
+   "code": "CYBER40",
+   "context": "XFunded Skip to content Cyber Monday 40% OFF with the code CYBER40 Cyber Monday 40% OFF with the code CYBER40 Cyber Monday 4"
+  }
+ ],
+ "claims": [],
+ "errors": []
+}

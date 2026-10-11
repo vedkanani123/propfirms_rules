@@ -1,0 +1,12 @@
+{
+ "slug": "quant-tekel",
+ "name": "Quant Tekel",
+ "category": "Specialist",
+ "url": "https://quanttekel.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:403:http-403"
+ ]
+}

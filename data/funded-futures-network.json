@@ -1,0 +1,577 @@
+{
+ "slug": "funded-futures-network",
+ "name": "Funded Futures Network",
+ "category": "Futures",
+ "url": "https://fundedfuturesnetwork.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundedfuturesnetwork.com/",
+   "kind": "home",
+   "chars": 7416
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 9751
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/day-trading-funded-accounts-how-it-works-and-how-to-get-one",
+   "kind": "page",
+   "chars": 20035
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/firm-price-meaning-in-futures-trading-contracts",
+   "kind": "page",
+   "chars": 14791
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/instant-funding-vs-evaluation-accounts-in-futures-trading",
+   "kind": "page",
+   "chars": 15871
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+   "kind": "page",
+   "chars": 5010
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/how-to-create-a-trading-plan-for-futures-profit",
+   "kind": "page",
+   "chars": 17067
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/futures-day-trading-101-smart-strategies-rules",
+   "kind": "page",
+   "chars": 18902
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/futures-rollover-rules-you-need-to-know-right-now-2",
+   "kind": "page",
+   "chars": 16637
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/faq",
+   "kind": "page",
+   "chars": 10351
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/daily-payout-prop-firms-how-fast-can-you-get-paid",
+   "kind": "page",
+   "chars": 19726
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/what-is-drawdown-in-trading-futures-is-it-important",
+   "kind": "page",
+   "chars": 11698
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/blog/consistency-rule-prop-firm-guide-for-funded-traders-3",
+   "kind": "page",
+   "chars": 18194
+  },
+  {
+   "url": "https://fundedfuturesnetwork.com/about",
+   "kind": "page",
+   "chars": 4065
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 189527,
+ "findings": {
+  "profit_split": [
+   {
+    "value": "40",
+    "snippet": "eset Fee $100 Activation Fee None Max Contracts 4 Mini (40 Micros) Consistency 40% Funded Account Payout Frequency Same day Profit Split 80% Consistency 40% Drawdown Type EOD (End of Day) Max Drawdown $2,000 Drawdown Lock Locks at starting balance + $100 Daily L",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "25",
+    "snippet": "e Evaluation account, you can reset your Exhibition account for the following fees: $25k: $312.50 $50k: $625 $100k: $1,250 $150k: $1,875 $250k: $3,125 Can I have more than one account? Yes. There is no limit on how many evaluations you can buy or",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "50",
+    "snippet": "count, you can reset your Exhibition account for the following fees: $25k: $312.50 $50k: $625 $100k: $1,250 $150k: $1,875 $250k: $3,125 Can I have more than one account? Yes. There is no limit on how many evaluations you can buy or hold. You can h",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "100",
+    "snippet": "an reset your Exhibition account for the following fees: $25k: $312.50 $50k: $625 $100k: $1,250 $150k: $1,875 $250k: $3,125 Can I have more than one account? Yes. There is no limit on how many evaluations you can buy or hold. You can have up to 5 a",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "150",
+    "snippet": "xhibition account for the following fees: $25k: $312.50 $50k: $625 $100k: $1,250 $150k: $1,875 $250k: $3,125 Can I have more than one account? Yes. There is no limit on how many evaluations you can buy or hold. You can have up to 5 active Sim Funde",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "250",
+    "snippet": "nt for the following fees: $25k: $312.50 $50k: $625 $100k: $1,250 $150k: $1,875 $250k: $3,125 Can I have more than one account? Yes. There is no limit on how many evaluations you can buy or hold. You can have up to 5 active Sim Funded accounts at o",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "74",
+    "snippet": "pass One-time Account Size MAX Standard \u00b7 One-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin S",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "148",
+    "snippet": "s One-time Account Size MAX Standard \u00b7 One-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "89",
+    "snippet": "count Size MAX Standard \u00b7 One-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KS",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "178",
+    "snippet": "t Size MAX Standard \u00b7 One-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "174",
+    "snippet": "Standard \u00b7 One-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "348",
+    "snippet": "dard \u00b7 One-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kev",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "204",
+    "snippet": "-time \u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kevin Swart's",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "408",
+    "snippet": "\u00b7 5 days to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kevin Swart's 50%",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "329",
+    "snippet": "to pass \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kevin Swart's 50% off applie",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "658",
+    "snippet": "ss \u00b7 EOD 25K $74 $148 Popular 50K $89 $178 100K $174 $348 150K $204 $408 250K $329 $658 Trading Platform Rithmic Onyx Nexus Trader Nexus Connect KS You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kevin Swart's 50% off applied cod",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3,00",
+    "snippet": "nd of Day) One-time payment on Rithmic $178 $ 89 Save $89 KSWART Apply $3,000 Profit Target $2,000 Max Drawdown 5 days Min. Trading Days View full details Evaluation Profit Target $3,000 Drawdown Type EOD (End of Day) Max Drawdow",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "2,00",
+    "snippet": "ment on Rithmic $178 $ 89 Save $89 KSWART Apply $3,000 Profit Target $2,000 Max Drawdown 5 days Min. Trading Days View full details Evaluation Profit Target $3,000 Drawdown Type EOD (End of Day) Max Drawdown $2,000 Daily Loss L",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "eset fees and monthly subscriptions if one is not careful. The strict rules, such as trailing drawdowns and daily loss limits, can feel highly restrictive to traders who are accustomed to the complete freedom of a personal retail account. If you do not have a proven, bac",
+    "url": "https://fundedfuturesnetwork.com/blog/day-trading-funded-accounts-how-it-works-and-how-to-get-one",
+    "kind": "page"
+   },
+   {
+    "value": "Static",
+    "snippet": "hold in real-time as your open equity reaches new highs during the trading session. Static Drawdown vs Trailing Drawdown Static limits remain fixed at a specific dollar amount below your starting balance regardless of how much profit you accumulate. What is EOD Trail",
+    "url": "https://fundedfuturesnetwork.com/blog/what-is-drawdown-in-trading-futures-is-it-important",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "Consistency Rule Prop Firm Guide for Funded Traders \n Entering the world of funded trading accounts requir",
+    "snippet": "uidity. For futures traders, the daily market open represents the... 7 Oct 2026 Consistency Rule Prop Firm Guide for Funded Traders Entering the world of funded trading accounts requires not only a high level of market expertise but also a deep understanding of operational guidelines. For many traders, navigating the parameters set by thi",
+    "url": "https://fundedfuturesnetwork.com/blog/day-trading-funded-accounts-how-it-works-and-how-to-get-one",
+    "kind": "page"
+   },
+   {
+    "value": "Consistency Rules\n Getting funded is only the first step, as understanding how and when you can withdraw y",
+    "snippet": "the highest net profitability for your active trading business. Payout Policies and Consistency Rules Getting funded is only the first step, as understanding how and when you can withdraw your hard-earned profits is crucial for managing your trading business cash flow. Most immediate funding providers implement a structured withdrawal sch",
+    "url": "https://fundedfuturesnetwork.com/blog/instant-funding-vs-evaluation-accounts-in-futures-trading",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rules requiring that no single trading day accounts for more than thirty or forty percent of t",
+    "snippet": "g reckless, high-risk gambles to secure a massive single-day payout, firms establish consistency rules requiring that no single trading day accounts for more than thirty or forty percent of the total profit. Additionally, there is often a safety buffer period during which a certain amount of profit must remain in the account to ensure tha",
+    "url": "https://fundedfuturesnetwork.com/blog/instant-funding-vs-evaluation-accounts-in-futures-trading",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule (40% for OG and Standard MAX funded accounts, 25% for Express MAX funded accounts)",
+    "snippet": "re eligible, provided you have met your account minimum threshold and are within the consistency rule (40% for OG and Standard MAX funded accounts, 25% for Express MAX funded accounts). This account has an 80/20 profit split . When a withdrawal is initiated & processed, FFN will take 20% and distribute the remaining 80% to the trader. Max",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule, and same-business-day payouts",
+    "snippet": "across several accounts if they are copy traded. FFN Institution (Live) Account: No consistency rule, and same-business-day payouts. Traders promoted to the FFN Institution start with $3,000 of real FFN capital , which can never be withdrawn. Institution accounts have a 90/10 profit split : you keep",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   },
+   {
+    "value": "consistency rule resets on that account",
+    "snippet": "account open (see Article 4.3). Consistency Reset: When you make a withdrawal, your consistency rule resets on that account. The consistency reset is per account after each payout. For example, if you copy trade 5 accounts and withdraw from 2 of them, only those 2 accounts have their consiste",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Daily",
+    "snippet": "ted Today Feature FFN Others Profit Split Up to 90/10 in Live Funded 80/20 Max Payout Frequency Daily in Live Funded 7\u20138 Days Min. Days to Pass 2 Days 10 Days Evaluation Drawdown End Of Day Unrealized Funded Drawdown Static +100 Intraday Copy Trading Limited Re",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "bi-weekly",
+    "snippet": "trading business cash flow. Most immediate funding providers implement a structured withdrawal schedule, allowing traders to request payouts bi-weekly or monthly once they have surpassed a minimum profit threshold. To prevent traders from taking reckless, high-risk gambles to secure a massive single-day payout, firms",
+    "url": "https://fundedfuturesnetwork.com/blog/instant-funding-vs-evaluation-accounts-in-futures-trading",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": ", you will encounter no hidden fees, complicated withdrawal rules, or unexpected surprises. Our operation is fully transparent, so if you have any questions, feel free to ask. Commitment to Honesty & Fairness Integrity is at the core of everything we do. We",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "crypto",
+    "snippet": "fore-signing-up 2026-07-10 https://fundedfuturesnetwork.com/blog/what-is-leverage-in-crypto-futures-trading-a-complete-guide 2026-07-10 https://fundedfuturesnetwork.com/blog/crypto-futures-signals-do-they-actually-work 2026-07-10 https://fundedfuturesnetwork.co",
+    "url": "https://fundedfuturesnetwork.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "wise",
+    "snippet": "e purchasing power. This leverages your analytical skills to a level that would otherwise require years of personal saving and capital accumulation. According to data from the CME Group , the liquid nature of futures contracts like E-mini S&P 500 and Nasdaq-",
+    "url": "https://fundedfuturesnetwork.com/blog/day-trading-funded-accounts-how-it-works-and-how-to-get-one",
+    "kind": "page"
+   },
+   {
+    "value": "PayPal",
+    "snippet": "ave to meet the Account Minimum Threshold before withdrawing again. Payout methods: PayPal, bank wire, or ACH (ACH by default). Which Countries Are Restricted? For the full list of restricted countries and available trading products, see our Country Restr",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Sca",
+    "snippet": "set Fee $625 (before any payout, once) Max Contracts 4 Mini (40 Micros) Contract Scaling 2 Mini (20 Micros) $0 - $1,000 (Profit) 3 Mini (30 Micros) $1,001 - $2,000 (Profit) 4 Mini (40 Micros) $2,001+ (Profit) Continue with MAX Standard 50K Same day payouts In Business Since 2022 Fastest Customer Service Includes a license for a preferred ",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "-trade-the-dow-index-futures 2026-07-10 https://fundedfuturesnetwork.com/blog/how-to-master-long-position-vs-short-position-futures-3 2026-07-10 https://fundedfuturesnetwork.com/blog/how-to-calculate-opportunity-costs-in-futures-trading 2026-07-10 https://fundedfuturesnetwork.com/blog/how-to-calculate-the-return-of-a-portfolio 2026-07-10 ",
+    "url": "https://fundedfuturesnetwork.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "-know-right-now-2 2026-07-10 https://fundedfuturesnetwork.com/blog/futures-leverage-basics-every-new-trader-should-know-2 2026-07-10 https://fundedfuturesnetwork.com/blog/what-is-a-tick-in-futures-trading-3 2026-07-10 https://fundedfuturesnetwork.com/blog/initial-margin-vs-variation-margin-complete-guide 2026-07-10 https://funded",
+    "url": "https://fundedfuturesnetwork.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ust the firm. Retail traders often view daily loss limits and trailing drawdowns as unfair hurdles designed to make them fail, but in reality, these are the exact risk management protocols used by professional hedge funds. By forcing you to operate within these strict boundaries, the funded account model teaches you how to manage risk sys",
+    "url": "https://fundedfuturesnetwork.com/blog/day-trading-funded-accounts-how-it-works-and-how-to-get-one",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "There's a reason why thousa",
+    "snippet": "ch Contact Login Signup Excellent The Best Firm To Get Funded There's a reason why thousands of traders choose us, and it's not just because we've paid out millions. Get Started Today Feature FFN Others Profit Split Up to 90/10 in Live Funded 80/20 Max",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Copy Trading Limited",
+    "snippet": "Evaluation Drawdown End Of Day Unrealized Funded Drawdown Static +100 Intraday Copy Trading Limited Response Time Avg. 10 Sec Days Hidden Fees Onboarding Help Discord Community Varies Growth 259,300+ Accounts Thousands of traders already funded and tra",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Thousa",
+    "snippet": "Fees Onboarding Help Discord Community Varies Growth 259,300+ Accounts Thousands of traders already funded and trading live. Support Avg. 10 Sec Response Time Real humans available around the clock, not bots. Payouts Daily Withdrawals in Li",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ted trading platforms see our Preferred Platforms pag",
+    "snippet": "FundX MotiveWave FundX MotiveWave For a full list of supported trading platforms see our Preferred Platforms page. Choose Your Account Account Type Popular MAX Standard EOD \u00b7 5 days to pass One-time STEADY EOD \u00b7 2 days to pass One-time Account Size MAX Standard \u00b7 One-time",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "off applied code KSWART You Sa",
+    "snippet": "You were referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kevin Swart's 50% off applied code KSWART You Save $ 89 MAX Standard 50K 5 days to pass EOD (End of Day) One-time payment on Rithmic $178 $ 89 Save $89 KSWART Apply $3,000 Profit Target $2,000 Max D",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Payout Frequency Sa",
+    "snippet": "on Fee None Max Contracts 4 Mini (40 Micros) Consistency 40% Funded Account Payout Frequency Same day Profit Split 80% Consistency 40% Drawdown Type EOD (End of Day) Max Drawdown $2,000 Drawdown Lock Locks at starting balance + $100 Daily Loss Limit $1,",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Live Review After 4 payouts on one account or 10 sinc",
+    "snippet": "ts 1\u20133), $2,000 (payout 4+) Payout Cap per User $10,000 per payout, all accounts Live Review After 4 payouts on one account or 10 since the last live review On Live Review All sim accounts close Funded Reset Fee $625 (before any payout, once) Max Contracts 4 Mini (40 Micros) Contract Scaling 2",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "In Business Sinc",
+    "snippet": "Micros) $2,001+ (Profit) Continue with MAX Standard 50K Same day payouts In Business Since 2022 Fastest Customer Service Includes a license for a preferred trading platform, Onyx or Quantower (FundX) Evaluation price shown. No hidden fees. No activation",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries and available trading products, see our Country Restrictions & Product List article",
+    "snippet": ", or ACH (ACH by default). Which Countries Are Restricted? For the full list of restricted countries and available trading products, see our Country Restrictions & Product List article. Can I Hedge? No. When you are in the Evaluation, Exhibition and Funded stage, hedging is considered a broken rule making you no longer eligible for fundin",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund Policy",
+    "snippet": "and Futuna Western Sahara Yemen Zambia Zimbabwe Click HERE to accept our Terms & Refund Policy . \u2713 Accepted Please accept our Terms & Refund Policy You already have an account. Please use the forgot password feature or reach out to support and we can help locat",
+    "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy \n \n You already have an account",
+    "snippet": "lick HERE to accept our Terms & Refund Policy . \u2713 Accepted Please accept our Terms & Refund Policy You already have an account. Please use the forgot password feature or reach out to support and we can help locate it. Sign in Forgot password Continue to payment You're all set Your accoun",
+    "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+    "kind": "page"
+   },
+   {
+    "value": "Refund Policy\n \n Agreement\n By proceeding, you agree to all of the following\n \n Pay the listed one-time fee for this eva",
+    "snippet": "ecure checkout... Checkout could not load inline. Open popup Terms & Refund Policy Agreement By proceeding, you agree to all of the following Pay the listed one-time fee for this evaluation. Trade only on FFN approved platforms under your FFN account. Comply with all FFN trading rules \u2014 drawdown, profit target, consistency, and trading re",
+    "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+    "kind": "page"
+   },
+   {
+    "value": "refundable",
+    "snippet": "d trading restrictions. Refund Policy. All account purchases and payments are non-refundable. This is a one-time charge \u2014 there is no subscription and nothing renews. By completing your purchase you agree that no refunds will be issued. If you believe you were c",
+    "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news Trading Protocols are in place, you are permitted to trade around other news releases if you so choose",
+    "snippet": "st be closed by 8:29:00 or earlier, and may only be reopened after 8:31:00. Although news Trading Protocols are in place, you are permitted to trade around other news releases if you so choose. However, it's important to recognize that broker data issues or disruptions can happen during these events. Therefore, it is highly recommended to",
+    "url": "https://fundedfuturesnetwork.com/faq",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eason why thousands of traders choose us, and it's not just because we've paid out millions",
+    "snippet": "t Login Signup Excellent The Best Firm To Get Funded There's a reason why thousands of traders choose us, and it's not just because we've paid out millions. Get Started Today Feature FFN Others Profit Split Up to 90/10 in Live Funded 80/20 Max Payout Frequency Daily in Live Funded 7\u20138 Days Min. Days to Pass 2 Days",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eature FFN Others \n Profit Split Up to 90/10 in Live Funded 80/20 Max \n Payout Frequency Daily in Live Funded 7\u20138 Days \n",
+    "snippet": "choose us, and it's not just because we've paid out millions. Get Started Today Feature FFN Others Profit Split Up to 90/10 in Live Funded 80/20 Max Payout Frequency Daily in Live Funded 7\u20138 Days Min. Days to Pass 2 Days 10 Days Evaluation Drawdown End Of Day Unrealized Funded Drawdown Static +100 Intraday Copy Trading Limited Response Ti",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ealized \n Funded Drawdown Static +100 Intraday \n Copy Trading Limited \n Response Time Avg",
+    "snippet": "nded 7\u20138 Days Min. Days to Pass 2 Days 10 Days Evaluation Drawdown End Of Day Unrealized Funded Drawdown Static +100 Intraday Copy Trading Limited Response Time Avg. 10 Sec Days Hidden Fees Onboarding Help Discord Community Varies Growth 259,300+ Accounts Thousands of traders already funded and trading live. Support",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eady funded and trading live",
+    "snippet": "Discord Community Varies Growth 259,300+ Accounts Thousands of traders already funded and trading live. Support Avg. 10 Sec Response Time Real humans available around the clock, not bots. Payouts Daily Withdrawals in Live Funded Request your earnings every single",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal humans available around the clock, not bots",
+    "snippet": "s of traders already funded and trading live. Support Avg. 10 Sec Response Time Real humans available around the clock, not bots. Payouts Daily Withdrawals in Live Funded Request your earnings every single day in Live Funded with no delays. Partners & Preferred Platforms FundX Mo",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Same day",
+    "snippet": "on Fee None Max Contracts 4 Mini (40 Micros) Consistency 40% Funded Account Payout Frequency Same day Profit Split 80% Consistency 40% Drawdown Type EOD (End of Day) Max Drawdown $2,000 Drawdown Lock Locks at starting balance + $100 Daily Loss Limit $1,250",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "in 3 days instead of 8?",
+    "snippet": "tform Rithmic Onyx Nexus Trader Nexus Connect Want to be eligible for your first payout in 3 days instead of 8? Skip the Eval $475 Your account starts in the funded phase. Discount codes and promotions do not apply. Coupon KSWART Apply Subtotal $ 178 Discount \u00b7 KSWART",
+    "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+    "kind": "page"
+   },
+   {
+    "value": "instant",
+    "snippet": "eeks or months, this type of firm leverages advanced financial technology to process withdrawals almost instantly. This model permits skilled market participants to execute trades, secure profits, and request their share of the gains within the same twenty-four hour cycle. To acc",
+    "url": "https://fundedfuturesnetwork.com/blog/daily-payout-prop-firms-how-fast-can-you-get-paid",
+    "kind": "page"
+   },
+   {
+    "value": "in 4 Days?\n Yes, it is e",
+    "snippet": "aily earnings are limited by your maximum daily loss limits. Can You Get Your First Payout in 4 Days? Yes, it is entirely possible to receive your first payout in as little as four days if you select a firm with rapid evaluation terms. Some modern prop firms do not enforce minimum tr",
+    "url": "https://fundedfuturesnetwork.com/blog/daily-payout-prop-firms-how-fast-can-you-get-paid",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "Payout Cap $1,500 (payouts 1\u20133), $2,000 (payout 4+) \n Payout Cap per User $10,000 per payout, all accounts \n Live Review",
+    "snippet": "ing balance + $100 Daily Loss Limit $1,250 Buffer $2,000 Minimum Payout $500 Payout Cap $1,500 (payouts 1\u20133), $2,000 (payout 4+) Payout Cap per User $10,000 per payout, all accounts Live Review After 4 payouts on one account or 10 since the last live review On Live Review All sim accounts close Funded Reset Fee $625 (before any payout, on",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "payout caps and trading restrictions",
+    "snippet": "luation; resets are available for a fee. Funded accounts are subject to per-account payout caps and trading restrictions. Refund Policy. All account purchases and payments are non-refundable. This is a one-time charge \u2014 there is no subscription and nothing renews. By completing your pur",
+    "url": "https://fundedfuturesnetwork.com/checkout?plan=50SM&feed=rithmic&coupon=KSWART",
+    "kind": "page"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plans found in standard challenges, allowing traders to deploy their maximum allowed contracts immediately upon ",
+    "snippet": "r overall career objectives. These instant accounts generally bypass the restrictive scaling plans found in standard challenges, allowing traders to deploy their maximum allowed contracts immediately upon account activation. Understanding these features is critical for selecting the right option, as a larger account balance provides a lar",
+    "url": "https://fundedfuturesnetwork.com/blog/instant-funding-vs-evaluation-accounts-in-futures-trading",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans during the early phases of funding",
+    "snippet": "hey support multiple platform connections and offer transparent rules with no hidden scaling plans during the early phases of funding. My Funded Futures Review My Funded Futures is a prominent competitor that appeals directly to futures traders looking for high-quality technology and stable infrastru",
+    "url": "https://fundedfuturesnetwork.com/blog/daily-payout-prop-firms-how-fast-can-you-get-paid",
+    "kind": "page"
+   },
+   {
+    "value": "scaling plans or daily drawdown limits that serve a similar risk management purpose",
+    "snippet": "these rules on fully funded accounts, but they often replace them with other strict scaling plans or daily drawdown limits that serve a similar risk management purpose. It is imperative to read the fine print of your specific agreement to understand exactly when and how these mathematical metrics will be applied to your balance. Opera",
+    "url": "https://fundedfuturesnetwork.com/blog/consistency-rule-prop-firm-guide-for-funded-traders-3",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "Activation Fee \n KSWART \n Rules \n FAQ's \n Blog \n Competition \n Resources About \n Why FFN \n Preferred Platforms \n Affilia",
+    "snippet": "utures Prop Firm | Same-Day Payouts | Funded Futures Network Get 50% OFF + BOGO + No Activation Fee KSWART Rules FAQ's Blog Competition Resources About Why FFN Preferred Platforms Affiliate Program Merch Contact Login Signup Excellent The Best Firm To Get Funded There's a reason why thousands of traders choose us, and it's not just be",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Reset Fee $100 \n Activation Fee None \n Max Contracts 4 Mini (40 Micros) \n Consistency 40% \n \n Funded Account\n Payout Fr",
+    "snippet": "Drawdown $2,000 Daily Loss Limit $1,250 Min. Trading Days 5 days ($150+ each) Reset Fee $100 Activation Fee None Max Contracts 4 Mini (40 Micros) Consistency 40% Funded Account Payout Frequency Same day Profit Split 80% Consistency 40% Drawdown Type EOD (End of Day) Max Drawdown $2,000 Drawdown Lock Locks at starting balance + $100 Daily ",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Reset Fee $625 (before any payout, once) \n Max Contracts 4 Mini (40 Micros) \n Contract Scaling\n 2 Mini (20 Micros) $0 -",
+    "snippet": "nt or 10 since the last live review On Live Review All sim accounts close Funded Reset Fee $625 (before any payout, once) Max Contracts 4 Mini (40 Micros) Contract Scaling 2 Mini (20 Micros) $0 - $1,000 (Profit) 3 Mini (30 Micros) $1,001 - $2,000 (Profit) 4 Mini (40 Micros) $2,001+ (Profit) Continue with MAX Standard 50K Same day payouts ",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "activation fee after passing",
+    "snippet": "ng platform, Onyx or Quantower (FundX) Evaluation price shown. No hidden fees. No activation fee after passing. Choose your payout schedule later. Best Customer Service In The Industry Friendly and Helpful Support from Real People We will respond within 10 seconds! We p",
+    "url": "https://fundedfuturesnetwork.com/",
+    "kind": "home"
+   },
+   {
+    "value": "subscription fee to a proprietary trading firm, you gain immediate access to institutional-grade purchasing power",
+    "snippet": "trade futures contracts is an unrealistic goal. By paying a relatively small, flat subscription fee to a proprietary trading firm, you gain immediate access to institutional-grade purchasing power. This leverages your analytical skills to a level that would otherwise require years of personal saving and capital accumulation. According to ",
+    "url": "https://fundedfuturesnetwork.com/blog/day-trading-funded-accounts-how-it-works-and-how-to-get-one",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "mails, no receipts. One free account active at a time. Ends October 31. Terms apply. Claim Offer Instant Funding vs Evaluation Accounts in Futures Trading Get 50% OFF + BOGO + No Activation Fee KSWART Rules FAQ's Blog Competition Resources About Why FFN",
+   "url": "https://fundedfuturesnetwork.com/blog/instant-funding-vs-evaluation-accounts-in-futures-trading"
+  },
+  {
+   "name": "Futures",
+   "snippet": "k and when to trade them with this trading futures for beginners guide. Start trading with a funded futures account today. Funded Futures Network Kim Tyson Read next Opening Range Breakout Strategy for Futures Traders Understanding opening range breakout strategy is",
+   "url": "https://fundedfuturesnetwork.com/blog/firm-price-meaning-in-futures-trading-contracts"
+  }
+ ],
+ "platforms": [
+  "Quantower",
+  "Rithmic"
+ ],
+ "assets": [
+  "FX",
+  "Gold",
+  "Silver",
+  "Crypto",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Stocks",
+  "Futures",
+  "CFD",
+  "Options",
+  "Bonds"
+ ],
+ "coupon_codes": [
+  {
+   "code": "KSWART",
+   "context": "re referred by Kevin Swart 50 % off with KSWART \u00b7 applied Kevin Swart's 50% off applied code KSWART You Save $ 89 MAX Standard 50K 5 days to pass EOD (End"
+  }
+ ],
+ "claims": [
+  "ted Response Time Avg. 10 Sec Days Hidden Fees Onboarding Help Discord Community Varies Growth 259,300+ Accounts Thousands of traders already funded and trading live. Sup",
+  "Drawdown Lock Locks at starting balance + $100 Daily Loss Limit $1,250 Buffer $2,000 Minimum Payout $500 Payout Cap $1,500 (payouts 1\u20133), $2,000 (payout 4+) Payout Cap p",
+  "(payouts 1\u20133), $2,000 (payout 4+) Payout Cap per User $10,000 per payout, all accounts Live Review After 4 payouts on one account or 10 since the last live review On Live R",
+  "atforms. Still stuck? Talk to us . How many accounts can I copy trade? You can copy trade a maximum of 5 accounts. You cannot have more than 5 accounts trading at one time o",
+  "How many accounts can I copy trade? You can copy trade a maximum of 5 accounts. You cannot have more than 5 accounts trading at one time on the same product simultaneously. If",
+  "esets on that account. The consistency reset is per account after each payout. For example, if you copy trade 5 accounts and withdraw from 2 of them, only those 2 accounts have the"
+ ],
+ "errors": []
+}

@@ -1,0 +1,12 @@
+{
+ "slug": "apex-proprietary",
+ "name": "Apex Proprietary",
+ "category": "Forex/CFD",
+ "url": "https://apexproprietary.com/",
+ "status": "no-content",
+ "findings": {},
+ "pages": [],
+ "errors": [
+  "homepage:0:URLError:<urlopen error [Errno -2] Name or service not known>"
+ ]
+}

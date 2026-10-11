@@ -1,0 +1,33 @@
+{
+ "slug": "fundedx",
+ "name": "FundedX",
+ "category": "Forex/CFD",
+ "url": "https://fundedx.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://fundedx.com/",
+   "kind": "home",
+   "chars": 72
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 72,
+ "findings": {
+  "legal_entity": [
+   {
+    "value": "Propfirm Trading & Leverag",
+    "snippet": "FundedX | Propfirm Trading & Leverage Capital Trading for Funded Traders",
+    "url": "https://fundedx.com/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

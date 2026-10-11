@@ -1,0 +1,253 @@
+{
+ "slug": "maven-securities",
+ "name": "Maven Securities",
+ "category": "Institutional",
+ "url": "https://www.mavensecurities.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.mavensecurities.com/",
+   "kind": "home",
+   "chars": 3542
+  },
+  {
+   "url": "https://www.mavensecurities.com/sitemap_index.xml",
+   "kind": "sitemap",
+   "chars": 459
+  },
+  {
+   "url": "https://www.mavensecurities.com/post-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 6094
+  },
+  {
+   "url": "https://www.mavensecurities.com/page-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 4972
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1109
+  },
+  {
+   "url": "https://www.mavensecurities.com/partner-sitemap.xml",
+   "kind": "sitemap",
+   "chars": 510
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/when-will-i-hear-back-about-how-i-have-done-after-completing-an-assessment/",
+   "kind": "page",
+   "chars": 1869
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/in-which-locations-can-we-apply-to-mavens-emerging-talent-programmes/",
+   "kind": "page",
+   "chars": 1918
+  },
+  {
+   "url": "https://www.mavensecurities.com/volatility-and-agricultural-trading-changes-relative-to-real-world-challenge/",
+   "kind": "page",
+   "chars": 5316
+  },
+  {
+   "url": "https://www.mavensecurities.com/faqs/",
+   "kind": "page",
+   "chars": 47973
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/is-it-possible-to-receive-feedback-on-my-application/",
+   "kind": "page",
+   "chars": 1867
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/what-should-i-do-if-i-experience-a-technical-difficulty-during-the-assessment/",
+   "kind": "page",
+   "chars": 2089
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/can-my-application-be-expedited/",
+   "kind": "page",
+   "chars": 1787
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/if-my-previous-application-wasnt-successful-how-long-do-i-have-to-wait-before-i-can-re-apply/",
+   "kind": "page",
+   "chars": 2113
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/how-can-i-prepare-for-any-assessments/",
+   "kind": "page",
+   "chars": 1778
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/does-maven-offer-visa-sponsorship/",
+   "kind": "page",
+   "chars": 2060
+  },
+  {
+   "url": "https://www.mavensecurities.com/faq/does-maven-offer-support-or-adjustments-during-the-recruitment-process/",
+   "kind": "page",
+   "chars": 1860
+  },
+  {
+   "url": "https://www.mavensecurities.com/about-us/",
+   "kind": "page",
+   "chars": 2325
+  }
+ ],
+ "page_count": 18,
+ "total_chars": 89658,
+ "findings": {
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "dmark year for the trading team. 30 Employees 2014 Maven Derivatives becomes authorised by the FCA. Maven\u2019s internally developed portfolio and risk management systems are deployed. 40 Employees 2015 Maven undertakes its first graduate recruitment progra",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "authorised by",
+    "snippet": "a landmark year for the trading team. 30 Employees 2014 Maven Derivatives becomes authorised by the FCA. Maven\u2019s internally developed portfolio and risk management systems are deployed. 40 Employees 2015 Maven undertakes its first graduate recruitment programme for opti",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "mas",
+    "snippet": "ploads/2021/09/WAMM_Banner4.gif https://www.mavensecurities.com/my-career-journey-thomas-bamford-murphy/ 2021-11-01T09:27:47+00:00 https://www.mavensecurities.com/wp-content/uploads/2021/10/MicrosoftTeams-image-2-1.jpg https://www.mavensecurities.com/lessons-learned-from-investing-in-unprecedented-times/ 2021-1",
+    "url": "https://www.mavensecurities.com/post-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "sca",
+    "snippet": "09:16:46+00:00 https://www.mavensecurities.com/wp-content/uploads/2023/04/Maven.2829-scaled.jpg https://www.mavensecurities.com/wp-content/uploads/2023/04/Maven-MSD-Logo2-1024x356.png https://www.mavensecurities.com/wp-content/uploads/2023/07/Maven.2804-1024x68",
+    "url": "https://www.mavensecurities.com/page-sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "nfa",
+    "snippet": "a quantitative researcher? AI tools have made it easier to prototype code, explore unfamiliar systems, review documentation and test early-stage ideas. They can significantly accelerate research, but their outputs still need careful validation \u2013 particularly where data quality, statistical assumptions, production syste",
+    "url": "https://www.mavensecurities.com/faqs/",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "By combining effective risk manag",
+    "snippet": "ng internal capital between discretionary, systematic and market-making strategies. By combining effective risk management with advanced technology we are able to achieve trading excellence; resulting in consistent and robust returns since inception across our diversified set of strateg",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "resulting in consistent and robust returns since inc",
+    "snippet": "risk management with advanced technology we are able to achieve trading excellence; resulting in consistent and robust returns since inception across our diversified set of strategies. A BRIEF HISTORY 2011 Founded in July, trading commences in August. 10 Employees 2012 Granted memberships to LSE,",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s internally developed portfolio and risk manag",
+    "snippet": "ng team. 30 Employees 2014 Maven Derivatives becomes authorised by the FCA. Maven\u2019s internally developed portfolio and risk management systems are deployed. 40 Employees 2015 Maven undertakes its first graduate recruitment programme for options market making. 49 Employees 2016 Maven expands t",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Maven expands the Multi-Strategy Group to Asia",
+    "snippet": "first graduate recruitment programme for options market making. 49 Employees 2016 Maven expands the Multi-Strategy Group to Asia by building an initial trading team in Hong Kong. 80 Employees 2017 Maven Derivatives Asia is incorporated and market making activities commence on the Osaka exchange",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Maven Derivatives Asia is inc",
+    "snippet": "Group to Asia by building an initial trading team in Hong Kong. 80 Employees 2017 Maven Derivatives Asia is incorporated and market making activities commence on the Osaka exchange and Singapore exchange. 118 Employees 2018 Maven is granted membership and commences trading on t",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ated and market making activities commence on the Osa",
+    "snippet": "al trading team in Hong Kong. 80 Employees 2017 Maven Derivatives Asia is incorporated and market making activities commence on the Osaka exchange and Singapore exchange. 118 Employees 2018 Maven is granted membership and commences trading on the Hong Kong futures exchange. 149 Employees 2019 Maven",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "office opens and the initial team of portfolio manag",
+    "snippet": "es trading on the Hong Kong futures exchange. 149 Employees 2019 Maven\u2019s New York office opens and the initial team of portfolio managers begin to deploy capital in the Multi-Strategy Group. 180 Employees 2020 Maven establishes its Systematic Alpha group, gains membership on the stock exchange of Hon",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Maven opens its Sydney office, adding portfolio manag",
+    "snippet": "he stock exchange of Hong Kong and opens its Amsterdam office. 268 Employees 2021 Maven opens its Sydney office, adding portfolio managers to facilitate expansion into new asset classes. 331 Employees 2022 Maven\u2019s Chicago office opens, our US Broker Dealer launches and the initial team of market maker",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eashing Potential\n \n ADVANCED TRADING AND TECHNOLOGY\n \n \n \n \n \n \n \n \n \u201cWe are driven to improve financial markets consis",
+    "snippet": "atic Careers Experienced Hires Emerging Talent Benefits Open Positions News Unleashing Potential ADVANCED TRADING AND TECHNOLOGY \u201cWe are driven to improve financial markets consistently and sustainably; through improved liquidity, transparency and capital allocation.\u201d OPENING MINDS AND MARKETS Maven is a market-leading proprietary trading",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading proprietary trading firm, allocating internal capital between discretionary, systematic and market-making strateg",
+    "snippet": "sparency and capital allocation.\u201d OPENING MINDS AND MARKETS Maven is a market-leading proprietary trading firm, allocating internal capital between discretionary, systematic and market-making strategies. By combining effective risk management with advanced technology we are able to achieve trading excellence; resulting in consistent and r",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ear for the trading team",
+    "snippet": "ronext, ICE & EUREX. 21 Employees 2013 Maven returns 80% on equity in a landmark year for the trading team. 30 Employees 2014 Maven Derivatives becomes authorised by the FCA. Maven\u2019s internally developed portfolio and risk management systems are deployed. 40 Employees 20",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam in Hong Kong",
+    "snippet": "2016 Maven expands the Multi-Strategy Group to Asia by building an initial trading team in Hong Kong. 80 Employees 2017 Maven Derivatives Asia is incorporated and market making activities commence on the Osaka exchange and Singapore exchange. 118 Employees 2018 Ma",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam of portfolio managers begin to deploy capital in the Multi-Strategy Group",
+    "snippet": "tures exchange. 149 Employees 2019 Maven\u2019s New York office opens and the initial team of portfolio managers begin to deploy capital in the Multi-Strategy Group. 180 Employees 2020 Maven establishes its Systematic Alpha group, gains membership on the stock exchange of Hong Kong and opens its Amsterdam office. 268 Employees",
+    "url": "https://www.mavensecurities.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@vidcruiter.com",
+    "snippet": "ng any of the assessments, please reach out to the following: Numerical assessment: support@vidcruiter.com Probability assessment: support@vidcruiter.com Coding assessment: support@hackerrank.com Arctic Shores assessment: https://help.arcticshores.com/hc/en-gb Does Maven of",
+    "url": "https://www.mavensecurities.com/faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "support@hackerrank.com",
+    "snippet": "ort@vidcruiter.com Probability assessment: support@vidcruiter.com Coding assessment: support@hackerrank.com Arctic Shores assessment: https://help.arcticshores.com/hc/en-gb Does Maven offer support or adjustments during the recruitment process? Yes. If you need support or a",
+    "url": "https://www.mavensecurities.com/faqs/",
+    "kind": "page"
+   },
+   {
+    "value": "emergingtalent@mavensecurities.com",
+    "snippet": "ed support or a reasonable adjustment during the recruitment process, please contact emergingtalent@mavensecurities.com or identify this on your application form where indicated. How can I prepare for any assessments? For our advice on how to best prepare, please check out the top tips",
+    "url": "https://www.mavensecurities.com/faqs/",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [
+  "FX",
+  "Energy",
+  "Oil",
+  "Commodities",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

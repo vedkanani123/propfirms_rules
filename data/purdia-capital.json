@@ -1,0 +1,24 @@
+{
+ "slug": "purdia-capital",
+ "name": "Purdia Capital",
+ "category": "Futures",
+ "url": "https://purdia.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://purdia.com/",
+   "kind": "home",
+   "chars": 48
+  }
+ ],
+ "page_count": 1,
+ "total_chars": 48,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

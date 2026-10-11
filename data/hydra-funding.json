@@ -1,0 +1,580 @@
+{
+ "slug": "hydra-funding",
+ "name": "Hydra Funding",
+ "category": "Specialist",
+ "url": "https://hydrafunding.io/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://hydrafunding.io/",
+   "kind": "home",
+   "chars": 34827
+  },
+  {
+   "url": "https://hydrafunding.io/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 1161
+  },
+  {
+   "url": "https://hydrafunding.io/faq",
+   "kind": "page",
+   "chars": 27835
+  },
+  {
+   "url": "https://hydrafunding.io/terms-of-use",
+   "kind": "page",
+   "chars": 18806
+  },
+  {
+   "url": "https://hydrafunding.io/about-us",
+   "kind": "page",
+   "chars": 4772
+  },
+  {
+   "url": "https://hydrafunding.io/contact-us",
+   "kind": "page",
+   "chars": 1468
+  }
+ ],
+ "page_count": 6,
+ "total_chars": 88874,
+ "findings": {
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $29 One-Time Fee Trade Funded Now Summary Market Forex Funding Model instant Li",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "4",
+    "snippet": "ng platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $29 One-Time Fee Trade Funded Now Summary",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "t purchase fee \u2014 they apply for the lifetime of the account, no recurring cost. +2% Max Drawdown (+50% fee) \u2014 available on all tiers: Increases your max trailing drawdown from the standard 4% to 6%, giving you more room before the account breaches. Payout Protection (+3",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "above the starting balance \u2014 traders can never withdraw it. That cushion exceeds the max drawdown on each tier (5% > 4% on Lite, 8% > 4% on Prime), so even after a full withdrawal of available profits, the buffer protects the account from immediate breach. Pro has no buffer, so this",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "50",
+    "snippet": "e 2. Funding Model Affordable Instant Entry instant prime Loosest Best Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "75",
+    "snippet": "e 3% daily max loss, same 4% max trailing drawdown, same 1% minimum withdrawal, same 75% standard / 90% add-on payout split, same standardized add-on options (90% payout, +2% Max Drawdown, weekend holding, Payout Protection). \u200d The differences between tiers are deliberate and limited to two",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "90",
+    "snippet": "awal, same 75% standard / 90% add-on payout split, same standardized add-on options (90% payout, +2% Max Drawdown, weekend holding, Payout Protection). \u200d The differences between tiers are deliberate and limited to two specs: Profit buffer: 5% Lite / 8% Prime / 0",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "Loosest Best Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "sest Best Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on M",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "est Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Dai",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "y Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Los",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": ": 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% P",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% Profit B",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% Profit Buffer",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "500",
+    "snippet": "ducts, or adjust allocation structures in the future. 10.3 Examples Allowed (within $500k cap): 5x Instant Lite 100k 2x Instant Pro 100k + 1x Instant Prime 100k + 1x Instant Lite 100k 2x Instant Lite 200k + 1x Instant Prime 100k Not Allowed: Configuratio",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   }
+  ],
+  "prices": [
+   {
+    "value": "5",
+    "snippet": "Loosest Best Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with ad",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "sest Best Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "25",
+    "snippet": "est Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Da",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "50",
+    "snippet": "y Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Lo",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": ": 50% Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3%",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "Instant Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% Profit",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "Pro Shortest Path to Payout 3. Account size $5k $10k $25k $50k $100k $200k $400k 4. trading platform Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3% Profit Buffer",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "29",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $29 One-Time Fee Trade Funded Now Summary Market Forex Funding Model instant Lite Account Size $5k Max Drawdown 4% ($200), 6% with add-on Max Daily Loss 3%",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "59",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $59 One-Time Fee Trade Funded Now Summary Market Forex Funding Model instant Lite Account Size $10k Max Drawdown 4% ($400), 6% with add-on Max Daily Loss 3",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "1000",
+    "snippet": "y Market Forex Funding Model instant Lite Account Size $25k Max Drawdown 4% ($1000), 6% with add-on Max Daily Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $99 $99 One-Time Fee Trade Funded Now Summary",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "99",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $99 $99 One-Time Fee Trade Funded Now Summary Market Forex Funding Model instant Lite Account Size $25k Max Drawdown 4% ($1000), 6% with add-on Max Daily L",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "2000",
+    "snippet": "y Market Forex Funding Model instant Lite Account Size $50k Max Drawdown 4% ($2000), 6% with add-on Max Daily Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% $99 $199 One-Time Fee Trade Funded Now Summary",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "trailing",
+    "snippet": "a instant funded account \u2014 Lite, Prime, and Pro. Same 3% daily max loss, same 4% max trailing drawdown, same 1% minimum withdrawal, same 75% standard / 90% add-on payout split, same standardized add-on options (90% payout, +2% Max Drawdown, weekend holding, Payout Protect",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency rule suddenly has a 25% one on the funded side",
+    "snippet": "lenge to pass. Most of this industry runs on a bait and switch. A challenge with no consistency rule suddenly has a 25% one on the funded side. An evaluation with no max-margin limit quietly breaches you out once real money is on the line. The rules you passed under are not the rules you get paid under. Hydra i",
+    "url": "https://hydrafunding.io/about-us",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "anytime",
+    "snippet": "y be forfeited. If you\u2019re unsure you can pass verification, confirm before trading. WITHDRAWALS How often can I withdraw? First withdrawal: anytime after you are eligible. Subsequent withdrawals: once every 30 days. WITHDRAWALS Is there a minimum withdrawal amount? Yes. The minimum withdrawal is 1% of account si",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "every 30 days",
+    "snippet": "often can I withdraw? First withdrawal: anytime after you are eligible. Subsequent withdrawals: once every 30 days. WITHDRAWALS Is there a minimum withdrawal amount? Yes. The minimum withdrawal is 1% of account size across all instant funded accounts (Lite, Prime, and Pro), under",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "crypto",
+    "snippet": "our Instant Account One ruleset. 3 Markets. Funded from Day 1. 1. Market forex crypto futures Instant Lite 2. Funding Model Affordable Instant Entry instant prime Loosest Best Day Rule: 50% Instant Pro Shortest Path to Payout 3. Account size $5k",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Rise",
+    "snippet": "add-on (optional) WITHDRAWALS Can I withdraw in crypto or fiat? Yes. Fiat (via Rise) and crypto withdrawal options are available. WITHDRAWALS How long does it take to receive my withdrawal? Most withdrawals are processed within 48 business hours. Tim",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "wise",
+    "snippet": "vity Hydra determines to be abusive, manipulative, fraudulent, exploitative, or otherwise prohibited under Section 11. 2. Who We Are / Contact Hydra Funding Ltd Ground Floor, The Sotheby Building Rodney Village, Rodney Bay Gros-Islet, Saint Lucia Support",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "USDC",
+    "snippet": "youts process in one to two business days, fiat through Rise, crypto in BTC, ETH, or USDC. Important Note All accounts operate in a simulated environment. Trader Payout eligibility is determined strictly by the plan rules in the Terms and Conditions. Hydra",
+    "url": "https://hydrafunding.io/about-us",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "sca",
+    "snippet": "ill be capped at $100,000 The maximum total allocation available through the Hydra scaling plan is $500,000 SELECT PLAN Double Your Account At Hydra Funding, we reward traders who prove consistency over time. Complete the requirements above and we\u2019ll issue you an additional Hydra Instant account of the same size and type, capped at $100,0",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "you ag",
+    "snippet": "We use cookies to improve your experience on our website. By clicking \u201cAccept all\u2019, you agree to the use of all cookies. More information Reject all Accept All Markets testimonials FAQs login 30% off Your first purchase Enter your email and we will",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Withdraw from the same account you started with. Sa",
+    "snippet": "funded account. Funded from Day 1. No phases. No activation fees. No hidden rules. Withdraw from the same account you started with. Same rules from Day 1. No profit caps. The Unified Hydra Rule Set, covers every plan and market, published upfront. No gotchas. Payouts Paying Traders Since 2022",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "Paying Traders Sinc",
+    "snippet": "Rule Set, covers every plan and market, published upfront. No gotchas. Payouts Paying Traders Since 2022 GET FUNDED Build Your Instant Account One ruleset. 3 Markets. Funded from Day 1. 1. Market forex crypto futures Instant Lite 2. Funding Model",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "PLATFORM FEES First 30 days inc",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% PLATFORM FEES First 30 days included \u00b7 $29/mo after $295 $199 Trade Funded Now Summary Market Futures Funding Model instant Lite Account Size $50k Max Drawdown 4% ($2000), 6% with add-",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "sue you an additional Hydra Instant account of the sa",
+    "snippet": "traders who prove consistency over time. Complete the requirements above and we\u2019ll issue you an additional Hydra Instant account of the same size and type, capped at $100,000 , free of charge. How to get a plan? You complete 3 successful withdrawals from the same Hydra Instant account Each withdrawal is",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "You complete 3 successful withdrawals from the sa",
+    "snippet": "of the same size and type, capped at $100,000 , free of charge. How to get a plan? You complete 3 successful withdrawals from the same Hydra Instant account Each withdrawal is at least 5% of the account\u2019s starting balance You have no breaches on any Hydra account during the qualification period You",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "ll issue you an additional Hydra Instant account, sa",
+    "snippet": "Double Your Account At Hydra, we reward consistency. Hit the requirements and we'll issue you an additional Hydra Instant account, same size and type, capped at $100,000 , free of charge. SELECT PLAN How to Qualify? You complete 3 successful withdrawals in 180 days from the same Hydra Instant",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "lete 3 successful withdrawals in 180 days from the sa",
+    "snippet": "e, capped at $100,000 , free of charge. SELECT PLAN How to Qualify? You complete 3 successful withdrawals in 180 days from the same Hydra Instant account Each withdrawal is at least 5% of the account\u2019s starting balance You have no breaches on any Hydra account during the qualification period You",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "restricted_countries": [
+   {
+    "value": "restricted countries?\n Hydra does not onboard users from certain jurisdictions due to international sanctions, regulator",
+    "snippet": "old (or the applicable minimum legal age in your country). POLICIES Are there any restricted countries? Hydra does not onboard users from certain jurisdictions due to international sanctions, regulatory requirements, or internal compliance policies. \u200d At this time, we do not accept users from: \u200d Pakistan Russia Cuba Sudan Somalia Iran Lib",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "Restricted Jurisdictions Hydra does not onboard users from countries restricted under sanctions or internal compliance p",
+    "snippet": "stricted jurisdiction. Hydra may refuse service for compliance or risk reasons. 7. Restricted Jurisdictions Hydra does not onboard users from countries restricted under sanctions or internal compliance policies. The restricted list is maintained publicly in our FAQ: https://hydrafunding.io/faq and may change at any time. 8. Purchases and ",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   }
+  ],
+  "refund": [
+   {
+    "value": "refunded or charged back",
+    "snippet": "regardless of which code they use. Commission is also void if the referred order is refunded or charged back. markets testimonials FAQs About US Contact US Blog login Trade Funded Now Cookie Policy Terms of Use Privacy Policy \u00a9 2026 HYDRA FUNDING. ALL RIGHT RESER",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "Refunds All Instant funding plans are purchased via a one-time fee",
+    "snippet": "n our FAQ: https://hydrafunding.io/faq and may change at any time. 8. Purchases and Refunds All Instant funding plans are purchased via a one-time fee. All sales are final. Due to the immediate access provided upon purchase, funding plans are non-refundable once activated. Hydra Funding reserves the right, at its so",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "refundable once activated",
+    "snippet": "re final. Due to the immediate access provided upon purchase, funding plans are non-refundable once activated. Hydra Funding reserves the right, at its sole discretion, to review and issue refunds in exceptional circumstances. Any such decision does not create precedent or enti",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "refunds in exceptional circumstances",
+    "snippet": "ated. Hydra Funding reserves the right, at its sole discretion, to review and issue refunds in exceptional circumstances. Any such decision does not create precedent or entitlement for future refund requests. Fraudulent disputes, chargebacks, or payment reversals may result in immediate a",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "high-impact news event is prohibited",
+    "snippet": "trade during news events? Opening new positions within 3 minutes before or after a high-impact news event is prohibited. Closing existing positions is allowed (including stop losses and take profits). Trades opened inside the restricted window may be removed and the account may be closed.",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Each withdrawal is at least 5% of\u00a0the account\u2019s starting balance\n You have no breaches on any Hydra account during the q",
+    "snippet": "a plan? You complete 3 successful withdrawals from the same Hydra Instant account Each withdrawal is at least 5% of the account\u2019s starting balance You have no breaches on any Hydra account during the qualification period Your account remains active and in good standing Example: If you qualify with a $100,000 account , you can receive an a",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eads plus commission, priced from aggregated liquidity providers with zero markup \u2014 the institutional model",
+    "snippet": "ls Forex Trade currencies, metals, and indices from a single funded account. Raw spreads plus commission, priced from aggregated liquidity providers with zero markup \u2014 the institutional model. Fills are simulated-live at VWAP with real order-book depth. View symbols Crypto Crypto-specialized funded accounts with real on-exchange liquidity",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eal order-book depth",
+    "snippet": "s with zero markup \u2014 the institutional model. Fills are simulated-live at VWAP with real order-book depth. View symbols Crypto Crypto-specialized funded accounts with real on-exchange liquidity, not synthetic CFDs. Pricing comes from an aggregated feed across major",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eal on-exchange liquidity, not synthetic CFDs",
+    "snippet": "er-book depth. View symbols Crypto Crypto-specialized funded accounts with real on-exchange liquidity, not synthetic CFDs. Pricing comes from an aggregated feed across major exchanges including Binance and OKX \u2014 tight spreads, low commissions, and deep order books. international pairs",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "eads, low commissions, and deep order books",
+    "snippet": "from an aggregated feed across major exchanges including Binance and OKX \u2014 tight spreads, low commissions, and deep order books. international pairs US pairs Futures Trade futures on real CME pricing with defined risk controls and transparent execution. Centralized, regulated exc",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@hydrafunding.io",
+    "snippet": "gh Friday. You can reach us via the live chat directly on our website or by emailing support@hydrafunding.io AFFILIATE What are the criteria to become a Hydra affiliate? There is no follower minimum. Anyone with an audience can apply, sign the agreement, and start sharing t",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "Instant",
+    "snippet": "capped at $100,000 , free of charge. How to get a plan? You complete 3 successful withdrawals from the same Hydra Instant account Each withdrawal is at least 5% of the account\u2019s starting balance You have no breaches on any Hydra account during the qualification period Your account remain",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "in 180 days from the same",
+    "snippet": "000 , free of charge. SELECT PLAN How to Qualify? You complete 3 successful withdrawals in 180 days from the same Hydra Instant account Each withdrawal is at least 5% of the account\u2019s starting balance You have no breaches on any Hydra account during the qualification period Your a",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "within 48 business hours",
+    "snippet": "withdrawal options are available. WITHDRAWALS How long does it take to receive my withdrawal? Most withdrawals are processed within 48 business hours. Timing can vary due to verification, review, banking hours, or crypto network conditions. WITHDRAWALS How do I request a withdrawal? Withdrawal requests are submitte",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "within 48 business hours foll",
+    "snippet": "ving Trader Payouts. 12.5 Processing Time Hydra generally processes approved Trader Payout requests within 48 business hours following verification and eligibility confirmation. Processing times may vary in cases involving: Identity verification review Compliance or sanctions checks Prohibited",
+    "url": "https://hydrafunding.io/terms-of-use",
+    "kind": "page"
+   },
+   {
+    "value": "in 2022, and we have never",
+    "snippet": "plans. Behind that, the part that actually matters: payouts. We have never missed a payout since founding in 2022, and we have never denied a single one. Follow the rules, withdraw your profits. It is that simple. Most payouts process in one to two business days, fiat through Rise, crypto in BTC, ETH,",
+    "url": "https://hydrafunding.io/about-us",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:50",
+    "snippet": "timized trading conditions for each market. Limits are defined as follows: \u200d Forex Leverage: FX: 1:50 Metals, Indices, and Oils: 1:5 Crypto: 1:2 \u200d Crypto Leverage: BTC & ETH: 5:1 Others: 2:1 \u200d Futures Exposure Limits: 10k Account: 1 Contract / 15 Micros 25k Acc",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "profit_cap": [
+   {
+    "value": "profit caps",
+    "snippet": "n rules. Withdraw from the same account you started with. Same rules from Day 1. No profit caps. The Unified Hydra Rule Set, covers every plan and market, published upfront. No gotchas. Payouts Paying Traders Since 2022 GET FUNDED Build Your Inst",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "scaling": [
+   {
+    "value": "scaling plan is\u00a0 $500,000 \n \n SELECT PLAN\n \n Double Your Account At Hydra Funding, we reward traders who prove consisten",
+    "snippet": "ill be capped at $100,000 The maximum total allocation available through the Hydra scaling plan is $500,000 SELECT PLAN Double Your Account At Hydra Funding, we reward traders who prove consistency over time. Complete the requirements above and we\u2019ll issue you an additional Hydra Instant account of the same size and type, capped at $100,0",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan is\u00a0 $500,000 \n \n SELECT PLAN\n \n Double Your Account \n At Hydra, we reward consistency",
+    "snippet": "ill be capped at $100,000 The maximum total allocation available through the Hydra scaling plan is $500,000 SELECT PLAN Double Your Account At Hydra, we reward consistency. Hit the requirements and we'll issue you an additional Hydra Instant account, same size and type, capped at $100,000 , free of charge. SELECT PLAN How to Qualif",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "scaling plan is\u00a0 $500,000 \n \n \n SELECT PLAN\n \n \n Markets\n \n Available Trading Symbols\n Forex Trade currencies, metals, a",
+    "snippet": "still capped at $100,000 . The maximum total allocation available through the Hydra scaling plan is $500,000 SELECT PLAN Markets Available Trading Symbols Forex Trade currencies, metals, and indices from a single funded account. Raw spreads plus commission, priced from aggregated liquidity providers with zero markup \u2014 the institutional mo",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC:\n Profit Buffer reached\n Best Day Rule satisfied\n KYC complete\n \n WITHDRAWALS\n What is Payout Protection?\n Pa",
+    "snippet": "withdrawal? Withdrawals are available once you meet payout eligibility and complete KYC: Profit Buffer reached Best Day Rule satisfied KYC complete WITHDRAWALS What is Payout Protection? Payout Protection is an optional add-on available at checkout on all instant funded accounts (Lite, Prime, and Pro). \u200d What it does: if your account clos",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "KYC)?\n Withdrawals require successful verification when requested",
+    "snippet": "reaking news window rules. WITHDRAWALS What happens if I do not pass verification (KYC)? Withdrawals require successful verification when requested. If verification cannot be completed, the account may be closed and profits may be forfeited. If you\u2019re unsure you can pass verification, confirm before trading. WITHDR",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   },
+   {
+    "value": "KYC to sign up?\n \u00a0No",
+    "snippet": ". For full details, refer to the Terms of Service page. POLICIES Do I need to pass KYC to sign up? No. You can purchase an account and start trading Funded without completing KYC upfront. KYC verification is required before your first withdrawal \u2014 it confirms your identi",
+    "url": "https://hydrafunding.io/faq",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "activation fees",
+    "snippet": "WHY HYDRA The Old Way Is Broken. We Fixed It. No challenges. No hidden rules. No activation fees. The Old Way Pay for a \"test,\" then pass it before you see a cent. Wait for approval, phase resets, and arbitrary delays. Rules shift the moment you're funded. Hidd",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "PLATFORM FEES First 30 days included \u00b7 $29/mo after\n $295 $199\n \n \n Trade Funded Now\n \n Summary\n Market\n Futures\n Fundin",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% PLATFORM FEES First 30 days included \u00b7 $29/mo after $295 $199 Trade Funded Now Summary Market Futures Funding Model instant Lite Account Size $50k Max Drawdown 4% ($2000), 6% with add-on Max Daily Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best ",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "PLATFORM FEES First 30 days included \u00b7 $29/mo after\n $295 $199\n \n \n Trade Funded Now\n \n 4",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% PLATFORM FEES First 30 days included \u00b7 $29/mo after $295 $199 Trade Funded Now 4. trading platform Summary Market Futures Funding Model instant Lite Account Size $100k Max Drawdown 4% ($4000), 6% with add-on Max Daily Loss 3% Profit Buffer",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "PLATFORM FEES First 30 days included \u00b7 $29/mo after\n $590 $399 $399\n \n \n Trade Funded Now\n \n Summary\n Market\n Futures\n F",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% PLATFORM FEES First 30 days included \u00b7 $29/mo after $590 $399 $399 Trade Funded Now Summary Market Futures Funding Model instant Lite Account Size $100k Max Drawdown 4% ($4000), 6% with add-on Max Daily Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   },
+   {
+    "value": "PLATFORM FEES First 30 days included \u00b7 $29/mo after\n $590 $399 $399\n \n \n Trade Funded Now\n \n 4",
+    "snippet": "Loss 3% Profit Buffer 5% Trader Payout 75%, 90% with add-on Best Day Rule 15% PLATFORM FEES First 30 days included \u00b7 $29/mo after $590 $399 $399 Trade Funded Now 4. trading platform Summary Market Futures Funding Model instant Lite Account Size $200k Max Drawdown 4% ($8000), 6% with add-on Max Daily Loss 3% Profit Buffer",
+    "url": "https://hydrafunding.io/",
+    "kind": "home"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "Hydra Funding | Instant Funding From Day 1 We use cookies to improve your experience on our website. By clicking \u201cAccept all\u2019, you agree to the use of all cookies. More",
+   "url": "https://hydrafunding.io/"
+  },
+  {
+   "name": "Futures",
+   "snippet": "ts: no. These are purchased with a one-time fee \u2014 no recurring charges, no monthly billing. \u200d For Futures accounts: the upfront account purchase covers the first 30 days. After that, Futures accounts carry a $29/month subscription fee to cover the underlying platform and e",
+   "url": "https://hydrafunding.io/faq"
+  },
+  {
+   "name": "Crypto",
+   "snippet": "ded from day one under one rule set. ACCOUNTS MARKETS Are there subscription fees? For Forex and Crypto accounts: no. These are purchased with a one-time fee \u2014 no recurring charges, no monthly billing. \u200d For Futures accounts: the upfront account purchase covers the fir",
+   "url": "https://hydrafunding.io/faq"
+  }
+ ],
+ "platforms": [
+  "cTrader",
+  "DXtrade",
+  "Tradovate",
+  "Volumetrica"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Indices",
+  "Metals",
+  "Crypto",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "riodically Rank Display name Payouts Top Traded Symbol largest allocation Total amount 1 Sasa K. \ud83c\uddfa\ud83c\uddf8 5 Payouts BTCUSD $200,000 $99,887.04 Top Traded Symbol largest a",
+  "Payouts BTCUSD $200,000 $99,887.04 Top Traded Symbol largest allocation Total amount 2 Kyle P. \ud83c\udde8\ud83c\udde6 4 Payouts EURUSD $500,000 $47,453.54 Top Traded Symbol largest a",
+  "Payouts EURUSD $500,000 $47,453.54 Top Traded Symbol largest allocation Total amount 3 Sawzer B. \ud83c\uddfa\ud83c\uddf8 1 Payouts BTCUSD $100,000 $33,750.00 Top Traded Symbol largest a",
+  "Payouts BTCUSD $100,000 $33,750.00 Top Traded Symbol largest allocation Total amount 4 Nathan W. \ud83c\uddf9\ud83c\udded 3 Payouts XAUUSD $25,000 $30,555.91 Top Traded Symbol largest al",
+  "3 Payouts XAUUSD $25,000 $30,555.91 Top Traded Symbol largest allocation Total amount 5 Jovo N. \ud83c\udde6\ud83c\uddf9 1 Payouts BTCUSD $100,000 $24,106.50 Top Traded Symbol largest a",
+  "SD $100,000 $24,106.50 Top Traded Symbol largest allocation Total amount Show More 6 Shashank B. \ud83c\uddee\ud83c\uddf3 2 Payouts EURUSD $100,000 $18,929.70 Top Traded Symbol largest a"
+ ],
+ "errors": []
+}

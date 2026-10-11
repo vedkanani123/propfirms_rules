@@ -1,0 +1,125 @@
+{
+ "slug": "xr-trading",
+ "name": "XR Trading",
+ "category": "Institutional",
+ "url": "https://www.xrtrading.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://www.xrtrading.com/",
+   "kind": "home",
+   "chars": 3046
+  },
+  {
+   "url": "https://www.xrtrading.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 164
+  },
+  {
+   "url": "https://www.xrtrading.com/contact",
+   "kind": "page",
+   "chars": 669
+  }
+ ],
+ "page_count": 3,
+ "total_chars": 3881,
+ "findings": {
+  "legal_entity": [
+   {
+    "value": "is unique approach enables us to successfully leverag",
+    "snippet": "e engineers and quants - work side-by-side in an open, collaborative environment. This unique approach enables us to successfully leverage our strategies across a multitude of products and global exchanges. Our success begins with talented individuals -and is maintained and driven by a unified team effort.",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "XR Trading LLC",
+    "snippet": "alented individuals -and is maintained and driven by a unified team effort. NOTICE: XR Trading LLC and its affiliates will not accept outside investment or solicit client funds for investment purposes. Please note XR Trading will only contact you regarding job oppor",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ignore and report any phishing or spam messag",
+    "snippet": "legitimate communications from XR Trading will come from our official email domain \u2014 ignore and report any phishing or spam messages requesting personal information or payment. Trading Our trading teams collectively implement our trading strategies, while monitoring the markets to ensure",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "s. These teams work to solve hard problems by leverag",
+    "snippet": "software engineers and quants, to develop new and enhance existing trading strategies. These teams work to solve hard problems by leveraging technology and thinking innovatively. Quantitative Research At XR, quantitative research is the foundation for our trading strategies. We develop mathemati",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "r pricing strategies, market decisions and risk manag",
+    "snippet": "s to represent markets and behavioral patterns. These models serve as roadmaps for our pricing strategies, market decisions and risk management. Technology Technology is a driving force of our business; we make ongoing capital investments to ensure our employees have the tools they need to excel.",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Copyright 2026, XR Trading LLC",
+    "snippet": "cellence Integrity Collaboration Respect Contact Open Positions Affiliates Copyright 2026, XR Trading LLC. All Rights Reserved. Site By: PUREi",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Chicag",
+    "snippet": "rking at XR Contact XR Trading LLC 550 West Jackson Boulevard Suite 1000 Chicago, IL 60661 If you are interested in a position at XR Trading, please do not use this page to contact XR Trading, but rather follow this link to apply . If XR Trading",
+    "url": "https://www.xrtrading.com/contact",
+    "kind": "page"
+   },
+   {
+    "value": "a position at XR Trading, please do not use this pag",
+    "snippet": "C 550 West Jackson Boulevard Suite 1000 Chicago, IL 60661 If you are interested in a position at XR Trading, please do not use this page to contact XR Trading, but rather follow this link to apply . If XR Trading is interested in your application, we will contact you directly from our official applica",
+    "url": "https://www.xrtrading.com/contact",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "eader in the global derivatives marketplace",
+    "snippet": "multiple asset classes. We design and build cutting-edge technology and serve as a leader in the global derivatives marketplace. Traders, developers and most technical staff have the option of working fully remote at XR. This allows us to recruit the very best talent regardless of location and i",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam members - traders, software engineers and quants - work side-by-side in an open, collaborative environment",
+    "snippet": "ket-making approach. We respond quickly to constantly evolving markets, because our team members - traders, software engineers and quants - work side-by-side in an open, collaborative environment. This unique approach enables us to successfully leverage our strategies across a multitude of products and global exchanges. Our success begins",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eam effort",
+    "snippet": "success begins with talented individuals -and is maintained and driven by a unified team effort. NOTICE: XR Trading LLC and its affiliates will not accept outside investment or solicit client funds for investment purposes. Please note XR Trading will only contac",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "ease note XR Trading will only contact you regarding job opportunities if you have applied through our official website,",
+    "snippet": "l not accept outside investment or solicit client funds for investment purposes. Please note XR Trading will only contact you regarding job opportunities if you have applied through our official website, and all legitimate communications from XR Trading will come from our official email domain \u2014 ignore and report any phishing or spam mess",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eams collectively implement our trading strategies, while monitoring the markets to ensure our strategies are effectivel",
+    "snippet": "messages requesting personal information or payment. Trading Our trading teams collectively implement our trading strategies, while monitoring the markets to ensure our strategies are effectively reacting to changing market conditions. In addition, our traders participate in cross-functional teams, comprising traders, software engineers a",
+    "url": "https://www.xrtrading.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "XRRecruitingTeam@xrtrading.com",
+    "snippet": "u directly from our official applicant tracking system, Paylocity, or email address: XRRecruitingTeam@xrtrading.com . Embedding Form Contact Form Excellence Integrity Collaboration Respect Contact Open Positions Affiliates Copyright 2026, XR Trading LLC. All",
+    "url": "https://www.xrtrading.com/contact",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}

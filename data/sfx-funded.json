@@ -1,0 +1,645 @@
+{
+ "slug": "sfx-funded",
+ "name": "SFX Funded",
+ "category": "Forex/CFD",
+ "url": "https://sfxfunded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://sfxfunded.com/",
+   "kind": "home",
+   "chars": 13678
+  },
+  {
+   "url": "https://sfxfunded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 24986
+  },
+  {
+   "url": "https://sfxfunded.com/compare-plans",
+   "kind": "page",
+   "chars": 8338
+  },
+  {
+   "url": "https://sfxfunded.com/blog/forex-prop-firm-changes-rules-mid-challenge",
+   "kind": "page",
+   "chars": 9262
+  },
+  {
+   "url": "https://sfxfunded.com/blog/understanding-prop-firm-evaluation-rules-understanding-prop-firm-evaluation-rules",
+   "kind": "page",
+   "chars": 8821
+  },
+  {
+   "url": "https://sfxfunded.com/blog/benefits-structured-forex-trading-plan",
+   "kind": "page",
+   "chars": 7403
+  },
+  {
+   "url": "https://sfxfunded.com/blog/tips-passing-prop-firm-challenge",
+   "kind": "page",
+   "chars": 10469
+  },
+  {
+   "url": "https://sfxfunded.com/blog/challenges-solutions-prop-trading-for-beginners",
+   "kind": "page",
+   "chars": 8048
+  },
+  {
+   "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+   "kind": "page",
+   "chars": 10875
+  },
+  {
+   "url": "https://sfxfunded.com/blog/pass-prop-firm-challenge",
+   "kind": "page",
+   "chars": 12641
+  },
+  {
+   "url": "https://sfxfunded.com/blog/stress-management-techniques-for-day-trading-prop-firm-challenges",
+   "kind": "page",
+   "chars": 9769
+  },
+  {
+   "url": "https://sfxfunded.com/rapid-challenge",
+   "kind": "page",
+   "chars": 8319
+  },
+  {
+   "url": "https://sfxfunded.com/2-step-challenge",
+   "kind": "page",
+   "chars": 9340
+  },
+  {
+   "url": "https://sfxfunded.com/blog/work-life-balance-challenges-forex-proprietary-traders",
+   "kind": "page",
+   "chars": 7359
+  }
+ ],
+ "page_count": 14,
+ "total_chars": 149321,
+ "findings": {
+  "profit_target": [
+   {
+    "value": "100",
+    "snippet": "ne-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 3% Max loss 6% Profit target None Reward split 85\u2013100% Evaluation Instant Time limit None Leverage 1:30 Rewards On demand Average reward $1,509 Trusted by 32000+ users globally Highest paid trader $89,164.12 Total rewa",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "ne-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 4% Max loss 8% Profit target 8% \u2192 5% Reward split 85\u2013100% Evaluation 2 phases Time limit None Leverage 1:30 Rewards On demand Average reward $1,132 What\u2019s included in all plans Standard on every pla",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "Structure SFX Funded's 2-Step Evaluation is straightforward. Phase 1 requires an 8% profit target with a 4% maximum daily loss and 8% maximum overall drawdown. Phase 2 requires a 5% profit target with the same drawdown limits. No time limits. No minimum trading days. No restri",
+    "url": "https://sfxfunded.com/blog/pass-prop-firm-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "3",
+    "snippet": "no time limit, and no minimum trading days - pass in a day if your strategy allows. Profit target 3% Max daily loss 3% Max loss 4% Minimum trading days None \u201c I passed phase 1 in eight trading days and phase 2 in five. My funded account was given 10 hours after I pass",
+    "url": "https://sfxfunded.com/rapid-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "Challenge compared with other firms Others Other firms 3% target SFX Rapid Challenge Profit target 10% 3% Minimum trading days Required None Time limit None None Hold overnight and weekends Often restricted Allowed Reward share from phase 1 None 20% First reward 14\u201330 day",
+    "url": "https://sfxfunded.com/rapid-challenge",
+    "kind": "page"
+   }
+  ],
+  "daily_loss": [
+   {
+    "value": "3",
+    "snippet": "t $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 3% Max loss 6% Profit target None Reward split 85\u2013100% Evaluation Instant Time limit None Leverage 1:30 Rewards On demand Average reward $1,509 Trusted by 32000+ users gl",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "100",
+    "snippet": "o No daily loss The 1-Step Pro plan has no daily drawdown limit. 9% profit target No daily drawdown at all No time limit Up to 100% reward split From $59 Select the 1-Step Pro plan, from $59 Get Started - see 1-Step Pro account sizes and prices Two Step Challenge Best value The 2-Step Challenge plan",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "t $ 149 $ 299 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 4% Max loss 8% Profit target 8% \u2192 5% Reward split 85\u2013100% Evaluation 2 phases Time limit None Leverage 1:30 Rewards On demand Average reward $1,132 What\u2019s included in all",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   },
+   {
+    "value": "8",
+    "snippet": "l. Our 2-Step program has fixed targets: 8% in Phase 1, 5% in Phase 2, with a 4% max daily loss and 8% max loss. Leverage is 1:30. Those numbers don't move. Our Rapid program has a single 3% target. Max daily loss is 3%. Max loss is 4%. No minimum trading days. If you hi",
+    "url": "https://sfxfunded.com/blog/forex-prop-firm-changes-rules-mid-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "5",
+    "snippet": "rading policies, lot size maximums. Before trading a single lot, know: - What's the daily drawdown limit? (Typically 4-5%) - What's the maximum drawdown limit? (Typically 8-10%) - Is the drawdown calculated from starting balance or highest equity? - Are there any restricted instruments o",
+    "url": "https://sfxfunded.com/blog/tips-passing-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "max_drawdown": [
+   {
+    "value": "6",
+    "snippet": "Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 3% Max loss 6% Profit target None Reward split 85\u2013100% Evaluation Instant Time limit None Leverage 1:30 Rewards On demand Average reward $1,509 Trusted by 32000+ users globally High",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "8",
+    "snippet": "Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 4% Max loss 8% Profit target 8% \u2192 5% Reward split 85\u2013100% Evaluation 2 phases Time limit None Leverage 1:30 Rewards On demand Average reward $1,132 What\u2019s included in all plans Stan",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   },
+   {
+    "value": "4",
+    "snippet": "numbers don't move. Our Rapid program has a single 3% target. Max daily loss is 3%. Max loss is 4%. No minimum trading days. If you hit 3%, you pass. No one moves the line. Our Instant program has no profit target at all. No evaluation. You buy the account and you're",
+    "url": "https://sfxfunded.com/blog/forex-prop-firm-changes-rules-mid-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "10",
+    "snippet": "single lot, know: - What's the daily drawdown limit? (Typically 4-5%) - What's the maximum drawdown limit? (Typically 8-10%) - Is the drawdown calculated from starting balance or highest equity? - Are there any restricted instruments or trading hours? - What's the profit target to pass? A",
+    "url": "https://sfxfunded.com/blog/tips-passing-prop-firm-challenge",
+    "kind": "page"
+   },
+   {
+    "value": "0.5",
+    "snippet": "easures. Reduce position size when drawdown exceeds 4%. Once you're past 50% of the maximum drawdown, cut your risk per trade to 0.5%. You need to protect remaining capital more aggressively. One bad trade at this stage could end the challenge. Step away after drawdown days. If you take a 2%+ loss in",
+    "url": "https://sfxfunded.com/blog/pass-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "profit_split": [
+   {
+    "value": "100",
+    "snippet": "r and the firm. At SFX Funded, that means simulated accounts up to $500K and up to a 100% reward split on the profits you generate. What are the pros and cons of trading a simulated funded account? Advantages include access to capital, training, and the potential for hig",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "85",
+    "snippet": "earning 5% per month on a $20,000 account generates $1,000 in profit. Profit split: 85% starting split means you keep $850 from that $1,000. As your split scales toward 100%, you keep more. Monthly payout: $850 to $1,000 per month, depending on your split level. Breakev",
+    "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+    "kind": "page"
+   },
+   {
+    "value": "40",
+    "snippet": "refundable. Rewards on demand Request a reward after as few as 3 trading days at a 40% split, or hit the standard milestones and take 85%. Hold overnight and weekends Positions can stay open through the session close and across the weekend. No forced flat. Sc",
+    "url": "https://sfxfunded.com/2-step-challenge",
+    "kind": "page"
+   }
+  ],
+  "min_trading_days": [
+   {
+    "value": "10",
+    "snippet": "ation with a 3% target. 3% profit target One phase - pass in a day No time limit, no minimum trading days Up to 100% reward split From $79 Select the Rapid Challenge plan, from $79 Get Started - see Rapid Challenge account sizes and prices One Step Pro No daily loss The 1-Step Pro pl",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   },
+   {
+    "value": "1",
+    "snippet": "ss in a day if your strategy allows. Profit target 3% Max daily loss 3% Max loss 4% Minimum trading days None \u201c I passed phase 1 in eight trading days and phase 2 in five. My funded account was given 10 hours after I passed phase 2. My first payout was approved within 8 hours. \u201d Bonnie Matson, Uni",
+    "url": "https://sfxfunded.com/rapid-challenge",
+    "kind": "page"
+   }
+  ],
+  "account_sizes": [
+   {
+    "value": "5",
+    "snippet": "lect model 2-Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 1",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "model 2-Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% R",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "l 2-Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refund",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Starte",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Para",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250",
+    "snippet": "Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "nt Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "400",
+    "snippet": "t popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max daily",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "prices": [
+   {
+    "value": "500,00",
+    "snippet": "Get Started Log In Rated 4.85 /5 by 4,150 traders Trade simulated capital up to $500,000 Choose your plan, trade your strategy, and keep up to 100% of your profits.* Get Started *All trading takes place in a simulated environment. Rewards are subject to pr",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "3",
+    "snippet": "ment. Rewards are subject to program rules. Traders worldwide 32,000+ Total rewards $3.5M+ Average reward time < 8 hours How it works Your strategy, no personal risk. You are never liable for simulated losses. 01 Choose your plan Pick your plan type,",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5,00",
+    "snippet": "losses. 01 Choose your plan Pick your plan type, platform and account size - from $5,000 up to $500,000. One price, published up front. 2-Step Best value 1-Step Instant Most popular \u201c The customer service is excellent and the prices are slightly lower co",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "5",
+    "snippet": "lect model 2-Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "10",
+    "snippet": "model 2-Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100%",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "20",
+    "snippet": "l 2-Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refun",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "40",
+    "snippet": "Step Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "80",
+    "snippet": "Best value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "150",
+    "snippet": "value 1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Start",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "200",
+    "snippet": "1-Step Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Par",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "250",
+    "snippet": "Instant Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameter",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "300",
+    "snippet": "nt Most popular Step 2 - Select account $5K $10K $20K $40K $80K $150K $200K $250K $300K $400K Step 3 - Select platform MatchTrader Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "drawdown_type": [
+   {
+    "value": "Static",
+    "snippet": "iving drawdown. Lowest entry price of any program Pass two phases with no time limit Static drawdowns Up to 100% reward split From $39 Select the 2-Step Challenge plan, from $39 Get Started - see 2-Step Challenge account sizes and prices Two Step Challenge pricing St",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   }
+  ],
+  "consistency": [
+   {
+    "value": "consistency requirements actually mean for your\u2026\n Read article \n Forex Trading Updated 8 October 2026 Best Funded",
+    "snippet": "les are created equal. Here is what drawdown types, profit targets, time limits, and consistency requirements actually mean for your\u2026 Read article Forex Trading Updated 8 October 2026 Best Funded Trading Accounts in 2026: How to Tell Them Apart How to compare funded trading accounts on rules and payouts rather than sticker price, what sep",
+    "url": "https://sfxfunded.com/blog/forex-prop-firm-changes-rules-mid-challenge",
+    "kind": "page"
+   }
+  ],
+  "payout_frequency": [
+   {
+    "value": "Monthly",
+    "snippet": "ns you keep $850 from that $1,000. As your split scales toward 100%, you keep more. Monthly payout: $850 to $1,000 per month, depending on your split level. Breakeven: the challenge fee is recovered on your first payout because it is refunded. From month two onward,",
+    "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+    "kind": "page"
+   }
+  ],
+  "payout_methods": [
+   {
+    "value": "rise",
+    "snippet": "g 5% per month at 85% split generates $10,200 in the first year. At 100% split, that rises to $12,000. Scaling the account size through performance increases those numbers further. Compare to a traditional evaluation where the fee is not refunded. A $300 non",
+    "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+    "kind": "page"
+   }
+  ],
+  "regulation": [
+   {
+    "value": "Mas",
+    "snippet": "States Real traders, real success Hear from some of our successful traders. Neil Massachusetts, USA Verified trader testimonial from Massachusetts, USA . John Florida, USA Verified trader testimonial from Florida, USA . Cameron South Africa Verified trader testimonial from South Africa . Josh Australia Verified",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Sca",
+    "snippet": "ithin 48 hours or we pay you an extra $1,000. Average reward time is under 8 hours. Scale to $3.2M Grow your allocation as you stay consistent, with reward splits scaling from 85% up to 100%. No hidden rules Every objective is published up front, and nothing cha",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "nfa",
+    "snippet": "ng-guide 2026-08-21T14:08:26.143Z monthly 0.7 https://sfxfunded.com/blog/disputing-unfair-trade-reviews-with-top-proprietary-trading-firms 2026-08-21T14:08:36.127Z monthly 0.7 https://sfxfunded.com/blog/trading-performance-tracking-shows-inconsistent-results 2026-08-21T14:11:29.386Z monthly 0.7 https://sfxfunded.com/blog/red",
+    "url": "https://sfxfunded.com/sitemap.xml",
+    "kind": "sitemap"
+   },
+   {
+    "value": "asic",
+    "snippet": "Reviews Blog About Affiliates Contact FAQ Get Started Log In Home Blog Prop Firm Basics Prop Firm Evaluation Rules Prop Firm Evaluation Rules: What Actually Matters Prop firm rules can be confusing. Here is what actually matters in an evaluation and how to compare programs effectively. Husam Samy Published 10 July 2026 \u00b7 Updated 21 August",
+    "url": "https://sfxfunded.com/blog/understanding-prop-firm-evaluation-rules-understanding-prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "legal_entity": [
+   {
+    "value": "ly loss One phase, with no daily drawdown at any stag",
+    "snippet": "llenge 3% target One phase, 3% target. Our fastest route to funded. 1-Step Pro No daily loss One phase, with no daily drawdown at any stage. 2-Step Challenge Best value Two phases, our lowest entry price and widest drawdown. Instant Plans Most popular Skip the evaluation. Trade a simulated funded account fr",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Averag",
+    "snippet": "ewards are subject to program rules. Traders worldwide 32,000+ Total rewards $3.5M+ Average reward time < 8 hours How it works Your strategy, no personal risk. You are never liable for simulated losses. 01 Choose your plan Pick your plan type, platform a",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Massachusetts, USA",
+    "snippet": "States Real traders, real success Hear from some of our successful traders. Neil Massachusetts, USA Verified trader testimonial from Massachusetts, USA . John Florida, USA Verified trader testimonial from Florida, USA . Cameron South Africa Verified trader testi",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Verified trader testimonial from Massachusetts, USA",
+    "snippet": ", real success Hear from some of our successful traders. Neil Massachusetts, USA Verified trader testimonial from Massachusetts, USA . John Florida, USA Verified trader testimonial from Florida, USA . Cameron South Africa Verified trader testimonial from South Africa . Josh Australia Verified",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Florida, USA",
+    "snippet": "il Massachusetts, USA Verified trader testimonial from Massachusetts, USA . John Florida, USA Verified trader testimonial from Florida, USA . Cameron South Africa Verified trader testimonial from South Africa . Josh Australia Verified trader testimonial fr",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Verified trader testimonial from Florida, USA",
+    "snippet": "tts, USA Verified trader testimonial from Massachusetts, USA . John Florida, USA Verified trader testimonial from Florida, USA . Cameron South Africa Verified trader testimonial from South Africa . Josh Australia Verified trader testimonial from Australia . SFX trader Nottingham, UK Ver",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Recognised by the industry sinc",
+    "snippet": "gham, UK Verified trader testimonial from Nottingham, UK . A firm you can trust Recognised by the industry since 2024. Fastest Growing Proprietary Trading Firm World Business Outlook \u00b7 UAE 2024 Excellence in Finance - Proprietary Trading FINEXT Award \u00b7 Dubai, Feb 2025 L",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "International Business Mag",
+    "snippet": "- Proprietary Trading FINEXT Award \u00b7 Dubai, Feb 2025 Leading Prop Trading Firm International Business Magazine \u00b7 Middle East 2024 Global Prop Firm of the Month Forex Prop Reviews \u00b7 Nov 2025 Most Trusted Prop Firm FX Prop Awards \u00b7 Nov 2025 Fastest Growing Proprieta",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "refund": [
+   {
+    "value": "Refund | Code: LEVELUP \n Home Plans Rapid Challenge 3% target One phase, 3% target",
+    "snippet": "Firm | Prop Firm With No Limit | SFX Funded Skip to content \ud83c\udf81 50% OFF + BOGO + 200% Refund | Code: LEVELUP Home Plans Rapid Challenge 3% target One phase, 3% target. Our fastest route to funded. 1-Step Pro No daily loss One phase, with no daily drawdown at any stage. 2-Step Challenge Best value Two phases, our lowest entry price and",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund | Code: LEVELUP \n Home Plans Rapid Challenge 3% target 1-Step Pro No daily loss 2-Step Challenge Best value Insta",
+    "snippet": "views Blog About Affiliates Contact FAQ Log In Get Started \ud83c\udf81 50% OFF + BOGO + 200% Refund | Code: LEVELUP Home Plans Rapid Challenge 3% target 1-Step Pro No daily loss 2-Step Challenge Best value Instant Plans Most popular Compare our plans Reviews Blog About Affiliates Contact FAQ Get Started Log In Rated 4.85 /5 by 4,150 traders Trade s",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refundable\n Get Started Parameters\n Max daily loss 3% Max loss 6% Profit target None Reward split 85\u2013100% Evaluation Ins",
+    "snippet": "r Platform 5 Your account $80K Account $ 344 $ 689 Save 50 % One-time fee \u00b7 100% Refundable Get Started Parameters Max daily loss 3% Max loss 6% Profit target None Reward split 85\u2013100% Evaluation Instant Time limit None Leverage 1:30 Rewards On demand Average reward $1,509 Trusted by 32000+ users globally Highest paid trader $89,164.12 To",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Refund Policy \n Risk Disclaimer\n All trading on the SFX Funded platform is conducted in a simulated environment using vi",
+    "snippet": "ompany Reviews Blog About Affiliates Contact Legal Privacy Policy Terms of Service Refund Policy Risk Disclaimer All trading on the SFX Funded platform is conducted in a simulated environment using virtual funds. SFX Funded is not a broker and does not accept deposits for the purpose of trading on live markets. Nothing on this website con",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "news_rule": [
+   {
+    "value": "news trading, weekend holding, or specific strategies",
+    "snippet": "d of giving you a specific timeframe, expect delays. Restrictions on trading style, news trading, weekend holding, or specific strategies. These limit your ability to trade your edge. How SFX Funded Structures Its Programs SFX Funded offers three paths, each with transparent, clearly-stated terms. Two-St",
+    "url": "https://sfxfunded.com/blog/understanding-prop-firm-evaluation-rules-understanding-prop-firm-evaluation-rules",
+    "kind": "page"
+   },
+   {
+    "value": "news trading policies, lot size maximums",
+    "snippet": "m daily drawdown, overall drawdown limits, profit targets, restricted trading times, news trading policies, lot size maximums. Before trading a single lot, know: - What's the daily drawdown limit? (Typically 4-5%) - What's the maximum drawdown limit? (Typically 8-10%) - Is the drawdown calcu",
+    "url": "https://sfxfunded.com/blog/tips-passing-prop-firm-challenge",
+    "kind": "page"
+   }
+  ],
+  "automation": [
+   {
+    "value": "Earn rewards\n Keep up to 100% of your simulated profits",
+    "snippet": "count was given 10 hours after I passed phase 2. \u201d Bonnie Matson, United Kingdom 03 Earn rewards Keep up to 100% of your simulated profits. Request a reward whenever you are eligible, backed by our 48-Hr Reward Security. $3.5M + Total rewarded to traders \u201c My payout was faster than expected. I had my app",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eal traders, real success\n Hear from some of our successful traders",
+    "snippet": "10 hours and the funds in my account shortly after. \u201d Sarah Charles, United States Real traders, real success Hear from some of our successful traders. Neil Massachusetts, USA Verified trader testimonial from Massachusetts, USA . John Florida, USA Verified trader testimonial from Florida, USA . Cameron South Af",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eading Prop Trading Firm\n International Business Magazine \u00b7 Middle East 2024\n \n Global Prop Firm of the Month\n Forex Pro",
+    "snippet": "4 Excellence in Finance - Proprietary Trading FINEXT Award \u00b7 Dubai, Feb 2025 Leading Prop Trading Firm International Business Magazine \u00b7 Middle East 2024 Global Prop Firm of the Month Forex Prop Reviews \u00b7 Nov 2025 Most Trusted Prop Firm FX Prop Awards \u00b7 Nov 2025 Fastest Growing Proprietary Trading Firm World Business Outlook \u00b7 UAE 2024 Ex",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "eature you need to grow your trading talent, in one place",
+    "snippet": "1,000 Countries Served 130+ Get Started Why traders choose SFX Funded Every feature you need to grow your trading talent, in one place. Earn 20% during your evaluation The only firm that pays you a share of the simulated profits you make while still proving your edge. 48-Hr Reward Security Receive y",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "Earn 20% during your evaluation\n The only firm that pays you a share of the simulated profits you make while still provi",
+    "snippet": "hoose SFX Funded Every feature you need to grow your trading talent, in one place. Earn 20% during your evaluation The only firm that pays you a share of the simulated profits you make while still proving your edge. 48-Hr Reward Security Receive your reward within 48 hours or we pay you an extra $1,000. Average reward time is under 8 hour",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "contact_email": [
+   {
+    "value": "support@sfxfunded.com",
+    "snippet": "lue straightforward rules, modern trading tools, and support that keeps you moving. support@sfxfunded.com Programs Rapid Challenge 1-Step Pro 2-Step Challenge Instant Plans Compare Plans Company Reviews Blog About Affiliates Contact Legal Privacy Policy Terms of Service R",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   }
+  ],
+  "payout_speed": [
+   {
+    "value": "within 8 hours",
+    "snippet": "ase 2 in five. My funded account was given 10 hours after I passed phase 2. My first payout was approved within 8 hours. United Kingdom Bonnie Matson I can recommend SFX on the basis that they offer a payout guarantee and actually process payouts quickly and fairly. Germany Sam Wallace Be",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "48 Hours",
+    "snippet": "how you trade. Read article Prop Firm Basics Updated 19 September 2026 SFX Funded Payout Guarantee: 48 Hours or We Pay You $1,000 Slow payouts are the biggest frustration for funded traders. Here is how SFX Funded's 48-hour payout guarantee works and why it matters. Read arti",
+    "url": "https://sfxfunded.com/blog/understanding-prop-firm-evaluation-rules-understanding-prop-firm-evaluation-rules",
+    "kind": "page"
+   }
+  ],
+  "leverage": [
+   {
+    "value": "1:30",
+    "snippet": "x loss 6% Profit target None Reward split 85\u2013100% Evaluation Instant Time limit None Leverage 1:30 Rewards On demand Average reward $1,509 Trusted by 32000+ users globally Highest paid trader $89,164.12 Total rewards paid $3.5M+ Average reward $1,132 Average re",
+    "url": "https://sfxfunded.com/",
+    "kind": "home"
+   },
+   {
+    "value": "1:20",
+    "snippet": "e you 1:50 leverage. You build a strategy around that. Mid-challenge, the firm drops leverage to 1:20. Your position sizing is now wrong. Your risk-to-reward ratios are off. You might have to double your risk to hit the same target, which increases your chance of hitting",
+    "url": "https://sfxfunded.com/blog/forex-prop-firm-changes-rules-mid-challenge",
+    "kind": "page"
+   }
+  ],
+  "kyc": [
+   {
+    "value": "KYC, receive your simulated funded account, and keep up to 100% of your simulated profits",
+    "snippet": "s approved within 8 hours. \u201d Bonnie Matson , United Kingdom 03 Get funded Complete KYC, receive your simulated funded account, and keep up to 100% of your simulated profits. 8 hrs Average reward time \u201c My payout was faster than expected. I had my approval email within 10 hours and the funds in my account shortly after. A huge thank you f",
+    "url": "https://sfxfunded.com/2-step-challenge",
+    "kind": "page"
+   }
+  ],
+  "fees": [
+   {
+    "value": "subscriptions, recurring charges, or hidden ongoing fees",
+    "snippet": "one-time payment? Yes. The fee shown at checkout is a one-time payment. There are no subscriptions, recurring charges, or hidden ongoing fees. What happens if I fail the evaluation? That account closes with no additional charges or liability. To try again, purchase a new evaluation. Each evaluation is a fresh",
+    "url": "https://sfxfunded.com/compare-plans",
+    "kind": "page"
+   },
+   {
+    "value": "subscription or a service charge",
+    "snippet": "s to the fee if you pass. What You Are Actually Paying For A challenge fee is not a subscription or a service charge. It is the cost of getting access to capital you do not have. The fee covers the firm's risk of setting up your account, the evaluation infrastructure, and the ongoing c",
+    "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fees, inactivity fees, or platform fees after you pass",
+    "snippet": "y priced challenge with a 100% split. What are the ongoing costs? Some firms charge monthly fees, inactivity fees, or platform fees after you pass. SFX Funded has no monthly fees, no inactivity fees, and no hidden charges. The challenge fee is the only cost. The Real Cost of Failure Failing a challenge costs you t",
+    "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+    "kind": "page"
+   },
+   {
+    "value": "monthly fees, no inactivity fees, and no hidden charges",
+    "snippet": "ge monthly fees, inactivity fees, or platform fees after you pass. SFX Funded has no monthly fees, no inactivity fees, and no hidden charges. The challenge fee is the only cost. The Real Cost of Failure Failing a challenge costs you the fee. That is the direct cost. The indirect cost is the time and emotiona",
+    "url": "https://sfxfunded.com/blog/prop-firm-challenge-cost-value",
+    "kind": "page"
+   },
+   {
+    "value": "subscriptions or recurring charges",
+    "snippet": "payment for access to the evaluation and simulated trading environment. There are no subscriptions or recurring charges. Turn your trading skills into rewards Get Started Subscribe to Our newsletter Be the first to hear the latest updates Receive exclusive discounts and promotions",
+    "url": "https://sfxfunded.com/rapid-challenge",
+    "kind": "page"
+   }
+  ]
+ },
+ "programs": [
+  {
+   "name": "Instant Funding",
+   "snippet": "offer a payout guarantee and actually process payouts quickly and fairly. Germany Sam Wallace Best instant funding program currently on offer in the industry. United States Richard Ashworth My payout was faster than expected. I had my approval email within 10 hours and the",
+   "url": "https://sfxfunded.com/"
+  },
+  {
+   "name": "1-Step",
+   "snippet": ": LEVELUP Home Plans Rapid Challenge 3% target One phase, 3% target. Our fastest route to funded. 1-Step Pro No daily loss One phase, with no daily drawdown at any stage. 2-Step Challenge Best value Two phases, our lowest entry price and widest drawdown. Instant P",
+   "url": "https://sfxfunded.com/"
+  },
+  {
+   "name": "2-Step",
+   "snippet": "r fastest route to funded. 1-Step Pro No daily loss One phase, with no daily drawdown at any stage. 2-Step Challenge Best value Two phases, our lowest entry price and widest drawdown. Instant Plans Most popular Skip the evaluation. Trade a simulated funded account f",
+   "url": "https://sfxfunded.com/"
+  }
+ ],
+ "platforms": [
+  "MetaTrader 5",
+  "Match-Trader"
+ ],
+ "assets": [
+  "Forex",
+  "FX",
+  "Energy",
+  "Stocks",
+  "Futures",
+  "Options"
+ ],
+ "coupon_codes": [],
+ "claims": [
+  "popular Compare our plans Reviews Blog About Affiliates Contact FAQ Get Started Log In Rated 4.85 /5 by 4,150 traders Trade simulated capital up to $500,000 Choose your plan, tr",
+  "otal rewards paid $3.5M+ Average reward $1,132 Average reward time 8 hrs Rewards paid in 48 hours or we add $1,000 Countries Served 130+ Get Started Why traders choose SFX Funded",
+  ". No fixed bi-weekly cycle and no approval queue to wait out. What our traders have to say Rated 4.85 /5 by 4,150 traders Verified trader video testimonials from SFX Funded traders",
+  "le: average reward time is under 8 hours, backed by our 48-Hr Reward Security, with $3.5M+ in rewards paid to 32,000+ traders across 130+ countries. Are there any additional costs for",
+  "is under 8 hours, backed by our 48-Hr Reward Security, with $3.5M+ in rewards paid to 32,000+ traders across 130+ countries. Are there any additional costs for traders to join SFX Fu",
+  "omplaints about rule changes. If the firm has a history of changing rules, walk away. SFX Funded serves over 32,000 traders across 130+ countries. We've paid out over $3 million in re"
+ ],
+ "errors": []
+}

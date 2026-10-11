@@ -1,0 +1,29 @@
+{
+ "slug": "2funded",
+ "name": "2Funded",
+ "category": "Specialist",
+ "url": "https://2funded.com/",
+ "status": "ok",
+ "discovery": null,
+ "pages": [
+  {
+   "url": "https://2funded.com/",
+   "kind": "home",
+   "chars": 0
+  },
+  {
+   "url": "https://2funded.com/sitemap.xml",
+   "kind": "sitemap",
+   "chars": 26
+  }
+ ],
+ "page_count": 2,
+ "total_chars": 27,
+ "findings": {},
+ "programs": [],
+ "platforms": [],
+ "assets": [],
+ "coupon_codes": [],
+ "claims": [],
+ "errors": []
+}
